@@ -1,113 +1,70 @@
-from flask import Flask, render_template, request
-import requests
-import time
+from googleapiclient.discovery import build
+import json
+import re
+import os
 
-app = Flask(__name__)
+API_KEY = os.getenv("OPENYOUTUBE_API_KEY")
 
+youtube = build("youtube", "v3", developerKey=API_KEY)
 
-# GitHub JSON 데이터 URL
-owner = "1hyeokk"
-repo = "Trendy_videos"
-GITHUB_JSON_URL = f"https://raw.githubusercontent.com/{owner}/{repo}/main/templates/trending_videos.json"
+def convert_duration(iso_duration):
+    pattern = re.compile(r'PT(\d+H)?(\d+M)?(\d+S)?')
+    matches = pattern.match(iso_duration)
 
-# 🔹 공통으로 사용할 JSON 데이터 로드 함수
-def fetch_videos():
-    response = requests.get(GITHUB_JSON_URL)
-    if response.status_code == 200:
-        return response.json()  # JSON 데이터를 리스트로 변환하여 반환
-    return []  # 실패 시 빈 리스트 반환
+    hours = int(matches.group(1)[:-1]) if matches.group(1) else 0
+    minutes = int(matches.group(2)[:-1]) if matches.group(2) else 0
+    seconds = int(matches.group(3)[:-1]) if matches.group(3) else 0
 
-videos = fetch_videos()  # JSON 데이터 한 번만 호출
+    return f"{hours}:{minutes:02}:{seconds:02}" if hours > 0 else f"{minutes}:{seconds:02}"
 
-def conver_time(duration):
-    parts = list(map(int, duration.split(":")))
-    if len(parts) == 3:
-        return parts[0] * 3600 + parts[1] * 60 + parts[2]
-    return parts[0] * 60 + parts[1]
-
-@app.route("/")
-def home():
-    duration_filter = request.args.get("duration", "")
-
-    # 필터링 적용
-    filtered_videos = []
-    for video in videos:
-        vs = conver_time(video["duration"])
-
-        if duration_filter == "under15" and vs < 900:
-            filtered_videos.append(video)
-        elif duration_filter == "15to30" and 900 <= vs <= 1800:
-            filtered_videos.append(video)
-        elif duration_filter == "over30" and vs > 1800:
-            filtered_videos.append(video)
-        if not duration_filter:
-            filtered_videos = videos
-    return render_template("index.html", videos=filtered_videos, selected_filter=duration_filter)
-
-
-
-API_KEY = "AIzaSyDZEXwvA4NHFHak9LJKrocMn53HpbNPNPQ"
-CACHE = {}  # 캐싱된 댓글 저장
-CACHE_EXPIRY = 60 * 60  # 1시간 캐싱 유지
-
-def get_best_comments(video_id):
-    """YouTube API에서 베스트 댓글을 가져오는 함수"""
-    # 캐시된 데이터가 있으면 반환 (API 호출 최소화)
-    if video_id in CACHE and time.time() - CACHE[video_id]["timestamp"] < CACHE_EXPIRY:
-        print(f"[CACHE HIT] {video_id}의 댓글을 캐시에서 가져옴")
-        return CACHE[video_id]["comments"]
-
-    url = "https://www.googleapis.com/youtube/v3/commentThreads"
-    params = {
-        "part": "snippet",
-        "videoId": video_id,
-        "key": API_KEY,
-        "order": "relevance",  # 인기순 정렬
-        "maxResults": 5
-    }
-
-    response = requests.get(url, params=params)
-    data = response.json()
-
-    if "error" in data:
-        print(f"❌ YouTube API 오류 발생: {data['error']['message']}")
-        return []
-
-    comments = []
-    for item in data.get("items", []):
-        snippet = item["snippet"]["topLevelComment"]["snippet"]
-        comments.append({
-            "author": snippet["authorDisplayName"],
-            "text": snippet["textDisplay"],
-            "likes": snippet.get("likeCount", 0)  # 좋아요 수 추가
-        })
-
-    # 캐시에 저장
-    CACHE[video_id] = {
-        "comments": comments,
-        "timestamp": time.time()
-    }
-
-    return comments
-
-@app.route('/best_comments')
-def best_comments():
-    """index 페이지에서 요청한 후, best_comments.html에 댓글 전달"""
-    video_id = request.args.get("video_id")
-    video_title = request.args.get("title")
-
-    if not video_id:
-        return "잘못된 요청입니다. video_id가 필요합니다.", 400
-
-    # YouTube API에서 베스트 댓글 가져오기
-    comments = get_best_comments(video_id)
-
-    return render_template(
-        "best_comments.html",
-        title=video_title,
-        url=f"https://www.youtube.com/watch?v={video_id}",
-        comments=comments
+def get_video_categories(region_code="KR"):
+    """YouTube API에서 카테고리 ID와 이름을 가져오는 함수"""
+    request = youtube.videoCategories().list(
+        part="snippet",
+        regionCode=region_code
     )
+    response = request.execute()
 
-if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+    category_map = {item["id"]: item["snippet"]["title"] for item in response.get("items", [])}
+    return category_map
+
+def get_trending_videos(region_code="KR", max_results=42):
+    """인기 동영상 목록 가져오기"""
+    category_map = get_video_categories(region_code)  # ✅ 카테고리 ID-이름 매핑 가져오기
+
+    request = youtube.videos().list(
+        part="id,snippet,contentDetails,statistics",
+        chart="mostPopular",
+        regionCode=region_code,
+        maxResults=max_results
+    )
+    response = request.execute()
+
+    videos = []
+    for item in response.get("items", []):
+        category_id = item["snippet"].get("categoryId", "0")
+        category_name = category_map.get(category_id, "알 수 없음")  # ✅ 카테고리 이름 가져오기
+
+        video_data = {
+            "video_id": item["id"],
+            "title": item["snippet"]["title"],
+            "channel_name": item["snippet"]["channelTitle"],
+            "category": category_name,  # ✅ 카테고리 추가
+            "duration": convert_duration(item["contentDetails"]["duration"]),  
+            "view_count": item["statistics"].get("viewCount", "0"),
+            "thumbnail_url": item["snippet"]["thumbnails"]["high"]["url"]
+        }
+        videos.append(video_data)
+
+    return videos
+
+SAVE_DIR = "templates"
+os.makedirs(SAVE_DIR, exist_ok=True)  # 폴더가 없으면 생성
+SAVE_PATH = os.path.join(SAVE_DIR, "trending_videos.json")  # 최종 파일 경로
+
+trending_videos = get_trending_videos()
+
+with open(SAVE_PATH, "w", encoding="utf-8") as file:
+    json.dump(trending_videos, file, ensure_ascii=False, indent=4)
+
+print(f"데이터 저장 완료: {SAVE_PATH}")
