@@ -6,20 +6,25 @@ YouTube 트렌딩 비디오 페이지에 영상 길이 필터 기능을 추가�
 ---
 
 ## 📂 파일 구성
-- `ytcrawler.py` : YouTube 트렌딩 데이터를 크롤링하는 스크립트
-- `ytapp.py` : Flask 서버를 실행하는 애플리케이션
-- `index.html` : 웹 페이지의 프론트엔드 파일
+- `ytcrawler.py` : YouTube 트렌딩 데이터를 크롤링하는 스크립트 (github aciton의 yaml file로 매 정각마다 json파일 자동 업데이트)
+- `app.py` : Flask 서버를 실행하는 애플리케이션
+- `index.html` : 메인 웹 페이지의 프론트엔드 파일
+- `best_comments.html` : 베스트 댓글 웹 페이지의 프론트엔드 파일
 
 ---
 
 ## ⚙️ 설치 및 실행 방법
 
+### 0️⃣ OPENYOUTUBE_API_KEY 저장
+action - setting - Secrets and Variable에서 개인의 OPENYOUTUBE_API_KEY을 저장합니다.
+
 ### 1️⃣ 필수 파일 다운로드
-먼저, 아래 3개의 파일을 다운로드합니다.
+먼저, 아래 4개의 파일을 다운로드합니다.
 ```
 📄 ytcrawler.py
-📄 ytapp.py
+📄 app.py
 📄 index.html
+📄 best_comments.html
 ```
 
 ### 2️⃣ `ytcrawler.py` 실행 및 `templates` 폴더 생성
@@ -53,7 +58,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🚀 추가 사항
+## 🚀 추가 사항 **(구현완료)**
 - GitHub Actions를 활용하여 `trending_videos.json` 파일을 일정 간격으로 자동 업데이트할 예정입니다.
 - 더 나은 UI/UX를 위해 프론트엔드 스타일링을 개선할 계획입니다.
 
