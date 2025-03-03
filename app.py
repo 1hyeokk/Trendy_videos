@@ -2,14 +2,14 @@ from flask import Flask, render_template, request
 import requests
 import os
 import time
-from dotenv import load_dotenv
+from dotenv ihttps://github.com/1hyeokkmport load_dotenv
 
 app = Flask(__name__)
 
 load_dotenv()
 
 # GitHub JSON 데이터 URL
-owner = "RohJoonHoo"
+owner = "1hyeokk"
 repo = "Trendy_videos"
 GITHUB_JSON_URL = f"https://raw.githubusercontent.com/{owner}/{repo}/main/templates/trending_videos.json"
 
