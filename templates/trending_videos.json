@@ -1,23 +1,23 @@
 {
-    "scraped_time": "2025-03-30 14:18:36",
+    "scraped_time": "2025-03-30 15:26:57",
     "videos": [
-        {
-            "video_id": "96v6HW7ozR8",
-            "title": "[아이유의 팔레트🎨] 8레트로 88날아 왔지용 (With G-DRAGON) Ep.32",
-            "channel_name": "이지금 [IU Official]",
-            "category": "Entertainment",
-            "duration": "41:41",
-            "view_count": "2284253",
-            "thumbnail_url": "https://i.ytimg.com/vi/96v6HW7ozR8/hqdefault.jpg"
-        },
         {
             "video_id": "3V3x8Je2J-4",
             "title": "아이유가 복면가왕에? 절대 아니라던 패널들 사과하게 만든 반전 등장ㅋㅋ│MBC20150704방송│무한도전",
             "channel_name": "엠플리  MBC Playlist",
             "category": "Entertainment",
             "duration": "9:49",
-            "view_count": "864692",
+            "view_count": "939029",
             "thumbnail_url": "https://i.ytimg.com/vi/3V3x8Je2J-4/hqdefault.jpg"
+        },
+        {
+            "video_id": "96v6HW7ozR8",
+            "title": "[아이유의 팔레트🎨] 8레트로 88날아 왔지용 (With G-DRAGON) Ep.32",
+            "channel_name": "이지금 [IU Official]",
+            "category": "Entertainment",
+            "duration": "41:41",
+            "view_count": "2295198",
+            "thumbnail_url": "https://i.ytimg.com/vi/96v6HW7ozR8/hqdefault.jpg"
         },
         {
             "video_id": "v5rKX2DVYs4",
@@ -25,8 +25,17 @@
             "channel_name": "JTBC Drama",
             "category": "Entertainment",
             "duration": "14:59",
-            "view_count": "181815",
+            "view_count": "193553",
             "thumbnail_url": "https://i.ytimg.com/vi/v5rKX2DVYs4/hqdefault.jpg"
+        },
+        {
+            "video_id": "XhJOE_JDyqY",
+            "title": "[놀면 뭐하니?] 소개는 내가 할게 돈은 형이 내(?) | #놀면뭐하니? #유재석 MBC250329방송",
+            "channel_name": "놀면 뭐하니?",
+            "category": "Entertainment",
+            "duration": "24:14",
+            "view_count": "279359",
+            "thumbnail_url": "https://i.ytimg.com/vi/XhJOE_JDyqY/hqdefault.jpg"
         },
         {
             "video_id": "qmWlTBd18v4",
@@ -34,7 +43,7 @@
             "channel_name": "김종국 GYM JONG KOOK",
             "category": "Sports",
             "duration": "50:53",
-            "view_count": "1091726",
+            "view_count": "1111096",
             "thumbnail_url": "https://i.ytimg.com/vi/qmWlTBd18v4/hqdefault.jpg"
         },
         {
@@ -43,26 +52,8 @@
             "channel_name": "Hebi.",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "847909",
+            "view_count": "888330",
             "thumbnail_url": "https://i.ytimg.com/vi/_0f5FjEQzsg/hqdefault.jpg"
-        },
-        {
-            "video_id": "XhJOE_JDyqY",
-            "title": "[놀면 뭐하니?] 소개는 내가 할게 돈은 형이 내(?) | #놀면뭐하니? #유재석 MBC250329방송",
-            "channel_name": "놀면 뭐하니?",
-            "category": "Entertainment",
-            "duration": "24:14",
-            "view_count": "257099",
-            "thumbnail_url": "https://i.ytimg.com/vi/XhJOE_JDyqY/hqdefault.jpg"
-        },
-        {
-            "video_id": "LCW5dWnkWko",
-            "title": "[#WSWF] 〈WORLD of K-POP〉미션 글로벌 대중 평가 영상 | BUMSUP(범접)",
-            "channel_name": "The CHOOM (더 춤)",
-            "category": "Entertainment",
-            "duration": "2:50",
-            "view_count": "3389889",
-            "thumbnail_url": "https://i.ytimg.com/vi/LCW5dWnkWko/hqdefault.jpg"
         },
         {
             "video_id": "uz61E6p3AmA",
@@ -70,8 +61,26 @@
             "channel_name": "몽중다과Mongsweets",
             "category": "Howto & Style",
             "duration": "14:57",
-            "view_count": "120902",
+            "view_count": "131348",
             "thumbnail_url": "https://i.ytimg.com/vi/uz61E6p3AmA/hqdefault.jpg"
+        },
+        {
+            "video_id": "LCW5dWnkWko",
+            "title": "[#WSWF] 〈WORLD of K-POP〉미션 글로벌 대중 평가 영상 | BUMSUP(범접)",
+            "channel_name": "The CHOOM (더 춤)",
+            "category": "Entertainment",
+            "duration": "2:50",
+            "view_count": "3398314",
+            "thumbnail_url": "https://i.ytimg.com/vi/LCW5dWnkWko/hqdefault.jpg"
+        },
+        {
+            "video_id": "-tmmCFDqqiA",
+            "title": "[놀면 뭐하니?] 희극인들 사이에서 입소문난 우일이네 월남 김밥 | #놀면뭐하니? #유재석 MBC250329방송",
+            "channel_name": "놀면 뭐하니?",
+            "category": "Entertainment",
+            "duration": "18:40",
+            "view_count": "244885",
+            "thumbnail_url": "https://i.ytimg.com/vi/-tmmCFDqqiA/hqdefault.jpg"
         },
         {
             "video_id": "DQE3DG-D8s8",
@@ -79,7 +88,7 @@
             "channel_name": "최종시안",
             "category": "People & Blogs",
             "duration": "29:31",
-            "view_count": "863841",
+            "view_count": "872941",
             "thumbnail_url": "https://i.ytimg.com/vi/DQE3DG-D8s8/hqdefault.jpg"
         },
         {
@@ -88,7 +97,7 @@
             "channel_name": "ootb STUDIO",
             "category": "Entertainment",
             "duration": "29:28",
-            "view_count": "809289",
+            "view_count": "818186",
             "thumbnail_url": "https://i.ytimg.com/vi/NqK7AL_XuJI/hqdefault.jpg"
         },
         {
@@ -97,17 +106,8 @@
             "channel_name": "달라스튜디오",
             "category": "Comedy",
             "duration": "32:19",
-            "view_count": "595210",
+            "view_count": "599723",
             "thumbnail_url": "https://i.ytimg.com/vi/APg6M-Ruehw/hqdefault.jpg"
-        },
-        {
-            "video_id": "-tmmCFDqqiA",
-            "title": "[놀면 뭐하니?] 희극인들 사이에서 입소문난 우일이네 월남 김밥 | #놀면뭐하니? #유재석 MBC250329방송",
-            "channel_name": "놀면 뭐하니?",
-            "category": "Entertainment",
-            "duration": "18:40",
-            "view_count": "225003",
-            "thumbnail_url": "https://i.ytimg.com/vi/-tmmCFDqqiA/hqdefault.jpg"
         },
         {
             "video_id": "EnG8hwAsCKA",
@@ -115,17 +115,8 @@
             "channel_name": "Chilsung Label / 칠성 레이블",
             "category": "Entertainment",
             "duration": "12:34",
-            "view_count": "401947",
+            "view_count": "412253",
             "thumbnail_url": "https://i.ytimg.com/vi/EnG8hwAsCKA/hqdefault.jpg"
-        },
-        {
-            "video_id": "biq3XcHgXqQ",
-            "title": "[선공개] 인생의 모든 빠꾸를 허락해준 사람, 그물이 되어준 아빠 | 폭싹 속았수다 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "4:53",
-            "view_count": "1859815",
-            "thumbnail_url": "https://i.ytimg.com/vi/biq3XcHgXqQ/hqdefault.jpg"
         },
         {
             "video_id": "sEuaItNjgzg",
@@ -133,8 +124,17 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:07:19",
-            "view_count": "2208628",
+            "view_count": "2270042",
             "thumbnail_url": "https://i.ytimg.com/vi/sEuaItNjgzg/hqdefault.jpg"
+        },
+        {
+            "video_id": "biq3XcHgXqQ",
+            "title": "[선공개] 인생의 모든 빠꾸를 허락해준 사람, 그물이 되어준 아빠 | 폭싹 속았수다 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "4:53",
+            "view_count": "1864794",
+            "thumbnail_url": "https://i.ytimg.com/vi/biq3XcHgXqQ/hqdefault.jpg"
         },
         {
             "video_id": "lkPjP5syVjE",
@@ -142,7 +142,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "38:21",
-            "view_count": "609905",
+            "view_count": "616704",
             "thumbnail_url": "https://i.ytimg.com/vi/lkPjP5syVjE/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "놀라운 토요일 Amazing Saturday",
             "category": "Entertainment",
             "duration": "16:31",
-            "view_count": "101983",
+            "view_count": "112465",
             "thumbnail_url": "https://i.ytimg.com/vi/9A9rgEeGVB8/hqdefault.jpg"
         },
         {
@@ -160,17 +160,8 @@
             "channel_name": "채널 조세호",
             "category": "Entertainment",
             "duration": "20:58",
-            "view_count": "1007351",
+            "view_count": "1012582",
             "thumbnail_url": "https://i.ytimg.com/vi/WSfOmf2RrsQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "V-kus_CV32I",
-            "title": "[ENG SUB] 이병헌 {짠한형} EP. 85 재탕인가 했지만, ㄷㄷㅗㅇ얘기 까지 간다! ⛔️찐친 주의⛔️",
-            "channel_name": "짠한형 신동엽",
-            "category": "Entertainment",
-            "duration": "59:56",
-            "view_count": "3206132",
-            "thumbnail_url": "https://i.ytimg.com/vi/V-kus_CV32I/hqdefault.jpg"
         },
         {
             "video_id": "M9n27x36rDE",
@@ -178,8 +169,17 @@
             "channel_name": "NCT 127",
             "category": "Music",
             "duration": "30:01",
-            "view_count": "355318",
+            "view_count": "358844",
             "thumbnail_url": "https://i.ytimg.com/vi/M9n27x36rDE/hqdefault.jpg"
+        },
+        {
+            "video_id": "V-kus_CV32I",
+            "title": "[ENG SUB] 이병헌 {짠한형} EP. 85 재탕인가 했지만, ㄷㄷㅗㅇ얘기 까지 간다! ⛔️찐친 주의⛔️",
+            "channel_name": "짠한형 신동엽",
+            "category": "Entertainment",
+            "duration": "59:56",
+            "view_count": "3215340",
+            "thumbnail_url": "https://i.ytimg.com/vi/V-kus_CV32I/hqdefault.jpg"
         },
         {
             "video_id": "hTAgyK8Ti7c",
@@ -187,7 +187,7 @@
             "channel_name": "LUCY - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "119727",
+            "view_count": "122220",
             "thumbnail_url": "https://i.ytimg.com/vi/hTAgyK8Ti7c/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "일일칠 - 117",
             "category": "People & Blogs",
             "duration": "47:24",
-            "view_count": "571106",
+            "view_count": "576122",
             "thumbnail_url": "https://i.ytimg.com/vi/3rCPK9vG9D4/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "붕괴: 스타레일",
             "category": "Entertainment",
             "duration": "52:14",
-            "view_count": "125776",
+            "view_count": "125985",
             "thumbnail_url": "https://i.ytimg.com/vi/IV9uuFn6VhU/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "Hong's MakeuPlay 홍이모",
             "category": "Howto & Style",
             "duration": "16:03",
-            "view_count": "148834",
+            "view_count": "151732",
             "thumbnail_url": "https://i.ytimg.com/vi/rirVN03WM64/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "LUCY ISLAND",
             "category": "Entertainment",
             "duration": "2:56",
-            "view_count": "138986",
+            "view_count": "140151",
             "thumbnail_url": "https://i.ytimg.com/vi/lTESlQNkd5I/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "띱 Deep",
             "category": "Comedy",
             "duration": "5:43",
-            "view_count": "1229066",
+            "view_count": "1257650",
             "thumbnail_url": "https://i.ytimg.com/vi/xEcG_CpgMKI/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "로이킴 Roy Kim",
             "category": "Music",
             "duration": "4:16",
-            "view_count": "606204",
+            "view_count": "622878",
             "thumbnail_url": "https://i.ytimg.com/vi/rUDgqC2vYEg/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "Brawl Stars",
             "category": "Gaming",
             "duration": "1:23",
-            "view_count": "6433080",
+            "view_count": "6451388",
             "thumbnail_url": "https://i.ytimg.com/vi/83yhxQeY-TQ/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "네루짱NERU",
             "category": "People & Blogs",
             "duration": "11:20",
-            "view_count": "615813",
+            "view_count": "619931",
             "thumbnail_url": "https://i.ytimg.com/vi/5gD6qFmGMoo/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "Mozzarella Girl & Oppa",
             "category": "Comedy",
             "duration": "26:22",
-            "view_count": "696883",
+            "view_count": "700633",
             "thumbnail_url": "https://i.ytimg.com/vi/HLxGTl8ksvQ/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "사나고 Sanago",
             "category": "Howto & Style",
             "duration": "15:02",
-            "view_count": "424080",
+            "view_count": "426104",
             "thumbnail_url": "https://i.ytimg.com/vi/2Mc-REz0wiY/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "YOOTRUE ON AIR",
             "category": "Howto & Style",
             "duration": "19:03",
-            "view_count": "192471",
+            "view_count": "193353",
             "thumbnail_url": "https://i.ytimg.com/vi/n5594NZhf2c/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "미자네 주막",
             "category": "Entertainment",
             "duration": "18:21",
-            "view_count": "321769",
+            "view_count": "322764",
             "thumbnail_url": "https://i.ytimg.com/vi/W7j75TAHJf0/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "잰잰바리",
             "category": "People & Blogs",
             "duration": "16:54",
-            "view_count": "156652",
+            "view_count": "157459",
             "thumbnail_url": "https://i.ytimg.com/vi/MiVZ2ZQhCAw/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "총몇명",
             "category": "Film & Animation",
             "duration": "4:24",
-            "view_count": "1282278",
+            "view_count": "1286449",
             "thumbnail_url": "https://i.ytimg.com/vi/Lul17SLQ1X4/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "30:50",
-            "view_count": "983437",
+            "view_count": "987000",
             "thumbnail_url": "https://i.ytimg.com/vi/-Vgr7LOU3U4/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "여수언니 정혜영 [Yeosu Unnie]",
             "category": "People & Blogs",
             "duration": "46:20",
-            "view_count": "140832",
+            "view_count": "141196",
             "thumbnail_url": "https://i.ytimg.com/vi/do56r7R7ru8/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "유노-Yuno",
             "category": "People & Blogs",
             "duration": "10:17",
-            "view_count": "485764",
+            "view_count": "486324",
             "thumbnail_url": "https://i.ytimg.com/vi/zVi9BdPsVos/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "함께해요 맛나요리",
             "category": "Howto & Style",
             "duration": "6:53",
-            "view_count": "203207",
+            "view_count": "203957",
             "thumbnail_url": "https://i.ytimg.com/vi/mFHAhwr_5Hc/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "보물섬",
             "category": "Comedy",
             "duration": "28:12",
-            "view_count": "1077561",
+            "view_count": "1081491",
             "thumbnail_url": "https://i.ytimg.com/vi/cTygzqKMeug/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "풍자테레비",
             "category": "Entertainment",
             "duration": "22:16",
-            "view_count": "158620",
+            "view_count": "159582",
             "thumbnail_url": "https://i.ytimg.com/vi/S_h_OjBDZUw/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "19:55",
-            "view_count": "783024",
+            "view_count": "784080",
             "thumbnail_url": "https://i.ytimg.com/vi/bbELTEi1T24/hqdefault.jpg"
         }
     ]
