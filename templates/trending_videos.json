@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-04-01 08:18:54",
+    "scraped_time": "2025-04-01 10:50:48",
     "videos": [
         {
             "video_id": "Btgbx2Oi318",
@@ -7,7 +7,7 @@
             "channel_name": "유병재",
             "category": "Comedy",
             "duration": "21:15",
-            "view_count": "3008965",
+            "view_count": "3071400",
             "thumbnail_url": "https://i.ytimg.com/vi/Btgbx2Oi318/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "황가람과 동네청년",
             "category": "Entertainment",
             "duration": "4:01",
-            "view_count": "307471",
+            "view_count": "323545",
             "thumbnail_url": "https://i.ytimg.com/vi/MezvFK_r-MI/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:07:19",
-            "view_count": "3484020",
+            "view_count": "3528959",
             "thumbnail_url": "https://i.ytimg.com/vi/sEuaItNjgzg/hqdefault.jpg"
         },
         {
@@ -34,8 +34,17 @@
             "channel_name": "걍밍경",
             "category": "People & Blogs",
             "duration": "37:30",
-            "view_count": "436293",
+            "view_count": "448287",
             "thumbnail_url": "https://i.ytimg.com/vi/wAeOYWftidY/hqdefault.jpg"
+        },
+        {
+            "video_id": "1UWgvCPbkEU",
+            "title": "풀코스 마라톤",
+            "channel_name": "인생84",
+            "category": "People & Blogs",
+            "duration": "19:47",
+            "view_count": "296801",
+            "thumbnail_url": "https://i.ytimg.com/vi/1UWgvCPbkEU/hqdefault.jpg"
         },
         {
             "video_id": "-tIV0MDa5QM",
@@ -43,8 +52,44 @@
             "channel_name": "이민정 MJ",
             "category": "People & Blogs",
             "duration": "11:43",
-            "view_count": "1324130",
+            "view_count": "1352259",
             "thumbnail_url": "https://i.ytimg.com/vi/-tIV0MDa5QM/hqdefault.jpg"
+        },
+        {
+            "video_id": "wT65vbyzhBQ",
+            "title": "본숙 커플 캠핑 드디어 왔다!! 김숙티비 최초 멜로 캠핑💗",
+            "channel_name": "김숙티비kimsookTV",
+            "category": "Entertainment",
+            "duration": "24:12",
+            "view_count": "273415",
+            "thumbnail_url": "https://i.ytimg.com/vi/wT65vbyzhBQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "S-_v3oQBroc",
+            "title": "김효주 Hyo Joo Kim 우승 | LPGA 2025 Ford Championship presented by Wild Horse Pass 파이널 라운드 하이라이트",
+            "channel_name": "LPGA Korea",
+            "category": "Sports",
+            "duration": "8:48",
+            "view_count": "311777",
+            "thumbnail_url": "https://i.ytimg.com/vi/S-_v3oQBroc/hqdefault.jpg"
+        },
+        {
+            "video_id": "88GkYKvnvvI",
+            "title": "izna 'SIGN' MV",
+            "channel_name": "izna (이즈나)",
+            "category": "People & Blogs",
+            "duration": "3:10",
+            "view_count": "4289957",
+            "thumbnail_url": "https://i.ytimg.com/vi/88GkYKvnvvI/hqdefault.jpg"
+        },
+        {
+            "video_id": "-hE0P_uTGmg",
+            "title": "얼집 땡땡이 치고 햄버거 한입했다...",
+            "channel_name": "홍현희 제이쓴의 홍쓴TV",
+            "category": "People & Blogs",
+            "duration": "24:01",
+            "view_count": "121618",
+            "thumbnail_url": "https://i.ytimg.com/vi/-hE0P_uTGmg/hqdefault.jpg"
         },
         {
             "video_id": "cnCrE161CsQ",
@@ -52,7 +97,7 @@
             "channel_name": "JTBC Voyage",
             "category": "Entertainment",
             "duration": "24:13",
-            "view_count": "899471",
+            "view_count": "915488",
             "thumbnail_url": "https://i.ytimg.com/vi/cnCrE161CsQ/hqdefault.jpg"
         },
         {
@@ -61,17 +106,8 @@
             "channel_name": "살빼조DietJo",
             "category": "People & Blogs",
             "duration": "30:05",
-            "view_count": "203166",
+            "view_count": "206634",
             "thumbnail_url": "https://i.ytimg.com/vi/MwrFuX9I1RI/hqdefault.jpg"
-        },
-        {
-            "video_id": "lvdR02UQJ0s",
-            "title": "삼겹살 2000g으로 백김치 튀기기",
-            "channel_name": "먹어볼래TryToEat",
-            "category": "People & Blogs",
-            "duration": "10:03",
-            "view_count": "353374",
-            "thumbnail_url": "https://i.ytimg.com/vi/lvdR02UQJ0s/hqdefault.jpg"
         },
         {
             "video_id": "3V3x8Je2J-4",
@@ -79,8 +115,17 @@
             "channel_name": "엠플리  MBC Playlist",
             "category": "Entertainment",
             "duration": "9:49",
-            "view_count": "2018929",
+            "view_count": "2049592",
             "thumbnail_url": "https://i.ytimg.com/vi/3V3x8Je2J-4/hqdefault.jpg"
+        },
+        {
+            "video_id": "lvdR02UQJ0s",
+            "title": "삼겹살 2000g으로 백김치 튀기기",
+            "channel_name": "먹어볼래TryToEat",
+            "category": "People & Blogs",
+            "duration": "10:03",
+            "view_count": "357226",
+            "thumbnail_url": "https://i.ytimg.com/vi/lvdR02UQJ0s/hqdefault.jpg"
         },
         {
             "video_id": "FVPpSlQEJj0",
@@ -88,7 +133,7 @@
             "channel_name": "노마드션 No mad Shaun",
             "category": "Travel & Events",
             "duration": "28:49",
-            "view_count": "262040",
+            "view_count": "264945",
             "thumbnail_url": "https://i.ytimg.com/vi/FVPpSlQEJj0/hqdefault.jpg"
         },
         {
@@ -97,8 +142,17 @@
             "channel_name": "수박머리 셔니",
             "category": "Gaming",
             "duration": "19:53",
-            "view_count": "275921",
+            "view_count": "277775",
             "thumbnail_url": "https://i.ytimg.com/vi/aVWq74jqrz4/hqdefault.jpg"
+        },
+        {
+            "video_id": "K9A_E9lC2N0",
+            "title": "[LPGA] '김효주 vs 릴리아 부' 연장전까지 이어진 승부! 과연 누가 우승을 차지했을지?! FR 하이라이트 | 포드 챔피언십",
+            "channel_name": "JTBC GOLF",
+            "category": "Sports",
+            "duration": "12:58",
+            "view_count": "149246",
+            "thumbnail_url": "https://i.ytimg.com/vi/K9A_E9lC2N0/hqdefault.jpg"
         },
         {
             "video_id": "eu6C0ezIGfc",
@@ -106,17 +160,8 @@
             "channel_name": "유슬비 YOOSEULBI",
             "category": "People & Blogs",
             "duration": "20:42",
-            "view_count": "214872",
+            "view_count": "218315",
             "thumbnail_url": "https://i.ytimg.com/vi/eu6C0ezIGfc/hqdefault.jpg"
-        },
-        {
-            "video_id": "prt366fIYvk",
-            "title": "vlog 둘째 시험관 시작..! 😬 살엄청찜, 둘째 가지려는 이유? (냉동배아야 잘있었니..?)",
-            "channel_name": "트위티 (Tweety)",
-            "category": "People & Blogs",
-            "duration": "21:47",
-            "view_count": "271928",
-            "thumbnail_url": "https://i.ytimg.com/vi/prt366fIYvk/hqdefault.jpg"
         },
         {
             "video_id": "hj3NdJPwh08",
@@ -124,17 +169,17 @@
             "channel_name": "TVING SPORTS",
             "category": "Sports",
             "duration": "19:07",
-            "view_count": "493028",
+            "view_count": "494630",
             "thumbnail_url": "https://i.ytimg.com/vi/hj3NdJPwh08/hqdefault.jpg"
         },
         {
-            "video_id": "XhJOE_JDyqY",
-            "title": "[놀면 뭐하니?] 소개는 내가 할게 돈은 형이 내(?) | #놀면뭐하니? #유재석 MBC250329방송",
-            "channel_name": "놀면 뭐하니?",
-            "category": "Entertainment",
-            "duration": "24:14",
-            "view_count": "605807",
-            "thumbnail_url": "https://i.ytimg.com/vi/XhJOE_JDyqY/hqdefault.jpg"
+            "video_id": "prt366fIYvk",
+            "title": "vlog 둘째 시험관 시작..! 😬 살엄청찜, 둘째 가지려는 이유? (냉동배아야 잘있었니..?)",
+            "channel_name": "트위티 (Tweety)",
+            "category": "People & Blogs",
+            "duration": "21:47",
+            "view_count": "274010",
+            "thumbnail_url": "https://i.ytimg.com/vi/prt366fIYvk/hqdefault.jpg"
         },
         {
             "video_id": "Qj7SW0ogUN4",
@@ -142,8 +187,26 @@
             "channel_name": "유정 YUJEONG",
             "category": "People & Blogs",
             "duration": "19:33",
-            "view_count": "273446",
+            "view_count": "276238",
             "thumbnail_url": "https://i.ytimg.com/vi/Qj7SW0ogUN4/hqdefault.jpg"
+        },
+        {
+            "video_id": "a43T8AybcEo",
+            "title": "단편 애니메이션: 「안식의 긴 밤」|〈붕괴: 스타레일〉",
+            "channel_name": "붕괴: 스타레일",
+            "category": "Entertainment",
+            "duration": "7:29",
+            "view_count": "120041",
+            "thumbnail_url": "https://i.ytimg.com/vi/a43T8AybcEo/hqdefault.jpg"
+        },
+        {
+            "video_id": "XhJOE_JDyqY",
+            "title": "[놀면 뭐하니?] 소개는 내가 할게 돈은 형이 내(?) | #놀면뭐하니? #유재석 MBC250329방송",
+            "channel_name": "놀면 뭐하니?",
+            "category": "Entertainment",
+            "duration": "24:14",
+            "view_count": "614489",
+            "thumbnail_url": "https://i.ytimg.com/vi/XhJOE_JDyqY/hqdefault.jpg"
         },
         {
             "video_id": "uz61E6p3AmA",
@@ -151,7 +214,7 @@
             "channel_name": "몽중다과Mongsweets",
             "category": "Howto & Style",
             "duration": "14:57",
-            "view_count": "309937",
+            "view_count": "313081",
             "thumbnail_url": "https://i.ytimg.com/vi/uz61E6p3AmA/hqdefault.jpg"
         },
         {
@@ -160,7 +223,7 @@
             "channel_name": "Hebi.",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "1410822",
+            "view_count": "1440999",
             "thumbnail_url": "https://i.ytimg.com/vi/_0f5FjEQzsg/hqdefault.jpg"
         },
         {
@@ -169,7 +232,7 @@
             "channel_name": "놀라운 토요일 Amazing Saturday",
             "category": "Entertainment",
             "duration": "16:31",
-            "view_count": "334308",
+            "view_count": "341063",
             "thumbnail_url": "https://i.ytimg.com/vi/9A9rgEeGVB8/hqdefault.jpg"
         },
         {
@@ -178,17 +241,8 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "41:41",
-            "view_count": "2500666",
+            "view_count": "2506220",
             "thumbnail_url": "https://i.ytimg.com/vi/96v6HW7ozR8/hqdefault.jpg"
-        },
-        {
-            "video_id": "v5rKX2DVYs4",
-            "title": "[7회 하이라이트] ＂살아남을 수 있겠나＂ 감히 🔥회장 딸🔥을 건드린 이제훈, 권유리와의 리조트 매각을 둔 불꽃 신경전💥 | 협상의 기술 | JTBC 250329 방송",
-            "channel_name": "JTBC Drama",
-            "category": "Entertainment",
-            "duration": "14:59",
-            "view_count": "318136",
-            "thumbnail_url": "https://i.ytimg.com/vi/v5rKX2DVYs4/hqdefault.jpg"
         },
         {
             "video_id": "EnG8hwAsCKA",
@@ -196,17 +250,8 @@
             "channel_name": "Chilsung Label / 칠성 레이블",
             "category": "Entertainment",
             "duration": "12:34",
-            "view_count": "838548",
+            "view_count": "850046",
             "thumbnail_url": "https://i.ytimg.com/vi/EnG8hwAsCKA/hqdefault.jpg"
-        },
-        {
-            "video_id": "-tmmCFDqqiA",
-            "title": "[놀면 뭐하니?] 희극인들 사이에서 입소문난 우일이네 월남 김밥 | #놀면뭐하니? #유재석 MBC250329방송",
-            "channel_name": "놀면 뭐하니?",
-            "category": "Entertainment",
-            "duration": "18:40",
-            "view_count": "510101",
-            "thumbnail_url": "https://i.ytimg.com/vi/-tmmCFDqqiA/hqdefault.jpg"
         },
         {
             "video_id": "DQE3DG-D8s8",
@@ -214,7 +259,7 @@
             "channel_name": "최종시안",
             "category": "People & Blogs",
             "duration": "29:31",
-            "view_count": "1051393",
+            "view_count": "1056017",
             "thumbnail_url": "https://i.ytimg.com/vi/DQE3DG-D8s8/hqdefault.jpg"
         },
         {
@@ -223,8 +268,26 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "2:50",
-            "view_count": "3604817",
+            "view_count": "3608176",
             "thumbnail_url": "https://i.ytimg.com/vi/LCW5dWnkWko/hqdefault.jpg"
+        },
+        {
+            "video_id": "-tmmCFDqqiA",
+            "title": "[놀면 뭐하니?] 희극인들 사이에서 입소문난 우일이네 월남 김밥 | #놀면뭐하니? #유재석 MBC250329방송",
+            "channel_name": "놀면 뭐하니?",
+            "category": "Entertainment",
+            "duration": "18:40",
+            "view_count": "517040",
+            "thumbnail_url": "https://i.ytimg.com/vi/-tmmCFDqqiA/hqdefault.jpg"
+        },
+        {
+            "video_id": "v5rKX2DVYs4",
+            "title": "[7회 하이라이트] ＂살아남을 수 있겠나＂ 감히 🔥회장 딸🔥을 건드린 이제훈, 권유리와의 리조트 매각을 둔 불꽃 신경전💥 | 협상의 기술 | JTBC 250329 방송",
+            "channel_name": "JTBC Drama",
+            "category": "Entertainment",
+            "duration": "14:59",
+            "view_count": "318613",
+            "thumbnail_url": "https://i.ytimg.com/vi/v5rKX2DVYs4/hqdefault.jpg"
         },
         {
             "video_id": "APg6M-Ruehw",
@@ -232,7 +295,7 @@
             "channel_name": "달라스튜디오",
             "category": "Comedy",
             "duration": "32:19",
-            "view_count": "867148",
+            "view_count": "868959",
             "thumbnail_url": "https://i.ytimg.com/vi/APg6M-Ruehw/hqdefault.jpg"
         },
         {
@@ -241,7 +304,7 @@
             "channel_name": "더보이즈 (THE BOYZ)",
             "category": "People & Blogs",
             "duration": "19:14",
-            "view_count": "79249",
+            "view_count": "80080",
             "thumbnail_url": "https://i.ytimg.com/vi/ZLGkHUs0QRg/hqdefault.jpg"
         },
         {
@@ -250,7 +313,7 @@
             "channel_name": "카야라니 [KaiaLani]",
             "category": "People & Blogs",
             "duration": "19:15",
-            "view_count": "77249",
+            "view_count": "78151",
             "thumbnail_url": "https://i.ytimg.com/vi/TU0olaPGmuU/hqdefault.jpg"
         },
         {
@@ -259,7 +322,7 @@
             "channel_name": "취미로 요리하는 남자 Yonam",
             "category": "Entertainment",
             "duration": "18:02",
-            "view_count": "124940",
+            "view_count": "125702",
             "thumbnail_url": "https://i.ytimg.com/vi/JpDfTXjT-44/hqdefault.jpg"
         },
         {
@@ -268,17 +331,8 @@
             "channel_name": "강쉪",
             "category": "Howto & Style",
             "duration": "10:49",
-            "view_count": "236300",
+            "view_count": "236578",
             "thumbnail_url": "https://i.ytimg.com/vi/xHajE8M6kvM/hqdefault.jpg"
-        },
-        {
-            "video_id": "NqK7AL_XuJI",
-            "title": "카이스트생의 엽떡 안 맵게 먹는 법 [카이스트 화학과] | 전과자 ep.81 [EN]",
-            "channel_name": "ootb STUDIO",
-            "category": "Entertainment",
-            "duration": "29:28",
-            "view_count": "962521",
-            "thumbnail_url": "https://i.ytimg.com/vi/NqK7AL_XuJI/hqdefault.jpg"
         },
         {
             "video_id": "NmvnOjrWz9o",
@@ -286,7 +340,7 @@
             "channel_name": "술익는집",
             "category": "Howto & Style",
             "duration": "13:41",
-            "view_count": "251360",
+            "view_count": "253525",
             "thumbnail_url": "https://i.ytimg.com/vi/NmvnOjrWz9o/hqdefault.jpg"
         },
         {
@@ -295,26 +349,8 @@
             "channel_name": "파뿌리",
             "category": "Entertainment",
             "duration": "48:45",
-            "view_count": "478065",
+            "view_count": "483770",
             "thumbnail_url": "https://i.ytimg.com/vi/A8EhTfErzRE/hqdefault.jpg"
-        },
-        {
-            "video_id": "hTAgyK8Ti7c",
-            "title": "Wakey Wakey",
-            "channel_name": "LUCY - Topic",
-            "category": "Music",
-            "duration": "2:41",
-            "view_count": "206281",
-            "thumbnail_url": "https://i.ytimg.com/vi/hTAgyK8Ti7c/hqdefault.jpg"
-        },
-        {
-            "video_id": "biq3XcHgXqQ",
-            "title": "[선공개] 인생의 모든 빠꾸를 허락해준 사람, 그물이 되어준 아빠 | 폭싹 속았수다 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "4:53",
-            "view_count": "1982762",
-            "thumbnail_url": "https://i.ytimg.com/vi/biq3XcHgXqQ/hqdefault.jpg"
         },
         {
             "video_id": "rirVN03WM64",
@@ -322,35 +358,8 @@
             "channel_name": "Hong's MakeuPlay 홍이모",
             "category": "Howto & Style",
             "duration": "16:03",
-            "view_count": "251013",
+            "view_count": "255389",
             "thumbnail_url": "https://i.ytimg.com/vi/rirVN03WM64/hqdefault.jpg"
-        },
-        {
-            "video_id": "M9n27x36rDE",
-            "title": "🧐내가 ⭐️가 될 상인가? 관상마저 𝙽𝙴𝙾한 엔시티 일이칠🔍✍ | 127 VIBE EP.11 ❪관상❫",
-            "channel_name": "NCT 127",
-            "category": "Music",
-            "duration": "30:01",
-            "view_count": "428825",
-            "thumbnail_url": "https://i.ytimg.com/vi/M9n27x36rDE/hqdefault.jpg"
-        },
-        {
-            "video_id": "WSfOmf2RrsQ",
-            "title": "[ENG] 조남지대와 지드래곤이 만나 조남GD를 결성했습니다😁 l 신곡 감상회 Ep.02",
-            "channel_name": "채널 조세호",
-            "category": "Entertainment",
-            "duration": "20:58",
-            "view_count": "1099023",
-            "thumbnail_url": "https://i.ytimg.com/vi/WSfOmf2RrsQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "V-kus_CV32I",
-            "title": "[ENG SUB] 이병헌 {짠한형} EP. 85 재탕인가 했지만, ㄷㄷㅗㅇ얘기 까지 간다! ⛔️찐친 주의⛔️",
-            "channel_name": "짠한형 신동엽",
-            "category": "Entertainment",
-            "duration": "59:56",
-            "view_count": "3463704",
-            "thumbnail_url": "https://i.ytimg.com/vi/V-kus_CV32I/hqdefault.jpg"
         },
         {
             "video_id": "xEcG_CpgMKI",
@@ -358,17 +367,8 @@
             "channel_name": "띱 Deep",
             "category": "Comedy",
             "duration": "5:43",
-            "view_count": "1676000",
+            "view_count": "1684250",
             "thumbnail_url": "https://i.ytimg.com/vi/xEcG_CpgMKI/hqdefault.jpg"
-        },
-        {
-            "video_id": "rUDgqC2vYEg",
-            "title": "있는 모습 그대로 신곡 미리 불러 봄",
-            "channel_name": "로이킴 Roy Kim",
-            "category": "Music",
-            "duration": "4:16",
-            "view_count": "1033133",
-            "thumbnail_url": "https://i.ytimg.com/vi/rUDgqC2vYEg/hqdefault.jpg"
         },
         {
             "video_id": "cTygzqKMeug",
@@ -376,7 +376,7 @@
             "channel_name": "보물섬",
             "category": "Comedy",
             "duration": "28:12",
-            "view_count": "1153700",
+            "view_count": "1154858",
             "thumbnail_url": "https://i.ytimg.com/vi/cTygzqKMeug/hqdefault.jpg"
         }
     ]
