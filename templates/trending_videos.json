@@ -1,13 +1,31 @@
 {
-    "scraped_time": "2025-04-09 14:19:49",
+    "scraped_time": "2025-04-09 15:30:07",
     "videos": [
+        {
+            "video_id": "NTavietjnPU",
+            "title": "임영웅 Digital Single '천국보다 아름다운' Teaser",
+            "channel_name": "임영웅",
+            "category": "Music",
+            "duration": "0:53",
+            "view_count": "144164",
+            "thumbnail_url": "https://i.ytimg.com/vi/NTavietjnPU/hqdefault.jpg"
+        },
+        {
+            "video_id": "komJT-24go4",
+            "title": "죽기 전에 꼭 가보고 싶었던 그곳",
+            "channel_name": "태계일주 베이스캠프",
+            "category": "Entertainment",
+            "duration": "22:39",
+            "view_count": "379116",
+            "thumbnail_url": "https://i.ytimg.com/vi/komJT-24go4/hqdefault.jpg"
+        },
         {
             "video_id": "wtveNdqk7-k",
             "title": "Son Heung-Min and Chef Ahn rate British-Korean food!",
             "channel_name": "영국남자 Korean Englishman",
             "category": "Comedy",
             "duration": "15:25",
-            "view_count": "1980242",
+            "view_count": "1997756",
             "thumbnail_url": "https://i.ytimg.com/vi/wtveNdqk7-k/hqdefault.jpg"
         },
         {
@@ -16,7 +34,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "19:32",
-            "view_count": "967308",
+            "view_count": "978045",
             "thumbnail_url": "https://i.ytimg.com/vi/eO8Heu1W-Dg/hqdefault.jpg"
         },
         {
@@ -25,7 +43,7 @@
             "channel_name": "DAESUNG",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "1029902",
+            "view_count": "1045438",
             "thumbnail_url": "https://i.ytimg.com/vi/PHToFdx20ac/hqdefault.jpg"
         },
         {
@@ -34,7 +52,7 @@
             "channel_name": "kiu기우쌤",
             "category": "Howto & Style",
             "duration": "12:15",
-            "view_count": "1598132",
+            "view_count": "1610158",
             "thumbnail_url": "https://i.ytimg.com/vi/cf5mRYdCMqg/hqdefault.jpg"
         },
         {
@@ -43,7 +61,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "4:10",
-            "view_count": "935563",
+            "view_count": "945530",
             "thumbnail_url": "https://i.ytimg.com/vi/c6PeWqj-moU/hqdefault.jpg"
         },
         {
@@ -52,7 +70,7 @@
             "channel_name": "스브스 예능맛집",
             "category": "Entertainment",
             "duration": "14:56",
-            "view_count": "207241",
+            "view_count": "212344",
             "thumbnail_url": "https://i.ytimg.com/vi/JOZyNphBdUs/hqdefault.jpg"
         },
         {
@@ -61,7 +79,7 @@
             "channel_name": "해쭈 [HAEJOO]",
             "category": "People & Blogs",
             "duration": "15:34",
-            "view_count": "488431",
+            "view_count": "491260",
             "thumbnail_url": "https://i.ytimg.com/vi/v5mg-yynz0A/hqdefault.jpg"
         },
         {
@@ -70,17 +88,8 @@
             "channel_name": "SBS STORY",
             "category": "Pets & Animals",
             "duration": "14:57",
-            "view_count": "233521",
+            "view_count": "237202",
             "thumbnail_url": "https://i.ytimg.com/vi/Rd8HcEnO1qU/hqdefault.jpg"
-        },
-        {
-            "video_id": "rKOtdeTginY",
-            "title": "지피티야 에그의 아들은 누구야? | EP. 85 김대명 | 살롱드립2",
-            "channel_name": "TEO 테오",
-            "category": "Entertainment",
-            "duration": "30:44",
-            "view_count": "315540",
-            "thumbnail_url": "https://i.ytimg.com/vi/rKOtdeTginY/hqdefault.jpg"
         },
         {
             "video_id": "SMKqRx8NomA",
@@ -88,8 +97,17 @@
             "channel_name": "쯔양밖정원",
             "category": "People & Blogs",
             "duration": "17:14",
-            "view_count": "126404",
+            "view_count": "132970",
             "thumbnail_url": "https://i.ytimg.com/vi/SMKqRx8NomA/hqdefault.jpg"
+        },
+        {
+            "video_id": "rKOtdeTginY",
+            "title": "지피티야 에그의 아들은 누구야? | EP. 85 김대명 | 살롱드립2",
+            "channel_name": "TEO 테오",
+            "category": "Entertainment",
+            "duration": "30:44",
+            "view_count": "331113",
+            "thumbnail_url": "https://i.ytimg.com/vi/rKOtdeTginY/hqdefault.jpg"
         },
         {
             "video_id": "xTBC89MwWlM",
@@ -97,7 +115,7 @@
             "channel_name": "알지모",
             "category": "Gaming",
             "duration": "23:04",
-            "view_count": "380133",
+            "view_count": "381184",
             "thumbnail_url": "https://i.ytimg.com/vi/xTBC89MwWlM/hqdefault.jpg"
         },
         {
@@ -106,7 +124,7 @@
             "channel_name": "김가을",
             "category": "People & Blogs",
             "duration": "30:07",
-            "view_count": "153328",
+            "view_count": "154583",
             "thumbnail_url": "https://i.ytimg.com/vi/ByBsd2leRbU/hqdefault.jpg"
         },
         {
@@ -115,17 +133,8 @@
             "channel_name": "THE 트롯 보라고",
             "category": "Entertainment",
             "duration": "3:51",
-            "view_count": "88793",
+            "view_count": "90312",
             "thumbnail_url": "https://i.ytimg.com/vi/AFuj4chdYW0/hqdefault.jpg"
-        },
-        {
-            "video_id": "nof2C9BtT2I",
-            "title": "개장수로부터 겨우 데려온 강아지, 은혜를 아는 천재견이었다! I KBS 동물극장 단짝 230114 방송",
-            "channel_name": "KBS동물티비 : 애니멀포유 animal4u",
-            "category": "Pets & Animals",
-            "duration": "30:18",
-            "view_count": "815805",
-            "thumbnail_url": "https://i.ytimg.com/vi/nof2C9BtT2I/hqdefault.jpg"
         },
         {
             "video_id": "mE7w0Z4xFtE",
@@ -133,7 +142,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "7:53",
-            "view_count": "2143479",
+            "view_count": "2147030",
             "thumbnail_url": "https://i.ytimg.com/vi/mE7w0Z4xFtE/hqdefault.jpg"
         },
         {
@@ -142,17 +151,26 @@
             "channel_name": "덱스101",
             "category": "People & Blogs",
             "duration": "23:59",
-            "view_count": "129099",
+            "view_count": "131184",
             "thumbnail_url": "https://i.ytimg.com/vi/fL05E5AmR4k/hqdefault.jpg"
         },
         {
-            "video_id": "O6nX5ZvjV1E",
-            "title": "헷갈리는 호감 신호",
-            "channel_name": "짧은대본 ShortPaper",
-            "category": "Entertainment",
-            "duration": "9:28",
-            "view_count": "566300",
-            "thumbnail_url": "https://i.ytimg.com/vi/O6nX5ZvjV1E/hqdefault.jpg"
+            "video_id": "nof2C9BtT2I",
+            "title": "개장수로부터 겨우 데려온 강아지, 은혜를 아는 천재견이었다! I KBS 동물극장 단짝 230114 방송",
+            "channel_name": "KBS동물티비 : 애니멀포유 animal4u",
+            "category": "Pets & Animals",
+            "duration": "30:18",
+            "view_count": "827247",
+            "thumbnail_url": "https://i.ytimg.com/vi/nof2C9BtT2I/hqdefault.jpg"
+        },
+        {
+            "video_id": "J_q3TCCXtdI",
+            "title": "💀 최초의 시계? 도대체 어떻게 만들었을까 / 💀 시계의 역사 1편",
+            "channel_name": "지식해적단",
+            "category": "Science & Technology",
+            "duration": "14:35",
+            "view_count": "65670",
+            "thumbnail_url": "https://i.ytimg.com/vi/J_q3TCCXtdI/hqdefault.jpg"
         },
         {
             "video_id": "IJzwHcGjXlY",
@@ -160,8 +178,44 @@
             "channel_name": "it's Live",
             "category": "Entertainment",
             "duration": "38:27",
-            "view_count": "140035",
+            "view_count": "146538",
             "thumbnail_url": "https://i.ytimg.com/vi/IJzwHcGjXlY/hqdefault.jpg"
+        },
+        {
+            "video_id": "BiBWNDzbaQg",
+            "title": "[EN] 맑눈광 VS 대가리꽃밭 광기의 술자리 | 지멋대로 식탁 EP.08",
+            "channel_name": "M드로메다 스튜디오",
+            "category": "Entertainment",
+            "duration": "17:58",
+            "view_count": "92214",
+            "thumbnail_url": "https://i.ytimg.com/vi/BiBWNDzbaQg/hqdefault.jpg"
+        },
+        {
+            "video_id": "O6nX5ZvjV1E",
+            "title": "헷갈리는 호감 신호",
+            "channel_name": "짧은대본 ShortPaper",
+            "category": "Entertainment",
+            "duration": "9:28",
+            "view_count": "567446",
+            "thumbnail_url": "https://i.ytimg.com/vi/O6nX5ZvjV1E/hqdefault.jpg"
+        },
+        {
+            "video_id": "H7hAqQOLtl0",
+            "title": "처갓집에 첫 대형 냉장고와 세탁기가 들어왔습니다...",
+            "channel_name": "태국 박서방 TV",
+            "category": "Entertainment",
+            "duration": "20:16",
+            "view_count": "729388",
+            "thumbnail_url": "https://i.ytimg.com/vi/H7hAqQOLtl0/hqdefault.jpg"
+        },
+        {
+            "video_id": "T5_1YdNmtv0",
+            "title": "잔잔하게 수다 떨면서 레전드 뒷북 개학 겟레디윗미 ㄷㄷ",
+            "channel_name": "함민서",
+            "category": "People & Blogs",
+            "duration": "20:41",
+            "view_count": "97241",
+            "thumbnail_url": "https://i.ytimg.com/vi/T5_1YdNmtv0/hqdefault.jpg"
         },
         {
             "video_id": "0Y0CgHZRgdc",
@@ -169,7 +223,7 @@
             "channel_name": "스파쉬바 spa_sheba",
             "category": "People & Blogs",
             "duration": "19:48",
-            "view_count": "486999",
+            "view_count": "489682",
             "thumbnail_url": "https://i.ytimg.com/vi/0Y0CgHZRgdc/hqdefault.jpg"
         },
         {
@@ -178,8 +232,17 @@
             "channel_name": "FIFTY FIFTY Official",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "1178735",
+            "view_count": "1182009",
             "thumbnail_url": "https://i.ytimg.com/vi/JfH_Jb8_BOk/hqdefault.jpg"
+        },
+        {
+            "video_id": "7UDBlIFxWMU",
+            "title": "부지런한 집밥 루틴, 봄기운 가득한 식탁 | 일주일 병샐러드 만들기,  밥도둑 밑반찬 만들기 | Cook with me",
+            "channel_name": "꿀주부 Honeyjubu",
+            "category": "Howto & Style",
+            "duration": "23:20",
+            "view_count": "137978",
+            "thumbnail_url": "https://i.ytimg.com/vi/7UDBlIFxWMU/hqdefault.jpg"
         },
         {
             "video_id": "pvEiDJ58bSo",
@@ -187,7 +250,7 @@
             "channel_name": "플래그",
             "category": "Gaming",
             "duration": "22:32",
-            "view_count": "413604",
+            "view_count": "414270",
             "thumbnail_url": "https://i.ytimg.com/vi/pvEiDJ58bSo/hqdefault.jpg"
         },
         {
@@ -196,7 +259,7 @@
             "channel_name": "순자엄마",
             "category": "People & Blogs",
             "duration": "23:01",
-            "view_count": "573178",
+            "view_count": "577749",
             "thumbnail_url": "https://i.ytimg.com/vi/JGihzK_g0P4/hqdefault.jpg"
         },
         {
@@ -205,7 +268,7 @@
             "channel_name": "DICON",
             "category": "Entertainment",
             "duration": "21:55",
-            "view_count": "95175",
+            "view_count": "95906",
             "thumbnail_url": "https://i.ytimg.com/vi/bMUaXYWpSCQ/hqdefault.jpg"
         },
         {
@@ -214,7 +277,7 @@
             "channel_name": "미연zip MIYEON ",
             "category": "Entertainment",
             "duration": "38:27",
-            "view_count": "1010821",
+            "view_count": "1019748",
             "thumbnail_url": "https://i.ytimg.com/vi/fOfRZdc2WD0/hqdefault.jpg"
         },
         {
@@ -223,7 +286,7 @@
             "channel_name": "A급 장영란",
             "category": "Entertainment",
             "duration": "23:48",
-            "view_count": "499728",
+            "view_count": "503804",
             "thumbnail_url": "https://i.ytimg.com/vi/FAanvtyJybA/hqdefault.jpg"
         },
         {
@@ -232,7 +295,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "24:41",
-            "view_count": "1772123",
+            "view_count": "1776045",
             "thumbnail_url": "https://i.ytimg.com/vi/7hnlrjv5CWY/hqdefault.jpg"
         },
         {
@@ -241,7 +304,7 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "4:58",
-            "view_count": "1764936",
+            "view_count": "1766638",
             "thumbnail_url": "https://i.ytimg.com/vi/t84OPY05zQU/hqdefault.jpg"
         },
         {
@@ -250,7 +313,7 @@
             "channel_name": "JTBC Voyage",
             "category": "Entertainment",
             "duration": "25:36",
-            "view_count": "530726",
+            "view_count": "533928",
             "thumbnail_url": "https://i.ytimg.com/vi/tEkOnnkmGo0/hqdefault.jpg"
         },
         {
@@ -259,7 +322,7 @@
             "channel_name": "웃소 Wootso",
             "category": "Entertainment",
             "duration": "37:46",
-            "view_count": "213453",
+            "view_count": "213754",
             "thumbnail_url": "https://i.ytimg.com/vi/1KjWqrrpN5g/hqdefault.jpg"
         },
         {
@@ -268,17 +331,8 @@
             "channel_name": "박수홍 행복해다홍",
             "category": "Entertainment",
             "duration": "4:57",
-            "view_count": "317627",
+            "view_count": "318595",
             "thumbnail_url": "https://i.ytimg.com/vi/gMg0rDaIFBY/hqdefault.jpg"
-        },
-        {
-            "video_id": "gPATxTmqo2w",
-            "title": "갸륵 vs 디룩! 킹받는 연기 지독하게 잘 하는 둘이 서로 도발하는 토크쇼 | 딱대 EP31 주현영",
-            "channel_name": "빠더너스 BDNS",
-            "category": "Comedy",
-            "duration": "24:20",
-            "view_count": "811232",
-            "thumbnail_url": "https://i.ytimg.com/vi/gPATxTmqo2w/hqdefault.jpg"
         },
         {
             "video_id": "_dRG-lRIuow",
@@ -286,7 +340,7 @@
             "channel_name": "소비더머니",
             "category": "News & Politics",
             "duration": "13:45",
-            "view_count": "248634",
+            "view_count": "251232",
             "thumbnail_url": "https://i.ytimg.com/vi/_dRG-lRIuow/hqdefault.jpg"
         },
         {
@@ -295,7 +349,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "1:41",
-            "view_count": "398438",
+            "view_count": "405096",
             "thumbnail_url": "https://i.ytimg.com/vi/4txrPwjxSRI/hqdefault.jpg"
         },
         {
@@ -304,8 +358,17 @@
             "channel_name": "션과 함께",
             "category": "People & Blogs",
             "duration": "12:44",
-            "view_count": "280361",
+            "view_count": "283505",
             "thumbnail_url": "https://i.ytimg.com/vi/i8-l_WdKN9k/hqdefault.jpg"
+        },
+        {
+            "video_id": "gPATxTmqo2w",
+            "title": "갸륵 vs 디룩! 킹받는 연기 지독하게 잘 하는 둘이 서로 도발하는 토크쇼 | 딱대 EP31 주현영",
+            "channel_name": "빠더너스 BDNS",
+            "category": "Comedy",
+            "duration": "24:20",
+            "view_count": "815412",
+            "thumbnail_url": "https://i.ytimg.com/vi/gPATxTmqo2w/hqdefault.jpg"
         },
         {
             "video_id": "gF_d2RMQ3Zs",
@@ -313,71 +376,8 @@
             "channel_name": "배말랭",
             "category": "Comedy",
             "duration": "20:29",
-            "view_count": "415020",
+            "view_count": "416094",
             "thumbnail_url": "https://i.ytimg.com/vi/gF_d2RMQ3Zs/hqdefault.jpg"
-        },
-        {
-            "video_id": "-HOzcJFfRKo",
-            "title": "연애로 안 치는 연애",
-            "channel_name": "픽고 PICKGO",
-            "category": "Entertainment",
-            "duration": "10:01",
-            "view_count": "992489",
-            "thumbnail_url": "https://i.ytimg.com/vi/-HOzcJFfRKo/hqdefault.jpg"
-        },
-        {
-            "video_id": "nboMl0nG4Bg",
-            "title": "🔑키플레이어🔑 'POTG 선정, '최고의 원투펀치다'!! 파죽의 6연승에 현지 커뮤니티의 이어지는 격찬!! 이정후 3안타+1도루 커뮤니티 현지 반응 | #야구한입 x SPOTV",
-            "channel_name": "스포일러 MLB",
-            "category": "Sports",
-            "duration": "8:08",
-            "view_count": "197350",
-            "thumbnail_url": "https://i.ytimg.com/vi/nboMl0nG4Bg/hqdefault.jpg"
-        },
-        {
-            "video_id": "g6hA2tM73Js",
-            "title": "(ENG) 맵고 달콤한 명수네 배달 떡볶이 총정리 | 엽기떡볶이, 응급실떡볶이, 신전떡볶이, 배떡, 우리할매떡볶이, 삼첩분식, 청년다방, 태리로제 | 할명수 ep.229",
-            "channel_name": "할명수",
-            "category": "Entertainment",
-            "duration": "14:24",
-            "view_count": "1027588",
-            "thumbnail_url": "https://i.ytimg.com/vi/g6hA2tM73Js/hqdefault.jpg"
-        },
-        {
-            "video_id": "K3ORRaLAyGU",
-            "title": "할아버지랑 주말 내내 한국 음식 먹고 행복한 봉글이 💗",
-            "channel_name": "멜봉 네덜란드 MelBong",
-            "category": "People & Blogs",
-            "duration": "16:25",
-            "view_count": "177170",
-            "thumbnail_url": "https://i.ytimg.com/vi/K3ORRaLAyGU/hqdefault.jpg"
-        },
-        {
-            "video_id": "44Qfp9sp_U8",
-            "title": "이영자의 20년 단골집 공개 & 오일장 투어!",
-            "channel_name": "이영자 TV",
-            "category": "People & Blogs",
-            "duration": "13:46",
-            "view_count": "448101",
-            "thumbnail_url": "https://i.ytimg.com/vi/44Qfp9sp_U8/hqdefault.jpg"
-        },
-        {
-            "video_id": "UjJw3OSoG4E",
-            "title": "TMI와 비하인드까지 모두 풀었수다🍊 | 비하인드 코멘터리 | 폭싹 속았수다 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "48:20",
-            "view_count": "2206487",
-            "thumbnail_url": "https://i.ytimg.com/vi/UjJw3OSoG4E/hqdefault.jpg"
-        },
-        {
-            "video_id": "10lfmkm3-vU",
-            "title": "[유브이 녹음실] 명화라이브홀에서 콘서트 (이명화 편) (ENG)",
-            "channel_name": "유브이 방 - UV BANG",
-            "category": "Comedy",
-            "duration": "14:28",
-            "view_count": "636201",
-            "thumbnail_url": "https://i.ytimg.com/vi/10lfmkm3-vU/hqdefault.jpg"
         }
     ]
 }
