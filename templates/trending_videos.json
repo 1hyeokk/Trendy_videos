@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-04-23 12:04:55",
+    "scraped_time": "2025-04-23 13:25:25",
     "videos": [
         {
             "video_id": "yomKWG44odg",
@@ -7,7 +7,7 @@
             "channel_name": "Hebi.",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "738066",
+            "view_count": "749299",
             "thumbnail_url": "https://i.ytimg.com/vi/yomKWG44odg/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "7637031",
+            "view_count": "7872981",
             "thumbnail_url": "https://i.ytimg.com/vi/Csaj3X6PKxY/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "쯔양밖정원",
             "category": "People & Blogs",
             "duration": "11:40",
-            "view_count": "113202",
+            "view_count": "120334",
             "thumbnail_url": "https://i.ytimg.com/vi/LwtLnFSwPqg/hqdefault.jpg"
         },
         {
@@ -34,8 +34,17 @@
             "channel_name": "STUDIO CHOOM [스튜디오 춤]",
             "category": "Entertainment",
             "duration": "3:05",
-            "view_count": "97602",
+            "view_count": "105596",
             "thumbnail_url": "https://i.ytimg.com/vi/ZKgXbiR7Qkk/hqdefault.jpg"
+        },
+        {
+            "video_id": "aKramwaDHj8",
+            "title": "생연어 1300g에 마요네즈 비비기",
+            "channel_name": "먹어볼래TryToEat",
+            "category": "People & Blogs",
+            "duration": "10:46",
+            "view_count": "190249",
+            "thumbnail_url": "https://i.ytimg.com/vi/aKramwaDHj8/hqdefault.jpg"
         },
         {
             "video_id": "ilfTncxep78",
@@ -43,7 +52,7 @@
             "channel_name": "MBC Sports+",
             "category": "Sports",
             "duration": "14:40",
-            "view_count": "97066",
+            "view_count": "103241",
             "thumbnail_url": "https://i.ytimg.com/vi/ilfTncxep78/hqdefault.jpg"
         },
         {
@@ -52,26 +61,8 @@
             "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
             "category": "Entertainment",
             "duration": "17:50",
-            "view_count": "1401665",
+            "view_count": "1408720",
             "thumbnail_url": "https://i.ytimg.com/vi/dtJ9j8grYHk/hqdefault.jpg"
-        },
-        {
-            "video_id": "-tal4c_pHNc",
-            "title": "겨울왕국 캐나다에 한국 온돌을 깔았을때 가족들의 반응은?! #hoyaondol #해외반응 #캐나다가족반응",
-            "channel_name": "캐나다 구서방 Ku In Canada",
-            "category": "People & Blogs",
-            "duration": "10:04",
-            "view_count": "118677",
-            "thumbnail_url": "https://i.ytimg.com/vi/-tal4c_pHNc/hqdefault.jpg"
-        },
-        {
-            "video_id": "8dkimOsQ5EU",
-            "title": "'아빠어디가' 이후 100년만에 찬호랑 데이트 | 가장(멋진)류진",
-            "channel_name": "가장(멋진)류진 petiteRyujin",
-            "category": "People & Blogs",
-            "duration": "15:33",
-            "view_count": "342281",
-            "thumbnail_url": "https://i.ytimg.com/vi/8dkimOsQ5EU/hqdefault.jpg"
         },
         {
             "video_id": "sH_0dfHqsOI",
@@ -79,8 +70,35 @@
             "channel_name": "워크맨-Workman",
             "category": "Entertainment",
             "duration": "18:15",
-            "view_count": "244210",
+            "view_count": "261569",
             "thumbnail_url": "https://i.ytimg.com/vi/sH_0dfHqsOI/hqdefault.jpg"
+        },
+        {
+            "video_id": "-tal4c_pHNc",
+            "title": "겨울왕국 캐나다에 한국 온돌을 깔았을때 가족들의 반응은?! #hoyaondol #해외반응 #캐나다가족반응",
+            "channel_name": "캐나다 구서방 Ku In Canada",
+            "category": "People & Blogs",
+            "duration": "10:04",
+            "view_count": "123014",
+            "thumbnail_url": "https://i.ytimg.com/vi/-tal4c_pHNc/hqdefault.jpg"
+        },
+        {
+            "video_id": "bd8zew8vq_A",
+            "title": "💔대문자 T와 F가 함께 고민 상담해주면 벌어지는 일 | 진주랑 연애 고민상담소",
+            "channel_name": "오늘의 주우재",
+            "category": "People & Blogs",
+            "duration": "26:03",
+            "view_count": "98394",
+            "thumbnail_url": "https://i.ytimg.com/vi/bd8zew8vq_A/hqdefault.jpg"
+        },
+        {
+            "video_id": "8dkimOsQ5EU",
+            "title": "'아빠어디가' 이후 100년만에 찬호랑 데이트 | 가장(멋진)류진",
+            "channel_name": "가장(멋진)류진 petiteRyujin",
+            "category": "People & Blogs",
+            "duration": "15:33",
+            "view_count": "348624",
+            "thumbnail_url": "https://i.ytimg.com/vi/8dkimOsQ5EU/hqdefault.jpg"
         },
         {
             "video_id": "Qhz2L8WzgIw",
@@ -88,7 +106,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "7:26",
-            "view_count": "2708605",
+            "view_count": "2713707",
             "thumbnail_url": "https://i.ytimg.com/vi/Qhz2L8WzgIw/hqdefault.jpg"
         },
         {
@@ -97,17 +115,8 @@
             "channel_name": "김쫀떡",
             "category": "Pets & Animals",
             "duration": "15:28",
-            "view_count": "126120",
+            "view_count": "130508",
             "thumbnail_url": "https://i.ytimg.com/vi/HvdMXiTh7Ak/hqdefault.jpg"
-        },
-        {
-            "video_id": "bd8zew8vq_A",
-            "title": "💔대문자 T와 F가 함께 고민 상담해주면 벌어지는 일 | 진주랑 연애 고민상담소",
-            "channel_name": "오늘의 주우재",
-            "category": "People & Blogs",
-            "duration": "26:03",
-            "view_count": "92619",
-            "thumbnail_url": "https://i.ytimg.com/vi/bd8zew8vq_A/hqdefault.jpg"
         },
         {
             "video_id": "ZbISojlxV5M",
@@ -115,7 +124,7 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "15:34",
-            "view_count": "345104",
+            "view_count": "362202",
             "thumbnail_url": "https://i.ytimg.com/vi/ZbISojlxV5M/hqdefault.jpg"
         },
         {
@@ -124,17 +133,8 @@
             "channel_name": "매미킴",
             "category": "Sports",
             "duration": "23:52",
-            "view_count": "928597",
+            "view_count": "946930",
             "thumbnail_url": "https://i.ytimg.com/vi/zU7LGJ5MGAo/hqdefault.jpg"
-        },
-        {
-            "video_id": "S5jaYVVSRy4",
-            "title": "연애 적응 시기",
-            "channel_name": "짧은대본 ShortPaper",
-            "category": "Entertainment",
-            "duration": "9:36",
-            "view_count": "803659",
-            "thumbnail_url": "https://i.ytimg.com/vi/S5jaYVVSRy4/hqdefault.jpg"
         },
         {
             "video_id": "MMAXmX1Jf-c",
@@ -142,8 +142,26 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "17:24",
-            "view_count": "69457",
+            "view_count": "71342",
             "thumbnail_url": "https://i.ytimg.com/vi/MMAXmX1Jf-c/hqdefault.jpg"
+        },
+        {
+            "video_id": "S5jaYVVSRy4",
+            "title": "연애 적응 시기",
+            "channel_name": "짧은대본 ShortPaper",
+            "category": "Entertainment",
+            "duration": "9:36",
+            "view_count": "807073",
+            "thumbnail_url": "https://i.ytimg.com/vi/S5jaYVVSRy4/hqdefault.jpg"
+        },
+        {
+            "video_id": "IN0yY3TfdEg",
+            "title": "(SUB) 생일 주간 vlog l 희두가 오다 주운 에르메스 l 이나연이 큰거 쏜다. 생일 역조공 EVENT | 행복은 강도가 아닌 빈도💕",
+            "channel_name": "일단이나연 NAYEON",
+            "category": "People & Blogs",
+            "duration": "22:00",
+            "view_count": "128114",
+            "thumbnail_url": "https://i.ytimg.com/vi/IN0yY3TfdEg/hqdefault.jpg"
         },
         {
             "video_id": "c_ZfktnCWwE",
@@ -151,7 +169,7 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "22:07",
-            "view_count": "274989",
+            "view_count": "276752",
             "thumbnail_url": "https://i.ytimg.com/vi/c_ZfktnCWwE/hqdefault.jpg"
         },
         {
@@ -160,26 +178,8 @@
             "channel_name": "KBS WORLD TV",
             "category": "Entertainment",
             "duration": "23:34",
-            "view_count": "86061",
+            "view_count": "87147",
             "thumbnail_url": "https://i.ytimg.com/vi/cYQU8-iMAH0/hqdefault.jpg"
-        },
-        {
-            "video_id": "IN0yY3TfdEg",
-            "title": "(SUB) 생일 주간 vlog l 희두가 오다 주운 에르메스 l 이나연이 큰거 쏜다. 생일 역조공 EVENT | 행복은 강도가 아닌 빈도💕",
-            "channel_name": "일단이나연 NAYEON",
-            "category": "People & Blogs",
-            "duration": "22:00",
-            "view_count": "121259",
-            "thumbnail_url": "https://i.ytimg.com/vi/IN0yY3TfdEg/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ik4ckKTRz0w",
-            "title": "개막 한 달? 일단 모아 왔습니다.｜이정후 2025 MLB 활약상",
-            "channel_name": "SPOTV 오리지널",
-            "category": "Sports",
-            "duration": "16:04",
-            "view_count": "893551",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ik4ckKTRz0w/hqdefault.jpg"
         },
         {
             "video_id": "DzUMHryailk",
@@ -187,8 +187,17 @@
             "channel_name": "홍기종기 (이홍기)",
             "category": "Entertainment",
             "duration": "3:00",
-            "view_count": "54326",
+            "view_count": "57168",
             "thumbnail_url": "https://i.ytimg.com/vi/DzUMHryailk/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ik4ckKTRz0w",
+            "title": "개막 한 달? 일단 모아 왔습니다.｜이정후 2025 MLB 활약상",
+            "channel_name": "SPOTV 오리지널",
+            "category": "Sports",
+            "duration": "16:04",
+            "view_count": "897710",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ik4ckKTRz0w/hqdefault.jpg"
         },
         {
             "video_id": "zbXFTjqaitY",
@@ -196,8 +205,35 @@
             "channel_name": "캡틴따거 Captain Brother",
             "category": "Travel & Events",
             "duration": "34:05",
-            "view_count": "216840",
+            "view_count": "219365",
             "thumbnail_url": "https://i.ytimg.com/vi/zbXFTjqaitY/hqdefault.jpg"
+        },
+        {
+            "video_id": "7nGsxYrc0Zo",
+            "title": "시댁 방문 이바지와 영남씨의 과거 이야기",
+            "channel_name": "니얼굴_은혜씨 Eun hye",
+            "category": "People & Blogs",
+            "duration": "15:30",
+            "view_count": "228954",
+            "thumbnail_url": "https://i.ytimg.com/vi/7nGsxYrc0Zo/hqdefault.jpg"
+        },
+        {
+            "video_id": "0yJqPDMDhz4",
+            "title": "[최초공개] 얼마나 끈적하길래...⁉️ 글루 글로스 대신써드림",
+            "channel_name": "Saerom Min개코의 오픈스튜디오",
+            "category": "Entertainment",
+            "duration": "11:00",
+            "view_count": "162684",
+            "thumbnail_url": "https://i.ytimg.com/vi/0yJqPDMDhz4/hqdefault.jpg"
+        },
+        {
+            "video_id": "3PNSdOcLXk4",
+            "title": "은장고 씹어 먹은 연시은! 일진 연합에 맞서는 약한영웅 CLASS 2┃약한영웅 Class 2, MBC 250420 방송",
+            "channel_name": "출발! 비디오여행 : MBC 공식 채널",
+            "category": "Film & Animation",
+            "duration": "8:14",
+            "view_count": "107892",
+            "thumbnail_url": "https://i.ytimg.com/vi/3PNSdOcLXk4/hqdefault.jpg"
         },
         {
             "video_id": "vi0rcYGZD3o",
@@ -205,17 +241,8 @@
             "channel_name": "이자반",
             "category": "People & Blogs",
             "duration": "15:25",
-            "view_count": "203712",
+            "view_count": "204955",
             "thumbnail_url": "https://i.ytimg.com/vi/vi0rcYGZD3o/hqdefault.jpg"
-        },
-        {
-            "video_id": "3veRj6plb1c",
-            "title": "'기습 번트+3출루' 이정후… 코치도 웃게 만들었다 #SPOTIME",
-            "channel_name": "스포타임",
-            "category": "Sports",
-            "duration": "2:27",
-            "view_count": "2455418",
-            "thumbnail_url": "https://i.ytimg.com/vi/3veRj6plb1c/hqdefault.jpg"
         },
         {
             "video_id": "rTZmmk5NHGU",
@@ -223,8 +250,17 @@
             "channel_name": "아이돌 인간극장",
             "category": "Music",
             "duration": "35:46",
-            "view_count": "351024",
+            "view_count": "352378",
             "thumbnail_url": "https://i.ytimg.com/vi/rTZmmk5NHGU/hqdefault.jpg"
+        },
+        {
+            "video_id": "3veRj6plb1c",
+            "title": "'기습 번트+3출루' 이정후… 코치도 웃게 만들었다 #SPOTIME",
+            "channel_name": "스포타임",
+            "category": "Sports",
+            "duration": "2:27",
+            "view_count": "2460577",
+            "thumbnail_url": "https://i.ytimg.com/vi/3veRj6plb1c/hqdefault.jpg"
         },
         {
             "video_id": "bQH_Lb_8Hg8",
@@ -232,7 +268,7 @@
             "channel_name": "더존하우징",
             "category": "Howto & Style",
             "duration": "16:36",
-            "view_count": "215470",
+            "view_count": "216687",
             "thumbnail_url": "https://i.ytimg.com/vi/bQH_Lb_8Hg8/hqdefault.jpg"
         },
         {
@@ -241,7 +277,7 @@
             "channel_name": "유 퀴즈 온 더 튜브",
             "category": "Entertainment",
             "duration": "1:33",
-            "view_count": "1009290",
+            "view_count": "1017654",
             "thumbnail_url": "https://i.ytimg.com/vi/hoYkaoF_lGE/hqdefault.jpg"
         },
         {
@@ -250,17 +286,8 @@
             "channel_name": "ASTRO 아스트로",
             "category": "Music",
             "duration": "5:40",
-            "view_count": "3301892",
+            "view_count": "3315983",
             "thumbnail_url": "https://i.ytimg.com/vi/UUFJlUy5aA4/hqdefault.jpg"
-        },
-        {
-            "video_id": "x2L9Hfeok4o",
-            "title": "포켓몬이 눕프로해커 마다 진화합니다 - 마인크래프트 눕프로해커",
-            "channel_name": "우왁굳",
-            "category": "Gaming",
-            "duration": "17:10",
-            "view_count": "374253",
-            "thumbnail_url": "https://i.ytimg.com/vi/x2L9Hfeok4o/hqdefault.jpg"
         },
         {
             "video_id": "Fk2o1S6TA14",
@@ -268,8 +295,17 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "8:17",
-            "view_count": "645885",
+            "view_count": "648189",
             "thumbnail_url": "https://i.ytimg.com/vi/Fk2o1S6TA14/hqdefault.jpg"
+        },
+        {
+            "video_id": "x2L9Hfeok4o",
+            "title": "포켓몬이 눕프로해커 마다 진화합니다 - 마인크래프트 눕프로해커",
+            "channel_name": "우왁굳",
+            "category": "Gaming",
+            "duration": "17:10",
+            "view_count": "375595",
+            "thumbnail_url": "https://i.ytimg.com/vi/x2L9Hfeok4o/hqdefault.jpg"
         },
         {
             "video_id": "Gw9_huda-y4",
@@ -277,7 +313,7 @@
             "channel_name": "아이네 INE",
             "category": "People & Blogs",
             "duration": "9:13",
-            "view_count": "142930",
+            "view_count": "143835",
             "thumbnail_url": "https://i.ytimg.com/vi/Gw9_huda-y4/hqdefault.jpg"
         },
         {
@@ -286,7 +322,7 @@
             "channel_name": "파비앙 Fabien Yoon",
             "category": "Entertainment",
             "duration": "18:11",
-            "view_count": "407583",
+            "view_count": "409230",
             "thumbnail_url": "https://i.ytimg.com/vi/EbZcfvuafZA/hqdefault.jpg"
         },
         {
@@ -295,17 +331,8 @@
             "channel_name": "꼰대희",
             "category": "Comedy",
             "duration": "30:01",
-            "view_count": "484170",
+            "view_count": "488011",
             "thumbnail_url": "https://i.ytimg.com/vi/JwIkZYKEU_Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "ekjqHG8Lu9k",
-            "title": "롯데가 잘해서 들뜬 이대호의 올시즌 재예측ㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "이대호 [RE:DAEHO]",
-            "category": "Sports",
-            "duration": "13:47",
-            "view_count": "393669",
-            "thumbnail_url": "https://i.ytimg.com/vi/ekjqHG8Lu9k/hqdefault.jpg"
         },
         {
             "video_id": "4WfStc6FMaI",
@@ -313,26 +340,17 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "143116",
+            "view_count": "145190",
             "thumbnail_url": "https://i.ytimg.com/vi/4WfStc6FMaI/hqdefault.jpg"
         },
         {
-            "video_id": "0LiCt0QciGc",
-            "title": "제로슈가, 정말 먹어도 될까? 최초 공개하는 단맛의 비밀부터 대체 감미료의 숨겨진 이야기까지 대공개 (feat. 최명환 교수/우창윤 교수) [취미는 과학/ 29화 확장판]",
-            "channel_name": "EBS 컬렉션 - 사이언스",
-            "category": "Science & Technology",
-            "duration": "47:36",
-            "view_count": "412223",
-            "thumbnail_url": "https://i.ytimg.com/vi/0LiCt0QciGc/hqdefault.jpg"
-        },
-        {
-            "video_id": "2DQfxV6ob5I",
-            "title": "광고❌ 보정❌ 진심만 100% 담은 쿠션 리뷰!!ㅣ홍조+모공쟁이들 당장 들어왓!🔥",
-            "channel_name": "회사원A",
-            "category": "Howto & Style",
-            "duration": "16:51",
-            "view_count": "486635",
-            "thumbnail_url": "https://i.ytimg.com/vi/2DQfxV6ob5I/hqdefault.jpg"
+            "video_id": "ekjqHG8Lu9k",
+            "title": "롯데가 잘해서 들뜬 이대호의 올시즌 재예측ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "이대호 [RE:DAEHO]",
+            "category": "Sports",
+            "duration": "13:47",
+            "view_count": "396381",
+            "thumbnail_url": "https://i.ytimg.com/vi/ekjqHG8Lu9k/hqdefault.jpg"
         },
         {
             "video_id": "MJ1712ftwu0",
@@ -340,8 +358,17 @@
             "channel_name": "planD플랜디",
             "category": "People & Blogs",
             "duration": "50:02",
-            "view_count": "444506",
+            "view_count": "447128",
             "thumbnail_url": "https://i.ytimg.com/vi/MJ1712ftwu0/hqdefault.jpg"
+        },
+        {
+            "video_id": "2DQfxV6ob5I",
+            "title": "광고❌ 보정❌ 진심만 100% 담은 쿠션 리뷰!!ㅣ홍조+모공쟁이들 당장 들어왓!🔥",
+            "channel_name": "회사원A",
+            "category": "Howto & Style",
+            "duration": "16:51",
+            "view_count": "488279",
+            "thumbnail_url": "https://i.ytimg.com/vi/2DQfxV6ob5I/hqdefault.jpg"
         },
         {
             "video_id": "MOI0--odDpc",
@@ -349,35 +376,8 @@
             "channel_name": "김복순",
             "category": "People & Blogs",
             "duration": "32:29",
-            "view_count": "186660",
+            "view_count": "187298",
             "thumbnail_url": "https://i.ytimg.com/vi/MOI0--odDpc/hqdefault.jpg"
-        },
-        {
-            "video_id": "_CFgmmFvjjA",
-            "title": "Singing live undercover pretending to be a track (ft. BEAST) [BGL : Background Live] | JAYKEEOUT",
-            "channel_name": "JAYKEEOUT 제이키아웃",
-            "category": "Entertainment",
-            "duration": "26:03",
-            "view_count": "478998",
-            "thumbnail_url": "https://i.ytimg.com/vi/_CFgmmFvjjA/hqdefault.jpg"
-        },
-        {
-            "video_id": "tOpq48wj8LU",
-            "title": "※방송 최초 공개※ 백화점 명품관 뺨치는 드레스룸 2개 보유, 아시아 프린스 장근석의 강남 80평대 고급 주택🏡 [#가보자고4]ㅣMBN 20250420 방송",
-            "channel_name": "MPLAY : 엠플레이",
-            "category": "Entertainment",
-            "duration": "29:56",
-            "view_count": "144614",
-            "thumbnail_url": "https://i.ytimg.com/vi/tOpq48wj8LU/hqdefault.jpg"
-        },
-        {
-            "video_id": "45hKHD0yP5A",
-            "title": "오키나와까지 가서 아무것도 안하는vlog",
-            "channel_name": "찰스엔터",
-            "category": "People & Blogs",
-            "duration": "27:13",
-            "view_count": "1162279",
-            "thumbnail_url": "https://i.ytimg.com/vi/45hKHD0yP5A/hqdefault.jpg"
         }
     ]
 }
