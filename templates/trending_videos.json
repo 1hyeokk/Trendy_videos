@@ -1,14 +1,32 @@
 {
-    "scraped_time": "2025-05-13 14:20:55",
+    "scraped_time": "2025-05-13 15:30:54",
     "videos": [
+        {
+            "video_id": "PEprsGRAorM",
+            "title": "수학여행때 못가서 22년만에 처음 가본 그 나라 【중국1】",
+            "channel_name": "빠니보틀 Pani Bottle",
+            "category": "Travel & Events",
+            "duration": "21:56",
+            "view_count": "864848",
+            "thumbnail_url": "https://i.ytimg.com/vi/PEprsGRAorM/hqdefault.jpg"
+        },
         {
             "video_id": "hM2iXCYsb4o",
             "title": "2년여의 기다림 끝에 찾아온 아기👶 극F남편에게 임밍아웃 했더니?! [난임로그 ep.6] Baby on the way",
             "channel_name": "엔조이커플enjoycouple",
             "category": "Entertainment",
             "duration": "17:18",
-            "view_count": "1362384",
+            "view_count": "1367466",
             "thumbnail_url": "https://i.ytimg.com/vi/hM2iXCYsb4o/hqdefault.jpg"
+        },
+        {
+            "video_id": "dcJUPNvpnYI",
+            "title": "[무공해] 해도해도 너무하지만 공감합니다",
+            "channel_name": "유병재",
+            "category": "Comedy",
+            "duration": "34:51",
+            "view_count": "279986",
+            "thumbnail_url": "https://i.ytimg.com/vi/dcJUPNvpnYI/hqdefault.jpg"
         },
         {
             "video_id": "v_irxupeQhc",
@@ -16,8 +34,17 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:16:50",
-            "view_count": "2424151",
+            "view_count": "2441548",
             "thumbnail_url": "https://i.ytimg.com/vi/v_irxupeQhc/hqdefault.jpg"
+        },
+        {
+            "video_id": "2_1BVY35U-U",
+            "title": "아내의 한국 생활 6년만에 드디어 프랑스 장모님께서 한국에 방문하셨습니다",
+            "channel_name": "김치와 바게뜨 / Kimchi & Baguette",
+            "category": "People & Blogs",
+            "duration": "20:03",
+            "view_count": "467405",
+            "thumbnail_url": "https://i.ytimg.com/vi/2_1BVY35U-U/hqdefault.jpg"
         },
         {
             "video_id": "Hu0sQuyYTt8",
@@ -25,8 +52,26 @@
             "channel_name": "SBS ",
             "category": "Entertainment",
             "duration": "14:55",
-            "view_count": "426888",
+            "view_count": "449486",
             "thumbnail_url": "https://i.ytimg.com/vi/Hu0sQuyYTt8/hqdefault.jpg"
+        },
+        {
+            "video_id": "9sojB8pTrhE",
+            "title": "인생 첫 결심.. 잘할 수 있을까..?🎬 (긴장 MAX 모델 도전기🩰, 사무실 첫 출근☕, 서울집 이사, 오랜만에 k-미용, 노량진수산시장🐟)",
+            "channel_name": "토모토모TomoTomo",
+            "category": "People & Blogs",
+            "duration": "32:19",
+            "view_count": "267592",
+            "thumbnail_url": "https://i.ytimg.com/vi/9sojB8pTrhE/hqdefault.jpg"
+        },
+        {
+            "video_id": "AAuFrPztTB4",
+            "title": "[라엘 할인 링크 有] 어린이날 생긴 일★ 최고예요와 삼계탕, 맛있는 라면 조합, 롯데월드, 5세 교육 중",
+            "channel_name": "yoovlog",
+            "category": "People & Blogs",
+            "duration": "23:40",
+            "view_count": "149416",
+            "thumbnail_url": "https://i.ytimg.com/vi/AAuFrPztTB4/hqdefault.jpg"
         },
         {
             "video_id": "KaVC81mtbS4",
@@ -34,7 +79,7 @@
             "channel_name": "tvN DRAMA",
             "category": "Entertainment",
             "duration": "3:10",
-            "view_count": "1478615",
+            "view_count": "1490005",
             "thumbnail_url": "https://i.ytimg.com/vi/KaVC81mtbS4/hqdefault.jpg"
         },
         {
@@ -43,7 +88,7 @@
             "channel_name": "tripleS official",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "4108725",
+            "view_count": "4281976",
             "thumbnail_url": "https://i.ytimg.com/vi/pTycfmVzdl8/hqdefault.jpg"
         },
         {
@@ -52,8 +97,17 @@
             "channel_name": "Hanwha Life Esports",
             "category": "Gaming",
             "duration": "14:26",
-            "view_count": "227345",
+            "view_count": "235177",
             "thumbnail_url": "https://i.ytimg.com/vi/qjgN0uNxZm0/hqdefault.jpg"
+        },
+        {
+            "video_id": "SpGI1UlYIKE",
+            "title": "꿈만 같던 스페인 버킷리스트",
+            "channel_name": "포테이토 터틀",
+            "category": "People & Blogs",
+            "duration": "18:22",
+            "view_count": "183456",
+            "thumbnail_url": "https://i.ytimg.com/vi/SpGI1UlYIKE/hqdefault.jpg"
         },
         {
             "video_id": "l4On7TQoM-M",
@@ -61,7 +115,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "2566224",
+            "view_count": "2641066",
             "thumbnail_url": "https://i.ytimg.com/vi/l4On7TQoM-M/hqdefault.jpg"
         },
         {
@@ -70,7 +124,7 @@
             "channel_name": "웃소 Wootso",
             "category": "Entertainment",
             "duration": "15:53",
-            "view_count": "541981",
+            "view_count": "542982",
             "thumbnail_url": "https://i.ytimg.com/vi/dTwQTqguMAY/hqdefault.jpg"
         },
         {
@@ -79,7 +133,7 @@
             "channel_name": "김진짜 Real KIM",
             "category": "Sports",
             "duration": "8:32",
-            "view_count": "469246",
+            "view_count": "473229",
             "thumbnail_url": "https://i.ytimg.com/vi/n8Ycb_kjY2o/hqdefault.jpg"
         },
         {
@@ -88,7 +142,7 @@
             "channel_name": "노마드션 No mad Shaun",
             "category": "Travel & Events",
             "duration": "24:26",
-            "view_count": "342442",
+            "view_count": "344747",
             "thumbnail_url": "https://i.ytimg.com/vi/NwF92y8uuj8/hqdefault.jpg"
         },
         {
@@ -97,7 +151,7 @@
             "channel_name": "MBCkpop",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "629635",
+            "view_count": "636596",
             "thumbnail_url": "https://i.ytimg.com/vi/28wawdBsXSc/hqdefault.jpg"
         },
         {
@@ -106,17 +160,8 @@
             "channel_name": "카리나의 삶",
             "category": "People & Blogs",
             "duration": "11:08",
-            "view_count": "312238",
+            "view_count": "313691",
             "thumbnail_url": "https://i.ytimg.com/vi/yoLaV_oPuU8/hqdefault.jpg"
-        },
-        {
-            "video_id": "b8NuJyeN11g",
-            "title": "정신 차린 바람둥이",
-            "channel_name": "짧은대본 ShortPaper",
-            "category": "Entertainment",
-            "duration": "9:00",
-            "view_count": "565886",
-            "thumbnail_url": "https://i.ytimg.com/vi/b8NuJyeN11g/hqdefault.jpg"
         },
         {
             "video_id": "hP092xFmmUo",
@@ -124,8 +169,17 @@
             "channel_name": "fantagio 판타지오",
             "category": "Entertainment",
             "duration": "3:53",
-            "view_count": "162769",
+            "view_count": "167729",
             "thumbnail_url": "https://i.ytimg.com/vi/hP092xFmmUo/hqdefault.jpg"
+        },
+        {
+            "video_id": "b8NuJyeN11g",
+            "title": "정신 차린 바람둥이",
+            "channel_name": "짧은대본 ShortPaper",
+            "category": "Entertainment",
+            "duration": "9:00",
+            "view_count": "568043",
+            "thumbnail_url": "https://i.ytimg.com/vi/b8NuJyeN11g/hqdefault.jpg"
         },
         {
             "video_id": "WNhcBUmbFgQ",
@@ -133,17 +187,8 @@
             "channel_name": "엄마의손맛",
             "category": "Howto & Style",
             "duration": "15:43",
-            "view_count": "319823",
+            "view_count": "324014",
             "thumbnail_url": "https://i.ytimg.com/vi/WNhcBUmbFgQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "5lBKm1j7b5U",
-            "title": "바다 바로 앞에서 낚시와 캠핑 모든게 해결되는 조용한 방파제!!!",
-            "channel_name": "진석기시대",
-            "category": "Entertainment",
-            "duration": "29:15",
-            "view_count": "399515",
-            "thumbnail_url": "https://i.ytimg.com/vi/5lBKm1j7b5U/hqdefault.jpg"
         },
         {
             "video_id": "DMuFTog_Xv8",
@@ -151,8 +196,17 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "386364",
+            "view_count": "398132",
             "thumbnail_url": "https://i.ytimg.com/vi/DMuFTog_Xv8/hqdefault.jpg"
+        },
+        {
+            "video_id": "5lBKm1j7b5U",
+            "title": "바다 바로 앞에서 낚시와 캠핑 모든게 해결되는 조용한 방파제!!!",
+            "channel_name": "진석기시대",
+            "category": "Entertainment",
+            "duration": "29:15",
+            "view_count": "401851",
+            "thumbnail_url": "https://i.ytimg.com/vi/5lBKm1j7b5U/hqdefault.jpg"
         },
         {
             "video_id": "s1-6DIlQ2mY",
@@ -160,7 +214,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "16:56",
-            "view_count": "727337",
+            "view_count": "729056",
             "thumbnail_url": "https://i.ytimg.com/vi/s1-6DIlQ2mY/hqdefault.jpg"
         },
         {
@@ -169,7 +223,7 @@
             "channel_name": "조승연의 탐구생활",
             "category": "Howto & Style",
             "duration": "21:32",
-            "view_count": "604664",
+            "view_count": "613001",
             "thumbnail_url": "https://i.ytimg.com/vi/gDmH7KcXh-4/hqdefault.jpg"
         },
         {
@@ -178,17 +232,8 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "32:43",
-            "view_count": "695885",
+            "view_count": "698607",
             "thumbnail_url": "https://i.ytimg.com/vi/DfGpDqHCwks/hqdefault.jpg"
-        },
-        {
-            "video_id": "03Coy8zu6v0",
-            "title": "하이보이즈 (HI-BOYZ) - 그날이 오면 (When the Day Comes)  PERFORMANCE VIDEO Teaser",
-            "channel_name": "Stone Music Entertainment",
-            "category": "Music",
-            "duration": "0:23",
-            "view_count": "422178",
-            "thumbnail_url": "https://i.ytimg.com/vi/03Coy8zu6v0/hqdefault.jpg"
         },
         {
             "video_id": "RUoXYlvR9PQ",
@@ -196,8 +241,17 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "10:51",
-            "view_count": "988526",
+            "view_count": "990107",
             "thumbnail_url": "https://i.ytimg.com/vi/RUoXYlvR9PQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "03Coy8zu6v0",
+            "title": "하이보이즈 (HI-BOYZ) - 그날이 오면 (When the Day Comes)  PERFORMANCE VIDEO Teaser",
+            "channel_name": "Stone Music Entertainment",
+            "category": "Music",
+            "duration": "0:23",
+            "view_count": "423401",
+            "thumbnail_url": "https://i.ytimg.com/vi/03Coy8zu6v0/hqdefault.jpg"
         },
         {
             "video_id": "nQCE5_KIkIU",
@@ -205,7 +259,7 @@
             "channel_name": "tzuyang쯔양",
             "category": "People & Blogs",
             "duration": "14:50",
-            "view_count": "1073733",
+            "view_count": "1089136",
             "thumbnail_url": "https://i.ytimg.com/vi/nQCE5_KIkIU/hqdefault.jpg"
         },
         {
@@ -214,7 +268,7 @@
             "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
             "duration": "34:18",
-            "view_count": "314285",
+            "view_count": "314916",
             "thumbnail_url": "https://i.ytimg.com/vi/f6-lGGN9Zkw/hqdefault.jpg"
         },
         {
@@ -223,7 +277,7 @@
             "channel_name": "SBS Catch",
             "category": "Entertainment",
             "duration": "14:35",
-            "view_count": "199787",
+            "view_count": "200446",
             "thumbnail_url": "https://i.ytimg.com/vi/3gbSMraPKSA/hqdefault.jpg"
         },
         {
@@ -232,7 +286,7 @@
             "channel_name": "E밥세끼",
             "category": "Entertainment",
             "duration": "22:51",
-            "view_count": "300457",
+            "view_count": "302255",
             "thumbnail_url": "https://i.ytimg.com/vi/2xjGst9ECDk/hqdefault.jpg"
         },
         {
@@ -241,17 +295,8 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "38:30",
-            "view_count": "1302763",
+            "view_count": "1306016",
             "thumbnail_url": "https://i.ytimg.com/vi/sRVBoS87Y9g/hqdefault.jpg"
-        },
-        {
-            "video_id": "nn11HJI6UY8",
-            "title": "🇮🇹유럽여행🇨🇭 왜갔어요?! 이런저런 수다 떨며 호텔메이트 겟레위드미 in 밀라노",
-            "channel_name": "Yoo True",
-            "category": "Howto & Style",
-            "duration": "19:29",
-            "view_count": "112234",
-            "thumbnail_url": "https://i.ytimg.com/vi/nn11HJI6UY8/hqdefault.jpg"
         },
         {
             "video_id": "qLj8ViMr5ag",
@@ -259,8 +304,17 @@
             "channel_name": "팔숙이 palsook",
             "category": "Howto & Style",
             "duration": "2:00",
-            "view_count": "133125",
+            "view_count": "133346",
             "thumbnail_url": "https://i.ytimg.com/vi/qLj8ViMr5ag/hqdefault.jpg"
+        },
+        {
+            "video_id": "nn11HJI6UY8",
+            "title": "🇮🇹유럽여행🇨🇭 왜갔어요?! 이런저런 수다 떨며 호텔메이트 겟레위드미 in 밀라노",
+            "channel_name": "Yoo True",
+            "category": "Howto & Style",
+            "duration": "19:29",
+            "view_count": "113032",
+            "thumbnail_url": "https://i.ytimg.com/vi/nn11HJI6UY8/hqdefault.jpg"
         },
         {
             "video_id": "JdoYRqw4Ssw",
@@ -268,7 +322,7 @@
             "channel_name": "소정아리",
             "category": "People & Blogs",
             "duration": "26:20",
-            "view_count": "203260",
+            "view_count": "204126",
             "thumbnail_url": "https://i.ytimg.com/vi/JdoYRqw4Ssw/hqdefault.jpg"
         },
         {
@@ -277,7 +331,7 @@
             "channel_name": "ROSÉ",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "12716803",
+            "view_count": "12797460",
             "thumbnail_url": "https://i.ytimg.com/vi/ia2Ph61bYzc/hqdefault.jpg"
         },
         {
@@ -286,7 +340,7 @@
             "channel_name": "살빼조DietJo",
             "category": "People & Blogs",
             "duration": "28:40",
-            "view_count": "280834",
+            "view_count": "282050",
             "thumbnail_url": "https://i.ytimg.com/vi/WhClXMsX8iE/hqdefault.jpg"
         },
         {
@@ -295,7 +349,7 @@
             "channel_name": "DAY6 - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "753228",
+            "view_count": "758280",
             "thumbnail_url": "https://i.ytimg.com/vi/RZr3EcLeT_k/hqdefault.jpg"
         },
         {
@@ -304,26 +358,8 @@
             "channel_name": "홍석천이원일",
             "category": "Entertainment",
             "duration": "35:41",
-            "view_count": "388660",
+            "view_count": "390165",
             "thumbnail_url": "https://i.ytimg.com/vi/r1crce0To08/hqdefault.jpg"
-        },
-        {
-            "video_id": "pfJbDSVrgno",
-            "title": "24시간 동안 물 안 쓰기 vs 전기 안 쓰기!! 없으면 더 불편한 건 무엇일까?!",
-            "channel_name": "파뿌리",
-            "category": "Entertainment",
-            "duration": "37:26",
-            "view_count": "462367",
-            "thumbnail_url": "https://i.ytimg.com/vi/pfJbDSVrgno/hqdefault.jpg"
-        },
-        {
-            "video_id": "lBOo0qZVkBU",
-            "title": "88세 엄마와 현실 가족 여행 in 후쿠오카 (애숙누나, 집안 싸움)",
-            "channel_name": "김영철 오리지널 ",
-            "category": "Comedy",
-            "duration": "19:39",
-            "view_count": "245439",
-            "thumbnail_url": "https://i.ytimg.com/vi/lBOo0qZVkBU/hqdefault.jpg"
         },
         {
             "video_id": "zKfs2EM8LQ4",
@@ -331,53 +367,17 @@
             "channel_name": "i-dle (아이들)",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "20596000",
+            "view_count": "20656703",
             "thumbnail_url": "https://i.ytimg.com/vi/zKfs2EM8LQ4/hqdefault.jpg"
         },
         {
-            "video_id": "K5Hj1mWN-8c",
-            "title": "저 남자친구 생겼어요 ㅎㅎ",
-            "channel_name": "쓰까르",
-            "category": "People & Blogs",
-            "duration": "8:37",
-            "view_count": "282324",
-            "thumbnail_url": "https://i.ytimg.com/vi/K5Hj1mWN-8c/hqdefault.jpg"
-        },
-        {
-            "video_id": "Lz2XV2pXD8s",
-            "title": "9화 하이라이트｜정준원의 마음을 확인한 고윤정, 짝사랑 끝내고 쌍방 로맨스! #언젠가는슬기로울전공의생활 EP.9",
-            "channel_name": "tvN DRAMA",
-            "category": "Entertainment",
-            "duration": "8:00",
-            "view_count": "758543",
-            "thumbnail_url": "https://i.ytimg.com/vi/Lz2XV2pXD8s/hqdefault.jpg"
-        },
-        {
-            "video_id": "fbVK8lGC6Sk",
-            "title": "킹크랩 3000g으로 간장게장 담그기",
-            "channel_name": "먹어볼래TryToEat",
-            "category": "People & Blogs",
-            "duration": "9:01",
-            "view_count": "937491",
-            "thumbnail_url": "https://i.ytimg.com/vi/fbVK8lGC6Sk/hqdefault.jpg"
-        },
-        {
-            "video_id": "er6yLvNsg-8",
-            "title": "[도전 꿈의 무대 부처님 오신 날 기획] 전국 스님 노래자랑! [아침마당] KBS 250507 방송",
-            "channel_name": "KBS 교양",
-            "category": "Entertainment",
-            "duration": "37:57",
-            "view_count": "668341",
-            "thumbnail_url": "https://i.ytimg.com/vi/er6yLvNsg-8/hqdefault.jpg"
-        },
-        {
-            "video_id": "og8-1uxL9UI",
-            "title": "일주일만 일해도 돼요?",
-            "channel_name": "숏박스",
+            "video_id": "lBOo0qZVkBU",
+            "title": "88세 엄마와 현실 가족 여행 in 후쿠오카 (애숙누나, 집안 싸움)",
+            "channel_name": "김영철 오리지널 ",
             "category": "Comedy",
-            "duration": "9:27",
-            "view_count": "2055083",
-            "thumbnail_url": "https://i.ytimg.com/vi/og8-1uxL9UI/hqdefault.jpg"
+            "duration": "19:39",
+            "view_count": "246729",
+            "thumbnail_url": "https://i.ytimg.com/vi/lBOo0qZVkBU/hqdefault.jpg"
         }
     ]
 }
