@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-05-16 08:20:12",
+    "scraped_time": "2025-05-16 10:47:43",
     "videos": [
         {
             "video_id": "yzYxxGYa-ec",
@@ -7,7 +7,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "46:13",
-            "view_count": "1721316",
+            "view_count": "1751820",
             "thumbnail_url": "https://i.ytimg.com/vi/yzYxxGYa-ec/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "순풍 선우용여",
             "category": "People & Blogs",
             "duration": "20:50",
-            "view_count": "1477371",
+            "view_count": "1515285",
             "thumbnail_url": "https://i.ytimg.com/vi/YanBh_byM5U/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "할명수",
             "category": "Entertainment",
             "duration": "25:48",
-            "view_count": "1011819",
+            "view_count": "1030508",
             "thumbnail_url": "https://i.ytimg.com/vi/RFJlOvhvUZo/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "정형돈의 제목없음TV",
             "category": "Entertainment",
             "duration": "39:00",
-            "view_count": "1804446",
+            "view_count": "1830162",
             "thumbnail_url": "https://i.ytimg.com/vi/Wdcn9-haZqg/hqdefault.jpg"
         },
         {
@@ -43,8 +43,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "17170958",
+            "view_count": "17504100",
             "thumbnail_url": "https://i.ytimg.com/vi/ic31SJ4uK4Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "G44F04MMb9A",
+            "title": "김치 CEO 홍진경은 딸라엘과 도쿄에서 어떻게 놀까? (5성급 호텔, 명품 빈티지숍, 인생 돈까스집)",
+            "channel_name": "공부왕찐천재 홍진경",
+            "category": "Entertainment",
+            "duration": "25:25",
+            "view_count": "154954",
+            "thumbnail_url": "https://i.ytimg.com/vi/G44F04MMb9A/hqdefault.jpg"
         },
         {
             "video_id": "xmTrCS41JQw",
@@ -52,7 +61,7 @@
             "channel_name": "핫이슈지",
             "category": "People & Blogs",
             "duration": "9:47",
-            "view_count": "1523801",
+            "view_count": "1534674",
             "thumbnail_url": "https://i.ytimg.com/vi/xmTrCS41JQw/hqdefault.jpg"
         },
         {
@@ -61,7 +70,7 @@
             "channel_name": "임영웅",
             "category": "People & Blogs",
             "duration": "12:03",
-            "view_count": "236153",
+            "view_count": "243688",
             "thumbnail_url": "https://i.ytimg.com/vi/aml9nEl68RA/hqdefault.jpg"
         },
         {
@@ -70,7 +79,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "6:40",
-            "view_count": "674476",
+            "view_count": "681403",
             "thumbnail_url": "https://i.ytimg.com/vi/sk3ac6y4NnU/hqdefault.jpg"
         },
         {
@@ -79,17 +88,8 @@
             "channel_name": "짠한형 신동엽",
             "category": "Entertainment",
             "duration": "47:58",
-            "view_count": "1245216",
+            "view_count": "1253400",
             "thumbnail_url": "https://i.ytimg.com/vi/CzcCW3eXQMM/hqdefault.jpg"
-        },
-        {
-            "video_id": "5EzB_2Qcakw",
-            "title": "실물 두께? 배터리? 카메라? 삼성 갤럭시 S25 엣지 언빡싱&첫 인상!",
-            "channel_name": "ITSub잇섭",
-            "category": "Science & Technology",
-            "duration": "17:22",
-            "view_count": "1127033",
-            "thumbnail_url": "https://i.ytimg.com/vi/5EzB_2Qcakw/hqdefault.jpg"
         },
         {
             "video_id": "FG2D9UbL_y0",
@@ -97,8 +97,17 @@
             "channel_name": "Warner Bros. Korea",
             "category": "Film & Animation",
             "duration": "2:58",
-            "view_count": "534555",
+            "view_count": "569601",
             "thumbnail_url": "https://i.ytimg.com/vi/FG2D9UbL_y0/hqdefault.jpg"
+        },
+        {
+            "video_id": "5EzB_2Qcakw",
+            "title": "실물 두께? 배터리? 카메라? 삼성 갤럭시 S25 엣지 언빡싱&첫 인상!",
+            "channel_name": "ITSub잇섭",
+            "category": "Science & Technology",
+            "duration": "17:22",
+            "view_count": "1136817",
+            "thumbnail_url": "https://i.ytimg.com/vi/5EzB_2Qcakw/hqdefault.jpg"
         },
         {
             "video_id": "2aZpGnex2-0",
@@ -106,17 +115,8 @@
             "channel_name": "VIVO TV - 비보티비",
             "category": "Comedy",
             "duration": "23:47",
-            "view_count": "425428",
+            "view_count": "429704",
             "thumbnail_url": "https://i.ytimg.com/vi/2aZpGnex2-0/hqdefault.jpg"
-        },
-        {
-            "video_id": "m3GSVpMpDq4",
-            "title": "BOYNEXTDOOR(보이넥스트도어) 'I Feel Good' (4K) | STUDIO CHOOM ORIGINAL",
-            "channel_name": "STUDIO CHOOM [스튜디오 춤]",
-            "category": "Entertainment",
-            "duration": "3:03",
-            "view_count": "499844",
-            "thumbnail_url": "https://i.ytimg.com/vi/m3GSVpMpDq4/hqdefault.jpg"
         },
         {
             "video_id": "PEprsGRAorM",
@@ -124,7 +124,7 @@
             "channel_name": "빠니보틀 Pani Bottle",
             "category": "Travel & Events",
             "duration": "21:49",
-            "view_count": "1373479",
+            "view_count": "1379542",
             "thumbnail_url": "https://i.ytimg.com/vi/PEprsGRAorM/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "TV생물도감",
             "category": "Pets & Animals",
             "duration": "17:28",
-            "view_count": "870555",
+            "view_count": "883790",
             "thumbnail_url": "https://i.ytimg.com/vi/UQQuAcmqQxQ/hqdefault.jpg"
         },
         {
@@ -142,8 +142,17 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "623458",
+            "view_count": "650459",
             "thumbnail_url": "https://i.ytimg.com/vi/u7uko6XB2nQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "m3GSVpMpDq4",
+            "title": "BOYNEXTDOOR(보이넥스트도어) 'I Feel Good' (4K) | STUDIO CHOOM ORIGINAL",
+            "channel_name": "STUDIO CHOOM [스튜디오 춤]",
+            "category": "Entertainment",
+            "duration": "3:03",
+            "view_count": "512540",
+            "thumbnail_url": "https://i.ytimg.com/vi/m3GSVpMpDq4/hqdefault.jpg"
         },
         {
             "video_id": "QoV9MNSQae8",
@@ -151,7 +160,7 @@
             "channel_name": "SBS STORY",
             "category": "Pets & Animals",
             "duration": "14:49",
-            "view_count": "137238",
+            "view_count": "142891",
             "thumbnail_url": "https://i.ytimg.com/vi/QoV9MNSQae8/hqdefault.jpg"
         },
         {
@@ -160,7 +169,7 @@
             "channel_name": "엔조이커플enjoycouple",
             "category": "Entertainment",
             "duration": "17:18",
-            "view_count": "1566667",
+            "view_count": "1568543",
             "thumbnail_url": "https://i.ytimg.com/vi/hM2iXCYsb4o/hqdefault.jpg"
         },
         {
@@ -169,7 +178,7 @@
             "channel_name": "NCT DREAM",
             "category": "Music",
             "duration": "18:13",
-            "view_count": "241522",
+            "view_count": "244870",
             "thumbnail_url": "https://i.ytimg.com/vi/AuHP1BqzGks/hqdefault.jpg"
         },
         {
@@ -178,7 +187,7 @@
             "channel_name": "운동부 둘이 왔어요",
             "category": "Travel & Events",
             "duration": "16:53",
-            "view_count": "128504",
+            "view_count": "130714",
             "thumbnail_url": "https://i.ytimg.com/vi/SogIMsaNBoc/hqdefault.jpg"
         },
         {
@@ -187,7 +196,7 @@
             "channel_name": "카리나의 삶",
             "category": "People & Blogs",
             "duration": "10:06",
-            "view_count": "333306",
+            "view_count": "334778",
             "thumbnail_url": "https://i.ytimg.com/vi/f5bdnpj2zdY/hqdefault.jpg"
         },
         {
@@ -196,26 +205,8 @@
             "channel_name": "MPLAY : 엠플레이",
             "category": "Entertainment",
             "duration": "48:01",
-            "view_count": "233936",
+            "view_count": "236832",
             "thumbnail_url": "https://i.ytimg.com/vi/x_fJQs-r5PQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "v_irxupeQhc",
-            "title": "[EN]먹빵은 핑계고｜EP.78",
-            "channel_name": "뜬뜬 DdeunDdeun",
-            "category": "Comedy",
-            "duration": "1:16:50",
-            "view_count": "2957178",
-            "thumbnail_url": "https://i.ytimg.com/vi/v_irxupeQhc/hqdefault.jpg"
-        },
-        {
-            "video_id": "TwBvUP5Z6Cc",
-            "title": "[IU TV] 1000만 유튜버 이지금의 💎다이아 버튼💎 언박싱",
-            "channel_name": "이지금 [IU Official]",
-            "category": "Entertainment",
-            "duration": "8:11",
-            "view_count": "244197",
-            "thumbnail_url": "https://i.ytimg.com/vi/TwBvUP5Z6Cc/hqdefault.jpg"
         },
         {
             "video_id": "pTycfmVzdl8",
@@ -223,8 +214,26 @@
             "channel_name": "tripleS official",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "12796340",
+            "view_count": "13002199",
             "thumbnail_url": "https://i.ytimg.com/vi/pTycfmVzdl8/hqdefault.jpg"
+        },
+        {
+            "video_id": "TwBvUP5Z6Cc",
+            "title": "[IU TV] 1000만 유튜버 이지금의 💎다이아 버튼💎 언박싱",
+            "channel_name": "이지금 [IU Official]",
+            "category": "Entertainment",
+            "duration": "8:11",
+            "view_count": "247890",
+            "thumbnail_url": "https://i.ytimg.com/vi/TwBvUP5Z6Cc/hqdefault.jpg"
+        },
+        {
+            "video_id": "v_irxupeQhc",
+            "title": "[EN]먹빵은 핑계고｜EP.78",
+            "channel_name": "뜬뜬 DdeunDdeun",
+            "category": "Comedy",
+            "duration": "1:16:50",
+            "view_count": "2968454",
+            "thumbnail_url": "https://i.ytimg.com/vi/v_irxupeQhc/hqdefault.jpg"
         },
         {
             "video_id": "9sojB8pTrhE",
@@ -232,17 +241,8 @@
             "channel_name": "토모토모TomoTomo",
             "category": "People & Blogs",
             "duration": "32:19",
-            "view_count": "457203",
+            "view_count": "458447",
             "thumbnail_url": "https://i.ytimg.com/vi/9sojB8pTrhE/hqdefault.jpg"
-        },
-        {
-            "video_id": "3Jj-tVEif3k",
-            "title": "[GOING SEVENTEEN] COMEBACK SPECIAL 'SEVENTEEN TV' TEASER",
-            "channel_name": "SEVENTEEN",
-            "category": "Music",
-            "duration": "0:45",
-            "view_count": "455882",
-            "thumbnail_url": "https://i.ytimg.com/vi/3Jj-tVEif3k/hqdefault.jpg"
         },
         {
             "video_id": "sszUcs7XzuI",
@@ -250,8 +250,17 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "16:43",
-            "view_count": "647527",
+            "view_count": "651803",
             "thumbnail_url": "https://i.ytimg.com/vi/sszUcs7XzuI/hqdefault.jpg"
+        },
+        {
+            "video_id": "3Jj-tVEif3k",
+            "title": "[GOING SEVENTEEN] COMEBACK SPECIAL 'SEVENTEEN TV' TEASER",
+            "channel_name": "SEVENTEEN",
+            "category": "Music",
+            "duration": "0:45",
+            "view_count": "459427",
+            "thumbnail_url": "https://i.ytimg.com/vi/3Jj-tVEif3k/hqdefault.jpg"
         },
         {
             "video_id": "5SznExcCNxo",
@@ -259,7 +268,7 @@
             "channel_name": "쵸쵸우",
             "category": "Gaming",
             "duration": "4:11",
-            "view_count": "397666",
+            "view_count": "403398",
             "thumbnail_url": "https://i.ytimg.com/vi/5SznExcCNxo/hqdefault.jpg"
         },
         {
@@ -268,17 +277,8 @@
             "channel_name": "쏘근부부",
             "category": "People & Blogs",
             "duration": "3:33",
-            "view_count": "102613",
+            "view_count": "106765",
             "thumbnail_url": "https://i.ytimg.com/vi/MobSE2NjVkI/hqdefault.jpg"
-        },
-        {
-            "video_id": "dcJUPNvpnYI",
-            "title": "[무공해] 해도해도 너무하지만 공감합니다",
-            "channel_name": "유병재",
-            "category": "Comedy",
-            "duration": "34:51",
-            "view_count": "506883",
-            "thumbnail_url": "https://i.ytimg.com/vi/dcJUPNvpnYI/hqdefault.jpg"
         },
         {
             "video_id": "XEgTqdOVwBE",
@@ -286,7 +286,7 @@
             "channel_name": "KBS 교양",
             "category": "Entertainment",
             "duration": "23:15",
-            "view_count": "569151",
+            "view_count": "572711",
             "thumbnail_url": "https://i.ytimg.com/vi/XEgTqdOVwBE/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "hongsi 홍시",
             "category": "People & Blogs",
             "duration": "15:02",
-            "view_count": "277513",
+            "view_count": "278799",
             "thumbnail_url": "https://i.ytimg.com/vi/dN2smEqg4ds/hqdefault.jpg"
         },
         {
@@ -304,8 +304,17 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "7919295",
+            "view_count": "7973393",
             "thumbnail_url": "https://i.ytimg.com/vi/l4On7TQoM-M/hqdefault.jpg"
+        },
+        {
+            "video_id": "dcJUPNvpnYI",
+            "title": "[무공해] 해도해도 너무하지만 공감합니다",
+            "channel_name": "유병재",
+            "category": "Comedy",
+            "duration": "34:51",
+            "view_count": "510714",
+            "thumbnail_url": "https://i.ytimg.com/vi/dcJUPNvpnYI/hqdefault.jpg"
         },
         {
             "video_id": "SpGI1UlYIKE",
@@ -313,7 +322,7 @@
             "channel_name": "포테이토 터틀",
             "category": "People & Blogs",
             "duration": "18:22",
-            "view_count": "331719",
+            "view_count": "333038",
             "thumbnail_url": "https://i.ytimg.com/vi/SpGI1UlYIKE/hqdefault.jpg"
         },
         {
@@ -322,17 +331,8 @@
             "channel_name": "yoovlog",
             "category": "People & Blogs",
             "duration": "23:40",
-            "view_count": "230899",
+            "view_count": "231985",
             "thumbnail_url": "https://i.ytimg.com/vi/AAuFrPztTB4/hqdefault.jpg"
-        },
-        {
-            "video_id": "Np_1ltHZNXU",
-            "title": "왜 퍼스널컬러를 보여줘도 알지를 못하니",
-            "channel_name": "진돌",
-            "category": "Entertainment",
-            "duration": "19:34",
-            "view_count": "153665",
-            "thumbnail_url": "https://i.ytimg.com/vi/Np_1ltHZNXU/hqdefault.jpg"
         },
         {
             "video_id": "qszMUaPRZQA",
@@ -340,8 +340,17 @@
             "channel_name": "타일러 볼까요?",
             "category": "Education",
             "duration": "17:29",
-            "view_count": "298737",
+            "view_count": "302476",
             "thumbnail_url": "https://i.ytimg.com/vi/qszMUaPRZQA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Np_1ltHZNXU",
+            "title": "왜 퍼스널컬러를 보여줘도 알지를 못하니",
+            "channel_name": "진돌",
+            "category": "Entertainment",
+            "duration": "19:34",
+            "view_count": "155205",
+            "thumbnail_url": "https://i.ytimg.com/vi/Np_1ltHZNXU/hqdefault.jpg"
         },
         {
             "video_id": "2_1BVY35U-U",
@@ -349,17 +358,8 @@
             "channel_name": "김치와 바게뜨 / Kimchi & Baguette",
             "category": "People & Blogs",
             "duration": "20:03",
-            "view_count": "738394",
+            "view_count": "744400",
             "thumbnail_url": "https://i.ytimg.com/vi/2_1BVY35U-U/hqdefault.jpg"
-        },
-        {
-            "video_id": "qjgN0uNxZm0",
-            "title": "자네가 스맵인가? 피넛과 함께한 팀 크리에이터 면접! | 이단장 EP.3",
-            "channel_name": "Hanwha Life Esports",
-            "category": "Gaming",
-            "duration": "14:26",
-            "view_count": "333755",
-            "thumbnail_url": "https://i.ytimg.com/vi/qjgN0uNxZm0/hqdefault.jpg"
         },
         {
             "video_id": "NMTqI7N6YAM",
@@ -367,7 +367,7 @@
             "channel_name": "[상윤쓰]Sangyoon",
             "category": "Entertainment",
             "duration": "8:14",
-            "view_count": "142500",
+            "view_count": "143251",
             "thumbnail_url": "https://i.ytimg.com/vi/NMTqI7N6YAM/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "웃소 Wootso",
             "category": "Entertainment",
             "duration": "15:53",
-            "view_count": "672608",
+            "view_count": "675637",
             "thumbnail_url": "https://i.ytimg.com/vi/dTwQTqguMAY/hqdefault.jpg"
         }
     ]
