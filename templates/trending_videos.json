@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-05-26 19:02:40",
+    "scraped_time": "2025-05-26 20:27:03",
     "videos": [
         {
             "video_id": "p0K2JmNyQkM",
@@ -7,7 +7,7 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:32:00",
-            "view_count": "2597922",
+            "view_count": "2637099",
             "thumbnail_url": "https://i.ytimg.com/vi/p0K2JmNyQkM/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "우왁굳",
             "category": "Gaming",
             "duration": "19:01",
-            "view_count": "471283",
+            "view_count": "479712",
             "thumbnail_url": "https://i.ytimg.com/vi/6InrlhfurZc/hqdefault.jpg"
         },
         {
@@ -25,8 +25,17 @@
             "channel_name": "짐미조",
             "category": "People & Blogs",
             "duration": "32:48",
-            "view_count": "600778",
+            "view_count": "615128",
             "thumbnail_url": "https://i.ytimg.com/vi/31nFSrB3CtY/hqdefault.jpg"
+        },
+        {
+            "video_id": "DApeA1Fd_gI",
+            "title": "나고야5탄) 77세 사장님의 200kg 리어카라멘 10그릇 먹었더니 주민분들이 놀라셨어요😂",
+            "channel_name": "tzuyang쯔양",
+            "category": "People & Blogs",
+            "duration": "18:57",
+            "view_count": "1394995",
+            "thumbnail_url": "https://i.ytimg.com/vi/DApeA1Fd_gI/hqdefault.jpg"
         },
         {
             "video_id": "Z64fifFDu-U",
@@ -34,7 +43,7 @@
             "channel_name": "먹어볼래TryToEat",
             "category": "People & Blogs",
             "duration": "9:39",
-            "view_count": "282650",
+            "view_count": "297411",
             "thumbnail_url": "https://i.ytimg.com/vi/Z64fifFDu-U/hqdefault.jpg"
         },
         {
@@ -43,7 +52,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "7:34",
-            "view_count": "1531301",
+            "view_count": "1546534",
             "thumbnail_url": "https://i.ytimg.com/vi/6Flj83XsQAU/hqdefault.jpg"
         },
         {
@@ -52,7 +61,7 @@
             "channel_name": "SPOTV",
             "category": "Sports",
             "duration": "4:08",
-            "view_count": "1912610",
+            "view_count": "1914329",
             "thumbnail_url": "https://i.ytimg.com/vi/sSHYWvPtEtQ/hqdefault.jpg"
         },
         {
@@ -61,26 +70,8 @@
             "channel_name": "도장TV",
             "category": "People & Blogs",
             "duration": "17:36",
-            "view_count": "623080",
+            "view_count": "629478",
             "thumbnail_url": "https://i.ytimg.com/vi/5OuE4Qrp9Ac/hqdefault.jpg"
-        },
-        {
-            "video_id": "DApeA1Fd_gI",
-            "title": "나고야5탄) 77세 사장님의 200kg 리어카라멘 10그릇 먹었더니 주민분들이 놀라셨어요😂",
-            "channel_name": "tzuyang쯔양",
-            "category": "People & Blogs",
-            "duration": "18:57",
-            "view_count": "1261644",
-            "thumbnail_url": "https://i.ytimg.com/vi/DApeA1Fd_gI/hqdefault.jpg"
-        },
-        {
-            "video_id": "b-OETU2uHM4",
-            "title": "'SPECIAL STAGE' 하이보이즈(HI-BOYZ) - 그날이 오면 #엠카운트다운 EP.889 | Mnet 250522 방송",
-            "channel_name": "Mnet K-POP",
-            "category": "Entertainment",
-            "duration": "4:21",
-            "view_count": "2112723",
-            "thumbnail_url": "https://i.ytimg.com/vi/b-OETU2uHM4/hqdefault.jpg"
         },
         {
             "video_id": "p34vSNxKfgk",
@@ -88,7 +79,7 @@
             "channel_name": "tvN Joy",
             "category": "Entertainment",
             "duration": "15:36",
-            "view_count": "1125243",
+            "view_count": "1140207",
             "thumbnail_url": "https://i.ytimg.com/vi/p34vSNxKfgk/hqdefault.jpg"
         },
         {
@@ -97,8 +88,17 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "0:43",
-            "view_count": "550355",
+            "view_count": "570881",
             "thumbnail_url": "https://i.ytimg.com/vi/jjo4Zgb0OGk/hqdefault.jpg"
+        },
+        {
+            "video_id": "b-OETU2uHM4",
+            "title": "'SPECIAL STAGE' 하이보이즈(HI-BOYZ) - 그날이 오면 #엠카운트다운 EP.889 | Mnet 250522 방송",
+            "channel_name": "Mnet K-POP",
+            "category": "Entertainment",
+            "duration": "4:21",
+            "view_count": "2122701",
+            "thumbnail_url": "https://i.ytimg.com/vi/b-OETU2uHM4/hqdefault.jpg"
         },
         {
             "video_id": "MX7yEJw3Gqw",
@@ -106,7 +106,7 @@
             "channel_name": "스포츠머그 - SPORTSMUG",
             "category": "Sports",
             "duration": "7:58",
-            "view_count": "3565859",
+            "view_count": "3568098",
             "thumbnail_url": "https://i.ytimg.com/vi/MX7yEJw3Gqw/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "8:20",
-            "view_count": "668468",
+            "view_count": "677832",
             "thumbnail_url": "https://i.ytimg.com/vi/tdOstiUW16o/hqdefault.jpg"
         },
         {
@@ -124,17 +124,8 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "633515",
+            "view_count": "644876",
             "thumbnail_url": "https://i.ytimg.com/vi/QF6P6BSPDRw/hqdefault.jpg"
-        },
-        {
-            "video_id": "OJ44N3X5Zi8",
-            "title": "[드래곤 길들이기] 히컵의 투.친.소 영상",
-            "channel_name": "유니버설 픽쳐스",
-            "category": "Film & Animation",
-            "duration": "0:39",
-            "view_count": "75941",
-            "thumbnail_url": "https://i.ytimg.com/vi/OJ44N3X5Zi8/hqdefault.jpg"
         },
         {
             "video_id": "S1rkca8P79c",
@@ -142,7 +133,7 @@
             "channel_name": "휘토피아 htopia",
             "category": "Travel & Events",
             "duration": "36:26",
-            "view_count": "209839",
+            "view_count": "216942",
             "thumbnail_url": "https://i.ytimg.com/vi/S1rkca8P79c/hqdefault.jpg"
         },
         {
@@ -151,8 +142,17 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "3:35",
-            "view_count": "3103216",
+            "view_count": "3104137",
             "thumbnail_url": "https://i.ytimg.com/vi/-lqU6Z9iE0Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "OJ44N3X5Zi8",
+            "title": "[드래곤 길들이기] 히컵의 투.친.소 영상",
+            "channel_name": "유니버설 픽쳐스",
+            "category": "Film & Animation",
+            "duration": "0:39",
+            "view_count": "78744",
+            "thumbnail_url": "https://i.ytimg.com/vi/OJ44N3X5Zi8/hqdefault.jpg"
         },
         {
             "video_id": "p-f3JI7dJhU",
@@ -160,7 +160,7 @@
             "channel_name": "풀리밍 FLIMING",
             "category": "Entertainment",
             "duration": "9:17",
-            "view_count": "197197",
+            "view_count": "200409",
             "thumbnail_url": "https://i.ytimg.com/vi/p-f3JI7dJhU/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "Pixid",
             "category": "Entertainment",
             "duration": "35:50",
-            "view_count": "1080080",
+            "view_count": "1085236",
             "thumbnail_url": "https://i.ytimg.com/vi/3w0yxaYieUs/hqdefault.jpg"
         },
         {
@@ -178,8 +178,17 @@
             "channel_name": "fromsydney",
             "category": "People & Blogs",
             "duration": "21:47",
-            "view_count": "86690",
+            "view_count": "89663",
             "thumbnail_url": "https://i.ytimg.com/vi/cad4jCONehs/hqdefault.jpg"
+        },
+        {
+            "video_id": "wDrcVVtJkT4",
+            "title": "[🇦🇺vlog] 부부싸움을 해도 생일상은 차려주는 게 결혼의맛. 5월 요약 브이로그 ⎸ 쁘큐보이와 시티 데이트, 엽떡키트, 듬직해진 민준이, 쭈하의 새로운 모습",
+            "channel_name": "해쭈 [HAEJOO]",
+            "category": "People & Blogs",
+            "duration": "16:01",
+            "view_count": "309510",
+            "thumbnail_url": "https://i.ytimg.com/vi/wDrcVVtJkT4/hqdefault.jpg"
         },
         {
             "video_id": "S9Utiq4IjUs",
@@ -187,7 +196,7 @@
             "channel_name": "KOMERICAN",
             "category": "People & Blogs",
             "duration": "20:03",
-            "view_count": "155585",
+            "view_count": "159177",
             "thumbnail_url": "https://i.ytimg.com/vi/S9Utiq4IjUs/hqdefault.jpg"
         },
         {
@@ -196,35 +205,8 @@
             "channel_name": "빠니보틀 Pani Bottle",
             "category": "Travel & Events",
             "duration": "34:56",
-            "view_count": "1257980",
+            "view_count": "1263157",
             "thumbnail_url": "https://i.ytimg.com/vi/98_vKEuLZ0I/hqdefault.jpg"
-        },
-        {
-            "video_id": "wDrcVVtJkT4",
-            "title": "[🇦🇺vlog] 부부싸움을 해도 생일상은 차려주는 게 결혼의맛. 5월 요약 브이로그 ⎸ 쁘큐보이와 시티 데이트, 엽떡키트, 듬직해진 민준이, 쭈하의 새로운 모습",
-            "channel_name": "해쭈 [HAEJOO]",
-            "category": "People & Blogs",
-            "duration": "16:01",
-            "view_count": "298730",
-            "thumbnail_url": "https://i.ytimg.com/vi/wDrcVVtJkT4/hqdefault.jpg"
-        },
-        {
-            "video_id": "xRpNbJSsYYU",
-            "title": "세계에서 가장 위험한 계단 1위 - 중국 장가계",
-            "channel_name": "노마드션 No mad Shaun",
-            "category": "Travel & Events",
-            "duration": "28:48",
-            "view_count": "529402",
-            "thumbnail_url": "https://i.ytimg.com/vi/xRpNbJSsYYU/hqdefault.jpg"
-        },
-        {
-            "video_id": "1piS2OyK-s8",
-            "title": "젝키가 뭉쳤다😆 고지용이 보고싶어서 바로 보러 간 은지원&장수원😄 [살림하는 남자들/House Husband 2] | KBS 250524 방송",
-            "channel_name": "KBS Entertain",
-            "category": "Entertainment",
-            "duration": "9:50",
-            "view_count": "486853",
-            "thumbnail_url": "https://i.ytimg.com/vi/1piS2OyK-s8/hqdefault.jpg"
         },
         {
             "video_id": "wsiGUcSDGgg",
@@ -232,8 +214,26 @@
             "channel_name": "YG ENTERTAINMENT",
             "category": "Music",
             "duration": "8:17",
-            "view_count": "1167886",
+            "view_count": "1203185",
             "thumbnail_url": "https://i.ytimg.com/vi/wsiGUcSDGgg/hqdefault.jpg"
+        },
+        {
+            "video_id": "1piS2OyK-s8",
+            "title": "젝키가 뭉쳤다😆 고지용이 보고싶어서 바로 보러 간 은지원&장수원😄 [살림하는 남자들/House Husband 2] | KBS 250524 방송",
+            "channel_name": "KBS Entertain",
+            "category": "Entertainment",
+            "duration": "9:50",
+            "view_count": "491856",
+            "thumbnail_url": "https://i.ytimg.com/vi/1piS2OyK-s8/hqdefault.jpg"
+        },
+        {
+            "video_id": "xRpNbJSsYYU",
+            "title": "세계에서 가장 위험한 계단 1위 - 중국 장가계",
+            "channel_name": "노마드션 No mad Shaun",
+            "category": "Travel & Events",
+            "duration": "28:48",
+            "view_count": "533627",
+            "thumbnail_url": "https://i.ytimg.com/vi/xRpNbJSsYYU/hqdefault.jpg"
         },
         {
             "video_id": "CRQ0DyEEQpw",
@@ -241,7 +241,7 @@
             "channel_name": "브루스리 TV",
             "category": "People & Blogs",
             "duration": "22:18",
-            "view_count": "158298",
+            "view_count": "160451",
             "thumbnail_url": "https://i.ytimg.com/vi/CRQ0DyEEQpw/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "아이돌 인간극장",
             "category": "Music",
             "duration": "33:31",
-            "view_count": "277908",
+            "view_count": "279696",
             "thumbnail_url": "https://i.ytimg.com/vi/EE6IyyGhzAY/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "인생84",
             "category": "Entertainment",
             "duration": "20:44",
-            "view_count": "975881",
+            "view_count": "982270",
             "thumbnail_url": "https://i.ytimg.com/vi/5suvccH5d_c/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "스포츠머그 - SPORTSMUG",
             "category": "Sports",
             "duration": "3:16",
-            "view_count": "1232925",
+            "view_count": "1233986",
             "thumbnail_url": "https://i.ytimg.com/vi/qkkZbkG1kM0/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "정동원(JD1)",
             "category": "Entertainment",
             "duration": "26:05",
-            "view_count": "814263",
+            "view_count": "827121",
             "thumbnail_url": "https://i.ytimg.com/vi/3ab2tlM7jjg/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "홍현희 제이쓴의 홍쓴TV",
             "category": "People & Blogs",
             "duration": "17:19",
-            "view_count": "267524",
+            "view_count": "268763",
             "thumbnail_url": "https://i.ytimg.com/vi/ikpOgaPVkQk/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "걍밍경",
             "category": "People & Blogs",
             "duration": "23:18",
-            "view_count": "775021",
+            "view_count": "779542",
             "thumbnail_url": "https://i.ytimg.com/vi/VswmQP-qSQQ/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "라꼰즈 | Rakkonz",
             "category": "Entertainment",
             "duration": "31:53",
-            "view_count": "698169",
+            "view_count": "715913",
             "thumbnail_url": "https://i.ytimg.com/vi/pOXDSwmGXOg/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "0:40",
-            "view_count": "710386",
+            "view_count": "715455",
             "thumbnail_url": "https://i.ytimg.com/vi/23ih3V1aBTY/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "김남주",
             "category": "People & Blogs",
             "duration": "15:03",
-            "view_count": "827830",
+            "view_count": "830517",
             "thumbnail_url": "https://i.ytimg.com/vi/wsZ5uBLkwIY/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "36:23",
-            "view_count": "651820",
+            "view_count": "656781",
             "thumbnail_url": "https://i.ytimg.com/vi/gsFcl1Say6s/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "션과 함께",
             "category": "People & Blogs",
             "duration": "14:58",
-            "view_count": "247100",
+            "view_count": "250095",
             "thumbnail_url": "https://i.ytimg.com/vi/PemYhbe9s_M/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "엔조이커플enjoycouple",
             "category": "Entertainment",
             "duration": "16:13",
-            "view_count": "614719",
+            "view_count": "627359",
             "thumbnail_url": "https://i.ytimg.com/vi/joWVKyKKEZI/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "살빼조DietJo",
             "category": "People & Blogs",
             "duration": "24:22",
-            "view_count": "330592",
+            "view_count": "332259",
             "thumbnail_url": "https://i.ytimg.com/vi/OpSL5W2hXaQ/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "17:30",
-            "view_count": "287220",
+            "view_count": "288324",
             "thumbnail_url": "https://i.ytimg.com/vi/AdDLlVEQMDU/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "28:14",
-            "view_count": "2392821",
+            "view_count": "2397254",
             "thumbnail_url": "https://i.ytimg.com/vi/pT96hVA5YF8/hqdefault.jpg"
         }
     ]
