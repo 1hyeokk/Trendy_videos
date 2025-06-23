@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-23 08:20:20",
+    "scraped_time": "2025-06-23 10:57:29",
     "videos": [
         {
             "video_id": "j43QeLwRNAY",
@@ -7,7 +7,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "15:25",
-            "view_count": "1481968",
+            "view_count": "1511279",
             "thumbnail_url": "https://i.ytimg.com/vi/j43QeLwRNAY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "3:23",
-            "view_count": "12713900",
+            "view_count": "12748951",
             "thumbnail_url": "https://i.ytimg.com/vi/_xOnGP_Js1A/hqdefault.jpg"
         },
         {
@@ -25,8 +25,17 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "24:35",
-            "view_count": "1038379",
+            "view_count": "1052963",
             "thumbnail_url": "https://i.ytimg.com/vi/MihIdCxusHA/hqdefault.jpg"
+        },
+        {
+            "video_id": "pe_ejTiIcSs",
+            "title": "Lose 100 LBs, Win $250,000!",
+            "channel_name": "MrBeast",
+            "category": "Entertainment",
+            "duration": "36:50",
+            "view_count": "70793719",
+            "thumbnail_url": "https://i.ytimg.com/vi/pe_ejTiIcSs/hqdefault.jpg"
         },
         {
             "video_id": "RXVNkwHO_1U",
@@ -34,8 +43,17 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "14:17",
-            "view_count": "902766",
+            "view_count": "917434",
             "thumbnail_url": "https://i.ytimg.com/vi/RXVNkwHO_1U/hqdefault.jpg"
+        },
+        {
+            "video_id": "YH6oHigTJhA",
+            "title": "대한민국 최고가 식당은 돈값 할까?",
+            "channel_name": "고재영",
+            "category": "Entertainment",
+            "duration": "20:04",
+            "view_count": "1887306",
+            "thumbnail_url": "https://i.ytimg.com/vi/YH6oHigTJhA/hqdefault.jpg"
         },
         {
             "video_id": "6Hq96MZqego",
@@ -43,17 +61,8 @@
             "channel_name": "짧은대본 ShortPaper",
             "category": "Entertainment",
             "duration": "11:07",
-            "view_count": "453495",
+            "view_count": "460019",
             "thumbnail_url": "https://i.ytimg.com/vi/6Hq96MZqego/hqdefault.jpg"
-        },
-        {
-            "video_id": "hljXtdjCDrE",
-            "title": "[#WSWF] 메가 크루 미션 글로벌 대중 평가 | OSAKA Ojo Gang(오사카 오죠 갱)",
-            "channel_name": "The CHOOM (더 춤)",
-            "category": "Entertainment",
-            "duration": "3:34",
-            "view_count": "7038787",
-            "thumbnail_url": "https://i.ytimg.com/vi/hljXtdjCDrE/hqdefault.jpg"
         },
         {
             "video_id": "0mp09CDD6cA",
@@ -61,8 +70,17 @@
             "channel_name": "지편한세상 [Jeeseokjin World]",
             "category": "Entertainment",
             "duration": "25:19",
-            "view_count": "1310610",
+            "view_count": "1329040",
             "thumbnail_url": "https://i.ytimg.com/vi/0mp09CDD6cA/hqdefault.jpg"
+        },
+        {
+            "video_id": "hljXtdjCDrE",
+            "title": "[#WSWF] 메가 크루 미션 글로벌 대중 평가 | OSAKA Ojo Gang(오사카 오죠 갱)",
+            "channel_name": "The CHOOM (더 춤)",
+            "category": "Entertainment",
+            "duration": "3:34",
+            "view_count": "7056024",
+            "thumbnail_url": "https://i.ytimg.com/vi/hljXtdjCDrE/hqdefault.jpg"
         },
         {
             "video_id": "-ztvq_pd9BQ",
@@ -70,8 +88,17 @@
             "channel_name": "팔숙이 palsook",
             "category": "Howto & Style",
             "duration": "1:53",
-            "view_count": "172361",
+            "view_count": "188167",
             "thumbnail_url": "https://i.ytimg.com/vi/-ztvq_pd9BQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "ci18DCyiR_0",
+            "title": "드릴 말씀이 있습니다",
+            "channel_name": "새니 SENI",
+            "category": "People & Blogs",
+            "duration": "7:35",
+            "view_count": "238824",
+            "thumbnail_url": "https://i.ytimg.com/vi/ci18DCyiR_0/hqdefault.jpg"
         },
         {
             "video_id": "5IyD9IWHRNY",
@@ -79,7 +106,7 @@
             "channel_name": "디글 클래식 :Diggle Classic",
             "category": "Entertainment",
             "duration": "14:59",
-            "view_count": "605561",
+            "view_count": "612136",
             "thumbnail_url": "https://i.ytimg.com/vi/5IyD9IWHRNY/hqdefault.jpg"
         },
         {
@@ -88,7 +115,7 @@
             "channel_name": "딸을 위한 레시피 Recipes for daughters",
             "category": "Howto & Style",
             "duration": "5:18",
-            "view_count": "284314",
+            "view_count": "287152",
             "thumbnail_url": "https://i.ytimg.com/vi/qYTaSUB_0iM/hqdefault.jpg"
         },
         {
@@ -97,7 +124,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "35:36",
-            "view_count": "843366",
+            "view_count": "846319",
             "thumbnail_url": "https://i.ytimg.com/vi/BPHO9bvSixQ/hqdefault.jpg"
         },
         {
@@ -106,7 +133,7 @@
             "channel_name": "권또또 KWONTTOTTO",
             "category": "Entertainment",
             "duration": "10:24",
-            "view_count": "997544",
+            "view_count": "1003430",
             "thumbnail_url": "https://i.ytimg.com/vi/nJmx7xihnu8/hqdefault.jpg"
         },
         {
@@ -115,7 +142,7 @@
             "channel_name": "VIVINOS",
             "category": "Film & Animation",
             "duration": "0:22",
-            "view_count": "1197532",
+            "view_count": "1208303",
             "thumbnail_url": "https://i.ytimg.com/vi/Z2at0Zk9AaE/hqdefault.jpg"
         },
         {
@@ -124,7 +151,7 @@
             "channel_name": "브롤스타즈",
             "category": "Gaming",
             "duration": "10:46",
-            "view_count": "56735",
+            "view_count": "57974",
             "thumbnail_url": "https://i.ytimg.com/vi/ILxoY0EVhRA/hqdefault.jpg"
         },
         {
@@ -133,7 +160,7 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "7:12",
-            "view_count": "2017887",
+            "view_count": "2034029",
             "thumbnail_url": "https://i.ytimg.com/vi/-MRAyLUkahk/hqdefault.jpg"
         },
         {
@@ -142,7 +169,7 @@
             "channel_name": "아재여행 Ajae Travel",
             "category": "Travel & Events",
             "duration": "26:37",
-            "view_count": "180874",
+            "view_count": "184247",
             "thumbnail_url": "https://i.ytimg.com/vi/IH3En5qN49g/hqdefault.jpg"
         },
         {
@@ -151,17 +178,8 @@
             "channel_name": "더블비",
             "category": "Comedy",
             "duration": "34:10",
-            "view_count": "782265",
+            "view_count": "787624",
             "thumbnail_url": "https://i.ytimg.com/vi/QVMYQAW108Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "K-6l4NYNfG4",
-            "title": "[#라디오스타] 아내한테 잔소리 듣는 현실 남편 고우림ㅋㅋㅋ 김연아와의 결혼 생활 실체는? l #고우림 MBC250618방송",
-            "channel_name": "라디오스타",
-            "category": "People & Blogs",
-            "duration": "18:12",
-            "view_count": "867510",
-            "thumbnail_url": "https://i.ytimg.com/vi/K-6l4NYNfG4/hqdefault.jpg"
         },
         {
             "video_id": "PFGHnXgfqUs",
@@ -169,17 +187,17 @@
             "channel_name": "조선의 사랑꾼",
             "category": "People & Blogs",
             "duration": "2:06",
-            "view_count": "335038",
+            "view_count": "338293",
             "thumbnail_url": "https://i.ytimg.com/vi/PFGHnXgfqUs/hqdefault.jpg"
         },
         {
-            "video_id": "GP-TZohJhg0",
-            "title": "[10화 선공개] 목숨 걸고(?) 슈퍼카 타고 미래 찾아간 세진😎 이것은 데이트 신청...?! #미지의서울 EP.10",
-            "channel_name": "tvN DRAMA",
-            "category": "Entertainment",
-            "duration": "2:45",
-            "view_count": "407361",
-            "thumbnail_url": "https://i.ytimg.com/vi/GP-TZohJhg0/hqdefault.jpg"
+            "video_id": "K-6l4NYNfG4",
+            "title": "[#라디오스타] 아내한테 잔소리 듣는 현실 남편 고우림ㅋㅋㅋ 김연아와의 결혼 생활 실체는? l #고우림 MBC250618방송",
+            "channel_name": "라디오스타",
+            "category": "People & Blogs",
+            "duration": "18:12",
+            "view_count": "875614",
+            "thumbnail_url": "https://i.ytimg.com/vi/K-6l4NYNfG4/hqdefault.jpg"
         },
         {
             "video_id": "VjvzYjU1mY0",
@@ -187,17 +205,8 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "13787542",
+            "view_count": "13914768",
             "thumbnail_url": "https://i.ytimg.com/vi/VjvzYjU1mY0/hqdefault.jpg"
-        },
-        {
-            "video_id": "i1FH5Ed78aM",
-            "title": "이명화 vs 짭명화 말다툼",
-            "channel_name": "김희재 HEEJAE",
-            "category": "People & Blogs",
-            "duration": "18:46",
-            "view_count": "174010",
-            "thumbnail_url": "https://i.ytimg.com/vi/i1FH5Ed78aM/hqdefault.jpg"
         },
         {
             "video_id": "1IKw_WwWjiM",
@@ -205,17 +214,26 @@
             "channel_name": "지편한세상 [Jeeseokjin World]",
             "category": "Entertainment",
             "duration": "3:26",
-            "view_count": "143761",
+            "view_count": "146722",
             "thumbnail_url": "https://i.ytimg.com/vi/1IKw_WwWjiM/hqdefault.jpg"
         },
         {
-            "video_id": "_Ya3T9nn5vo",
-            "title": "[#라디오스타] 연하는 생각해본 적 없던 김연아... 5살 어린 고우림에게 먼저 연락한 이유는?! l #고우림 MBC250618방송",
-            "channel_name": "라디오스타",
+            "video_id": "i1FH5Ed78aM",
+            "title": "이명화 vs 짭명화 말다툼",
+            "channel_name": "김희재 HEEJAE",
             "category": "People & Blogs",
-            "duration": "16:39",
-            "view_count": "784212",
-            "thumbnail_url": "https://i.ytimg.com/vi/_Ya3T9nn5vo/hqdefault.jpg"
+            "duration": "18:46",
+            "view_count": "178851",
+            "thumbnail_url": "https://i.ytimg.com/vi/i1FH5Ed78aM/hqdefault.jpg"
+        },
+        {
+            "video_id": "GP-TZohJhg0",
+            "title": "[10화 선공개] 목숨 걸고(?) 슈퍼카 타고 미래 찾아간 세진😎 이것은 데이트 신청...?! #미지의서울 EP.10",
+            "channel_name": "tvN DRAMA",
+            "category": "Entertainment",
+            "duration": "2:45",
+            "view_count": "408876",
+            "thumbnail_url": "https://i.ytimg.com/vi/GP-TZohJhg0/hqdefault.jpg"
         },
         {
             "video_id": "Jiqrqs6DXa4",
@@ -223,8 +241,17 @@
             "channel_name": "뜬뜬 DdeunDdeun",
             "category": "Comedy",
             "duration": "1:08:16",
-            "view_count": "1819855",
+            "view_count": "1860434",
             "thumbnail_url": "https://i.ytimg.com/vi/Jiqrqs6DXa4/hqdefault.jpg"
+        },
+        {
+            "video_id": "_Ya3T9nn5vo",
+            "title": "[#라디오스타] 연하는 생각해본 적 없던 김연아... 5살 어린 고우림에게 먼저 연락한 이유는?! l #고우림 MBC250618방송",
+            "channel_name": "라디오스타",
+            "category": "People & Blogs",
+            "duration": "16:39",
+            "view_count": "789179",
+            "thumbnail_url": "https://i.ytimg.com/vi/_Ya3T9nn5vo/hqdefault.jpg"
         },
         {
             "video_id": "zQHoWTIe9Lg",
@@ -232,7 +259,7 @@
             "channel_name": "인디애나 주영 Indiana Jooyoung",
             "category": "Entertainment",
             "duration": "21:28",
-            "view_count": "323878",
+            "view_count": "326329",
             "thumbnail_url": "https://i.ytimg.com/vi/zQHoWTIe9Lg/hqdefault.jpg"
         },
         {
@@ -241,7 +268,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "4812244",
+            "view_count": "4857959",
             "thumbnail_url": "https://i.ytimg.com/vi/n7kFRxFIPrI/hqdefault.jpg"
         },
         {
@@ -250,7 +277,7 @@
             "channel_name": "재친구(Jae friends) | ST7",
             "category": "Entertainment",
             "duration": "39:25",
-            "view_count": "498043",
+            "view_count": "503046",
             "thumbnail_url": "https://i.ytimg.com/vi/UyBw5N_2YlU/hqdefault.jpg"
         },
         {
@@ -259,7 +286,7 @@
             "channel_name": "스프 : 스튜디오 프로미스나인",
             "category": "Entertainment",
             "duration": "12:58",
-            "view_count": "310096",
+            "view_count": "312631",
             "thumbnail_url": "https://i.ytimg.com/vi/MPOBoYS-Auc/hqdefault.jpg"
         },
         {
@@ -268,7 +295,7 @@
             "channel_name": "민음사TV",
             "category": "People & Blogs",
             "duration": "40:57",
-            "view_count": "164528",
+            "view_count": "167395",
             "thumbnail_url": "https://i.ytimg.com/vi/WXbBipLj89Q/hqdefault.jpg"
         },
         {
@@ -277,7 +304,7 @@
             "channel_name": "프응TV Honeybeefather",
             "category": "People & Blogs",
             "duration": "16:50",
-            "view_count": "301341",
+            "view_count": "302175",
             "thumbnail_url": "https://i.ytimg.com/vi/Bihjoabb7Ko/hqdefault.jpg"
         },
         {
@@ -286,7 +313,7 @@
             "channel_name": "밈PD",
             "category": "Music",
             "duration": "13:05",
-            "view_count": "163861",
+            "view_count": "165394",
             "thumbnail_url": "https://i.ytimg.com/vi/4zOU8s-lkL8/hqdefault.jpg"
         },
         {
@@ -295,7 +322,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "28:41",
-            "view_count": "1196225",
+            "view_count": "1198862",
             "thumbnail_url": "https://i.ytimg.com/vi/ZCLO-lq_Zo4/hqdefault.jpg"
         },
         {
@@ -304,7 +331,7 @@
             "channel_name": "MBCentertainment",
             "category": "Entertainment",
             "duration": "4:03",
-            "view_count": "344918",
+            "view_count": "345203",
             "thumbnail_url": "https://i.ytimg.com/vi/6Muex9Wlm1w/hqdefault.jpg"
         },
         {
@@ -313,7 +340,7 @@
             "channel_name": "LoL Esports",
             "category": "Gaming",
             "duration": "1:03",
-            "view_count": "130799",
+            "view_count": "131385",
             "thumbnail_url": "https://i.ytimg.com/vi/1t7HX7ugwTQ/hqdefault.jpg"
         },
         {
@@ -322,7 +349,7 @@
             "channel_name": "STUDIO CHOOM [스튜디오 춤]",
             "category": "Entertainment",
             "duration": "3:31",
-            "view_count": "1943524",
+            "view_count": "1955213",
             "thumbnail_url": "https://i.ytimg.com/vi/mLQBjeERh9E/hqdefault.jpg"
         },
         {
@@ -331,7 +358,7 @@
             "channel_name": "양장금주부",
             "category": "Howto & Style",
             "duration": "3:29",
-            "view_count": "214721",
+            "view_count": "215295",
             "thumbnail_url": "https://i.ytimg.com/vi/44ZAw1-figc/hqdefault.jpg"
         },
         {
@@ -340,7 +367,7 @@
             "channel_name": "남보라의 인생극장",
             "category": "People & Blogs",
             "duration": "22:55",
-            "view_count": "578768",
+            "view_count": "582307",
             "thumbnail_url": "https://i.ytimg.com/vi/4xfJYmcgdt4/hqdefault.jpg"
         },
         {
@@ -349,35 +376,8 @@
             "channel_name": "Mozzarella Girl & Oppa",
             "category": "Comedy",
             "duration": "45:38",
-            "view_count": "721334",
+            "view_count": "722202",
             "thumbnail_url": "https://i.ytimg.com/vi/McvjXXDXOWw/hqdefault.jpg"
-        },
-        {
-            "video_id": "J8yiHiDc2vc",
-            "title": "[ENG/JPN] 🐈‍⬛원희한테 간택 당한 썰 푼다.. l 이사배(RISABAE Makeup)",
-            "channel_name": "RISABAE",
-            "category": "Howto & Style",
-            "duration": "19:03",
-            "view_count": "370418",
-            "thumbnail_url": "https://i.ytimg.com/vi/J8yiHiDc2vc/hqdefault.jpg"
-        },
-        {
-            "video_id": "KCl6SrHQ5jI",
-            "title": "감자채 많이 썰어 기름에 볶지않고 이렇게 드세요!! 더위도 이기고 살도 안찌고 맛있어요/감자냉국 Potato Cold Soup",
-            "channel_name": "sogyo table 소교식탁TV",
-            "category": "People & Blogs",
-            "duration": "4:55",
-            "view_count": "217924",
-            "thumbnail_url": "https://i.ytimg.com/vi/KCl6SrHQ5jI/hqdefault.jpg"
-        },
-        {
-            "video_id": "djN_Rf-qu5c",
-            "title": "연 매출 200억 신화😱43년 째 흑인 소울푸드 파는 '할렘 마마' 베티박ㅣ KBS 크레이지 리치 코리안 250615 방송",
-            "channel_name": "KBS 한국방송",
-            "category": "Entertainment",
-            "duration": "14:00",
-            "view_count": "2855631",
-            "thumbnail_url": "https://i.ytimg.com/vi/djN_Rf-qu5c/hqdefault.jpg"
         }
     ]
 }
