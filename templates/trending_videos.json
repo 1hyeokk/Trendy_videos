@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-24 18:25:32",
+    "scraped_time": "2025-06-24 19:24:46",
     "videos": [
         {
             "video_id": "mhKCRnUKp5U",
@@ -7,7 +7,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "3855735",
+            "view_count": "3953958",
             "thumbnail_url": "https://i.ytimg.com/vi/mhKCRnUKp5U/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "837084",
+            "view_count": "854075",
             "thumbnail_url": "https://i.ytimg.com/vi/lXeR1_aQsgw/hqdefault.jpg"
         },
         {
@@ -25,8 +25,17 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "15:25",
-            "view_count": "1836224",
+            "view_count": "1842448",
             "thumbnail_url": "https://i.ytimg.com/vi/j43QeLwRNAY/hqdefault.jpg"
+        },
+        {
+            "video_id": "uMh6SvK4388",
+            "title": "사랑스러운 여자에게 사랑을 배우다!",
+            "channel_name": "찰스엔터",
+            "category": "People & Blogs",
+            "duration": "31:13",
+            "view_count": "648846",
+            "thumbnail_url": "https://i.ytimg.com/vi/uMh6SvK4388/hqdefault.jpg"
         },
         {
             "video_id": "nUXJtGrehDI",
@@ -34,7 +43,7 @@
             "channel_name": "STUDIO CHOOM [스튜디오 춤]",
             "category": "Entertainment",
             "duration": "0:18",
-            "view_count": "344424",
+            "view_count": "358068",
             "thumbnail_url": "https://i.ytimg.com/vi/nUXJtGrehDI/hqdefault.jpg"
         },
         {
@@ -43,8 +52,17 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "3:23",
-            "view_count": "13286177",
+            "view_count": "13303963",
             "thumbnail_url": "https://i.ytimg.com/vi/_xOnGP_Js1A/hqdefault.jpg"
+        },
+        {
+            "video_id": "SKnk_8uszWQ",
+            "title": "시원한 막걸리가 땡겨서 묵은지 한통들고 산속으로 들어왔습니다 (ft.집에 먹을거 없다고 동생도 따라옴)",
+            "channel_name": "미자네 주막",
+            "category": "Entertainment",
+            "duration": "20:39",
+            "view_count": "315477",
+            "thumbnail_url": "https://i.ytimg.com/vi/SKnk_8uszWQ/hqdefault.jpg"
         },
         {
             "video_id": "pe_ejTiIcSs",
@@ -52,17 +70,8 @@
             "channel_name": "MrBeast",
             "category": "Entertainment",
             "duration": "36:50",
-            "view_count": "104395264",
+            "view_count": "104997987",
             "thumbnail_url": "https://i.ytimg.com/vi/pe_ejTiIcSs/hqdefault.jpg"
-        },
-        {
-            "video_id": "MihIdCxusHA",
-            "title": "[UFC] 이스마일 나우르디예프 vs 박준용",
-            "channel_name": "tvN SPORTS",
-            "category": "Sports",
-            "duration": "24:35",
-            "view_count": "1196900",
-            "thumbnail_url": "https://i.ytimg.com/vi/MihIdCxusHA/hqdefault.jpg"
         },
         {
             "video_id": "hUejw1cOxxQ",
@@ -70,8 +79,26 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "20:07",
-            "view_count": "340164",
+            "view_count": "345748",
             "thumbnail_url": "https://i.ytimg.com/vi/hUejw1cOxxQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "MihIdCxusHA",
+            "title": "[UFC] 이스마일 나우르디예프 vs 박준용",
+            "channel_name": "tvN SPORTS",
+            "category": "Sports",
+            "duration": "24:35",
+            "view_count": "1199147",
+            "thumbnail_url": "https://i.ytimg.com/vi/MihIdCxusHA/hqdefault.jpg"
+        },
+        {
+            "video_id": "LKYP54weO2w",
+            "title": "오빠 난 왜 안 되는 건데?",
+            "channel_name": "예보링 ",
+            "category": "People & Blogs",
+            "duration": "12:48",
+            "view_count": "242752",
+            "thumbnail_url": "https://i.ytimg.com/vi/LKYP54weO2w/hqdefault.jpg"
         },
         {
             "video_id": "1ucf9PzyyJo",
@@ -79,8 +106,17 @@
             "channel_name": "ぱく家(박가네)",
             "category": "Entertainment",
             "duration": "26:43",
-            "view_count": "562457",
+            "view_count": "565915",
             "thumbnail_url": "https://i.ytimg.com/vi/1ucf9PzyyJo/hqdefault.jpg"
+        },
+        {
+            "video_id": "cj6n7yzpm3A",
+            "title": "\"내가 할렘이고, 할렘이 나다\" 😎 쿨내 풀풀 20년 째 이어지는 베티박 여사의 도시락 봉사ㅣ KBS 크레이지 리치 코리안 250622 방송",
+            "channel_name": "KBS 한국방송",
+            "category": "Entertainment",
+            "duration": "14:01",
+            "view_count": "492949",
+            "thumbnail_url": "https://i.ytimg.com/vi/cj6n7yzpm3A/hqdefault.jpg"
         },
         {
             "video_id": "qdm5Z6wLYBM",
@@ -88,7 +124,7 @@
             "channel_name": "Hanwha Life Esports",
             "category": "Gaming",
             "duration": "14:56",
-            "view_count": "108140",
+            "view_count": "111234",
             "thumbnail_url": "https://i.ytimg.com/vi/qdm5Z6wLYBM/hqdefault.jpg"
         },
         {
@@ -97,7 +133,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "14:17",
-            "view_count": "1078048",
+            "view_count": "1083218",
             "thumbnail_url": "https://i.ytimg.com/vi/RXVNkwHO_1U/hqdefault.jpg"
         },
         {
@@ -106,8 +142,35 @@
             "channel_name": "Netflix Family",
             "category": "Entertainment",
             "duration": "3:22",
-            "view_count": "1273894",
+            "view_count": "1290015",
             "thumbnail_url": "https://i.ytimg.com/vi/OwpgvSo_G0g/hqdefault.jpg"
+        },
+        {
+            "video_id": "7qqALe1_HjQ",
+            "title": "우리 앞으로 딱 1년만 만나자",
+            "channel_name": "생각없이사는연",
+            "category": "People & Blogs",
+            "duration": "13:42",
+            "view_count": "230988",
+            "thumbnail_url": "https://i.ytimg.com/vi/7qqALe1_HjQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "ydhgw5jv-q0",
+            "title": "[VLOG] 올해 제일 큰 결심..! 좋은 엄마가 될 수 있을까? (3km 러닝 도전, 게박사 아부지)",
+            "channel_name": "현주투성이",
+            "category": "People & Blogs",
+            "duration": "24:27",
+            "view_count": "147057",
+            "thumbnail_url": "https://i.ytimg.com/vi/ydhgw5jv-q0/hqdefault.jpg"
+        },
+        {
+            "video_id": "AIVhAZlbgis",
+            "title": "1점대 메이크업샵에서 무언가를 깨닫다",
+            "channel_name": "어쩔수없는윤화",
+            "category": "People & Blogs",
+            "duration": "9:11",
+            "view_count": "149285",
+            "thumbnail_url": "https://i.ytimg.com/vi/AIVhAZlbgis/hqdefault.jpg"
         },
         {
             "video_id": "KEUlytSqlsU",
@@ -115,7 +178,7 @@
             "channel_name": "Baby DONT Cry",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "4313733",
+            "view_count": "4587743",
             "thumbnail_url": "https://i.ytimg.com/vi/KEUlytSqlsU/hqdefault.jpg"
         },
         {
@@ -124,17 +187,8 @@
             "channel_name": "deemd 딤디",
             "category": "People & Blogs",
             "duration": "20:23",
-            "view_count": "125410",
+            "view_count": "128193",
             "thumbnail_url": "https://i.ytimg.com/vi/G_li-ZsZ-Dk/hqdefault.jpg"
-        },
-        {
-            "video_id": "ydhgw5jv-q0",
-            "title": "[VLOG] 올해 제일 큰 결심..! 좋은 엄마가 될 수 있을까? (3km 러닝 도전, 게박사 아부지)",
-            "channel_name": "현주투성이",
-            "category": "People & Blogs",
-            "duration": "24:27",
-            "view_count": "143263",
-            "thumbnail_url": "https://i.ytimg.com/vi/ydhgw5jv-q0/hqdefault.jpg"
         },
         {
             "video_id": "IV6yrrLyhCA",
@@ -142,7 +196,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "1102508",
+            "view_count": "1402465",
             "thumbnail_url": "https://i.ytimg.com/vi/IV6yrrLyhCA/hqdefault.jpg"
         },
         {
@@ -151,7 +205,7 @@
             "channel_name": "짧은대본 ShortPaper",
             "category": "Entertainment",
             "duration": "11:07",
-            "view_count": "554220",
+            "view_count": "556620",
             "thumbnail_url": "https://i.ytimg.com/vi/6Hq96MZqego/hqdefault.jpg"
         },
         {
@@ -160,7 +214,7 @@
             "channel_name": "팔숙이 palsook",
             "category": "Howto & Style",
             "duration": "1:53",
-            "view_count": "270605",
+            "view_count": "272448",
             "thumbnail_url": "https://i.ytimg.com/vi/-ztvq_pd9BQ/hqdefault.jpg"
         },
         {
@@ -169,7 +223,7 @@
             "channel_name": "고재영",
             "category": "Entertainment",
             "duration": "20:04",
-            "view_count": "2087877",
+            "view_count": "2095620",
             "thumbnail_url": "https://i.ytimg.com/vi/YH6oHigTJhA/hqdefault.jpg"
         },
         {
@@ -178,7 +232,7 @@
             "channel_name": "180초",
             "category": "Comedy",
             "duration": "8:24",
-            "view_count": "764602",
+            "view_count": "771780",
             "thumbnail_url": "https://i.ytimg.com/vi/DOrCg18yzPE/hqdefault.jpg"
         },
         {
@@ -187,7 +241,7 @@
             "channel_name": "리그 오브 레전드",
             "category": "Gaming",
             "duration": "0:29",
-            "view_count": "60184",
+            "view_count": "61284",
             "thumbnail_url": "https://i.ytimg.com/vi/fn9XKuPaAus/hqdefault.jpg"
         },
         {
@@ -196,7 +250,7 @@
             "channel_name": "다나나",
             "category": "People & Blogs",
             "duration": "23:41",
-            "view_count": "536205",
+            "view_count": "540592",
             "thumbnail_url": "https://i.ytimg.com/vi/5GM7hzZJ3HE/hqdefault.jpg"
         },
         {
@@ -205,7 +259,7 @@
             "channel_name": "새니 SENI",
             "category": "People & Blogs",
             "duration": "7:35",
-            "view_count": "318529",
+            "view_count": "319364",
             "thumbnail_url": "https://i.ytimg.com/vi/ci18DCyiR_0/hqdefault.jpg"
         },
         {
@@ -214,17 +268,8 @@
             "channel_name": "셜록현준",
             "category": "Education",
             "duration": "16:11",
-            "view_count": "167211",
+            "view_count": "169324",
             "thumbnail_url": "https://i.ytimg.com/vi/fU0Pto8hzZ0/hqdefault.jpg"
-        },
-        {
-            "video_id": "6LoNc0_7qw4",
-            "title": "BBANG SUNGJIN? He’s even tried Ex-Boyfriend Toast. 🍞 [Park SungJJIN S2 EP.48]",
-            "channel_name": "박성찐이야",
-            "category": "People & Blogs",
-            "duration": "20:56",
-            "view_count": "59228",
-            "thumbnail_url": "https://i.ytimg.com/vi/6LoNc0_7qw4/hqdefault.jpg"
         },
         {
             "video_id": "koReoT6m6pI",
@@ -232,8 +277,17 @@
             "channel_name": "WDG 저희 잘 지내요",
             "category": "People & Blogs",
             "duration": "12:28",
-            "view_count": "155120",
+            "view_count": "156745",
             "thumbnail_url": "https://i.ytimg.com/vi/koReoT6m6pI/hqdefault.jpg"
+        },
+        {
+            "video_id": "6LoNc0_7qw4",
+            "title": "BBANG SUNGJIN? He’s even tried Ex-Boyfriend Toast. 🍞 [Park SungJJIN S2 EP.48]",
+            "channel_name": "박성찐이야",
+            "category": "People & Blogs",
+            "duration": "20:56",
+            "view_count": "60614",
+            "thumbnail_url": "https://i.ytimg.com/vi/6LoNc0_7qw4/hqdefault.jpg"
         },
         {
             "video_id": "bjfESNkPzRo",
@@ -241,7 +295,7 @@
             "channel_name": "마리코리아TV🇰🇷まりこりあ",
             "category": "Travel & Events",
             "duration": "14:14",
-            "view_count": "328337",
+            "view_count": "332978",
             "thumbnail_url": "https://i.ytimg.com/vi/bjfESNkPzRo/hqdefault.jpg"
         },
         {
@@ -250,7 +304,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "3:34",
-            "view_count": "7310841",
+            "view_count": "7319005",
             "thumbnail_url": "https://i.ytimg.com/vi/hljXtdjCDrE/hqdefault.jpg"
         },
         {
@@ -259,8 +313,17 @@
             "channel_name": "지편한세상 [Jeeseokjin World]",
             "category": "Entertainment",
             "duration": "25:19",
-            "view_count": "1418534",
+            "view_count": "1419584",
             "thumbnail_url": "https://i.ytimg.com/vi/0mp09CDD6cA/hqdefault.jpg"
+        },
+        {
+            "video_id": "q8CefPqwH8Y",
+            "title": "역대급 직원 복지❗️ 결혼 선물로 가전 풀세트 쐈습니다",
+            "channel_name": "리쥬라이크 LIJULIKE",
+            "category": "People & Blogs",
+            "duration": "21:18",
+            "view_count": "515685",
+            "thumbnail_url": "https://i.ytimg.com/vi/q8CefPqwH8Y/hqdefault.jpg"
         },
         {
             "video_id": "bRYCs3J_vIA",
@@ -268,7 +331,7 @@
             "channel_name": "묘식당 Rabbit's",
             "category": "Howto & Style",
             "duration": "4:04",
-            "view_count": "155676",
+            "view_count": "156336",
             "thumbnail_url": "https://i.ytimg.com/vi/bRYCs3J_vIA/hqdefault.jpg"
         },
         {
@@ -277,7 +340,7 @@
             "channel_name": "삐루빼로",
             "category": "People & Blogs",
             "duration": "15:30",
-            "view_count": "355506",
+            "view_count": "357668",
             "thumbnail_url": "https://i.ytimg.com/vi/wravPdi7cL0/hqdefault.jpg"
         },
         {
@@ -286,7 +349,7 @@
             "channel_name": "컴퍼니수수 Company Soosoo",
             "category": "People & Blogs",
             "duration": "0:29",
-            "view_count": "132557",
+            "view_count": "133742",
             "thumbnail_url": "https://i.ytimg.com/vi/0w7pnw6LPVA/hqdefault.jpg"
         },
         {
@@ -295,7 +358,7 @@
             "channel_name": "진석기시대",
             "category": "Entertainment",
             "duration": "35:31",
-            "view_count": "338882",
+            "view_count": "342516",
             "thumbnail_url": "https://i.ytimg.com/vi/51mY8Tr2f8k/hqdefault.jpg"
         },
         {
@@ -304,17 +367,8 @@
             "channel_name": "꼰대희",
             "category": "Comedy",
             "duration": "46:48",
-            "view_count": "412552",
+            "view_count": "415288",
             "thumbnail_url": "https://i.ytimg.com/vi/22mlUq8Zf5g/hqdefault.jpg"
-        },
-        {
-            "video_id": "q8CefPqwH8Y",
-            "title": "역대급 직원 복지❗️ 결혼 선물로 가전 풀세트 쐈습니다",
-            "channel_name": "리쥬라이크 LIJULIKE",
-            "category": "People & Blogs",
-            "duration": "21:18",
-            "view_count": "506080",
-            "thumbnail_url": "https://i.ytimg.com/vi/q8CefPqwH8Y/hqdefault.jpg"
         },
         {
             "video_id": "5IyD9IWHRNY",
@@ -322,62 +376,8 @@
             "channel_name": "디글 클래식 :Diggle Classic",
             "category": "Entertainment",
             "duration": "14:59",
-            "view_count": "704062",
+            "view_count": "707090",
             "thumbnail_url": "https://i.ytimg.com/vi/5IyD9IWHRNY/hqdefault.jpg"
-        },
-        {
-            "video_id": "BOdnTaQ_KsU",
-            "title": "스페인 학교 수업을 위해 호떡 싸 간 아이들, 선생님이 달려오며 전한 말",
-            "channel_name": "[스페인]산들무지개",
-            "category": "People & Blogs",
-            "duration": "12:10",
-            "view_count": "319017",
-            "thumbnail_url": "https://i.ytimg.com/vi/BOdnTaQ_KsU/hqdefault.jpg"
-        },
-        {
-            "video_id": "qYTaSUB_0iM",
-            "title": "더위에 지친 입맛이 살아나요. \"양념이 남다른\" 인기만점 고추장 멸치무침 1등 레시피🥇",
-            "channel_name": "딸을 위한 레시피 Recipes for daughters",
-            "category": "Howto & Style",
-            "duration": "5:18",
-            "view_count": "313199",
-            "thumbnail_url": "https://i.ytimg.com/vi/qYTaSUB_0iM/hqdefault.jpg"
-        },
-        {
-            "video_id": "3R27xKdEm6M",
-            "title": "[로스트아크] 신규 클래스 발키리 | 2025 LOA ON SUMMER Official Trailer",
-            "channel_name": "로스트아크 LOST ARK",
-            "category": "Gaming",
-            "duration": "1:49",
-            "view_count": "166128",
-            "thumbnail_url": "https://i.ytimg.com/vi/3R27xKdEm6M/hqdefault.jpg"
-        },
-        {
-            "video_id": "BPHO9bvSixQ",
-            "title": "비싼 숙소 대신 12만원짜리 봉고차 로드트립 - 오키나와(2)",
-            "channel_name": "곽튜브",
-            "category": "Travel & Events",
-            "duration": "35:36",
-            "view_count": "896982",
-            "thumbnail_url": "https://i.ytimg.com/vi/BPHO9bvSixQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "Z2at0Zk9AaE",
-            "title": "Teaser",
-            "channel_name": "VIVINOS",
-            "category": "Film & Animation",
-            "duration": "0:22",
-            "view_count": "1314148",
-            "thumbnail_url": "https://i.ytimg.com/vi/Z2at0Zk9AaE/hqdefault.jpg"
-        },
-        {
-            "video_id": "ILxoY0EVhRA",
-            "title": "브롤 토크 : 트로피 진척도가 스타 파크라고요? 🤯 [브롤스타즈]",
-            "channel_name": "브롤스타즈",
-            "category": "Gaming",
-            "duration": "10:46",
-            "view_count": "71993",
-            "thumbnail_url": "https://i.ytimg.com/vi/ILxoY0EVhRA/hqdefault.jpg"
         }
     ]
 }
