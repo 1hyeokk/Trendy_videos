@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-06-26 22:34:04",
+    "scraped_time": "2025-06-26 23:21:15",
     "videos": [
         {
             "video_id": "r1QapH1SIAI",
@@ -7,7 +7,7 @@
             "channel_name": "fromis_9",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "1355448",
+            "view_count": "1369899",
             "thumbnail_url": "https://i.ytimg.com/vi/r1QapH1SIAI/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "STUDIO CHOOM [스튜디오 춤]",
             "category": "Entertainment",
             "duration": "2:58",
-            "view_count": "1618633",
+            "view_count": "1637099",
             "thumbnail_url": "https://i.ytimg.com/vi/dw6VBKM9IFc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "0:27",
-            "view_count": "939026",
+            "view_count": "966271",
             "thumbnail_url": "https://i.ytimg.com/vi/n-XNk2rBhTA/hqdefault.jpg"
         },
         {
@@ -34,17 +34,8 @@
             "channel_name": "ALLDAY PROJECT",
             "category": "People & Blogs",
             "duration": "3:07",
-            "view_count": "1901074",
+            "view_count": "1915762",
             "thumbnail_url": "https://i.ytimg.com/vi/r62I7NOKcPo/hqdefault.jpg"
-        },
-        {
-            "video_id": "mhKCRnUKp5U",
-            "title": "ALLDAY PROJECT - ‘WICKED’ PERFORMANCE VIDEO (VER. A - MOVIE SET)",
-            "channel_name": "THEBLACKLABEL",
-            "category": "Music",
-            "duration": "2:46",
-            "view_count": "6895239",
-            "thumbnail_url": "https://i.ytimg.com/vi/mhKCRnUKp5U/hqdefault.jpg"
         },
         {
             "video_id": "9b99MNewcgo",
@@ -52,8 +43,17 @@
             "channel_name": "A급 장영란",
             "category": "Entertainment",
             "duration": "24:28",
-            "view_count": "416032",
+            "view_count": "423556",
             "thumbnail_url": "https://i.ytimg.com/vi/9b99MNewcgo/hqdefault.jpg"
+        },
+        {
+            "video_id": "mhKCRnUKp5U",
+            "title": "ALLDAY PROJECT - ‘WICKED’ PERFORMANCE VIDEO (VER. A - MOVIE SET)",
+            "channel_name": "THEBLACKLABEL",
+            "category": "Music",
+            "duration": "2:46",
+            "view_count": "6936483",
+            "thumbnail_url": "https://i.ytimg.com/vi/mhKCRnUKp5U/hqdefault.jpg"
         },
         {
             "video_id": "8YiR9v3sOpk",
@@ -61,7 +61,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "0:28",
-            "view_count": "1851321",
+            "view_count": "1945595",
             "thumbnail_url": "https://i.ytimg.com/vi/8YiR9v3sOpk/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "새니 SENI",
             "category": "People & Blogs",
             "duration": "17:15",
-            "view_count": "179524",
+            "view_count": "182029",
             "thumbnail_url": "https://i.ytimg.com/vi/XPUWbB39QK8/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "23:16",
-            "view_count": "269537",
+            "view_count": "273534",
             "thumbnail_url": "https://i.ytimg.com/vi/-ovEZXLJX_Y/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "동네스타K",
             "category": "Entertainment",
             "duration": "27:30",
-            "view_count": "452143",
+            "view_count": "455868",
             "thumbnail_url": "https://i.ytimg.com/vi/Tip5SobvVd0/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "40:47",
-            "view_count": "334268",
+            "view_count": "340937",
             "thumbnail_url": "https://i.ytimg.com/vi/wDUJasBRipU/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "Sony Pictures Animation",
             "category": "Film & Animation",
             "duration": "3:19",
-            "view_count": "3317854",
+            "view_count": "3388160",
             "thumbnail_url": "https://i.ytimg.com/vi/yebNIHKAC4A/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "1580102",
+            "view_count": "1597437",
             "thumbnail_url": "https://i.ytimg.com/vi/lXeR1_aQsgw/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "찰스엔터",
             "category": "People & Blogs",
             "duration": "31:13",
-            "view_count": "889557",
+            "view_count": "891602",
             "thumbnail_url": "https://i.ytimg.com/vi/uMh6SvK4388/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "1:27",
-            "view_count": "2390266",
+            "view_count": "2411548",
             "thumbnail_url": "https://i.ytimg.com/vi/t7RN-R5DnZM/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "1:29",
-            "view_count": "2282051",
+            "view_count": "2300413",
             "thumbnail_url": "https://i.ytimg.com/vi/OQPYfEi-nyA/hqdefault.jpg"
         },
         {
@@ -151,8 +151,17 @@
             "channel_name": "NB couple엔비커플",
             "category": "Entertainment",
             "duration": "24:48",
-            "view_count": "771696",
+            "view_count": "786238",
             "thumbnail_url": "https://i.ytimg.com/vi/qXvG7omfzuk/hqdefault.jpg"
+        },
+        {
+            "video_id": "1xhi2mi5cfk",
+            "title": "“Your Idol” Saja Boys’ HYPNOTIC Performance | Song Clip | KPop Demon Hunters | Netflix Family",
+            "channel_name": "Netflix Family",
+            "category": "Entertainment",
+            "duration": "2:03",
+            "view_count": "620154",
+            "thumbnail_url": "https://i.ytimg.com/vi/1xhi2mi5cfk/hqdefault.jpg"
         },
         {
             "video_id": "j43QeLwRNAY",
@@ -160,7 +169,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "15:25",
-            "view_count": "1986489",
+            "view_count": "1988429",
             "thumbnail_url": "https://i.ytimg.com/vi/j43QeLwRNAY/hqdefault.jpg"
         },
         {
@@ -169,17 +178,8 @@
             "channel_name": "리그 오브 레전드",
             "category": "Gaming",
             "duration": "2:04",
-            "view_count": "189102",
+            "view_count": "193161",
             "thumbnail_url": "https://i.ytimg.com/vi/Hchuy-xrtV0/hqdefault.jpg"
-        },
-        {
-            "video_id": "1xhi2mi5cfk",
-            "title": "“Your Idol” Saja Boys’ HYPNOTIC Performance | Song Clip | KPop Demon Hunters | Netflix Family",
-            "channel_name": "Netflix Family",
-            "category": "Entertainment",
-            "duration": "2:03",
-            "view_count": "602078",
-            "thumbnail_url": "https://i.ytimg.com/vi/1xhi2mi5cfk/hqdefault.jpg"
         },
         {
             "video_id": "1ZhYGDtcquM",
@@ -187,7 +187,7 @@
             "channel_name": "운동부 둘이 왔어요",
             "category": "Travel & Events",
             "duration": "24:52",
-            "view_count": "130615",
+            "view_count": "132828",
             "thumbnail_url": "https://i.ytimg.com/vi/1ZhYGDtcquM/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "1:28",
-            "view_count": "1413530",
+            "view_count": "1423629",
             "thumbnail_url": "https://i.ytimg.com/vi/EZrvieOjij0/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "딩고 뮤직 / dingo music",
             "category": "Music",
             "duration": "20:33",
-            "view_count": "847538",
+            "view_count": "856824",
             "thumbnail_url": "https://i.ytimg.com/vi/zjMkPY8N73I/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "라꼰즈 | Rakkonz",
             "category": "Entertainment",
             "duration": "37:07",
-            "view_count": "550340",
+            "view_count": "558391",
             "thumbnail_url": "https://i.ytimg.com/vi/zt1UffHle7o/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "정리마켓",
             "category": "Howto & Style",
             "duration": "22:12",
-            "view_count": "94454",
+            "view_count": "95839",
             "thumbnail_url": "https://i.ytimg.com/vi/NZl9QTdbC68/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "효연의 레벨업 Hyo's Level Up",
             "category": "Entertainment",
             "duration": "26:09",
-            "view_count": "294830",
+            "view_count": "298686",
             "thumbnail_url": "https://i.ytimg.com/vi/pf9j1V9zf_w/hqdefault.jpg"
         },
         {
@@ -241,35 +241,8 @@
             "channel_name": "킹키는 킹키야",
             "category": "Entertainment",
             "duration": "17:43",
-            "view_count": "204006",
+            "view_count": "206021",
             "thumbnail_url": "https://i.ytimg.com/vi/AuvW7ORGcFA/hqdefault.jpg"
-        },
-        {
-            "video_id": "Km6TsKQngHY",
-            "title": "fromis_9 (프로미스나인) 'LIKE YOU BETTER' MV TEASER",
-            "channel_name": "fromis_9",
-            "category": "Music",
-            "duration": "0:23",
-            "view_count": "114158",
-            "thumbnail_url": "https://i.ytimg.com/vi/Km6TsKQngHY/hqdefault.jpg"
-        },
-        {
-            "video_id": "cO79GxP8v2I",
-            "title": "강당에서 노래 듣는데 하츠투하츠가 깜짝 등장한다면?! l [딩고 어택] 학교편 with 하츠투하츠 (Hearts2Hearts)",
-            "channel_name": "딩고 스튜디오 / dingo studio",
-            "category": "Entertainment",
-            "duration": "16:35",
-            "view_count": "493564",
-            "thumbnail_url": "https://i.ytimg.com/vi/cO79GxP8v2I/hqdefault.jpg"
-        },
-        {
-            "video_id": "SKnk_8uszWQ",
-            "title": "시원한 막걸리가 땡겨서 묵은지 한통들고 산속으로 들어왔습니다 (ft.집에 먹을거 없다고 동생도 따라옴)",
-            "channel_name": "미자네 주막",
-            "category": "Entertainment",
-            "duration": "20:39",
-            "view_count": "511023",
-            "thumbnail_url": "https://i.ytimg.com/vi/SKnk_8uszWQ/hqdefault.jpg"
         },
         {
             "video_id": "Yz_wQBt7B2o",
@@ -277,8 +250,35 @@
             "channel_name": "TVING",
             "category": "Entertainment",
             "duration": "0:46",
-            "view_count": "147975",
+            "view_count": "150036",
             "thumbnail_url": "https://i.ytimg.com/vi/Yz_wQBt7B2o/hqdefault.jpg"
+        },
+        {
+            "video_id": "cO79GxP8v2I",
+            "title": "강당에서 노래 듣는데 하츠투하츠가 깜짝 등장한다면?! l [딩고 어택] 학교편 with 하츠투하츠 (Hearts2Hearts)",
+            "channel_name": "딩고 스튜디오 / dingo studio",
+            "category": "Entertainment",
+            "duration": "16:35",
+            "view_count": "498239",
+            "thumbnail_url": "https://i.ytimg.com/vi/cO79GxP8v2I/hqdefault.jpg"
+        },
+        {
+            "video_id": "Km6TsKQngHY",
+            "title": "fromis_9 (프로미스나인) 'LIKE YOU BETTER' MV TEASER",
+            "channel_name": "fromis_9",
+            "category": "Music",
+            "duration": "0:23",
+            "view_count": "114347",
+            "thumbnail_url": "https://i.ytimg.com/vi/Km6TsKQngHY/hqdefault.jpg"
+        },
+        {
+            "video_id": "SKnk_8uszWQ",
+            "title": "시원한 막걸리가 땡겨서 묵은지 한통들고 산속으로 들어왔습니다 (ft.집에 먹을거 없다고 동생도 따라옴)",
+            "channel_name": "미자네 주막",
+            "category": "Entertainment",
+            "duration": "20:39",
+            "view_count": "512579",
+            "thumbnail_url": "https://i.ytimg.com/vi/SKnk_8uszWQ/hqdefault.jpg"
         },
         {
             "video_id": "hUejw1cOxxQ",
@@ -286,7 +286,7 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "20:07",
-            "view_count": "513624",
+            "view_count": "517466",
             "thumbnail_url": "https://i.ytimg.com/vi/hUejw1cOxxQ/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "MrBeast",
             "category": "Entertainment",
             "duration": "36:50",
-            "view_count": "128414693",
+            "view_count": "128710836",
             "thumbnail_url": "https://i.ytimg.com/vi/pe_ejTiIcSs/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "현주투성이",
             "category": "People & Blogs",
             "duration": "24:27",
-            "view_count": "221522",
+            "view_count": "222044",
             "thumbnail_url": "https://i.ytimg.com/vi/ydhgw5jv-q0/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "유노-Yuno",
             "category": "People & Blogs",
             "duration": "12:35",
-            "view_count": "534439",
+            "view_count": "537302",
             "thumbnail_url": "https://i.ytimg.com/vi/HRkJxi4_12I/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "흥삶이네 Heungsam's Life",
             "category": "People & Blogs",
             "duration": "22:03",
-            "view_count": "181093",
+            "view_count": "182226",
             "thumbnail_url": "https://i.ytimg.com/vi/ZoJo5UmO298/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "예보링 ",
             "category": "People & Blogs",
             "duration": "12:48",
-            "view_count": "283821",
+            "view_count": "284291",
             "thumbnail_url": "https://i.ytimg.com/vi/LKYP54weO2w/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "deemd 딤디",
             "category": "People & Blogs",
             "duration": "20:23",
-            "view_count": "182322",
+            "view_count": "182842",
             "thumbnail_url": "https://i.ytimg.com/vi/G_li-ZsZ-Dk/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "ぱく家(박가네)",
             "category": "Entertainment",
             "duration": "26:43",
-            "view_count": "644450",
+            "view_count": "645238",
             "thumbnail_url": "https://i.ytimg.com/vi/1ucf9PzyyJo/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "14:17",
-            "view_count": "1214496",
+            "view_count": "1216690",
             "thumbnail_url": "https://i.ytimg.com/vi/RXVNkwHO_1U/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "어쩔수없는윤화",
             "category": "People & Blogs",
             "duration": "9:11",
-            "view_count": "193360",
+            "view_count": "194075",
             "thumbnail_url": "https://i.ytimg.com/vi/AIVhAZlbgis/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "생각없이사는연",
             "category": "People & Blogs",
             "duration": "13:42",
-            "view_count": "270862",
+            "view_count": "271230",
             "thumbnail_url": "https://i.ytimg.com/vi/7qqALe1_HjQ/hqdefault.jpg"
         }
     ]
