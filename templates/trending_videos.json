@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-03 12:21:25",
+    "scraped_time": "2025-07-03 13:33:26",
     "videos": [
         {
             "video_id": "Z1wIq4X2Ko0",
@@ -7,7 +7,7 @@
             "channel_name": "TEO 테오",
             "category": "Entertainment",
             "duration": "38:15",
-            "view_count": "887478",
+            "view_count": "899898",
             "thumbnail_url": "https://i.ytimg.com/vi/Z1wIq4X2Ko0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "나래식",
             "category": "Entertainment",
             "duration": "29:04",
-            "view_count": "368749",
+            "view_count": "394786",
             "thumbnail_url": "https://i.ytimg.com/vi/FEOmPfulP0k/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "터틀이주미",
             "category": "People & Blogs",
             "duration": "24:16",
-            "view_count": "183644",
+            "view_count": "194354",
             "thumbnail_url": "https://i.ytimg.com/vi/-vdsHsCkTJ4/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "ENA 이엔에이",
             "category": "Entertainment",
             "duration": "15:45",
-            "view_count": "3714288",
+            "view_count": "3727974",
             "thumbnail_url": "https://i.ytimg.com/vi/80qpfeBklWc/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "BABYMONSTER",
             "category": "People & Blogs",
             "duration": "2:35",
-            "view_count": "14343383",
+            "view_count": "14790841",
             "thumbnail_url": "https://i.ytimg.com/vi/xn8mQqz2xmM/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "MBN MUSIC",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "214526",
+            "view_count": "219254",
             "thumbnail_url": "https://i.ytimg.com/vi/gREizcLA6oM/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "2:56",
-            "view_count": "2106611",
+            "view_count": "2127141",
             "thumbnail_url": "https://i.ytimg.com/vi/8ZpL_uXnYGQ/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "노마드션 No mad Shaun",
             "category": "Travel & Events",
             "duration": "36:15",
-            "view_count": "622371",
+            "view_count": "626362",
             "thumbnail_url": "https://i.ytimg.com/vi/Ji_Tm4NQq68/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "땅끝마을 임선생",
             "category": "Howto & Style",
             "duration": "7:01",
-            "view_count": "156460",
+            "view_count": "158341",
             "thumbnail_url": "https://i.ytimg.com/vi/fZH6FOaZYq4/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "짠한형 신동엽",
             "category": "Entertainment",
             "duration": "51:03",
-            "view_count": "1090177",
+            "view_count": "1098160",
             "thumbnail_url": "https://i.ytimg.com/vi/tirco8BBkVQ/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "혜진쓰 Hyejin's",
             "category": "People & Blogs",
             "duration": "19:04",
-            "view_count": "335739",
+            "view_count": "341513",
             "thumbnail_url": "https://i.ytimg.com/vi/Ci0bwGzNWKg/hqdefault.jpg"
-        },
-        {
-            "video_id": "EbxCy2GEPIs",
-            "title": "윤형빈 (YOON HYUNG-BIN) vs 밴쯔 (BANZZ) [FULL FIGHT] [굽네 ROAD FC 073]",
-            "channel_name": "ROAD FIGHTING CHAMPIONSHIP",
-            "category": "Sports",
-            "duration": "8:27",
-            "view_count": "1541339",
-            "thumbnail_url": "https://i.ytimg.com/vi/EbxCy2GEPIs/hqdefault.jpg"
-        },
-        {
-            "video_id": "-DYg4IjGLUk",
-            "title": "[#WSWF] 〈글로벌 아티스트 퍼포먼스 미션〉| OSAKA Ojo Gang(오사카 오죠 갱)",
-            "channel_name": "The CHOOM (더 춤)",
-            "category": "Entertainment",
-            "duration": "2:55",
-            "view_count": "1892610",
-            "thumbnail_url": "https://i.ytimg.com/vi/-DYg4IjGLUk/hqdefault.jpg"
         },
         {
             "video_id": "IskBwYNMfaM",
@@ -124,8 +106,26 @@
             "channel_name": "덱스101",
             "category": "People & Blogs",
             "duration": "26:22",
-            "view_count": "124892",
+            "view_count": "132444",
             "thumbnail_url": "https://i.ytimg.com/vi/IskBwYNMfaM/hqdefault.jpg"
+        },
+        {
+            "video_id": "-DYg4IjGLUk",
+            "title": "[#WSWF] 〈글로벌 아티스트 퍼포먼스 미션〉| OSAKA Ojo Gang(오사카 오죠 갱)",
+            "channel_name": "The CHOOM (더 춤)",
+            "category": "Entertainment",
+            "duration": "2:55",
+            "view_count": "1915032",
+            "thumbnail_url": "https://i.ytimg.com/vi/-DYg4IjGLUk/hqdefault.jpg"
+        },
+        {
+            "video_id": "EbxCy2GEPIs",
+            "title": "윤형빈 (YOON HYUNG-BIN) vs 밴쯔 (BANZZ) [FULL FIGHT] [굽네 ROAD FC 073]",
+            "channel_name": "ROAD FIGHTING CHAMPIONSHIP",
+            "category": "Sports",
+            "duration": "8:27",
+            "view_count": "1543096",
+            "thumbnail_url": "https://i.ytimg.com/vi/EbxCy2GEPIs/hqdefault.jpg"
         },
         {
             "video_id": "da68UOXfQ_s",
@@ -133,7 +133,7 @@
             "channel_name": "The CHOOM (더 춤)",
             "category": "Entertainment",
             "duration": "3:01",
-            "view_count": "1755189",
+            "view_count": "1774522",
             "thumbnail_url": "https://i.ytimg.com/vi/da68UOXfQ_s/hqdefault.jpg"
         },
         {
@@ -142,17 +142,8 @@
             "channel_name": "AniplusTV",
             "category": "Film & Animation",
             "duration": "1:31",
-            "view_count": "220140",
+            "view_count": "222546",
             "thumbnail_url": "https://i.ytimg.com/vi/zN8K_uE1LYg/hqdefault.jpg"
-        },
-        {
-            "video_id": "katO8j29gJw",
-            "title": "ALLDAY PROJECT - FAMOUS | SBS 250629 방송",
-            "channel_name": "SBSKPOP X INKIGAYO",
-            "category": "Entertainment",
-            "duration": "3:25",
-            "view_count": "1250180",
-            "thumbnail_url": "https://i.ytimg.com/vi/katO8j29gJw/hqdefault.jpg"
         },
         {
             "video_id": "yQuFmTIr7Ek",
@@ -160,8 +151,17 @@
             "channel_name": "김나영의 nofilterTV(노필터티비)",
             "category": "People & Blogs",
             "duration": "15:45",
-            "view_count": "112076",
+            "view_count": "118657",
             "thumbnail_url": "https://i.ytimg.com/vi/yQuFmTIr7Ek/hqdefault.jpg"
+        },
+        {
+            "video_id": "katO8j29gJw",
+            "title": "ALLDAY PROJECT - FAMOUS | SBS 250629 방송",
+            "channel_name": "SBSKPOP X INKIGAYO",
+            "category": "Entertainment",
+            "duration": "3:25",
+            "view_count": "1254530",
+            "thumbnail_url": "https://i.ytimg.com/vi/katO8j29gJw/hqdefault.jpg"
         },
         {
             "video_id": "LSZEAUi0mRY",
@@ -169,7 +169,7 @@
             "channel_name": "MBC 미스터리 : 심야괴담회 X 서프라이즈",
             "category": "Entertainment",
             "duration": "17:22",
-            "view_count": "270396",
+            "view_count": "272386",
             "thumbnail_url": "https://i.ytimg.com/vi/LSZEAUi0mRY/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "이 남자의 cook",
             "category": "Howto & Style",
             "duration": "1:43",
-            "view_count": "97699",
+            "view_count": "99522",
             "thumbnail_url": "https://i.ytimg.com/vi/EGl-C6VZvDg/hqdefault.jpg"
         },
         {
@@ -187,26 +187,8 @@
             "channel_name": "BOYNEXTDOOR",
             "category": "Music",
             "duration": "29:09",
-            "view_count": "388206",
+            "view_count": "392285",
             "thumbnail_url": "https://i.ytimg.com/vi/q3NQlrduBdE/hqdefault.jpg"
-        },
-        {
-            "video_id": "rp5hC_1oNnU",
-            "title": "여름 콩나물냉국 이렇게 해두고 한달은 편안하게 드세요!! 매번 끓이지않고 건강하고 맛있어요/ 아이스콩나물국 Iced bean sprout soup",
-            "channel_name": "sogyo table 소교식탁TV",
-            "category": "People & Blogs",
-            "duration": "5:06",
-            "view_count": "283903",
-            "thumbnail_url": "https://i.ytimg.com/vi/rp5hC_1oNnU/hqdefault.jpg"
-        },
-        {
-            "video_id": "JVBS0hfq7JA",
-            "title": "[미연이의 뮤트로] 에어컨 대신 프나 라이브? 듣자마자 바다 가고픈 미연x프나 플리 추천🌴  | 새출발썰 , LIKE YOU BETTER",
-            "channel_name": "미연zip MIYEON ",
-            "category": "Entertainment",
-            "duration": "38:05",
-            "view_count": "182148",
-            "thumbnail_url": "https://i.ytimg.com/vi/JVBS0hfq7JA/hqdefault.jpg"
         },
         {
             "video_id": "Qv5EbXJSUK8",
@@ -214,8 +196,26 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "832188",
+            "view_count": "851310",
             "thumbnail_url": "https://i.ytimg.com/vi/Qv5EbXJSUK8/hqdefault.jpg"
+        },
+        {
+            "video_id": "JVBS0hfq7JA",
+            "title": "[미연이의 뮤트로] 에어컨 대신 프나 라이브? 듣자마자 바다 가고픈 미연x프나 플리 추천🌴  | 새출발썰 , LIKE YOU BETTER",
+            "channel_name": "미연zip MIYEON ",
+            "category": "Entertainment",
+            "duration": "38:05",
+            "view_count": "184314",
+            "thumbnail_url": "https://i.ytimg.com/vi/JVBS0hfq7JA/hqdefault.jpg"
+        },
+        {
+            "video_id": "rp5hC_1oNnU",
+            "title": "여름 콩나물냉국 이렇게 해두고 한달은 편안하게 드세요!! 매번 끓이지않고 건강하고 맛있어요/ 아이스콩나물국 Iced bean sprout soup",
+            "channel_name": "sogyo table 소교식탁TV",
+            "category": "People & Blogs",
+            "duration": "5:06",
+            "view_count": "287629",
+            "thumbnail_url": "https://i.ytimg.com/vi/rp5hC_1oNnU/hqdefault.jpg"
         },
         {
             "video_id": "M2WTUoy4y6E",
@@ -223,7 +223,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "27917028",
+            "view_count": "28015949",
             "thumbnail_url": "https://i.ytimg.com/vi/M2WTUoy4y6E/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "ENA 이엔에이",
             "category": "Entertainment",
             "duration": "14:01",
-            "view_count": "1047360",
+            "view_count": "1054468",
             "thumbnail_url": "https://i.ytimg.com/vi/akl_j4YfEqU/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "16:39",
-            "view_count": "1583773",
+            "view_count": "1585613",
             "thumbnail_url": "https://i.ytimg.com/vi/4J7EqOB9sTo/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "여단오_yeodano",
             "category": "People & Blogs",
             "duration": "24:27",
-            "view_count": "260179",
+            "view_count": "261268",
             "thumbnail_url": "https://i.ytimg.com/vi/j69-8ig0Cic/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "SPOTV",
             "category": "Sports",
             "duration": "8:40",
-            "view_count": "1756248",
+            "view_count": "1756783",
             "thumbnail_url": "https://i.ytimg.com/vi/4Xoko2oDMOY/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "SBS Radio 에라오",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "843079",
+            "view_count": "846310",
             "thumbnail_url": "https://i.ytimg.com/vi/crMU6ftjGe0/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "MBCkpop",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "2011642",
+            "view_count": "2016301",
             "thumbnail_url": "https://i.ytimg.com/vi/JYUkm-a-c6A/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "웃고리즘",
             "category": "Comedy",
             "duration": "6:49",
-            "view_count": "706032",
+            "view_count": "709232",
             "thumbnail_url": "https://i.ytimg.com/vi/sSKYKgTdi34/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "타일러 볼까요?",
             "category": "Education",
             "duration": "15:15",
-            "view_count": "296841",
+            "view_count": "299896",
             "thumbnail_url": "https://i.ytimg.com/vi/AN1-HonwJeY/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "슛포러브",
             "category": "Sports",
             "duration": "17:23",
-            "view_count": "915834",
+            "view_count": "918949",
             "thumbnail_url": "https://i.ytimg.com/vi/gw-SHEEksNE/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "초코우유 Chocouyu",
             "category": "Travel & Events",
             "duration": "12:12",
-            "view_count": "166338",
+            "view_count": "166785",
             "thumbnail_url": "https://i.ytimg.com/vi/lBXoYRaaRJw/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "양장금주부",
             "category": "Howto & Style",
             "duration": "5:21",
-            "view_count": "506495",
+            "view_count": "507161",
             "thumbnail_url": "https://i.ytimg.com/vi/sljZmiEHlAU/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "딸을 위한 레시피 Recipes for daughters",
             "category": "Howto & Style",
             "duration": "4:43",
-            "view_count": "340900",
+            "view_count": "342524",
             "thumbnail_url": "https://i.ytimg.com/vi/1ej3oSnd2Mw/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "김키미kimmy kim",
             "category": "Entertainment",
             "duration": "19:23",
-            "view_count": "353368",
+            "view_count": "354469",
             "thumbnail_url": "https://i.ytimg.com/vi/VoqFtV2F5p4/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "소피아패밀리(Sophia family)",
             "category": "People & Blogs",
             "duration": "17:49",
-            "view_count": "320737",
+            "view_count": "322271",
             "thumbnail_url": "https://i.ytimg.com/vi/OB7CR-COHqI/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "kiu기우쌤",
             "category": "Howto & Style",
             "duration": "14:29",
-            "view_count": "298629",
+            "view_count": "299967",
             "thumbnail_url": "https://i.ytimg.com/vi/UpQaDt1X8Pk/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "CKOONY",
             "category": "Entertainment",
             "duration": "13:02",
-            "view_count": "298150",
+            "view_count": "299413",
             "thumbnail_url": "https://i.ytimg.com/vi/f8d8RfvF-lM/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "10:15",
-            "view_count": "738003",
+            "view_count": "739128",
             "thumbnail_url": "https://i.ytimg.com/vi/M7UQdamDf8U/hqdefault.jpg"
         }
     ]
