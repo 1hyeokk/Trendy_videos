@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-10 16:22:41",
+    "scraped_time": "2025-07-10 17:30:41",
     "videos": [
         {
             "video_id": "m8GJS65kE8o",
@@ -7,7 +7,7 @@
             "channel_name": "쿠팡플레이 스포츠",
             "category": "Sports",
             "duration": "5:00",
-            "view_count": "896457",
+            "view_count": "952602",
             "thumbnail_url": "https://i.ytimg.com/vi/m8GJS65kE8o/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "KODE 코드",
             "category": "Entertainment",
             "duration": "26:08",
-            "view_count": "476989",
+            "view_count": "493271",
             "thumbnail_url": "https://i.ytimg.com/vi/naPNQAbGsPs/hqdefault.jpg"
         },
         {
@@ -25,17 +25,35 @@
             "channel_name": "짠한형 신동엽",
             "category": "Entertainment",
             "duration": "51:00",
-            "view_count": "1120612",
+            "view_count": "1128459",
             "thumbnail_url": "https://i.ytimg.com/vi/3CSoZyJJaQY/hqdefault.jpg"
         },
         {
-            "video_id": "txOn0Y_WGYs",
-            "title": "[2025 남자 동아시안컵] 대한민국 vs 중국 풀 하이라이트",
-            "channel_name": "쿠팡플레이 스포츠",
-            "category": "Sports",
-            "duration": "10:59",
-            "view_count": "1571474",
-            "thumbnail_url": "https://i.ytimg.com/vi/txOn0Y_WGYs/hqdefault.jpg"
+            "video_id": "IwTNItgLRDM",
+            "title": "넉살과 친구들의 즐거운 바자회",
+            "channel_name": "이넉살",
+            "category": "Howto & Style",
+            "duration": "18:56",
+            "view_count": "194287",
+            "thumbnail_url": "https://i.ytimg.com/vi/IwTNItgLRDM/hqdefault.jpg"
+        },
+        {
+            "video_id": "CrZ11Itb-CQ",
+            "title": "[ENG] 카리나랑 무한도전 이야기 | 조간산책 EP.03",
+            "channel_name": "조나단",
+            "category": "Entertainment",
+            "duration": "22:55",
+            "view_count": "578221",
+            "thumbnail_url": "https://i.ytimg.com/vi/CrZ11Itb-CQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "wqTyuEvx42U",
+            "title": "원신 | 티바트편 막간 PV - 「신의 한계」",
+            "channel_name": "원신",
+            "category": "Gaming",
+            "duration": "8:55",
+            "view_count": "223963",
+            "thumbnail_url": "https://i.ytimg.com/vi/wqTyuEvx42U/hqdefault.jpg"
         },
         {
             "video_id": "BJv2uKk0pQQ",
@@ -43,17 +61,8 @@
             "channel_name": "충주시",
             "category": "알 수 없음",
             "duration": "8:47",
-            "view_count": "958818",
+            "view_count": "966393",
             "thumbnail_url": "https://i.ytimg.com/vi/BJv2uKk0pQQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "ooaQjgmz08I",
-            "title": "집순이 특",
-            "channel_name": "총몇명",
-            "category": "Film & Animation",
-            "duration": "4:43",
-            "view_count": "724992",
-            "thumbnail_url": "https://i.ytimg.com/vi/ooaQjgmz08I/hqdefault.jpg"
         },
         {
             "video_id": "ul8xy7uZcvM",
@@ -61,8 +70,26 @@
             "channel_name": "스테파니 미초바 Stefanie Michova",
             "category": "People & Blogs",
             "duration": "24:26",
-            "view_count": "222778",
+            "view_count": "233997",
             "thumbnail_url": "https://i.ytimg.com/vi/ul8xy7uZcvM/hqdefault.jpg"
+        },
+        {
+            "video_id": "txOn0Y_WGYs",
+            "title": "[2025 남자 동아시안컵] 대한민국 vs 중국 풀 하이라이트",
+            "channel_name": "쿠팡플레이 스포츠",
+            "category": "Sports",
+            "duration": "10:59",
+            "view_count": "1575434",
+            "thumbnail_url": "https://i.ytimg.com/vi/txOn0Y_WGYs/hqdefault.jpg"
+        },
+        {
+            "video_id": "ooaQjgmz08I",
+            "title": "집순이 특",
+            "channel_name": "총몇명",
+            "category": "Film & Animation",
+            "duration": "4:43",
+            "view_count": "738810",
+            "thumbnail_url": "https://i.ytimg.com/vi/ooaQjgmz08I/hqdefault.jpg"
         },
         {
             "video_id": "yxi-It_od_k",
@@ -70,8 +97,26 @@
             "channel_name": "김진짜 Real KIM",
             "category": "Sports",
             "duration": "12:31",
-            "view_count": "381987",
+            "view_count": "384490",
             "thumbnail_url": "https://i.ytimg.com/vi/yxi-It_od_k/hqdefault.jpg"
+        },
+        {
+            "video_id": "PUhDsuj-p5s",
+            "title": "민호가 직접 찍어온 SM 런던런 사건 브이로그. (ft. 최강창민, 수호, 찬열, 카이, 쟈니, 쿤, 샤오쥔, 시온.) [SUB.]",
+            "channel_name": "최민호 MINHO",
+            "category": "Sports",
+            "duration": "24:48",
+            "view_count": "222805",
+            "thumbnail_url": "https://i.ytimg.com/vi/PUhDsuj-p5s/hqdefault.jpg"
+        },
+        {
+            "video_id": "UffPtb_QJO8",
+            "title": "여름 덤벙김치 시원한 국물이 끝내줍니다",
+            "channel_name": "김대석 셰프TV",
+            "category": "Howto & Style",
+            "duration": "10:47",
+            "view_count": "257714",
+            "thumbnail_url": "https://i.ytimg.com/vi/UffPtb_QJO8/hqdefault.jpg"
         },
         {
             "video_id": "zY46Bk9RBBI",
@@ -79,8 +124,17 @@
             "channel_name": "유 퀴즈 온 더 튜브",
             "category": "Entertainment",
             "duration": "2:01",
-            "view_count": "971029",
+            "view_count": "983234",
             "thumbnail_url": "https://i.ytimg.com/vi/zY46Bk9RBBI/hqdefault.jpg"
+        },
+        {
+            "video_id": "0QjL4miyDVw",
+            "title": "불닭소스 기름으로 계란볶음밥 10인분 튀기기",
+            "channel_name": "먹어볼래TryToEat",
+            "category": "People & Blogs",
+            "duration": "9:56",
+            "view_count": "289004",
+            "thumbnail_url": "https://i.ytimg.com/vi/0QjL4miyDVw/hqdefault.jpg"
         },
         {
             "video_id": "ArowH8Skw0k",
@@ -88,7 +142,7 @@
             "channel_name": "TEO 테오",
             "category": "Entertainment",
             "duration": "36:16",
-            "view_count": "441903",
+            "view_count": "447042",
             "thumbnail_url": "https://i.ytimg.com/vi/ArowH8Skw0k/hqdefault.jpg"
         },
         {
@@ -97,7 +151,7 @@
             "channel_name": "순풍 선우용여",
             "category": "People & Blogs",
             "duration": "23:43",
-            "view_count": "445656",
+            "view_count": "458716",
             "thumbnail_url": "https://i.ytimg.com/vi/hDow20YIw0s/hqdefault.jpg"
         },
         {
@@ -106,7 +160,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "0:31",
-            "view_count": "4950848",
+            "view_count": "4974538",
             "thumbnail_url": "https://i.ytimg.com/vi/VSlfs3s5mtk/hqdefault.jpg"
         },
         {
@@ -115,7 +169,7 @@
             "channel_name": "팔숙이 palsook",
             "category": "Howto & Style",
             "duration": "2:48",
-            "view_count": "367092",
+            "view_count": "369129",
             "thumbnail_url": "https://i.ytimg.com/vi/MAV6MWoG1qA/hqdefault.jpg"
         },
         {
@@ -124,7 +178,7 @@
             "channel_name": "Mhz 므흐즈",
             "category": "Music",
             "duration": "2:42",
-            "view_count": "412042",
+            "view_count": "416811",
             "thumbnail_url": "https://i.ytimg.com/vi/w_c_M1H4XqM/hqdefault.jpg"
         },
         {
@@ -133,7 +187,7 @@
             "channel_name": "스포타임",
             "category": "Sports",
             "duration": "3:19",
-            "view_count": "1273457",
+            "view_count": "1274197",
             "thumbnail_url": "https://i.ytimg.com/vi/Ob6cgGUAPPA/hqdefault.jpg"
         },
         {
@@ -142,7 +196,7 @@
             "channel_name": "걍밍경",
             "category": "People & Blogs",
             "duration": "34:01",
-            "view_count": "1066371",
+            "view_count": "1070438",
             "thumbnail_url": "https://i.ytimg.com/vi/mw_WSY2Ro04/hqdefault.jpg"
         },
         {
@@ -151,17 +205,8 @@
             "channel_name": "콜미진 callmejin",
             "category": "People & Blogs",
             "duration": "19:39",
-            "view_count": "300687",
+            "view_count": "302320",
             "thumbnail_url": "https://i.ytimg.com/vi/2_TwZ76eWx0/hqdefault.jpg"
-        },
-        {
-            "video_id": "oBPZ_n0KDx4",
-            "title": "팬싸남친 아니고 쌍게이남친 💎NCT DREAM 재민💎 | 홍석천의 보석함 시즌4 EP.5",
-            "channel_name": "홍석천의 보석함 ",
-            "category": "People & Blogs",
-            "duration": "29:05",
-            "view_count": "377854",
-            "thumbnail_url": "https://i.ytimg.com/vi/oBPZ_n0KDx4/hqdefault.jpg"
         },
         {
             "video_id": "SGqjLQZnluU",
@@ -169,8 +214,17 @@
             "channel_name": "파뿌리",
             "category": "Entertainment",
             "duration": "26:41",
-            "view_count": "493789",
+            "view_count": "500824",
             "thumbnail_url": "https://i.ytimg.com/vi/SGqjLQZnluU/hqdefault.jpg"
+        },
+        {
+            "video_id": "oBPZ_n0KDx4",
+            "title": "팬싸남친 아니고 쌍게이남친 💎NCT DREAM 재민💎 | 홍석천의 보석함 시즌4 EP.5",
+            "channel_name": "홍석천의 보석함 ",
+            "category": "People & Blogs",
+            "duration": "29:05",
+            "view_count": "381348",
+            "thumbnail_url": "https://i.ytimg.com/vi/oBPZ_n0KDx4/hqdefault.jpg"
         },
         {
             "video_id": "9_bTl2vvYQg",
@@ -178,7 +232,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "6382455",
+            "view_count": "6441995",
             "thumbnail_url": "https://i.ytimg.com/vi/9_bTl2vvYQg/hqdefault.jpg"
         },
         {
@@ -187,7 +241,7 @@
             "channel_name": "EBSDocumentary (EBS 다큐)",
             "category": "Entertainment",
             "duration": "26:52",
-            "view_count": "977591",
+            "view_count": "981428",
             "thumbnail_url": "https://i.ytimg.com/vi/aIY1jJ8e_98/hqdefault.jpg"
         },
         {
@@ -196,7 +250,7 @@
             "channel_name": "ENA 이엔에이",
             "category": "Entertainment",
             "duration": "8:30",
-            "view_count": "1161976",
+            "view_count": "1166625",
             "thumbnail_url": "https://i.ytimg.com/vi/P6PwUs7uVq0/hqdefault.jpg"
         },
         {
@@ -205,7 +259,7 @@
             "channel_name": "Mozzarella Girl & Oppa",
             "category": "Comedy",
             "duration": "33:32",
-            "view_count": "460062",
+            "view_count": "462332",
             "thumbnail_url": "https://i.ytimg.com/vi/g-QL6BE9X3U/hqdefault.jpg"
         },
         {
@@ -214,7 +268,7 @@
             "channel_name": "요정재형",
             "category": "Entertainment",
             "duration": "57:36",
-            "view_count": "633726",
+            "view_count": "636376",
             "thumbnail_url": "https://i.ytimg.com/vi/R3AnAhBg7i4/hqdefault.jpg"
         },
         {
@@ -223,7 +277,7 @@
             "channel_name": "엔조이커플enjoycouple",
             "category": "Entertainment",
             "duration": "9:30",
-            "view_count": "1301209",
+            "view_count": "1302127",
             "thumbnail_url": "https://i.ytimg.com/vi/vgaGrnQrIKI/hqdefault.jpg"
         },
         {
@@ -232,17 +286,8 @@
             "channel_name": "미란이네 알렉스",
             "category": "People & Blogs",
             "duration": "30:47",
-            "view_count": "264471",
+            "view_count": "267751",
             "thumbnail_url": "https://i.ytimg.com/vi/FDNSbZSj2EU/hqdefault.jpg"
-        },
-        {
-            "video_id": "2zTDA_Z9TME",
-            "title": "귀화 면접까지 다 합격했는데도 불구하고 한국 여권이 아닌 그리스 여권만들어서 슬퍼하는 그리스 아내",
-            "channel_name": "소피아패밀리(Sophia family)",
-            "category": "People & Blogs",
-            "duration": "17:12",
-            "view_count": "303222",
-            "thumbnail_url": "https://i.ytimg.com/vi/2zTDA_Z9TME/hqdefault.jpg"
         },
         {
             "video_id": "gjHcbWTXqEY",
@@ -250,17 +295,17 @@
             "channel_name": "BPM Entertainment",
             "category": "Entertainment",
             "duration": "3:11",
-            "view_count": "3458584",
+            "view_count": "3553594",
             "thumbnail_url": "https://i.ytimg.com/vi/gjHcbWTXqEY/hqdefault.jpg"
         },
         {
-            "video_id": "H7Haf8G4hgY",
-            "title": "‘케이팝 데몬 헌터스’ 빌보드 3위에 아카데미까지? 음원차트 씹어 먹은 OST 근황 / 14F",
-            "channel_name": "14F 일사에프",
-            "category": "News & Politics",
-            "duration": "2:18",
-            "view_count": "295907",
-            "thumbnail_url": "https://i.ytimg.com/vi/H7Haf8G4hgY/hqdefault.jpg"
+            "video_id": "2zTDA_Z9TME",
+            "title": "귀화 면접까지 다 합격했는데도 불구하고 한국 여권이 아닌 그리스 여권만들어서 슬퍼하는 그리스 아내",
+            "channel_name": "소피아패밀리(Sophia family)",
+            "category": "People & Blogs",
+            "duration": "17:12",
+            "view_count": "303634",
+            "thumbnail_url": "https://i.ytimg.com/vi/2zTDA_Z9TME/hqdefault.jpg"
         },
         {
             "video_id": "oHQKSgBHjWA",
@@ -268,8 +313,17 @@
             "channel_name": "초코우유 Chocouyu",
             "category": "Travel & Events",
             "duration": "12:46",
-            "view_count": "199868",
+            "view_count": "200282",
             "thumbnail_url": "https://i.ytimg.com/vi/oHQKSgBHjWA/hqdefault.jpg"
+        },
+        {
+            "video_id": "H7Haf8G4hgY",
+            "title": "‘케이팝 데몬 헌터스’ 빌보드 3위에 아카데미까지? 음원차트 씹어 먹은 OST 근황 / 14F",
+            "channel_name": "14F 일사에프",
+            "category": "News & Politics",
+            "duration": "2:18",
+            "view_count": "297716",
+            "thumbnail_url": "https://i.ytimg.com/vi/H7Haf8G4hgY/hqdefault.jpg"
         },
         {
             "video_id": "LLV0uJHKHAI",
@@ -277,17 +331,8 @@
             "channel_name": "디글 클래식 :Diggle Classic",
             "category": "Entertainment",
             "duration": "17:25",
-            "view_count": "749625",
+            "view_count": "754179",
             "thumbnail_url": "https://i.ytimg.com/vi/LLV0uJHKHAI/hqdefault.jpg"
-        },
-        {
-            "video_id": "dBjCfY2fKQc",
-            "title": "성시경의 먹을텐데 l 부산 금손1983 (with.이대호)",
-            "channel_name": "성시경 SUNG SI KYUNG",
-            "category": "Entertainment",
-            "duration": "32:05",
-            "view_count": "500300",
-            "thumbnail_url": "https://i.ytimg.com/vi/dBjCfY2fKQc/hqdefault.jpg"
         },
         {
             "video_id": "FWAdfuPpLOc",
@@ -295,7 +340,7 @@
             "channel_name": "MrBeast",
             "category": "Entertainment",
             "duration": "20:37",
-            "view_count": "82724419",
+            "view_count": "82876560",
             "thumbnail_url": "https://i.ytimg.com/vi/FWAdfuPpLOc/hqdefault.jpg"
         },
         {
@@ -304,35 +349,8 @@
             "channel_name": "Tacosama 타코사마",
             "category": "People & Blogs",
             "duration": "28:32",
-            "view_count": "200639",
+            "view_count": "201952",
             "thumbnail_url": "https://i.ytimg.com/vi/pOtAqTN42wU/hqdefault.jpg"
-        },
-        {
-            "video_id": "V7HS1-O2jeA",
-            "title": "💧가슴 촉촉하게 만드는 전국민 위로송🎙️방판프린스ver. | 이찬원 - ‘나는 반딧불‘ 4K | #어디든가요",
-            "channel_name": "방판뮤직 어디든 가요",
-            "category": "Entertainment",
-            "duration": "4:19",
-            "view_count": "492714",
-            "thumbnail_url": "https://i.ytimg.com/vi/V7HS1-O2jeA/hqdefault.jpg"
-        },
-        {
-            "video_id": "3SMCAMiWBDc",
-            "title": "소개팅남과 사귀게 된 쓱튜브! 그와 연락 문제로 싸웠다.. 먼저 사과 해야 할까?!💔",
-            "channel_name": "SSG랜더스",
-            "category": "Sports",
-            "duration": "32:32",
-            "view_count": "138139",
-            "thumbnail_url": "https://i.ytimg.com/vi/3SMCAMiWBDc/hqdefault.jpg"
-        },
-        {
-            "video_id": "JESHGc9PXNg",
-            "title": "도경수 Doh Kyung Soo 'SING ALONG!' MV",
-            "channel_name": "컴퍼니수수 Company Soosoo",
-            "category": "People & Blogs",
-            "duration": "2:48",
-            "view_count": "579433",
-            "thumbnail_url": "https://i.ytimg.com/vi/JESHGc9PXNg/hqdefault.jpg"
         },
         {
             "video_id": "tCzvWJYhw4o",
@@ -340,7 +358,7 @@
             "channel_name": "진돌",
             "category": "Entertainment",
             "duration": "15:18",
-            "view_count": "241996",
+            "view_count": "242586",
             "thumbnail_url": "https://i.ytimg.com/vi/tCzvWJYhw4o/hqdefault.jpg"
         },
         {
@@ -349,7 +367,7 @@
             "channel_name": "수리키친Suri",
             "category": "People & Blogs",
             "duration": "6:15",
-            "view_count": "444539",
+            "view_count": "445913",
             "thumbnail_url": "https://i.ytimg.com/vi/I0GkWo4tS3o/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "10:58",
-            "view_count": "624395",
+            "view_count": "625039",
             "thumbnail_url": "https://i.ytimg.com/vi/YYHk_f95dEc/hqdefault.jpg"
-        },
-        {
-            "video_id": "Zipmlipa0xc",
-            "title": "솥뚜껑 삼겹살을 처음 먹어본 북마케도니아 소방관 장인어른 과 처남의 반응?! 그리고 태어나서 처음 보는 스케일의 깜짝 불꽃축제까지....[한국여행]",
-            "channel_name": "NB couple엔비커플",
-            "category": "Entertainment",
-            "duration": "30:02",
-            "view_count": "437090",
-            "thumbnail_url": "https://i.ytimg.com/vi/Zipmlipa0xc/hqdefault.jpg"
-        },
-        {
-            "video_id": "5WTcIhUfsvk",
-            "title": "'여행 최고의 날이야..' 인생 첫 지리산을 가서 한국 자연에 푹빠진 장인장모님",
-            "channel_name": "카리나의 삶",
-            "category": "People & Blogs",
-            "duration": "15:20",
-            "view_count": "305654",
-            "thumbnail_url": "https://i.ytimg.com/vi/5WTcIhUfsvk/hqdefault.jpg"
         }
     ]
 }
