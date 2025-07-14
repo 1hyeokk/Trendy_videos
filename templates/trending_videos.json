@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-14 21:49:02",
+    "scraped_time": "2025-07-14 22:37:39",
     "videos": [
         {
             "video_id": "CgCVZdcKcqY",
@@ -7,17 +7,8 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "51225410",
+            "view_count": "51452662",
             "thumbnail_url": "https://i.ytimg.com/vi/CgCVZdcKcqY/hqdefault.jpg"
-        },
-        {
-            "video_id": "m7AVDeJsQn0",
-            "title": "[FIFA 클럽월드컵] 결승 첼시 vs 파리 생제르맹 풀 하이라이트",
-            "channel_name": "쿠팡플레이 스포츠",
-            "category": "Sports",
-            "duration": "5:00",
-            "view_count": "1072981",
-            "thumbnail_url": "https://i.ytimg.com/vi/m7AVDeJsQn0/hqdefault.jpg"
         },
         {
             "video_id": "zuWGKxncL0k",
@@ -25,8 +16,17 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "16:14",
-            "view_count": "1031055",
+            "view_count": "1040047",
             "thumbnail_url": "https://i.ytimg.com/vi/zuWGKxncL0k/hqdefault.jpg"
+        },
+        {
+            "video_id": "m7AVDeJsQn0",
+            "title": "[FIFA 클럽월드컵] 결승 첼시 vs 파리 생제르맹 풀 하이라이트",
+            "channel_name": "쿠팡플레이 스포츠",
+            "category": "Sports",
+            "duration": "5:00",
+            "view_count": "1100885",
+            "thumbnail_url": "https://i.ytimg.com/vi/m7AVDeJsQn0/hqdefault.jpg"
         },
         {
             "video_id": "zOnEALzLhNE",
@@ -34,7 +34,7 @@
             "channel_name": "파뿌리",
             "category": "Entertainment",
             "duration": "53:40",
-            "view_count": "483749",
+            "view_count": "494052",
             "thumbnail_url": "https://i.ytimg.com/vi/zOnEALzLhNE/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "tvN DRAMA",
             "category": "Entertainment",
             "duration": "2:33",
-            "view_count": "303634",
+            "view_count": "314215",
             "thumbnail_url": "https://i.ytimg.com/vi/6qxfYTH59Xw/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "양장금주부",
             "category": "Howto & Style",
             "duration": "4:02",
-            "view_count": "237747",
+            "view_count": "247418",
             "thumbnail_url": "https://i.ytimg.com/vi/xHPakHfvY3k/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "인생84",
             "category": "People & Blogs",
             "duration": "29:30",
-            "view_count": "1182149",
+            "view_count": "1188207",
             "thumbnail_url": "https://i.ytimg.com/vi/p96B2NYFGTM/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "놀면 뭐하니?",
             "category": "Entertainment",
             "duration": "15:23",
-            "view_count": "1167525",
+            "view_count": "1179053",
             "thumbnail_url": "https://i.ytimg.com/vi/Ba61oQIizck/hqdefault.jpg"
         },
         {
@@ -79,17 +79,8 @@
             "channel_name": "TVING SPORTS",
             "category": "Sports",
             "duration": "23:57",
-            "view_count": "520559",
+            "view_count": "521892",
             "thumbnail_url": "https://i.ytimg.com/vi/cIMzRdVQI3E/hqdefault.jpg"
-        },
-        {
-            "video_id": "IWYIbvzdRkM",
-            "title": "전남친 같은 사람",
-            "channel_name": "짧은대본 ShortPaper",
-            "category": "Entertainment",
-            "duration": "8:37",
-            "view_count": "530504",
-            "thumbnail_url": "https://i.ytimg.com/vi/IWYIbvzdRkM/hqdefault.jpg"
         },
         {
             "video_id": "i44rfd5DMX4",
@@ -97,8 +88,17 @@
             "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
             "category": "Entertainment",
             "duration": "16:17",
-            "view_count": "900143",
+            "view_count": "914993",
             "thumbnail_url": "https://i.ytimg.com/vi/i44rfd5DMX4/hqdefault.jpg"
+        },
+        {
+            "video_id": "IWYIbvzdRkM",
+            "title": "전남친 같은 사람",
+            "channel_name": "짧은대본 ShortPaper",
+            "category": "Entertainment",
+            "duration": "8:37",
+            "view_count": "533989",
+            "thumbnail_url": "https://i.ytimg.com/vi/IWYIbvzdRkM/hqdefault.jpg"
         },
         {
             "video_id": "TUd1VQGaCQM",
@@ -106,7 +106,7 @@
             "channel_name": "MBCkpop",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "624500",
+            "view_count": "628745",
             "thumbnail_url": "https://i.ytimg.com/vi/TUd1VQGaCQM/hqdefault.jpg"
         },
         {
@@ -115,8 +115,17 @@
             "channel_name": "SPOTV",
             "category": "Sports",
             "duration": "6:06",
-            "view_count": "438568",
+            "view_count": "439084",
             "thumbnail_url": "https://i.ytimg.com/vi/w0kTDiyor8E/hqdefault.jpg"
+        },
+        {
+            "video_id": "9_Z-p5kMTjc",
+            "title": "[나혼자산다] 1분 1초도 허투루 쓰지 않는 열정맨 민호의 숨 막히는 라면 챌린지🍜ㅣ#샤이니 #민호 MBC250711방송",
+            "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+            "category": "Entertainment",
+            "duration": "17:30",
+            "view_count": "753581",
+            "thumbnail_url": "https://i.ytimg.com/vi/9_Z-p5kMTjc/hqdefault.jpg"
         },
         {
             "video_id": "LaN4u4Wqi-w",
@@ -124,7 +133,7 @@
             "channel_name": "Tacosama 타코사마",
             "category": "People & Blogs",
             "duration": "30:56",
-            "view_count": "201578",
+            "view_count": "203807",
             "thumbnail_url": "https://i.ytimg.com/vi/LaN4u4Wqi-w/hqdefault.jpg"
         },
         {
@@ -133,17 +142,8 @@
             "channel_name": "요정재형",
             "category": "Entertainment",
             "duration": "55:56",
-            "view_count": "268484",
+            "view_count": "272592",
             "thumbnail_url": "https://i.ytimg.com/vi/FZTPk_1r-Xs/hqdefault.jpg"
-        },
-        {
-            "video_id": "9_Z-p5kMTjc",
-            "title": "[나혼자산다] 1분 1초도 허투루 쓰지 않는 열정맨 민호의 숨 막히는 라면 챌린지🍜ㅣ#샤이니 #민호 MBC250711방송",
-            "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
-            "category": "Entertainment",
-            "duration": "17:30",
-            "view_count": "743201",
-            "thumbnail_url": "https://i.ytimg.com/vi/9_Z-p5kMTjc/hqdefault.jpg"
         },
         {
             "video_id": "8Dds0jeGGj8",
@@ -151,7 +151,7 @@
             "channel_name": "현주투성이",
             "category": "People & Blogs",
             "duration": "22:01",
-            "view_count": "191703",
+            "view_count": "194440",
             "thumbnail_url": "https://i.ytimg.com/vi/8Dds0jeGGj8/hqdefault.jpg"
         },
         {
@@ -160,17 +160,8 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:14",
-            "view_count": "15879093",
+            "view_count": "15925282",
             "thumbnail_url": "https://i.ytimg.com/vi/eHHQaoEW30Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "duHQlXjWp-Y",
-            "title": "한화 팬분들 17분 삭제시켜 드리겠습니다😎 2025 KBO 전반기 한화 역전승 TOP 10",
-            "channel_name": "스브스스포츠 SUBUSU SPORTS",
-            "category": "Sports",
-            "duration": "17:00",
-            "view_count": "430550",
-            "thumbnail_url": "https://i.ytimg.com/vi/duHQlXjWp-Y/hqdefault.jpg"
         },
         {
             "video_id": "lsQs47wFroY",
@@ -178,8 +169,17 @@
             "channel_name": "아는형님 Knowingbros",
             "category": "Entertainment",
             "duration": "22:46",
-            "view_count": "289289",
+            "view_count": "292761",
             "thumbnail_url": "https://i.ytimg.com/vi/lsQs47wFroY/hqdefault.jpg"
+        },
+        {
+            "video_id": "duHQlXjWp-Y",
+            "title": "한화 팬분들 17분 삭제시켜 드리겠습니다😎 2025 KBO 전반기 한화 역전승 TOP 10",
+            "channel_name": "스브스스포츠 SUBUSU SPORTS",
+            "category": "Sports",
+            "duration": "17:00",
+            "view_count": "432038",
+            "thumbnail_url": "https://i.ytimg.com/vi/duHQlXjWp-Y/hqdefault.jpg"
         },
         {
             "video_id": "GbJIW9SUmMc",
@@ -187,7 +187,7 @@
             "channel_name": "KOMERICAN",
             "category": "People & Blogs",
             "duration": "15:48",
-            "view_count": "198007",
+            "view_count": "199287",
             "thumbnail_url": "https://i.ytimg.com/vi/GbJIW9SUmMc/hqdefault.jpg"
         },
         {
@@ -196,17 +196,8 @@
             "channel_name": "ITSub잇섭",
             "category": "Science & Technology",
             "duration": "17:34",
-            "view_count": "843466",
+            "view_count": "846156",
             "thumbnail_url": "https://i.ytimg.com/vi/IvPhOOfa-U8/hqdefault.jpg"
-        },
-        {
-            "video_id": "TMD5synADTk",
-            "title": "원래 세력에서 버림받고 시내 한복판 술병에 정착해버린 꿀벌세력 데려오기",
-            "channel_name": "프응TV Honeybeefather",
-            "category": "People & Blogs",
-            "duration": "18:01",
-            "view_count": "319916",
-            "thumbnail_url": "https://i.ytimg.com/vi/TMD5synADTk/hqdefault.jpg"
         },
         {
             "video_id": "64BnnM3nJAw",
@@ -214,8 +205,17 @@
             "channel_name": "엄마의손맛",
             "category": "Howto & Style",
             "duration": "16:05",
-            "view_count": "305630",
+            "view_count": "307644",
             "thumbnail_url": "https://i.ytimg.com/vi/64BnnM3nJAw/hqdefault.jpg"
+        },
+        {
+            "video_id": "TMD5synADTk",
+            "title": "원래 세력에서 버림받고 시내 한복판 술병에 정착해버린 꿀벌세력 데려오기",
+            "channel_name": "프응TV Honeybeefather",
+            "category": "People & Blogs",
+            "duration": "18:01",
+            "view_count": "321145",
+            "thumbnail_url": "https://i.ytimg.com/vi/TMD5synADTk/hqdefault.jpg"
         },
         {
             "video_id": "WUzmP7_57n0",
@@ -223,7 +223,7 @@
             "channel_name": "지편한세상 [Jeeseokjin World]",
             "category": "Entertainment",
             "duration": "32:24",
-            "view_count": "510483",
+            "view_count": "512739",
             "thumbnail_url": "https://i.ytimg.com/vi/WUzmP7_57n0/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "SBS Golf",
             "category": "Sports",
             "duration": "7:31",
-            "view_count": "375024",
+            "view_count": "376510",
             "thumbnail_url": "https://i.ytimg.com/vi/sYbZ845d874/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "jellainkorea 젤라인코리아 ",
             "category": "People & Blogs",
             "duration": "14:32",
-            "view_count": "123848",
+            "view_count": "125401",
             "thumbnail_url": "https://i.ytimg.com/vi/lKXszVhMEEo/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "최종시안",
             "category": "People & Blogs",
             "duration": "18:50",
-            "view_count": "486488",
+            "view_count": "489203",
             "thumbnail_url": "https://i.ytimg.com/vi/UT7zNnODFjM/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "YOUNGJAE - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "167469",
+            "view_count": "169306",
             "thumbnail_url": "https://i.ytimg.com/vi/HRQGrsb-UcQ/hqdefault.jpg"
         },
         {
@@ -268,17 +268,8 @@
             "channel_name": "TWICE - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "871489",
+            "view_count": "875287",
             "thumbnail_url": "https://i.ytimg.com/vi/0sFFvghflng/hqdefault.jpg"
-        },
-        {
-            "video_id": "acO4JUEm1ng",
-            "title": "박동원…착한 줄 알았는데 혼자 채이 버프받네👼🏻 홈런 더비 비하인드 [엘코더]",
-            "channel_name": "LGTWINSTV",
-            "category": "Sports",
-            "duration": "13:18",
-            "view_count": "98945",
-            "thumbnail_url": "https://i.ytimg.com/vi/acO4JUEm1ng/hqdefault.jpg"
         },
         {
             "video_id": "qe2-W8_yOC4",
@@ -286,7 +277,7 @@
             "channel_name": "추성훈 ChooSungHoon",
             "category": "People & Blogs",
             "duration": "27:46",
-            "view_count": "1855747",
+            "view_count": "1865271",
             "thumbnail_url": "https://i.ytimg.com/vi/qe2-W8_yOC4/hqdefault.jpg"
         },
         {
@@ -295,7 +286,7 @@
             "channel_name": "요리왕비룡 Korean Food Cooking",
             "category": "Howto & Style",
             "duration": "3:22",
-            "view_count": "99895",
+            "view_count": "100853",
             "thumbnail_url": "https://i.ytimg.com/vi/oXiNzcBVpNE/hqdefault.jpg"
         },
         {
@@ -304,7 +295,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "21:30",
-            "view_count": "1400890",
+            "view_count": "1404639",
             "thumbnail_url": "https://i.ytimg.com/vi/KoPCdgWYTa4/hqdefault.jpg"
         },
         {
@@ -313,17 +304,8 @@
             "channel_name": "EBSCulture (EBS 교양)",
             "category": "Entertainment",
             "duration": "25:58",
-            "view_count": "492875",
+            "view_count": "493538",
             "thumbnail_url": "https://i.ytimg.com/vi/PhHVtONe9V4/hqdefault.jpg"
-        },
-        {
-            "video_id": "SXzqm3oSxZ8",
-            "title": "2주만에 동생을 보러갔더니 동생 기분이가 안 좋습니다ㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "마리코리아TV🇰🇷まりこりあ",
-            "category": "Travel & Events",
-            "duration": "12:23",
-            "view_count": "184568",
-            "thumbnail_url": "https://i.ytimg.com/vi/SXzqm3oSxZ8/hqdefault.jpg"
         },
         {
             "video_id": "40ui8-wZOWQ",
@@ -331,7 +313,7 @@
             "channel_name": "JAYKEEOUT 제이키아웃",
             "category": "Entertainment",
             "duration": "36:29",
-            "view_count": "337804",
+            "view_count": "339833",
             "thumbnail_url": "https://i.ytimg.com/vi/40ui8-wZOWQ/hqdefault.jpg"
         },
         {
@@ -340,8 +322,17 @@
             "channel_name": "숏박스",
             "category": "Comedy",
             "duration": "6:43",
-            "view_count": "2180727",
+            "view_count": "2188930",
             "thumbnail_url": "https://i.ytimg.com/vi/QohVI6EXAGM/hqdefault.jpg"
+        },
+        {
+            "video_id": "SXzqm3oSxZ8",
+            "title": "2주만에 동생을 보러갔더니 동생 기분이가 안 좋습니다ㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "마리코리아TV🇰🇷まりこりあ",
+            "category": "Travel & Events",
+            "duration": "12:23",
+            "view_count": "185996",
+            "thumbnail_url": "https://i.ytimg.com/vi/SXzqm3oSxZ8/hqdefault.jpg"
         },
         {
             "video_id": "jnUzFuvrku0",
@@ -349,8 +340,17 @@
             "channel_name": "Mrs.뉴저지 손태영",
             "category": "People & Blogs",
             "duration": "15:10",
-            "view_count": "286310",
+            "view_count": "288207",
             "thumbnail_url": "https://i.ytimg.com/vi/jnUzFuvrku0/hqdefault.jpg"
+        },
+        {
+            "video_id": "acO4JUEm1ng",
+            "title": "박동원…착한 줄 알았는데 혼자 채이 버프받네👼🏻 홈런 더비 비하인드 [엘코더]",
+            "channel_name": "LGTWINSTV",
+            "category": "Sports",
+            "duration": "13:18",
+            "view_count": "99448",
+            "thumbnail_url": "https://i.ytimg.com/vi/acO4JUEm1ng/hqdefault.jpg"
         },
         {
             "video_id": "FoVLhHkt1xo",
@@ -358,7 +358,7 @@
             "channel_name": "정동원(JD1)",
             "category": "Entertainment",
             "duration": "16:53",
-            "view_count": "414506",
+            "view_count": "415680",
             "thumbnail_url": "https://i.ytimg.com/vi/FoVLhHkt1xo/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "안녕하세요 최화정이에요",
             "category": "People & Blogs",
             "duration": "26:28",
-            "view_count": "823123",
+            "view_count": "824871",
             "thumbnail_url": "https://i.ytimg.com/vi/XXxhip4m9nI/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "원지의하루",
             "category": "People & Blogs",
             "duration": "22:04",
-            "view_count": "401800",
+            "view_count": "402892",
             "thumbnail_url": "https://i.ytimg.com/vi/wuxQTqPgkj0/hqdefault.jpg"
         }
     ]
