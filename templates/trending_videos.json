@@ -1,13 +1,22 @@
 {
-    "scraped_time": "2025-07-21 13:05:14",
+    "scraped_time": "2025-07-21 14:29:10",
     "videos": [
+        {
+            "video_id": "zxYYRktQu-8",
+            "title": "[UFC] 더스틴 포이리에 vs 맥스 할로웨이",
+            "channel_name": "tvN SPORTS",
+            "category": "Sports",
+            "duration": "37:13",
+            "view_count": "1311591",
+            "thumbnail_url": "https://i.ytimg.com/vi/zxYYRktQu-8/hqdefault.jpg"
+        },
         {
             "video_id": "AuaABDWFs_8",
             "title": "GOLDEN Covered by IVE ANYUJIN",
             "channel_name": "IVE",
             "category": "Entertainment",
             "duration": "1:39",
-            "view_count": "1711444",
+            "view_count": "1745616",
             "thumbnail_url": "https://i.ytimg.com/vi/AuaABDWFs_8/hqdefault.jpg"
         },
         {
@@ -16,17 +25,8 @@
             "channel_name": "MrBeast",
             "category": "Entertainment",
             "duration": "33:03",
-            "view_count": "67832640",
+            "view_count": "68808164",
             "thumbnail_url": "https://i.ytimg.com/vi/pzBi1nwDn8U/hqdefault.jpg"
-        },
-        {
-            "video_id": "5DtkOKAWqBY",
-            "title": "임시완 축하공연 BSA OPENING PERFORMANCE [제4회 청룡시리즈어워즈] [제4회 청룡시리즈어워즈] | KBS 250718 방송",
-            "channel_name": "KBS Entertain",
-            "category": "Entertainment",
-            "duration": "7:54",
-            "view_count": "1123371",
-            "thumbnail_url": "https://i.ytimg.com/vi/5DtkOKAWqBY/hqdefault.jpg"
         },
         {
             "video_id": "VmXwNY_HdHM",
@@ -34,8 +34,35 @@
             "channel_name": "이영자 TV",
             "category": "People & Blogs",
             "duration": "21:42",
-            "view_count": "317474",
+            "view_count": "336829",
             "thumbnail_url": "https://i.ytimg.com/vi/VmXwNY_HdHM/hqdefault.jpg"
+        },
+        {
+            "video_id": "5DtkOKAWqBY",
+            "title": "임시완 축하공연 BSA OPENING PERFORMANCE [제4회 청룡시리즈어워즈] [제4회 청룡시리즈어워즈] | KBS 250718 방송",
+            "channel_name": "KBS Entertain",
+            "category": "Entertainment",
+            "duration": "7:54",
+            "view_count": "1132274",
+            "thumbnail_url": "https://i.ytimg.com/vi/5DtkOKAWqBY/hqdefault.jpg"
+        },
+        {
+            "video_id": "F1K2UrgRyro",
+            "title": "한국 지하철을 처음 타본 북마케도니아 소방관 아빠랑 동생이 충격 받은 이유... 그리고 한강공원 피크닉 (한국여행)",
+            "channel_name": "NB couple엔비커플",
+            "category": "Entertainment",
+            "duration": "27:24",
+            "view_count": "233758",
+            "thumbnail_url": "https://i.ytimg.com/vi/F1K2UrgRyro/hqdefault.jpg"
+        },
+        {
+            "video_id": "Cb6TGuxJfRk",
+            "title": "PSY & 이수지 - ‘DADDY’ Live Performance (러브버그쑈) at 싸이흠뻑쇼 SUMMERSWAG 2025 과천 @핫이슈지",
+            "channel_name": "officialpsy",
+            "category": "Entertainment",
+            "duration": "1:35",
+            "view_count": "524236",
+            "thumbnail_url": "https://i.ytimg.com/vi/Cb6TGuxJfRk/hqdefault.jpg"
         },
         {
             "video_id": "HaYNqWBaanI",
@@ -43,7 +70,7 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "10:09",
-            "view_count": "2500450",
+            "view_count": "2522997",
             "thumbnail_url": "https://i.ytimg.com/vi/HaYNqWBaanI/hqdefault.jpg"
         },
         {
@@ -52,17 +79,17 @@
             "channel_name": "띱 Deep",
             "category": "Comedy",
             "duration": "5:19",
-            "view_count": "1351955",
+            "view_count": "1364887",
             "thumbnail_url": "https://i.ytimg.com/vi/ruAa6lkEZhg/hqdefault.jpg"
         },
         {
-            "video_id": "Cb6TGuxJfRk",
-            "title": "PSY & 이수지 - ‘DADDY’ Live Performance (러브버그쑈) at 싸이흠뻑쇼 SUMMERSWAG 2025 과천 @핫이슈지",
-            "channel_name": "officialpsy",
+            "video_id": "SGcxj2lMxKY",
+            "title": "[전지적 참견 시점 357회 예고] 올데이 프로젝트의 숙소 생활 대공개🖤 & 곧 30주년! 레전드 혼성 그룹 코요태의 장수 비결은?!💝, MBC 250726 방송",
+            "channel_name": "MBCentertainment",
             "category": "Entertainment",
-            "duration": "1:35",
-            "view_count": "437554",
-            "thumbnail_url": "https://i.ytimg.com/vi/Cb6TGuxJfRk/hqdefault.jpg"
+            "duration": "2:52",
+            "view_count": "861412",
+            "thumbnail_url": "https://i.ytimg.com/vi/SGcxj2lMxKY/hqdefault.jpg"
         },
         {
             "video_id": "C0xp4lVBkTU",
@@ -70,7 +97,7 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "9:41",
-            "view_count": "787918",
+            "view_count": "794755",
             "thumbnail_url": "https://i.ytimg.com/vi/C0xp4lVBkTU/hqdefault.jpg"
         },
         {
@@ -79,17 +106,26 @@
             "channel_name": "승아로운",
             "category": "People & Blogs",
             "duration": "13:35",
-            "view_count": "152743",
+            "view_count": "156272",
             "thumbnail_url": "https://i.ytimg.com/vi/ORCYLBgNjt4/hqdefault.jpg"
         },
         {
-            "video_id": "Nk9jEW_EWIE",
-            "title": "[나혼자산다] 본격 결혼 장려 바이럴 영상😍 밀푀유 나베에 수육까지 차린 조이 동생 부부의 집들이 한 상 | #조이 MBC250718방송",
-            "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
-            "category": "Entertainment",
-            "duration": "17:54",
-            "view_count": "701963",
-            "thumbnail_url": "https://i.ytimg.com/vi/Nk9jEW_EWIE/hqdefault.jpg"
+            "video_id": "yYdBZ2NzjN4",
+            "title": "초복에 한국 치킨 대신 계곡 백숙을 처음 먹어본 프랑스 아내의 반응 ㅋㅋ",
+            "channel_name": "김치와 바게뜨 / Kimchi & Baguette",
+            "category": "People & Blogs",
+            "duration": "20:03",
+            "view_count": "244503",
+            "thumbnail_url": "https://i.ytimg.com/vi/yYdBZ2NzjN4/hqdefault.jpg"
+        },
+        {
+            "video_id": "fsGzb3S2LcI",
+            "title": "한국아파트 처음온 일본인친구들이 충격에 휩싸인 이유..",
+            "channel_name": "제주커플jeju-couple",
+            "category": "People & Blogs",
+            "duration": "17:44",
+            "view_count": "375587",
+            "thumbnail_url": "https://i.ytimg.com/vi/fsGzb3S2LcI/hqdefault.jpg"
         },
         {
             "video_id": "t5H15KX9L9w",
@@ -97,8 +133,17 @@
             "channel_name": "it's Live",
             "category": "Entertainment",
             "duration": "4:36",
-            "view_count": "1211536",
+            "view_count": "1221020",
             "thumbnail_url": "https://i.ytimg.com/vi/t5H15KX9L9w/hqdefault.jpg"
+        },
+        {
+            "video_id": "Nk9jEW_EWIE",
+            "title": "[나혼자산다] 본격 결혼 장려 바이럴 영상😍 밀푀유 나베에 수육까지 차린 조이 동생 부부의 집들이 한 상 | #조이 MBC250718방송",
+            "channel_name": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+            "category": "Entertainment",
+            "duration": "17:54",
+            "view_count": "721260",
+            "thumbnail_url": "https://i.ytimg.com/vi/Nk9jEW_EWIE/hqdefault.jpg"
         },
         {
             "video_id": "lAC6tgv4lb0",
@@ -106,8 +151,17 @@
             "channel_name": "김계정",
             "category": "People & Blogs",
             "duration": "16:08",
-            "view_count": "271948",
+            "view_count": "274592",
             "thumbnail_url": "https://i.ytimg.com/vi/lAC6tgv4lb0/hqdefault.jpg"
+        },
+        {
+            "video_id": "fnyCcQL_XPc",
+            "title": "기쁨이가 태어났어요..! (출산부터 손녀 첫만남까지 l 출산 브이로그)",
+            "channel_name": "거누파파네 Dog family",
+            "category": "Entertainment",
+            "duration": "21:10",
+            "view_count": "138873",
+            "thumbnail_url": "https://i.ytimg.com/vi/fnyCcQL_XPc/hqdefault.jpg"
         },
         {
             "video_id": "huqUnIVAjHg",
@@ -115,7 +169,7 @@
             "channel_name": "빡다혜dahye",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "918044",
+            "view_count": "929160",
             "thumbnail_url": "https://i.ytimg.com/vi/huqUnIVAjHg/hqdefault.jpg"
         },
         {
@@ -124,8 +178,17 @@
             "channel_name": "Mnet TV",
             "category": "Entertainment",
             "duration": "4:11",
-            "view_count": "338093",
+            "view_count": "344196",
             "thumbnail_url": "https://i.ytimg.com/vi/bIdqszRr0QA/hqdefault.jpg"
+        },
+        {
+            "video_id": "10bd8Pw_d2E",
+            "title": "주어진 시간 단 7일, 셀프로 집 리모델링 과연 성공할 수 있을까?",
+            "channel_name": "베리엠제이 very mj",
+            "category": "Howto & Style",
+            "duration": "16:15",
+            "view_count": "229883",
+            "thumbnail_url": "https://i.ytimg.com/vi/10bd8Pw_d2E/hqdefault.jpg"
         },
         {
             "video_id": "djEpMAdQiAs",
@@ -133,8 +196,17 @@
             "channel_name": "헤이킨heykin'couple",
             "category": "People & Blogs",
             "duration": "14:48",
-            "view_count": "369178",
+            "view_count": "371713",
             "thumbnail_url": "https://i.ytimg.com/vi/djEpMAdQiAs/hqdefault.jpg"
+        },
+        {
+            "video_id": "EGtJWY9oAo8",
+            "title": "한국 치킨 배달 속도에 한번 놀라고 맛에 두 번 놀라는 외국인 처형",
+            "channel_name": "예나러브 [Jun & Yena]",
+            "category": "People & Blogs",
+            "duration": "19:12",
+            "view_count": "102112",
+            "thumbnail_url": "https://i.ytimg.com/vi/EGtJWY9oAo8/hqdefault.jpg"
         },
         {
             "video_id": "BeAtKTtf-ZE",
@@ -142,26 +214,8 @@
             "channel_name": "유병재",
             "category": "Comedy",
             "duration": "30:00",
-            "view_count": "470136",
+            "view_count": "475685",
             "thumbnail_url": "https://i.ytimg.com/vi/BeAtKTtf-ZE/hqdefault.jpg"
-        },
-        {
-            "video_id": "we76LsvjdVM",
-            "title": "💥부산 복수전💥홍석천이원일 부산 부평깡통시장에 떴다ㅏㅏㅏㅏㅏ 먹고 먹고 또 먹었다ㅏ...😅 (feat. 이재용 회장님) (비빔당면 떡볶이 쑥떡쑥떡 돼지갈비 후라이드) [ENG]",
-            "channel_name": "홍석천이원일",
-            "category": "Entertainment",
-            "duration": "29:16",
-            "view_count": "515625",
-            "thumbnail_url": "https://i.ytimg.com/vi/we76LsvjdVM/hqdefault.jpg"
-        },
-        {
-            "video_id": "uI-TENZs0l0",
-            "title": "여우 주연상 - 폭싹 속았수다 아이유 [제4회 청룡시리즈어워즈]  [제4회 청룡시리즈어워즈] | KBS 250718 방송",
-            "channel_name": "KBS Entertain",
-            "category": "Entertainment",
-            "duration": "2:46",
-            "view_count": "614943",
-            "thumbnail_url": "https://i.ytimg.com/vi/uI-TENZs0l0/hqdefault.jpg"
         },
         {
             "video_id": "NQQaCYsQ4J4",
@@ -169,8 +223,17 @@
             "channel_name": "Mnet TV",
             "category": "Entertainment",
             "duration": "3:33",
-            "view_count": "277142",
+            "view_count": "281631",
             "thumbnail_url": "https://i.ytimg.com/vi/NQQaCYsQ4J4/hqdefault.jpg"
+        },
+        {
+            "video_id": "we76LsvjdVM",
+            "title": "💥부산 복수전💥홍석천이원일 부산 부평깡통시장에 떴다ㅏㅏㅏㅏㅏ 먹고 먹고 또 먹었다ㅏ...😅 (feat. 이재용 회장님) (비빔당면 떡볶이 쑥떡쑥떡 돼지갈비 후라이드) [ENG]",
+            "channel_name": "홍석천이원일",
+            "category": "Entertainment",
+            "duration": "29:16",
+            "view_count": "518573",
+            "thumbnail_url": "https://i.ytimg.com/vi/we76LsvjdVM/hqdefault.jpg"
         },
         {
             "video_id": "L7JSaIBnqZs",
@@ -178,8 +241,17 @@
             "channel_name": "EPIK HIGH",
             "category": "Entertainment",
             "duration": "36:18",
-            "view_count": "796797",
+            "view_count": "804749",
             "thumbnail_url": "https://i.ytimg.com/vi/L7JSaIBnqZs/hqdefault.jpg"
+        },
+        {
+            "video_id": "uI-TENZs0l0",
+            "title": "여우 주연상 - 폭싹 속았수다 아이유 [제4회 청룡시리즈어워즈]  [제4회 청룡시리즈어워즈] | KBS 250718 방송",
+            "channel_name": "KBS Entertain",
+            "category": "Entertainment",
+            "duration": "2:46",
+            "view_count": "617106",
+            "thumbnail_url": "https://i.ytimg.com/vi/uI-TENZs0l0/hqdefault.jpg"
         },
         {
             "video_id": "DI0Hd2R8LXA",
@@ -187,7 +259,7 @@
             "channel_name": "흙심인대호",
             "category": "Entertainment",
             "duration": "25:39",
-            "view_count": "1175160",
+            "view_count": "1182507",
             "thumbnail_url": "https://i.ytimg.com/vi/DI0Hd2R8LXA/hqdefault.jpg"
         },
         {
@@ -196,7 +268,7 @@
             "channel_name": "김완선 TV",
             "category": "Howto & Style",
             "duration": "17:50",
-            "view_count": "312665",
+            "view_count": "314950",
             "thumbnail_url": "https://i.ytimg.com/vi/G2upAYr57yQ/hqdefault.jpg"
         },
         {
@@ -205,7 +277,7 @@
             "channel_name": "MBCkpop",
             "category": "Music",
             "duration": "5:55",
-            "view_count": "538630",
+            "view_count": "541966",
             "thumbnail_url": "https://i.ytimg.com/vi/X0PQZoJ2d2M/hqdefault.jpg"
         },
         {
@@ -214,7 +286,7 @@
             "channel_name": "이패밀리 [Lee Family]",
             "category": "Comedy",
             "duration": "19:04",
-            "view_count": "152228",
+            "view_count": "154111",
             "thumbnail_url": "https://i.ytimg.com/vi/Tuud70SDkks/hqdefault.jpg"
         },
         {
@@ -223,7 +295,7 @@
             "channel_name": "IBUKI IMATA",
             "category": "Entertainment",
             "duration": "16:13",
-            "view_count": "205069",
+            "view_count": "207414",
             "thumbnail_url": "https://i.ytimg.com/vi/AcNAKRujdPU/hqdefault.jpg"
         },
         {
@@ -232,7 +304,7 @@
             "channel_name": "DSPmedia",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "245049",
+            "view_count": "248475",
             "thumbnail_url": "https://i.ytimg.com/vi/Q4dXnNySzeA/hqdefault.jpg"
         },
         {
@@ -241,7 +313,7 @@
             "channel_name": "MUSINSA TV",
             "category": "Entertainment",
             "duration": "24:41",
-            "view_count": "211458",
+            "view_count": "213397",
             "thumbnail_url": "https://i.ytimg.com/vi/1pmBv0AqqI4/hqdefault.jpg"
         },
         {
@@ -250,7 +322,7 @@
             "channel_name": "솔라시도 solarsido",
             "category": "People & Blogs",
             "duration": "1:56",
-            "view_count": "593724",
+            "view_count": "598473",
             "thumbnail_url": "https://i.ytimg.com/vi/THkxkhBWrdA/hqdefault.jpg"
         },
         {
@@ -259,7 +331,7 @@
             "channel_name": "권순일 of 어반자카파 UrbanKwon",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "380117",
+            "view_count": "386782",
             "thumbnail_url": "https://i.ytimg.com/vi/mW90rw8vfP0/hqdefault.jpg"
         },
         {
@@ -268,17 +340,8 @@
             "channel_name": "박다혜dahye",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "595872",
+            "view_count": "601242",
             "thumbnail_url": "https://i.ytimg.com/vi/ePlIj2XZipM/hqdefault.jpg"
-        },
-        {
-            "video_id": "1K3mLImIrpA",
-            "title": "요트까지 동원한 손태영♥권상우 럭셔리 이태리 가족여행 최종화 (+또 한번 이별)",
-            "channel_name": "Mrs.뉴저지 손태영",
-            "category": "People & Blogs",
-            "duration": "22:02",
-            "view_count": "290105",
-            "thumbnail_url": "https://i.ytimg.com/vi/1K3mLImIrpA/hqdefault.jpg"
         },
         {
             "video_id": "qRNFkdTE7sU",
@@ -286,26 +349,17 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "167948",
+            "view_count": "170084",
             "thumbnail_url": "https://i.ytimg.com/vi/qRNFkdTE7sU/hqdefault.jpg"
         },
         {
-            "video_id": "yAnYRtv6vo0",
-            "title": "이미숙 '내돈내산' 매장 털기?! 현실 룩 쑈핑의 모든 것👠🥻💰",
-            "channel_name": "이미숙_숙스러운 미숙씨",
+            "video_id": "1K3mLImIrpA",
+            "title": "요트까지 동원한 손태영♥권상우 럭셔리 이태리 가족여행 최종화 (+또 한번 이별)",
+            "channel_name": "Mrs.뉴저지 손태영",
             "category": "People & Blogs",
-            "duration": "26:32",
-            "view_count": "399406",
-            "thumbnail_url": "https://i.ytimg.com/vi/yAnYRtv6vo0/hqdefault.jpg"
-        },
-        {
-            "video_id": "1zngbwDLNoo",
-            "title": "[놀면 뭐하니?] 나뭇잎한테 분량 다 뺏겨버린 비인기인 허경환 | #놀면뭐하니? #유재석 MBC250719방송",
-            "channel_name": "놀면 뭐하니?",
-            "category": "Entertainment",
-            "duration": "18:39",
-            "view_count": "531791",
-            "thumbnail_url": "https://i.ytimg.com/vi/1zngbwDLNoo/hqdefault.jpg"
+            "duration": "22:02",
+            "view_count": "293471",
+            "thumbnail_url": "https://i.ytimg.com/vi/1K3mLImIrpA/hqdefault.jpg"
         },
         {
             "video_id": "Pb5g0T4SojE",
@@ -313,7 +367,7 @@
             "channel_name": "지유롭게",
             "category": "People & Blogs",
             "duration": "21:34",
-            "view_count": "178291",
+            "view_count": "179597",
             "thumbnail_url": "https://i.ytimg.com/vi/Pb5g0T4SojE/hqdefault.jpg"
         },
         {
@@ -322,62 +376,8 @@
             "channel_name": "미미미누",
             "category": "Education",
             "duration": "24:49",
-            "view_count": "1093859",
+            "view_count": "1099019",
             "thumbnail_url": "https://i.ytimg.com/vi/YPAdOIuMo9c/hqdefault.jpg"
-        },
-        {
-            "video_id": "J-ak9ngomuQ",
-            "title": "헝가리 육식 올스타전 : 고기페스트가 열린 부다페스트 (feat. 망갈리차 돼지)",
-            "channel_name": "육식맨 YOOXICMAN",
-            "category": "Entertainment",
-            "duration": "31:05",
-            "view_count": "477264",
-            "thumbnail_url": "https://i.ytimg.com/vi/J-ak9ngomuQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "Si1qBzqpWxY",
-            "title": "Singing live undercover pretending to be a track (ft. SUPER JUNIOR-K.R.Y.) | [BGL : Background Live]",
-            "channel_name": "JAYKEEOUT 제이키아웃",
-            "category": "Entertainment",
-            "duration": "27:55",
-            "view_count": "575540",
-            "thumbnail_url": "https://i.ytimg.com/vi/Si1qBzqpWxY/hqdefault.jpg"
-        },
-        {
-            "video_id": "YQ3rs9uy0pM",
-            "title": "삼성 갤럭시 Z 폴드7 달라진 10가지!? 충격적인 성능 테스트 결과;;",
-            "channel_name": "ITSub잇섭",
-            "category": "Science & Technology",
-            "duration": "21:49",
-            "view_count": "1461759",
-            "thumbnail_url": "https://i.ytimg.com/vi/YQ3rs9uy0pM/hqdefault.jpg"
-        },
-        {
-            "video_id": "TALCucXOgiQ",
-            "title": "감자옹심이 너무너무 맛있어요",
-            "channel_name": "김대석 셰프TV",
-            "category": "Howto & Style",
-            "duration": "9:36",
-            "view_count": "485968",
-            "thumbnail_url": "https://i.ytimg.com/vi/TALCucXOgiQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "9WHKq152AbQ",
-            "title": "💚감자 물 넣고 찌지 마세요! 물없이 포실포실 감자찌기 꿀팁",
-            "channel_name": "함께해요 맛나요리",
-            "category": "Howto & Style",
-            "duration": "8:19",
-            "view_count": "511443",
-            "thumbnail_url": "https://i.ytimg.com/vi/9WHKq152AbQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "vFn11YkgX4M",
-            "title": "기념일 챙길 때, 연애 초반커플 VS 장기커플",
-            "channel_name": "총몇명",
-            "category": "Film & Animation",
-            "duration": "4:36",
-            "view_count": "1197470",
-            "thumbnail_url": "https://i.ytimg.com/vi/vFn11YkgX4M/hqdefault.jpg"
         }
     ]
 }
