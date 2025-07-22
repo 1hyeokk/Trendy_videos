@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-23 02:22:49",
+    "scraped_time": "2025-07-23 03:34:26",
     "videos": [
         {
             "video_id": "2NNax0aqqqA",
@@ -7,7 +7,7 @@
             "channel_name": "곽튜브",
             "category": "Travel & Events",
             "duration": "24:04",
-            "view_count": "939332",
+            "view_count": "949770",
             "thumbnail_url": "https://i.ytimg.com/vi/2NNax0aqqqA/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "tvN SPORTS",
             "category": "Sports",
             "duration": "37:13",
-            "view_count": "1620185",
+            "view_count": "1626144",
             "thumbnail_url": "https://i.ytimg.com/vi/zxYYRktQu-8/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "CJ ENM Movie",
             "category": "Film & Animation",
             "duration": "0:50",
-            "view_count": "775679",
+            "view_count": "842832",
             "thumbnail_url": "https://i.ytimg.com/vi/S3zCe2J7Ru4/hqdefault.jpg"
         },
         {
@@ -34,17 +34,8 @@
             "channel_name": "TOMORROW X TOGETHER - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "658641",
+            "view_count": "673088",
             "thumbnail_url": "https://i.ytimg.com/vi/dHGnpeA6rI0/hqdefault.jpg"
-        },
-        {
-            "video_id": "AuaABDWFs_8",
-            "title": "GOLDEN Covered by IVE ANYUJIN",
-            "channel_name": "IVE",
-            "category": "Entertainment",
-            "duration": "1:39",
-            "view_count": "2490391",
-            "thumbnail_url": "https://i.ytimg.com/vi/AuaABDWFs_8/hqdefault.jpg"
         },
         {
             "video_id": "IcwHopeT5gY",
@@ -52,8 +43,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "6042365",
+            "view_count": "6287972",
             "thumbnail_url": "https://i.ytimg.com/vi/IcwHopeT5gY/hqdefault.jpg"
+        },
+        {
+            "video_id": "AuaABDWFs_8",
+            "title": "GOLDEN Covered by IVE ANYUJIN",
+            "channel_name": "IVE",
+            "category": "Entertainment",
+            "duration": "1:39",
+            "view_count": "2507119",
+            "thumbnail_url": "https://i.ytimg.com/vi/AuaABDWFs_8/hqdefault.jpg"
         },
         {
             "video_id": "WqpR8nENO20",
@@ -61,17 +61,8 @@
             "channel_name": "송가인",
             "category": "Entertainment",
             "duration": "15:28",
-            "view_count": "326513",
+            "view_count": "327668",
             "thumbnail_url": "https://i.ytimg.com/vi/WqpR8nENO20/hqdefault.jpg"
-        },
-        {
-            "video_id": "VmXwNY_HdHM",
-            "title": "김숙 생일잔치 하다가 속 터지는 이영자",
-            "channel_name": "이영자 TV",
-            "category": "People & Blogs",
-            "duration": "21:42",
-            "view_count": "602768",
-            "thumbnail_url": "https://i.ytimg.com/vi/VmXwNY_HdHM/hqdefault.jpg"
         },
         {
             "video_id": "pzBi1nwDn8U",
@@ -79,17 +70,17 @@
             "channel_name": "MrBeast",
             "category": "Entertainment",
             "duration": "33:03",
-            "view_count": "89709206",
+            "view_count": "90465665",
             "thumbnail_url": "https://i.ytimg.com/vi/pzBi1nwDn8U/hqdefault.jpg"
         },
         {
-            "video_id": "YoPtTrMx7hc",
-            "title": "역대급 얼갈이 열무물김치 이 방법은 아무도 모릅니다",
-            "channel_name": "김대석 셰프TV",
-            "category": "Howto & Style",
-            "duration": "11:43",
-            "view_count": "403414",
-            "thumbnail_url": "https://i.ytimg.com/vi/YoPtTrMx7hc/hqdefault.jpg"
+            "video_id": "VmXwNY_HdHM",
+            "title": "김숙 생일잔치 하다가 속 터지는 이영자",
+            "channel_name": "이영자 TV",
+            "category": "People & Blogs",
+            "duration": "21:42",
+            "view_count": "606055",
+            "thumbnail_url": "https://i.ytimg.com/vi/VmXwNY_HdHM/hqdefault.jpg"
         },
         {
             "video_id": "Cb6TGuxJfRk",
@@ -97,7 +88,7 @@
             "channel_name": "officialpsy",
             "category": "Entertainment",
             "duration": "1:35",
-            "view_count": "1984306",
+            "view_count": "2029562",
             "thumbnail_url": "https://i.ytimg.com/vi/Cb6TGuxJfRk/hqdefault.jpg"
         },
         {
@@ -106,8 +97,17 @@
             "channel_name": "캡틴 파추호 Captain PaChuHO",
             "category": "Sports",
             "duration": "30:48",
-            "view_count": "251564",
+            "view_count": "255645",
             "thumbnail_url": "https://i.ytimg.com/vi/JOvc1fUVx3E/hqdefault.jpg"
+        },
+        {
+            "video_id": "YoPtTrMx7hc",
+            "title": "역대급 얼갈이 열무물김치 이 방법은 아무도 모릅니다",
+            "channel_name": "김대석 셰프TV",
+            "category": "Howto & Style",
+            "duration": "11:43",
+            "view_count": "405687",
+            "thumbnail_url": "https://i.ytimg.com/vi/YoPtTrMx7hc/hqdefault.jpg"
         },
         {
             "video_id": "W8ml4ryPwic",
@@ -115,7 +115,7 @@
             "channel_name": "STAYC",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "3240026",
+            "view_count": "3341155",
             "thumbnail_url": "https://i.ytimg.com/vi/W8ml4ryPwic/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "KBS 한국방송",
             "category": "Entertainment",
             "duration": "8:42",
-            "view_count": "1724978",
+            "view_count": "1733570",
             "thumbnail_url": "https://i.ytimg.com/vi/GcEJxsZ4pwE/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "NB couple엔비커플",
             "category": "Entertainment",
             "duration": "27:24",
-            "view_count": "398167",
+            "view_count": "399997",
             "thumbnail_url": "https://i.ytimg.com/vi/F1K2UrgRyro/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "동해물과 백두은혁",
             "category": "Entertainment",
             "duration": "29:08",
-            "view_count": "287505",
+            "view_count": "291247",
             "thumbnail_url": "https://i.ytimg.com/vi/BD-0sPL5W6Q/hqdefault.jpg"
         },
         {
@@ -151,26 +151,8 @@
             "channel_name": "프응TV Honeybeefather",
             "category": "Pets & Animals",
             "duration": "18:23",
-            "view_count": "461942",
+            "view_count": "464528",
             "thumbnail_url": "https://i.ytimg.com/vi/bnWHWV2kFhg/hqdefault.jpg"
-        },
-        {
-            "video_id": "krbAObQIOIU",
-            "title": "[VLOG] 28개월 아기들끼리 이런 대화를 한다고? (심쿵주의💘)",
-            "channel_name": "리쥬라이크 LIJULIKE",
-            "category": "People & Blogs",
-            "duration": "36:26",
-            "view_count": "508344",
-            "thumbnail_url": "https://i.ytimg.com/vi/krbAObQIOIU/hqdefault.jpg"
-        },
-        {
-            "video_id": "BJlWyF2qAaM",
-            "title": "역대급 썸머템! 돌아온 이사배 박스 시즌3!🎁 (359,480원 → 49,000원💖) l 이사배(RISABAE Makeup)",
-            "channel_name": "RISABAE",
-            "category": "Howto & Style",
-            "duration": "12:41",
-            "view_count": "332245",
-            "thumbnail_url": "https://i.ytimg.com/vi/BJlWyF2qAaM/hqdefault.jpg"
         },
         {
             "video_id": "HaYNqWBaanI",
@@ -178,17 +160,17 @@
             "channel_name": "너덜트",
             "category": "Comedy",
             "duration": "10:09",
-            "view_count": "3104672",
+            "view_count": "3119394",
             "thumbnail_url": "https://i.ytimg.com/vi/HaYNqWBaanI/hqdefault.jpg"
         },
         {
-            "video_id": "wkIlD-hCt0E",
-            "title": "그리스 산토리니에서 한복입고 여행하는데, 우연히 한복입은 한국인 만난 레전드 사건ㅋㅋ",
-            "channel_name": "소피아패밀리(Sophia family)",
-            "category": "People & Blogs",
-            "duration": "20:26",
-            "view_count": "250870",
-            "thumbnail_url": "https://i.ytimg.com/vi/wkIlD-hCt0E/hqdefault.jpg"
+            "video_id": "BJlWyF2qAaM",
+            "title": "역대급 썸머템! 돌아온 이사배 박스 시즌3!🎁 (359,480원 → 49,000원💖) l 이사배(RISABAE Makeup)",
+            "channel_name": "RISABAE",
+            "category": "Howto & Style",
+            "duration": "12:41",
+            "view_count": "333635",
+            "thumbnail_url": "https://i.ytimg.com/vi/BJlWyF2qAaM/hqdefault.jpg"
         },
         {
             "video_id": "ruAa6lkEZhg",
@@ -196,8 +178,17 @@
             "channel_name": "띱 Deep",
             "category": "Comedy",
             "duration": "5:19",
-            "view_count": "1577454",
+            "view_count": "1581976",
             "thumbnail_url": "https://i.ytimg.com/vi/ruAa6lkEZhg/hqdefault.jpg"
+        },
+        {
+            "video_id": "wkIlD-hCt0E",
+            "title": "그리스 산토리니에서 한복입고 여행하는데, 우연히 한복입은 한국인 만난 레전드 사건ㅋㅋ",
+            "channel_name": "소피아패밀리(Sophia family)",
+            "category": "People & Blogs",
+            "duration": "20:26",
+            "view_count": "251759",
+            "thumbnail_url": "https://i.ytimg.com/vi/wkIlD-hCt0E/hqdefault.jpg"
         },
         {
             "video_id": "v_Jx7v_tqQY",
@@ -205,8 +196,17 @@
             "channel_name": "도른 에밀리 Emilie Dorn",
             "category": "Entertainment",
             "duration": "17:46",
-            "view_count": "114911",
+            "view_count": "115658",
             "thumbnail_url": "https://i.ytimg.com/vi/v_Jx7v_tqQY/hqdefault.jpg"
+        },
+        {
+            "video_id": "krbAObQIOIU",
+            "title": "[VLOG] 28개월 아기들끼리 이런 대화를 한다고? (심쿵주의💘)",
+            "channel_name": "리쥬라이크 LIJULIKE",
+            "category": "People & Blogs",
+            "duration": "36:26",
+            "view_count": "515266",
+            "thumbnail_url": "https://i.ytimg.com/vi/krbAObQIOIU/hqdefault.jpg"
         },
         {
             "video_id": "SGcxj2lMxKY",
@@ -214,17 +214,8 @@
             "channel_name": "MBCentertainment",
             "category": "Entertainment",
             "duration": "2:52",
-            "view_count": "1051393",
+            "view_count": "1056864",
             "thumbnail_url": "https://i.ytimg.com/vi/SGcxj2lMxKY/hqdefault.jpg"
-        },
-        {
-            "video_id": "St1s9_FUGrM",
-            "title": "식당만 15년, 류진 장모님 10분 완성 겉절이(김치, 닭백숙, 복날) | 가장(멋진)류진",
-            "channel_name": "가장(멋진)류진 petiteRyujin",
-            "category": "People & Blogs",
-            "duration": "15:29",
-            "view_count": "86616",
-            "thumbnail_url": "https://i.ytimg.com/vi/St1s9_FUGrM/hqdefault.jpg"
         },
         {
             "video_id": "MuLC_5YAoSg",
@@ -232,8 +223,17 @@
             "channel_name": "Ha Neul오늘의 하늘",
             "category": "People & Blogs",
             "duration": "23:29",
-            "view_count": "61592",
+            "view_count": "62185",
             "thumbnail_url": "https://i.ytimg.com/vi/MuLC_5YAoSg/hqdefault.jpg"
+        },
+        {
+            "video_id": "St1s9_FUGrM",
+            "title": "식당만 15년, 류진 장모님 10분 완성 겉절이(김치, 닭백숙, 복날) | 가장(멋진)류진",
+            "channel_name": "가장(멋진)류진 petiteRyujin",
+            "category": "People & Blogs",
+            "duration": "15:29",
+            "view_count": "87105",
+            "thumbnail_url": "https://i.ytimg.com/vi/St1s9_FUGrM/hqdefault.jpg"
         },
         {
             "video_id": "yYdBZ2NzjN4",
@@ -241,8 +241,17 @@
             "channel_name": "김치와 바게뜨 / Kimchi & Baguette",
             "category": "People & Blogs",
             "duration": "20:03",
-            "view_count": "342337",
+            "view_count": "343723",
             "thumbnail_url": "https://i.ytimg.com/vi/yYdBZ2NzjN4/hqdefault.jpg"
+        },
+        {
+            "video_id": "mVpPIlJLFmw",
+            "title": "나에게 한화 이글스란...★33년 만에 전반기 1위 기념!!! 한화 이글스 찐팬들과 만나 이야기 해보았습니다 ㅣ [돗돔구역]",
+            "channel_name": "김태균 [TK52]",
+            "category": "Sports",
+            "duration": "28:22",
+            "view_count": "92081",
+            "thumbnail_url": "https://i.ytimg.com/vi/mVpPIlJLFmw/hqdefault.jpg"
         },
         {
             "video_id": "Z5Zn7QpF0jc",
@@ -250,7 +259,7 @@
             "channel_name": "[하말넘많] heavytalker",
             "category": "People & Blogs",
             "duration": "38:52",
-            "view_count": "177868",
+            "view_count": "179956",
             "thumbnail_url": "https://i.ytimg.com/vi/Z5Zn7QpF0jc/hqdefault.jpg"
         },
         {
@@ -259,17 +268,8 @@
             "channel_name": "잡식맨 JOBXICMAN",
             "category": "Entertainment",
             "duration": "15:36",
-            "view_count": "190480",
+            "view_count": "192018",
             "thumbnail_url": "https://i.ytimg.com/vi/NsWDcVv-xdA/hqdefault.jpg"
-        },
-        {
-            "video_id": "mVpPIlJLFmw",
-            "title": "나에게 한화 이글스란...★33년 만에 전반기 1위 기념!!! 한화 이글스 찐팬들과 만나 이야기 해보았습니다 ㅣ [돗돔구역]",
-            "channel_name": "김태균 [TK52]",
-            "category": "Sports",
-            "duration": "28:22",
-            "view_count": "91563",
-            "thumbnail_url": "https://i.ytimg.com/vi/mVpPIlJLFmw/hqdefault.jpg"
         },
         {
             "video_id": "ORCYLBgNjt4",
@@ -277,7 +277,7 @@
             "channel_name": "승아로운",
             "category": "People & Blogs",
             "duration": "13:35",
-            "view_count": "197220",
+            "view_count": "197973",
             "thumbnail_url": "https://i.ytimg.com/vi/ORCYLBgNjt4/hqdefault.jpg"
         },
         {
@@ -286,26 +286,8 @@
             "channel_name": "픽고 PICKGO",
             "category": "Entertainment",
             "duration": "9:41",
-            "view_count": "927445",
+            "view_count": "930935",
             "thumbnail_url": "https://i.ytimg.com/vi/C0xp4lVBkTU/hqdefault.jpg"
-        },
-        {
-            "video_id": "DrDI7_las5U",
-            "title": "쌍둥이 출산 일주일 전 산후조리 취소 통보…그 이후🤯",
-            "channel_name": "김키미kimmy kim",
-            "category": "Entertainment",
-            "duration": "12:50",
-            "view_count": "301954",
-            "thumbnail_url": "https://i.ytimg.com/vi/DrDI7_las5U/hqdefault.jpg"
-        },
-        {
-            "video_id": "fsGzb3S2LcI",
-            "title": "한국아파트 처음온 일본인친구들이 충격에 휩싸인 이유..",
-            "channel_name": "제주커플jeju-couple",
-            "category": "People & Blogs",
-            "duration": "17:44",
-            "view_count": "504785",
-            "thumbnail_url": "https://i.ytimg.com/vi/fsGzb3S2LcI/hqdefault.jpg"
         },
         {
             "video_id": "fnyCcQL_XPc",
@@ -313,8 +295,17 @@
             "channel_name": "거누파파네 Dog family",
             "category": "Entertainment",
             "duration": "21:10",
-            "view_count": "207317",
+            "view_count": "208977",
             "thumbnail_url": "https://i.ytimg.com/vi/fnyCcQL_XPc/hqdefault.jpg"
+        },
+        {
+            "video_id": "fsGzb3S2LcI",
+            "title": "한국아파트 처음온 일본인친구들이 충격에 휩싸인 이유..",
+            "channel_name": "제주커플jeju-couple",
+            "category": "People & Blogs",
+            "duration": "17:44",
+            "view_count": "506633",
+            "thumbnail_url": "https://i.ytimg.com/vi/fsGzb3S2LcI/hqdefault.jpg"
         },
         {
             "video_id": "t5H15KX9L9w",
@@ -322,7 +313,7 @@
             "channel_name": "it's Live",
             "category": "Entertainment",
             "duration": "4:36",
-            "view_count": "1448076",
+            "view_count": "1455493",
             "thumbnail_url": "https://i.ytimg.com/vi/t5H15KX9L9w/hqdefault.jpg"
         },
         {
@@ -331,8 +322,17 @@
             "channel_name": "Mnet TV",
             "category": "Entertainment",
             "duration": "4:11",
-            "view_count": "529951",
+            "view_count": "536396",
             "thumbnail_url": "https://i.ytimg.com/vi/bIdqszRr0QA/hqdefault.jpg"
+        },
+        {
+            "video_id": "DrDI7_las5U",
+            "title": "쌍둥이 출산 일주일 전 산후조리 취소 통보…그 이후🤯",
+            "channel_name": "김키미kimmy kim",
+            "category": "Entertainment",
+            "duration": "12:50",
+            "view_count": "303726",
+            "thumbnail_url": "https://i.ytimg.com/vi/DrDI7_las5U/hqdefault.jpg"
         },
         {
             "video_id": "f_BqhCtU9wc",
@@ -340,7 +340,7 @@
             "channel_name": "테리당 terrydang",
             "category": "People & Blogs",
             "duration": "27:42",
-            "view_count": "162700",
+            "view_count": "163290",
             "thumbnail_url": "https://i.ytimg.com/vi/f_BqhCtU9wc/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "김계정",
             "category": "People & Blogs",
             "duration": "16:08",
-            "view_count": "314022",
+            "view_count": "314777",
             "thumbnail_url": "https://i.ytimg.com/vi/lAC6tgv4lb0/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "베리엠제이 very mj",
             "category": "Howto & Style",
             "duration": "16:15",
-            "view_count": "393899",
+            "view_count": "396552",
             "thumbnail_url": "https://i.ytimg.com/vi/10bd8Pw_d2E/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "빡다혜dahye",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "1303412",
+            "view_count": "1316157",
             "thumbnail_url": "https://i.ytimg.com/vi/huqUnIVAjHg/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "Mnet TV",
             "category": "Entertainment",
             "duration": "3:33",
-            "view_count": "418599",
+            "view_count": "423080",
             "thumbnail_url": "https://i.ytimg.com/vi/NQQaCYsQ4J4/hqdefault.jpg"
         }
     ]
