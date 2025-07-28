@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-28 15:37:47",
+    "scraped_time": "2025-07-28 16:27:28",
     "videos": [
         {
             "video_id": "slUTl_CtMR0",
@@ -7,7 +7,7 @@
             "channel_name": "Monday Kiz - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "85583",
+            "view_count": "93190",
             "thumbnail_url": "https://i.ytimg.com/vi/slUTl_CtMR0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "기묘한 케이지",
             "category": "Entertainment",
             "duration": "13:05",
-            "view_count": "146467",
+            "view_count": "147313",
             "thumbnail_url": "https://i.ytimg.com/vi/C90u0hBa5jA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:57:06",
-            "view_count": "2539416",
+            "view_count": "2540537",
             "thumbnail_url": "https://i.ytimg.com/vi/gHsa0mBF8vw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Sohyang",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "387231",
+            "view_count": "392970",
             "thumbnail_url": "https://i.ytimg.com/vi/qEZfb_XQtmg/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "19:28",
-            "view_count": "297384",
+            "view_count": "303766",
             "thumbnail_url": "https://i.ytimg.com/vi/jf8guMV2VgA/hqdefault.jpg"
         },
         {
@@ -52,26 +52,8 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "1324275",
+            "view_count": "1334038",
             "thumbnail_url": "https://i.ytimg.com/vi/bAYfwpU6guo/hqdefault.jpg"
-        },
-        {
-            "video_id": "LGdRymaxx78",
-            "title": "ONE. STILL. FOREVER",
-            "channel_name": "T1",
-            "category": "Gaming",
-            "duration": "1:26",
-            "view_count": "840999",
-            "thumbnail_url": "https://i.ytimg.com/vi/LGdRymaxx78/hqdefault.jpg"
-        },
-        {
-            "video_id": "K5cOvVrHo0Q",
-            "title": "Free - Arden Cho & Cha Eun Woo Cover",
-            "channel_name": "ardenBcho",
-            "category": "People & Blogs",
-            "duration": "2:45",
-            "view_count": "505318",
-            "thumbnail_url": "https://i.ytimg.com/vi/K5cOvVrHo0Q/hqdefault.jpg"
         },
         {
             "video_id": "nYWywvkJLJ4",
@@ -79,8 +61,26 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "1:10:34",
-            "view_count": "49960",
+            "view_count": "102898",
             "thumbnail_url": "https://i.ytimg.com/vi/nYWywvkJLJ4/hqdefault.jpg"
+        },
+        {
+            "video_id": "K5cOvVrHo0Q",
+            "title": "Free - Arden Cho & Cha Eun Woo Cover",
+            "channel_name": "ardenBcho",
+            "category": "People & Blogs",
+            "duration": "2:45",
+            "view_count": "514045",
+            "thumbnail_url": "https://i.ytimg.com/vi/K5cOvVrHo0Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "LGdRymaxx78",
+            "title": "ONE. STILL. FOREVER",
+            "channel_name": "T1",
+            "category": "Gaming",
+            "duration": "1:26",
+            "view_count": "857006",
+            "thumbnail_url": "https://i.ytimg.com/vi/LGdRymaxx78/hqdefault.jpg"
         },
         {
             "video_id": "M7FOgxCdr1g",
@@ -88,7 +88,7 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "31423",
+            "view_count": "34738",
             "thumbnail_url": "https://i.ytimg.com/vi/M7FOgxCdr1g/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:06:19",
-            "view_count": "564733",
+            "view_count": "567269",
             "thumbnail_url": "https://i.ytimg.com/vi/5dvPcKL2280/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "ENHYPEN - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "164356",
+            "view_count": "175938",
             "thumbnail_url": "https://i.ytimg.com/vi/L_Ll_NzHMFw/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "타튜브 [TATUBE]",
             "category": "Gaming",
             "duration": "17:51",
-            "view_count": "159256",
+            "view_count": "162195",
             "thumbnail_url": "https://i.ytimg.com/vi/fPjd5LqVugQ/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "TWICE - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "218501",
+            "view_count": "224229",
             "thumbnail_url": "https://i.ytimg.com/vi/g2d1QmEz8wo/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "28:29",
-            "view_count": "175189",
+            "view_count": "179170",
             "thumbnail_url": "https://i.ytimg.com/vi/Z2Oz1XQwq3Y/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "바다 BADA",
             "category": "Entertainment",
             "duration": "3:05",
-            "view_count": "1618041",
+            "view_count": "1623339",
             "thumbnail_url": "https://i.ytimg.com/vi/UJNVGZzyAcs/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "김왼팔",
             "category": "Gaming",
             "duration": "26:00",
-            "view_count": "133564",
+            "view_count": "138058",
             "thumbnail_url": "https://i.ytimg.com/vi/xReuRGNhQFw/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "[에일리 OFFICIAL] aileemusic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "1400687",
+            "view_count": "1407417",
             "thumbnail_url": "https://i.ytimg.com/vi/PKT-y0e--Zc/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "41:41",
-            "view_count": "246283",
+            "view_count": "255082",
             "thumbnail_url": "https://i.ytimg.com/vi/J8tQ6UNoj8c/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "Ourealgoat - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "28908",
+            "view_count": "29782",
             "thumbnail_url": "https://i.ytimg.com/vi/xwDDQggm92E/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "51:42",
-            "view_count": "117859",
+            "view_count": "124439",
             "thumbnail_url": "https://i.ytimg.com/vi/6IfYRBQC61c/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "Bruklin - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "697180",
+            "view_count": "700943",
             "thumbnail_url": "https://i.ytimg.com/vi/YiaLz_jlT-8/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "17:02",
-            "view_count": "169791",
+            "view_count": "173079",
             "thumbnail_url": "https://i.ytimg.com/vi/n1rR8oq1Y08/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "Velvet Funk - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "338791",
+            "view_count": "342021",
             "thumbnail_url": "https://i.ytimg.com/vi/q6RZvFy3DD4/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "16:50",
-            "view_count": "187764",
+            "view_count": "192585",
             "thumbnail_url": "https://i.ytimg.com/vi/D_GZnImHAlE/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "SLANDER - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "358441",
+            "view_count": "362505",
             "thumbnail_url": "https://i.ytimg.com/vi/0u1KSKZ02yw/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "15:41",
-            "view_count": "490327",
+            "view_count": "496260",
             "thumbnail_url": "https://i.ytimg.com/vi/uYRSG2k8taI/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "Marinosaurio",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "123868",
+            "view_count": "127384",
             "thumbnail_url": "https://i.ytimg.com/vi/F0DBC7GFkzI/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:33",
-            "view_count": "175210",
+            "view_count": "178605",
             "thumbnail_url": "https://i.ytimg.com/vi/uIeST7CA5A4/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "Solar - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "74145",
+            "view_count": "75819",
             "thumbnail_url": "https://i.ytimg.com/vi/9rWdaL5Q3u0/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "16:20",
-            "view_count": "280354",
+            "view_count": "282553",
             "thumbnail_url": "https://i.ytimg.com/vi/QMB5fT8WDxM/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "GENIE MUSIC",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "15038",
+            "view_count": "15409",
             "thumbnail_url": "https://i.ytimg.com/vi/pHJHxrrllT0/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "39:32",
-            "view_count": "208529",
+            "view_count": "213391",
             "thumbnail_url": "https://i.ytimg.com/vi/tCI7trtmt24/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "10CM - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "183733",
+            "view_count": "187022",
             "thumbnail_url": "https://i.ytimg.com/vi/CMNEELCR8Sw/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "14:28",
-            "view_count": "493691",
+            "view_count": "498700",
             "thumbnail_url": "https://i.ytimg.com/vi/8SE470RjeFw/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "KATSEYE - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "532036",
+            "view_count": "536474",
             "thumbnail_url": "https://i.ytimg.com/vi/_YpDYkTuzyc/hqdefault.jpg"
         },
         {
@@ -331,44 +331,8 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "28:27",
-            "view_count": "122997",
+            "view_count": "125555",
             "thumbnail_url": "https://i.ytimg.com/vi/V5DOAW6253k/hqdefault.jpg"
-        },
-        {
-            "video_id": "_PZ-ot4FIyg",
-            "title": "Star",
-            "channel_name": "Halsoon - Topic",
-            "category": "Music",
-            "duration": "2:47",
-            "view_count": "146138",
-            "thumbnail_url": "https://i.ytimg.com/vi/_PZ-ot4FIyg/hqdefault.jpg"
-        },
-        {
-            "video_id": "RIKWPKj2AD4",
-            "title": "강화의 신 팡이요, 새로운 역사를 쓰다 \"샤타포스 2화\" [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "16:02",
-            "view_count": "368493",
-            "thumbnail_url": "https://i.ytimg.com/vi/RIKWPKj2AD4/hqdefault.jpg"
-        },
-        {
-            "video_id": "nZ3fRiYsH2k",
-            "title": "miss sunshine",
-            "channel_name": "mgk - Topic",
-            "category": "Music",
-            "duration": "3:24",
-            "view_count": "218079",
-            "thumbnail_url": "https://i.ytimg.com/vi/nZ3fRiYsH2k/hqdefault.jpg"
-        },
-        {
-            "video_id": "se6KT5oYzAU",
-            "title": "\"T1의 MSI 패배가 만든 홈그라운드 승리\"",
-            "channel_name": "프로관전러 P.S",
-            "category": "Gaming",
-            "duration": "23:35",
-            "view_count": "278379",
-            "thumbnail_url": "https://i.ytimg.com/vi/se6KT5oYzAU/hqdefault.jpg"
         },
         {
             "video_id": "Slxao6remF8",
@@ -376,8 +340,44 @@
             "channel_name": "Terry - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "4910",
+            "view_count": "6232",
             "thumbnail_url": "https://i.ytimg.com/vi/Slxao6remF8/hqdefault.jpg"
+        },
+        {
+            "video_id": "RIKWPKj2AD4",
+            "title": "강화의 신 팡이요, 새로운 역사를 쓰다 \"샤타포스 2화\" [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "16:02",
+            "view_count": "369472",
+            "thumbnail_url": "https://i.ytimg.com/vi/RIKWPKj2AD4/hqdefault.jpg"
+        },
+        {
+            "video_id": "CsCgX0Cm44g",
+            "title": "2323 - NGHIÊM TỔNG prod. MAI CẢNH DỊ & ĐẠI TRƯỢNG FU",
+            "channel_name": "MCK // Nger",
+            "category": "Music",
+            "duration": "2:53",
+            "view_count": "669277",
+            "thumbnail_url": "https://i.ytimg.com/vi/CsCgX0Cm44g/hqdefault.jpg"
+        },
+        {
+            "video_id": "8Aql9kdJwhM",
+            "title": "현역 프로가 클리드 악질 저격러면 생기는 일 ㅋㅋㅋㅋ",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "22:52",
+            "view_count": "169893",
+            "thumbnail_url": "https://i.ytimg.com/vi/8Aql9kdJwhM/hqdefault.jpg"
+        },
+        {
+            "video_id": "_PZ-ot4FIyg",
+            "title": "Star",
+            "channel_name": "Halsoon - Topic",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "149029",
+            "thumbnail_url": "https://i.ytimg.com/vi/_PZ-ot4FIyg/hqdefault.jpg"
         }
     ]
 }
