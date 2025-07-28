@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-07-28 16:27:28",
+    "scraped_time": "2025-07-28 17:34:23",
     "videos": [
         {
             "video_id": "slUTl_CtMR0",
@@ -7,7 +7,7 @@
             "channel_name": "Monday Kiz - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "93190",
+            "view_count": "103847",
             "thumbnail_url": "https://i.ytimg.com/vi/slUTl_CtMR0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "기묘한 케이지",
             "category": "Entertainment",
             "duration": "13:05",
-            "view_count": "147313",
+            "view_count": "148146",
             "thumbnail_url": "https://i.ytimg.com/vi/C90u0hBa5jA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:57:06",
-            "view_count": "2540537",
+            "view_count": "2541913",
             "thumbnail_url": "https://i.ytimg.com/vi/gHsa0mBF8vw/hqdefault.jpg"
         },
         {
@@ -34,8 +34,26 @@
             "channel_name": "Sohyang",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "392970",
+            "view_count": "401331",
             "thumbnail_url": "https://i.ytimg.com/vi/qEZfb_XQtmg/hqdefault.jpg"
+        },
+        {
+            "video_id": "nYWywvkJLJ4",
+            "title": "유튜버들의 마인크래프트 100일 멸망전",
+            "channel_name": "코마",
+            "category": "Gaming",
+            "duration": "1:10:34",
+            "view_count": "164905",
+            "thumbnail_url": "https://i.ytimg.com/vi/nYWywvkJLJ4/hqdefault.jpg"
+        },
+        {
+            "video_id": "M7FOgxCdr1g",
+            "title": "That Place, That Time",
+            "channel_name": "LEE CHANGSUB - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "39240",
+            "thumbnail_url": "https://i.ytimg.com/vi/M7FOgxCdr1g/hqdefault.jpg"
         },
         {
             "video_id": "jf8guMV2VgA",
@@ -43,7 +61,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "19:28",
-            "view_count": "303766",
+            "view_count": "312076",
             "thumbnail_url": "https://i.ytimg.com/vi/jf8guMV2VgA/hqdefault.jpg"
         },
         {
@@ -52,26 +70,8 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "1334038",
+            "view_count": "1347647",
             "thumbnail_url": "https://i.ytimg.com/vi/bAYfwpU6guo/hqdefault.jpg"
-        },
-        {
-            "video_id": "nYWywvkJLJ4",
-            "title": "유튜버들의 마인크래프트 100일 멸망전",
-            "channel_name": "코마",
-            "category": "Gaming",
-            "duration": "1:10:34",
-            "view_count": "102898",
-            "thumbnail_url": "https://i.ytimg.com/vi/nYWywvkJLJ4/hqdefault.jpg"
-        },
-        {
-            "video_id": "K5cOvVrHo0Q",
-            "title": "Free - Arden Cho & Cha Eun Woo Cover",
-            "channel_name": "ardenBcho",
-            "category": "People & Blogs",
-            "duration": "2:45",
-            "view_count": "514045",
-            "thumbnail_url": "https://i.ytimg.com/vi/K5cOvVrHo0Q/hqdefault.jpg"
         },
         {
             "video_id": "LGdRymaxx78",
@@ -79,26 +79,8 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "1:26",
-            "view_count": "857006",
+            "view_count": "876629",
             "thumbnail_url": "https://i.ytimg.com/vi/LGdRymaxx78/hqdefault.jpg"
-        },
-        {
-            "video_id": "M7FOgxCdr1g",
-            "title": "That Place, That Time",
-            "channel_name": "LEE CHANGSUB - Topic",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "34738",
-            "thumbnail_url": "https://i.ytimg.com/vi/M7FOgxCdr1g/hqdefault.jpg"
-        },
-        {
-            "video_id": "5dvPcKL2280",
-            "title": "드디어 티원이!!!!!!😲 | 3R T1 vs GEN│2025 LCK | 울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "1:06:19",
-            "view_count": "567269",
-            "thumbnail_url": "https://i.ytimg.com/vi/5dvPcKL2280/hqdefault.jpg"
         },
         {
             "video_id": "L_Ll_NzHMFw",
@@ -106,17 +88,17 @@
             "channel_name": "ENHYPEN - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "175938",
+            "view_count": "192396",
             "thumbnail_url": "https://i.ytimg.com/vi/L_Ll_NzHMFw/hqdefault.jpg"
         },
         {
-            "video_id": "fPjd5LqVugQ",
-            "title": "뉴비?들의 카카오 칼국수 데카먹방",
-            "channel_name": "타튜브 [TATUBE]",
+            "video_id": "5dvPcKL2280",
+            "title": "드디어 티원이!!!!!!😲 | 3R T1 vs GEN│2025 LCK | 울챔스 하이라이트",
+            "channel_name": "Wolf",
             "category": "Gaming",
-            "duration": "17:51",
-            "view_count": "162195",
-            "thumbnail_url": "https://i.ytimg.com/vi/fPjd5LqVugQ/hqdefault.jpg"
+            "duration": "1:06:19",
+            "view_count": "570334",
+            "thumbnail_url": "https://i.ytimg.com/vi/5dvPcKL2280/hqdefault.jpg"
         },
         {
             "video_id": "g2d1QmEz8wo",
@@ -124,8 +106,26 @@
             "channel_name": "TWICE - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "224229",
+            "view_count": "232684",
             "thumbnail_url": "https://i.ytimg.com/vi/g2d1QmEz8wo/hqdefault.jpg"
+        },
+        {
+            "video_id": "fPjd5LqVugQ",
+            "title": "뉴비?들의 카카오 칼국수 데카먹방",
+            "channel_name": "타튜브 [TATUBE]",
+            "category": "Gaming",
+            "duration": "17:51",
+            "view_count": "166282",
+            "thumbnail_url": "https://i.ytimg.com/vi/fPjd5LqVugQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "K5cOvVrHo0Q",
+            "title": "Free - Arden Cho & Cha Eun Woo Cover",
+            "channel_name": "ardenBcho",
+            "category": "People & Blogs",
+            "duration": "2:45",
+            "view_count": "525349",
+            "thumbnail_url": "https://i.ytimg.com/vi/K5cOvVrHo0Q/hqdefault.jpg"
         },
         {
             "video_id": "Z2Oz1XQwq3Y",
@@ -133,7 +133,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "28:29",
-            "view_count": "179170",
+            "view_count": "183885",
             "thumbnail_url": "https://i.ytimg.com/vi/Z2Oz1XQwq3Y/hqdefault.jpg"
         },
         {
@@ -142,17 +142,17 @@
             "channel_name": "바다 BADA",
             "category": "Entertainment",
             "duration": "3:05",
-            "view_count": "1623339",
+            "view_count": "1630128",
             "thumbnail_url": "https://i.ytimg.com/vi/UJNVGZzyAcs/hqdefault.jpg"
         },
         {
-            "video_id": "xReuRGNhQFw",
-            "title": "괴물 사슴 피해 1000일 동안 생존해 봤습니다..",
-            "channel_name": "김왼팔",
+            "video_id": "6IfYRBQC61c",
+            "title": "준밧드한테 까불다가 바로 무릎 꿇은 이상호ㅋㅋㅋ",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "26:00",
-            "view_count": "138058",
-            "thumbnail_url": "https://i.ytimg.com/vi/xReuRGNhQFw/hqdefault.jpg"
+            "duration": "51:42",
+            "view_count": "132057",
+            "thumbnail_url": "https://i.ytimg.com/vi/6IfYRBQC61c/hqdefault.jpg"
         },
         {
             "video_id": "PKT-y0e--Zc",
@@ -160,7 +160,7 @@
             "channel_name": "[에일리 OFFICIAL] aileemusic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "1407417",
+            "view_count": "1416589",
             "thumbnail_url": "https://i.ytimg.com/vi/PKT-y0e--Zc/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "41:41",
-            "view_count": "255082",
+            "view_count": "266238",
             "thumbnail_url": "https://i.ytimg.com/vi/J8tQ6UNoj8c/hqdefault.jpg"
         },
         {
@@ -178,17 +178,17 @@
             "channel_name": "Ourealgoat - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "29782",
+            "view_count": "31019",
             "thumbnail_url": "https://i.ytimg.com/vi/xwDDQggm92E/hqdefault.jpg"
         },
         {
-            "video_id": "6IfYRBQC61c",
-            "title": "준밧드한테 까불다가 바로 무릎 꿇은 이상호ㅋㅋㅋ",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "video_id": "xReuRGNhQFw",
+            "title": "괴물 사슴 피해 1000일 동안 생존해 봤습니다..",
+            "channel_name": "김왼팔",
             "category": "Gaming",
-            "duration": "51:42",
-            "view_count": "124439",
-            "thumbnail_url": "https://i.ytimg.com/vi/6IfYRBQC61c/hqdefault.jpg"
+            "duration": "26:00",
+            "view_count": "143782",
+            "thumbnail_url": "https://i.ytimg.com/vi/xReuRGNhQFw/hqdefault.jpg"
         },
         {
             "video_id": "YiaLz_jlT-8",
@@ -196,17 +196,17 @@
             "channel_name": "Bruklin - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "700943",
+            "view_count": "706365",
             "thumbnail_url": "https://i.ytimg.com/vi/YiaLz_jlT-8/hqdefault.jpg"
         },
         {
-            "video_id": "n1rR8oq1Y08",
-            "title": "새롭게 추가된 소환방법으로 숨은 이스터에그 찾아보기!!!! 온갖 브레인 총 출동 ㅋㅋㅋㅋㅋㅋ(로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
+            "video_id": "5wzIkDue3RM",
+            "title": "일곱 번 넘어져도 여덟 번 일어난다",
+            "channel_name": "우융",
             "category": "Gaming",
-            "duration": "17:02",
-            "view_count": "173079",
-            "thumbnail_url": "https://i.ytimg.com/vi/n1rR8oq1Y08/hqdefault.jpg"
+            "duration": "1:06:04",
+            "view_count": "40046",
+            "thumbnail_url": "https://i.ytimg.com/vi/5wzIkDue3RM/hqdefault.jpg"
         },
         {
             "video_id": "q6RZvFy3DD4",
@@ -214,8 +214,26 @@
             "channel_name": "Velvet Funk - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "342021",
+            "view_count": "346462",
             "thumbnail_url": "https://i.ytimg.com/vi/q6RZvFy3DD4/hqdefault.jpg"
+        },
+        {
+            "video_id": "n1rR8oq1Y08",
+            "title": "새롭게 추가된 소환방법으로 숨은 이스터에그 찾아보기!!!! 온갖 브레인 총 출동 ㅋㅋㅋㅋㅋㅋ(로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "17:02",
+            "view_count": "177166",
+            "thumbnail_url": "https://i.ytimg.com/vi/n1rR8oq1Y08/hqdefault.jpg"
+        },
+        {
+            "video_id": "F0DBC7GFkzI",
+            "title": "Huntrix - GOLDEN (sub. español + lyrics) | Kpop Demon Hunters",
+            "channel_name": "Marinosaurio",
+            "category": "Music",
+            "duration": "3:13",
+            "view_count": "132437",
+            "thumbnail_url": "https://i.ytimg.com/vi/F0DBC7GFkzI/hqdefault.jpg"
         },
         {
             "video_id": "D_GZnImHAlE",
@@ -223,7 +241,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "16:50",
-            "view_count": "192585",
+            "view_count": "198242",
             "thumbnail_url": "https://i.ytimg.com/vi/D_GZnImHAlE/hqdefault.jpg"
         },
         {
@@ -232,26 +250,8 @@
             "channel_name": "SLANDER - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "362505",
+            "view_count": "368134",
             "thumbnail_url": "https://i.ytimg.com/vi/0u1KSKZ02yw/hqdefault.jpg"
-        },
-        {
-            "video_id": "uYRSG2k8taI",
-            "title": "감스트 GTA5 복귀!!!",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "15:41",
-            "view_count": "496260",
-            "thumbnail_url": "https://i.ytimg.com/vi/uYRSG2k8taI/hqdefault.jpg"
-        },
-        {
-            "video_id": "F0DBC7GFkzI",
-            "title": "Huntrix - GOLDEN (sub. español + lyrics) | Kpop Demon Hunters",
-            "channel_name": "Marinosaurio",
-            "category": "Music",
-            "duration": "3:13",
-            "view_count": "127384",
-            "thumbnail_url": "https://i.ytimg.com/vi/F0DBC7GFkzI/hqdefault.jpg"
         },
         {
             "video_id": "uIeST7CA5A4",
@@ -259,8 +259,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:33",
-            "view_count": "178605",
+            "view_count": "182584",
             "thumbnail_url": "https://i.ytimg.com/vi/uIeST7CA5A4/hqdefault.jpg"
+        },
+        {
+            "video_id": "Slxao6remF8",
+            "title": "자존심 (feat. maji)",
+            "channel_name": "Terry - Topic",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "7123",
+            "thumbnail_url": "https://i.ytimg.com/vi/Slxao6remF8/hqdefault.jpg"
+        },
+        {
+            "video_id": "uYRSG2k8taI",
+            "title": "감스트 GTA5 복귀!!!",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "15:41",
+            "view_count": "503742",
+            "thumbnail_url": "https://i.ytimg.com/vi/uYRSG2k8taI/hqdefault.jpg"
         },
         {
             "video_id": "9rWdaL5Q3u0",
@@ -268,26 +286,8 @@
             "channel_name": "Solar - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "75819",
+            "view_count": "78153",
             "thumbnail_url": "https://i.ytimg.com/vi/9rWdaL5Q3u0/hqdefault.jpg"
-        },
-        {
-            "video_id": "QMB5fT8WDxM",
-            "title": "(※실제상황) 구독자 만났는데 자기 누나 소개시켜준다고 초대함;;;",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "16:20",
-            "view_count": "282553",
-            "thumbnail_url": "https://i.ytimg.com/vi/QMB5fT8WDxM/hqdefault.jpg"
-        },
-        {
-            "video_id": "pHJHxrrllT0",
-            "title": "이창섭 LEECHANGSUB - 그 자리에, 그 시간에 That Place, That Time (Making Film)",
-            "channel_name": "GENIE MUSIC",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "15409",
-            "thumbnail_url": "https://i.ytimg.com/vi/pHJHxrrllT0/hqdefault.jpg"
         },
         {
             "video_id": "tCI7trtmt24",
@@ -295,8 +295,26 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "39:32",
-            "view_count": "213391",
+            "view_count": "220061",
             "thumbnail_url": "https://i.ytimg.com/vi/tCI7trtmt24/hqdefault.jpg"
+        },
+        {
+            "video_id": "pHJHxrrllT0",
+            "title": "이창섭 LEECHANGSUB - 그 자리에, 그 시간에 That Place, That Time (Making Film)",
+            "channel_name": "GENIE MUSIC",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "15931",
+            "thumbnail_url": "https://i.ytimg.com/vi/pHJHxrrllT0/hqdefault.jpg"
+        },
+        {
+            "video_id": "QMB5fT8WDxM",
+            "title": "(※실제상황) 구독자 만났는데 자기 누나 소개시켜준다고 초대함;;;",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "16:20",
+            "view_count": "285483",
+            "thumbnail_url": "https://i.ytimg.com/vi/QMB5fT8WDxM/hqdefault.jpg"
         },
         {
             "video_id": "CMNEELCR8Sw",
@@ -304,8 +322,26 @@
             "channel_name": "10CM - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "187022",
+            "view_count": "191774",
             "thumbnail_url": "https://i.ytimg.com/vi/CMNEELCR8Sw/hqdefault.jpg"
+        },
+        {
+            "video_id": "V5DOAW6253k",
+            "title": "\"주문력 1100\" 돌아온 AP챔들의 악몽 \"탑 오버파밍 갈리오\" 🐔",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "28:27",
+            "view_count": "128898",
+            "thumbnail_url": "https://i.ytimg.com/vi/V5DOAW6253k/hqdefault.jpg"
+        },
+        {
+            "video_id": "CsCgX0Cm44g",
+            "title": "2323 - NGHIÊM TỔNG prod. MAI CẢNH DỊ & ĐẠI TRƯỢNG FU",
+            "channel_name": "MCK // Nger",
+            "category": "Music",
+            "duration": "2:53",
+            "view_count": "747557",
+            "thumbnail_url": "https://i.ytimg.com/vi/CsCgX0Cm44g/hqdefault.jpg"
         },
         {
             "video_id": "8SE470RjeFw",
@@ -313,7 +349,7 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "14:28",
-            "view_count": "498700",
+            "view_count": "505835",
             "thumbnail_url": "https://i.ytimg.com/vi/8SE470RjeFw/hqdefault.jpg"
         },
         {
@@ -322,44 +358,8 @@
             "channel_name": "KATSEYE - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "536474",
+            "view_count": "542706",
             "thumbnail_url": "https://i.ytimg.com/vi/_YpDYkTuzyc/hqdefault.jpg"
-        },
-        {
-            "video_id": "V5DOAW6253k",
-            "title": "\"주문력 1100\" 돌아온 AP챔들의 악몽 \"탑 오버파밍 갈리오\" 🐔",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "28:27",
-            "view_count": "125555",
-            "thumbnail_url": "https://i.ytimg.com/vi/V5DOAW6253k/hqdefault.jpg"
-        },
-        {
-            "video_id": "Slxao6remF8",
-            "title": "자존심 (feat. maji)",
-            "channel_name": "Terry - Topic",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "6232",
-            "thumbnail_url": "https://i.ytimg.com/vi/Slxao6remF8/hqdefault.jpg"
-        },
-        {
-            "video_id": "RIKWPKj2AD4",
-            "title": "강화의 신 팡이요, 새로운 역사를 쓰다 \"샤타포스 2화\" [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "16:02",
-            "view_count": "369472",
-            "thumbnail_url": "https://i.ytimg.com/vi/RIKWPKj2AD4/hqdefault.jpg"
-        },
-        {
-            "video_id": "CsCgX0Cm44g",
-            "title": "2323 - NGHIÊM TỔNG prod. MAI CẢNH DỊ & ĐẠI TRƯỢNG FU",
-            "channel_name": "MCK // Nger",
-            "category": "Music",
-            "duration": "2:53",
-            "view_count": "669277",
-            "thumbnail_url": "https://i.ytimg.com/vi/CsCgX0Cm44g/hqdefault.jpg"
         },
         {
             "video_id": "8Aql9kdJwhM",
@@ -367,17 +367,17 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "22:52",
-            "view_count": "169893",
+            "view_count": "175571",
             "thumbnail_url": "https://i.ytimg.com/vi/8Aql9kdJwhM/hqdefault.jpg"
         },
         {
-            "video_id": "_PZ-ot4FIyg",
-            "title": "Star",
-            "channel_name": "Halsoon - Topic",
+            "video_id": "gEDtbt5-wtU",
+            "title": "On My Way",
+            "channel_name": "Park Bo-Gum - Topic",
             "category": "Music",
-            "duration": "2:47",
-            "view_count": "149029",
-            "thumbnail_url": "https://i.ytimg.com/vi/_PZ-ot4FIyg/hqdefault.jpg"
+            "duration": "3:08",
+            "view_count": "47863",
+            "thumbnail_url": "https://i.ytimg.com/vi/gEDtbt5-wtU/hqdefault.jpg"
         }
     ]
 }
