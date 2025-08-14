@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-14 22:37:19",
+    "scraped_time": "2025-08-14 23:22:02",
     "videos": [
         {
             "video_id": "1pyO6oNmACs",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "1356823",
+            "view_count": "1368866",
             "thumbnail_url": "https://i.ytimg.com/vi/1pyO6oNmACs/hqdefault.jpg"
         },
         {
@@ -16,17 +16,17 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:33",
-            "view_count": "151449",
+            "view_count": "160832",
             "thumbnail_url": "https://i.ytimg.com/vi/kjz69EH3xMg/hqdefault.jpg"
         },
         {
-            "video_id": "h9ZInAQY0eA",
-            "title": "T1 vs KT - BFX vs DNF | 2025 LCK",
+            "video_id": "E_588_-CsSs",
+            "title": "GEN vs NS - DK vs DRX | 2025 LCK",
             "channel_name": "LCK",
             "category": "Gaming",
-            "duration": "5:26:26",
-            "view_count": "1735045",
-            "thumbnail_url": "https://i.ytimg.com/vi/h9ZInAQY0eA/hqdefault.jpg"
+            "duration": "5:00:36",
+            "view_count": "1160302",
+            "thumbnail_url": "https://i.ytimg.com/vi/E_588_-CsSs/hqdefault.jpg"
         },
         {
             "video_id": "tGc_cYtHsWo",
@@ -34,7 +34,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "394729",
+            "view_count": "400487",
             "thumbnail_url": "https://i.ytimg.com/vi/tGc_cYtHsWo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "1:33",
-            "view_count": "94925",
+            "view_count": "97078",
             "thumbnail_url": "https://i.ytimg.com/vi/fRqegBxEvEc/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "마비노기 모바일",
             "category": "People & Blogs",
             "duration": "1:15:33",
-            "view_count": "111721",
+            "view_count": "115506",
             "thumbnail_url": "https://i.ytimg.com/vi/5MfczKMXmO4/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Park Da Hye - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "1509876",
+            "view_count": "1525611",
             "thumbnail_url": "https://i.ytimg.com/vi/RqImBZoOmF8/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "PlayStation",
             "category": "Gaming",
             "duration": "2:23",
-            "view_count": "453834",
+            "view_count": "454483",
             "thumbnail_url": "https://i.ytimg.com/vi/15AZ6rqXw-Y/hqdefault.jpg"
         },
         {
@@ -79,17 +79,17 @@
             "channel_name": "로스트아크 LOST ARK",
             "category": "Gaming",
             "duration": "1:16:08",
-            "view_count": "152112",
+            "view_count": "160135",
             "thumbnail_url": "https://i.ytimg.com/vi/Tpdi8lU2YX0/hqdefault.jpg"
         },
         {
-            "video_id": "btRT0m8CApI",
-            "title": "White Wine",
-            "channel_name": "Kwon Jin-ah - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "54721",
-            "thumbnail_url": "https://i.ytimg.com/vi/btRT0m8CApI/hqdefault.jpg"
+            "video_id": "LuN3siPlSjo",
+            "title": "NCT WISH 엔시티 위시 'Surf'｜On the Spot｜온더스팟",
+            "channel_name": "1theK Originals - 원더케이 오리지널",
+            "category": "Entertainment",
+            "duration": "3:33",
+            "view_count": "49000",
+            "thumbnail_url": "https://i.ytimg.com/vi/LuN3siPlSjo/hqdefault.jpg"
         },
         {
             "video_id": "ccZdYt7sFvI",
@@ -97,7 +97,7 @@
             "channel_name": "시온",
             "category": "Gaming",
             "duration": "3:11",
-            "view_count": "311921",
+            "view_count": "314991",
             "thumbnail_url": "https://i.ytimg.com/vi/ccZdYt7sFvI/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "24:05",
-            "view_count": "459458",
+            "view_count": "464873",
             "thumbnail_url": "https://i.ytimg.com/vi/ZxjABzAfXJY/hqdefault.jpg"
         },
         {
@@ -115,8 +115,17 @@
             "channel_name": "LLOUD Official",
             "category": "Music",
             "duration": "5:09",
-            "view_count": "3414657",
+            "view_count": "3622787",
             "thumbnail_url": "https://i.ytimg.com/vi/FMX98ROVRCE/hqdefault.jpg"
+        },
+        {
+            "video_id": "7I5Rj-c3sz0",
+            "title": "[종합 예고] 한국 곳곳에서 숨 막히는 추격전이 시작된다! #버터플라이",
+            "channel_name": "tvN DRAMA",
+            "category": "Entertainment",
+            "duration": "2:31",
+            "view_count": "54729",
+            "thumbnail_url": "https://i.ytimg.com/vi/7I5Rj-c3sz0/hqdefault.jpg"
         },
         {
             "video_id": "P0IcAnZkoac",
@@ -124,26 +133,26 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "48:03",
-            "view_count": "217008",
+            "view_count": "221612",
             "thumbnail_url": "https://i.ytimg.com/vi/P0IcAnZkoac/hqdefault.jpg"
         },
         {
-            "video_id": "LuN3siPlSjo",
-            "title": "NCT WISH 엔시티 위시 'Surf'｜On the Spot｜온더스팟",
-            "channel_name": "1theK Originals - 원더케이 오리지널",
-            "category": "Entertainment",
-            "duration": "3:33",
-            "view_count": "29457",
-            "thumbnail_url": "https://i.ytimg.com/vi/LuN3siPlSjo/hqdefault.jpg"
+            "video_id": "btRT0m8CApI",
+            "title": "White Wine",
+            "channel_name": "Kwon Jin-ah - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "56469",
+            "thumbnail_url": "https://i.ytimg.com/vi/btRT0m8CApI/hqdefault.jpg"
         },
         {
-            "video_id": "PNgnvrnvRlA",
-            "title": "'역대급 찐텐 피드백' 결국 눈물을 흘린 이상호....",
+            "video_id": "faNM_kB7n4U",
+            "title": "그래 나 개쓰레기 벌레다",
             "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "38:29",
-            "view_count": "289834",
-            "thumbnail_url": "https://i.ytimg.com/vi/PNgnvrnvRlA/hqdefault.jpg"
+            "duration": "37:41",
+            "view_count": "230818",
+            "thumbnail_url": "https://i.ytimg.com/vi/faNM_kB7n4U/hqdefault.jpg"
         },
         {
             "video_id": "UochJ3rj9XM",
@@ -151,17 +160,17 @@
             "channel_name": "마크툽 MAKTUB Official",
             "category": "Entertainment",
             "duration": "4:21",
-            "view_count": "180271",
+            "view_count": "182472",
             "thumbnail_url": "https://i.ytimg.com/vi/UochJ3rj9XM/hqdefault.jpg"
         },
         {
-            "video_id": "SYUrRNdXi_M",
-            "title": "광란의 곰판 [롤토체스]",
-            "channel_name": "PAKA",
+            "video_id": "v2_3UbMkq3M",
+            "title": "PRX vs T1  - VCT 퍼시픽 - 스테이지2 - 플레이오프 - 2일차",
+            "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
-            "duration": "25:59",
-            "view_count": "276406",
-            "thumbnail_url": "https://i.ytimg.com/vi/SYUrRNdXi_M/hqdefault.jpg"
+            "duration": "6:02:30",
+            "view_count": "260065",
+            "thumbnail_url": "https://i.ytimg.com/vi/v2_3UbMkq3M/hqdefault.jpg"
         },
         {
             "video_id": "9mUI9T5ku3Y",
@@ -169,17 +178,17 @@
             "channel_name": "pH-1 - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "64662",
+            "view_count": "66413",
             "thumbnail_url": "https://i.ytimg.com/vi/9mUI9T5ku3Y/hqdefault.jpg"
         },
         {
-            "video_id": "9OjSh7Tu5bE",
-            "title": "말도 안돼... 비밀 합성 \"로스 팟 핫스팟\" 시크릿이 나왔어요!!! 새벽에 했던 한정판 타코 브레인갓까지 획득! (로블록스 브레인롯훔치기)",
-            "channel_name": "말량",
+            "video_id": "cKO4OL_BSlc",
+            "title": "배틀그라운드 부가티 ‘600만원 태운 사나이들’ 처음겪어본 역대급 매운맛 이중가챠 🔥",
+            "channel_name": "악동 김블루",
             "category": "Gaming",
-            "duration": "19:04",
-            "view_count": "341003",
-            "thumbnail_url": "https://i.ytimg.com/vi/9OjSh7Tu5bE/hqdefault.jpg"
+            "duration": "16:26",
+            "view_count": "78001",
+            "thumbnail_url": "https://i.ytimg.com/vi/cKO4OL_BSlc/hqdefault.jpg"
         },
         {
             "video_id": "rdMMwGuQhcg",
@@ -187,17 +196,17 @@
             "channel_name": "DINDIN - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "48106",
+            "view_count": "48963",
             "thumbnail_url": "https://i.ytimg.com/vi/rdMMwGuQhcg/hqdefault.jpg"
         },
         {
-            "video_id": "mhNM1TB6N5Q",
-            "title": "퇴마 전문가",
-            "channel_name": "이도원",
+            "video_id": "SYUrRNdXi_M",
+            "title": "광란의 곰판 [롤토체스]",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "32:13",
-            "view_count": "246247",
-            "thumbnail_url": "https://i.ytimg.com/vi/mhNM1TB6N5Q/hqdefault.jpg"
+            "duration": "25:59",
+            "view_count": "277971",
+            "thumbnail_url": "https://i.ytimg.com/vi/SYUrRNdXi_M/hqdefault.jpg"
         },
         {
             "video_id": "5C5lcn1GYfM",
@@ -205,17 +214,17 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "5803541",
+            "view_count": "5859197",
             "thumbnail_url": "https://i.ytimg.com/vi/5C5lcn1GYfM/hqdefault.jpg"
         },
         {
-            "video_id": "ee1vHnNKLNY",
-            "title": "상대방의 비밀 능력을 추리해야하는 \"블라인드 능력자\"",
-            "channel_name": "잠뜰 TV",
+            "video_id": "9OjSh7Tu5bE",
+            "title": "말도 안돼... 비밀 합성 \"로스 팟 핫스팟\" 시크릿이 나왔어요!!! 새벽에 했던 한정판 타코 브레인갓까지 획득! (로블록스 브레인롯훔치기)",
+            "channel_name": "말량",
             "category": "Gaming",
-            "duration": "38:33",
-            "view_count": "208987",
-            "thumbnail_url": "https://i.ytimg.com/vi/ee1vHnNKLNY/hqdefault.jpg"
+            "duration": "19:04",
+            "view_count": "343888",
+            "thumbnail_url": "https://i.ytimg.com/vi/9OjSh7Tu5bE/hqdefault.jpg"
         },
         {
             "video_id": "XSAjDBquirA",
@@ -223,17 +232,17 @@
             "channel_name": "Kim Gyeol - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "28262",
+            "view_count": "28859",
             "thumbnail_url": "https://i.ytimg.com/vi/XSAjDBquirA/hqdefault.jpg"
         },
         {
-            "video_id": "FoqCtjwmPls",
-            "title": "이번에 대장장이 레전드 찍었습니다 ㄷㄷ [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
+            "video_id": "mhNM1TB6N5Q",
+            "title": "퇴마 전문가",
+            "channel_name": "이도원",
             "category": "Gaming",
-            "duration": "18:00",
-            "view_count": "208512",
-            "thumbnail_url": "https://i.ytimg.com/vi/FoqCtjwmPls/hqdefault.jpg"
+            "duration": "32:13",
+            "view_count": "248405",
+            "thumbnail_url": "https://i.ytimg.com/vi/mhNM1TB6N5Q/hqdefault.jpg"
         },
         {
             "video_id": "LAP5uqlwb5Y",
@@ -241,17 +250,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "0:43",
-            "view_count": "229656",
+            "view_count": "231332",
             "thumbnail_url": "https://i.ytimg.com/vi/LAP5uqlwb5Y/hqdefault.jpg"
         },
         {
-            "video_id": "pKrKRGykE70",
-            "title": "대박 퓨즈 조합법 또 발견!!! 근데 갑자기 등장한 개발자님의 스페셜 이벤트!! 와 타코시크릿 ㄷㄷ;; (로블록스 브레인롯훔치기)",
+            "video_id": "d-_8M1TL8us",
+            "title": "어려움 10배 난이도!!  슈퍼 하드모드 숲에서 100일 살아남기! (로블록스 99나이트인더포레스트)",
             "channel_name": "쉐어TV",
             "category": "Gaming",
-            "duration": "21:14",
-            "view_count": "256444",
-            "thumbnail_url": "https://i.ytimg.com/vi/pKrKRGykE70/hqdefault.jpg"
+            "duration": "23:27",
+            "view_count": "119746",
+            "thumbnail_url": "https://i.ytimg.com/vi/d-_8M1TL8us/hqdefault.jpg"
         },
         {
             "video_id": "1m9gGoRYfIA",
@@ -259,17 +268,17 @@
             "channel_name": "이승윤",
             "category": "Music",
             "duration": "5:30",
-            "view_count": "272098",
+            "view_count": "276020",
             "thumbnail_url": "https://i.ytimg.com/vi/1m9gGoRYfIA/hqdefault.jpg"
         },
         {
-            "video_id": "XFoK-D7AG5s",
-            "title": "\"무한현질\"해서 시크릿 200마리 삭제.. & 0.00001% 한정판 얻었습니다 (로블록스)",
-            "channel_name": "PMY",
+            "video_id": "ee1vHnNKLNY",
+            "title": "상대방의 비밀 능력을 추리해야하는 \"블라인드 능력자\"",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "12:47",
-            "view_count": "153008",
-            "thumbnail_url": "https://i.ytimg.com/vi/XFoK-D7AG5s/hqdefault.jpg"
+            "duration": "38:33",
+            "view_count": "211299",
+            "thumbnail_url": "https://i.ytimg.com/vi/ee1vHnNKLNY/hqdefault.jpg"
         },
         {
             "video_id": "1VP0Yy66dyA",
@@ -277,17 +286,17 @@
             "channel_name": "JEON SOMI - Topic",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "238226",
+            "view_count": "242186",
             "thumbnail_url": "https://i.ytimg.com/vi/1VP0Yy66dyA/hqdefault.jpg"
         },
         {
-            "video_id": "0FahKEoKE-4",
-            "title": "코드컵 마지막날 드디어 무장해제한 딸건이와 단발이ㅋㅋㅋㅋ【코드컵 2일차】",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "video_id": "FoqCtjwmPls",
+            "title": "이번에 대장장이 레전드 찍었습니다 ㄷㄷ [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "32:10",
-            "view_count": "99933",
-            "thumbnail_url": "https://i.ytimg.com/vi/0FahKEoKE-4/hqdefault.jpg"
+            "duration": "18:00",
+            "view_count": "209413",
+            "thumbnail_url": "https://i.ytimg.com/vi/FoqCtjwmPls/hqdefault.jpg"
         },
         {
             "video_id": "Sw1_cBk126w",
@@ -295,17 +304,17 @@
             "channel_name": "최유리 (Choi Yu Ree) - Topic",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "17250",
+            "view_count": "17659",
             "thumbnail_url": "https://i.ytimg.com/vi/Sw1_cBk126w/hqdefault.jpg"
         },
         {
-            "video_id": "8UySPUHhsEw",
-            "title": "하늘이 점지해 주지 않으면 볼 수 없는 무패 전승 5코 3성",
-            "channel_name": "잡상싱",
+            "video_id": "T2wbrDsagJE",
+            "title": "인생 드림카 부가티 뽑았습니다",
+            "channel_name": "주키니TV",
             "category": "Gaming",
-            "duration": "11:08",
-            "view_count": "132411",
-            "thumbnail_url": "https://i.ytimg.com/vi/8UySPUHhsEw/hqdefault.jpg"
+            "duration": "12:16",
+            "view_count": "99669",
+            "thumbnail_url": "https://i.ytimg.com/vi/T2wbrDsagJE/hqdefault.jpg"
         },
         {
             "video_id": "LwuUmhgGgxI",
@@ -313,17 +322,17 @@
             "channel_name": "Huace Global - Topic",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "32738",
+            "view_count": "33119",
             "thumbnail_url": "https://i.ytimg.com/vi/LwuUmhgGgxI/hqdefault.jpg"
         },
         {
-            "video_id": "oSTe6cwFf6E",
-            "title": "배그 부가티 출시🔥초가성비 천장 다 알려드립니다!(feat. 쿤타치 비교)",
-            "channel_name": "하얀귤",
+            "video_id": "0FahKEoKE-4",
+            "title": "코드컵 마지막날 드디어 무장해제한 딸건이와 단발이ㅋㅋㅋㅋ【코드컵 2일차】",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "7:19",
-            "view_count": "106817",
-            "thumbnail_url": "https://i.ytimg.com/vi/oSTe6cwFf6E/hqdefault.jpg"
+            "duration": "32:10",
+            "view_count": "104690",
+            "thumbnail_url": "https://i.ytimg.com/vi/0FahKEoKE-4/hqdefault.jpg"
         },
         {
             "video_id": "1Z_g6Gtj9Cs",
@@ -331,35 +340,17 @@
             "channel_name": "K/DA - Topic",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "191485",
+            "view_count": "191941",
             "thumbnail_url": "https://i.ytimg.com/vi/1Z_g6Gtj9Cs/hqdefault.jpg"
         },
         {
-            "video_id": "zFX2y_UMDV8",
-            "title": "[URF] 프레이 카이사 : W 맞으면 관통당하는 AP 카이사",
-            "channel_name": "프레이 TV",
+            "video_id": "8UySPUHhsEw",
+            "title": "하늘이 점지해 주지 않으면 볼 수 없는 무패 전승 5코 3성",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "17:23",
-            "view_count": "143530",
-            "thumbnail_url": "https://i.ytimg.com/vi/zFX2y_UMDV8/hqdefault.jpg"
-        },
-        {
-            "video_id": "FFkxUtzd4vI",
-            "title": "izna (이즈나) 'SASS (Prod. THE HUB)' Choreography Video",
-            "channel_name": "izna (이즈나)",
-            "category": "Entertainment",
-            "duration": "3:02",
-            "view_count": "157973",
-            "thumbnail_url": "https://i.ytimg.com/vi/FFkxUtzd4vI/hqdefault.jpg"
-        },
-        {
-            "video_id": "WRdphfqzveM",
-            "title": "3000만원 주고 산 이유가 있어요 [코드컵]",
-            "channel_name": "킴성태TV",
-            "category": "Gaming",
-            "duration": "29:20",
-            "view_count": "131456",
-            "thumbnail_url": "https://i.ytimg.com/vi/WRdphfqzveM/hqdefault.jpg"
+            "duration": "11:08",
+            "view_count": "135978",
+            "thumbnail_url": "https://i.ytimg.com/vi/8UySPUHhsEw/hqdefault.jpg"
         },
         {
             "video_id": "6y70hwfVeVU",
@@ -367,17 +358,26 @@
             "channel_name": "JISOO",
             "category": "Music",
             "duration": "2:55",
-            "view_count": "3813196",
+            "view_count": "3843158",
             "thumbnail_url": "https://i.ytimg.com/vi/6y70hwfVeVU/hqdefault.jpg"
         },
         {
-            "video_id": "R7AdvciFdY4",
-            "title": "갑자기 170만원짜리 금고 등장! ",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "XFoK-D7AG5s",
+            "title": "\"무한현질\"해서 시크릿 200마리 삭제.. & 0.00001% 한정판 얻었습니다 (로블록스)",
+            "channel_name": "PMY",
             "category": "Gaming",
-            "duration": "18:09",
-            "view_count": "66477",
-            "thumbnail_url": "https://i.ytimg.com/vi/R7AdvciFdY4/hqdefault.jpg"
+            "duration": "12:47",
+            "view_count": "155678",
+            "thumbnail_url": "https://i.ytimg.com/vi/XFoK-D7AG5s/hqdefault.jpg"
+        },
+        {
+            "video_id": "FFkxUtzd4vI",
+            "title": "izna (이즈나) 'SASS (Prod. THE HUB)' Choreography Video",
+            "channel_name": "izna (이즈나)",
+            "category": "Entertainment",
+            "duration": "3:02",
+            "view_count": "160872",
+            "thumbnail_url": "https://i.ytimg.com/vi/FFkxUtzd4vI/hqdefault.jpg"
         }
     ]
 }
