@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-27 12:03:24",
+    "scraped_time": "2025-08-27 13:25:36",
     "videos": [
         {
             "video_id": "B1ShLiq3EVc",
@@ -7,7 +7,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "6751418",
+            "view_count": "6808289",
             "thumbnail_url": "https://i.ytimg.com/vi/B1ShLiq3EVc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "aespa",
             "category": "Music",
             "duration": "6:00",
-            "view_count": "2138781",
+            "view_count": "2157760",
             "thumbnail_url": "https://i.ytimg.com/vi/7aQ2uxgJbnY/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "THIRD[롤 백과사전]",
             "category": "Gaming",
             "duration": "4:46",
-            "view_count": "381156",
+            "view_count": "403411",
             "thumbnail_url": "https://i.ytimg.com/vi/ND1dyCQImrs/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "331674",
+            "view_count": "348374",
             "thumbnail_url": "https://i.ytimg.com/vi/QMGkDbcwDxY/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:15",
-            "view_count": "429721",
+            "view_count": "431617",
             "thumbnail_url": "https://i.ytimg.com/vi/MGRkRytLl8w/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:47",
-            "view_count": "195543",
+            "view_count": "203449",
             "thumbnail_url": "https://i.ytimg.com/vi/boeUlAMgN5I/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "431176",
+            "view_count": "438062",
             "thumbnail_url": "https://i.ytimg.com/vi/FBr4hA9L90s/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "부산국제영화제Busan International Film Festival",
             "category": "Film & Animation",
             "duration": "1:05",
-            "view_count": "22188",
+            "view_count": "26969",
             "thumbnail_url": "https://i.ytimg.com/vi/EZNz4u8T5lE/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "23:26",
-            "view_count": "244376",
+            "view_count": "253703",
             "thumbnail_url": "https://i.ytimg.com/vi/8fO0fCVr1SM/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "Lee Ye Joon - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "128682",
+            "view_count": "132179",
             "thumbnail_url": "https://i.ytimg.com/vi/pD73peP35V4/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:40",
-            "view_count": "193851",
+            "view_count": "195387",
             "thumbnail_url": "https://i.ytimg.com/vi/aK8CTwcFP0E/hqdefault.jpg"
-        },
-        {
-            "video_id": "76BGsYeNH2c",
-            "title": "BFX vs DK - KT vs T1 | 2025 LCK",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "4:53:55",
-            "view_count": "2120587",
-            "thumbnail_url": "https://i.ytimg.com/vi/76BGsYeNH2c/hqdefault.jpg"
-        },
-        {
-            "video_id": "zgyzs1LrWz0",
-            "title": "오프닝",
-            "channel_name": "고추잠자리 - Topic",
-            "category": "Music",
-            "duration": "3:27",
-            "view_count": "322510",
-            "thumbnail_url": "https://i.ytimg.com/vi/zgyzs1LrWz0/hqdefault.jpg"
         },
         {
             "video_id": "v3XDE75RFao",
@@ -124,8 +106,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "36:47",
-            "view_count": "147890",
+            "view_count": "164260",
             "thumbnail_url": "https://i.ytimg.com/vi/v3XDE75RFao/hqdefault.jpg"
+        },
+        {
+            "video_id": "zgyzs1LrWz0",
+            "title": "오프닝",
+            "channel_name": "고추잠자리 - Topic",
+            "category": "Music",
+            "duration": "3:27",
+            "view_count": "328167",
+            "thumbnail_url": "https://i.ytimg.com/vi/zgyzs1LrWz0/hqdefault.jpg"
+        },
+        {
+            "video_id": "76BGsYeNH2c",
+            "title": "BFX vs DK - KT vs T1 | 2025 LCK",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "4:53:55",
+            "view_count": "2120757",
+            "thumbnail_url": "https://i.ytimg.com/vi/76BGsYeNH2c/hqdefault.jpg"
         },
         {
             "video_id": "5mMtzD7C1fE",
@@ -133,7 +133,7 @@
             "channel_name": "Pateko - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "36063",
+            "view_count": "38277",
             "thumbnail_url": "https://i.ytimg.com/vi/5mMtzD7C1fE/hqdefault.jpg"
         },
         {
@@ -142,26 +142,8 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "29:02",
-            "view_count": "159323",
+            "view_count": "161171",
             "thumbnail_url": "https://i.ytimg.com/vi/5p4OA3AZbPs/hqdefault.jpg"
-        },
-        {
-            "video_id": "lgov7yFuWCE",
-            "title": "Love Fool (사랑의 바보)",
-            "channel_name": "Song Pil Geun - Topic",
-            "category": "Music",
-            "duration": "4:00",
-            "view_count": "41930",
-            "thumbnail_url": "https://i.ytimg.com/vi/lgov7yFuWCE/hqdefault.jpg"
-        },
-        {
-            "video_id": "WePNyDES-OY",
-            "title": "상대가 먹을 멀티까지 전부 다 뺏어먹고 공격 안 가고 우주방어모드로 수비만 했더니 이성을 잃어버린 상대ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "46:19",
-            "view_count": "134516",
-            "thumbnail_url": "https://i.ytimg.com/vi/WePNyDES-OY/hqdefault.jpg"
         },
         {
             "video_id": "Uxxdmzg-R94",
@@ -169,8 +151,26 @@
             "channel_name": "SEIN - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "22921",
+            "view_count": "24395",
             "thumbnail_url": "https://i.ytimg.com/vi/Uxxdmzg-R94/hqdefault.jpg"
+        },
+        {
+            "video_id": "WePNyDES-OY",
+            "title": "상대가 먹을 멀티까지 전부 다 뺏어먹고 공격 안 가고 우주방어모드로 수비만 했더니 이성을 잃어버린 상대ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "46:19",
+            "view_count": "139636",
+            "thumbnail_url": "https://i.ytimg.com/vi/WePNyDES-OY/hqdefault.jpg"
+        },
+        {
+            "video_id": "lgov7yFuWCE",
+            "title": "Love Fool (사랑의 바보)",
+            "channel_name": "Song Pil Geun - Topic",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "44284",
+            "thumbnail_url": "https://i.ytimg.com/vi/lgov7yFuWCE/hqdefault.jpg"
         },
         {
             "video_id": "wUACP7LXGQc",
@@ -178,7 +178,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "25:31",
-            "view_count": "135283",
+            "view_count": "138563",
             "thumbnail_url": "https://i.ytimg.com/vi/wUACP7LXGQc/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "Homies - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "52036",
+            "view_count": "54550",
             "thumbnail_url": "https://i.ytimg.com/vi/hylvECwTnqM/hqdefault.jpg"
         },
         {
@@ -196,26 +196,8 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:01",
-            "view_count": "50003",
+            "view_count": "51800",
             "thumbnail_url": "https://i.ytimg.com/vi/CQ8K4almkRM/hqdefault.jpg"
-        },
-        {
-            "video_id": "aX2Ni3Xlc-E",
-            "title": "I find you",
-            "channel_name": "DOYOUNG - Topic",
-            "category": "Music",
-            "duration": "3:29",
-            "view_count": "120245",
-            "thumbnail_url": "https://i.ytimg.com/vi/aX2Ni3Xlc-E/hqdefault.jpg"
-        },
-        {
-            "video_id": "8-7fviLj8gc",
-            "title": "팀게임인데 절대 합류 안하는 애디와 팀원들ㅋㅋㅋㅋ",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "34:19",
-            "view_count": "167985",
-            "thumbnail_url": "https://i.ytimg.com/vi/8-7fviLj8gc/hqdefault.jpg"
         },
         {
             "video_id": "OzZhJ9Kyfuc",
@@ -223,17 +205,17 @@
             "channel_name": "NCT",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "109814",
+            "view_count": "115867",
             "thumbnail_url": "https://i.ytimg.com/vi/OzZhJ9Kyfuc/hqdefault.jpg"
         },
         {
-            "video_id": "7smwt39ulno",
-            "title": "알트 뱀피르 다미르 1서버 12시 오픈 오랜만에 시원하게 달려보겠습니다",
-            "channel_name": "코인왕 알트",
+            "video_id": "8-7fviLj8gc",
+            "title": "팀게임인데 절대 합류 안하는 애디와 팀원들ㅋㅋㅋㅋ",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "9:20:28",
-            "view_count": "164714",
-            "thumbnail_url": "https://i.ytimg.com/vi/7smwt39ulno/hqdefault.jpg"
+            "duration": "34:19",
+            "view_count": "173665",
+            "thumbnail_url": "https://i.ytimg.com/vi/8-7fviLj8gc/hqdefault.jpg"
         },
         {
             "video_id": "of-FAob3X9w",
@@ -241,7 +223,7 @@
             "channel_name": "CORTIS",
             "category": "Entertainment",
             "duration": "3:17",
-            "view_count": "172136",
+            "view_count": "179890",
             "thumbnail_url": "https://i.ytimg.com/vi/of-FAob3X9w/hqdefault.jpg"
         },
         {
@@ -250,8 +232,26 @@
             "channel_name": "탬탬버린",
             "category": "Gaming",
             "duration": "19:09",
-            "view_count": "144153",
+            "view_count": "149139",
             "thumbnail_url": "https://i.ytimg.com/vi/33rD8bx-9Go/hqdefault.jpg"
+        },
+        {
+            "video_id": "aX2Ni3Xlc-E",
+            "title": "I find you",
+            "channel_name": "DOYOUNG - Topic",
+            "category": "Music",
+            "duration": "3:29",
+            "view_count": "123596",
+            "thumbnail_url": "https://i.ytimg.com/vi/aX2Ni3Xlc-E/hqdefault.jpg"
+        },
+        {
+            "video_id": "OP00iK-pfSE",
+            "title": "\"레전드 사건 발생\" 한판만 지면 4층인데 하필 적으로 만난 게 서도일..?",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "21:51",
+            "view_count": "160735",
+            "thumbnail_url": "https://i.ytimg.com/vi/OP00iK-pfSE/hqdefault.jpg"
         },
         {
             "video_id": "pPUbPiFdxt0",
@@ -259,17 +259,17 @@
             "channel_name": "SUNMI - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "29640",
+            "view_count": "33318",
             "thumbnail_url": "https://i.ytimg.com/vi/pPUbPiFdxt0/hqdefault.jpg"
         },
         {
-            "video_id": "vifbmm4y2J4",
-            "title": "[ 불도그 LIVE 생방송 8/26 ] 뱀피르 오스카1 불도그vs빅보스 #넷마블 #리니지m",
-            "channel_name": "불도그",
+            "video_id": "7smwt39ulno",
+            "title": "알트 뱀피르 다미르 1서버 12시 오픈 오랜만에 시원하게 달려보겠습니다",
+            "channel_name": "코인왕 알트",
             "category": "Gaming",
-            "duration": "5:13:24",
-            "view_count": "152074",
-            "thumbnail_url": "https://i.ytimg.com/vi/vifbmm4y2J4/hqdefault.jpg"
+            "duration": "9:20:28",
+            "view_count": "165397",
+            "thumbnail_url": "https://i.ytimg.com/vi/7smwt39ulno/hqdefault.jpg"
         },
         {
             "video_id": "7jzR4FVzodc",
@@ -277,7 +277,7 @@
             "channel_name": "Ge mc - Topic",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "44855",
+            "view_count": "47995",
             "thumbnail_url": "https://i.ytimg.com/vi/7jzR4FVzodc/hqdefault.jpg"
         },
         {
@@ -286,26 +286,8 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "26:31",
-            "view_count": "107856",
+            "view_count": "110885",
             "thumbnail_url": "https://i.ytimg.com/vi/gO82V9ZeB3I/hqdefault.jpg"
-        },
-        {
-            "video_id": "j1nGD_42pLQ",
-            "title": "Antidote",
-            "channel_name": "Shannon K - Topic",
-            "category": "Music",
-            "duration": "3:08",
-            "view_count": "358398",
-            "thumbnail_url": "https://i.ytimg.com/vi/j1nGD_42pLQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "YeWS0myDwNg",
-            "title": "최상급 시크릿과 2만 로벅스로 신규 합체시크릿 뽑기!! 새로운 유령시크릿도 멋지네 ㄷㄷ;; (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "21:16",
-            "view_count": "345883",
-            "thumbnail_url": "https://i.ytimg.com/vi/YeWS0myDwNg/hqdefault.jpg"
         },
         {
             "video_id": "8EUQpHdwpd0",
@@ -313,8 +295,26 @@
             "channel_name": "ZEROBASEONE",
             "category": "Music",
             "duration": "4:28",
-            "view_count": "65387",
+            "view_count": "68994",
             "thumbnail_url": "https://i.ytimg.com/vi/8EUQpHdwpd0/hqdefault.jpg"
+        },
+        {
+            "video_id": "vifbmm4y2J4",
+            "title": "[ 불도그 LIVE 생방송 8/26 ] 뱀피르 오스카1 불도그vs빅보스 #넷마블 #리니지m",
+            "channel_name": "불도그",
+            "category": "Gaming",
+            "duration": "5:13:24",
+            "view_count": "152222",
+            "thumbnail_url": "https://i.ytimg.com/vi/vifbmm4y2J4/hqdefault.jpg"
+        },
+        {
+            "video_id": "j1nGD_42pLQ",
+            "title": "Antidote",
+            "channel_name": "Shannon K - Topic",
+            "category": "Music",
+            "duration": "3:08",
+            "view_count": "360508",
+            "thumbnail_url": "https://i.ytimg.com/vi/j1nGD_42pLQ/hqdefault.jpg"
         },
         {
             "video_id": "UzNmAgV5PWM",
@@ -322,7 +322,7 @@
             "channel_name": "발__젭",
             "category": "Gaming",
             "duration": "13:32",
-            "view_count": "168555",
+            "view_count": "171343",
             "thumbnail_url": "https://i.ytimg.com/vi/UzNmAgV5PWM/hqdefault.jpg"
         },
         {
@@ -331,17 +331,17 @@
             "channel_name": "Kim Suyoung - Topic",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "47494",
+            "view_count": "48670",
             "thumbnail_url": "https://i.ytimg.com/vi/8p_CPq4IO2U/hqdefault.jpg"
         },
         {
-            "video_id": "OP00iK-pfSE",
-            "title": "\"레전드 사건 발생\" 한판만 지면 4층인데 하필 적으로 만난 게 서도일..?",
-            "channel_name": "이상호",
+            "video_id": "YeWS0myDwNg",
+            "title": "최상급 시크릿과 2만 로벅스로 신규 합체시크릿 뽑기!! 새로운 유령시크릿도 멋지네 ㄷㄷ;; (로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
             "category": "Gaming",
-            "duration": "21:51",
-            "view_count": "153194",
-            "thumbnail_url": "https://i.ytimg.com/vi/OP00iK-pfSE/hqdefault.jpg"
+            "duration": "21:16",
+            "view_count": "346719",
+            "thumbnail_url": "https://i.ytimg.com/vi/YeWS0myDwNg/hqdefault.jpg"
         },
         {
             "video_id": "2CkOGIMlMtE",
@@ -349,7 +349,7 @@
             "channel_name": "BE:FIRST - Topic",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "360193",
+            "view_count": "366103",
             "thumbnail_url": "https://i.ytimg.com/vi/2CkOGIMlMtE/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "이모네",
             "category": "Gaming",
             "duration": "9:33:32",
-            "view_count": "43594",
+            "view_count": "43785",
             "thumbnail_url": "https://i.ytimg.com/vi/xi515jou5mE/hqdefault.jpg"
         },
         {
@@ -367,17 +367,17 @@
             "channel_name": "한국음악TV",
             "category": "Music",
             "duration": "5:41",
-            "view_count": "23736",
+            "view_count": "24518",
             "thumbnail_url": "https://i.ytimg.com/vi/8hHeKxtIvDA/hqdefault.jpg"
         },
         {
-            "video_id": "bKMG5oucSf0",
-            "title": "[ 8. 26 live ] 뱀피르 : 2부 모아르테2서버 12시 오픈, 만만형 빚쟁이 만들게요. [ 수삼티비 ]",
-            "channel_name": "수삼티비",
+            "video_id": "PC5yABEZYbU",
+            "title": "무력 1황 DP【GTA 여우도시 12화】",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "3:52:50",
-            "view_count": "105280",
-            "thumbnail_url": "https://i.ytimg.com/vi/bKMG5oucSf0/hqdefault.jpg"
+            "duration": "25:41",
+            "view_count": "72029",
+            "thumbnail_url": "https://i.ytimg.com/vi/PC5yABEZYbU/hqdefault.jpg"
         }
     ]
 }
