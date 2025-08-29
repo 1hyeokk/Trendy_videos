@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-08-30 07:18:50",
+    "scraped_time": "2025-08-30 08:18:41",
     "videos": [
         {
             "video_id": "sFK89gemgKM",
@@ -7,7 +7,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "602740",
+            "view_count": "612500",
             "thumbnail_url": "https://i.ytimg.com/vi/sFK89gemgKM/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:50",
-            "view_count": "400547",
+            "view_count": "401521",
             "thumbnail_url": "https://i.ytimg.com/vi/Kd8cu0BUgKE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:44:46",
-            "view_count": "1289097",
+            "view_count": "1289560",
             "thumbnail_url": "https://i.ytimg.com/vi/_0fZO0LoEQo/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "436482",
+            "view_count": "438816",
             "thumbnail_url": "https://i.ytimg.com/vi/e4iG9uNPdYA/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "10:13",
-            "view_count": "541899",
+            "view_count": "543389",
             "thumbnail_url": "https://i.ytimg.com/vi/u3jzVTmz_UM/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "24:07",
-            "view_count": "255086",
+            "view_count": "259428",
             "thumbnail_url": "https://i.ytimg.com/vi/1jzaarVga2E/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "574990",
+            "view_count": "601255",
             "thumbnail_url": "https://i.ytimg.com/vi/xM2KfRILE9w/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "CJ ENM Movie",
             "category": "Film & Animation",
             "duration": "1:26",
-            "view_count": "148979",
+            "view_count": "149768",
             "thumbnail_url": "https://i.ytimg.com/vi/h4XcrJDBXeM/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "32:35",
-            "view_count": "184237",
+            "view_count": "187800",
             "thumbnail_url": "https://i.ytimg.com/vi/OMA7MxZDLxk/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "0:26",
-            "view_count": "64335",
+            "view_count": "66431",
             "thumbnail_url": "https://i.ytimg.com/vi/RsmUo83x8F4/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "1:55",
-            "view_count": "92130",
+            "view_count": "94062",
             "thumbnail_url": "https://i.ytimg.com/vi/CHXKOpj5LRA/hqdefault.jpg"
-        },
-        {
-            "video_id": "PLc6sSYN8_I",
-            "title": "마크 대형서버 점프맵에서 한국 1위 찍었습니다 ( 이걸 왜 못깨지? )",
-            "channel_name": "악동 김블루",
-            "category": "Gaming",
-            "duration": "29:54",
-            "view_count": "176146",
-            "thumbnail_url": "https://i.ytimg.com/vi/PLc6sSYN8_I/hqdefault.jpg"
-        },
-        {
-            "video_id": "y7CrvsCIjyo",
-            "title": "Soda Pop",
-            "channel_name": "Saja Boys - Topic",
-            "category": "Music",
-            "duration": "2:31",
-            "view_count": "718681",
-            "thumbnail_url": "https://i.ytimg.com/vi/y7CrvsCIjyo/hqdefault.jpg"
         },
         {
             "video_id": "e-aT8kCJwIY",
@@ -124,8 +106,26 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "26:00",
-            "view_count": "211336",
+            "view_count": "218136",
             "thumbnail_url": "https://i.ytimg.com/vi/e-aT8kCJwIY/hqdefault.jpg"
+        },
+        {
+            "video_id": "y7CrvsCIjyo",
+            "title": "Soda Pop",
+            "channel_name": "Saja Boys - Topic",
+            "category": "Music",
+            "duration": "2:31",
+            "view_count": "748834",
+            "thumbnail_url": "https://i.ytimg.com/vi/y7CrvsCIjyo/hqdefault.jpg"
+        },
+        {
+            "video_id": "PLc6sSYN8_I",
+            "title": "마크 대형서버 점프맵에서 한국 1위 찍었습니다 ( 이걸 왜 못깨지? )",
+            "channel_name": "악동 김블루",
+            "category": "Gaming",
+            "duration": "29:54",
+            "view_count": "179097",
+            "thumbnail_url": "https://i.ytimg.com/vi/PLc6sSYN8_I/hqdefault.jpg"
         },
         {
             "video_id": "iXEbk1YXTRw",
@@ -133,7 +133,7 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "2:36",
-            "view_count": "73468",
+            "view_count": "74643",
             "thumbnail_url": "https://i.ytimg.com/vi/iXEbk1YXTRw/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "원신",
             "category": "Entertainment",
             "duration": "2:07:34",
-            "view_count": "152634",
+            "view_count": "153350",
             "thumbnail_url": "https://i.ytimg.com/vi/HtaYMl7_ISQ/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "1223753",
+            "view_count": "1226994",
             "thumbnail_url": "https://i.ytimg.com/vi/QMGkDbcwDxY/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "27:15",
-            "view_count": "162851",
+            "view_count": "163768",
             "thumbnail_url": "https://i.ytimg.com/vi/HwAbX9d2WFk/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "10468657",
+            "view_count": "10481479",
             "thumbnail_url": "https://i.ytimg.com/vi/B1ShLiq3EVc/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:12",
-            "view_count": "173702",
+            "view_count": "175838",
             "thumbnail_url": "https://i.ytimg.com/vi/6DIBM0PLvos/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "크러쉬 - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "86339",
+            "view_count": "86897",
             "thumbnail_url": "https://i.ytimg.com/vi/bR5REzaEFSY/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:17:52",
-            "view_count": "296313",
+            "view_count": "297024",
             "thumbnail_url": "https://i.ytimg.com/vi/xGLA6_e2uXU/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "Homies - Topic",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "65571",
+            "view_count": "66029",
             "thumbnail_url": "https://i.ytimg.com/vi/Y3riPIRAYdg/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "38:27",
-            "view_count": "217164",
+            "view_count": "217776",
             "thumbnail_url": "https://i.ytimg.com/vi/OiHtJHZAODI/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "송소희 [Official]",
             "category": "Music",
             "duration": "3:53",
-            "view_count": "97491",
+            "view_count": "98198",
             "thumbnail_url": "https://i.ytimg.com/vi/RQDAkt4M-Z4/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "30:54",
-            "view_count": "300248",
+            "view_count": "301095",
             "thumbnail_url": "https://i.ytimg.com/vi/lABNCERL6VU/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "So Soo Bin - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "46863",
+            "view_count": "47457",
             "thumbnail_url": "https://i.ytimg.com/vi/afyIijncMDg/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "42:09",
-            "view_count": "125438",
+            "view_count": "126019",
             "thumbnail_url": "https://i.ytimg.com/vi/_zE3bEdb0nU/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "aespa",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "1005271",
+            "view_count": "1008371",
             "thumbnail_url": "https://i.ytimg.com/vi/Od5eCT72uoI/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "30:28",
-            "view_count": "258378",
+            "view_count": "258936",
             "thumbnail_url": "https://i.ytimg.com/vi/qUIM-fIbpnc/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "SabrinaCarpenterVEVO",
             "category": "Music",
             "duration": "5:01",
-            "view_count": "6894170",
+            "view_count": "7177348",
             "thumbnail_url": "https://i.ytimg.com/vi/V9vuCByb6js/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "17:32",
-            "view_count": "105851",
+            "view_count": "108039",
             "thumbnail_url": "https://i.ytimg.com/vi/q_UZ4zwXDOo/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "머쉬베놈",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "188448",
+            "view_count": "189647",
             "thumbnail_url": "https://i.ytimg.com/vi/8KnuebBOtsQ/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:59",
-            "view_count": "255599",
+            "view_count": "255984",
             "thumbnail_url": "https://i.ytimg.com/vi/IgiKHPnp5iA/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "NCT",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "263743",
+            "view_count": "265087",
             "thumbnail_url": "https://i.ytimg.com/vi/umVi_Ql8egY/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "인피쉰",
             "category": "Gaming",
             "duration": "5:07:28",
-            "view_count": "102531",
+            "view_count": "103191",
             "thumbnail_url": "https://i.ytimg.com/vi/rzB623OtNtQ/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "Lee Seok Hoon - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "36624",
+            "view_count": "36737",
             "thumbnail_url": "https://i.ytimg.com/vi/3araqZY-Ebg/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "36:39",
-            "view_count": "99639",
+            "view_count": "102060",
             "thumbnail_url": "https://i.ytimg.com/vi/ia1VmAYBdl8/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "SEIN - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "143529",
+            "view_count": "143924",
             "thumbnail_url": "https://i.ytimg.com/vi/Uxxdmzg-R94/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "집사TV",
             "category": "Gaming",
             "duration": "12:23",
-            "view_count": "221522",
+            "view_count": "221824",
             "thumbnail_url": "https://i.ytimg.com/vi/zK75Mxb4JwU/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "MIYEON - Topic",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "18665",
+            "view_count": "18911",
             "thumbnail_url": "https://i.ytimg.com/vi/CWoFsfhn8-4/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "24:25",
-            "view_count": "103088",
+            "view_count": "105057",
             "thumbnail_url": "https://i.ytimg.com/vi/93OxVbYN230/hqdefault.jpg"
         }
     ]
