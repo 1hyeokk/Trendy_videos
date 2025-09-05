@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-05 22:28:10",
+    "scraped_time": "2025-09-05 23:18:39",
     "videos": [
         {
             "video_id": "5oQVTnq-UKk",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "7042804",
+            "view_count": "8127646",
             "thumbnail_url": "https://i.ytimg.com/vi/5oQVTnq-UKk/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "8:27",
-            "view_count": "148133",
+            "view_count": "150237",
             "thumbnail_url": "https://i.ytimg.com/vi/2nSv7Y_f9uc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "4:25:35",
-            "view_count": "1069261",
+            "view_count": "1073614",
             "thumbnail_url": "https://i.ytimg.com/vi/e2BqqTzznx8/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "283526",
+            "view_count": "307961",
             "thumbnail_url": "https://i.ytimg.com/vi/WAQ5_7YFAVo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:24",
-            "view_count": "48445",
+            "view_count": "49931",
             "thumbnail_url": "https://i.ytimg.com/vi/rcUaOEu1fmQ/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "24:13",
-            "view_count": "415613",
+            "view_count": "419844",
             "thumbnail_url": "https://i.ytimg.com/vi/GSwOKmmETuw/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "317517",
+            "view_count": "392036",
             "thumbnail_url": "https://i.ytimg.com/vi/-N-pmPKS-bE/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "1:42",
-            "view_count": "498119",
+            "view_count": "499368",
             "thumbnail_url": "https://i.ytimg.com/vi/NkbjgNh06bQ/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "39:11",
-            "view_count": "215389",
+            "view_count": "224054",
             "thumbnail_url": "https://i.ytimg.com/vi/wfLT31hCv_I/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "DAY6 - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "39003",
+            "view_count": "46511",
             "thumbnail_url": "https://i.ytimg.com/vi/WNJdZqyugg4/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "25:32",
-            "view_count": "130657",
+            "view_count": "149105",
             "thumbnail_url": "https://i.ytimg.com/vi/JomJtm_Tjao/hqdefault.jpg"
         },
         {
@@ -106,26 +106,8 @@
             "channel_name": "Jung Seung Hwan - Topic",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "180186",
+            "view_count": "183621",
             "thumbnail_url": "https://i.ytimg.com/vi/dVOLIfuWbN0/hqdefault.jpg"
-        },
-        {
-            "video_id": "aCrl_jqswZY",
-            "title": "[리니지M] 광전사 리부트 BURNING HEART (Teaser)",
-            "channel_name": "Lineage M",
-            "category": "Gaming",
-            "duration": "0:16",
-            "view_count": "1068894",
-            "thumbnail_url": "https://i.ytimg.com/vi/aCrl_jqswZY/hqdefault.jpg"
-        },
-        {
-            "video_id": "C-CYwNz3z8w",
-            "title": "DECO*27 - モニタリング (Best Friend Remix) feat. 初音ミク",
-            "channel_name": "DECO*27",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "429267",
-            "thumbnail_url": "https://i.ytimg.com/vi/C-CYwNz3z8w/hqdefault.jpg"
         },
         {
             "video_id": "8n4a1FJua7A",
@@ -133,8 +115,26 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "37:26",
-            "view_count": "88817",
+            "view_count": "105450",
             "thumbnail_url": "https://i.ytimg.com/vi/8n4a1FJua7A/hqdefault.jpg"
+        },
+        {
+            "video_id": "C-CYwNz3z8w",
+            "title": "DECO*27 - モニタリング (Best Friend Remix) feat. 初音ミク",
+            "channel_name": "DECO*27",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "596875",
+            "thumbnail_url": "https://i.ytimg.com/vi/C-CYwNz3z8w/hqdefault.jpg"
+        },
+        {
+            "video_id": "aCrl_jqswZY",
+            "title": "[리니지M] 광전사 리부트 BURNING HEART (Teaser)",
+            "channel_name": "Lineage M",
+            "category": "Gaming",
+            "duration": "0:16",
+            "view_count": "1095007",
+            "thumbnail_url": "https://i.ytimg.com/vi/aCrl_jqswZY/hqdefault.jpg"
         },
         {
             "video_id": "S6SKUwQFxgM",
@@ -142,7 +142,7 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "73996",
+            "view_count": "76089",
             "thumbnail_url": "https://i.ytimg.com/vi/S6SKUwQFxgM/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "36:47",
-            "view_count": "240643",
+            "view_count": "244712",
             "thumbnail_url": "https://i.ytimg.com/vi/ORkV_Irtz5I/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "Justin Bieber - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "216671",
+            "view_count": "250139",
             "thumbnail_url": "https://i.ytimg.com/vi/4BsBpOCaTrA/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "31:35",
-            "view_count": "77186",
+            "view_count": "86234",
             "thumbnail_url": "https://i.ytimg.com/vi/cjC6rUQNNXc/hqdefault.jpg"
         },
         {
@@ -178,16 +178,16 @@
             "channel_name": "KID WINE - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "27935",
+            "view_count": "28264",
             "thumbnail_url": "https://i.ytimg.com/vi/khiUF-89y8A/hqdefault.jpg"
         },
         {
             "video_id": "PD8DbXrVQ_0",
-            "title": "불량간식, 콩알탄, xx딱지? 그 시절 추억 소환하는 문방구 술래잡기",
+            "title": "콩알탄 터뜨리며 도망가던 그 시절 문방구 술래잡기",
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "32:55",
-            "view_count": "78649",
+            "view_count": "88722",
             "thumbnail_url": "https://i.ytimg.com/vi/PD8DbXrVQ_0/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "639525",
+            "view_count": "643614",
             "thumbnail_url": "https://i.ytimg.com/vi/r4RQR3OHXqg/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "25:26",
-            "view_count": "111556",
+            "view_count": "119223",
             "thumbnail_url": "https://i.ytimg.com/vi/EgYPkYS_Dps/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "20 Years of Age - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "32382",
+            "view_count": "32828",
             "thumbnail_url": "https://i.ytimg.com/vi/6-wpD2Kqr4Q/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "12:37",
-            "view_count": "65609",
+            "view_count": "75739",
             "thumbnail_url": "https://i.ytimg.com/vi/fOunOCn_DS0/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "LANY - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "30065",
+            "view_count": "32090",
             "thumbnail_url": "https://i.ytimg.com/vi/gU1xu9WRd_Y/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "ProjectMoon Official",
             "category": "Gaming",
             "duration": "1:21",
-            "view_count": "156907",
+            "view_count": "176906",
             "thumbnail_url": "https://i.ytimg.com/vi/p9JIbB0afEM/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "Rubyeye - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "691621",
+            "view_count": "698563",
             "thumbnail_url": "https://i.ytimg.com/vi/lzJqhsWfSgs/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "행돌",
             "category": "Gaming",
             "duration": "13:17",
-            "view_count": "105487",
+            "view_count": "109210",
             "thumbnail_url": "https://i.ytimg.com/vi/mHwWQMB5EbM/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "Unique Vibes",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "388137",
+            "view_count": "395229",
             "thumbnail_url": "https://i.ytimg.com/vi/jhnYH3PkUik/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "14:40",
-            "view_count": "130332",
+            "view_count": "131921",
             "thumbnail_url": "https://i.ytimg.com/vi/D0AY6vDf49Q/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "homezone - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "58405",
+            "view_count": "58981",
             "thumbnail_url": "https://i.ytimg.com/vi/MhxInbmOGSE/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "48:16",
-            "view_count": "126993",
+            "view_count": "128159",
             "thumbnail_url": "https://i.ytimg.com/vi/Q2SgyqJt3Lo/hqdefault.jpg"
         },
         {
@@ -304,26 +304,8 @@
             "channel_name": "KANGDANIEL - Topic",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "62532",
+            "view_count": "63727",
             "thumbnail_url": "https://i.ytimg.com/vi/ySBbP3Bj6dE/hqdefault.jpg"
-        },
-        {
-            "video_id": "XBzzJYA3mAA",
-            "title": "감스트 GTA5 내가 진짜 '김인직' 이라고!!",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "35:28",
-            "view_count": "446390",
-            "thumbnail_url": "https://i.ytimg.com/vi/XBzzJYA3mAA/hqdefault.jpg"
-        },
-        {
-            "video_id": "EadoChBE4PY",
-            "title": "Hirune (Nap)",
-            "channel_name": "Seo In Guk - Topic",
-            "category": "Music",
-            "duration": "3:15",
-            "view_count": "12482",
-            "thumbnail_url": "https://i.ytimg.com/vi/EadoChBE4PY/hqdefault.jpg"
         },
         {
             "video_id": "t0fw8tppme4",
@@ -331,7 +313,7 @@
             "channel_name": "꼬예유의 로블록스 저장소",
             "category": "Gaming",
             "duration": "14:30",
-            "view_count": "80991",
+            "view_count": "87467",
             "thumbnail_url": "https://i.ytimg.com/vi/t0fw8tppme4/hqdefault.jpg"
         },
         {
@@ -340,7 +322,7 @@
             "channel_name": "Fujii Kaze",
             "category": "Music",
             "duration": "4:34",
-            "view_count": "568023",
+            "view_count": "607000",
             "thumbnail_url": "https://i.ytimg.com/vi/UJgPpzZcxGU/hqdefault.jpg"
         },
         {
@@ -349,17 +331,35 @@
             "channel_name": "흔한남매",
             "category": "Entertainment",
             "duration": "14:31",
-            "view_count": "83021",
+            "view_count": "93418",
             "thumbnail_url": "https://i.ytimg.com/vi/8REFa7wSZz4/hqdefault.jpg"
         },
         {
-            "video_id": "Ca0L6sfaT80",
-            "title": "Molly Yam - TIKTOKSTA Remix (feat. 200, k4ton, 율음, 강혁, STB) [Official Video]",
-            "channel_name": "Molly Yam",
+            "video_id": "EadoChBE4PY",
+            "title": "Hirune (Nap)",
+            "channel_name": "Seo In Guk - Topic",
             "category": "Music",
-            "duration": "4:47",
-            "view_count": "25694",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ca0L6sfaT80/hqdefault.jpg"
+            "duration": "3:15",
+            "view_count": "12663",
+            "thumbnail_url": "https://i.ytimg.com/vi/EadoChBE4PY/hqdefault.jpg"
+        },
+        {
+            "video_id": "XBzzJYA3mAA",
+            "title": "감스트 GTA5 내가 진짜 '김인직' 이라고!!",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "35:28",
+            "view_count": "448817",
+            "thumbnail_url": "https://i.ytimg.com/vi/XBzzJYA3mAA/hqdefault.jpg"
+        },
+        {
+            "video_id": "bzqyz5R-acY",
+            "title": "Saja Boys (Kpop Demon Hunters) 'Soda Pop' (Color Coded Lyrics)",
+            "channel_name": "Ricksoft",
+            "category": "Music",
+            "duration": "2:31",
+            "view_count": "178790",
+            "thumbnail_url": "https://i.ytimg.com/vi/bzqyz5R-acY/hqdefault.jpg"
         },
         {
             "video_id": "AQW1w9MrC5w",
@@ -367,7 +367,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "14:46",
-            "view_count": "87197",
+            "view_count": "91297",
             "thumbnail_url": "https://i.ytimg.com/vi/AQW1w9MrC5w/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "Coogie - Topic",
             "category": "Music",
             "duration": "2:09",
-            "view_count": "16324",
+            "view_count": "16646",
             "thumbnail_url": "https://i.ytimg.com/vi/F-h6JN3-0qg/hqdefault.jpg"
         }
     ]
