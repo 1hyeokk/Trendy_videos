@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-08 15:32:44",
+    "scraped_time": "2025-09-08 16:20:51",
     "videos": [
         {
             "video_id": "WAQ5_7YFAVo",
@@ -7,7 +7,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "2434933",
+            "view_count": "2478031",
             "thumbnail_url": "https://i.ytimg.com/vi/WAQ5_7YFAVo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "3:42:10",
-            "view_count": "1213864",
+            "view_count": "1214295",
             "thumbnail_url": "https://i.ytimg.com/vi/N2IIb1NVJsY/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "24290050",
+            "view_count": "24326248",
             "thumbnail_url": "https://i.ytimg.com/vi/5oQVTnq-UKk/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "24:38",
-            "view_count": "347005",
+            "view_count": "353982",
             "thumbnail_url": "https://i.ytimg.com/vi/hB5rpIVj7Xk/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "DAY6 - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "512124",
+            "view_count": "520343",
             "thumbnail_url": "https://i.ytimg.com/vi/WNJdZqyugg4/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "27:08",
-            "view_count": "263718",
+            "view_count": "269588",
             "thumbnail_url": "https://i.ytimg.com/vi/5zji02jiu7U/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "DECO*27",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "5204590",
+            "view_count": "5239790",
             "thumbnail_url": "https://i.ytimg.com/vi/C-CYwNz3z8w/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "45:01",
-            "view_count": "200904",
+            "view_count": "204864",
             "thumbnail_url": "https://i.ytimg.com/vi/46xEnPA9JjA/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "2004873",
+            "view_count": "2038590",
             "thumbnail_url": "https://i.ytimg.com/vi/hZ6pts6e8dI/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "28:10",
-            "view_count": "349934",
+            "view_count": "352321",
             "thumbnail_url": "https://i.ytimg.com/vi/EKJovSeg34c/hqdefault.jpg"
-        },
-        {
-            "video_id": "4BsBpOCaTrA",
-            "title": "SPEED DEMON",
-            "channel_name": "Justin Bieber - Topic",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "1282977",
-            "thumbnail_url": "https://i.ytimg.com/vi/4BsBpOCaTrA/hqdefault.jpg"
-        },
-        {
-            "video_id": "J346qkwTAWc",
-            "title": "브레인롯을 합쳐서 새로운 시크릿을 만드는 업뎃!! 바로 크래프트 시크릿들 만들어보기!!! (로블록스 브레인롯훔치기)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "20:05",
-            "view_count": "309891",
-            "thumbnail_url": "https://i.ytimg.com/vi/J346qkwTAWc/hqdefault.jpg"
         },
         {
             "video_id": "-pcSGbyQlhI",
@@ -115,8 +97,26 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "0:21",
-            "view_count": "279780",
+            "view_count": "285391",
             "thumbnail_url": "https://i.ytimg.com/vi/-pcSGbyQlhI/hqdefault.jpg"
+        },
+        {
+            "video_id": "J346qkwTAWc",
+            "title": "브레인롯을 합쳐서 새로운 시크릿을 만드는 업뎃!! 바로 크래프트 시크릿들 만들어보기!!! (로블록스 브레인롯훔치기)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "20:05",
+            "view_count": "312156",
+            "thumbnail_url": "https://i.ytimg.com/vi/J346qkwTAWc/hqdefault.jpg"
+        },
+        {
+            "video_id": "4BsBpOCaTrA",
+            "title": "SPEED DEMON",
+            "channel_name": "Justin Bieber - Topic",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "1289182",
+            "thumbnail_url": "https://i.ytimg.com/vi/4BsBpOCaTrA/hqdefault.jpg"
         },
         {
             "video_id": "uPiSBlXuc8c",
@@ -124,7 +124,7 @@
             "channel_name": "아이템의 인벤토리",
             "category": "Entertainment",
             "duration": "13:45",
-            "view_count": "255012",
+            "view_count": "258504",
             "thumbnail_url": "https://i.ytimg.com/vi/uPiSBlXuc8c/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "UmYull - Topic",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "44605",
+            "view_count": "46060",
             "thumbnail_url": "https://i.ytimg.com/vi/oShpTlu_sqQ/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "24:59",
-            "view_count": "156574",
+            "view_count": "158760",
             "thumbnail_url": "https://i.ytimg.com/vi/lxe0_HaCxDI/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "962194",
+            "view_count": "964189",
             "thumbnail_url": "https://i.ytimg.com/vi/AGJ0N2mN9xo/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "30:03",
-            "view_count": "167401",
+            "view_count": "169422",
             "thumbnail_url": "https://i.ytimg.com/vi/IrzqN8nPPrI/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "DK - Topic",
             "category": "Music",
             "duration": "5:39",
-            "view_count": "12753",
+            "view_count": "13548",
             "thumbnail_url": "https://i.ytimg.com/vi/ySTOtt6GC6c/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "34:26",
-            "view_count": "136160",
+            "view_count": "138254",
             "thumbnail_url": "https://i.ytimg.com/vi/pnWogEc_a0o/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "The Kid Laroi - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "301669",
+            "view_count": "305790",
             "thumbnail_url": "https://i.ytimg.com/vi/Vgpv5PtWsn4/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "당신이 몰랐던 이야기",
             "category": "Entertainment",
             "duration": "17:54",
-            "view_count": "1153178",
+            "view_count": "1161928",
             "thumbnail_url": "https://i.ytimg.com/vi/lM8XdnVHxGw/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "207140",
+            "view_count": "208734",
             "thumbnail_url": "https://i.ytimg.com/vi/gtiqp3M1TLU/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "13:43",
-            "view_count": "158730",
+            "view_count": "160622",
             "thumbnail_url": "https://i.ytimg.com/vi/4cZC-B8Uk-k/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "Jung Seung Hwan - Topic",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "396828",
+            "view_count": "401366",
             "thumbnail_url": "https://i.ytimg.com/vi/dVOLIfuWbN0/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "40:57",
-            "view_count": "154483",
+            "view_count": "156305",
             "thumbnail_url": "https://i.ytimg.com/vi/Sy-LEC-kjmE/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "Saja Boys - Topic",
             "category": "Music",
             "duration": "2:31",
-            "view_count": "393932",
+            "view_count": "399764",
             "thumbnail_url": "https://i.ytimg.com/vi/tEh9yATC8Bs/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "FORMULA 1",
             "category": "Sports",
             "duration": "8:11",
-            "view_count": "3638585",
+            "view_count": "3722950",
             "thumbnail_url": "https://i.ytimg.com/vi/kGMp1Byuwto/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "Bily Acoustie - Topic",
             "category": "Music",
             "duration": "4:22",
-            "view_count": "10079",
+            "view_count": "10708",
             "thumbnail_url": "https://i.ytimg.com/vi/qTUBLH3DtsQ/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "14:04",
-            "view_count": "158888",
+            "view_count": "160635",
             "thumbnail_url": "https://i.ytimg.com/vi/K3XdDEZ3FPo/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "MUSIC&NEW 뮤직앤뉴",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "4173",
+            "view_count": "4273",
             "thumbnail_url": "https://i.ytimg.com/vi/98GnzuS-3C0/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "탬탬버린",
             "category": "Gaming",
             "duration": "24:54",
-            "view_count": "141979",
+            "view_count": "143756",
             "thumbnail_url": "https://i.ytimg.com/vi/DAZcyp_JzaU/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "MICO - Topic",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "108843",
+            "view_count": "109586",
             "thumbnail_url": "https://i.ytimg.com/vi/NUvkuVreNG8/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "다주",
             "category": "Gaming",
             "duration": "20:11",
-            "view_count": "168271",
+            "view_count": "172069",
             "thumbnail_url": "https://i.ytimg.com/vi/0zug0_chwQ4/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "189180",
+            "view_count": "190835",
             "thumbnail_url": "https://i.ytimg.com/vi/S6SKUwQFxgM/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "44:34",
-            "view_count": "238031",
+            "view_count": "238667",
             "thumbnail_url": "https://i.ytimg.com/vi/UINyakCOKKk/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "Do Won Kyung - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "13067",
+            "view_count": "13186",
             "thumbnail_url": "https://i.ytimg.com/vi/UAmRJwbbq80/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "41:29",
-            "view_count": "96417",
+            "view_count": "97895",
             "thumbnail_url": "https://i.ytimg.com/vi/fOQy_vH35pc/hqdefault.jpg"
         },
         {
@@ -349,17 +349,17 @@
             "channel_name": "KATSEYE - Topic",
             "category": "Music",
             "duration": "5:01",
-            "view_count": "570096",
+            "view_count": "577024",
             "thumbnail_url": "https://i.ytimg.com/vi/yUuWpGZOFEg/hqdefault.jpg"
         },
         {
-            "video_id": "koQpc0d8WAU",
-            "title": "스트리머를 이적시키는 정답만 보고 문제 만들기ㅋㅋㅋ",
-            "channel_name": "왈도쿤",
+            "video_id": "lkhVHxOrmn8",
+            "title": "SNL 김규원 본캐 6000조 새팀 갑니다 실력최초 공개!",
+            "channel_name": "두치와뿌꾸",
             "category": "Gaming",
-            "duration": "24:06",
-            "view_count": "197102",
-            "thumbnail_url": "https://i.ytimg.com/vi/koQpc0d8WAU/hqdefault.jpg"
+            "duration": "17:32",
+            "view_count": "43122",
+            "thumbnail_url": "https://i.ytimg.com/vi/lkhVHxOrmn8/hqdefault.jpg"
         },
         {
             "video_id": "bdUsNkfHlmQ",
@@ -367,17 +367,17 @@
             "channel_name": "탑현월드 Tophyun World",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "33622",
+            "view_count": "34259",
             "thumbnail_url": "https://i.ytimg.com/vi/bdUsNkfHlmQ/hqdefault.jpg"
         },
         {
-            "video_id": "zPPjh7eOsfE",
-            "title": "| 일타봉쌤 | 클래스별 티어리스트 정리! 봉쌤의 스쿼드 잘 짜는 방법 | 25년 여름 시즌",
-            "channel_name": "FC 온라인 Esports",
+            "video_id": "koQpc0d8WAU",
+            "title": "스트리머를 이적시키는 정답만 보고 문제 만들기ㅋㅋㅋ",
+            "channel_name": "왈도쿤",
             "category": "Gaming",
-            "duration": "19:37",
-            "view_count": "64646",
-            "thumbnail_url": "https://i.ytimg.com/vi/zPPjh7eOsfE/hqdefault.jpg"
+            "duration": "24:06",
+            "view_count": "197773",
+            "thumbnail_url": "https://i.ytimg.com/vi/koQpc0d8WAU/hqdefault.jpg"
         }
     ]
 }
