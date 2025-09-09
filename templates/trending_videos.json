@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-09 13:25:18",
+    "scraped_time": "2025-09-09 14:20:03",
     "videos": [
         {
             "video_id": "pqMCgfnBx74",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "1020680",
+            "view_count": "1057178",
             "thumbnail_url": "https://i.ytimg.com/vi/pqMCgfnBx74/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:01",
-            "view_count": "35254",
+            "view_count": "64622",
             "thumbnail_url": "https://i.ytimg.com/vi/14C4mU2KLIQ/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "25:27",
-            "view_count": "366586",
+            "view_count": "374260",
             "thumbnail_url": "https://i.ytimg.com/vi/wMz9CwJ0YZc/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "3347805",
+            "view_count": "3391614",
             "thumbnail_url": "https://i.ytimg.com/vi/WAQ5_7YFAVo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "27:16",
-            "view_count": "283404",
+            "view_count": "292809",
             "thumbnail_url": "https://i.ytimg.com/vi/EFYvfRBi25I/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "1256848",
+            "view_count": "1297664",
             "thumbnail_url": "https://i.ytimg.com/vi/42wfEs7oIP8/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "3:42:10",
-            "view_count": "1218933",
+            "view_count": "1219158",
             "thumbnail_url": "https://i.ytimg.com/vi/N2IIb1NVJsY/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "CORTIS - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "182952",
+            "view_count": "193867",
             "thumbnail_url": "https://i.ytimg.com/vi/7wJsfALKRR8/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:35",
-            "view_count": "149886",
+            "view_count": "154852",
             "thumbnail_url": "https://i.ytimg.com/vi/QdG1PLKPgEg/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "DAY6 - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "698929",
+            "view_count": "709290",
             "thumbnail_url": "https://i.ytimg.com/vi/WNJdZqyugg4/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "12:16",
-            "view_count": "223897",
+            "view_count": "231017",
             "thumbnail_url": "https://i.ytimg.com/vi/MVRTYio-XGU/hqdefault.jpg"
         },
         {
@@ -106,26 +106,8 @@
             "channel_name": "DECO*27",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "6273508",
+            "view_count": "6310616",
             "thumbnail_url": "https://i.ytimg.com/vi/C-CYwNz3z8w/hqdefault.jpg"
-        },
-        {
-            "video_id": "lkhVHxOrmn8",
-            "title": "SNL 김규원 본캐 6000조 새팀 갑니다 실력최초 공개!",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "17:32",
-            "view_count": "135057",
-            "thumbnail_url": "https://i.ytimg.com/vi/lkhVHxOrmn8/hqdefault.jpg"
-        },
-        {
-            "video_id": "HAJ_06-eTbk",
-            "title": "HAECHAN 해찬 'Camera Lights' | TASTE Playlist",
-            "channel_name": "NCT",
-            "category": "Music",
-            "duration": "3:46",
-            "view_count": "151337",
-            "thumbnail_url": "https://i.ytimg.com/vi/HAJ_06-eTbk/hqdefault.jpg"
         },
         {
             "video_id": "ImJqxDY86Rw",
@@ -133,8 +115,26 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "33:23",
-            "view_count": "125967",
+            "view_count": "130093",
             "thumbnail_url": "https://i.ytimg.com/vi/ImJqxDY86Rw/hqdefault.jpg"
+        },
+        {
+            "video_id": "HAJ_06-eTbk",
+            "title": "HAECHAN 해찬 'Camera Lights' | TASTE Playlist",
+            "channel_name": "NCT",
+            "category": "Music",
+            "duration": "3:46",
+            "view_count": "156497",
+            "thumbnail_url": "https://i.ytimg.com/vi/HAJ_06-eTbk/hqdefault.jpg"
+        },
+        {
+            "video_id": "lkhVHxOrmn8",
+            "title": "SNL 김규원 본캐 6000조 새팀 갑니다 실력최초 공개!",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "17:32",
+            "view_count": "136496",
+            "thumbnail_url": "https://i.ytimg.com/vi/lkhVHxOrmn8/hqdefault.jpg"
         },
         {
             "video_id": "hZ6pts6e8dI",
@@ -142,26 +142,8 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "2917623",
+            "view_count": "3011460",
             "thumbnail_url": "https://i.ytimg.com/vi/hZ6pts6e8dI/hqdefault.jpg"
-        },
-        {
-            "video_id": "5zji02jiu7U",
-            "title": "새로 나온 \"모든 크래프트 시크릿\" 만들었습니다!!! 제작 시크릿들 퀄리티 왜이렇게 좋아요? ㄷㄷㄷ (로블록스 브레인롯훔치기)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "27:08",
-            "view_count": "356253",
-            "thumbnail_url": "https://i.ytimg.com/vi/5zji02jiu7U/hqdefault.jpg"
-        },
-        {
-            "video_id": "ySTOtt6GC6c",
-            "title": "Close your eyes",
-            "channel_name": "DK - Topic",
-            "category": "Music",
-            "duration": "5:39",
-            "view_count": "41482",
-            "thumbnail_url": "https://i.ytimg.com/vi/ySTOtt6GC6c/hqdefault.jpg"
         },
         {
             "video_id": "Sr-Zuhy4iTI",
@@ -169,7 +151,7 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:00",
-            "view_count": "65443",
+            "view_count": "67754",
             "thumbnail_url": "https://i.ytimg.com/vi/Sr-Zuhy4iTI/hqdefault.jpg"
         },
         {
@@ -178,8 +160,26 @@
             "channel_name": "HAECHAN - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "79243",
+            "view_count": "83964",
             "thumbnail_url": "https://i.ytimg.com/vi/JYSufrEGPsw/hqdefault.jpg"
+        },
+        {
+            "video_id": "5zji02jiu7U",
+            "title": "새로 나온 \"모든 크래프트 시크릿\" 만들었습니다!!! 제작 시크릿들 퀄리티 왜이렇게 좋아요? ㄷㄷㄷ (로블록스 브레인롯훔치기)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "27:08",
+            "view_count": "356627",
+            "thumbnail_url": "https://i.ytimg.com/vi/5zji02jiu7U/hqdefault.jpg"
+        },
+        {
+            "video_id": "ySTOtt6GC6c",
+            "title": "Close your eyes",
+            "channel_name": "DK - Topic",
+            "category": "Music",
+            "duration": "5:39",
+            "view_count": "43568",
+            "thumbnail_url": "https://i.ytimg.com/vi/ySTOtt6GC6c/hqdefault.jpg"
         },
         {
             "video_id": "-i6X00zQCOg",
@@ -187,7 +187,7 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "28:29",
-            "view_count": "118152",
+            "view_count": "124224",
             "thumbnail_url": "https://i.ytimg.com/vi/-i6X00zQCOg/hqdefault.jpg"
         },
         {
@@ -196,26 +196,8 @@
             "channel_name": "노래는? 허각!",
             "category": "Music",
             "duration": "4:34",
-            "view_count": "22514",
+            "view_count": "23178",
             "thumbnail_url": "https://i.ytimg.com/vi/Bb4CiwyP33A/hqdefault.jpg"
-        },
-        {
-            "video_id": "dsR4oe1k_CE",
-            "title": "영브 나오면 꼭 해야할 정석 조합",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "13:43",
-            "view_count": "133263",
-            "thumbnail_url": "https://i.ytimg.com/vi/dsR4oe1k_CE/hqdefault.jpg"
-        },
-        {
-            "video_id": "tEh9yATC8Bs",
-            "title": "Soda Pop",
-            "channel_name": "Saja Boys - Topic",
-            "category": "Music",
-            "duration": "2:31",
-            "view_count": "588259",
-            "thumbnail_url": "https://i.ytimg.com/vi/tEh9yATC8Bs/hqdefault.jpg"
         },
         {
             "video_id": "ULFfpFJH76k",
@@ -223,7 +205,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "21:28",
-            "view_count": "127602",
+            "view_count": "132532",
             "thumbnail_url": "https://i.ytimg.com/vi/ULFfpFJH76k/hqdefault.jpg"
         },
         {
@@ -232,8 +214,26 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "4:02",
-            "view_count": "241892",
+            "view_count": "251559",
             "thumbnail_url": "https://i.ytimg.com/vi/XaxBsE72SwY/hqdefault.jpg"
+        },
+        {
+            "video_id": "dsR4oe1k_CE",
+            "title": "영브 나오면 꼭 해야할 정석 조합",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "13:43",
+            "view_count": "135597",
+            "thumbnail_url": "https://i.ytimg.com/vi/dsR4oe1k_CE/hqdefault.jpg"
+        },
+        {
+            "video_id": "tEh9yATC8Bs",
+            "title": "Soda Pop",
+            "channel_name": "Saja Boys - Topic",
+            "category": "Music",
+            "duration": "2:31",
+            "view_count": "598735",
+            "thumbnail_url": "https://i.ytimg.com/vi/tEh9yATC8Bs/hqdefault.jpg"
         },
         {
             "video_id": "46xEnPA9JjA",
@@ -241,7 +241,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "45:01",
-            "view_count": "254819",
+            "view_count": "256194",
             "thumbnail_url": "https://i.ytimg.com/vi/46xEnPA9JjA/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "Justin Bieber - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "1426003",
+            "view_count": "1431876",
             "thumbnail_url": "https://i.ytimg.com/vi/4BsBpOCaTrA/hqdefault.jpg"
         },
         {
@@ -259,17 +259,17 @@
             "channel_name": "꼬예유의 로블록스 저장소",
             "category": "Gaming",
             "duration": "44:26",
-            "view_count": "81841",
+            "view_count": "82097",
             "thumbnail_url": "https://i.ytimg.com/vi/CP4WmcGYs10/hqdefault.jpg"
         },
         {
-            "video_id": "oShpTlu_sqQ",
-            "title": "25 Degrees",
-            "channel_name": "UmYull - Topic",
+            "video_id": "qTUBLH3DtsQ",
+            "title": "Slow bloom",
+            "channel_name": "Bily Acoustie - Topic",
             "category": "Music",
-            "duration": "4:04",
-            "view_count": "70574",
-            "thumbnail_url": "https://i.ytimg.com/vi/oShpTlu_sqQ/hqdefault.jpg"
+            "duration": "4:22",
+            "view_count": "20920",
+            "thumbnail_url": "https://i.ytimg.com/vi/qTUBLH3DtsQ/hqdefault.jpg"
         },
         {
             "video_id": "J346qkwTAWc",
@@ -277,17 +277,17 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "20:05",
-            "view_count": "349405",
+            "view_count": "349631",
             "thumbnail_url": "https://i.ytimg.com/vi/J346qkwTAWc/hqdefault.jpg"
         },
         {
-            "video_id": "Vgpv5PtWsn4",
-            "title": "A COLD PLAY",
-            "channel_name": "The Kid Laroi - Topic",
+            "video_id": "oShpTlu_sqQ",
+            "title": "25 Degrees",
+            "channel_name": "UmYull - Topic",
             "category": "Music",
-            "duration": "3:00",
-            "view_count": "438047",
-            "thumbnail_url": "https://i.ytimg.com/vi/Vgpv5PtWsn4/hqdefault.jpg"
+            "duration": "4:04",
+            "view_count": "72085",
+            "thumbnail_url": "https://i.ytimg.com/vi/oShpTlu_sqQ/hqdefault.jpg"
         },
         {
             "video_id": "VfkNsQerRzw",
@@ -295,7 +295,7 @@
             "channel_name": "하네 HANE - 로블록스 게임채널",
             "category": "Gaming",
             "duration": "17:40",
-            "view_count": "99323",
+            "view_count": "99642",
             "thumbnail_url": "https://i.ytimg.com/vi/VfkNsQerRzw/hqdefault.jpg"
         },
         {
@@ -304,26 +304,8 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "322976",
+            "view_count": "334752",
             "thumbnail_url": "https://i.ytimg.com/vi/Ovn6WnYia08/hqdefault.jpg"
-        },
-        {
-            "video_id": "IrzqN8nPPrI",
-            "title": "해외에서 난리난 그 게임, 드디어 초고퀄 신맵 업데이트!",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "30:03",
-            "view_count": "225655",
-            "thumbnail_url": "https://i.ytimg.com/vi/IrzqN8nPPrI/hqdefault.jpg"
-        },
-        {
-            "video_id": "qTUBLH3DtsQ",
-            "title": "Slow bloom",
-            "channel_name": "Bily Acoustie - Topic",
-            "category": "Music",
-            "duration": "4:22",
-            "view_count": "19790",
-            "thumbnail_url": "https://i.ytimg.com/vi/qTUBLH3DtsQ/hqdefault.jpg"
         },
         {
             "video_id": "luScota2ULQ",
@@ -331,8 +313,26 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "15:10",
-            "view_count": "111660",
+            "view_count": "113513",
             "thumbnail_url": "https://i.ytimg.com/vi/luScota2ULQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Vgpv5PtWsn4",
+            "title": "A COLD PLAY",
+            "channel_name": "The Kid Laroi - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "445116",
+            "thumbnail_url": "https://i.ytimg.com/vi/Vgpv5PtWsn4/hqdefault.jpg"
+        },
+        {
+            "video_id": "IrzqN8nPPrI",
+            "title": "해외에서 난리난 그 게임, 드디어 초고퀄 신맵 업데이트!",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "30:03",
+            "view_count": "226278",
+            "thumbnail_url": "https://i.ytimg.com/vi/IrzqN8nPPrI/hqdefault.jpg"
         },
         {
             "video_id": "rkcyLs62TsE",
@@ -340,7 +340,7 @@
             "channel_name": "Chan - Topic",
             "category": "Music",
             "duration": "2:29",
-            "view_count": "14291",
+            "view_count": "14939",
             "thumbnail_url": "https://i.ytimg.com/vi/rkcyLs62TsE/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "12:07",
-            "view_count": "95499",
+            "view_count": "96578",
             "thumbnail_url": "https://i.ytimg.com/vi/6AZQfIeB7MU/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "BoyWithUke - Topic",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "198186",
+            "view_count": "203382",
             "thumbnail_url": "https://i.ytimg.com/vi/uu--LXMs_wA/hqdefault.jpg"
         },
         {
@@ -367,17 +367,17 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "20:14",
-            "view_count": "70120",
+            "view_count": "72195",
             "thumbnail_url": "https://i.ytimg.com/vi/S5w1FwcPgCk/hqdefault.jpg"
         },
         {
-            "video_id": "bdUsNkfHlmQ",
-            "title": "좋아해.. (죠지) Cover by 탑현",
-            "channel_name": "탑현월드 Tophyun World",
-            "category": "Music",
-            "duration": "4:09",
-            "view_count": "43141",
-            "thumbnail_url": "https://i.ytimg.com/vi/bdUsNkfHlmQ/hqdefault.jpg"
+            "video_id": "pjV5g4kpVOo",
+            "title": "'僕が死のうと思ったのは (내가 죽으려고 생각한 것은)' - 中島美嘉 | Nakashima Mika Cover",
+            "channel_name": "권진아 KwonJinAh",
+            "category": "People & Blogs",
+            "duration": "5:24",
+            "view_count": "60226",
+            "thumbnail_url": "https://i.ytimg.com/vi/pjV5g4kpVOo/hqdefault.jpg"
         }
     ]
 }
