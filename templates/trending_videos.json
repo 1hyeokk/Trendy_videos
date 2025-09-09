@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-09 12:02:24",
+    "scraped_time": "2025-09-09 13:25:18",
     "videos": [
         {
             "video_id": "pqMCgfnBx74",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "982149",
+            "view_count": "1020680",
             "thumbnail_url": "https://i.ytimg.com/vi/pqMCgfnBx74/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:01",
-            "view_count": "14567",
+            "view_count": "35254",
             "thumbnail_url": "https://i.ytimg.com/vi/14C4mU2KLIQ/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "25:27",
-            "view_count": "358234",
+            "view_count": "366586",
             "thumbnail_url": "https://i.ytimg.com/vi/wMz9CwJ0YZc/hqdefault.jpg"
         },
         {
@@ -34,26 +34,8 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "3292690",
+            "view_count": "3347805",
             "thumbnail_url": "https://i.ytimg.com/vi/WAQ5_7YFAVo/hqdefault.jpg"
-        },
-        {
-            "video_id": "N2IIb1NVJsY",
-            "title": "NS vs DK | 최종전 | 2025 LCK 플레이-인",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "3:42:10",
-            "view_count": "1218676",
-            "thumbnail_url": "https://i.ytimg.com/vi/N2IIb1NVJsY/hqdefault.jpg"
-        },
-        {
-            "video_id": "42wfEs7oIP8",
-            "title": "CORTIS (코르티스) 'FaSHioN' Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "1207372",
-            "thumbnail_url": "https://i.ytimg.com/vi/42wfEs7oIP8/hqdefault.jpg"
         },
         {
             "video_id": "EFYvfRBi25I",
@@ -61,8 +43,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "27:16",
-            "view_count": "273669",
+            "view_count": "283404",
             "thumbnail_url": "https://i.ytimg.com/vi/EFYvfRBi25I/hqdefault.jpg"
+        },
+        {
+            "video_id": "42wfEs7oIP8",
+            "title": "CORTIS (코르티스) 'FaSHioN' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "1256848",
+            "thumbnail_url": "https://i.ytimg.com/vi/42wfEs7oIP8/hqdefault.jpg"
+        },
+        {
+            "video_id": "N2IIb1NVJsY",
+            "title": "NS vs DK | 최종전 | 2025 LCK 플레이-인",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "3:42:10",
+            "view_count": "1218933",
+            "thumbnail_url": "https://i.ytimg.com/vi/N2IIb1NVJsY/hqdefault.jpg"
         },
         {
             "video_id": "7wJsfALKRR8",
@@ -70,7 +70,7 @@
             "channel_name": "CORTIS - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "169683",
+            "view_count": "182952",
             "thumbnail_url": "https://i.ytimg.com/vi/7wJsfALKRR8/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:35",
-            "view_count": "144378",
+            "view_count": "149886",
             "thumbnail_url": "https://i.ytimg.com/vi/QdG1PLKPgEg/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "DAY6 - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "687008",
+            "view_count": "698929",
             "thumbnail_url": "https://i.ytimg.com/vi/WNJdZqyugg4/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "12:16",
-            "view_count": "215261",
+            "view_count": "223897",
             "thumbnail_url": "https://i.ytimg.com/vi/MVRTYio-XGU/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "DECO*27",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "6232434",
+            "view_count": "6273508",
             "thumbnail_url": "https://i.ytimg.com/vi/C-CYwNz3z8w/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "17:32",
-            "view_count": "133252",
+            "view_count": "135057",
             "thumbnail_url": "https://i.ytimg.com/vi/lkhVHxOrmn8/hqdefault.jpg"
         },
         {
@@ -124,26 +124,8 @@
             "channel_name": "NCT",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "145071",
+            "view_count": "151337",
             "thumbnail_url": "https://i.ytimg.com/vi/HAJ_06-eTbk/hqdefault.jpg"
-        },
-        {
-            "video_id": "5zji02jiu7U",
-            "title": "새로 나온 \"모든 크래프트 시크릿\" 만들었습니다!!! 제작 시크릿들 퀄리티 왜이렇게 좋아요? ㄷㄷㄷ (로블록스 브레인롯훔치기)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "27:08",
-            "view_count": "355719",
-            "thumbnail_url": "https://i.ytimg.com/vi/5zji02jiu7U/hqdefault.jpg"
-        },
-        {
-            "video_id": "hZ6pts6e8dI",
-            "title": "DAY6(데이식스) \"꿈의 버스\" M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:58",
-            "view_count": "2797552",
-            "thumbnail_url": "https://i.ytimg.com/vi/hZ6pts6e8dI/hqdefault.jpg"
         },
         {
             "video_id": "ImJqxDY86Rw",
@@ -151,8 +133,26 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "33:23",
-            "view_count": "121748",
+            "view_count": "125967",
             "thumbnail_url": "https://i.ytimg.com/vi/ImJqxDY86Rw/hqdefault.jpg"
+        },
+        {
+            "video_id": "hZ6pts6e8dI",
+            "title": "DAY6(데이식스) \"꿈의 버스\" M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "3:58",
+            "view_count": "2917623",
+            "thumbnail_url": "https://i.ytimg.com/vi/hZ6pts6e8dI/hqdefault.jpg"
+        },
+        {
+            "video_id": "5zji02jiu7U",
+            "title": "새로 나온 \"모든 크래프트 시크릿\" 만들었습니다!!! 제작 시크릿들 퀄리티 왜이렇게 좋아요? ㄷㄷㄷ (로블록스 브레인롯훔치기)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "27:08",
+            "view_count": "356253",
+            "thumbnail_url": "https://i.ytimg.com/vi/5zji02jiu7U/hqdefault.jpg"
         },
         {
             "video_id": "ySTOtt6GC6c",
@@ -160,7 +160,7 @@
             "channel_name": "DK - Topic",
             "category": "Music",
             "duration": "5:39",
-            "view_count": "38940",
+            "view_count": "41482",
             "thumbnail_url": "https://i.ytimg.com/vi/ySTOtt6GC6c/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:00",
-            "view_count": "63265",
+            "view_count": "65443",
             "thumbnail_url": "https://i.ytimg.com/vi/Sr-Zuhy4iTI/hqdefault.jpg"
         },
         {
@@ -178,26 +178,8 @@
             "channel_name": "HAECHAN - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "73626",
+            "view_count": "79243",
             "thumbnail_url": "https://i.ytimg.com/vi/JYSufrEGPsw/hqdefault.jpg"
-        },
-        {
-            "video_id": "dsR4oe1k_CE",
-            "title": "영브 나오면 꼭 해야할 정석 조합",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "13:43",
-            "view_count": "130779",
-            "thumbnail_url": "https://i.ytimg.com/vi/dsR4oe1k_CE/hqdefault.jpg"
-        },
-        {
-            "video_id": "Bb4CiwyP33A",
-            "title": "허각 - 9월 24일 (Cover)",
-            "channel_name": "노래는? 허각!",
-            "category": "Music",
-            "duration": "4:34",
-            "view_count": "21774",
-            "thumbnail_url": "https://i.ytimg.com/vi/Bb4CiwyP33A/hqdefault.jpg"
         },
         {
             "video_id": "-i6X00zQCOg",
@@ -205,8 +187,26 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "28:29",
-            "view_count": "112644",
+            "view_count": "118152",
             "thumbnail_url": "https://i.ytimg.com/vi/-i6X00zQCOg/hqdefault.jpg"
+        },
+        {
+            "video_id": "Bb4CiwyP33A",
+            "title": "허각 - 9월 24일 (Cover)",
+            "channel_name": "노래는? 허각!",
+            "category": "Music",
+            "duration": "4:34",
+            "view_count": "22514",
+            "thumbnail_url": "https://i.ytimg.com/vi/Bb4CiwyP33A/hqdefault.jpg"
+        },
+        {
+            "video_id": "dsR4oe1k_CE",
+            "title": "영브 나오면 꼭 해야할 정석 조합",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "13:43",
+            "view_count": "133263",
+            "thumbnail_url": "https://i.ytimg.com/vi/dsR4oe1k_CE/hqdefault.jpg"
         },
         {
             "video_id": "tEh9yATC8Bs",
@@ -214,7 +214,7 @@
             "channel_name": "Saja Boys - Topic",
             "category": "Music",
             "duration": "2:31",
-            "view_count": "572878",
+            "view_count": "588259",
             "thumbnail_url": "https://i.ytimg.com/vi/tEh9yATC8Bs/hqdefault.jpg"
         },
         {
@@ -223,17 +223,17 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "21:28",
-            "view_count": "123176",
+            "view_count": "127602",
             "thumbnail_url": "https://i.ytimg.com/vi/ULFfpFJH76k/hqdefault.jpg"
         },
         {
-            "video_id": "4BsBpOCaTrA",
-            "title": "SPEED DEMON",
-            "channel_name": "Justin Bieber - Topic",
+            "video_id": "XaxBsE72SwY",
+            "title": "What It Sounds Like (Acapella)",
+            "channel_name": "HUNTR/X - Topic",
             "category": "Music",
-            "duration": "3:32",
-            "view_count": "1418352",
-            "thumbnail_url": "https://i.ytimg.com/vi/4BsBpOCaTrA/hqdefault.jpg"
+            "duration": "4:02",
+            "view_count": "241892",
+            "thumbnail_url": "https://i.ytimg.com/vi/XaxBsE72SwY/hqdefault.jpg"
         },
         {
             "video_id": "46xEnPA9JjA",
@@ -241,17 +241,17 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "45:01",
-            "view_count": "253182",
+            "view_count": "254819",
             "thumbnail_url": "https://i.ytimg.com/vi/46xEnPA9JjA/hqdefault.jpg"
         },
         {
-            "video_id": "oShpTlu_sqQ",
-            "title": "25 Degrees",
-            "channel_name": "UmYull - Topic",
+            "video_id": "4BsBpOCaTrA",
+            "title": "SPEED DEMON",
+            "channel_name": "Justin Bieber - Topic",
             "category": "Music",
-            "duration": "4:04",
-            "view_count": "68798",
-            "thumbnail_url": "https://i.ytimg.com/vi/oShpTlu_sqQ/hqdefault.jpg"
+            "duration": "3:32",
+            "view_count": "1426003",
+            "thumbnail_url": "https://i.ytimg.com/vi/4BsBpOCaTrA/hqdefault.jpg"
         },
         {
             "video_id": "CP4WmcGYs10",
@@ -259,17 +259,17 @@
             "channel_name": "꼬예유의 로블록스 저장소",
             "category": "Gaming",
             "duration": "44:26",
-            "view_count": "81499",
+            "view_count": "81841",
             "thumbnail_url": "https://i.ytimg.com/vi/CP4WmcGYs10/hqdefault.jpg"
         },
         {
-            "video_id": "Ovn6WnYia08",
-            "title": "SEVENTEEN (세븐틴) - THUNDER @The Kelly Clarkson Show",
-            "channel_name": "SEVENTEEN",
+            "video_id": "oShpTlu_sqQ",
+            "title": "25 Degrees",
+            "channel_name": "UmYull - Topic",
             "category": "Music",
-            "duration": "2:58",
-            "view_count": "312299",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ovn6WnYia08/hqdefault.jpg"
+            "duration": "4:04",
+            "view_count": "70574",
+            "thumbnail_url": "https://i.ytimg.com/vi/oShpTlu_sqQ/hqdefault.jpg"
         },
         {
             "video_id": "J346qkwTAWc",
@@ -277,7 +277,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "20:05",
-            "view_count": "349197",
+            "view_count": "349405",
             "thumbnail_url": "https://i.ytimg.com/vi/J346qkwTAWc/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "The Kid Laroi - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "429958",
+            "view_count": "438047",
             "thumbnail_url": "https://i.ytimg.com/vi/Vgpv5PtWsn4/hqdefault.jpg"
         },
         {
@@ -295,17 +295,17 @@
             "channel_name": "하네 HANE - 로블록스 게임채널",
             "category": "Gaming",
             "duration": "17:40",
-            "view_count": "98909",
+            "view_count": "99323",
             "thumbnail_url": "https://i.ytimg.com/vi/VfkNsQerRzw/hqdefault.jpg"
         },
         {
-            "video_id": "XaxBsE72SwY",
-            "title": "What It Sounds Like (Acapella)",
-            "channel_name": "HUNTR/X - Topic",
+            "video_id": "Ovn6WnYia08",
+            "title": "SEVENTEEN (세븐틴) - THUNDER @The Kelly Clarkson Show",
+            "channel_name": "SEVENTEEN",
             "category": "Music",
-            "duration": "4:02",
-            "view_count": "229086",
-            "thumbnail_url": "https://i.ytimg.com/vi/XaxBsE72SwY/hqdefault.jpg"
+            "duration": "2:58",
+            "view_count": "322976",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ovn6WnYia08/hqdefault.jpg"
         },
         {
             "video_id": "IrzqN8nPPrI",
@@ -313,7 +313,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "30:03",
-            "view_count": "224925",
+            "view_count": "225655",
             "thumbnail_url": "https://i.ytimg.com/vi/IrzqN8nPPrI/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "Bily Acoustie - Topic",
             "category": "Music",
             "duration": "4:22",
-            "view_count": "18593",
+            "view_count": "19790",
             "thumbnail_url": "https://i.ytimg.com/vi/qTUBLH3DtsQ/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "15:10",
-            "view_count": "109943",
+            "view_count": "111660",
             "thumbnail_url": "https://i.ytimg.com/vi/luScota2ULQ/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "Chan - Topic",
             "category": "Music",
             "duration": "2:29",
-            "view_count": "13552",
+            "view_count": "14291",
             "thumbnail_url": "https://i.ytimg.com/vi/rkcyLs62TsE/hqdefault.jpg"
         },
         {
@@ -349,8 +349,26 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "12:07",
-            "view_count": "94225",
+            "view_count": "95499",
             "thumbnail_url": "https://i.ytimg.com/vi/6AZQfIeB7MU/hqdefault.jpg"
+        },
+        {
+            "video_id": "uu--LXMs_wA",
+            "title": "Runaway",
+            "channel_name": "BoyWithUke - Topic",
+            "category": "Music",
+            "duration": "3:33",
+            "view_count": "198186",
+            "thumbnail_url": "https://i.ytimg.com/vi/uu--LXMs_wA/hqdefault.jpg"
+        },
+        {
+            "video_id": "S5w1FwcPgCk",
+            "title": "이 맵 왜 안 끝나요??????(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "20:14",
+            "view_count": "70120",
+            "thumbnail_url": "https://i.ytimg.com/vi/S5w1FwcPgCk/hqdefault.jpg"
         },
         {
             "video_id": "bdUsNkfHlmQ",
@@ -358,26 +376,8 @@
             "channel_name": "탑현월드 Tophyun World",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "42765",
+            "view_count": "43141",
             "thumbnail_url": "https://i.ytimg.com/vi/bdUsNkfHlmQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "uPiSBlXuc8c",
-            "title": "wPlace : 4조 픽셀짜리 세계 지도에서 벌어지고 있는 거대한 픽셀 전쟁",
-            "channel_name": "아이템의 인벤토리",
-            "category": "Entertainment",
-            "duration": "13:45",
-            "view_count": "320691",
-            "thumbnail_url": "https://i.ytimg.com/vi/uPiSBlXuc8c/hqdefault.jpg"
-        },
-        {
-            "video_id": "pjV5g4kpVOo",
-            "title": "'僕が死のうと思ったのは (내가 죽으려고 생각한 것은)' - 中島美嘉 | Nakashima Mika Cover",
-            "channel_name": "권진아 KwonJinAh",
-            "category": "People & Blogs",
-            "duration": "5:24",
-            "view_count": "57629",
-            "thumbnail_url": "https://i.ytimg.com/vi/pjV5g4kpVOo/hqdefault.jpg"
         }
     ]
 }
