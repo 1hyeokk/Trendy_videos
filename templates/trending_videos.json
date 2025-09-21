@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-09-21 13:23:53",
+    "scraped_time": "2025-09-21 14:18:55",
     "videos": [
         {
             "video_id": "67fdzVRPIEE",
@@ -7,7 +7,7 @@
             "channel_name": "MA ENTERTAINMENT",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "378608",
+            "view_count": "382862",
             "thumbnail_url": "https://i.ytimg.com/vi/67fdzVRPIEE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MTube",
             "category": "Entertainment",
             "duration": "1:19",
-            "view_count": "34325",
+            "view_count": "35324",
             "thumbnail_url": "https://i.ytimg.com/vi/d3HZ5r6BjrU/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "3:24:46",
-            "view_count": "1859746",
+            "view_count": "1860734",
             "thumbnail_url": "https://i.ytimg.com/vi/jJ0npVOdLnI/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "196037",
+            "view_count": "203960",
             "thumbnail_url": "https://i.ytimg.com/vi/vkLpkQV8v4w/hqdefault.jpg"
         },
         {
@@ -43,35 +43,8 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:42",
-            "view_count": "347632",
+            "view_count": "348980",
             "thumbnail_url": "https://i.ytimg.com/vi/vHva0Cr5tO0/hqdefault.jpg"
-        },
-        {
-            "video_id": "pHv64XlTH8Q",
-            "title": "프리즘 vs 프리즘",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "21:54",
-            "view_count": "482549",
-            "thumbnail_url": "https://i.ytimg.com/vi/pHv64XlTH8Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "n4Nj8WMrkjk",
-            "title": "Through It All",
-            "channel_name": "Bruklin - Topic",
-            "category": "Music",
-            "duration": "2:51",
-            "view_count": "1786055",
-            "thumbnail_url": "https://i.ytimg.com/vi/n4Nj8WMrkjk/hqdefault.jpg"
-        },
-        {
-            "video_id": "CYc0uVAcotA",
-            "title": "731 - Official Trailer | Starring Wu Jiang | In Theaters September 19",
-            "channel_name": "Well Go USA Entertainment",
-            "category": "Film & Animation",
-            "duration": "1:00",
-            "view_count": "271652",
-            "thumbnail_url": "https://i.ytimg.com/vi/CYc0uVAcotA/hqdefault.jpg"
         },
         {
             "video_id": "848ab_nX50c",
@@ -79,8 +52,26 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "19:39",
-            "view_count": "121683",
+            "view_count": "138610",
             "thumbnail_url": "https://i.ytimg.com/vi/848ab_nX50c/hqdefault.jpg"
+        },
+        {
+            "video_id": "n4Nj8WMrkjk",
+            "title": "Through It All",
+            "channel_name": "Bruklin - Topic",
+            "category": "Music",
+            "duration": "2:51",
+            "view_count": "1795587",
+            "thumbnail_url": "https://i.ytimg.com/vi/n4Nj8WMrkjk/hqdefault.jpg"
+        },
+        {
+            "video_id": "btrYa1aohVU",
+            "title": "레인보우 드래곤, 피냐타 1% 시크릿, 로스 타코자전거까지 모두 만났던 멕시코 시크릿 업데이트!! ㄷㄷㄷ진짜 말도 안되네요!!!!! (로블록스 브레인롯 훔치기)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "22:27",
+            "view_count": "133261",
+            "thumbnail_url": "https://i.ytimg.com/vi/btrYa1aohVU/hqdefault.jpg"
         },
         {
             "video_id": "vAtcdBLuZfo",
@@ -88,8 +79,26 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "81095",
+            "view_count": "86217",
             "thumbnail_url": "https://i.ytimg.com/vi/vAtcdBLuZfo/hqdefault.jpg"
+        },
+        {
+            "video_id": "pHv64XlTH8Q",
+            "title": "프리즘 vs 프리즘",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "21:54",
+            "view_count": "485496",
+            "thumbnail_url": "https://i.ytimg.com/vi/pHv64XlTH8Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "8QZeXvOjgGE",
+            "title": "CORTIS (코르티스) 'JoyRide' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "2:52",
+            "view_count": "511099",
+            "thumbnail_url": "https://i.ytimg.com/vi/8QZeXvOjgGE/hqdefault.jpg"
         },
         {
             "video_id": "5AgHzlznvd0",
@@ -97,7 +106,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:39:40",
-            "view_count": "522557",
+            "view_count": "525165",
             "thumbnail_url": "https://i.ytimg.com/vi/5AgHzlznvd0/hqdefault.jpg"
         },
         {
@@ -106,35 +115,17 @@
             "channel_name": "Woody - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "181380",
+            "view_count": "184723",
             "thumbnail_url": "https://i.ytimg.com/vi/L_S5JtOf2-8/hqdefault.jpg"
         },
         {
-            "video_id": "btrYa1aohVU",
-            "title": "레인보우 드래곤, 피냐타 1% 시크릿, 로스 타코자전거까지 모두 만났던 멕시코 시크릿 업데이트!! ㄷㄷㄷ진짜 말도 안되네요!!!!! (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
+            "video_id": "FrZ8XZY7mfk",
+            "title": "죽지도 않고 돌아온 -400좌",
+            "channel_name": "스맵",
             "category": "Gaming",
-            "duration": "22:27",
-            "view_count": "115772",
-            "thumbnail_url": "https://i.ytimg.com/vi/btrYa1aohVU/hqdefault.jpg"
-        },
-        {
-            "video_id": "8QZeXvOjgGE",
-            "title": "CORTIS (코르티스) 'JoyRide' Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "2:52",
-            "view_count": "487004",
-            "thumbnail_url": "https://i.ytimg.com/vi/8QZeXvOjgGE/hqdefault.jpg"
-        },
-        {
-            "video_id": "ciEQsPqtHkk",
-            "title": "초극악 확률을 뚫고 터진 난생 처음 보는 이스터에그 등장 ㄷㄷㄷㄷ",
-            "channel_name": "전쓰트의 게임 채널 Junsst",
-            "category": "Gaming",
-            "duration": "18:05",
-            "view_count": "219006",
-            "thumbnail_url": "https://i.ytimg.com/vi/ciEQsPqtHkk/hqdefault.jpg"
+            "duration": "32:56",
+            "view_count": "60674",
+            "thumbnail_url": "https://i.ytimg.com/vi/FrZ8XZY7mfk/hqdefault.jpg"
         },
         {
             "video_id": "slul7AgGpbU",
@@ -142,17 +133,17 @@
             "channel_name": "ALLDAY PROJECT - Topic",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "44979",
+            "view_count": "50166",
             "thumbnail_url": "https://i.ytimg.com/vi/slul7AgGpbU/hqdefault.jpg"
         },
         {
-            "video_id": "EK-xutLrfPE",
-            "title": "자라고 좀",
-            "channel_name": "스맵",
+            "video_id": "ciEQsPqtHkk",
+            "title": "초극악 확률을 뚫고 터진 난생 처음 보는 이스터에그 등장 ㄷㄷㄷㄷ",
+            "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
-            "duration": "24:19",
-            "view_count": "102064",
-            "thumbnail_url": "https://i.ytimg.com/vi/EK-xutLrfPE/hqdefault.jpg"
+            "duration": "18:05",
+            "view_count": "223996",
+            "thumbnail_url": "https://i.ytimg.com/vi/ciEQsPqtHkk/hqdefault.jpg"
         },
         {
             "video_id": "f5IVoXgLuGs",
@@ -160,7 +151,7 @@
             "channel_name": "7clouds UK",
             "category": "People & Blogs",
             "duration": "3:54",
-            "view_count": "797143",
+            "view_count": "814891",
             "thumbnail_url": "https://i.ytimg.com/vi/f5IVoXgLuGs/hqdefault.jpg"
         },
         {
@@ -169,7 +160,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "21:51",
-            "view_count": "154407",
+            "view_count": "159371",
             "thumbnail_url": "https://i.ytimg.com/vi/cUvni84qYUY/hqdefault.jpg"
         },
         {
@@ -178,7 +169,7 @@
             "channel_name": "XG - Topic",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "521595",
+            "view_count": "529716",
             "thumbnail_url": "https://i.ytimg.com/vi/rvMsWB1vUzQ/hqdefault.jpg"
         },
         {
@@ -187,7 +178,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "24:24",
-            "view_count": "178839",
+            "view_count": "182090",
             "thumbnail_url": "https://i.ytimg.com/vi/bryb1Wga_CA/hqdefault.jpg"
         },
         {
@@ -196,26 +187,8 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "77399",
+            "view_count": "78192",
             "thumbnail_url": "https://i.ytimg.com/vi/rOZFX6O_sT0/hqdefault.jpg"
-        },
-        {
-            "video_id": "oBCSVgVZalE",
-            "title": "제논 보조무기 삽니다... 아니 팝니다 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "10:24",
-            "view_count": "176763",
-            "thumbnail_url": "https://i.ytimg.com/vi/oBCSVgVZalE/hqdefault.jpg"
-        },
-        {
-            "video_id": "BinNkFZ89ZQ",
-            "title": "J-Tong - Woof Remix (feat. Nosun, Mckdaddy, Raf Sandou, Zenethezilla, Street Baby, Owen)",
-            "channel_name": "제이통",
-            "category": "Music",
-            "duration": "4:58",
-            "view_count": "68053",
-            "thumbnail_url": "https://i.ytimg.com/vi/BinNkFZ89ZQ/hqdefault.jpg"
         },
         {
             "video_id": "Ooq2ZF8cxMI",
@@ -223,17 +196,17 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "37:35",
-            "view_count": "105345",
+            "view_count": "109183",
             "thumbnail_url": "https://i.ytimg.com/vi/Ooq2ZF8cxMI/hqdefault.jpg"
         },
         {
-            "video_id": "yZ3y0rYGkag",
-            "title": "김희재 KIM HEE JAE '다신 볼 수 없는 내 사랑 (My Love, Gone Forever)' MV",
-            "channel_name": "김희재 HEEJAE",
-            "category": "People & Blogs",
-            "duration": "4:02",
-            "view_count": "55825",
-            "thumbnail_url": "https://i.ytimg.com/vi/yZ3y0rYGkag/hqdefault.jpg"
+            "video_id": "0ZCCBPeRVLo",
+            "title": "롤린 (Rollin`)",
+            "channel_name": "Brave Girls - Topic",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "18646",
+            "thumbnail_url": "https://i.ytimg.com/vi/0ZCCBPeRVLo/hqdefault.jpg"
         },
         {
             "video_id": "tkYUgYaWg7A",
@@ -241,7 +214,7 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "17:46",
-            "view_count": "95974",
+            "view_count": "100609",
             "thumbnail_url": "https://i.ytimg.com/vi/tkYUgYaWg7A/hqdefault.jpg"
         },
         {
@@ -250,8 +223,44 @@
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "37916",
+            "view_count": "38825",
             "thumbnail_url": "https://i.ytimg.com/vi/uyS63NHcLEc/hqdefault.jpg"
+        },
+        {
+            "video_id": "oBCSVgVZalE",
+            "title": "제논 보조무기 삽니다... 아니 팝니다 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "10:24",
+            "view_count": "181410",
+            "thumbnail_url": "https://i.ytimg.com/vi/oBCSVgVZalE/hqdefault.jpg"
+        },
+        {
+            "video_id": "BinNkFZ89ZQ",
+            "title": "J-Tong - Woof Remix (feat. Nosun, Mckdaddy, Raf Sandou, Zenethezilla, Street Baby, Owen)",
+            "channel_name": "제이통",
+            "category": "Music",
+            "duration": "4:58",
+            "view_count": "68872",
+            "thumbnail_url": "https://i.ytimg.com/vi/BinNkFZ89ZQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "eME13E18MlE",
+            "title": "\"우주를 들어라\"  아무도 예상 못한 이상호의 7천만원빵 솔랭내기 하드캐리?!",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "32:14",
+            "view_count": "106987",
+            "thumbnail_url": "https://i.ytimg.com/vi/eME13E18MlE/hqdefault.jpg"
+        },
+        {
+            "video_id": "yZ3y0rYGkag",
+            "title": "김희재 KIM HEE JAE '다신 볼 수 없는 내 사랑 (My Love, Gone Forever)' MV",
+            "channel_name": "김희재 HEEJAE",
+            "category": "People & Blogs",
+            "duration": "4:02",
+            "view_count": "56279",
+            "thumbnail_url": "https://i.ytimg.com/vi/yZ3y0rYGkag/hqdefault.jpg"
         },
         {
             "video_id": "dFx0dEmnIuo",
@@ -259,7 +268,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "20:02",
-            "view_count": "120461",
+            "view_count": "124560",
             "thumbnail_url": "https://i.ytimg.com/vi/dFx0dEmnIuo/hqdefault.jpg"
         },
         {
@@ -268,17 +277,17 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "3:31",
-            "view_count": "41917",
+            "view_count": "42460",
             "thumbnail_url": "https://i.ytimg.com/vi/iQBOu81LkT0/hqdefault.jpg"
         },
         {
-            "video_id": "eME13E18MlE",
-            "title": "\"우주를 들어라\"  아무도 예상 못한 이상호의 7천만원빵 솔랭내기 하드캐리?!",
-            "channel_name": "이상호",
+            "video_id": "bcN3D9VEuhg",
+            "title": "\"키네시스 보조무기는 와인이다\" - 안타요",
+            "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
-            "duration": "32:14",
-            "view_count": "97371",
-            "thumbnail_url": "https://i.ytimg.com/vi/eME13E18MlE/hqdefault.jpg"
+            "duration": "13:45",
+            "view_count": "131605",
+            "thumbnail_url": "https://i.ytimg.com/vi/bcN3D9VEuhg/hqdefault.jpg"
         },
         {
             "video_id": "LmZD-TU96q4",
@@ -286,7 +295,7 @@
             "channel_name": "Kenshi Yonezu  米津玄師",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "12841689",
+            "view_count": "12940133",
             "thumbnail_url": "https://i.ytimg.com/vi/LmZD-TU96q4/hqdefault.jpg"
         },
         {
@@ -295,7 +304,7 @@
             "channel_name": "마비노기 모바일",
             "category": "Gaming",
             "duration": "2:41:20",
-            "view_count": "150091",
+            "view_count": "150226",
             "thumbnail_url": "https://i.ytimg.com/vi/nSc61aDLYHU/hqdefault.jpg"
         },
         {
@@ -304,35 +313,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "111285",
+            "view_count": "112800",
             "thumbnail_url": "https://i.ytimg.com/vi/VK5GZvbhEd4/hqdefault.jpg"
         },
         {
-            "video_id": "bcN3D9VEuhg",
-            "title": "\"키네시스 보조무기는 와인이다\" - 안타요",
-            "channel_name": "타튜브 TATUBE",
+            "video_id": "GDCekhMAfvg",
+            "title": "K-직장인 5명과 땅 파는 게임을 했더니...",
+            "channel_name": "우주하마",
             "category": "Gaming",
-            "duration": "13:45",
-            "view_count": "127173",
-            "thumbnail_url": "https://i.ytimg.com/vi/bcN3D9VEuhg/hqdefault.jpg"
-        },
-        {
-            "video_id": "0ZCCBPeRVLo",
-            "title": "롤린 (Rollin`)",
-            "channel_name": "Brave Girls - Topic",
-            "category": "Music",
-            "duration": "3:18",
-            "view_count": "16695",
-            "thumbnail_url": "https://i.ytimg.com/vi/0ZCCBPeRVLo/hqdefault.jpg"
-        },
-        {
-            "video_id": "A91DtOVk5Es",
-            "title": "속보) 팔론 머스크 AI 및 로봇 산업 공격적 투자",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "23:54",
-            "view_count": "103790",
-            "thumbnail_url": "https://i.ytimg.com/vi/A91DtOVk5Es/hqdefault.jpg"
+            "duration": "19:00",
+            "view_count": "39319",
+            "thumbnail_url": "https://i.ytimg.com/vi/GDCekhMAfvg/hqdefault.jpg"
         },
         {
             "video_id": "255DEHRkZk0",
@@ -340,17 +331,17 @@
             "channel_name": "박지현",
             "category": "People & Blogs",
             "duration": "3:54",
-            "view_count": "26591",
+            "view_count": "27041",
             "thumbnail_url": "https://i.ytimg.com/vi/255DEHRkZk0/hqdefault.jpg"
         },
         {
-            "video_id": "x2c0VqEtLMY",
-            "title": "(💥충격 반전 주의) 잼못타에서 99일. 살아남을 수 있을까?!실종 된 아이들은 어디로 간걸까?😨",
-            "channel_name": "멜로우TV",
+            "video_id": "Y8tvNUQeREE",
+            "title": "지금까지 단 한 명도 알고도 막지 못한 빌드를 시전 하는 상대, 대체 무슨 빌드길래!?ㄷㄷ",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "12:58",
-            "view_count": "236429",
-            "thumbnail_url": "https://i.ytimg.com/vi/x2c0VqEtLMY/hqdefault.jpg"
+            "duration": "27:04",
+            "view_count": "129216",
+            "thumbnail_url": "https://i.ytimg.com/vi/Y8tvNUQeREE/hqdefault.jpg"
         },
         {
             "video_id": "30hZXHeB85U",
@@ -358,17 +349,17 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "955501",
+            "view_count": "960653",
             "thumbnail_url": "https://i.ytimg.com/vi/30hZXHeB85U/hqdefault.jpg"
         },
         {
-            "video_id": "2QRPR9_Z5HA",
-            "title": "베테랑이 삭제되기 전 세계관의 4성 칼리스타란..",
-            "channel_name": "잡상싱",
+            "video_id": "5W4oGDidjv4",
+            "title": "카드 없이 시작하는 폭탄 보드게임ㅋㅋㅋ",
+            "channel_name": "왈도쿤",
             "category": "Gaming",
-            "duration": "13:11",
-            "view_count": "121106",
-            "thumbnail_url": "https://i.ytimg.com/vi/2QRPR9_Z5HA/hqdefault.jpg"
+            "duration": "13:32",
+            "view_count": "129173",
+            "thumbnail_url": "https://i.ytimg.com/vi/5W4oGDidjv4/hqdefault.jpg"
         },
         {
             "video_id": "p2NISvg_0yA",
@@ -376,8 +367,17 @@
             "channel_name": "Hebi.",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "1049603",
+            "view_count": "1051284",
             "thumbnail_url": "https://i.ytimg.com/vi/p2NISvg_0yA/hqdefault.jpg"
+        },
+        {
+            "video_id": "A91DtOVk5Es",
+            "title": "속보) 팔론 머스크 AI 및 로봇 산업 공격적 투자",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "23:54",
+            "view_count": "106558",
+            "thumbnail_url": "https://i.ytimg.com/vi/A91DtOVk5Es/hqdefault.jpg"
         }
     ]
 }
