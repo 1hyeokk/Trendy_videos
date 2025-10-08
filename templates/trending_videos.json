@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-08 13:24:46",
+    "scraped_time": "2025-10-08 14:19:57",
     "videos": [
         {
             "video_id": "ux3QETpLcPs",
@@ -7,7 +7,7 @@
             "channel_name": "Kenshi Yonezu  米津玄師",
             "category": "Music",
             "duration": "2:31",
-            "view_count": "3107657",
+            "view_count": "3182957",
             "thumbnail_url": "https://i.ytimg.com/vi/ux3QETpLcPs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:12",
-            "view_count": "101158",
+            "view_count": "101452",
             "thumbnail_url": "https://i.ytimg.com/vi/1Psq93NYhto/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "16:00",
-            "view_count": "321399",
+            "view_count": "333882",
             "thumbnail_url": "https://i.ytimg.com/vi/Rs5SlrJRELE/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "ROCOBERRY - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "257873",
+            "view_count": "263221",
             "thumbnail_url": "https://i.ytimg.com/vi/-QdWntrZ4KY/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "드라마Talk",
             "category": "Film & Animation",
             "duration": "28:31",
-            "view_count": "40625",
+            "view_count": "41008",
             "thumbnail_url": "https://i.ytimg.com/vi/hRddv7ee_F0/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "20:14",
-            "view_count": "210262",
+            "view_count": "220823",
             "thumbnail_url": "https://i.ytimg.com/vi/nBTYlXZG3s4/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "QWER - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "150291",
+            "view_count": "155123",
             "thumbnail_url": "https://i.ytimg.com/vi/6tXCKF33IzM/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "2:06",
-            "view_count": "144175",
+            "view_count": "150147",
             "thumbnail_url": "https://i.ytimg.com/vi/I3awPAzyOtY/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "19:13",
-            "view_count": "95962",
+            "view_count": "113443",
             "thumbnail_url": "https://i.ytimg.com/vi/ffLxekFtuQI/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "NMIXX",
             "category": "Entertainment",
             "duration": "3:24",
-            "view_count": "343659",
+            "view_count": "356927",
             "thumbnail_url": "https://i.ytimg.com/vi/P3oBM3jkNtE/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "리매그 LIMAG",
             "category": "Gaming",
             "duration": "2:01",
-            "view_count": "12185",
+            "view_count": "13360",
             "thumbnail_url": "https://i.ytimg.com/vi/wyvS3jcWZ7U/hqdefault.jpg"
-        },
-        {
-            "video_id": "XcbPjbvGvG0",
-            "title": "뇌정지가 오는 포켓몬 타입 보고 스트리머 맞추기ㅋㅋ",
-            "channel_name": "왈도쿤",
-            "category": "Gaming",
-            "duration": "15:34",
-            "view_count": "138650",
-            "thumbnail_url": "https://i.ytimg.com/vi/XcbPjbvGvG0/hqdefault.jpg"
-        },
-        {
-            "video_id": "yLj8a298xbc",
-            "title": "NMIXX(엔믹스) “Blue Valentine” A Cappella Highlight Medley",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "4:31",
-            "view_count": "198827",
-            "thumbnail_url": "https://i.ytimg.com/vi/yLj8a298xbc/hqdefault.jpg"
         },
         {
             "video_id": "fMRYPA0hnzw",
@@ -124,8 +106,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "43:35",
-            "view_count": "135674",
+            "view_count": "145940",
             "thumbnail_url": "https://i.ytimg.com/vi/fMRYPA0hnzw/hqdefault.jpg"
+        },
+        {
+            "video_id": "yLj8a298xbc",
+            "title": "NMIXX(엔믹스) “Blue Valentine” A Cappella Highlight Medley",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "4:31",
+            "view_count": "206228",
+            "thumbnail_url": "https://i.ytimg.com/vi/yLj8a298xbc/hqdefault.jpg"
+        },
+        {
+            "video_id": "XcbPjbvGvG0",
+            "title": "뇌정지가 오는 포켓몬 타입 보고 스트리머 맞추기ㅋㅋ",
+            "channel_name": "왈도쿤",
+            "category": "Gaming",
+            "duration": "15:34",
+            "view_count": "143643",
+            "thumbnail_url": "https://i.ytimg.com/vi/XcbPjbvGvG0/hqdefault.jpg"
         },
         {
             "video_id": "ko70cExuzZM",
@@ -133,7 +133,7 @@
             "channel_name": "Taylor Swift",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "21163412",
+            "view_count": "21404457",
             "thumbnail_url": "https://i.ytimg.com/vi/ko70cExuzZM/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "29:15",
-            "view_count": "116792",
+            "view_count": "119963",
             "thumbnail_url": "https://i.ytimg.com/vi/pjAGixFpBLg/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:02",
-            "view_count": "149433",
+            "view_count": "153160",
             "thumbnail_url": "https://i.ytimg.com/vi/1czQIBhhe1A/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:52",
-            "view_count": "126540",
+            "view_count": "131268",
             "thumbnail_url": "https://i.ytimg.com/vi/IqwJEvkmT1k/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "899127",
+            "view_count": "917786",
             "thumbnail_url": "https://i.ytimg.com/vi/gDoDAazOEgI/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "40:01",
-            "view_count": "88542",
+            "view_count": "92660",
             "thumbnail_url": "https://i.ytimg.com/vi/jhL-eRv4GP0/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "41617",
+            "view_count": "42134",
             "thumbnail_url": "https://i.ytimg.com/vi/pa2So92kquc/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "YouTube지누",
             "category": "Gaming",
             "duration": "1:06:30",
-            "view_count": "155998",
+            "view_count": "161214",
             "thumbnail_url": "https://i.ytimg.com/vi/HeWY7_7Czhg/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "Bruno Mars - Topic",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "385726",
+            "view_count": "397098",
             "thumbnail_url": "https://i.ytimg.com/vi/HUvIJRFH2cA/hqdefault.jpg"
         },
         {
@@ -214,44 +214,8 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "11:33",
-            "view_count": "124955",
+            "view_count": "130728",
             "thumbnail_url": "https://i.ytimg.com/vi/2hvOfad9HC0/hqdefault.jpg"
-        },
-        {
-            "video_id": "6MvMbIZT9A8",
-            "title": "QWER - 흰수염고래 | QWER - Blue Whale | 야외녹음실｜Beyond the Studio｜LIVE",
-            "channel_name": "1theK Live - 원더케이 라이브",
-            "category": "Music",
-            "duration": "4:53",
-            "view_count": "29839",
-            "thumbnail_url": "https://i.ytimg.com/vi/6MvMbIZT9A8/hqdefault.jpg"
-        },
-        {
-            "video_id": "hkq2NpAanAc",
-            "title": "(서버최초!) 0.5% 확률로 나오는 종결급 신규 시크릿을 뽑기위해 시크릿 박스 100개 열어봤습니다",
-            "channel_name": "싸모스",
-            "category": "Gaming",
-            "duration": "11:40",
-            "view_count": "139316",
-            "thumbnail_url": "https://i.ytimg.com/vi/hkq2NpAanAc/hqdefault.jpg"
-        },
-        {
-            "video_id": "XdKaLpD4YyE",
-            "title": "널 그리며",
-            "channel_name": "이준영 - Topic",
-            "category": "Music",
-            "duration": "3:46",
-            "view_count": "98304",
-            "thumbnail_url": "https://i.ytimg.com/vi/XdKaLpD4YyE/hqdefault.jpg"
-        },
-        {
-            "video_id": "HQIFF2Uku1g",
-            "title": "스킬 쓸때마다 상대 4명에게 천벌을 내리는 \"폭파광 지평선 스몰더\"",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "15:21",
-            "view_count": "125177",
-            "thumbnail_url": "https://i.ytimg.com/vi/HQIFF2Uku1g/hqdefault.jpg"
         },
         {
             "video_id": "bzb0c4New6w",
@@ -259,17 +223,35 @@
             "channel_name": "Radio Love",
             "category": "People & Blogs",
             "duration": "1:05:41",
-            "view_count": "4966",
+            "view_count": "6230",
             "thumbnail_url": "https://i.ytimg.com/vi/bzb0c4New6w/hqdefault.jpg"
         },
         {
-            "video_id": "1MMCHE7fd94",
-            "title": "진짜 웃기는 벼룩(?) 3총사ㅋㅋㅋ 잼못타에서 작아져서 숨어있는데 생긴일 ㅋㅋ  (잼못타 숨바꼭질 2편)",
-            "channel_name": "집사TV",
+            "video_id": "hkq2NpAanAc",
+            "title": "(서버최초!) 0.5% 확률로 나오는 종결급 신규 시크릿을 뽑기위해 시크릿 박스 100개 열어봤습니다",
+            "channel_name": "싸모스",
             "category": "Gaming",
-            "duration": "13:16",
-            "view_count": "124274",
-            "thumbnail_url": "https://i.ytimg.com/vi/1MMCHE7fd94/hqdefault.jpg"
+            "duration": "11:40",
+            "view_count": "141620",
+            "thumbnail_url": "https://i.ytimg.com/vi/hkq2NpAanAc/hqdefault.jpg"
+        },
+        {
+            "video_id": "6MvMbIZT9A8",
+            "title": "QWER - 흰수염고래 | QWER - Blue Whale | 야외녹음실｜Beyond the Studio｜LIVE",
+            "channel_name": "1theK Live - 원더케이 라이브",
+            "category": "Music",
+            "duration": "4:53",
+            "view_count": "30833",
+            "thumbnail_url": "https://i.ytimg.com/vi/6MvMbIZT9A8/hqdefault.jpg"
+        },
+        {
+            "video_id": "HQIFF2Uku1g",
+            "title": "스킬 쓸때마다 상대 4명에게 천벌을 내리는 \"폭파광 지평선 스몰더\"",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "15:21",
+            "view_count": "128162",
+            "thumbnail_url": "https://i.ytimg.com/vi/HQIFF2Uku1g/hqdefault.jpg"
         },
         {
             "video_id": "2TsTKDY5MQQ",
@@ -277,8 +259,26 @@
             "channel_name": "JISOO - Topic",
             "category": "Music",
             "duration": "0:19",
-            "view_count": "118890",
+            "view_count": "144151",
             "thumbnail_url": "https://i.ytimg.com/vi/2TsTKDY5MQQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "1MMCHE7fd94",
+            "title": "진짜 웃기는 벼룩(?) 3총사ㅋㅋㅋ 잼못타에서 작아져서 숨어있는데 생긴일 ㅋㅋ  (잼못타 숨바꼭질 2편)",
+            "channel_name": "집사TV",
+            "category": "Gaming",
+            "duration": "13:16",
+            "view_count": "127176",
+            "thumbnail_url": "https://i.ytimg.com/vi/1MMCHE7fd94/hqdefault.jpg"
+        },
+        {
+            "video_id": "XdKaLpD4YyE",
+            "title": "널 그리며",
+            "channel_name": "이준영 - Topic",
+            "category": "Music",
+            "duration": "3:46",
+            "view_count": "100796",
+            "thumbnail_url": "https://i.ytimg.com/vi/XdKaLpD4YyE/hqdefault.jpg"
         },
         {
             "video_id": "lhm91Oe_DAw",
@@ -286,8 +286,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "33:02",
-            "view_count": "119671",
+            "view_count": "123418",
             "thumbnail_url": "https://i.ytimg.com/vi/lhm91Oe_DAw/hqdefault.jpg"
+        },
+        {
+            "video_id": "6k__sn8dWWk",
+            "title": "[MV] ROCOBERRY(로코베리) _ The End Of Love(이별이라는 말로 우리의 연애가 끝난다는 게)",
+            "channel_name": "1theK (원더케이)",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "126190",
+            "thumbnail_url": "https://i.ytimg.com/vi/6k__sn8dWWk/hqdefault.jpg"
+        },
+        {
+            "video_id": "a6oQWALHfos",
+            "title": "마녀 퓨즈머신의 등장!? 나는 똥손이었는데 PD님 시크릿 행운 뭐야!?!?!!?? (로블록스 브레인롯 훔치기)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "19:37",
+            "view_count": "49109",
+            "thumbnail_url": "https://i.ytimg.com/vi/a6oQWALHfos/hqdefault.jpg"
         },
         {
             "video_id": "K8edk9vfJgY",
@@ -295,7 +313,7 @@
             "channel_name": "Aimer - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "41276",
+            "view_count": "42565",
             "thumbnail_url": "https://i.ytimg.com/vi/K8edk9vfJgY/hqdefault.jpg"
         },
         {
@@ -304,26 +322,8 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "59:03",
-            "view_count": "203378",
+            "view_count": "204502",
             "thumbnail_url": "https://i.ytimg.com/vi/uyAkD8Ygjzc/hqdefault.jpg"
-        },
-        {
-            "video_id": "fJ2W-oQ5cTk",
-            "title": "If You Love Me (feat. 박재범)",
-            "channel_name": "NS 윤지 - Topic",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "204718",
-            "thumbnail_url": "https://i.ytimg.com/vi/fJ2W-oQ5cTk/hqdefault.jpg"
-        },
-        {
-            "video_id": "8VdHp0ZoryE",
-            "title": "skibidi toilet 79 (part 3)",
-            "channel_name": "DaFuq!?Boom!",
-            "category": "Entertainment",
-            "duration": "6:19",
-            "view_count": "7827525",
-            "thumbnail_url": "https://i.ytimg.com/vi/8VdHp0ZoryE/hqdefault.jpg"
         },
         {
             "video_id": "uJ3ldBRWEc8",
@@ -331,7 +331,7 @@
             "channel_name": "Leah Dou - Topic",
             "category": "Music",
             "duration": "5:34",
-            "view_count": "7564",
+            "view_count": "8193",
             "thumbnail_url": "https://i.ytimg.com/vi/uJ3ldBRWEc8/hqdefault.jpg"
         },
         {
@@ -340,8 +340,26 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "31:53",
-            "view_count": "84491",
+            "view_count": "88372",
             "thumbnail_url": "https://i.ytimg.com/vi/FPEQtdk-p5k/hqdefault.jpg"
+        },
+        {
+            "video_id": "fJ2W-oQ5cTk",
+            "title": "If You Love Me (feat. 박재범)",
+            "channel_name": "NS 윤지 - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "207507",
+            "thumbnail_url": "https://i.ytimg.com/vi/fJ2W-oQ5cTk/hqdefault.jpg"
+        },
+        {
+            "video_id": "8VdHp0ZoryE",
+            "title": "skibidi toilet 79 (part 3)",
+            "channel_name": "DaFuq!?Boom!",
+            "category": "Entertainment",
+            "duration": "6:19",
+            "view_count": "7877532",
+            "thumbnail_url": "https://i.ytimg.com/vi/8VdHp0ZoryE/hqdefault.jpg"
         },
         {
             "video_id": "fhTW9RGjSg0",
@@ -349,7 +367,7 @@
             "channel_name": "Kwon Jin-ah - Topic",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "192680",
+            "view_count": "195405",
             "thumbnail_url": "https://i.ytimg.com/vi/fhTW9RGjSg0/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "발스타홍구",
             "category": "Gaming",
             "duration": "21:46",
-            "view_count": "141510",
+            "view_count": "143073",
             "thumbnail_url": "https://i.ytimg.com/vi/PpCePcgf_K8/hqdefault.jpg"
-        },
-        {
-            "video_id": "6k__sn8dWWk",
-            "title": "[MV] ROCOBERRY(로코베리) _ The End Of Love(이별이라는 말로 우리의 연애가 끝난다는 게)",
-            "channel_name": "1theK (원더케이)",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "108160",
-            "thumbnail_url": "https://i.ytimg.com/vi/6k__sn8dWWk/hqdefault.jpg"
-        },
-        {
-            "video_id": "gSF3CI3FSjc",
-            "title": "[생]바둑 황태자 까꿍프로",
-            "channel_name": "까꿍프로_바둑채널",
-            "category": "Gaming",
-            "duration": "5:11:37",
-            "view_count": "73640",
-            "thumbnail_url": "https://i.ytimg.com/vi/gSF3CI3FSjc/hqdefault.jpg"
         }
     ]
 }
