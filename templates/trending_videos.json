@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-17 14:20:21",
+    "scraped_time": "2025-10-17 15:31:09",
     "videos": [
         {
             "video_id": "aLUvL0mNQmY",
@@ -7,7 +7,7 @@
             "channel_name": "DAVICHI - Topic",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "104497",
+            "view_count": "113591",
             "thumbnail_url": "https://i.ytimg.com/vi/aLUvL0mNQmY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "8:15:41",
-            "view_count": "3653553",
+            "view_count": "3656016",
             "thumbnail_url": "https://i.ytimg.com/vi/Po2YMFtsGxU/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "HWASA",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "2279122",
+            "view_count": "2330201",
             "thumbnail_url": "https://i.ytimg.com/vi/Qe8fa4b5xNU/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:00",
-            "view_count": "289059",
+            "view_count": "303748",
             "thumbnail_url": "https://i.ytimg.com/vi/bHR621eIKUQ/hqdefault.jpg"
         },
         {
@@ -43,16 +43,16 @@
             "channel_name": "이찬원",
             "category": "Music",
             "duration": "4:41",
-            "view_count": "71534",
+            "view_count": "75749",
             "thumbnail_url": "https://i.ytimg.com/vi/nPdAYsCxcO8/hqdefault.jpg"
         },
         {
             "video_id": "RbIHmlEl1kA",
-            "title": "처음 보는 스트리머 제대로 긁어버린 김민교ㅋㅋㅋㅋ",
+            "title": "처음 보는 스트리머 제대로 긁어버린 김민교ㅋㅋㅋㅋ 【 MCN 대전 】",
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "38:40",
-            "view_count": "198126",
+            "view_count": "214386",
             "thumbnail_url": "https://i.ytimg.com/vi/RbIHmlEl1kA/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "374852",
+            "view_count": "379223",
             "thumbnail_url": "https://i.ytimg.com/vi/4L_YopHT3Gg/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "메이플스토리",
             "category": "Gaming",
             "duration": "1:47:48",
-            "view_count": "132879",
+            "view_count": "133387",
             "thumbnail_url": "https://i.ytimg.com/vi/ukW-K-1rpaw/hqdefault.jpg"
-        },
-        {
-            "video_id": "TLftyCObb_E",
-            "title": "Blue Valentine",
-            "channel_name": "NMIXX - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "1378531",
-            "thumbnail_url": "https://i.ytimg.com/vi/TLftyCObb_E/hqdefault.jpg"
-        },
-        {
-            "video_id": "XwKohlD5URc",
-            "title": "해방 시리즈 혐오자도 구매하게 만드는 레전드 전설이 등장",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "17:22",
-            "view_count": "166187",
-            "thumbnail_url": "https://i.ytimg.com/vi/XwKohlD5URc/hqdefault.jpg"
         },
         {
             "video_id": "Y6hQOI-hdkk",
@@ -97,8 +79,26 @@
             "channel_name": "SOHEE - Topic",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "111629",
+            "view_count": "120148",
             "thumbnail_url": "https://i.ytimg.com/vi/Y6hQOI-hdkk/hqdefault.jpg"
+        },
+        {
+            "video_id": "XwKohlD5URc",
+            "title": "해방 시리즈 혐오자도 구매하게 만드는 레전드 전설이 등장",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "17:22",
+            "view_count": "173747",
+            "thumbnail_url": "https://i.ytimg.com/vi/XwKohlD5URc/hqdefault.jpg"
+        },
+        {
+            "video_id": "TLftyCObb_E",
+            "title": "Blue Valentine",
+            "channel_name": "NMIXX - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "1404773",
+            "thumbnail_url": "https://i.ytimg.com/vi/TLftyCObb_E/hqdefault.jpg"
         },
         {
             "video_id": "QZz3slV-V_E",
@@ -106,7 +106,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "27:39",
-            "view_count": "139382",
+            "view_count": "143585",
             "thumbnail_url": "https://i.ytimg.com/vi/QZz3slV-V_E/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "MEOVV - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "238531",
+            "view_count": "247058",
             "thumbnail_url": "https://i.ytimg.com/vi/roSUXQ4fGvg/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "44:14",
-            "view_count": "155564",
+            "view_count": "161008",
             "thumbnail_url": "https://i.ytimg.com/vi/TJ75ha37ins/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "HIGHLIGHT - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "35006",
+            "view_count": "37284",
             "thumbnail_url": "https://i.ytimg.com/vi/Yzg6qMmzaZ0/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "주둥이방송",
             "category": "Entertainment",
             "duration": "14:14",
-            "view_count": "226947",
+            "view_count": "239203",
             "thumbnail_url": "https://i.ytimg.com/vi/PmX66n9ZxQA/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "6932727",
+            "view_count": "7058291",
             "thumbnail_url": "https://i.ytimg.com/vi/hlULtigNNao/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "36:37",
-            "view_count": "144808",
+            "view_count": "150786",
             "thumbnail_url": "https://i.ytimg.com/vi/iK807WYTnhU/hqdefault.jpg"
         },
         {
@@ -169,26 +169,8 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "15253677",
+            "view_count": "15417107",
             "thumbnail_url": "https://i.ytimg.com/vi/EmeW6li6bbo/hqdefault.jpg"
-        },
-        {
-            "video_id": "4hbZSuQ_DmM",
-            "title": "단두대가 어울리는 계절🍂 | T1 vs IG│2025 Worlds PI | 울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "1:50:00",
-            "view_count": "321889",
-            "thumbnail_url": "https://i.ytimg.com/vi/4hbZSuQ_DmM/hqdefault.jpg"
-        },
-        {
-            "video_id": "m6y_b4jOFfU",
-            "title": "[환승연애4 (EXchange4) OST Part 2] 소희 (SOHEE) - Love on the canvas MV",
-            "channel_name": "Stone Music Entertainment",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "114289",
-            "thumbnail_url": "https://i.ytimg.com/vi/m6y_b4jOFfU/hqdefault.jpg"
         },
         {
             "video_id": "CdlOm6x_CS4",
@@ -196,8 +178,26 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "1:00:35",
-            "view_count": "374461",
+            "view_count": "377100",
             "thumbnail_url": "https://i.ytimg.com/vi/CdlOm6x_CS4/hqdefault.jpg"
+        },
+        {
+            "video_id": "m6y_b4jOFfU",
+            "title": "[환승연애4 (EXchange4) OST Part 2] 소희 (SOHEE) - Love on the canvas MV",
+            "channel_name": "Stone Music Entertainment",
+            "category": "Music",
+            "duration": "3:23",
+            "view_count": "115889",
+            "thumbnail_url": "https://i.ytimg.com/vi/m6y_b4jOFfU/hqdefault.jpg"
+        },
+        {
+            "video_id": "4hbZSuQ_DmM",
+            "title": "단두대가 어울리는 계절🍂 | T1 vs IG│2025 Worlds PI | 울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "1:50:00",
+            "view_count": "323057",
+            "thumbnail_url": "https://i.ytimg.com/vi/4hbZSuQ_DmM/hqdefault.jpg"
         },
         {
             "video_id": "wsWny5BWrnc",
@@ -205,7 +205,7 @@
             "channel_name": "Bodine Monet - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "780360",
+            "view_count": "787180",
             "thumbnail_url": "https://i.ytimg.com/vi/wsWny5BWrnc/hqdefault.jpg"
         },
         {
@@ -214,44 +214,8 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "15:49",
-            "view_count": "107129",
+            "view_count": "111266",
             "thumbnail_url": "https://i.ytimg.com/vi/jTxxwNAHcIw/hqdefault.jpg"
-        },
-        {
-            "video_id": "4WFsxzp7SBc",
-            "title": "걸어줄래",
-            "channel_name": "고추잠자리 - Topic",
-            "category": "Music",
-            "duration": "4:18",
-            "view_count": "596485",
-            "thumbnail_url": "https://i.ytimg.com/vi/4WFsxzp7SBc/hqdefault.jpg"
-        },
-        {
-            "video_id": "zeVxOATKr_w",
-            "title": "\"99일간 노숙하기\" ㅋㅋㅋㅋ 비밀기지 만들고 99일간 모닥불 밖에서만 살아봤습니다.  (로블록스 99나이트인더포레스트)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "33:32",
-            "view_count": "120572",
-            "thumbnail_url": "https://i.ytimg.com/vi/zeVxOATKr_w/hqdefault.jpg"
-        },
-        {
-            "video_id": "1cnndBdzCAk",
-            "title": "米津玄師  Kenshi Yonezu -  1991",
-            "channel_name": "Kenshi Yonezu  米津玄師",
-            "category": "Music",
-            "duration": "3:58",
-            "view_count": "1183380",
-            "thumbnail_url": "https://i.ytimg.com/vi/1cnndBdzCAk/hqdefault.jpg"
-        },
-        {
-            "video_id": "dvFqGllaqW8",
-            "title": "단 두대",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "23:10",
-            "view_count": "120522",
-            "thumbnail_url": "https://i.ytimg.com/vi/dvFqGllaqW8/hqdefault.jpg"
         },
         {
             "video_id": "KA-zE4vMJW8",
@@ -259,17 +223,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "29399",
+            "view_count": "30926",
             "thumbnail_url": "https://i.ytimg.com/vi/KA-zE4vMJW8/hqdefault.jpg"
         },
         {
-            "video_id": "S52WtHNytbI",
-            "title": "5400만원이 걸렸는데 밥이 넘어가?",
-            "channel_name": "킴성태TV",
+            "video_id": "zeVxOATKr_w",
+            "title": "\"99일간 노숙하기\" ㅋㅋㅋㅋ 비밀기지 만들고 99일간 모닥불 밖에서만 살아봤습니다.  (로블록스 99나이트인더포레스트)",
+            "channel_name": "말량",
             "category": "Gaming",
-            "duration": "23:28",
-            "view_count": "121240",
-            "thumbnail_url": "https://i.ytimg.com/vi/S52WtHNytbI/hqdefault.jpg"
+            "duration": "33:32",
+            "view_count": "122341",
+            "thumbnail_url": "https://i.ytimg.com/vi/zeVxOATKr_w/hqdefault.jpg"
         },
         {
             "video_id": "gFzJG7M7Drg",
@@ -277,8 +241,44 @@
             "channel_name": "Kim Feelsun - Topic",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "28625",
+            "view_count": "29536",
             "thumbnail_url": "https://i.ytimg.com/vi/gFzJG7M7Drg/hqdefault.jpg"
+        },
+        {
+            "video_id": "dvFqGllaqW8",
+            "title": "단 두대",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "23:10",
+            "view_count": "126700",
+            "thumbnail_url": "https://i.ytimg.com/vi/dvFqGllaqW8/hqdefault.jpg"
+        },
+        {
+            "video_id": "1cnndBdzCAk",
+            "title": "米津玄師  Kenshi Yonezu -  1991",
+            "channel_name": "Kenshi Yonezu  米津玄師",
+            "category": "Music",
+            "duration": "3:58",
+            "view_count": "1199993",
+            "thumbnail_url": "https://i.ytimg.com/vi/1cnndBdzCAk/hqdefault.jpg"
+        },
+        {
+            "video_id": "S52WtHNytbI",
+            "title": "5400만원이 걸렸는데 밥이 넘어가?",
+            "channel_name": "킴성태TV",
+            "category": "Gaming",
+            "duration": "23:28",
+            "view_count": "134048",
+            "thumbnail_url": "https://i.ytimg.com/vi/S52WtHNytbI/hqdefault.jpg"
+        },
+        {
+            "video_id": "4WFsxzp7SBc",
+            "title": "걸어줄래",
+            "channel_name": "고추잠자리 - Topic",
+            "category": "Music",
+            "duration": "4:18",
+            "view_count": "602582",
+            "thumbnail_url": "https://i.ytimg.com/vi/4WFsxzp7SBc/hqdefault.jpg"
         },
         {
             "video_id": "qxKmQTcpVG4",
@@ -286,7 +286,7 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "18:09",
-            "view_count": "112271",
+            "view_count": "113300",
             "thumbnail_url": "https://i.ytimg.com/vi/qxKmQTcpVG4/hqdefault.jpg"
         },
         {
@@ -295,26 +295,8 @@
             "channel_name": "차가을 - Topic",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "32554",
+            "view_count": "33466",
             "thumbnail_url": "https://i.ytimg.com/vi/SERO52BIfQo/hqdefault.jpg"
-        },
-        {
-            "video_id": "75CvzhHsrk0",
-            "title": "자고 일어났더니 제 장례식이 치뤄졌습니다...",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "16:10",
-            "view_count": "281959",
-            "thumbnail_url": "https://i.ytimg.com/vi/75CvzhHsrk0/hqdefault.jpg"
-        },
-        {
-            "video_id": "o9V8HrgJgIg",
-            "title": "BABYMONSTER - 'WE GO UP' EXCLUSIVE PERFORMANCE VIDEO",
-            "channel_name": "BABYMONSTER",
-            "category": "Music",
-            "duration": "3:26",
-            "view_count": "27432931",
-            "thumbnail_url": "https://i.ytimg.com/vi/o9V8HrgJgIg/hqdefault.jpg"
         },
         {
             "video_id": "ZVPura-22DU",
@@ -322,26 +304,8 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "41:30",
-            "view_count": "136987",
+            "view_count": "142232",
             "thumbnail_url": "https://i.ytimg.com/vi/ZVPura-22DU/hqdefault.jpg"
-        },
-        {
-            "video_id": "1dcMTWULN28",
-            "title": "화사 (HWASA) ‘Good Goodbye’｜Record Delivery📦｜Self Recording @HWASA’s Home with TTONGKKO｜LIVE｜레코드딜리버리",
-            "channel_name": "1theK Live - 원더케이 라이브",
-            "category": "Music",
-            "duration": "4:56",
-            "view_count": "92757",
-            "thumbnail_url": "https://i.ytimg.com/vi/1dcMTWULN28/hqdefault.jpg"
-        },
-        {
-            "video_id": "g5hUv6V2dEI",
-            "title": "2년이나 기다린 보람이 있었을까? 포켓몬 레전즈 Z-A 초반 플레이 리뷰! - [전자오랏맨]",
-            "channel_name": "전자오랏맨",
-            "category": "Gaming",
-            "duration": "12:31",
-            "view_count": "93983",
-            "thumbnail_url": "https://i.ytimg.com/vi/g5hUv6V2dEI/hqdefault.jpg"
         },
         {
             "video_id": "0HrVI9M0NFY",
@@ -349,26 +313,44 @@
             "channel_name": "Radio Love",
             "category": "People & Blogs",
             "duration": "1:12:43",
-            "view_count": "4429",
+            "view_count": "5270",
             "thumbnail_url": "https://i.ytimg.com/vi/0HrVI9M0NFY/hqdefault.jpg"
         },
         {
-            "video_id": "pnKdlleEtAU",
-            "title": "드디어 적으로 만났다.. 김블루",
-            "channel_name": "군림보",
+            "video_id": "g5hUv6V2dEI",
+            "title": "2년이나 기다린 보람이 있었을까? 포켓몬 레전즈 Z-A 초반 플레이 리뷰! - [전자오랏맨]",
+            "channel_name": "전자오랏맨",
             "category": "Gaming",
-            "duration": "26:08",
-            "view_count": "133627",
-            "thumbnail_url": "https://i.ytimg.com/vi/pnKdlleEtAU/hqdefault.jpg"
+            "duration": "12:31",
+            "view_count": "101530",
+            "thumbnail_url": "https://i.ytimg.com/vi/g5hUv6V2dEI/hqdefault.jpg"
         },
         {
-            "video_id": "QPAWJ2FyRRw",
-            "title": "OVERDRIVE",
-            "channel_name": "TWS - Topic",
+            "video_id": "o9V8HrgJgIg",
+            "title": "BABYMONSTER - 'WE GO UP' EXCLUSIVE PERFORMANCE VIDEO",
+            "channel_name": "BABYMONSTER",
             "category": "Music",
-            "duration": "2:40",
-            "view_count": "282026",
-            "thumbnail_url": "https://i.ytimg.com/vi/QPAWJ2FyRRw/hqdefault.jpg"
+            "duration": "3:26",
+            "view_count": "27772658",
+            "thumbnail_url": "https://i.ytimg.com/vi/o9V8HrgJgIg/hqdefault.jpg"
+        },
+        {
+            "video_id": "75CvzhHsrk0",
+            "title": "자고 일어났더니 제 장례식이 치뤄졌습니다...",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "16:10",
+            "view_count": "282928",
+            "thumbnail_url": "https://i.ytimg.com/vi/75CvzhHsrk0/hqdefault.jpg"
+        },
+        {
+            "video_id": "1dcMTWULN28",
+            "title": "화사 (HWASA) ‘Good Goodbye’｜Record Delivery📦｜Self Recording @HWASA’s Home with TTONGKKO｜LIVE｜레코드딜리버리",
+            "channel_name": "1theK Live - 원더케이 라이브",
+            "category": "Music",
+            "duration": "4:56",
+            "view_count": "95070",
+            "thumbnail_url": "https://i.ytimg.com/vi/1dcMTWULN28/hqdefault.jpg"
         },
         {
             "video_id": "4NkngUcbnTg",
@@ -376,8 +358,26 @@
             "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
             "duration": "18:00",
-            "view_count": "108335",
+            "view_count": "114910",
             "thumbnail_url": "https://i.ytimg.com/vi/4NkngUcbnTg/hqdefault.jpg"
+        },
+        {
+            "video_id": "QPAWJ2FyRRw",
+            "title": "OVERDRIVE",
+            "channel_name": "TWS - Topic",
+            "category": "Music",
+            "duration": "2:40",
+            "view_count": "286562",
+            "thumbnail_url": "https://i.ytimg.com/vi/QPAWJ2FyRRw/hqdefault.jpg"
+        },
+        {
+            "video_id": "pnKdlleEtAU",
+            "title": "드디어 적으로 만났다.. 김블루",
+            "channel_name": "군림보",
+            "category": "Gaming",
+            "duration": "26:08",
+            "view_count": "138689",
+            "thumbnail_url": "https://i.ytimg.com/vi/pnKdlleEtAU/hqdefault.jpg"
         }
     ]
 }
