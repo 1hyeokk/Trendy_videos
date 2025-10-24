@@ -1,14 +1,14 @@
 {
-    "scraped_time": "2025-10-24 15:31:19",
+    "scraped_time": "2025-10-24 16:20:04",
     "videos": [
         {
-            "video_id": "hnIzXiNT10E",
-            "title": "끝사랑",
-            "channel_name": "Kwon Jin-ah - Topic",
+            "video_id": "TvVtYaqCni8",
+            "title": "LE SSERAFIM (르세라핌) 'SPAGHETTI (feat. j-hope of BTS)' OFFICIAL MV",
+            "channel_name": "HYBE LABELS",
             "category": "Music",
-            "duration": "4:18",
-            "view_count": "241221",
-            "thumbnail_url": "https://i.ytimg.com/vi/hnIzXiNT10E/hqdefault.jpg"
+            "duration": "3:19",
+            "view_count": "1229165",
+            "thumbnail_url": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg"
         },
         {
             "video_id": "mm6w2ufD6ME",
@@ -16,7 +16,7 @@
             "channel_name": "PlayStation",
             "category": "Gaming",
             "duration": "2:03",
-            "view_count": "298701",
+            "view_count": "306077",
             "thumbnail_url": "https://i.ytimg.com/vi/mm6w2ufD6ME/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:02:26",
-            "view_count": "1773787",
+            "view_count": "1774851",
             "thumbnail_url": "https://i.ytimg.com/vi/dlW64Lvmhc0/hqdefault.jpg"
         },
         {
-            "video_id": "TvVtYaqCni8",
-            "title": "LE SSERAFIM (르세라핌) 'SPAGHETTI (feat. j-hope of BTS)' OFFICIAL MV",
-            "channel_name": "HYBE LABELS",
+            "video_id": "hnIzXiNT10E",
+            "title": "끝사랑",
+            "channel_name": "Kwon Jin-ah - Topic",
             "category": "Music",
-            "duration": "3:19",
-            "view_count": "939548",
-            "thumbnail_url": "https://i.ytimg.com/vi/TvVtYaqCni8/hqdefault.jpg"
+            "duration": "4:18",
+            "view_count": "251685",
+            "thumbnail_url": "https://i.ytimg.com/vi/hnIzXiNT10E/hqdefault.jpg"
         },
         {
             "video_id": "CStK0hNcJXM",
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:07",
-            "view_count": "23791",
+            "view_count": "28204",
             "thumbnail_url": "https://i.ytimg.com/vi/CStK0hNcJXM/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:26",
-            "view_count": "272383",
+            "view_count": "276554",
             "thumbnail_url": "https://i.ytimg.com/vi/HN-xRGyHuLw/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Boramiyu - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "303310",
+            "view_count": "308992",
             "thumbnail_url": "https://i.ytimg.com/vi/noGHbYIYprY/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:47",
-            "view_count": "315828",
+            "view_count": "320357",
             "thumbnail_url": "https://i.ytimg.com/vi/ffHyne62J_I/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "최유리 Choi Yu Ree",
             "category": "Music",
             "duration": "4:23",
-            "view_count": "57274",
+            "view_count": "58517",
             "thumbnail_url": "https://i.ytimg.com/vi/x6GGGjXN2Mw/hqdefault.jpg"
-        },
-        {
-            "video_id": "9poqG09b7wA",
-            "title": "라떼는 프리즘 필드 값만 110골이 넘었다고 ㅋㅋ",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "14:26",
-            "view_count": "158940",
-            "thumbnail_url": "https://i.ytimg.com/vi/9poqG09b7wA/hqdefault.jpg"
-        },
-        {
-            "video_id": "eu3np8dFJDU",
-            "title": "Just Kids",
-            "channel_name": "JANNABI - Topic",
-            "category": "Music",
-            "duration": "4:06",
-            "view_count": "288781",
-            "thumbnail_url": "https://i.ytimg.com/vi/eu3np8dFJDU/hqdefault.jpg"
         },
         {
             "video_id": "58Iigoo1s88",
@@ -106,8 +88,26 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "30:18",
-            "view_count": "76365",
+            "view_count": "91251",
             "thumbnail_url": "https://i.ytimg.com/vi/58Iigoo1s88/hqdefault.jpg"
+        },
+        {
+            "video_id": "eu3np8dFJDU",
+            "title": "Just Kids",
+            "channel_name": "JANNABI - Topic",
+            "category": "Music",
+            "duration": "4:06",
+            "view_count": "293528",
+            "thumbnail_url": "https://i.ytimg.com/vi/eu3np8dFJDU/hqdefault.jpg"
+        },
+        {
+            "video_id": "9poqG09b7wA",
+            "title": "라떼는 프리즘 필드 값만 110골이 넘었다고 ㅋㅋ",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "14:26",
+            "view_count": "162503",
+            "thumbnail_url": "https://i.ytimg.com/vi/9poqG09b7wA/hqdefault.jpg"
         },
         {
             "video_id": "07QvRNaHGXQ",
@@ -115,7 +115,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "48304",
+            "view_count": "49323",
             "thumbnail_url": "https://i.ytimg.com/vi/07QvRNaHGXQ/hqdefault.jpg"
         },
         {
@@ -124,26 +124,8 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "21:46",
-            "view_count": "128295",
+            "view_count": "130668",
             "thumbnail_url": "https://i.ytimg.com/vi/h14gOyMgbSI/hqdefault.jpg"
-        },
-        {
-            "video_id": "eqKhhG4FVoQ",
-            "title": "FOCUS",
-            "channel_name": "Hearts2Hearts - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "1247104",
-            "thumbnail_url": "https://i.ytimg.com/vi/eqKhhG4FVoQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "uN-srm0m8M8",
-            "title": "현재 진짜 난리가 난 \"발로란트 이적시장\" , 그래서 다 한번 모아봤습니다",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "28:50",
-            "view_count": "123465",
-            "thumbnail_url": "https://i.ytimg.com/vi/uN-srm0m8M8/hqdefault.jpg"
         },
         {
             "video_id": "qtQzSa4R22g",
@@ -151,8 +133,26 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "83823",
+            "view_count": "87874",
             "thumbnail_url": "https://i.ytimg.com/vi/qtQzSa4R22g/hqdefault.jpg"
+        },
+        {
+            "video_id": "uN-srm0m8M8",
+            "title": "현재 진짜 난리가 난 \"발로란트 이적시장\" , 그래서 다 한번 모아봤습니다",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "28:50",
+            "view_count": "124862",
+            "thumbnail_url": "https://i.ytimg.com/vi/uN-srm0m8M8/hqdefault.jpg"
+        },
+        {
+            "video_id": "eqKhhG4FVoQ",
+            "title": "FOCUS",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "1260844",
+            "thumbnail_url": "https://i.ytimg.com/vi/eqKhhG4FVoQ/hqdefault.jpg"
         },
         {
             "video_id": "I4HdaaiQs_c",
@@ -160,7 +160,7 @@
             "channel_name": "중년게이머 김실장",
             "category": "Gaming",
             "duration": "38:59",
-            "view_count": "149053",
+            "view_count": "151558",
             "thumbnail_url": "https://i.ytimg.com/vi/I4HdaaiQs_c/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "3:17",
-            "view_count": "368392",
+            "view_count": "384545",
             "thumbnail_url": "https://i.ytimg.com/vi/BkLKEsh6tZU/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "17:05",
-            "view_count": "121201",
+            "view_count": "122745",
             "thumbnail_url": "https://i.ytimg.com/vi/m565kso9JKw/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "720868",
+            "view_count": "724723",
             "thumbnail_url": "https://i.ytimg.com/vi/ptDnd4lGr-k/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "김데데",
             "category": "Gaming",
             "duration": "17:42",
-            "view_count": "119002",
+            "view_count": "120404",
             "thumbnail_url": "https://i.ytimg.com/vi/UQ5aZZX-9Tc/hqdefault.jpg"
         },
         {
@@ -205,17 +205,17 @@
             "channel_name": "이찬원",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "318156",
+            "view_count": "320838",
             "thumbnail_url": "https://i.ytimg.com/vi/AIh7UA7UoYI/hqdefault.jpg"
         },
         {
-            "video_id": "BGQx4iMqZTc",
-            "title": "상대 병력 전부 무시하고 본진까지 올라가서 건물만 부숴보기, 상대는 결국 엘리 직전까지 가는데?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "DhxphWGmDPI",
+            "title": "[메이플랜드] 2025 할로윈 이벤트 공략",
+            "channel_name": "난동군",
             "category": "Gaming",
-            "duration": "40:05",
-            "view_count": "94105",
-            "thumbnail_url": "https://i.ytimg.com/vi/BGQx4iMqZTc/hqdefault.jpg"
+            "duration": "10:56",
+            "view_count": "11005",
+            "thumbnail_url": "https://i.ytimg.com/vi/DhxphWGmDPI/hqdefault.jpg"
         },
         {
             "video_id": "Ur7aK4FvK-U",
@@ -223,17 +223,17 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "11306590",
+            "view_count": "11360393",
             "thumbnail_url": "https://i.ytimg.com/vi/Ur7aK4FvK-U/hqdefault.jpg"
         },
         {
-            "video_id": "PzuVMsHQyW8",
-            "title": "배그 파트너 핵 사용 의심 사건",
-            "channel_name": "주키니TV",
+            "video_id": "BGQx4iMqZTc",
+            "title": "상대 병력 전부 무시하고 본진까지 올라가서 건물만 부숴보기, 상대는 결국 엘리 직전까지 가는데?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "23:57",
-            "view_count": "137765",
-            "thumbnail_url": "https://i.ytimg.com/vi/PzuVMsHQyW8/hqdefault.jpg"
+            "duration": "40:05",
+            "view_count": "95416",
+            "thumbnail_url": "https://i.ytimg.com/vi/BGQx4iMqZTc/hqdefault.jpg"
         },
         {
             "video_id": "-8l-0h3OddU",
@@ -241,8 +241,26 @@
             "channel_name": "LUCY ISLAND",
             "category": "Entertainment",
             "duration": "2:29",
-            "view_count": "30603",
+            "view_count": "31908",
             "thumbnail_url": "https://i.ytimg.com/vi/-8l-0h3OddU/hqdefault.jpg"
+        },
+        {
+            "video_id": "PzuVMsHQyW8",
+            "title": "배그 파트너 핵 사용 의심 사건",
+            "channel_name": "주키니TV",
+            "category": "Gaming",
+            "duration": "23:57",
+            "view_count": "140370",
+            "thumbnail_url": "https://i.ytimg.com/vi/PzuVMsHQyW8/hqdefault.jpg"
+        },
+        {
+            "video_id": "29uO-Kx8fJs",
+            "title": "Huntrix - Golden (Tekst/Lyrics) Polskie Tłumaczenie",
+            "channel_name": "W Bańce",
+            "category": "Music",
+            "duration": "3:14",
+            "view_count": "239935",
+            "thumbnail_url": "https://i.ytimg.com/vi/29uO-Kx8fJs/hqdefault.jpg"
         },
         {
             "video_id": "vnx9ggeXz0I",
@@ -250,8 +268,26 @@
             "channel_name": "[꿀템TV] 클템 유튜브",
             "category": "Gaming",
             "duration": "1:00:57",
-            "view_count": "72024",
+            "view_count": "74669",
             "thumbnail_url": "https://i.ytimg.com/vi/vnx9ggeXz0I/hqdefault.jpg"
+        },
+        {
+            "video_id": "12ELDQy3IUc",
+            "title": "SPAGHETTI (feat. j-hope of BTS)",
+            "channel_name": "LE SSERAFIM - Topic",
+            "category": "Music",
+            "duration": "2:53",
+            "view_count": "26047",
+            "thumbnail_url": "https://i.ytimg.com/vi/12ELDQy3IUc/hqdefault.jpg"
+        },
+        {
+            "video_id": "X6lZImIclk8",
+            "title": "할 수 있으면 해 봐",
+            "channel_name": "YouTube지누",
+            "category": "Gaming",
+            "duration": "33:59",
+            "view_count": "111485",
+            "thumbnail_url": "https://i.ytimg.com/vi/X6lZImIclk8/hqdefault.jpg"
         },
         {
             "video_id": "wa58LYVlY_s",
@@ -259,7 +295,7 @@
             "channel_name": "Hebi - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "441915",
+            "view_count": "445887",
             "thumbnail_url": "https://i.ytimg.com/vi/wa58LYVlY_s/hqdefault.jpg"
         },
         {
@@ -268,26 +304,8 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "38:41",
-            "view_count": "105372",
+            "view_count": "107368",
             "thumbnail_url": "https://i.ytimg.com/vi/LrWeoBWOsIs/hqdefault.jpg"
-        },
-        {
-            "video_id": "29uO-Kx8fJs",
-            "title": "Huntrix - Golden (Tekst/Lyrics) Polskie Tłumaczenie",
-            "channel_name": "W Bańce",
-            "category": "Music",
-            "duration": "3:14",
-            "view_count": "209154",
-            "thumbnail_url": "https://i.ytimg.com/vi/29uO-Kx8fJs/hqdefault.jpg"
-        },
-        {
-            "video_id": "X6lZImIclk8",
-            "title": "할 수 있으면 해 봐",
-            "channel_name": "YouTube지누",
-            "category": "Gaming",
-            "duration": "33:59",
-            "view_count": "109768",
-            "thumbnail_url": "https://i.ytimg.com/vi/X6lZImIclk8/hqdefault.jpg"
         },
         {
             "video_id": "b_DultuSMTw",
@@ -295,7 +313,7 @@
             "channel_name": "Jung Joon-Il - Topic",
             "category": "Music",
             "duration": "4:39",
-            "view_count": "45396",
+            "view_count": "47571",
             "thumbnail_url": "https://i.ytimg.com/vi/b_DultuSMTw/hqdefault.jpg"
         },
         {
@@ -304,7 +322,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "30:05",
-            "view_count": "100650",
+            "view_count": "101887",
             "thumbnail_url": "https://i.ytimg.com/vi/XiJl6MA6MSU/hqdefault.jpg"
         },
         {
@@ -313,26 +331,8 @@
             "channel_name": "tuki. - Topic",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "148721",
+            "view_count": "151224",
             "thumbnail_url": "https://i.ytimg.com/vi/8W8-iXYNwys/hqdefault.jpg"
-        },
-        {
-            "video_id": "aZZvpDdV1cI",
-            "title": "우리 피시방 알바생이 또 월급 몽땅 현질해서 찾아왔습니다",
-            "channel_name": "글자네",
-            "category": "Gaming",
-            "duration": "13:59",
-            "view_count": "109116",
-            "thumbnail_url": "https://i.ytimg.com/vi/aZZvpDdV1cI/hqdefault.jpg"
-        },
-        {
-            "video_id": "jDNCmVejil4",
-            "title": "LEECHANGSUB 이창섭 - '주르르' M/V",
-            "channel_name": "fantagio 판타지오",
-            "category": "Entertainment",
-            "duration": "4:50",
-            "view_count": "352002",
-            "thumbnail_url": "https://i.ytimg.com/vi/jDNCmVejil4/hqdefault.jpg"
         },
         {
             "video_id": "urIXWs2wwgw",
@@ -340,26 +340,26 @@
             "channel_name": "탬탬버린",
             "category": "Gaming",
             "duration": "49:15",
-            "view_count": "99869",
+            "view_count": "102503",
             "thumbnail_url": "https://i.ytimg.com/vi/urIXWs2wwgw/hqdefault.jpg"
         },
         {
-            "video_id": "12ELDQy3IUc",
-            "title": "SPAGHETTI (feat. j-hope of BTS)",
-            "channel_name": "LE SSERAFIM - Topic",
-            "category": "Music",
-            "duration": "2:53",
-            "view_count": "19137",
-            "thumbnail_url": "https://i.ytimg.com/vi/12ELDQy3IUc/hqdefault.jpg"
+            "video_id": "jDNCmVejil4",
+            "title": "LEECHANGSUB 이창섭 - '주르르' M/V",
+            "channel_name": "fantagio 판타지오",
+            "category": "Entertainment",
+            "duration": "4:50",
+            "view_count": "360123",
+            "thumbnail_url": "https://i.ytimg.com/vi/jDNCmVejil4/hqdefault.jpg"
         },
         {
-            "video_id": "-FyQOcpsWM0",
-            "title": "샤코의 망가지지 않는 장난감",
-            "channel_name": "샤코타임 Shacotime",
+            "video_id": "aZZvpDdV1cI",
+            "title": "우리 피시방 알바생이 또 월급 몽땅 현질해서 찾아왔습니다",
+            "channel_name": "글자네",
             "category": "Gaming",
-            "duration": "17:36",
-            "view_count": "88677",
-            "thumbnail_url": "https://i.ytimg.com/vi/-FyQOcpsWM0/hqdefault.jpg"
+            "duration": "13:59",
+            "view_count": "110894",
+            "thumbnail_url": "https://i.ytimg.com/vi/aZZvpDdV1cI/hqdefault.jpg"
         },
         {
             "video_id": "SiP2kYjd9H4",
@@ -367,17 +367,17 @@
             "channel_name": "MILGRAM -ミルグラム-",
             "category": "Music",
             "duration": "2:55",
-            "view_count": "543874",
+            "view_count": "548915",
             "thumbnail_url": "https://i.ytimg.com/vi/SiP2kYjd9H4/hqdefault.jpg"
         },
         {
-            "video_id": "1TFtp8dwOJw",
-            "title": "진짜 반성했다니까요 - [스텔라이브 스포일러 모음집]",
-            "channel_name": "스텔라이브 StelLive Official",
-            "category": "Entertainment",
-            "duration": "13:40",
-            "view_count": "90204",
-            "thumbnail_url": "https://i.ytimg.com/vi/1TFtp8dwOJw/hqdefault.jpg"
+            "video_id": "-FyQOcpsWM0",
+            "title": "샤코의 망가지지 않는 장난감",
+            "channel_name": "샤코타임 Shacotime",
+            "category": "Gaming",
+            "duration": "17:36",
+            "view_count": "90611",
+            "thumbnail_url": "https://i.ytimg.com/vi/-FyQOcpsWM0/hqdefault.jpg"
         }
     ]
 }
