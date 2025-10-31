@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-31 21:45:38",
+    "scraped_time": "2025-10-31 22:31:33",
     "videos": [
         {
             "video_id": "ewk5MPptBIs",
@@ -7,7 +7,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "265410",
+            "view_count": "272927",
             "thumbnail_url": "https://i.ytimg.com/vi/ewk5MPptBIs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "또봇 Tobot",
             "category": "Film & Animation",
             "duration": "1:01",
-            "view_count": "53054",
+            "view_count": "54405",
             "thumbnail_url": "https://i.ytimg.com/vi/l-AvJBxqDtI/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:57:45",
-            "view_count": "3881355",
+            "view_count": "4937122",
             "thumbnail_url": "https://i.ytimg.com/vi/e99uy3RQPN0/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "2:35",
-            "view_count": "540414",
+            "view_count": "564215",
             "thumbnail_url": "https://i.ytimg.com/vi/9zgdHUmNU0I/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:55",
-            "view_count": "57073",
+            "view_count": "59376",
             "thumbnail_url": "https://i.ytimg.com/vi/N8CvVBTStXc/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "17:41",
-            "view_count": "361991",
+            "view_count": "365867",
             "thumbnail_url": "https://i.ytimg.com/vi/7dGnIc4IUXU/hqdefault.jpg"
         },
         {
@@ -61,26 +61,8 @@
             "channel_name": "LUCY - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "126717",
+            "view_count": "129362",
             "thumbnail_url": "https://i.ytimg.com/vi/uq3arUptDcg/hqdefault.jpg"
-        },
-        {
-            "video_id": "6GqPlfpxG3I",
-            "title": "스팀 1위먹은 중국산 오리게임",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "54:34",
-            "view_count": "379719",
-            "thumbnail_url": "https://i.ytimg.com/vi/6GqPlfpxG3I/hqdefault.jpg"
-        },
-        {
-            "video_id": "nwksfZMJXXs",
-            "title": "No Words Can Say",
-            "channel_name": "Roy Kim - Topic",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "1175033",
-            "thumbnail_url": "https://i.ytimg.com/vi/nwksfZMJXXs/hqdefault.jpg"
         },
         {
             "video_id": "FzhavqtfFhc",
@@ -88,8 +70,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "43:23",
-            "view_count": "184430",
+            "view_count": "188289",
             "thumbnail_url": "https://i.ytimg.com/vi/FzhavqtfFhc/hqdefault.jpg"
+        },
+        {
+            "video_id": "nwksfZMJXXs",
+            "title": "No Words Can Say",
+            "channel_name": "Roy Kim - Topic",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "1185574",
+            "thumbnail_url": "https://i.ytimg.com/vi/nwksfZMJXXs/hqdefault.jpg"
+        },
+        {
+            "video_id": "6GqPlfpxG3I",
+            "title": "중국산 오리게임",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "54:34",
+            "view_count": "385822",
+            "thumbnail_url": "https://i.ytimg.com/vi/6GqPlfpxG3I/hqdefault.jpg"
         },
         {
             "video_id": "qWDXjaUHARA",
@@ -97,7 +97,7 @@
             "channel_name": "SUZY - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "69328",
+            "view_count": "70993",
             "thumbnail_url": "https://i.ytimg.com/vi/qWDXjaUHARA/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "난동군",
             "category": "Gaming",
             "duration": "6:56",
-            "view_count": "91659",
+            "view_count": "97875",
             "thumbnail_url": "https://i.ytimg.com/vi/RmyL6Jn_7gw/hqdefault.jpg"
         },
         {
@@ -115,26 +115,8 @@
             "channel_name": "Jung Seung Hwan - Topic",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "36610",
+            "view_count": "37792",
             "thumbnail_url": "https://i.ytimg.com/vi/kusGmLf5nQk/hqdefault.jpg"
-        },
-        {
-            "video_id": "IW693-dc2XU",
-            "title": "교통사고 났습니다",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "16:27",
-            "view_count": "262284",
-            "thumbnail_url": "https://i.ytimg.com/vi/IW693-dc2XU/hqdefault.jpg"
-        },
-        {
-            "video_id": "898fwnkHoHg",
-            "title": "Gracie Abrams - That’s So True (Apple Music Live 2025)",
-            "channel_name": "Gracie Abrams",
-            "category": "People & Blogs",
-            "duration": "3:26",
-            "view_count": "626697",
-            "thumbnail_url": "https://i.ytimg.com/vi/898fwnkHoHg/hqdefault.jpg"
         },
         {
             "video_id": "rYgM5ynAMnE",
@@ -142,8 +124,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "49:22",
-            "view_count": "73445",
+            "view_count": "83654",
             "thumbnail_url": "https://i.ytimg.com/vi/rYgM5ynAMnE/hqdefault.jpg"
+        },
+        {
+            "video_id": "898fwnkHoHg",
+            "title": "Gracie Abrams - That’s So True (Apple Music Live 2025)",
+            "channel_name": "Gracie Abrams",
+            "category": "People & Blogs",
+            "duration": "3:26",
+            "view_count": "651072",
+            "thumbnail_url": "https://i.ytimg.com/vi/898fwnkHoHg/hqdefault.jpg"
+        },
+        {
+            "video_id": "IW693-dc2XU",
+            "title": "교통사고 났습니다",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "16:27",
+            "view_count": "265428",
+            "thumbnail_url": "https://i.ytimg.com/vi/IW693-dc2XU/hqdefault.jpg"
         },
         {
             "video_id": "ORAZtsMBJzg",
@@ -151,7 +151,7 @@
             "channel_name": "Creedence Clearwater Revival",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "4291957",
+            "view_count": "4367660",
             "thumbnail_url": "https://i.ytimg.com/vi/ORAZtsMBJzg/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "ProjectMoon Official",
             "category": "Gaming",
             "duration": "3:02",
-            "view_count": "161545",
+            "view_count": "201210",
             "thumbnail_url": "https://i.ytimg.com/vi/oLAloJK-rsA/hqdefault.jpg"
         },
         {
@@ -169,26 +169,8 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "411719",
+            "view_count": "414719",
             "thumbnail_url": "https://i.ytimg.com/vi/g0CVkU1w00M/hqdefault.jpg"
-        },
-        {
-            "video_id": "1ZiOkktg7L0",
-            "title": "래더점수 물어보길래 솔직하게 3000이라고 대답해줬는데 허언증 취급하며 개무시하는 상대ㅋㅋ 그의 운명은?",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "38:14",
-            "view_count": "183367",
-            "thumbnail_url": "https://i.ytimg.com/vi/1ZiOkktg7L0/hqdefault.jpg"
-        },
-        {
-            "video_id": "AkIuW_VcG0o",
-            "title": "Last Promise",
-            "channel_name": "Kim Na-young - Topic",
-            "category": "Music",
-            "duration": "4:00",
-            "view_count": "37743",
-            "thumbnail_url": "https://i.ytimg.com/vi/AkIuW_VcG0o/hqdefault.jpg"
         },
         {
             "video_id": "FDWKzCcurAE",
@@ -196,35 +178,17 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "19:33",
-            "view_count": "46042",
+            "view_count": "56063",
             "thumbnail_url": "https://i.ytimg.com/vi/FDWKzCcurAE/hqdefault.jpg"
         },
         {
-            "video_id": "Uu9V4gFoTAA",
-            "title": "MAGIC",
-            "channel_name": "Ado - Topic",
+            "video_id": "AkIuW_VcG0o",
+            "title": "Last Promise",
+            "channel_name": "Kim Na-young - Topic",
             "category": "Music",
-            "duration": "2:53",
-            "view_count": "290781",
-            "thumbnail_url": "https://i.ytimg.com/vi/Uu9V4gFoTAA/hqdefault.jpg"
-        },
-        {
-            "video_id": "5DHQWYtxq20",
-            "title": "피파4 모든유저 100조 준다 ㅋㅋㅋ",
-            "channel_name": "나현우",
-            "category": "Gaming",
-            "duration": "0:59",
-            "view_count": "131439",
-            "thumbnail_url": "https://i.ytimg.com/vi/5DHQWYtxq20/hqdefault.jpg"
-        },
-        {
-            "video_id": "lROE6G2DwFY",
-            "title": "82MAJOR(82메이저) ‘트로피 (TROPHY)’ MV",
-            "channel_name": "82MAJOR",
-            "category": "Entertainment",
-            "duration": "3:21",
-            "view_count": "819280",
-            "thumbnail_url": "https://i.ytimg.com/vi/lROE6G2DwFY/hqdefault.jpg"
+            "duration": "4:00",
+            "view_count": "38322",
+            "thumbnail_url": "https://i.ytimg.com/vi/AkIuW_VcG0o/hqdefault.jpg"
         },
         {
             "video_id": "2MfCS3maidc",
@@ -232,8 +196,44 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "54:57",
-            "view_count": "71812",
+            "view_count": "73917",
             "thumbnail_url": "https://i.ytimg.com/vi/2MfCS3maidc/hqdefault.jpg"
+        },
+        {
+            "video_id": "Uu9V4gFoTAA",
+            "title": "MAGIC",
+            "channel_name": "Ado - Topic",
+            "category": "Music",
+            "duration": "2:53",
+            "view_count": "297994",
+            "thumbnail_url": "https://i.ytimg.com/vi/Uu9V4gFoTAA/hqdefault.jpg"
+        },
+        {
+            "video_id": "1ZiOkktg7L0",
+            "title": "래더점수 물어보길래 솔직하게 3000이라고 대답해줬는데 허언증 취급하며 개무시하는 상대ㅋㅋ 그의 운명은?",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "38:14",
+            "view_count": "185915",
+            "thumbnail_url": "https://i.ytimg.com/vi/1ZiOkktg7L0/hqdefault.jpg"
+        },
+        {
+            "video_id": "lROE6G2DwFY",
+            "title": "82MAJOR(82메이저) ‘트로피 (TROPHY)’ MV",
+            "channel_name": "82MAJOR",
+            "category": "Entertainment",
+            "duration": "3:21",
+            "view_count": "825176",
+            "thumbnail_url": "https://i.ytimg.com/vi/lROE6G2DwFY/hqdefault.jpg"
+        },
+        {
+            "video_id": "5DHQWYtxq20",
+            "title": "피파4 모든유저 100조 준다 ㅋㅋㅋ",
+            "channel_name": "나현우",
+            "category": "Gaming",
+            "duration": "0:59",
+            "view_count": "133327",
+            "thumbnail_url": "https://i.ytimg.com/vi/5DHQWYtxq20/hqdefault.jpg"
         },
         {
             "video_id": "3FSMCYiC7AI",
@@ -241,17 +241,17 @@
             "channel_name": "&TEAM - Topic",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "249433",
+            "view_count": "251097",
             "thumbnail_url": "https://i.ytimg.com/vi/3FSMCYiC7AI/hqdefault.jpg"
         },
         {
-            "video_id": "QyralKwpGew",
-            "title": "AL vs T1 | WORLDS 2025 | Knockout",
-            "channel_name": "LoL Esports",
+            "video_id": "edF2oT9hM_Q",
+            "title": "한국 1등을 직접 조종하게 됐습니다. 내 맘대로 멤버들을 조종하는 유령 잼못타!?👻",
+            "channel_name": "멜로우TV",
             "category": "Gaming",
-            "duration": "5:59:43",
-            "view_count": "1751057",
-            "thumbnail_url": "https://i.ytimg.com/vi/QyralKwpGew/hqdefault.jpg"
+            "duration": "15:40",
+            "view_count": "44168",
+            "thumbnail_url": "https://i.ytimg.com/vi/edF2oT9hM_Q/hqdefault.jpg"
         },
         {
             "video_id": "BPbFE_0QtHg",
@@ -259,8 +259,26 @@
             "channel_name": "Lee Hyun - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "98164",
+            "view_count": "98448",
             "thumbnail_url": "https://i.ytimg.com/vi/BPbFE_0QtHg/hqdefault.jpg"
+        },
+        {
+            "video_id": "QyralKwpGew",
+            "title": "AL vs T1 | WORLDS 2025 | Knockout",
+            "channel_name": "LoL Esports",
+            "category": "Gaming",
+            "duration": "5:59:43",
+            "view_count": "2297472",
+            "thumbnail_url": "https://i.ytimg.com/vi/QyralKwpGew/hqdefault.jpg"
+        },
+        {
+            "video_id": "wZMqUlV5zaM",
+            "title": "GIRLSET “Gimme More” (Britney Spears) | Halloween Special Performance Video",
+            "channel_name": "GIRLSET",
+            "category": "People & Blogs",
+            "duration": "2:16",
+            "view_count": "302463",
+            "thumbnail_url": "https://i.ytimg.com/vi/wZMqUlV5zaM/hqdefault.jpg"
         },
         {
             "video_id": "EpuxxHYGCEg",
@@ -268,7 +286,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "32:43",
-            "view_count": "124433",
+            "view_count": "125156",
             "thumbnail_url": "https://i.ytimg.com/vi/EpuxxHYGCEg/hqdefault.jpg"
         },
         {
@@ -277,7 +295,7 @@
             "channel_name": "Xdinary Heroes",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "307307",
+            "view_count": "320624",
             "thumbnail_url": "https://i.ytimg.com/vi/yqCweyFw5UY/hqdefault.jpg"
         },
         {
@@ -286,26 +304,8 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:56",
-            "view_count": "116132",
+            "view_count": "117061",
             "thumbnail_url": "https://i.ytimg.com/vi/HvjDa_ydJHs/hqdefault.jpg"
-        },
-        {
-            "video_id": "wZMqUlV5zaM",
-            "title": "GIRLSET “Gimme More” (Britney Spears) | Halloween Special Performance Video",
-            "channel_name": "GIRLSET",
-            "category": "People & Blogs",
-            "duration": "2:16",
-            "view_count": "265424",
-            "thumbnail_url": "https://i.ytimg.com/vi/wZMqUlV5zaM/hqdefault.jpg"
-        },
-        {
-            "video_id": "-IRQN6SI2vo",
-            "title": "모두가 요루는 끝났다고 말할 때 김된모는 아니라고 외쳤다.",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "21:38",
-            "view_count": "128833",
-            "thumbnail_url": "https://i.ytimg.com/vi/-IRQN6SI2vo/hqdefault.jpg"
         },
         {
             "video_id": "9XvY5TRYxoU",
@@ -313,26 +313,26 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "161000",
+            "view_count": "162900",
             "thumbnail_url": "https://i.ytimg.com/vi/9XvY5TRYxoU/hqdefault.jpg"
         },
         {
-            "video_id": "edF2oT9hM_Q",
-            "title": "한국 1등을 직접 조종하게 됐습니다. 내 맘대로 멤버들을 조종하는 유령 잼못타!?👻",
-            "channel_name": "멜로우TV",
+            "video_id": "W9ZUfbaGgC0",
+            "title": "상대 : 홍구 너 게임 중 채팅금지야... 이제 아무것도 못하겠지? ㅋㅋㅋ",
+            "channel_name": "발스타홍구",
             "category": "Gaming",
-            "duration": "15:40",
-            "view_count": "36636",
-            "thumbnail_url": "https://i.ytimg.com/vi/edF2oT9hM_Q/hqdefault.jpg"
+            "duration": "22:33",
+            "view_count": "87911",
+            "thumbnail_url": "https://i.ytimg.com/vi/W9ZUfbaGgC0/hqdefault.jpg"
         },
         {
-            "video_id": "Ntibsyq7sMQ",
-            "title": "흘러간 옛노래 뽕짝 메들리 가사 포함,추억의 트로트 명곡 모음💿 잊을 수 없는 그 시절의 감성 🎶세월이 흘러도 잊지 못할 그 노래🌙 추억의 트로트 모음",
-            "channel_name": "Aiphonic Vibes",
-            "category": "People & Blogs",
-            "duration": "1:22:40",
-            "view_count": "14948",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ntibsyq7sMQ/hqdefault.jpg"
+            "video_id": "-0pnv8VN394",
+            "title": "One Direction - Night Changes (Lyrics)",
+            "channel_name": "Vibe Music",
+            "category": "Music",
+            "duration": "3:47",
+            "view_count": "521661",
+            "thumbnail_url": "https://i.ytimg.com/vi/-0pnv8VN394/hqdefault.jpg"
         },
         {
             "video_id": "qF2uaiF3vaM",
@@ -340,8 +340,26 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "21:30",
-            "view_count": "118845",
+            "view_count": "120982",
             "thumbnail_url": "https://i.ytimg.com/vi/qF2uaiF3vaM/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ntibsyq7sMQ",
+            "title": "흘러간 옛노래 뽕짝 메들리 가사 포함,추억의 트로트 명곡 모음💿 잊을 수 없는 그 시절의 감성 🎶세월이 흘러도 잊지 못할 그 노래🌙 추억의 트로트 모음",
+            "channel_name": "Aiphonic Vibes",
+            "category": "People & Blogs",
+            "duration": "1:22:40",
+            "view_count": "15076",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ntibsyq7sMQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "-IRQN6SI2vo",
+            "title": "모두가 요루는 끝났다고 말할 때 김된모는 아니라고 외쳤다.",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "21:38",
+            "view_count": "130084",
+            "thumbnail_url": "https://i.ytimg.com/vi/-IRQN6SI2vo/hqdefault.jpg"
         },
         {
             "video_id": "i46A1ZZ-Myg",
@@ -349,7 +367,7 @@
             "channel_name": "Pulse Pop",
             "category": "Music",
             "duration": "5:49",
-            "view_count": "821553",
+            "view_count": "832344",
             "thumbnail_url": "https://i.ytimg.com/vi/i46A1ZZ-Myg/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "16:21",
-            "view_count": "129589",
+            "view_count": "130767",
             "thumbnail_url": "https://i.ytimg.com/vi/2ynAbirCIds/hqdefault.jpg"
-        },
-        {
-            "video_id": "-0pnv8VN394",
-            "title": "One Direction - Night Changes (Lyrics)",
-            "channel_name": "Vibe Music",
-            "category": "Music",
-            "duration": "3:47",
-            "view_count": "457124",
-            "thumbnail_url": "https://i.ytimg.com/vi/-0pnv8VN394/hqdefault.jpg"
-        },
-        {
-            "video_id": "W9ZUfbaGgC0",
-            "title": "상대 : 홍구 너 게임 중 채팅금지야... 이제 아무것도 못하겠지? ㅋㅋㅋ",
-            "channel_name": "발스타홍구",
-            "category": "Gaming",
-            "duration": "22:33",
-            "view_count": "84391",
-            "thumbnail_url": "https://i.ytimg.com/vi/W9ZUfbaGgC0/hqdefault.jpg"
         }
     ]
 }
