@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-10-31 10:44:57",
+    "scraped_time": "2025-10-31 12:12:05",
     "videos": [
         {
             "video_id": "ewk5MPptBIs",
@@ -7,7 +7,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "169653",
+            "view_count": "182976",
             "thumbnail_url": "https://i.ytimg.com/vi/ewk5MPptBIs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "또봇 Tobot",
             "category": "Film & Animation",
             "duration": "1:01",
-            "view_count": "39522",
+            "view_count": "40429",
             "thumbnail_url": "https://i.ytimg.com/vi/l-AvJBxqDtI/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "4:33:10",
-            "view_count": "1837676",
+            "view_count": "1838996",
             "thumbnail_url": "https://i.ytimg.com/vi/LkASQGieQMI/hqdefault.jpg"
         },
         {
@@ -34,35 +34,8 @@
             "channel_name": "LUCY - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "69839",
+            "view_count": "78361",
             "thumbnail_url": "https://i.ytimg.com/vi/uq3arUptDcg/hqdefault.jpg"
-        },
-        {
-            "video_id": "ikkqvcyPOaE",
-            "title": "홀리비스트 vs 스컬 Official Trailer [마지막 챔피언스리그]",
-            "channel_name": "블랙컴뱃",
-            "category": "Sports",
-            "duration": "1:25",
-            "view_count": "32543",
-            "thumbnail_url": "https://i.ytimg.com/vi/ikkqvcyPOaE/hqdefault.jpg"
-        },
-        {
-            "video_id": "7dGnIc4IUXU",
-            "title": "믿기 힘든 현실",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "17:41",
-            "view_count": "262822",
-            "thumbnail_url": "https://i.ytimg.com/vi/7dGnIc4IUXU/hqdefault.jpg"
-        },
-        {
-            "video_id": "nwksfZMJXXs",
-            "title": "No Words Can Say",
-            "channel_name": "Roy Kim - Topic",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "992496",
-            "thumbnail_url": "https://i.ytimg.com/vi/nwksfZMJXXs/hqdefault.jpg"
         },
         {
             "video_id": "N8CvVBTStXc",
@@ -70,17 +43,17 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:55",
-            "view_count": "26029",
+            "view_count": "34329",
             "thumbnail_url": "https://i.ytimg.com/vi/N8CvVBTStXc/hqdefault.jpg"
         },
         {
-            "video_id": "6GqPlfpxG3I",
-            "title": "스팀 1위먹은 중국산 오리게임",
-            "channel_name": "랄로",
+            "video_id": "7dGnIc4IUXU",
+            "title": "믿기 힘든 현실",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "54:34",
-            "view_count": "244484",
-            "thumbnail_url": "https://i.ytimg.com/vi/6GqPlfpxG3I/hqdefault.jpg"
+            "duration": "17:41",
+            "view_count": "277468",
+            "thumbnail_url": "https://i.ytimg.com/vi/7dGnIc4IUXU/hqdefault.jpg"
         },
         {
             "video_id": "9zgdHUmNU0I",
@@ -88,8 +61,35 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "2:35",
-            "view_count": "277318",
+            "view_count": "304123",
             "thumbnail_url": "https://i.ytimg.com/vi/9zgdHUmNU0I/hqdefault.jpg"
+        },
+        {
+            "video_id": "ikkqvcyPOaE",
+            "title": "홀리비스트 vs 스컬 Official Trailer [마지막 챔피언스리그]",
+            "channel_name": "블랙컴뱃",
+            "category": "Sports",
+            "duration": "1:25",
+            "view_count": "33304",
+            "thumbnail_url": "https://i.ytimg.com/vi/ikkqvcyPOaE/hqdefault.jpg"
+        },
+        {
+            "video_id": "6GqPlfpxG3I",
+            "title": "스팀 1위먹은 중국산 오리게임",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "54:34",
+            "view_count": "263527",
+            "thumbnail_url": "https://i.ytimg.com/vi/6GqPlfpxG3I/hqdefault.jpg"
+        },
+        {
+            "video_id": "nwksfZMJXXs",
+            "title": "No Words Can Say",
+            "channel_name": "Roy Kim - Topic",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "1017444",
+            "thumbnail_url": "https://i.ytimg.com/vi/nwksfZMJXXs/hqdefault.jpg"
         },
         {
             "video_id": "IW693-dc2XU",
@@ -97,7 +97,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "16:27",
-            "view_count": "219286",
+            "view_count": "224432",
             "thumbnail_url": "https://i.ytimg.com/vi/IW693-dc2XU/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "355831",
+            "view_count": "363239",
             "thumbnail_url": "https://i.ytimg.com/vi/g0CVkU1w00M/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "나현우",
             "category": "Gaming",
             "duration": "0:59",
-            "view_count": "101549",
+            "view_count": "105843",
             "thumbnail_url": "https://i.ytimg.com/vi/5DHQWYtxq20/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "SUZY - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "32423",
+            "view_count": "37677",
             "thumbnail_url": "https://i.ytimg.com/vi/qWDXjaUHARA/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "32:43",
-            "view_count": "109003",
+            "view_count": "111494",
             "thumbnail_url": "https://i.ytimg.com/vi/EpuxxHYGCEg/hqdefault.jpg"
         },
         {
@@ -142,17 +142,17 @@
             "channel_name": "Creedence Clearwater Revival",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "3545733",
+            "view_count": "3655148",
             "thumbnail_url": "https://i.ytimg.com/vi/ORAZtsMBJzg/hqdefault.jpg"
         },
         {
-            "video_id": "1ZiOkktg7L0",
-            "title": "래더점수 물어보길래 솔직하게 3000이라고 대답해줬는데 허언증 취급하며 개무시하는 상대ㅋㅋ 그의 운명은?",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "FzhavqtfFhc",
+            "title": "그야말로 🔥최고 수준🔥 게임",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "38:14",
-            "view_count": "137406",
-            "thumbnail_url": "https://i.ytimg.com/vi/1ZiOkktg7L0/hqdefault.jpg"
+            "duration": "43:23",
+            "view_count": "68266",
+            "thumbnail_url": "https://i.ytimg.com/vi/FzhavqtfFhc/hqdefault.jpg"
         },
         {
             "video_id": "3FSMCYiC7AI",
@@ -160,17 +160,17 @@
             "channel_name": "&TEAM - Topic",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "218233",
+            "view_count": "222864",
             "thumbnail_url": "https://i.ytimg.com/vi/3FSMCYiC7AI/hqdefault.jpg"
         },
         {
-            "video_id": "-IRQN6SI2vo",
-            "title": "모두가 요루는 끝났다고 말할 때 김된모는 아니라고 외쳤다.",
-            "channel_name": "김된모",
+            "video_id": "1ZiOkktg7L0",
+            "title": "래더점수 물어보길래 솔직하게 3000이라고 대답해줬는데 허언증 취급하며 개무시하는 상대ㅋㅋ 그의 운명은?",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "21:38",
-            "view_count": "107607",
-            "thumbnail_url": "https://i.ytimg.com/vi/-IRQN6SI2vo/hqdefault.jpg"
+            "duration": "38:14",
+            "view_count": "143469",
+            "thumbnail_url": "https://i.ytimg.com/vi/1ZiOkktg7L0/hqdefault.jpg"
         },
         {
             "video_id": "BPbFE_0QtHg",
@@ -178,17 +178,17 @@
             "channel_name": "Lee Hyun - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "76749",
+            "view_count": "79918",
             "thumbnail_url": "https://i.ytimg.com/vi/BPbFE_0QtHg/hqdefault.jpg"
         },
         {
-            "video_id": "2ynAbirCIds",
-            "title": "\"공격력 614, 체력 6400\" 라이엇?!?! 💀",
-            "channel_name": "전략적죽음",
+            "video_id": "-IRQN6SI2vo",
+            "title": "모두가 요루는 끝났다고 말할 때 김된모는 아니라고 외쳤다.",
+            "channel_name": "김된모",
             "category": "Gaming",
-            "duration": "16:21",
-            "view_count": "104672",
-            "thumbnail_url": "https://i.ytimg.com/vi/2ynAbirCIds/hqdefault.jpg"
+            "duration": "21:38",
+            "view_count": "110264",
+            "thumbnail_url": "https://i.ytimg.com/vi/-IRQN6SI2vo/hqdefault.jpg"
         },
         {
             "video_id": "kusGmLf5nQk",
@@ -196,17 +196,17 @@
             "channel_name": "Jung Seung Hwan - Topic",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "14184",
+            "view_count": "16711",
             "thumbnail_url": "https://i.ytimg.com/vi/kusGmLf5nQk/hqdefault.jpg"
         },
         {
-            "video_id": "HvjDa_ydJHs",
-            "title": "버프된 승천 맛 좀 보여드릴게요",
-            "channel_name": "잡상싱",
+            "video_id": "2ynAbirCIds",
+            "title": "\"공격력 614, 체력 6400\" 라이엇?!?! 💀",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "13:56",
-            "view_count": "88581",
-            "thumbnail_url": "https://i.ytimg.com/vi/HvjDa_ydJHs/hqdefault.jpg"
+            "duration": "16:21",
+            "view_count": "108494",
+            "thumbnail_url": "https://i.ytimg.com/vi/2ynAbirCIds/hqdefault.jpg"
         },
         {
             "video_id": "lROE6G2DwFY",
@@ -214,17 +214,17 @@
             "channel_name": "82MAJOR",
             "category": "Entertainment",
             "duration": "3:21",
-            "view_count": "723655",
+            "view_count": "727540",
             "thumbnail_url": "https://i.ytimg.com/vi/lROE6G2DwFY/hqdefault.jpg"
         },
         {
-            "video_id": "YYoURH3sJ28",
-            "title": "12개의 상징",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "HvjDa_ydJHs",
+            "title": "버프된 승천 맛 좀 보여드릴게요",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "14:16",
-            "view_count": "127830",
-            "thumbnail_url": "https://i.ytimg.com/vi/YYoURH3sJ28/hqdefault.jpg"
+            "duration": "13:56",
+            "view_count": "92553",
+            "thumbnail_url": "https://i.ytimg.com/vi/HvjDa_ydJHs/hqdefault.jpg"
         },
         {
             "video_id": "9XvY5TRYxoU",
@@ -232,17 +232,17 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "125468",
+            "view_count": "129291",
             "thumbnail_url": "https://i.ytimg.com/vi/9XvY5TRYxoU/hqdefault.jpg"
         },
         {
-            "video_id": "k3A_3bdojYc",
-            "title": "낚시하다가 \"살아있는 사람\"을 낚았다...칠라스아트 역대급 신작[우미가리]",
-            "channel_name": "혜안",
+            "video_id": "YYoURH3sJ28",
+            "title": "12개의 상징",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "35:09",
-            "view_count": "296918",
-            "thumbnail_url": "https://i.ytimg.com/vi/k3A_3bdojYc/hqdefault.jpg"
+            "duration": "14:16",
+            "view_count": "131185",
+            "thumbnail_url": "https://i.ytimg.com/vi/YYoURH3sJ28/hqdefault.jpg"
         },
         {
             "video_id": "Ntibsyq7sMQ",
@@ -250,8 +250,26 @@
             "channel_name": "Aiphonic Vibes",
             "category": "People & Blogs",
             "duration": "1:22:40",
-            "view_count": "10624",
+            "view_count": "11209",
             "thumbnail_url": "https://i.ytimg.com/vi/Ntibsyq7sMQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "k3A_3bdojYc",
+            "title": "낚시하다가 \"살아있는 사람\"을 낚았다...칠라스아트 역대급 신작[우미가리]",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "35:09",
+            "view_count": "299507",
+            "thumbnail_url": "https://i.ytimg.com/vi/k3A_3bdojYc/hqdefault.jpg"
+        },
+        {
+            "video_id": "yqCweyFw5UY",
+            "title": "Xdinary Heroes \"ICU\" LIVE CLIP",
+            "channel_name": "Xdinary Heroes",
+            "category": "Music",
+            "duration": "4:04",
+            "view_count": "167655",
+            "thumbnail_url": "https://i.ytimg.com/vi/yqCweyFw5UY/hqdefault.jpg"
         },
         {
             "video_id": "qF2uaiF3vaM",
@@ -259,7 +277,7 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "21:30",
-            "view_count": "90800",
+            "view_count": "94483",
             "thumbnail_url": "https://i.ytimg.com/vi/qF2uaiF3vaM/hqdefault.jpg"
         },
         {
@@ -268,26 +286,8 @@
             "channel_name": "Kim Na-young - Topic",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "23194",
+            "view_count": "24808",
             "thumbnail_url": "https://i.ytimg.com/vi/AkIuW_VcG0o/hqdefault.jpg"
-        },
-        {
-            "video_id": "2_vdNwQYFv4",
-            "title": "먼지솜사탕 그마 생존기",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "31:09",
-            "view_count": "180218",
-            "thumbnail_url": "https://i.ytimg.com/vi/2_vdNwQYFv4/hqdefault.jpg"
-        },
-        {
-            "video_id": "PuBq6-zKU_Y",
-            "title": "The Season Of You",
-            "channel_name": "J-Cera - Topic",
-            "category": "Music",
-            "duration": "4:10",
-            "view_count": "38467",
-            "thumbnail_url": "https://i.ytimg.com/vi/PuBq6-zKU_Y/hqdefault.jpg"
         },
         {
             "video_id": "-USIMjvIOIY",
@@ -295,8 +295,26 @@
             "channel_name": "탬탬버린",
             "category": "Gaming",
             "duration": "18:13",
-            "view_count": "134032",
+            "view_count": "138647",
             "thumbnail_url": "https://i.ytimg.com/vi/-USIMjvIOIY/hqdefault.jpg"
+        },
+        {
+            "video_id": "PuBq6-zKU_Y",
+            "title": "The Season Of You",
+            "channel_name": "J-Cera - Topic",
+            "category": "Music",
+            "duration": "4:10",
+            "view_count": "39930",
+            "thumbnail_url": "https://i.ytimg.com/vi/PuBq6-zKU_Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "ij6q-h2a9wQ",
+            "title": "모여봐요 동물의 숲 : 「Nintendo Switch 2 Edition」과 「무료 업데이트」 안내",
+            "channel_name": "한국닌텐도 공식 채널",
+            "category": "Gaming",
+            "duration": "12:25",
+            "view_count": "132074",
+            "thumbnail_url": "https://i.ytimg.com/vi/ij6q-h2a9wQ/hqdefault.jpg"
         },
         {
             "video_id": "jP-MbTxeNcA",
@@ -304,7 +322,7 @@
             "channel_name": "MIYEON - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "158765",
+            "view_count": "161315",
             "thumbnail_url": "https://i.ytimg.com/vi/jP-MbTxeNcA/hqdefault.jpg"
         },
         {
@@ -313,26 +331,8 @@
             "channel_name": "YouTube지누",
             "category": "Gaming",
             "duration": "20:13",
-            "view_count": "112023",
+            "view_count": "114431",
             "thumbnail_url": "https://i.ytimg.com/vi/17XKvRtPSMc/hqdefault.jpg"
-        },
-        {
-            "video_id": "yqCweyFw5UY",
-            "title": "Xdinary Heroes \"ICU\" LIVE CLIP",
-            "channel_name": "Xdinary Heroes",
-            "category": "Music",
-            "duration": "4:04",
-            "view_count": "152063",
-            "thumbnail_url": "https://i.ytimg.com/vi/yqCweyFw5UY/hqdefault.jpg"
-        },
-        {
-            "video_id": "2y3z1Q3cOis",
-            "title": "보자마자 다 때려치고 싶어지는 \"크기 100% 스킨 세트\" 전격 리뷰",
-            "channel_name": "버니버니",
-            "category": "Gaming",
-            "duration": "10:11",
-            "view_count": "91596",
-            "thumbnail_url": "https://i.ytimg.com/vi/2y3z1Q3cOis/hqdefault.jpg"
         },
         {
             "video_id": "jUMZ9IeoJtU",
@@ -340,35 +340,17 @@
             "channel_name": "KyoungSeo - Topic",
             "category": "Music",
             "duration": "4:37",
-            "view_count": "380881",
+            "view_count": "388056",
             "thumbnail_url": "https://i.ytimg.com/vi/jUMZ9IeoJtU/hqdefault.jpg"
         },
         {
-            "video_id": "Tcsu1xA6LXI",
-            "title": "레전드 역대급 시리즈 발생😱❗│Knockout 8강│2025 Worlds | 울챔스 하이라이트",
-            "channel_name": "Wolf",
+            "video_id": "2y3z1Q3cOis",
+            "title": "보자마자 다 때려치고 싶어지는 \"크기 100% 스킨 세트\" 전격 리뷰",
+            "channel_name": "버니버니",
             "category": "Gaming",
-            "duration": "1:46:57",
-            "view_count": "201510",
-            "thumbnail_url": "https://i.ytimg.com/vi/Tcsu1xA6LXI/hqdefault.jpg"
-        },
-        {
-            "video_id": "JPZo1PJIArQ",
-            "title": "偉生人",
-            "channel_name": "Vaundy - Topic",
-            "category": "Music",
-            "duration": "3:29",
-            "view_count": "240348",
-            "thumbnail_url": "https://i.ytimg.com/vi/JPZo1PJIArQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "2aMwMuFzSxM",
-            "title": "최초의 \"블러드 헤드리스\" 도전! 그리고 인생최초 1B가 넘는 초강력 시크릿 획득!!! 거기다 \"한정판 타코 라그란데\"까지!!! (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "30:02",
-            "view_count": "171396",
-            "thumbnail_url": "https://i.ytimg.com/vi/2aMwMuFzSxM/hqdefault.jpg"
+            "duration": "10:11",
+            "view_count": "92449",
+            "thumbnail_url": "https://i.ytimg.com/vi/2y3z1Q3cOis/hqdefault.jpg"
         },
         {
             "video_id": "kwzgmmCzwLQ",
@@ -376,8 +358,26 @@
             "channel_name": "Radio Love",
             "category": "People & Blogs",
             "duration": "1:07:12",
-            "view_count": "20666",
+            "view_count": "21811",
             "thumbnail_url": "https://i.ytimg.com/vi/kwzgmmCzwLQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "EGomkrfeuQc",
+            "title": "싸우기도전에 뜬 카르마가 3라 시작하자마자 초패스트로 상점에서 노리롤 2성까지 뜨면 생기는일 ㅋㅋㅋㅋㅋ",
+            "channel_name": "전쓰트의 게임 채널 Junsst",
+            "category": "Gaming",
+            "duration": "14:22",
+            "view_count": "56612",
+            "thumbnail_url": "https://i.ytimg.com/vi/EGomkrfeuQc/hqdefault.jpg"
+        },
+        {
+            "video_id": "JPZo1PJIArQ",
+            "title": "偉生人",
+            "channel_name": "Vaundy - Topic",
+            "category": "Music",
+            "duration": "3:29",
+            "view_count": "244696",
+            "thumbnail_url": "https://i.ytimg.com/vi/JPZo1PJIArQ/hqdefault.jpg"
         }
     ]
 }
