@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-06 07:20:51",
+    "scraped_time": "2025-11-06 08:20:02",
     "videos": [
         {
             "video_id": "TN4LP7j5cbo",
@@ -7,7 +7,7 @@
             "channel_name": "JISOO",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "4562223",
+            "view_count": "4668980",
             "thumbnail_url": "https://i.ytimg.com/vi/TN4LP7j5cbo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "JTBC Drama",
             "category": "Entertainment",
             "duration": "0:43",
-            "view_count": "138797",
+            "view_count": "139130",
             "thumbnail_url": "https://i.ytimg.com/vi/HKsY-JqdgZo/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "24:28",
-            "view_count": "468062",
+            "view_count": "469307",
             "thumbnail_url": "https://i.ytimg.com/vi/1nBTOPxOU9w/hqdefault.jpg"
         },
         {
@@ -34,17 +34,8 @@
             "channel_name": "이세계아이돌 ISEGYE IDOL",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "926550",
+            "view_count": "931341",
             "thumbnail_url": "https://i.ytimg.com/vi/3cEUPoPXz7E/hqdefault.jpg"
-        },
-        {
-            "video_id": "dxUim1YNAFU",
-            "title": "RIIZE 라이즈 'Fame' Trailer",
-            "channel_name": "RIIZE",
-            "category": "Music",
-            "duration": "2:42",
-            "view_count": "231478",
-            "thumbnail_url": "https://i.ytimg.com/vi/dxUim1YNAFU/hqdefault.jpg"
         },
         {
             "video_id": "tjii-glrXk4",
@@ -52,7 +43,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "3:48:21",
-            "view_count": "3848058",
+            "view_count": "3848249",
             "thumbnail_url": "https://i.ytimg.com/vi/tjii-glrXk4/hqdefault.jpg"
         },
         {
@@ -61,7 +52,7 @@
             "channel_name": "Pop Mage",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "12618462",
+            "view_count": "12632823",
             "thumbnail_url": "https://i.ytimg.com/vi/zs7ISrSdVUI/hqdefault.jpg"
         },
         {
@@ -70,7 +61,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "44:18",
-            "view_count": "183908",
+            "view_count": "185983",
             "thumbnail_url": "https://i.ytimg.com/vi/nUIL0zDXssI/hqdefault.jpg"
         },
         {
@@ -79,7 +70,7 @@
             "channel_name": "FIFTY FIFTY Official",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "3982313",
+            "view_count": "3994360",
             "thumbnail_url": "https://i.ytimg.com/vi/xAOT6ISD9jo/hqdefault.jpg"
         },
         {
@@ -88,7 +79,7 @@
             "channel_name": "붐바야",
             "category": "Gaming",
             "duration": "3:27",
-            "view_count": "355982",
+            "view_count": "357370",
             "thumbnail_url": "https://i.ytimg.com/vi/WnGCmYfGTaY/hqdefault.jpg"
         },
         {
@@ -97,26 +88,8 @@
             "channel_name": "KISS OF LIFE",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "1332337",
+            "view_count": "1369061",
             "thumbnail_url": "https://i.ytimg.com/vi/j6OqLm0lQ68/hqdefault.jpg"
-        },
-        {
-            "video_id": "rdO1mZDahTw",
-            "title": "마지막 퍼즐이 맞춰진, \"오도박사\" 대형사건의 재구성 (feat. TES전 폭발한 도란의 잠재력)",
-            "channel_name": "깸빗",
-            "category": "Gaming",
-            "duration": "15:59",
-            "view_count": "291617",
-            "thumbnail_url": "https://i.ytimg.com/vi/rdO1mZDahTw/hqdefault.jpg"
-        },
-        {
-            "video_id": "shHDB4brjII",
-            "title": "Stay",
-            "channel_name": "URBAN ZAKAPA - Topic",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "156594",
-            "thumbnail_url": "https://i.ytimg.com/vi/shHDB4brjII/hqdefault.jpg"
         },
         {
             "video_id": "XR99YSUQdss",
@@ -124,8 +97,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "35:10",
-            "view_count": "148745",
+            "view_count": "151583",
             "thumbnail_url": "https://i.ytimg.com/vi/XR99YSUQdss/hqdefault.jpg"
+        },
+        {
+            "video_id": "shHDB4brjII",
+            "title": "Stay",
+            "channel_name": "URBAN ZAKAPA - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "157761",
+            "thumbnail_url": "https://i.ytimg.com/vi/shHDB4brjII/hqdefault.jpg"
+        },
+        {
+            "video_id": "rdO1mZDahTw",
+            "title": "마지막 퍼즐이 맞춰진, \"오도박사\" 대형사건의 재구성 (feat. TES전 폭발한 도란의 잠재력)",
+            "channel_name": "깸빗",
+            "category": "Gaming",
+            "duration": "15:59",
+            "view_count": "292371",
+            "thumbnail_url": "https://i.ytimg.com/vi/rdO1mZDahTw/hqdefault.jpg"
         },
         {
             "video_id": "-iYULTkh3xg",
@@ -133,7 +124,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "77427",
+            "view_count": "78136",
             "thumbnail_url": "https://i.ytimg.com/vi/-iYULTkh3xg/hqdefault.jpg"
         },
         {
@@ -142,7 +133,7 @@
             "channel_name": "영래기",
             "category": "Gaming",
             "duration": "14:06",
-            "view_count": "424701",
+            "view_count": "425505",
             "thumbnail_url": "https://i.ytimg.com/vi/lsVlkmljLZQ/hqdefault.jpg"
         },
         {
@@ -151,7 +142,7 @@
             "channel_name": "KiiiKiii - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "52474",
+            "view_count": "52906",
             "thumbnail_url": "https://i.ytimg.com/vi/KejIIdjl9EU/hqdefault.jpg"
         },
         {
@@ -160,17 +151,17 @@
             "channel_name": "형독방송",
             "category": "Gaming",
             "duration": "23:52",
-            "view_count": "129335",
+            "view_count": "131412",
             "thumbnail_url": "https://i.ytimg.com/vi/3WYzEBESwxU/hqdefault.jpg"
         },
         {
-            "video_id": "a3cnsUu8LoQ",
-            "title": "Whitney Houston - Where Do Broken Hearts Go (Lyrics)",
-            "channel_name": "R&B Adventure",
+            "video_id": "67JOBIX2MsU",
+            "title": "Don’t Stop Believin’ - Music Travel Love & Friends (at Shura Island, The Red Sea)",
+            "channel_name": "Music Travel Love",
             "category": "Music",
-            "duration": "4:39",
-            "view_count": "817311",
-            "thumbnail_url": "https://i.ytimg.com/vi/a3cnsUu8LoQ/hqdefault.jpg"
+            "duration": "3:40",
+            "view_count": "1264311",
+            "thumbnail_url": "https://i.ytimg.com/vi/67JOBIX2MsU/hqdefault.jpg"
         },
         {
             "video_id": "vxtAQhdUkYQ",
@@ -178,8 +169,26 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "39:20",
-            "view_count": "339234",
+            "view_count": "340318",
             "thumbnail_url": "https://i.ytimg.com/vi/vxtAQhdUkYQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "a3cnsUu8LoQ",
+            "title": "Whitney Houston - Where Do Broken Hearts Go (Lyrics)",
+            "channel_name": "R&B Adventure",
+            "category": "Music",
+            "duration": "4:39",
+            "view_count": "830788",
+            "thumbnail_url": "https://i.ytimg.com/vi/a3cnsUu8LoQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "FF4UUfC1wmU",
+            "title": "카제나가 서비스종료 해야하는 이유",
+            "channel_name": "지존조세",
+            "category": "Gaming",
+            "duration": "12:11",
+            "view_count": "222595",
+            "thumbnail_url": "https://i.ytimg.com/vi/FF4UUfC1wmU/hqdefault.jpg"
         },
         {
             "video_id": "l_Y0iUr3vOU",
@@ -187,7 +196,7 @@
             "channel_name": "Huh Gak - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "144354",
+            "view_count": "145525",
             "thumbnail_url": "https://i.ytimg.com/vi/l_Y0iUr3vOU/hqdefault.jpg"
         },
         {
@@ -196,26 +205,8 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "42:13",
-            "view_count": "94132",
+            "view_count": "95060",
             "thumbnail_url": "https://i.ytimg.com/vi/CSUYMRCJyTM/hqdefault.jpg"
-        },
-        {
-            "video_id": "67JOBIX2MsU",
-            "title": "Don’t Stop Believin’ - Music Travel Love & Friends (at Shura Island, The Red Sea)",
-            "channel_name": "Music Travel Love",
-            "category": "Music",
-            "duration": "3:40",
-            "view_count": "1158455",
-            "thumbnail_url": "https://i.ytimg.com/vi/67JOBIX2MsU/hqdefault.jpg"
-        },
-        {
-            "video_id": "FF4UUfC1wmU",
-            "title": "카제나가 서비스종료 해야하는 이유",
-            "channel_name": "지존조세",
-            "category": "Gaming",
-            "duration": "12:11",
-            "view_count": "218739",
-            "thumbnail_url": "https://i.ytimg.com/vi/FF4UUfC1wmU/hqdefault.jpg"
         },
         {
             "video_id": "kpERC3U3yxw",
@@ -223,7 +214,7 @@
             "channel_name": "7clouds",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "1616729",
+            "view_count": "1662864",
             "thumbnail_url": "https://i.ytimg.com/vi/kpERC3U3yxw/hqdefault.jpg"
         },
         {
@@ -232,7 +223,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "26:36",
-            "view_count": "120839",
+            "view_count": "121190",
             "thumbnail_url": "https://i.ytimg.com/vi/intIMFKAeOA/hqdefault.jpg"
         },
         {
@@ -241,7 +232,7 @@
             "channel_name": "Aura Hype",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "1988467",
+            "view_count": "1988975",
             "thumbnail_url": "https://i.ytimg.com/vi/VQNwppSFCn0/hqdefault.jpg"
         },
         {
@@ -250,26 +241,8 @@
             "channel_name": "하얀귤",
             "category": "Gaming",
             "duration": "8:19",
-            "view_count": "56982",
+            "view_count": "58082",
             "thumbnail_url": "https://i.ytimg.com/vi/uBEdbv-AL1Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "zfD3BVRTuN4",
-            "title": "James Arthur - Impossible (Lyrics)",
-            "channel_name": "Aura Country",
-            "category": "Music",
-            "duration": "3:30",
-            "view_count": "3286057",
-            "thumbnail_url": "https://i.ytimg.com/vi/zfD3BVRTuN4/hqdefault.jpg"
-        },
-        {
-            "video_id": "LstuuqrlXU8",
-            "title": "용용 죽겠지 : 드래곤타입 하트골드【포켓몬 모든타입 깨기】#4",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "25:29",
-            "view_count": "116036",
-            "thumbnail_url": "https://i.ytimg.com/vi/LstuuqrlXU8/hqdefault.jpg"
         },
         {
             "video_id": "i4L2oYRkVGY",
@@ -277,8 +250,26 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "3:37",
-            "view_count": "38636",
+            "view_count": "39100",
             "thumbnail_url": "https://i.ytimg.com/vi/i4L2oYRkVGY/hqdefault.jpg"
+        },
+        {
+            "video_id": "LstuuqrlXU8",
+            "title": "용용 죽겠지 : 드래곤타입 하트골드【포켓몬 모든타입 깨기】#4",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "25:29",
+            "view_count": "117385",
+            "thumbnail_url": "https://i.ytimg.com/vi/LstuuqrlXU8/hqdefault.jpg"
+        },
+        {
+            "video_id": "zfD3BVRTuN4",
+            "title": "James Arthur - Impossible (Lyrics)",
+            "channel_name": "Aura Country",
+            "category": "Music",
+            "duration": "3:30",
+            "view_count": "3291761",
+            "thumbnail_url": "https://i.ytimg.com/vi/zfD3BVRTuN4/hqdefault.jpg"
         },
         {
             "video_id": "KGgnYvOHyUE",
@@ -286,7 +277,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "18:35",
-            "view_count": "98562",
+            "view_count": "100226",
             "thumbnail_url": "https://i.ytimg.com/vi/KGgnYvOHyUE/hqdefault.jpg"
         },
         {
@@ -295,7 +286,7 @@
             "channel_name": "Glim R&B",
             "category": "Music",
             "duration": "4:51",
-            "view_count": "1123005",
+            "view_count": "1193577",
             "thumbnail_url": "https://i.ytimg.com/vi/lFeqgeliXOI/hqdefault.jpg"
         },
         {
@@ -304,7 +295,7 @@
             "channel_name": "발스타홍구",
             "category": "Gaming",
             "duration": "26:24",
-            "view_count": "140772",
+            "view_count": "141442",
             "thumbnail_url": "https://i.ytimg.com/vi/GGIkBl7VLo4/hqdefault.jpg"
         },
         {
@@ -313,7 +304,7 @@
             "channel_name": "Vibe Music",
             "category": "Music",
             "duration": "4:39",
-            "view_count": "1642975",
+            "view_count": "1644407",
             "thumbnail_url": "https://i.ytimg.com/vi/L9_Eho9gCNs/hqdefault.jpg"
         },
         {
@@ -322,8 +313,44 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "13:56",
-            "view_count": "122274",
+            "view_count": "124488",
             "thumbnail_url": "https://i.ytimg.com/vi/0rfMO256YV0/hqdefault.jpg"
+        },
+        {
+            "video_id": "4NyiSeHsgZE",
+            "title": "Chapter.0 : INTO THE WISH",
+            "channel_name": "NCT WISH",
+            "category": "Music",
+            "duration": "3:08",
+            "view_count": "53344",
+            "thumbnail_url": "https://i.ytimg.com/vi/4NyiSeHsgZE/hqdefault.jpg"
+        },
+        {
+            "video_id": "uTf3dwQaDuw",
+            "title": "망구랑님 저 면접 봐도 될까요..?",
+            "channel_name": "킴성태TV",
+            "category": "Gaming",
+            "duration": "14:46",
+            "view_count": "106500",
+            "thumbnail_url": "https://i.ytimg.com/vi/uTf3dwQaDuw/hqdefault.jpg"
+        },
+        {
+            "video_id": "PGg-56Y8gvk",
+            "title": "[LIVE] 아픈 길 + 아직 거기 살아 + 원하니까 + Congratulations｜DAY6(데이식스) 4TH FANMEETING ＜PIER 10: All My Days＞",
+            "channel_name": "DAY6",
+            "category": "People & Blogs",
+            "duration": "15:43",
+            "view_count": "32308",
+            "thumbnail_url": "https://i.ytimg.com/vi/PGg-56Y8gvk/hqdefault.jpg"
+        },
+        {
+            "video_id": "ujPl3cQ8NL0",
+            "title": "뮌헨 나와!!! 유일하게 뮌헨 잡을 10카 도배팀 등장",
+            "channel_name": "유봉훈",
+            "category": "Gaming",
+            "duration": "12:50",
+            "view_count": "91258",
+            "thumbnail_url": "https://i.ytimg.com/vi/ujPl3cQ8NL0/hqdefault.jpg"
         },
         {
             "video_id": "lSfZi29lTUw",
@@ -331,7 +358,7 @@
             "channel_name": "JamBeats",
             "category": "Music",
             "duration": "5:29",
-            "view_count": "1712566",
+            "view_count": "1745323",
             "thumbnail_url": "https://i.ytimg.com/vi/lSfZi29lTUw/hqdefault.jpg"
         },
         {
@@ -340,7 +367,7 @@
             "channel_name": "아리tv-롤정보통",
             "category": "Gaming",
             "duration": "3:11",
-            "view_count": "220189",
+            "view_count": "220396",
             "thumbnail_url": "https://i.ytimg.com/vi/EOfmHuqvRbA/hqdefault.jpg"
         },
         {
@@ -349,35 +376,8 @@
             "channel_name": "Lee Boram - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "113337",
+            "view_count": "113883",
             "thumbnail_url": "https://i.ytimg.com/vi/FQVqInwSdX8/hqdefault.jpg"
-        },
-        {
-            "video_id": "uTf3dwQaDuw",
-            "title": "망구랑님 저 면접 봐도 될까요..?",
-            "channel_name": "킴성태TV",
-            "category": "Gaming",
-            "duration": "14:46",
-            "view_count": "102659",
-            "thumbnail_url": "https://i.ytimg.com/vi/uTf3dwQaDuw/hqdefault.jpg"
-        },
-        {
-            "video_id": "4NyiSeHsgZE",
-            "title": "Chapter.0 : INTO THE WISH",
-            "channel_name": "NCT WISH",
-            "category": "Music",
-            "duration": "3:08",
-            "view_count": "51114",
-            "thumbnail_url": "https://i.ytimg.com/vi/4NyiSeHsgZE/hqdefault.jpg"
-        },
-        {
-            "video_id": "FS43y8nhrX4",
-            "title": "2025년 최악의 서브컬처 게임이 돼버린 카제나",
-            "channel_name": "펭귄몬스터",
-            "category": "Gaming",
-            "duration": "14:29",
-            "view_count": "271109",
-            "thumbnail_url": "https://i.ytimg.com/vi/FS43y8nhrX4/hqdefault.jpg"
         }
     ]
 }
