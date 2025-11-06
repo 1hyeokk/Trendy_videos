@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-06 23:22:36",
+    "scraped_time": "2025-11-07 00:25:01",
     "videos": [
         {
             "video_id": "fff8P0kYexQ",
@@ -7,7 +7,7 @@
             "channel_name": "이세계아이돌 ISEGYE IDOL",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "135151",
+            "view_count": "158875",
             "thumbnail_url": "https://i.ytimg.com/vi/fff8P0kYexQ/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:50",
-            "view_count": "215802",
+            "view_count": "232022",
             "thumbnail_url": "https://i.ytimg.com/vi/0O9rtOolCvw/hqdefault.jpg"
         },
         {
@@ -25,35 +25,8 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "24:00",
-            "view_count": "449826",
+            "view_count": "457118",
             "thumbnail_url": "https://i.ytimg.com/vi/npJb16_m9HI/hqdefault.jpg"
-        },
-        {
-            "video_id": "TN4LP7j5cbo",
-            "title": "JISOO X ZAYN - EYES CLOSED (OFFICIAL LYRIC VIDEO)",
-            "channel_name": "JISOO",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "5547763",
-            "thumbnail_url": "https://i.ytimg.com/vi/TN4LP7j5cbo/hqdefault.jpg"
-        },
-        {
-            "video_id": "HKsY-JqdgZo",
-            "title": "서울 자가에 대기업 다니는 김 부장 이야기 5회 예고편 - 안전보건관리 책임자가 이런 걸 왜 합니까",
-            "channel_name": "JTBC Drama",
-            "category": "Entertainment",
-            "duration": "0:43",
-            "view_count": "153666",
-            "thumbnail_url": "https://i.ytimg.com/vi/HKsY-JqdgZo/hqdefault.jpg"
-        },
-        {
-            "video_id": "nUIL0zDXssI",
-            "title": "캠핑카 여행",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "44:18",
-            "view_count": "264481",
-            "thumbnail_url": "https://i.ytimg.com/vi/nUIL0zDXssI/hqdefault.jpg"
         },
         {
             "video_id": "UulR1x4tvZE",
@@ -61,8 +34,17 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "107531",
+            "view_count": "123710",
             "thumbnail_url": "https://i.ytimg.com/vi/UulR1x4tvZE/hqdefault.jpg"
+        },
+        {
+            "video_id": "HKsY-JqdgZo",
+            "title": "서울 자가에 대기업 다니는 김 부장 이야기 5회 예고편 - 안전보건관리 책임자가 이런 걸 왜 합니까",
+            "channel_name": "JTBC Drama",
+            "category": "Entertainment",
+            "duration": "0:43",
+            "view_count": "154780",
+            "thumbnail_url": "https://i.ytimg.com/vi/HKsY-JqdgZo/hqdefault.jpg"
         },
         {
             "video_id": "V_QxItMdLkM",
@@ -70,8 +52,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "0:47",
-            "view_count": "86757",
+            "view_count": "97531",
             "thumbnail_url": "https://i.ytimg.com/vi/V_QxItMdLkM/hqdefault.jpg"
+        },
+        {
+            "video_id": "TN4LP7j5cbo",
+            "title": "JISOO X ZAYN - EYES CLOSED (OFFICIAL LYRIC VIDEO)",
+            "channel_name": "JISOO",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "5555574",
+            "thumbnail_url": "https://i.ytimg.com/vi/TN4LP7j5cbo/hqdefault.jpg"
+        },
+        {
+            "video_id": "nUIL0zDXssI",
+            "title": "캠핑카 여행",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "44:18",
+            "view_count": "270136",
+            "thumbnail_url": "https://i.ytimg.com/vi/nUIL0zDXssI/hqdefault.jpg"
         },
         {
             "video_id": "I3IcQsfC7jA",
@@ -79,7 +79,7 @@
             "channel_name": "7clouds",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "2211435",
+            "view_count": "2336158",
             "thumbnail_url": "https://i.ytimg.com/vi/I3IcQsfC7jA/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "AION2",
             "category": "Gaming",
             "duration": "2:09:02",
-            "view_count": "66639",
+            "view_count": "84656",
             "thumbnail_url": "https://i.ytimg.com/vi/aRrbMCeLkWk/hqdefault.jpg"
         },
         {
@@ -97,98 +97,8 @@
             "channel_name": "URBAN ZAKAPA - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "294331",
+            "view_count": "302927",
             "thumbnail_url": "https://i.ytimg.com/vi/shHDB4brjII/hqdefault.jpg"
-        },
-        {
-            "video_id": "XR99YSUQdss",
-            "title": "탑하니까 바보가 된 클리드 ㅋㅋㅋ",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "35:10",
-            "view_count": "201238",
-            "thumbnail_url": "https://i.ytimg.com/vi/XR99YSUQdss/hqdefault.jpg"
-        },
-        {
-            "video_id": "KejIIdjl9EU",
-            "title": "To Me From Me (Prod. TABLO)",
-            "channel_name": "KiiiKiii - Topic",
-            "category": "Music",
-            "duration": "3:18",
-            "view_count": "104737",
-            "thumbnail_url": "https://i.ytimg.com/vi/KejIIdjl9EU/hqdefault.jpg"
-        },
-        {
-            "video_id": "oZnCvmUsYx4",
-            "title": "첫 CK부터 케미 폭발하는 저라뎃+샤코타임ㅋㅋㅋㅋ",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "45:03",
-            "view_count": "108664",
-            "thumbnail_url": "https://i.ytimg.com/vi/oZnCvmUsYx4/hqdefault.jpg"
-        },
-        {
-            "video_id": "j6OqLm0lQ68",
-            "title": "KISS OF LIFE (키스오브라이프) 'Lucky' Official Music Video",
-            "channel_name": "KISS OF LIFE",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "2129570",
-            "thumbnail_url": "https://i.ytimg.com/vi/j6OqLm0lQ68/hqdefault.jpg"
-        },
-        {
-            "video_id": "8quJXsZ0am0",
-            "title": "이제는 더이상 물러날 곳이 없는 제 3차 칸탬대전",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "38:01",
-            "view_count": "153419",
-            "thumbnail_url": "https://i.ytimg.com/vi/8quJXsZ0am0/hqdefault.jpg"
-        },
-        {
-            "video_id": "xAOT6ISD9jo",
-            "title": "FIFTY FIFTY (피프티피프티) '가위바위보(Eeny meeny miny moe)' Official MV",
-            "channel_name": "FIFTY FIFTY Official",
-            "category": "Music",
-            "duration": "3:17",
-            "view_count": "4891066",
-            "thumbnail_url": "https://i.ytimg.com/vi/xAOT6ISD9jo/hqdefault.jpg"
-        },
-        {
-            "video_id": "tjii-glrXk4",
-            "title": "T1 vs TES | 녹아웃 스테이지 Day6 4강 | 2025 월드 챔피언십",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "3:48:21",
-            "view_count": "3853849",
-            "thumbnail_url": "https://i.ytimg.com/vi/tjii-glrXk4/hqdefault.jpg"
-        },
-        {
-            "video_id": "-iYULTkh3xg",
-            "title": "두 사람",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "4:17",
-            "view_count": "125708",
-            "thumbnail_url": "https://i.ytimg.com/vi/-iYULTkh3xg/hqdefault.jpg"
-        },
-        {
-            "video_id": "WnGCmYfGTaY",
-            "title": "오너 문도 티스코드 영상을 본 중국 커뮤니티 난리났다!! 중국팀에서 T1 스메쉬 영입을 위해 접촉중?? 롤이슈 붐바야",
-            "channel_name": "붐바야",
-            "category": "Gaming",
-            "duration": "3:27",
-            "view_count": "400741",
-            "thumbnail_url": "https://i.ytimg.com/vi/WnGCmYfGTaY/hqdefault.jpg"
-        },
-        {
-            "video_id": "zs7ISrSdVUI",
-            "title": "Ellie Goulding - Love Me Like You Do (Lyrics Cover) | Pop Mage",
-            "channel_name": "Pop Mage",
-            "category": "Music",
-            "duration": "3:50",
-            "view_count": "12976310",
-            "thumbnail_url": "https://i.ytimg.com/vi/zs7ISrSdVUI/hqdefault.jpg"
         },
         {
             "video_id": "UdVyAUJRcgo",
@@ -196,35 +106,71 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "1:03:35",
-            "view_count": "35595",
+            "view_count": "44551",
             "thumbnail_url": "https://i.ytimg.com/vi/UdVyAUJRcgo/hqdefault.jpg"
         },
         {
-            "video_id": "67JOBIX2MsU",
-            "title": "Don’t Stop Believin’ - Music Travel Love & Friends (at Shura Island, The Red Sea)",
-            "channel_name": "Music Travel Love",
+            "video_id": "KejIIdjl9EU",
+            "title": "To Me From Me (Prod. TABLO)",
+            "channel_name": "KiiiKiii - Topic",
             "category": "Music",
-            "duration": "3:40",
-            "view_count": "2041500",
-            "thumbnail_url": "https://i.ytimg.com/vi/67JOBIX2MsU/hqdefault.jpg"
+            "duration": "3:18",
+            "view_count": "108686",
+            "thumbnail_url": "https://i.ytimg.com/vi/KejIIdjl9EU/hqdefault.jpg"
         },
         {
-            "video_id": "FF4UUfC1wmU",
-            "title": "카제나가 서비스종료 해야하는 이유",
-            "channel_name": "지존조세",
+            "video_id": "XR99YSUQdss",
+            "title": "탑하니까 바보가 된 클리드 ㅋㅋㅋ",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "12:11",
-            "view_count": "293780",
-            "thumbnail_url": "https://i.ytimg.com/vi/FF4UUfC1wmU/hqdefault.jpg"
+            "duration": "35:10",
+            "view_count": "202684",
+            "thumbnail_url": "https://i.ytimg.com/vi/XR99YSUQdss/hqdefault.jpg"
         },
         {
-            "video_id": "l_Y0iUr3vOU",
-            "title": "밤하늘의 별을(더 리슨 5)",
-            "channel_name": "Huh Gak - Topic",
+            "video_id": "j6OqLm0lQ68",
+            "title": "KISS OF LIFE (키스오브라이프) 'Lucky' Official Music Video",
+            "channel_name": "KISS OF LIFE",
             "category": "Music",
-            "duration": "3:44",
-            "view_count": "233604",
-            "thumbnail_url": "https://i.ytimg.com/vi/l_Y0iUr3vOU/hqdefault.jpg"
+            "duration": "3:23",
+            "view_count": "2177922",
+            "thumbnail_url": "https://i.ytimg.com/vi/j6OqLm0lQ68/hqdefault.jpg"
+        },
+        {
+            "video_id": "oZnCvmUsYx4",
+            "title": "첫 CK부터 케미 폭발하는 저라뎃+샤코타임ㅋㅋㅋㅋ",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "45:03",
+            "view_count": "111911",
+            "thumbnail_url": "https://i.ytimg.com/vi/oZnCvmUsYx4/hqdefault.jpg"
+        },
+        {
+            "video_id": "xAOT6ISD9jo",
+            "title": "FIFTY FIFTY (피프티피프티) '가위바위보(Eeny meeny miny moe)' Official MV",
+            "channel_name": "FIFTY FIFTY Official",
+            "category": "Music",
+            "duration": "3:17",
+            "view_count": "4972380",
+            "thumbnail_url": "https://i.ytimg.com/vi/xAOT6ISD9jo/hqdefault.jpg"
+        },
+        {
+            "video_id": "8quJXsZ0am0",
+            "title": "이제는 더이상 물러날 곳이 없는 제 3차 칸탬대전",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "38:01",
+            "view_count": "158441",
+            "thumbnail_url": "https://i.ytimg.com/vi/8quJXsZ0am0/hqdefault.jpg"
+        },
+        {
+            "video_id": "-iYULTkh3xg",
+            "title": "두 사람",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "4:17",
+            "view_count": "128723",
+            "thumbnail_url": "https://i.ytimg.com/vi/-iYULTkh3xg/hqdefault.jpg"
         },
         {
             "video_id": "u3PjQikpeZ8",
@@ -232,35 +178,53 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "15:02",
-            "view_count": "80437",
+            "view_count": "94038",
             "thumbnail_url": "https://i.ytimg.com/vi/u3PjQikpeZ8/hqdefault.jpg"
         },
         {
-            "video_id": "i4L2oYRkVGY",
-            "title": "[PLAVE BIRTHDAY GIFT] 하민 - 슬픈 인연 (원곡 : 015B)",
-            "channel_name": "PLAVE 플레이브",
-            "category": "Entertainment",
-            "duration": "3:37",
-            "view_count": "55847",
-            "thumbnail_url": "https://i.ytimg.com/vi/i4L2oYRkVGY/hqdefault.jpg"
-        },
-        {
-            "video_id": "wLWydNInjEo",
-            "title": "[생]바둑 황태자 까꿍프로",
-            "channel_name": "까꿍프로_바둑채널",
-            "category": "Gaming",
-            "duration": "4:38:03",
-            "view_count": "35311",
-            "thumbnail_url": "https://i.ytimg.com/vi/wLWydNInjEo/hqdefault.jpg"
-        },
-        {
-            "video_id": "a3cnsUu8LoQ",
-            "title": "Whitney Houston - Where Do Broken Hearts Go (Lyrics)",
-            "channel_name": "R&B Adventure",
+            "video_id": "zs7ISrSdVUI",
+            "title": "Ellie Goulding - Love Me Like You Do (Lyrics Cover) | Pop Mage",
+            "channel_name": "Pop Mage",
             "category": "Music",
-            "duration": "4:39",
-            "view_count": "1026339",
-            "thumbnail_url": "https://i.ytimg.com/vi/a3cnsUu8LoQ/hqdefault.jpg"
+            "duration": "3:50",
+            "view_count": "13041266",
+            "thumbnail_url": "https://i.ytimg.com/vi/zs7ISrSdVUI/hqdefault.jpg"
+        },
+        {
+            "video_id": "WnGCmYfGTaY",
+            "title": "오너 문도 티스코드 영상을 본 중국 커뮤니티 난리났다!! 중국팀에서 T1 스메쉬 영입을 위해 접촉중?? 롤이슈 붐바야",
+            "channel_name": "붐바야",
+            "category": "Gaming",
+            "duration": "3:27",
+            "view_count": "403890",
+            "thumbnail_url": "https://i.ytimg.com/vi/WnGCmYfGTaY/hqdefault.jpg"
+        },
+        {
+            "video_id": "67JOBIX2MsU",
+            "title": "Don’t Stop Believin’ - Music Travel Love & Friends (at Shura Island, The Red Sea)",
+            "channel_name": "Music Travel Love",
+            "category": "Music",
+            "duration": "3:40",
+            "view_count": "2054496",
+            "thumbnail_url": "https://i.ytimg.com/vi/67JOBIX2MsU/hqdefault.jpg"
+        },
+        {
+            "video_id": "tjii-glrXk4",
+            "title": "T1 vs TES | 녹아웃 스테이지 Day6 4강 | 2025 월드 챔피언십",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "3:48:21",
+            "view_count": "3854575",
+            "thumbnail_url": "https://i.ytimg.com/vi/tjii-glrXk4/hqdefault.jpg"
+        },
+        {
+            "video_id": "l_Y0iUr3vOU",
+            "title": "밤하늘의 별을(더 리슨 5)",
+            "channel_name": "Huh Gak - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "238170",
+            "thumbnail_url": "https://i.ytimg.com/vi/l_Y0iUr3vOU/hqdefault.jpg"
         },
         {
             "video_id": "-lFdxvwnsKs",
@@ -268,17 +232,17 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "18:29",
-            "view_count": "81054",
+            "view_count": "92992",
             "thumbnail_url": "https://i.ytimg.com/vi/-lFdxvwnsKs/hqdefault.jpg"
         },
         {
-            "video_id": "wzoEb28oHnY",
-            "title": "CYNICAL",
-            "channel_name": "SUNMI - Topic",
-            "category": "Music",
-            "duration": "2:35",
-            "view_count": "34008",
-            "thumbnail_url": "https://i.ytimg.com/vi/wzoEb28oHnY/hqdefault.jpg"
+            "video_id": "i4L2oYRkVGY",
+            "title": "[PLAVE BIRTHDAY GIFT] 하민 - 슬픈 인연 (원곡 : 015B)",
+            "channel_name": "PLAVE 플레이브",
+            "category": "Entertainment",
+            "duration": "3:37",
+            "view_count": "57010",
+            "thumbnail_url": "https://i.ytimg.com/vi/i4L2oYRkVGY/hqdefault.jpg"
         },
         {
             "video_id": "-LwiwKuxFXc",
@@ -286,7 +250,7 @@
             "channel_name": "고전파",
             "category": "Gaming",
             "duration": "8:25",
-            "view_count": "81029",
+            "view_count": "99764",
             "thumbnail_url": "https://i.ytimg.com/vi/-LwiwKuxFXc/hqdefault.jpg"
         },
         {
@@ -295,8 +259,26 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "5687",
+            "view_count": "6861",
             "thumbnail_url": "https://i.ytimg.com/vi/WU2wCO_wklo/hqdefault.jpg"
+        },
+        {
+            "video_id": "FF4UUfC1wmU",
+            "title": "카제나가 서비스종료 해야하는 이유",
+            "channel_name": "지존조세",
+            "category": "Gaming",
+            "duration": "12:11",
+            "view_count": "296338",
+            "thumbnail_url": "https://i.ytimg.com/vi/FF4UUfC1wmU/hqdefault.jpg"
+        },
+        {
+            "video_id": "a3cnsUu8LoQ",
+            "title": "Whitney Houston - Where Do Broken Hearts Go (Lyrics)",
+            "channel_name": "R&B Adventure",
+            "category": "Music",
+            "duration": "4:39",
+            "view_count": "1027889",
+            "thumbnail_url": "https://i.ytimg.com/vi/a3cnsUu8LoQ/hqdefault.jpg"
         },
         {
             "video_id": "3WYzEBESwxU",
@@ -304,8 +286,26 @@
             "channel_name": "형독방송",
             "category": "Gaming",
             "duration": "23:52",
-            "view_count": "169943",
+            "view_count": "172164",
             "thumbnail_url": "https://i.ytimg.com/vi/3WYzEBESwxU/hqdefault.jpg"
+        },
+        {
+            "video_id": "wzoEb28oHnY",
+            "title": "CYNICAL",
+            "channel_name": "SUNMI - Topic",
+            "category": "Music",
+            "duration": "2:35",
+            "view_count": "35342",
+            "thumbnail_url": "https://i.ytimg.com/vi/wzoEb28oHnY/hqdefault.jpg"
+        },
+        {
+            "video_id": "wLWydNInjEo",
+            "title": "[생]바둑 황태자 까꿍프로",
+            "channel_name": "까꿍프로_바둑채널",
+            "category": "Gaming",
+            "duration": "4:38:03",
+            "view_count": "45537",
+            "thumbnail_url": "https://i.ytimg.com/vi/wLWydNInjEo/hqdefault.jpg"
         },
         {
             "video_id": "lFeqgeliXOI",
@@ -313,7 +313,7 @@
             "channel_name": "Glim R&B",
             "category": "Music",
             "duration": "4:51",
-            "view_count": "1741924",
+            "view_count": "1754854",
             "thumbnail_url": "https://i.ytimg.com/vi/lFeqgeliXOI/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "깸빗",
             "category": "Gaming",
             "duration": "15:59",
-            "view_count": "318850",
+            "view_count": "322691",
             "thumbnail_url": "https://i.ytimg.com/vi/rdO1mZDahTw/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "하얀귤",
             "category": "Gaming",
             "duration": "8:19",
-            "view_count": "86107",
+            "view_count": "87307",
             "thumbnail_url": "https://i.ytimg.com/vi/uBEdbv-AL1Q/hqdefault.jpg"
         },
         {
@@ -349,17 +349,17 @@
             "channel_name": "CAMO - Topic",
             "category": "Music",
             "duration": "2:13",
-            "view_count": "15352",
+            "view_count": "16124",
             "thumbnail_url": "https://i.ytimg.com/vi/f0mtz_SlweU/hqdefault.jpg"
         },
         {
-            "video_id": "ujPl3cQ8NL0",
-            "title": "뮌헨 나와!!! 유일하게 뮌헨 잡을 10카 도배팀 등장",
-            "channel_name": "유봉훈",
+            "video_id": "y1c2uTwE78M",
+            "title": "실버 증강을 극한으로 쌀먹 해봤더니 생기는 일",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "12:50",
-            "view_count": "141033",
-            "thumbnail_url": "https://i.ytimg.com/vi/ujPl3cQ8NL0/hqdefault.jpg"
+            "duration": "13:12",
+            "view_count": "47728",
+            "thumbnail_url": "https://i.ytimg.com/vi/y1c2uTwE78M/hqdefault.jpg"
         },
         {
             "video_id": "PGg-56Y8gvk",
@@ -367,17 +367,17 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "15:43",
-            "view_count": "51698",
+            "view_count": "53178",
             "thumbnail_url": "https://i.ytimg.com/vi/PGg-56Y8gvk/hqdefault.jpg"
         },
         {
-            "video_id": "uTf3dwQaDuw",
-            "title": "망구랑님 저 면접 봐도 될까요..?",
-            "channel_name": "킴성태TV",
+            "video_id": "ujPl3cQ8NL0",
+            "title": "뮌헨 나와!!! 유일하게 뮌헨 잡을 10카 도배팀 등장",
+            "channel_name": "유봉훈",
             "category": "Gaming",
-            "duration": "14:46",
-            "view_count": "168297",
-            "thumbnail_url": "https://i.ytimg.com/vi/uTf3dwQaDuw/hqdefault.jpg"
+            "duration": "12:50",
+            "view_count": "143029",
+            "thumbnail_url": "https://i.ytimg.com/vi/ujPl3cQ8NL0/hqdefault.jpg"
         }
     ]
 }
