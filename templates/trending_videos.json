@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-08 15:29:43",
+    "scraped_time": "2025-11-08 16:18:52",
     "videos": [
         {
             "video_id": "KHG3M3UqHBc",
@@ -7,7 +7,7 @@
             "channel_name": "NEWBEAT ",
             "category": "Entertainment",
             "duration": "3:07",
-            "view_count": "2231243",
+            "view_count": "2270611",
             "thumbnail_url": "https://i.ytimg.com/vi/KHG3M3UqHBc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "TVING",
             "category": "Entertainment",
             "duration": "0:38",
-            "view_count": "67685",
+            "view_count": "68803",
             "thumbnail_url": "https://i.ytimg.com/vi/zvLuljlJVrI/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "27:45",
-            "view_count": "960491",
+            "view_count": "984393",
             "thumbnail_url": "https://i.ytimg.com/vi/2JxgNMO-po4/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "6:03",
-            "view_count": "3082097",
+            "view_count": "3121350",
             "thumbnail_url": "https://i.ytimg.com/vi/2GPFLanHujM/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "1:13",
-            "view_count": "634274",
+            "view_count": "644405",
             "thumbnail_url": "https://i.ytimg.com/vi/yVtrfEw-_y8/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "44:41",
-            "view_count": "263648",
+            "view_count": "271987",
             "thumbnail_url": "https://i.ytimg.com/vi/-yA6L4_72YA/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "이세계아이돌 ISEGYE IDOL",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "652131",
+            "view_count": "664173",
             "thumbnail_url": "https://i.ytimg.com/vi/fff8P0kYexQ/hqdefault.jpg"
         },
         {
@@ -70,35 +70,8 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "0:58",
-            "view_count": "50710",
+            "view_count": "51636",
             "thumbnail_url": "https://i.ytimg.com/vi/MfjOE69MmBw/hqdefault.jpg"
-        },
-        {
-            "video_id": "i2IwNXdzUmo",
-            "title": "[LIVE] 로스트아크 On Air l 2025.11.07 19:00",
-            "channel_name": "로스트아크 LOST ARK",
-            "category": "Gaming",
-            "duration": "53:57",
-            "view_count": "150082",
-            "thumbnail_url": "https://i.ytimg.com/vi/i2IwNXdzUmo/hqdefault.jpg"
-        },
-        {
-            "video_id": "X1EMiojYjdk",
-            "title": "Billie Eilish - BIRDS OF A FEATHER (Lyrics Cover) | Pop Mage",
-            "channel_name": "Pop Mage",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "4189795",
-            "thumbnail_url": "https://i.ytimg.com/vi/X1EMiojYjdk/hqdefault.jpg"
-        },
-        {
-            "video_id": "EHmj-1x0kUo",
-            "title": "[공식]「Pokémon LEGENDS Z-A 메가 차원 러시」 2nd Trailer",
-            "channel_name": "포켓몬 공식 채널 Pokémon Korea, Inc.",
-            "category": "Film & Animation",
-            "duration": "5:16",
-            "view_count": "117511",
-            "thumbnail_url": "https://i.ytimg.com/vi/EHmj-1x0kUo/hqdefault.jpg"
         },
         {
             "video_id": "6p1EVBBPnVQ",
@@ -106,7 +79,7 @@
             "channel_name": "발__젭",
             "category": "Gaming",
             "duration": "15:09",
-            "view_count": "244110",
+            "view_count": "250918",
             "thumbnail_url": "https://i.ytimg.com/vi/6p1EVBBPnVQ/hqdefault.jpg"
         },
         {
@@ -115,8 +88,35 @@
             "channel_name": "Na Yoon Kwon - Topic",
             "category": "Music",
             "duration": "4:21",
-            "view_count": "98609",
+            "view_count": "103471",
             "thumbnail_url": "https://i.ytimg.com/vi/cFNUSltsCPc/hqdefault.jpg"
+        },
+        {
+            "video_id": "EHmj-1x0kUo",
+            "title": "[공식]「Pokémon LEGENDS Z-A 메가 차원 러시」 2nd Trailer",
+            "channel_name": "포켓몬 공식 채널 Pokémon Korea, Inc.",
+            "category": "Film & Animation",
+            "duration": "5:16",
+            "view_count": "118004",
+            "thumbnail_url": "https://i.ytimg.com/vi/EHmj-1x0kUo/hqdefault.jpg"
+        },
+        {
+            "video_id": "i2IwNXdzUmo",
+            "title": "[LIVE] 로스트아크 On Air l 2025.11.07 19:00",
+            "channel_name": "로스트아크 LOST ARK",
+            "category": "Gaming",
+            "duration": "53:57",
+            "view_count": "150642",
+            "thumbnail_url": "https://i.ytimg.com/vi/i2IwNXdzUmo/hqdefault.jpg"
+        },
+        {
+            "video_id": "X1EMiojYjdk",
+            "title": "Billie Eilish - BIRDS OF A FEATHER (Lyrics Cover) | Pop Mage",
+            "channel_name": "Pop Mage",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "4196307",
+            "thumbnail_url": "https://i.ytimg.com/vi/X1EMiojYjdk/hqdefault.jpg"
         },
         {
             "video_id": "0O9rtOolCvw",
@@ -124,7 +124,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:50",
-            "view_count": "382076",
+            "view_count": "383895",
             "thumbnail_url": "https://i.ytimg.com/vi/0O9rtOolCvw/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "병병병",
             "category": "Gaming",
             "duration": "12:58",
-            "view_count": "236641",
+            "view_count": "244651",
             "thumbnail_url": "https://i.ytimg.com/vi/h37BZq7DsBY/hqdefault.jpg"
         },
         {
@@ -142,26 +142,8 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "113847",
+            "view_count": "115930",
             "thumbnail_url": "https://i.ytimg.com/vi/OCfhZ9agK0g/hqdefault.jpg"
-        },
-        {
-            "video_id": "MEWfQzrxXwU",
-            "title": "검정 포르쉐 반드시 뽑고 싶습니다",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "18:55",
-            "view_count": "429661",
-            "thumbnail_url": "https://i.ytimg.com/vi/MEWfQzrxXwU/hqdefault.jpg"
-        },
-        {
-            "video_id": "E0yoilyfOpI",
-            "title": "Anne-Marie - SLIGHTLY LESS DEPRESSED (Unplugged) [Official Audio]",
-            "channel_name": "Anne-Marie",
-            "category": "Music",
-            "duration": "2:14",
-            "view_count": "964975",
-            "thumbnail_url": "https://i.ytimg.com/vi/E0yoilyfOpI/hqdefault.jpg"
         },
         {
             "video_id": "0C2xnomMq5k",
@@ -169,8 +151,26 @@
             "channel_name": "강태풍의 로블록스",
             "category": "Gaming",
             "duration": "20:34",
-            "view_count": "109105",
+            "view_count": "112584",
             "thumbnail_url": "https://i.ytimg.com/vi/0C2xnomMq5k/hqdefault.jpg"
+        },
+        {
+            "video_id": "E0yoilyfOpI",
+            "title": "Anne-Marie - SLIGHTLY LESS DEPRESSED (Unplugged) [Official Audio]",
+            "channel_name": "Anne-Marie",
+            "category": "Music",
+            "duration": "2:14",
+            "view_count": "980469",
+            "thumbnail_url": "https://i.ytimg.com/vi/E0yoilyfOpI/hqdefault.jpg"
+        },
+        {
+            "video_id": "MEWfQzrxXwU",
+            "title": "검정 포르쉐 반드시 뽑고 싶습니다",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "18:55",
+            "view_count": "432087",
+            "thumbnail_url": "https://i.ytimg.com/vi/MEWfQzrxXwU/hqdefault.jpg"
         },
         {
             "video_id": "2xbTnB6we0Q",
@@ -178,7 +178,7 @@
             "channel_name": "YEONJUN - Topic",
             "category": "Music",
             "duration": "2:35",
-            "view_count": "219549",
+            "view_count": "223831",
             "thumbnail_url": "https://i.ytimg.com/vi/2xbTnB6we0Q/hqdefault.jpg"
         },
         {
@@ -187,26 +187,8 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "14:04",
-            "view_count": "134004",
+            "view_count": "136970",
             "thumbnail_url": "https://i.ytimg.com/vi/JUx3NPfeifk/hqdefault.jpg"
-        },
-        {
-            "video_id": "OxDmGz60hws",
-            "title": "ROSALÍA - Divinize (Official Lyric Video)",
-            "channel_name": "RosaliaVEVO",
-            "category": "Music",
-            "duration": "4:08",
-            "view_count": "1320006",
-            "thumbnail_url": "https://i.ytimg.com/vi/OxDmGz60hws/hqdefault.jpg"
-        },
-        {
-            "video_id": "Yrc6D_kae6A",
-            "title": "15시즌 챌린저 달리기 1화 : 민생 지원금",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "29:35",
-            "view_count": "185851",
-            "thumbnail_url": "https://i.ytimg.com/vi/Yrc6D_kae6A/hqdefault.jpg"
         },
         {
             "video_id": "zu5umkoKvl8",
@@ -214,17 +196,35 @@
             "channel_name": "DJ Snake - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "300833",
+            "view_count": "307625",
             "thumbnail_url": "https://i.ytimg.com/vi/zu5umkoKvl8/hqdefault.jpg"
         },
         {
-            "video_id": "FEF1ZgkUZt0",
-            "title": "드디어 왔다.. 내 도파민",
-            "channel_name": "잡상싱",
+            "video_id": "Yrc6D_kae6A",
+            "title": "15시즌 챌린저 달리기 1화 : 민생 지원금",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "13:16",
-            "view_count": "137041",
-            "thumbnail_url": "https://i.ytimg.com/vi/FEF1ZgkUZt0/hqdefault.jpg"
+            "duration": "29:35",
+            "view_count": "188512",
+            "thumbnail_url": "https://i.ytimg.com/vi/Yrc6D_kae6A/hqdefault.jpg"
+        },
+        {
+            "video_id": "OxDmGz60hws",
+            "title": "ROSALÍA - Divinize (Official Lyric Video)",
+            "channel_name": "RosaliaVEVO",
+            "category": "Music",
+            "duration": "4:08",
+            "view_count": "1322781",
+            "thumbnail_url": "https://i.ytimg.com/vi/OxDmGz60hws/hqdefault.jpg"
+        },
+        {
+            "video_id": "KhNGTZbvcS8",
+            "title": "[월즈 특집 Ep.5] 25 월즈 승부 예측 올킬! 마지막 트로피의 행방은? | 2025 시크릿보드룸",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "26:06",
+            "view_count": "47579",
+            "thumbnail_url": "https://i.ytimg.com/vi/KhNGTZbvcS8/hqdefault.jpg"
         },
         {
             "video_id": "ftZFUiRxl3c",
@@ -232,8 +232,26 @@
             "channel_name": "빈예서홍보TV",
             "category": "People & Blogs",
             "duration": "2:57",
-            "view_count": "30152",
+            "view_count": "31222",
             "thumbnail_url": "https://i.ytimg.com/vi/ftZFUiRxl3c/hqdefault.jpg"
+        },
+        {
+            "video_id": "FEF1ZgkUZt0",
+            "title": "드디어 왔다.. 내 도파민",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "13:16",
+            "view_count": "140827",
+            "thumbnail_url": "https://i.ytimg.com/vi/FEF1ZgkUZt0/hqdefault.jpg"
+        },
+        {
+            "video_id": "C_7pYZZokbc",
+            "title": "Goo Goo Dolls - Iris (Lyrics)",
+            "channel_name": "Country World",
+            "category": "People & Blogs",
+            "duration": "4:50",
+            "view_count": "1058515",
+            "thumbnail_url": "https://i.ytimg.com/vi/C_7pYZZokbc/hqdefault.jpg"
         },
         {
             "video_id": "fak3oQcf7j4",
@@ -241,7 +259,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "29:25",
-            "view_count": "128612",
+            "view_count": "130874",
             "thumbnail_url": "https://i.ytimg.com/vi/fak3oQcf7j4/hqdefault.jpg"
         },
         {
@@ -250,7 +268,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "224197",
+            "view_count": "225376",
             "thumbnail_url": "https://i.ytimg.com/vi/UulR1x4tvZE/hqdefault.jpg"
         },
         {
@@ -259,26 +277,8 @@
             "channel_name": "악동 김블루",
             "category": "Gaming",
             "duration": "12:51",
-            "view_count": "117594",
+            "view_count": "120666",
             "thumbnail_url": "https://i.ytimg.com/vi/Pvg8XvABosM/hqdefault.jpg"
-        },
-        {
-            "video_id": "C_7pYZZokbc",
-            "title": "Goo Goo Dolls - Iris (Lyrics)",
-            "channel_name": "Country World",
-            "category": "People & Blogs",
-            "duration": "4:50",
-            "view_count": "927509",
-            "thumbnail_url": "https://i.ytimg.com/vi/C_7pYZZokbc/hqdefault.jpg"
-        },
-        {
-            "video_id": "KhNGTZbvcS8",
-            "title": "[월즈 특집 Ep.5] 25 월즈 승부 예측 올킬! 마지막 트로피의 행방은? | 2025 시크릿보드룸",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "26:06",
-            "view_count": "34985",
-            "thumbnail_url": "https://i.ytimg.com/vi/KhNGTZbvcS8/hqdefault.jpg"
         },
         {
             "video_id": "KejIIdjl9EU",
@@ -286,7 +286,7 @@
             "channel_name": "KiiiKiii - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "236403",
+            "view_count": "240492",
             "thumbnail_url": "https://i.ytimg.com/vi/KejIIdjl9EU/hqdefault.jpg"
         },
         {
@@ -295,26 +295,8 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "30:32",
-            "view_count": "130125",
+            "view_count": "132464",
             "thumbnail_url": "https://i.ytimg.com/vi/OyeCTdzYgIU/hqdefault.jpg"
-        },
-        {
-            "video_id": "shHDB4brjII",
-            "title": "Stay",
-            "channel_name": "URBAN ZAKAPA - Topic",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "564321",
-            "thumbnail_url": "https://i.ytimg.com/vi/shHDB4brjII/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZeqkPhv85So",
-            "title": "칸탬대전 진정한 범인 가리기",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "43:08",
-            "view_count": "175458",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZeqkPhv85So/hqdefault.jpg"
         },
         {
             "video_id": "WqtNRnYDZuo",
@@ -322,8 +304,26 @@
             "channel_name": "Geeks - Topic",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "9410",
+            "view_count": "10539",
             "thumbnail_url": "https://i.ytimg.com/vi/WqtNRnYDZuo/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZeqkPhv85So",
+            "title": "칸탬대전 진정한 범인 가리기",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "43:08",
+            "view_count": "177124",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZeqkPhv85So/hqdefault.jpg"
+        },
+        {
+            "video_id": "hk1dWLYpp7g",
+            "title": "Wa;volution (파도혁명)",
+            "channel_name": "UmYull - Topic",
+            "category": "Music",
+            "duration": "4:15",
+            "view_count": "24564",
+            "thumbnail_url": "https://i.ytimg.com/vi/hk1dWLYpp7g/hqdefault.jpg"
         },
         {
             "video_id": "N2zZ7jSBiL8",
@@ -331,8 +331,26 @@
             "channel_name": "블랙의철권TV",
             "category": "Gaming",
             "duration": "6:01:08",
-            "view_count": "117316",
+            "view_count": "117330",
             "thumbnail_url": "https://i.ytimg.com/vi/N2zZ7jSBiL8/hqdefault.jpg"
+        },
+        {
+            "video_id": "shHDB4brjII",
+            "title": "Stay",
+            "channel_name": "URBAN ZAKAPA - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "571839",
+            "thumbnail_url": "https://i.ytimg.com/vi/shHDB4brjII/hqdefault.jpg"
+        },
+        {
+            "video_id": "R3G8xXXQJ1g",
+            "title": "무한 화약통으로 화면 꽉 채우는 \"꿀잼 1티어\" 갱플랭크",
+            "channel_name": "무지개맛 Rainbow Flavor",
+            "category": "Gaming",
+            "duration": "8:22",
+            "view_count": "73699",
+            "thumbnail_url": "https://i.ytimg.com/vi/R3G8xXXQJ1g/hqdefault.jpg"
         },
         {
             "video_id": "acA8Rr3gEco",
@@ -340,7 +358,7 @@
             "channel_name": "Joji",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "1660568",
+            "view_count": "1699335",
             "thumbnail_url": "https://i.ytimg.com/vi/acA8Rr3gEco/hqdefault.jpg"
         },
         {
@@ -349,26 +367,8 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "15:17",
-            "view_count": "149440",
+            "view_count": "152755",
             "thumbnail_url": "https://i.ytimg.com/vi/hi7y3byd2RE/hqdefault.jpg"
-        },
-        {
-            "video_id": "hk1dWLYpp7g",
-            "title": "Wa;volution (파도혁명)",
-            "channel_name": "UmYull - Topic",
-            "category": "Music",
-            "duration": "4:15",
-            "view_count": "23180",
-            "thumbnail_url": "https://i.ytimg.com/vi/hk1dWLYpp7g/hqdefault.jpg"
-        },
-        {
-            "video_id": "gDlONdQfNHo",
-            "title": "동생이 사고친 박물관.. 뒷수습 들어갈게요",
-            "channel_name": "아오니 AONI",
-            "category": "Gaming",
-            "duration": "9:14",
-            "view_count": "172623",
-            "thumbnail_url": "https://i.ytimg.com/vi/gDlONdQfNHo/hqdefault.jpg"
         },
         {
             "video_id": "jDYddDMCLIE",
@@ -376,7 +376,7 @@
             "channel_name": "7clouds TikTok ",
             "category": "People & Blogs",
             "duration": "3:09",
-            "view_count": "1346386",
+            "view_count": "1349034",
             "thumbnail_url": "https://i.ytimg.com/vi/jDYddDMCLIE/hqdefault.jpg"
         }
     ]
