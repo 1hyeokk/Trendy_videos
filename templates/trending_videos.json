@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-09 19:20:01",
+    "scraped_time": "2025-11-09 20:16:07",
     "videos": [
         {
             "video_id": "WqtNRnYDZuo",
@@ -7,7 +7,7 @@
             "channel_name": "Geeks - Topic",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "70265",
+            "view_count": "72949",
             "thumbnail_url": "https://i.ytimg.com/vi/WqtNRnYDZuo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "DaFuq!?Boom!",
             "category": "Entertainment",
             "duration": "0:51",
-            "view_count": "943972",
+            "view_count": "1024334",
             "thumbnail_url": "https://i.ytimg.com/vi/2W7z4SB8Vy8/hqdefault.jpg"
         },
         {
@@ -25,35 +25,8 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "34:54",
-            "view_count": "492290",
+            "view_count": "498144",
             "thumbnail_url": "https://i.ytimg.com/vi/crMYn67iEi0/hqdefault.jpg"
-        },
-        {
-            "video_id": "KHG3M3UqHBc",
-            "title": "NEWBEAT(뉴비트) [LOUDER THAN EVER] 'Look So Good' Official MV",
-            "channel_name": "NEWBEAT ",
-            "category": "Entertainment",
-            "duration": "3:07",
-            "view_count": "2920131",
-            "thumbnail_url": "https://i.ytimg.com/vi/KHG3M3UqHBc/hqdefault.jpg"
-        },
-        {
-            "video_id": "zvLuljlJVrI",
-            "title": "[친애하는 X] 필요한 만큼만 사랑해 보려고 | 5-6화 예고(Blur On)ㅣTVING | Dear X",
-            "channel_name": "TVING",
-            "category": "Entertainment",
-            "duration": "0:38",
-            "view_count": "106398",
-            "thumbnail_url": "https://i.ytimg.com/vi/zvLuljlJVrI/hqdefault.jpg"
-        },
-        {
-            "video_id": "2JxgNMO-po4",
-            "title": "2025 T1scord Ep.17 - VS AL",
-            "channel_name": "T1",
-            "category": "Gaming",
-            "duration": "27:45",
-            "view_count": "1191431",
-            "thumbnail_url": "https://i.ytimg.com/vi/2JxgNMO-po4/hqdefault.jpg"
         },
         {
             "video_id": "TcFvg3zJGf8",
@@ -61,17 +34,17 @@
             "channel_name": "Na Yoon Kwon - Topic",
             "category": "Music",
             "duration": "4:38",
-            "view_count": "123830",
+            "view_count": "129321",
             "thumbnail_url": "https://i.ytimg.com/vi/TcFvg3zJGf8/hqdefault.jpg"
         },
         {
-            "video_id": "MfjOE69MmBw",
-            "title": "목숨을 건 레이싱의 시작 | [조각도시] 5-6회 예고편 | 디즈니+",
-            "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
-            "category": "Film & Animation",
-            "duration": "0:58",
-            "view_count": "88953",
-            "thumbnail_url": "https://i.ytimg.com/vi/MfjOE69MmBw/hqdefault.jpg"
+            "video_id": "zvLuljlJVrI",
+            "title": "[친애하는 X] 필요한 만큼만 사랑해 보려고 | 5-6화 예고(Blur On)ㅣTVING | Dear X",
+            "channel_name": "TVING",
+            "category": "Entertainment",
+            "duration": "0:38",
+            "view_count": "107495",
+            "thumbnail_url": "https://i.ytimg.com/vi/zvLuljlJVrI/hqdefault.jpg"
         },
         {
             "video_id": "PRP8M4xlmBE",
@@ -79,8 +52,35 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "7:24",
-            "view_count": "149461",
+            "view_count": "163655",
             "thumbnail_url": "https://i.ytimg.com/vi/PRP8M4xlmBE/hqdefault.jpg"
+        },
+        {
+            "video_id": "KHG3M3UqHBc",
+            "title": "NEWBEAT(뉴비트) [LOUDER THAN EVER] 'Look So Good' Official MV",
+            "channel_name": "NEWBEAT ",
+            "category": "Entertainment",
+            "duration": "3:07",
+            "view_count": "2926290",
+            "thumbnail_url": "https://i.ytimg.com/vi/KHG3M3UqHBc/hqdefault.jpg"
+        },
+        {
+            "video_id": "MfjOE69MmBw",
+            "title": "목숨을 건 레이싱의 시작 | [조각도시] 5-6회 예고편 | 디즈니+",
+            "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
+            "category": "Film & Animation",
+            "duration": "0:58",
+            "view_count": "89879",
+            "thumbnail_url": "https://i.ytimg.com/vi/MfjOE69MmBw/hqdefault.jpg"
+        },
+        {
+            "video_id": "2JxgNMO-po4",
+            "title": "2025 T1scord Ep.17 - VS AL",
+            "channel_name": "T1",
+            "category": "Gaming",
+            "duration": "27:45",
+            "view_count": "1192015",
+            "thumbnail_url": "https://i.ytimg.com/vi/2JxgNMO-po4/hqdefault.jpg"
         },
         {
             "video_id": "2GPFLanHujM",
@@ -88,7 +88,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "6:03",
-            "view_count": "4147536",
+            "view_count": "4185468",
             "thumbnail_url": "https://i.ytimg.com/vi/2GPFLanHujM/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "1:13",
-            "view_count": "959827",
+            "view_count": "968579",
             "thumbnail_url": "https://i.ytimg.com/vi/yVtrfEw-_y8/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "26:31",
-            "view_count": "192088",
+            "view_count": "202012",
             "thumbnail_url": "https://i.ytimg.com/vi/AbDZb22zBsA/hqdefault.jpg"
         },
         {
@@ -115,44 +115,17 @@
             "channel_name": "이세계아이돌 ISEGYE IDOL",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "1076712",
+            "view_count": "1084869",
             "thumbnail_url": "https://i.ytimg.com/vi/fff8P0kYexQ/hqdefault.jpg"
         },
         {
-            "video_id": "m8w0iyoynd4",
-            "title": "[태풍상사10화 예고]표박호가 덜덜 떠는 태풍상사 사무실 이전!#tvN #태풍상사 #이준호 #김민하",
-            "channel_name": "DDrop",
+            "video_id": "f-bHnddKjGg",
+            "title": "와.. 마이클 잭슨이 돌아온다..! ≪마이클≫ 메인 예고편 리뷰",
+            "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
-            "duration": "8:29",
-            "view_count": "17093",
-            "thumbnail_url": "https://i.ytimg.com/vi/m8w0iyoynd4/hqdefault.jpg"
-        },
-        {
-            "video_id": "w-lgWqOH8RY",
-            "title": "마인크래프트의 모든 바이옴 모으기",
-            "channel_name": "프뚜",
-            "category": "Gaming",
-            "duration": "36:06",
-            "view_count": "248705",
-            "thumbnail_url": "https://i.ytimg.com/vi/w-lgWqOH8RY/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ge9TNAQQbRo",
-            "title": "4 Non Blondes - What's Up? (Lyrics)",
-            "channel_name": "FirePlay",
-            "category": "Music",
-            "duration": "4:14",
-            "view_count": "1393250",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ge9TNAQQbRo/hqdefault.jpg"
-        },
-        {
-            "video_id": "EHmj-1x0kUo",
-            "title": "[공식]「Pokémon LEGENDS Z-A 메가 차원 러시」 2nd Trailer",
-            "channel_name": "포켓몬 공식 채널 Pokémon Korea, Inc.",
-            "category": "Film & Animation",
-            "duration": "5:16",
-            "view_count": "129498",
-            "thumbnail_url": "https://i.ytimg.com/vi/EHmj-1x0kUo/hqdefault.jpg"
+            "duration": "9:20",
+            "view_count": "26101",
+            "thumbnail_url": "https://i.ytimg.com/vi/f-bHnddKjGg/hqdefault.jpg"
         },
         {
             "video_id": "ujsA8aurdjM",
@@ -160,7 +133,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "15:08",
-            "view_count": "120250",
+            "view_count": "131840",
             "thumbnail_url": "https://i.ytimg.com/vi/ujsA8aurdjM/hqdefault.jpg"
         },
         {
@@ -169,17 +142,44 @@
             "channel_name": "AOA - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "26521",
+            "view_count": "28112",
             "thumbnail_url": "https://i.ytimg.com/vi/AaS0VFnnVXE/hqdefault.jpg"
         },
         {
-            "video_id": "f-bHnddKjGg",
-            "title": "와.. 마이클 잭슨이 돌아온다..! ≪마이클≫ 메인 예고편 리뷰",
-            "channel_name": "무비띵크_Movie Think",
+            "video_id": "m8w0iyoynd4",
+            "title": "[태풍상사10화 예고]표박호가 덜덜 떠는 태풍상사 사무실 이전!#tvN #태풍상사 #이준호 #김민하",
+            "channel_name": "DDrop",
             "category": "Film & Animation",
-            "duration": "9:20",
-            "view_count": "20810",
-            "thumbnail_url": "https://i.ytimg.com/vi/f-bHnddKjGg/hqdefault.jpg"
+            "duration": "8:29",
+            "view_count": "18204",
+            "thumbnail_url": "https://i.ytimg.com/vi/m8w0iyoynd4/hqdefault.jpg"
+        },
+        {
+            "video_id": "w-lgWqOH8RY",
+            "title": "마인크래프트의 모든 바이옴 모으기",
+            "channel_name": "프뚜",
+            "category": "Gaming",
+            "duration": "36:06",
+            "view_count": "255767",
+            "thumbnail_url": "https://i.ytimg.com/vi/w-lgWqOH8RY/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ge9TNAQQbRo",
+            "title": "4 Non Blondes - What's Up? (Lyrics)",
+            "channel_name": "FirePlay",
+            "category": "Music",
+            "duration": "4:14",
+            "view_count": "1447816",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ge9TNAQQbRo/hqdefault.jpg"
+        },
+        {
+            "video_id": "EHmj-1x0kUo",
+            "title": "[공식]「Pokémon LEGENDS Z-A 메가 차원 러시」 2nd Trailer",
+            "channel_name": "포켓몬 공식 채널 Pokémon Korea, Inc.",
+            "category": "Film & Animation",
+            "duration": "5:16",
+            "view_count": "129719",
+            "thumbnail_url": "https://i.ytimg.com/vi/EHmj-1x0kUo/hqdefault.jpg"
         },
         {
             "video_id": "CaaxWeDUX_Q",
@@ -187,7 +187,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "33:03",
-            "view_count": "203945",
+            "view_count": "208352",
             "thumbnail_url": "https://i.ytimg.com/vi/CaaxWeDUX_Q/hqdefault.jpg"
         },
         {
@@ -196,53 +196,8 @@
             "channel_name": "빈예서홍보TV",
             "category": "People & Blogs",
             "duration": "2:57",
-            "view_count": "69617",
+            "view_count": "71380",
             "thumbnail_url": "https://i.ytimg.com/vi/ftZFUiRxl3c/hqdefault.jpg"
-        },
-        {
-            "video_id": "0O9rtOolCvw",
-            "title": "자백의 대가 | 공식 티저 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "1:50",
-            "view_count": "440640",
-            "thumbnail_url": "https://i.ytimg.com/vi/0O9rtOolCvw/hqdefault.jpg"
-        },
-        {
-            "video_id": "-yA6L4_72YA",
-            "title": "언더웹｜도시 밑바닥의 사건해결사들",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "44:41",
-            "view_count": "382852",
-            "thumbnail_url": "https://i.ytimg.com/vi/-yA6L4_72YA/hqdefault.jpg"
-        },
-        {
-            "video_id": "3Nl2rdaddKw",
-            "title": "Chris Stapleton, Justin Timberlake - Tennessee Whiskey / Drink You Away | CMA Awards 2015",
-            "channel_name": "Chris Stapleton",
-            "category": "Music",
-            "duration": "7:54",
-            "view_count": "2717780",
-            "thumbnail_url": "https://i.ytimg.com/vi/3Nl2rdaddKw/hqdefault.jpg"
-        },
-        {
-            "video_id": "BS2GrNI6vQg",
-            "title": "하루종일 달리는 사람",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "41:14",
-            "view_count": "317954",
-            "thumbnail_url": "https://i.ytimg.com/vi/BS2GrNI6vQg/hqdefault.jpg"
-        },
-        {
-            "video_id": "X1EMiojYjdk",
-            "title": "Billie Eilish - BIRDS OF A FEATHER (Lyrics Cover) | Pop Mage",
-            "channel_name": "Pop Mage",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "4276272",
-            "thumbnail_url": "https://i.ytimg.com/vi/X1EMiojYjdk/hqdefault.jpg"
         },
         {
             "video_id": "czXuSfSb33o",
@@ -250,8 +205,26 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "38:37",
-            "view_count": "93154",
+            "view_count": "100821",
             "thumbnail_url": "https://i.ytimg.com/vi/czXuSfSb33o/hqdefault.jpg"
+        },
+        {
+            "video_id": "3Nl2rdaddKw",
+            "title": "Chris Stapleton, Justin Timberlake - Tennessee Whiskey / Drink You Away | CMA Awards 2015",
+            "channel_name": "Chris Stapleton",
+            "category": "Music",
+            "duration": "7:54",
+            "view_count": "2735669",
+            "thumbnail_url": "https://i.ytimg.com/vi/3Nl2rdaddKw/hqdefault.jpg"
+        },
+        {
+            "video_id": "csVAxK7J9mI",
+            "title": "오랜만에 동호형을 만났는데, 왜 이렇게 잘해졌죠???",
+            "channel_name": "형독방송",
+            "category": "Gaming",
+            "duration": "25:18",
+            "view_count": "84928",
+            "thumbnail_url": "https://i.ytimg.com/vi/csVAxK7J9mI/hqdefault.jpg"
         },
         {
             "video_id": "OCfhZ9agK0g",
@@ -259,17 +232,35 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "156740",
+            "view_count": "157825",
             "thumbnail_url": "https://i.ytimg.com/vi/OCfhZ9agK0g/hqdefault.jpg"
         },
         {
-            "video_id": "H3_ZJdDFgfA",
-            "title": "15시즌 챌린저 달리기 2화 : 나는 머리",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "BS2GrNI6vQg",
+            "title": "하루종일 달리는 사람",
+            "channel_name": "랄로",
             "category": "Gaming",
-            "duration": "30:18",
-            "view_count": "158988",
-            "thumbnail_url": "https://i.ytimg.com/vi/H3_ZJdDFgfA/hqdefault.jpg"
+            "duration": "41:14",
+            "view_count": "322693",
+            "thumbnail_url": "https://i.ytimg.com/vi/BS2GrNI6vQg/hqdefault.jpg"
+        },
+        {
+            "video_id": "0GhIOvbn68I",
+            "title": "Something",
+            "channel_name": "Girl's Day - Topic",
+            "category": "Music",
+            "duration": "3:21",
+            "view_count": "29027",
+            "thumbnail_url": "https://i.ytimg.com/vi/0GhIOvbn68I/hqdefault.jpg"
+        },
+        {
+            "video_id": "-yA6L4_72YA",
+            "title": "언더웹｜도시 밑바닥의 사건해결사들",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "44:41",
+            "view_count": "386611",
+            "thumbnail_url": "https://i.ytimg.com/vi/-yA6L4_72YA/hqdefault.jpg"
         },
         {
             "video_id": "JMQpqgwi2OM",
@@ -277,8 +268,26 @@
             "channel_name": "Miiro",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "44763",
+            "view_count": "46474",
             "thumbnail_url": "https://i.ytimg.com/vi/JMQpqgwi2OM/hqdefault.jpg"
+        },
+        {
+            "video_id": "H3_ZJdDFgfA",
+            "title": "15시즌 챌린저 달리기 2화 : 나는 머리",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "30:18",
+            "view_count": "160230",
+            "thumbnail_url": "https://i.ytimg.com/vi/H3_ZJdDFgfA/hqdefault.jpg"
+        },
+        {
+            "video_id": "X1EMiojYjdk",
+            "title": "Billie Eilish - BIRDS OF A FEATHER (Lyrics Cover) | Pop Mage",
+            "channel_name": "Pop Mage",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "4277957",
+            "thumbnail_url": "https://i.ytimg.com/vi/X1EMiojYjdk/hqdefault.jpg"
         },
         {
             "video_id": "mBL0QnazFs4",
@@ -286,7 +295,7 @@
             "channel_name": "프로관전러 P.S",
             "category": "Gaming",
             "duration": "14:30",
-            "view_count": "314084",
+            "view_count": "314567",
             "thumbnail_url": "https://i.ytimg.com/vi/mBL0QnazFs4/hqdefault.jpg"
         },
         {
@@ -295,62 +304,8 @@
             "channel_name": "Green Area - Topic",
             "category": "Music",
             "duration": "4:35",
-            "view_count": "17392",
+            "view_count": "18336",
             "thumbnail_url": "https://i.ytimg.com/vi/F_QS6WPk6BI/hqdefault.jpg"
-        },
-        {
-            "video_id": "BcQAa-uUX7s",
-            "title": "이 사람 진짜 핵인가요?",
-            "channel_name": "주키니TV",
-            "category": "Gaming",
-            "duration": "31:06",
-            "view_count": "159237",
-            "thumbnail_url": "https://i.ytimg.com/vi/BcQAa-uUX7s/hqdefault.jpg"
-        },
-        {
-            "video_id": "0GhIOvbn68I",
-            "title": "Something",
-            "channel_name": "Girl's Day - Topic",
-            "category": "Music",
-            "duration": "3:21",
-            "view_count": "27689",
-            "thumbnail_url": "https://i.ytimg.com/vi/0GhIOvbn68I/hqdefault.jpg"
-        },
-        {
-            "video_id": "csVAxK7J9mI",
-            "title": "오랜만에 동호형을 만났는데, 왜 이렇게 잘해졌죠???",
-            "channel_name": "형독방송",
-            "category": "Gaming",
-            "duration": "25:18",
-            "view_count": "73428",
-            "thumbnail_url": "https://i.ytimg.com/vi/csVAxK7J9mI/hqdefault.jpg"
-        },
-        {
-            "video_id": "QzkZS7YLRYQ",
-            "title": "Our Last(Like Star)",
-            "channel_name": "doyouka - Topic",
-            "category": "Music",
-            "duration": "4:22",
-            "view_count": "34044",
-            "thumbnail_url": "https://i.ytimg.com/vi/QzkZS7YLRYQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "xhuHkmv2DHo",
-            "title": "밈이 된 포켓몬 : 밈이 된 포켓몬은 뭘까~~~~요?",
-            "channel_name": "아이템의 인벤토리",
-            "category": "Education",
-            "duration": "13:39",
-            "view_count": "161381",
-            "thumbnail_url": "https://i.ytimg.com/vi/xhuHkmv2DHo/hqdefault.jpg"
-        },
-        {
-            "video_id": "zu5umkoKvl8",
-            "title": "In The Dark",
-            "channel_name": "DJ Snake - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "524328",
-            "thumbnail_url": "https://i.ytimg.com/vi/zu5umkoKvl8/hqdefault.jpg"
         },
         {
             "video_id": "gTyjkr_hYGE",
@@ -358,8 +313,26 @@
             "channel_name": "집사TV",
             "category": "Gaming",
             "duration": "16:30",
-            "view_count": "91347",
+            "view_count": "97644",
             "thumbnail_url": "https://i.ytimg.com/vi/gTyjkr_hYGE/hqdefault.jpg"
+        },
+        {
+            "video_id": "QzkZS7YLRYQ",
+            "title": "Our Last(Like Star)",
+            "channel_name": "doyouka - Topic",
+            "category": "Music",
+            "duration": "4:22",
+            "view_count": "35685",
+            "thumbnail_url": "https://i.ytimg.com/vi/QzkZS7YLRYQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "BcQAa-uUX7s",
+            "title": "이 사람 진짜 핵인가요?",
+            "channel_name": "주키니TV",
+            "category": "Gaming",
+            "duration": "31:06",
+            "view_count": "162085",
+            "thumbnail_url": "https://i.ytimg.com/vi/BcQAa-uUX7s/hqdefault.jpg"
         },
         {
             "video_id": "C_7pYZZokbc",
@@ -367,17 +340,44 @@
             "channel_name": "Country World",
             "category": "People & Blogs",
             "duration": "4:50",
-            "view_count": "2651679",
+            "view_count": "2727228",
             "thumbnail_url": "https://i.ytimg.com/vi/C_7pYZZokbc/hqdefault.jpg"
         },
         {
-            "video_id": "_Af8nvOxz2g",
-            "title": "드디어 성공한 리메이크 된 '나는 머리'",
-            "channel_name": "잡상싱",
+            "video_id": "xhuHkmv2DHo",
+            "title": "밈이 된 포켓몬 : 밈이 된 포켓몬은 뭘까~~~~요?",
+            "channel_name": "아이템의 인벤토리",
+            "category": "Education",
+            "duration": "13:39",
+            "view_count": "163887",
+            "thumbnail_url": "https://i.ytimg.com/vi/xhuHkmv2DHo/hqdefault.jpg"
+        },
+        {
+            "video_id": "-JV8XzIJe_s",
+            "title": "연예인",
+            "channel_name": "PSY - Topic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "61629",
+            "thumbnail_url": "https://i.ytimg.com/vi/-JV8XzIJe_s/hqdefault.jpg"
+        },
+        {
+            "video_id": "I6JtBwriZ1A",
+            "title": "놀라운 동물의숲 버그들, 전부 실험해봤습니다",
+            "channel_name": "아오니 AONI",
             "category": "Gaming",
-            "duration": "12:04",
-            "view_count": "160179",
-            "thumbnail_url": "https://i.ytimg.com/vi/_Af8nvOxz2g/hqdefault.jpg"
+            "duration": "8:37",
+            "view_count": "159282",
+            "thumbnail_url": "https://i.ytimg.com/vi/I6JtBwriZ1A/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ox1vVwPkcaM",
+            "title": "MY GIRL",
+            "channel_name": "Jaurim - Topic",
+            "category": "Music",
+            "duration": "3:51",
+            "view_count": "6080",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ox1vVwPkcaM/hqdefault.jpg"
         }
     ]
 }
