@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-09 14:19:57",
+    "scraped_time": "2025-11-09 15:29:59",
     "videos": [
         {
             "video_id": "KHG3M3UqHBc",
@@ -7,35 +7,8 @@
             "channel_name": "NEWBEAT ",
             "category": "Entertainment",
             "duration": "3:07",
-            "view_count": "2887491",
+            "view_count": "2895421",
             "thumbnail_url": "https://i.ytimg.com/vi/KHG3M3UqHBc/hqdefault.jpg"
-        },
-        {
-            "video_id": "zvLuljlJVrI",
-            "title": "[친애하는 X] 필요한 만큼만 사랑해 보려고 | 5-6화 예고(Blur On)ㅣTVING | Dear X",
-            "channel_name": "TVING",
-            "category": "Entertainment",
-            "duration": "0:38",
-            "view_count": "100288",
-            "thumbnail_url": "https://i.ytimg.com/vi/zvLuljlJVrI/hqdefault.jpg"
-        },
-        {
-            "video_id": "2JxgNMO-po4",
-            "title": "2025 T1scord Ep.17 - VS AL",
-            "channel_name": "T1",
-            "category": "Gaming",
-            "duration": "27:45",
-            "view_count": "1173725",
-            "thumbnail_url": "https://i.ytimg.com/vi/2JxgNMO-po4/hqdefault.jpg"
-        },
-        {
-            "video_id": "WqtNRnYDZuo",
-            "title": "Officially Missing You",
-            "channel_name": "Geeks - Topic",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "50160",
-            "thumbnail_url": "https://i.ytimg.com/vi/WqtNRnYDZuo/hqdefault.jpg"
         },
         {
             "video_id": "2W7z4SB8Vy8",
@@ -43,7 +16,7 @@
             "channel_name": "DaFuq!?Boom!",
             "category": "Entertainment",
             "duration": "0:51",
-            "view_count": "393686",
+            "view_count": "539401",
             "thumbnail_url": "https://i.ytimg.com/vi/2W7z4SB8Vy8/hqdefault.jpg"
         },
         {
@@ -52,17 +25,44 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "34:54",
-            "view_count": "413336",
+            "view_count": "439738",
             "thumbnail_url": "https://i.ytimg.com/vi/crMYn67iEi0/hqdefault.jpg"
         },
         {
-            "video_id": "2GPFLanHujM",
-            "title": "연준 (YEONJUN) 'NO LABELS: PART 01' Official MV",
-            "channel_name": "HYBE LABELS",
+            "video_id": "WqtNRnYDZuo",
+            "title": "Officially Missing You",
+            "channel_name": "Geeks - Topic",
             "category": "Music",
-            "duration": "6:03",
-            "view_count": "3923756",
-            "thumbnail_url": "https://i.ytimg.com/vi/2GPFLanHujM/hqdefault.jpg"
+            "duration": "3:31",
+            "view_count": "55208",
+            "thumbnail_url": "https://i.ytimg.com/vi/WqtNRnYDZuo/hqdefault.jpg"
+        },
+        {
+            "video_id": "zvLuljlJVrI",
+            "title": "[친애하는 X] 필요한 만큼만 사랑해 보려고 | 5-6화 예고(Blur On)ㅣTVING | Dear X",
+            "channel_name": "TVING",
+            "category": "Entertainment",
+            "duration": "0:38",
+            "view_count": "101511",
+            "thumbnail_url": "https://i.ytimg.com/vi/zvLuljlJVrI/hqdefault.jpg"
+        },
+        {
+            "video_id": "2JxgNMO-po4",
+            "title": "2025 T1scord Ep.17 - VS AL",
+            "channel_name": "T1",
+            "category": "Gaming",
+            "duration": "27:45",
+            "view_count": "1180204",
+            "thumbnail_url": "https://i.ytimg.com/vi/2JxgNMO-po4/hqdefault.jpg"
+        },
+        {
+            "video_id": "TcFvg3zJGf8",
+            "title": "If It Were Me",
+            "channel_name": "Na Yoon Kwon - Topic",
+            "category": "Music",
+            "duration": "4:38",
+            "view_count": "98780",
+            "thumbnail_url": "https://i.ytimg.com/vi/TcFvg3zJGf8/hqdefault.jpg"
         },
         {
             "video_id": "MfjOE69MmBw",
@@ -70,7 +70,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "0:58",
-            "view_count": "84284",
+            "view_count": "85274",
             "thumbnail_url": "https://i.ytimg.com/vi/MfjOE69MmBw/hqdefault.jpg"
         },
         {
@@ -79,17 +79,17 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "26:31",
-            "view_count": "118947",
+            "view_count": "142108",
             "thumbnail_url": "https://i.ytimg.com/vi/AbDZb22zBsA/hqdefault.jpg"
         },
         {
-            "video_id": "TcFvg3zJGf8",
-            "title": "If It Were Me",
-            "channel_name": "Na Yoon Kwon - Topic",
+            "video_id": "2GPFLanHujM",
+            "title": "연준 (YEONJUN) 'NO LABELS: PART 01' Official MV",
+            "channel_name": "HYBE LABELS",
             "category": "Music",
-            "duration": "4:38",
-            "view_count": "91507",
-            "thumbnail_url": "https://i.ytimg.com/vi/TcFvg3zJGf8/hqdefault.jpg"
+            "duration": "6:03",
+            "view_count": "3990644",
+            "thumbnail_url": "https://i.ytimg.com/vi/2GPFLanHujM/hqdefault.jpg"
         },
         {
             "video_id": "yVtrfEw-_y8",
@@ -97,17 +97,17 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "1:13",
-            "view_count": "917053",
+            "view_count": "923439",
             "thumbnail_url": "https://i.ytimg.com/vi/yVtrfEw-_y8/hqdefault.jpg"
         },
         {
-            "video_id": "w-lgWqOH8RY",
-            "title": "마인크래프트의 모든 바이옴 모으기",
-            "channel_name": "프뚜",
+            "video_id": "LR3AaGdesgA",
+            "title": "The 2025 World Championship Finals",
+            "channel_name": "LoL Esports",
             "category": "Gaming",
-            "duration": "36:06",
-            "view_count": "201985",
-            "thumbnail_url": "https://i.ytimg.com/vi/w-lgWqOH8RY/hqdefault.jpg"
+            "duration": "7:24",
+            "view_count": "355464",
+            "thumbnail_url": "https://i.ytimg.com/vi/LR3AaGdesgA/hqdefault.jpg"
         },
         {
             "video_id": "fff8P0kYexQ",
@@ -115,7 +115,7 @@
             "channel_name": "이세계아이돌 ISEGYE IDOL",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "1033278",
+            "view_count": "1047712",
             "thumbnail_url": "https://i.ytimg.com/vi/fff8P0kYexQ/hqdefault.jpg"
         },
         {
@@ -124,17 +124,17 @@
             "channel_name": "포켓몬 공식 채널 Pokémon Korea, Inc.",
             "category": "Film & Animation",
             "duration": "5:16",
-            "view_count": "128099",
+            "view_count": "128447",
             "thumbnail_url": "https://i.ytimg.com/vi/EHmj-1x0kUo/hqdefault.jpg"
         },
         {
-            "video_id": "KhNGTZbvcS8",
-            "title": "[월즈 특집 Ep.5] 25 월즈 승부 예측 올킬! 마지막 트로피의 행방은? | 2025 시크릿보드룸",
-            "channel_name": "LCK",
+            "video_id": "w-lgWqOH8RY",
+            "title": "마인크래프트의 모든 바이옴 모으기",
+            "channel_name": "프뚜",
             "category": "Gaming",
-            "duration": "26:06",
-            "view_count": "183692",
-            "thumbnail_url": "https://i.ytimg.com/vi/KhNGTZbvcS8/hqdefault.jpg"
+            "duration": "36:06",
+            "view_count": "214589",
+            "thumbnail_url": "https://i.ytimg.com/vi/w-lgWqOH8RY/hqdefault.jpg"
         },
         {
             "video_id": "3Nl2rdaddKw",
@@ -142,7 +142,7 @@
             "channel_name": "Chris Stapleton",
             "category": "Music",
             "duration": "7:54",
-            "view_count": "2618005",
+            "view_count": "2641158",
             "thumbnail_url": "https://i.ytimg.com/vi/3Nl2rdaddKw/hqdefault.jpg"
         },
         {
@@ -151,17 +151,17 @@
             "channel_name": "DDrop",
             "category": "Film & Animation",
             "duration": "8:29",
-            "view_count": "10281",
+            "view_count": "11944",
             "thumbnail_url": "https://i.ytimg.com/vi/m8w0iyoynd4/hqdefault.jpg"
         },
         {
-            "video_id": "-yA6L4_72YA",
-            "title": "언더웹｜도시 밑바닥의 사건해결사들",
-            "channel_name": "잠뜰 TV",
+            "video_id": "KhNGTZbvcS8",
+            "title": "[월즈 특집 Ep.5] 25 월즈 승부 예측 올킬! 마지막 트로피의 행방은? | 2025 시크릿보드룸",
+            "channel_name": "LCK",
             "category": "Gaming",
-            "duration": "44:41",
-            "view_count": "360575",
-            "thumbnail_url": "https://i.ytimg.com/vi/-yA6L4_72YA/hqdefault.jpg"
+            "duration": "26:06",
+            "view_count": "190145",
+            "thumbnail_url": "https://i.ytimg.com/vi/KhNGTZbvcS8/hqdefault.jpg"
         },
         {
             "video_id": "X1EMiojYjdk",
@@ -169,7 +169,7 @@
             "channel_name": "Pop Mage",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "4266283",
+            "view_count": "4268758",
             "thumbnail_url": "https://i.ytimg.com/vi/X1EMiojYjdk/hqdefault.jpg"
         },
         {
@@ -178,53 +178,17 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:50",
-            "view_count": "430744",
+            "view_count": "432734",
             "thumbnail_url": "https://i.ytimg.com/vi/0O9rtOolCvw/hqdefault.jpg"
         },
         {
-            "video_id": "CaaxWeDUX_Q",
-            "title": "오니기리샵 알바 시뮬...손님들이 집을 안가요 살려줘 젭라ㅠㅠㅠㅠ",
-            "channel_name": "혜안",
+            "video_id": "ujsA8aurdjM",
+            "title": "멜로우 인생 최대 고민?! 과연 어디를 골랐을까?! (맞혀봐!)",
+            "channel_name": "멜로우TV",
             "category": "Gaming",
-            "duration": "33:03",
-            "view_count": "173732",
-            "thumbnail_url": "https://i.ytimg.com/vi/CaaxWeDUX_Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "OCfhZ9agK0g",
-            "title": "NCT WISH 엔시티 위시 'Videohood' Dance Practice",
-            "channel_name": "NCT WISH",
-            "category": "Music",
-            "duration": "3:05",
-            "view_count": "150471",
-            "thumbnail_url": "https://i.ytimg.com/vi/OCfhZ9agK0g/hqdefault.jpg"
-        },
-        {
-            "video_id": "H3_ZJdDFgfA",
-            "title": "15시즌 챌린저 달리기 2화 : 나는 머리",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "30:18",
-            "view_count": "145797",
-            "thumbnail_url": "https://i.ytimg.com/vi/H3_ZJdDFgfA/hqdefault.jpg"
-        },
-        {
-            "video_id": "ftZFUiRxl3c",
-            "title": "미스트롯3 빈예서 두여인 #미스트롯3 #빈예서 #두여인 #감성천재빈예서",
-            "channel_name": "빈예서홍보TV",
-            "category": "People & Blogs",
-            "duration": "2:57",
-            "view_count": "58996",
-            "thumbnail_url": "https://i.ytimg.com/vi/ftZFUiRxl3c/hqdefault.jpg"
-        },
-        {
-            "video_id": "BS2GrNI6vQg",
-            "title": "하루종일 달리는 사람",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "41:14",
-            "view_count": "264569",
-            "thumbnail_url": "https://i.ytimg.com/vi/BS2GrNI6vQg/hqdefault.jpg"
+            "duration": "15:08",
+            "view_count": "65247",
+            "thumbnail_url": "https://i.ytimg.com/vi/ujsA8aurdjM/hqdefault.jpg"
         },
         {
             "video_id": "Ge9TNAQQbRo",
@@ -232,17 +196,71 @@
             "channel_name": "FirePlay",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "1001406",
+            "view_count": "1148414",
             "thumbnail_url": "https://i.ytimg.com/vi/Ge9TNAQQbRo/hqdefault.jpg"
         },
         {
-            "video_id": "mBL0QnazFs4",
-            "title": "롤드컵 결승전 관전 포인트는?",
-            "channel_name": "프로관전러 P.S",
+            "video_id": "-yA6L4_72YA",
+            "title": "언더웹｜도시 밑바닥의 사건해결사들",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "14:30",
-            "view_count": "274714",
-            "thumbnail_url": "https://i.ytimg.com/vi/mBL0QnazFs4/hqdefault.jpg"
+            "duration": "44:41",
+            "view_count": "366212",
+            "thumbnail_url": "https://i.ytimg.com/vi/-yA6L4_72YA/hqdefault.jpg"
+        },
+        {
+            "video_id": "OCfhZ9agK0g",
+            "title": "NCT WISH 엔시티 위시 'Videohood' Dance Practice",
+            "channel_name": "NCT WISH",
+            "category": "Music",
+            "duration": "3:05",
+            "view_count": "152025",
+            "thumbnail_url": "https://i.ytimg.com/vi/OCfhZ9agK0g/hqdefault.jpg"
+        },
+        {
+            "video_id": "CaaxWeDUX_Q",
+            "title": "오니기리샵 알바 시뮬...손님들이 집을 안가요 살려줘 젭라ㅠㅠㅠㅠ",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "33:03",
+            "view_count": "182097",
+            "thumbnail_url": "https://i.ytimg.com/vi/CaaxWeDUX_Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "ftZFUiRxl3c",
+            "title": "미스트롯3 빈예서 두여인 #미스트롯3 #빈예서 #두여인 #감성천재빈예서",
+            "channel_name": "빈예서홍보TV",
+            "category": "People & Blogs",
+            "duration": "2:57",
+            "view_count": "60873",
+            "thumbnail_url": "https://i.ytimg.com/vi/ftZFUiRxl3c/hqdefault.jpg"
+        },
+        {
+            "video_id": "H3_ZJdDFgfA",
+            "title": "15시즌 챌린저 달리기 2화 : 나는 머리",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "30:18",
+            "view_count": "150051",
+            "thumbnail_url": "https://i.ytimg.com/vi/H3_ZJdDFgfA/hqdefault.jpg"
+        },
+        {
+            "video_id": "JMQpqgwi2OM",
+            "title": "Miiro 「NEMESIS」 feat. 새빛 OFFICIAL MV",
+            "channel_name": "Miiro",
+            "category": "Music",
+            "duration": "4:11",
+            "view_count": "38695",
+            "thumbnail_url": "https://i.ytimg.com/vi/JMQpqgwi2OM/hqdefault.jpg"
+        },
+        {
+            "video_id": "BS2GrNI6vQg",
+            "title": "하루종일 달리는 사람",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "41:14",
+            "view_count": "283601",
+            "thumbnail_url": "https://i.ytimg.com/vi/BS2GrNI6vQg/hqdefault.jpg"
         },
         {
             "video_id": "E0yoilyfOpI",
@@ -250,8 +268,26 @@
             "channel_name": "Anne-Marie",
             "category": "Music",
             "duration": "2:14",
-            "view_count": "1052877",
+            "view_count": "1053280",
             "thumbnail_url": "https://i.ytimg.com/vi/E0yoilyfOpI/hqdefault.jpg"
+        },
+        {
+            "video_id": "mBL0QnazFs4",
+            "title": "롤드컵 결승전 관전 포인트는?",
+            "channel_name": "프로관전러 P.S",
+            "category": "Gaming",
+            "duration": "14:30",
+            "view_count": "290369",
+            "thumbnail_url": "https://i.ytimg.com/vi/mBL0QnazFs4/hqdefault.jpg"
+        },
+        {
+            "video_id": "AaS0VFnnVXE",
+            "title": "GET OUT",
+            "channel_name": "AOA - Topic",
+            "category": "Music",
+            "duration": "3:35",
+            "view_count": "18672",
+            "thumbnail_url": "https://i.ytimg.com/vi/AaS0VFnnVXE/hqdefault.jpg"
         },
         {
             "video_id": "BcQAa-uUX7s",
@@ -259,7 +295,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "31:06",
-            "view_count": "135770",
+            "view_count": "142745",
             "thumbnail_url": "https://i.ytimg.com/vi/BcQAa-uUX7s/hqdefault.jpg"
         },
         {
@@ -268,7 +304,7 @@
             "channel_name": "DJ Snake - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "496901",
+            "view_count": "503736",
             "thumbnail_url": "https://i.ytimg.com/vi/zu5umkoKvl8/hqdefault.jpg"
         },
         {
@@ -277,26 +313,8 @@
             "channel_name": "아이템의 인벤토리",
             "category": "Education",
             "duration": "13:39",
-            "view_count": "143609",
+            "view_count": "148917",
             "thumbnail_url": "https://i.ytimg.com/vi/xhuHkmv2DHo/hqdefault.jpg"
-        },
-        {
-            "video_id": "JMQpqgwi2OM",
-            "title": "Miiro 「NEMESIS」 feat. 새빛 OFFICIAL MV",
-            "channel_name": "Miiro",
-            "category": "Music",
-            "duration": "4:11",
-            "view_count": "36156",
-            "thumbnail_url": "https://i.ytimg.com/vi/JMQpqgwi2OM/hqdefault.jpg"
-        },
-        {
-            "video_id": "p_a79vRTelk",
-            "title": "철권태그 일요일 모닝 철권 | Tekken Tag | Retro Game | 2025-11-09",
-            "channel_name": "블랙의철권TV",
-            "category": "Gaming",
-            "duration": "6:41:37",
-            "view_count": "116912",
-            "thumbnail_url": "https://i.ytimg.com/vi/p_a79vRTelk/hqdefault.jpg"
         },
         {
             "video_id": "QzkZS7YLRYQ",
@@ -304,7 +322,7 @@
             "channel_name": "doyouka - Topic",
             "category": "Music",
             "duration": "4:22",
-            "view_count": "25418",
+            "view_count": "26942",
             "thumbnail_url": "https://i.ytimg.com/vi/QzkZS7YLRYQ/hqdefault.jpg"
         },
         {
@@ -313,26 +331,8 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "14:42",
-            "view_count": "145990",
+            "view_count": "149230",
             "thumbnail_url": "https://i.ytimg.com/vi/-frC4vey5DU/hqdefault.jpg"
-        },
-        {
-            "video_id": "C_7pYZZokbc",
-            "title": "Goo Goo Dolls - Iris (Lyrics)",
-            "channel_name": "Country World",
-            "category": "People & Blogs",
-            "duration": "4:50",
-            "view_count": "2276038",
-            "thumbnail_url": "https://i.ytimg.com/vi/C_7pYZZokbc/hqdefault.jpg"
-        },
-        {
-            "video_id": "ujsA8aurdjM",
-            "title": "멜로우 인생 최대 고민?! 과연 어디를 골랐을까?! (맞혀봐!)",
-            "channel_name": "멜로우TV",
-            "category": "Gaming",
-            "duration": "15:08",
-            "view_count": "47815",
-            "thumbnail_url": "https://i.ytimg.com/vi/ujsA8aurdjM/hqdefault.jpg"
         },
         {
             "video_id": "O3zCjYrdS7Q",
@@ -340,7 +340,7 @@
             "channel_name": "Keller Lyrics",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "4652487",
+            "view_count": "4772500",
             "thumbnail_url": "https://i.ytimg.com/vi/O3zCjYrdS7Q/hqdefault.jpg"
         },
         {
@@ -349,8 +349,26 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:04",
-            "view_count": "140740",
+            "view_count": "146931",
             "thumbnail_url": "https://i.ytimg.com/vi/_Af8nvOxz2g/hqdefault.jpg"
+        },
+        {
+            "video_id": "C_7pYZZokbc",
+            "title": "Goo Goo Dolls - Iris (Lyrics)",
+            "channel_name": "Country World",
+            "category": "People & Blogs",
+            "duration": "4:50",
+            "view_count": "2359071",
+            "thumbnail_url": "https://i.ytimg.com/vi/C_7pYZZokbc/hqdefault.jpg"
+        },
+        {
+            "video_id": "p_a79vRTelk",
+            "title": "철권태그 일요일 모닝 철권 | Tekken Tag | Retro Game | 2025-11-09",
+            "channel_name": "블랙의철권TV",
+            "category": "Gaming",
+            "duration": "6:41:37",
+            "view_count": "116940",
+            "thumbnail_url": "https://i.ytimg.com/vi/p_a79vRTelk/hqdefault.jpg"
         },
         {
             "video_id": "-JV8XzIJe_s",
@@ -358,26 +376,8 @@
             "channel_name": "PSY - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "47786",
+            "view_count": "50411",
             "thumbnail_url": "https://i.ytimg.com/vi/-JV8XzIJe_s/hqdefault.jpg"
-        },
-        {
-            "video_id": "468Erh25XMI",
-            "title": "\"CC 120회\" 돌아온 한타의 제왕 \"탑 오버파밍 노틸러스\"⚓",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "18:54",
-            "view_count": "127455",
-            "thumbnail_url": "https://i.ytimg.com/vi/468Erh25XMI/hqdefault.jpg"
-        },
-        {
-            "video_id": "AaS0VFnnVXE",
-            "title": "GET OUT",
-            "channel_name": "AOA - Topic",
-            "category": "Music",
-            "duration": "3:35",
-            "view_count": "16478",
-            "thumbnail_url": "https://i.ytimg.com/vi/AaS0VFnnVXE/hqdefault.jpg"
         }
     ]
 }
