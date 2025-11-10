@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-10 21:47:22",
+    "scraped_time": "2025-11-10 22:32:53",
     "videos": [
         {
             "video_id": "8L001YT4k6k",
@@ -7,7 +7,7 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "2:59",
-            "view_count": "183767",
+            "view_count": "222708",
             "thumbnail_url": "https://i.ytimg.com/vi/8L001YT4k6k/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "JTBC Drama",
             "category": "Entertainment",
             "duration": "0:44",
-            "view_count": "130900",
+            "view_count": "135591",
             "thumbnail_url": "https://i.ytimg.com/vi/CIR7uGXHP7o/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "7:20:11",
-            "view_count": "10817008",
+            "view_count": "10822318",
             "thumbnail_url": "https://i.ytimg.com/vi/5F-hg0B_BSE/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "455402",
+            "view_count": "748804",
             "thumbnail_url": "https://i.ytimg.com/vi/piSq8IioghU/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "DaFuq!?Boom!",
             "category": "Entertainment",
             "duration": "0:51",
-            "view_count": "2096084",
+            "view_count": "2115926",
             "thumbnail_url": "https://i.ytimg.com/vi/2W7z4SB8Vy8/hqdefault.jpg"
         },
         {
@@ -52,35 +52,8 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "2:28:05",
-            "view_count": "272648",
+            "view_count": "304922",
             "thumbnail_url": "https://i.ytimg.com/vi/3KzsQnw0948/hqdefault.jpg"
-        },
-        {
-            "video_id": "PUr4DLWzglk",
-            "title": "SAY CHEESE!",
-            "channel_name": "BOYNEXTDOOR - Topic",
-            "category": "Music",
-            "duration": "2:52",
-            "view_count": "161264",
-            "thumbnail_url": "https://i.ytimg.com/vi/PUr4DLWzglk/hqdefault.jpg"
-        },
-        {
-            "video_id": "f-bHnddKjGg",
-            "title": "와.. 마이클 잭슨이 돌아온다..! ≪마이클≫ 메인 예고편 리뷰",
-            "channel_name": "무비띵크_Movie Think",
-            "category": "Film & Animation",
-            "duration": "9:20",
-            "view_count": "92272",
-            "thumbnail_url": "https://i.ytimg.com/vi/f-bHnddKjGg/hqdefault.jpg"
-        },
-        {
-            "video_id": "BMfbXFiULCQ",
-            "title": "【롤드컵 결승 T1 vs KT】\"Earn your legacy\"",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "1:06:49",
-            "view_count": "554775",
-            "thumbnail_url": "https://i.ytimg.com/vi/BMfbXFiULCQ/hqdefault.jpg"
         },
         {
             "video_id": "SmuVjRgnBRM",
@@ -88,17 +61,17 @@
             "channel_name": "FIFTY FIFTY Official",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "1094697",
+            "view_count": "1179995",
             "thumbnail_url": "https://i.ytimg.com/vi/SmuVjRgnBRM/hqdefault.jpg"
         },
         {
-            "video_id": "zvLuljlJVrI",
-            "title": "[친애하는 X] 필요한 만큼만 사랑해 보려고 | 5-6화 예고(Blur On)ㅣTVING | Dear X",
-            "channel_name": "TVING",
-            "category": "Entertainment",
-            "duration": "0:38",
-            "view_count": "129512",
-            "thumbnail_url": "https://i.ytimg.com/vi/zvLuljlJVrI/hqdefault.jpg"
+            "video_id": "f-bHnddKjGg",
+            "title": "와.. 마이클 잭슨이 돌아온다..! ≪마이클≫ 메인 예고편 리뷰",
+            "channel_name": "무비띵크_Movie Think",
+            "category": "Film & Animation",
+            "duration": "9:20",
+            "view_count": "97551",
+            "thumbnail_url": "https://i.ytimg.com/vi/f-bHnddKjGg/hqdefault.jpg"
         },
         {
             "video_id": "5xQKdHmYpsU",
@@ -106,8 +79,35 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "1:44:30",
-            "view_count": "329215",
+            "view_count": "347935",
             "thumbnail_url": "https://i.ytimg.com/vi/5xQKdHmYpsU/hqdefault.jpg"
+        },
+        {
+            "video_id": "PUr4DLWzglk",
+            "title": "SAY CHEESE!",
+            "channel_name": "BOYNEXTDOOR - Topic",
+            "category": "Music",
+            "duration": "2:52",
+            "view_count": "165728",
+            "thumbnail_url": "https://i.ytimg.com/vi/PUr4DLWzglk/hqdefault.jpg"
+        },
+        {
+            "video_id": "zvLuljlJVrI",
+            "title": "[친애하는 X] 필요한 만큼만 사랑해 보려고 | 5-6화 예고(Blur On)ㅣTVING | Dear X",
+            "channel_name": "TVING",
+            "category": "Entertainment",
+            "duration": "0:38",
+            "view_count": "130088",
+            "thumbnail_url": "https://i.ytimg.com/vi/zvLuljlJVrI/hqdefault.jpg"
+        },
+        {
+            "video_id": "BMfbXFiULCQ",
+            "title": "【롤드컵 결승 T1 vs KT】\"Earn your legacy\"",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "1:06:49",
+            "view_count": "560943",
+            "thumbnail_url": "https://i.ytimg.com/vi/BMfbXFiULCQ/hqdefault.jpg"
         },
         {
             "video_id": "TcFvg3zJGf8",
@@ -115,7 +115,7 @@
             "channel_name": "Na Yoon Kwon - Topic",
             "category": "Music",
             "duration": "4:38",
-            "view_count": "312322",
+            "view_count": "319824",
             "thumbnail_url": "https://i.ytimg.com/vi/TcFvg3zJGf8/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "DDrop",
             "category": "Film & Animation",
             "duration": "9:04",
-            "view_count": "23430",
+            "view_count": "23983",
             "thumbnail_url": "https://i.ytimg.com/vi/eMxSp9t-qyg/hqdefault.jpg"
         },
         {
@@ -133,35 +133,8 @@
             "channel_name": "[꿀템TV] 클템 유튜브",
             "category": "Gaming",
             "duration": "1:05:07",
-            "view_count": "248069",
+            "view_count": "258446",
             "thumbnail_url": "https://i.ytimg.com/vi/IFcnwYJQc4M/hqdefault.jpg"
-        },
-        {
-            "video_id": "WqtNRnYDZuo",
-            "title": "Officially Missing You",
-            "channel_name": "Geeks - Topic",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "165752",
-            "thumbnail_url": "https://i.ytimg.com/vi/WqtNRnYDZuo/hqdefault.jpg"
-        },
-        {
-            "video_id": "MfjOE69MmBw",
-            "title": "목숨을 건 레이싱의 시작 | [조각도시] 5-6회 예고편 | 디즈니+",
-            "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
-            "category": "Film & Animation",
-            "duration": "0:58",
-            "view_count": "106700",
-            "thumbnail_url": "https://i.ytimg.com/vi/MfjOE69MmBw/hqdefault.jpg"
-        },
-        {
-            "video_id": "YdK0Naz6-XY",
-            "title": "페이커 새로운 역사, 티원 월즈 쓰리핏 | 2025 롤드컵 결승 T1 vs KT 스트리머 반응 모음",
-            "channel_name": "LoLcheck 롤체크",
-            "category": "Gaming",
-            "duration": "1:26:12",
-            "view_count": "182979",
-            "thumbnail_url": "https://i.ytimg.com/vi/YdK0Naz6-XY/hqdefault.jpg"
         },
         {
             "video_id": "jB1iEMp6cKY",
@@ -169,8 +142,17 @@
             "channel_name": "FirePlay",
             "category": "Music",
             "duration": "2:31",
-            "view_count": "348468",
+            "view_count": "360474",
             "thumbnail_url": "https://i.ytimg.com/vi/jB1iEMp6cKY/hqdefault.jpg"
+        },
+        {
+            "video_id": "MfjOE69MmBw",
+            "title": "목숨을 건 레이싱의 시작 | [조각도시] 5-6회 예고편 | 디즈니+",
+            "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
+            "category": "Film & Animation",
+            "duration": "0:58",
+            "view_count": "107397",
+            "thumbnail_url": "https://i.ytimg.com/vi/MfjOE69MmBw/hqdefault.jpg"
         },
         {
             "video_id": "iv5bwsKS-O8",
@@ -178,8 +160,26 @@
             "channel_name": "김준표",
             "category": "People & Blogs",
             "duration": "12:01",
-            "view_count": "569130",
+            "view_count": "575507",
             "thumbnail_url": "https://i.ytimg.com/vi/iv5bwsKS-O8/hqdefault.jpg"
+        },
+        {
+            "video_id": "WqtNRnYDZuo",
+            "title": "Officially Missing You",
+            "channel_name": "Geeks - Topic",
+            "category": "Music",
+            "duration": "3:31",
+            "view_count": "168692",
+            "thumbnail_url": "https://i.ytimg.com/vi/WqtNRnYDZuo/hqdefault.jpg"
+        },
+        {
+            "video_id": "YdK0Naz6-XY",
+            "title": "페이커 새로운 역사, 티원 월즈 쓰리핏 | 2025 롤드컵 결승 T1 vs KT 스트리머 반응 모음",
+            "channel_name": "LoLcheck 롤체크",
+            "category": "Gaming",
+            "duration": "1:26:12",
+            "view_count": "185032",
+            "thumbnail_url": "https://i.ytimg.com/vi/YdK0Naz6-XY/hqdefault.jpg"
         },
         {
             "video_id": "lDVl76cmOhg",
@@ -187,7 +187,7 @@
             "channel_name": "Cyrionis",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "1040108",
+            "view_count": "1071320",
             "thumbnail_url": "https://i.ytimg.com/vi/lDVl76cmOhg/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "Ju1st",
             "category": "Gaming",
             "duration": "2:37:25",
-            "view_count": "183041",
+            "view_count": "189057",
             "thumbnail_url": "https://i.ytimg.com/vi/D4lr-JZiny8/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "Younha - Topic",
             "category": "Music",
             "duration": "4:07",
-            "view_count": "22457",
+            "view_count": "23181",
             "thumbnail_url": "https://i.ytimg.com/vi/-HIQDEgtfqw/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "34:54",
-            "view_count": "623276",
+            "view_count": "626237",
             "thumbnail_url": "https://i.ytimg.com/vi/crMYn67iEi0/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "Lost Panda",
             "category": "People & Blogs",
             "duration": "5:05",
-            "view_count": "590576",
+            "view_count": "597667",
             "thumbnail_url": "https://i.ytimg.com/vi/2_OPAWQd8S4/hqdefault.jpg"
         },
         {
@@ -232,17 +232,17 @@
             "channel_name": "아리tv-롤정보통",
             "category": "Gaming",
             "duration": "3:41",
-            "view_count": "176702",
+            "view_count": "179806",
             "thumbnail_url": "https://i.ytimg.com/vi/ON5abxARHOA/hqdefault.jpg"
         },
         {
-            "video_id": "KHG3M3UqHBc",
-            "title": "NEWBEAT(뉴비트) [LOUDER THAN EVER] 'Look So Good' Official MV",
-            "channel_name": "NEWBEAT ",
-            "category": "Entertainment",
-            "duration": "3:07",
-            "view_count": "3000947",
-            "thumbnail_url": "https://i.ytimg.com/vi/KHG3M3UqHBc/hqdefault.jpg"
+            "video_id": "oq_s35AEWSM",
+            "title": "비가 오면",
+            "channel_name": "Can - Topic",
+            "category": "Music",
+            "duration": "5:13",
+            "view_count": "35731",
+            "thumbnail_url": "https://i.ytimg.com/vi/oq_s35AEWSM/hqdefault.jpg"
         },
         {
             "video_id": "Qy5wTL8d-mk",
@@ -250,8 +250,26 @@
             "channel_name": "롤소식갤러리",
             "category": "Gaming",
             "duration": "8:43",
-            "view_count": "214515",
+            "view_count": "218123",
             "thumbnail_url": "https://i.ytimg.com/vi/Qy5wTL8d-mk/hqdefault.jpg"
+        },
+        {
+            "video_id": "odYUWj1TX8w",
+            "title": "TUNNEL VISION",
+            "channel_name": "ITZY - Topic",
+            "category": "Music",
+            "duration": "3:05",
+            "view_count": "27137",
+            "thumbnail_url": "https://i.ytimg.com/vi/odYUWj1TX8w/hqdefault.jpg"
+        },
+        {
+            "video_id": "bPESaCVWmsM",
+            "title": "내 목소리로 만드는 동물원",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "13:47",
+            "view_count": "107301",
+            "thumbnail_url": "https://i.ytimg.com/vi/bPESaCVWmsM/hqdefault.jpg"
         },
         {
             "video_id": "0GhIOvbn68I",
@@ -259,7 +277,7 @@
             "channel_name": "Girl's Day - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "69955",
+            "view_count": "71990",
             "thumbnail_url": "https://i.ytimg.com/vi/0GhIOvbn68I/hqdefault.jpg"
         },
         {
@@ -268,17 +286,17 @@
             "channel_name": "붐바야",
             "category": "Gaming",
             "duration": "6:55",
-            "view_count": "285139",
+            "view_count": "287019",
             "thumbnail_url": "https://i.ytimg.com/vi/Kp9-aVKMZZo/hqdefault.jpg"
         },
         {
-            "video_id": "oq_s35AEWSM",
-            "title": "비가 오면",
-            "channel_name": "Can - Topic",
-            "category": "Music",
-            "duration": "5:13",
-            "view_count": "34509",
-            "thumbnail_url": "https://i.ytimg.com/vi/oq_s35AEWSM/hqdefault.jpg"
+            "video_id": "KHG3M3UqHBc",
+            "title": "NEWBEAT(뉴비트) [LOUDER THAN EVER] 'Look So Good' Official MV",
+            "channel_name": "NEWBEAT ",
+            "category": "Entertainment",
+            "duration": "3:07",
+            "view_count": "3002158",
+            "thumbnail_url": "https://i.ytimg.com/vi/KHG3M3UqHBc/hqdefault.jpg"
         },
         {
             "video_id": "1_f5IxerXhw",
@@ -286,7 +304,7 @@
             "channel_name": "Bang",
             "category": "Gaming",
             "duration": "1:32:01",
-            "view_count": "170600",
+            "view_count": "176046",
             "thumbnail_url": "https://i.ytimg.com/vi/1_f5IxerXhw/hqdefault.jpg"
         },
         {
@@ -295,26 +313,8 @@
             "channel_name": "AOA - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "62908",
+            "view_count": "64101",
             "thumbnail_url": "https://i.ytimg.com/vi/AaS0VFnnVXE/hqdefault.jpg"
-        },
-        {
-            "video_id": "bPESaCVWmsM",
-            "title": "내 목소리로 만드는 동물원",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "13:47",
-            "view_count": "92692",
-            "thumbnail_url": "https://i.ytimg.com/vi/bPESaCVWmsM/hqdefault.jpg"
-        },
-        {
-            "video_id": "MwsWKgX2DFs",
-            "title": "Lord Huron - The Night We Met (Lyrics)",
-            "channel_name": "DopeMusic",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "964032",
-            "thumbnail_url": "https://i.ytimg.com/vi/MwsWKgX2DFs/hqdefault.jpg"
         },
         {
             "video_id": "UDdK40tS45E",
@@ -322,7 +322,7 @@
             "channel_name": "정글선생 진 영준",
             "category": "Gaming",
             "duration": "27:24",
-            "view_count": "120452",
+            "view_count": "122403",
             "thumbnail_url": "https://i.ytimg.com/vi/UDdK40tS45E/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "H:CODE - Topic",
             "category": "Music",
             "duration": "5:00",
-            "view_count": "30223",
+            "view_count": "31118",
             "thumbnail_url": "https://i.ytimg.com/vi/QkPsIpKdIaY/hqdefault.jpg"
         },
         {
@@ -340,17 +340,17 @@
             "channel_name": "LoL Esports",
             "category": "Gaming",
             "duration": "8:06:30",
-            "view_count": "8625189",
+            "view_count": "8632487",
             "thumbnail_url": "https://i.ytimg.com/vi/ADaZLxI3uWg/hqdefault.jpg"
         },
         {
-            "video_id": "odYUWj1TX8w",
-            "title": "TUNNEL VISION",
-            "channel_name": "ITZY - Topic",
+            "video_id": "OwN0pFE8Uos",
+            "title": "심 (心) (心)",
+            "channel_name": "얀 (Yarn) - Topic",
             "category": "Music",
-            "duration": "3:05",
-            "view_count": "20303",
-            "thumbnail_url": "https://i.ytimg.com/vi/odYUWj1TX8w/hqdefault.jpg"
+            "duration": "4:15",
+            "view_count": "20632",
+            "thumbnail_url": "https://i.ytimg.com/vi/OwN0pFE8Uos/hqdefault.jpg"
         },
         {
             "video_id": "AbDZb22zBsA",
@@ -358,17 +358,17 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "26:31",
-            "view_count": "288563",
+            "view_count": "291414",
             "thumbnail_url": "https://i.ytimg.com/vi/AbDZb22zBsA/hqdefault.jpg"
         },
         {
-            "video_id": "-_cedTVvqzM",
-            "title": "LIFE!",
-            "channel_name": "Jaurim - Topic",
+            "video_id": "MwsWKgX2DFs",
+            "title": "Lord Huron - The Night We Met (Lyrics)",
+            "channel_name": "DopeMusic",
             "category": "Music",
-            "duration": "3:48",
-            "view_count": "33639",
-            "thumbnail_url": "https://i.ytimg.com/vi/-_cedTVvqzM/hqdefault.jpg"
+            "duration": "3:09",
+            "view_count": "974457",
+            "thumbnail_url": "https://i.ytimg.com/vi/MwsWKgX2DFs/hqdefault.jpg"
         },
         {
             "video_id": "ujsA8aurdjM",
@@ -376,7 +376,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "15:08",
-            "view_count": "224451",
+            "view_count": "228333",
             "thumbnail_url": "https://i.ytimg.com/vi/ujsA8aurdjM/hqdefault.jpg"
         }
     ]
