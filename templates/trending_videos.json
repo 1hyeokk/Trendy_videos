@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-13 05:25:06",
+    "scraped_time": "2025-11-13 06:20:27",
     "videos": [
         {
             "video_id": "3K423oPUYXQ",
@@ -7,7 +7,7 @@
             "channel_name": "PLAVE - Topic",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "426040",
+            "view_count": "427298",
             "thumbnail_url": "https://i.ytimg.com/vi/3K423oPUYXQ/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "JTBC Drama",
             "category": "Entertainment",
             "duration": "0:44",
-            "view_count": "244223",
+            "view_count": "244490",
             "thumbnail_url": "https://i.ytimg.com/vi/CIR7uGXHP7o/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "7:20:11",
-            "view_count": "10772928",
+            "view_count": "10773426",
             "thumbnail_url": "https://i.ytimg.com/vi/5F-hg0B_BSE/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "CLOSE YOUR EYES - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "84173",
+            "view_count": "84732",
             "thumbnail_url": "https://i.ytimg.com/vi/JrWE54FH6bA/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "8:04",
-            "view_count": "164260",
+            "view_count": "164801",
             "thumbnail_url": "https://i.ytimg.com/vi/dRJwA8XCCcA/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "프로관전러 P.S",
             "category": "Gaming",
             "duration": "32:35",
-            "view_count": "336352",
+            "view_count": "337235",
             "thumbnail_url": "https://i.ytimg.com/vi/S-1eYsBj8Fs/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "소란 / SORAN",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "31169",
+            "view_count": "31522",
             "thumbnail_url": "https://i.ytimg.com/vi/_pCdsALV5S4/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "2:28:05",
-            "view_count": "675215",
+            "view_count": "676186",
             "thumbnail_url": "https://i.ytimg.com/vi/3KzsQnw0948/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "LEE MU JIN - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "61824",
+            "view_count": "62284",
             "thumbnail_url": "https://i.ytimg.com/vi/C_H4zNo713c/hqdefault.jpg"
-        },
-        {
-            "video_id": "2QMdT6wwdeE",
-            "title": "학교는 끝났지만 *귀신 하교길*이 시작됐다.. 과연 살아남을 수 있을까?",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "28:26",
-            "view_count": "149842",
-            "thumbnail_url": "https://i.ytimg.com/vi/2QMdT6wwdeE/hqdefault.jpg"
-        },
-        {
-            "video_id": "piSq8IioghU",
-            "title": "ITZY \"TUNNEL VISION\" M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:16",
-            "view_count": "5444572",
-            "thumbnail_url": "https://i.ytimg.com/vi/piSq8IioghU/hqdefault.jpg"
         },
         {
             "video_id": "I0oTY27gL-0",
@@ -106,8 +88,26 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "31:08",
-            "view_count": "132953",
+            "view_count": "136202",
             "thumbnail_url": "https://i.ytimg.com/vi/I0oTY27gL-0/hqdefault.jpg"
+        },
+        {
+            "video_id": "piSq8IioghU",
+            "title": "ITZY \"TUNNEL VISION\" M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "5469555",
+            "thumbnail_url": "https://i.ytimg.com/vi/piSq8IioghU/hqdefault.jpg"
+        },
+        {
+            "video_id": "2QMdT6wwdeE",
+            "title": "학교는 끝났지만 *귀신 하교길*이 시작됐다.. 과연 살아남을 수 있을까?",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "28:26",
+            "view_count": "150537",
+            "thumbnail_url": "https://i.ytimg.com/vi/2QMdT6wwdeE/hqdefault.jpg"
         },
         {
             "video_id": "5P7u3SCL5os",
@@ -115,7 +115,7 @@
             "channel_name": "Noah Rinker",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "1210206",
+            "view_count": "1281471",
             "thumbnail_url": "https://i.ytimg.com/vi/5P7u3SCL5os/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "킴성태TV",
             "category": "Gaming",
             "duration": "18:49",
-            "view_count": "123709",
+            "view_count": "126605",
             "thumbnail_url": "https://i.ytimg.com/vi/rcJBDNif-2w/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "MEOVV - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "26175",
+            "view_count": "26255",
             "thumbnail_url": "https://i.ytimg.com/vi/Tfueho5jyiE/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "34:41",
-            "view_count": "128746",
+            "view_count": "131143",
             "thumbnail_url": "https://i.ytimg.com/vi/P6_D06rKXQ4/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "Ha Dong Qn - Topic",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "112793",
+            "view_count": "113352",
             "thumbnail_url": "https://i.ytimg.com/vi/-RYb1nfjdlw/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "티모준위",
             "category": "Gaming",
             "duration": "4:25",
-            "view_count": "278064",
+            "view_count": "281415",
             "thumbnail_url": "https://i.ytimg.com/vi/_CYSNxmm3k4/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "5:01",
-            "view_count": "251799",
+            "view_count": "252853",
             "thumbnail_url": "https://i.ytimg.com/vi/JSZ5NnGMAAI/hqdefault.jpg"
         },
         {
@@ -178,26 +178,8 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "3:11:17",
-            "view_count": "278213",
+            "view_count": "280280",
             "thumbnail_url": "https://i.ytimg.com/vi/IWHFdbshjkY/hqdefault.jpg"
-        },
-        {
-            "video_id": "odYUWj1TX8w",
-            "title": "TUNNEL VISION",
-            "channel_name": "ITZY - Topic",
-            "category": "Music",
-            "duration": "3:05",
-            "view_count": "310131",
-            "thumbnail_url": "https://i.ytimg.com/vi/odYUWj1TX8w/hqdefault.jpg"
-        },
-        {
-            "video_id": "T5llpbrQef4",
-            "title": "왜 자꾸 강화가 잘 되는데!!ㅋㅋㅋㅋ [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "15:53",
-            "view_count": "113603",
-            "thumbnail_url": "https://i.ytimg.com/vi/T5llpbrQef4/hqdefault.jpg"
         },
         {
             "video_id": "SmuVjRgnBRM",
@@ -205,7 +187,7 @@
             "channel_name": "FIFTY FIFTY Official",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "5528895",
+            "view_count": "5545406",
             "thumbnail_url": "https://i.ytimg.com/vi/SmuVjRgnBRM/hqdefault.jpg"
         },
         {
@@ -214,26 +196,26 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:31",
-            "view_count": "131987",
+            "view_count": "135220",
             "thumbnail_url": "https://i.ytimg.com/vi/qlXCyP5sG7Y/hqdefault.jpg"
         },
         {
-            "video_id": "v_8DIItlgco",
-            "title": "Girls Like Me",
-            "channel_name": "Jessi - Topic",
+            "video_id": "odYUWj1TX8w",
+            "title": "TUNNEL VISION",
+            "channel_name": "ITZY - Topic",
             "category": "Music",
-            "duration": "3:00",
-            "view_count": "22554",
-            "thumbnail_url": "https://i.ytimg.com/vi/v_8DIItlgco/hqdefault.jpg"
+            "duration": "3:05",
+            "view_count": "312547",
+            "thumbnail_url": "https://i.ytimg.com/vi/odYUWj1TX8w/hqdefault.jpg"
         },
         {
-            "video_id": "SMfohr1xLQo",
-            "title": "\"풀꽉 의도했나?\"싶을 정도로 냉혹했던, 페니비아의 얼음 벽 (feat. 롤드컵 결승전의 숨겨진 맥락 2)",
-            "channel_name": "깸빗",
+            "video_id": "T5llpbrQef4",
+            "title": "왜 자꾸 강화가 잘 되는데!!ㅋㅋㅋㅋ [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "17:48",
-            "view_count": "208618",
-            "thumbnail_url": "https://i.ytimg.com/vi/SMfohr1xLQo/hqdefault.jpg"
+            "duration": "15:53",
+            "view_count": "115376",
+            "thumbnail_url": "https://i.ytimg.com/vi/T5llpbrQef4/hqdefault.jpg"
         },
         {
             "video_id": "vkBbeOVDkak",
@@ -241,8 +223,26 @@
             "channel_name": "MUSIC&NEW 뮤직앤뉴",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "16482",
+            "view_count": "16516",
             "thumbnail_url": "https://i.ytimg.com/vi/vkBbeOVDkak/hqdefault.jpg"
+        },
+        {
+            "video_id": "SMfohr1xLQo",
+            "title": "\"풀꽉 의도했나?\"싶을 정도로 냉혹했던, 페니비아의 얼음 벽 (feat. 롤드컵 결승전의 숨겨진 맥락 2)",
+            "channel_name": "깸빗",
+            "category": "Gaming",
+            "duration": "17:48",
+            "view_count": "209686",
+            "thumbnail_url": "https://i.ytimg.com/vi/SMfohr1xLQo/hqdefault.jpg"
+        },
+        {
+            "video_id": "v_8DIItlgco",
+            "title": "Girls Like Me",
+            "channel_name": "Jessi - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "23333",
+            "thumbnail_url": "https://i.ytimg.com/vi/v_8DIItlgco/hqdefault.jpg"
         },
         {
             "video_id": "jugkBDyhPQU",
@@ -250,7 +250,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "12:19",
-            "view_count": "104087",
+            "view_count": "104630",
             "thumbnail_url": "https://i.ytimg.com/vi/jugkBDyhPQU/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "346024",
+            "view_count": "346519",
             "thumbnail_url": "https://i.ytimg.com/vi/PUr4DLWzglk/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "롤소식갤러리",
             "category": "Gaming",
             "duration": "10:24",
-            "view_count": "324994",
+            "view_count": "325322",
             "thumbnail_url": "https://i.ytimg.com/vi/oRzkHbWlyVc/hqdefault.jpg"
         },
         {
@@ -277,26 +277,8 @@
             "channel_name": "Kim Suyoung - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "31382",
+            "view_count": "31461",
             "thumbnail_url": "https://i.ytimg.com/vi/R3OvvavbLWc/hqdefault.jpg"
-        },
-        {
-            "video_id": "5xQKdHmYpsU",
-            "title": "롤드컵 결승전 T1 vs KT 도파의 시선",
-            "channel_name": "Official dopa",
-            "category": "Gaming",
-            "duration": "1:44:30",
-            "view_count": "739768",
-            "thumbnail_url": "https://i.ytimg.com/vi/5xQKdHmYpsU/hqdefault.jpg"
-        },
-        {
-            "video_id": "KmHved6uotw",
-            "title": "Expected",
-            "channel_name": "FTISLAND - Topic",
-            "category": "Music",
-            "duration": "2:48",
-            "view_count": "34403",
-            "thumbnail_url": "https://i.ytimg.com/vi/KmHved6uotw/hqdefault.jpg"
         },
         {
             "video_id": "EGznyuN0DY8",
@@ -304,26 +286,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "53:26",
-            "view_count": "95256",
+            "view_count": "98063",
             "thumbnail_url": "https://i.ytimg.com/vi/EGznyuN0DY8/hqdefault.jpg"
         },
         {
-            "video_id": "TcFvg3zJGf8",
-            "title": "If It Were Me",
-            "channel_name": "Na Yoon Kwon - Topic",
+            "video_id": "KmHved6uotw",
+            "title": "Expected",
+            "channel_name": "FTISLAND - Topic",
             "category": "Music",
-            "duration": "4:38",
-            "view_count": "786623",
-            "thumbnail_url": "https://i.ytimg.com/vi/TcFvg3zJGf8/hqdefault.jpg"
+            "duration": "2:48",
+            "view_count": "34801",
+            "thumbnail_url": "https://i.ytimg.com/vi/KmHved6uotw/hqdefault.jpg"
         },
         {
-            "video_id": "HSVAHHEqiyg",
-            "title": "스토브리그 D-5! 바이퍼를 노리는 징동? 도란 재계약 관련해서 드디어 언급했다!  롤이슈 붐바야",
-            "channel_name": "붐바야",
+            "video_id": "5xQKdHmYpsU",
+            "title": "롤드컵 결승전 T1 vs KT 도파의 시선",
+            "channel_name": "Official dopa",
             "category": "Gaming",
-            "duration": "4:20",
-            "view_count": "290965",
-            "thumbnail_url": "https://i.ytimg.com/vi/HSVAHHEqiyg/hqdefault.jpg"
+            "duration": "1:44:30",
+            "view_count": "741831",
+            "thumbnail_url": "https://i.ytimg.com/vi/5xQKdHmYpsU/hqdefault.jpg"
         },
         {
             "video_id": "9wyI-NYkzn0",
@@ -331,8 +313,26 @@
             "channel_name": "Yoon Min Soo - Topic",
             "category": "Music",
             "duration": "5:17",
-            "view_count": "21417",
+            "view_count": "21801",
             "thumbnail_url": "https://i.ytimg.com/vi/9wyI-NYkzn0/hqdefault.jpg"
+        },
+        {
+            "video_id": "HSVAHHEqiyg",
+            "title": "스토브리그 D-5! 바이퍼를 노리는 징동? 도란 재계약 관련해서 드디어 언급했다!  롤이슈 붐바야",
+            "channel_name": "붐바야",
+            "category": "Gaming",
+            "duration": "4:20",
+            "view_count": "291831",
+            "thumbnail_url": "https://i.ytimg.com/vi/HSVAHHEqiyg/hqdefault.jpg"
+        },
+        {
+            "video_id": "TcFvg3zJGf8",
+            "title": "If It Were Me",
+            "channel_name": "Na Yoon Kwon - Topic",
+            "category": "Music",
+            "duration": "4:38",
+            "view_count": "788505",
+            "thumbnail_url": "https://i.ytimg.com/vi/TcFvg3zJGf8/hqdefault.jpg"
         },
         {
             "video_id": "wQyMr8vYsAA",
@@ -340,7 +340,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "16:56",
-            "view_count": "105503",
+            "view_count": "107971",
             "thumbnail_url": "https://i.ytimg.com/vi/wQyMr8vYsAA/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "BL8M - Topic",
             "category": "Music",
             "duration": "4:08",
-            "view_count": "144327",
+            "view_count": "148143",
             "thumbnail_url": "https://i.ytimg.com/vi/ilM_UnGuMYk/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "32:07",
-            "view_count": "542989",
+            "view_count": "543745",
             "thumbnail_url": "https://i.ytimg.com/vi/cXT9S2DVQOg/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "권진아 KwonJinAh",
             "category": "People & Blogs",
             "duration": "3:05",
-            "view_count": "90597",
+            "view_count": "91317",
             "thumbnail_url": "https://i.ytimg.com/vi/1cbpquJzXJo/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "김성회의 G식백과",
             "category": "Gaming",
             "duration": "14:21",
-            "view_count": "165567",
+            "view_count": "166291",
             "thumbnail_url": "https://i.ytimg.com/vi/jEI-bZWnGaM/hqdefault.jpg"
         }
     ]
