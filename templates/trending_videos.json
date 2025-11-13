@@ -1,95 +1,14 @@
 {
-    "scraped_time": "2025-11-14 04:18:07",
+    "scraped_time": "2025-11-14 05:25:25",
     "videos": [
-        {
-            "video_id": "3K423oPUYXQ",
-            "title": "BBUU!",
-            "channel_name": "PLAVE - Topic",
-            "category": "Music",
-            "duration": "2:52",
-            "view_count": "532763",
-            "thumbnail_url": "https://i.ytimg.com/vi/3K423oPUYXQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "Fraj2r1lnfI",
-            "title": "[슈퍼 마리오 갤럭시] 1차 예고편",
-            "channel_name": "유니버설 픽쳐스",
-            "category": "Film & Animation",
-            "duration": "2:25",
-            "view_count": "227628",
-            "thumbnail_url": "https://i.ytimg.com/vi/Fraj2r1lnfI/hqdefault.jpg"
-        },
-        {
-            "video_id": "5F-hg0B_BSE",
-            "title": "KT vs T1 | 결승전 | 2025 월드 챔피언십",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "7:20:11",
-            "view_count": "10792945",
-            "thumbnail_url": "https://i.ytimg.com/vi/5F-hg0B_BSE/hqdefault.jpg"
-        },
         {
             "video_id": "cGrG93v8jpU",
             "title": "[최초공개 신곡M/V] 그래 늦지 않았어(2025)-아샤트리,이예은,전건호 (원곡:녹색지대)",
             "channel_name": "아샤트리 AshaTree",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "31009",
+            "view_count": "32155",
             "thumbnail_url": "https://i.ytimg.com/vi/cGrG93v8jpU/hqdefault.jpg"
-        },
-        {
-            "video_id": "EI6qhsPIcd0",
-            "title": "[AION2] G-STAR 2025 트레일러",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "1:35",
-            "view_count": "48601",
-            "thumbnail_url": "https://i.ytimg.com/vi/EI6qhsPIcd0/hqdefault.jpg"
-        },
-        {
-            "video_id": "Q-ZL-_zgA3U",
-            "title": "Maple Now | 김창섭 디렉터 (25.11.13)",
-            "channel_name": "메이플스토리",
-            "category": "Gaming",
-            "duration": "2:25:50",
-            "view_count": "133055",
-            "thumbnail_url": "https://i.ytimg.com/vi/Q-ZL-_zgA3U/hqdefault.jpg"
-        },
-        {
-            "video_id": "_pCdsALV5S4",
-            "title": "'사랑한 마음엔 죄가 없다' with 몬스타엑스 기현",
-            "channel_name": "소란 / SORAN",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "53844",
-            "thumbnail_url": "https://i.ytimg.com/vi/_pCdsALV5S4/hqdefault.jpg"
-        },
-        {
-            "video_id": "RgbDMRpTHxk",
-            "title": "메이드 인 코리아 | '비즈니스맨' 예고편 | 디즈니+",
-            "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
-            "category": "Film & Animation",
-            "duration": "0:53",
-            "view_count": "182492",
-            "thumbnail_url": "https://i.ytimg.com/vi/RgbDMRpTHxk/hqdefault.jpg"
-        },
-        {
-            "video_id": "hKANjIz-2Lk",
-            "title": "멸망전 대비! 클상도 합동강화훈련 합숙 시작!",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "47:18",
-            "view_count": "203907",
-            "thumbnail_url": "https://i.ytimg.com/vi/hKANjIz-2Lk/hqdefault.jpg"
-        },
-        {
-            "video_id": "JrWE54FH6bA",
-            "title": "X",
-            "channel_name": "CLOSE YOUR EYES - Topic",
-            "category": "Music",
-            "duration": "3:15",
-            "view_count": "115795",
-            "thumbnail_url": "https://i.ytimg.com/vi/JrWE54FH6bA/hqdefault.jpg"
         },
         {
             "video_id": "H0EX9Ygaq7M",
@@ -97,8 +16,116 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "1:02",
-            "view_count": "38575",
+            "view_count": "43222",
             "thumbnail_url": "https://i.ytimg.com/vi/H0EX9Ygaq7M/hqdefault.jpg"
+        },
+        {
+            "video_id": "5F-hg0B_BSE",
+            "title": "KT vs T1 | 결승전 | 2025 월드 챔피언십",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "7:20:11",
+            "view_count": "10793583",
+            "thumbnail_url": "https://i.ytimg.com/vi/5F-hg0B_BSE/hqdefault.jpg"
+        },
+        {
+            "video_id": "_pCdsALV5S4",
+            "title": "'사랑한 마음엔 죄가 없다' with 몬스타엑스 기현",
+            "channel_name": "소란 / SORAN",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "54122",
+            "thumbnail_url": "https://i.ytimg.com/vi/_pCdsALV5S4/hqdefault.jpg"
+        },
+        {
+            "video_id": "Fraj2r1lnfI",
+            "title": "[슈퍼 마리오 갤럭시] 1차 예고편",
+            "channel_name": "유니버설 픽쳐스",
+            "category": "Film & Animation",
+            "duration": "2:25",
+            "view_count": "228723",
+            "thumbnail_url": "https://i.ytimg.com/vi/Fraj2r1lnfI/hqdefault.jpg"
+        },
+        {
+            "video_id": "Pmf9XT2pCYU",
+            "title": "결승전에서 조커픽 꺼내는 명장 저라뎃 \"넌 최고의 제자야\"",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "1:05:07",
+            "view_count": "117223",
+            "thumbnail_url": "https://i.ytimg.com/vi/Pmf9XT2pCYU/hqdefault.jpg"
+        },
+        {
+            "video_id": "JrWE54FH6bA",
+            "title": "X",
+            "channel_name": "CLOSE YOUR EYES - Topic",
+            "category": "Music",
+            "duration": "3:15",
+            "view_count": "116362",
+            "thumbnail_url": "https://i.ytimg.com/vi/JrWE54FH6bA/hqdefault.jpg"
+        },
+        {
+            "video_id": "RgbDMRpTHxk",
+            "title": "메이드 인 코리아 | '비즈니스맨' 예고편 | 디즈니+",
+            "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
+            "category": "Film & Animation",
+            "duration": "0:53",
+            "view_count": "186925",
+            "thumbnail_url": "https://i.ytimg.com/vi/RgbDMRpTHxk/hqdefault.jpg"
+        },
+        {
+            "video_id": "Q-ZL-_zgA3U",
+            "title": "Maple Now | 김창섭 디렉터 (25.11.13)",
+            "channel_name": "메이플스토리",
+            "category": "Gaming",
+            "duration": "2:25:50",
+            "view_count": "133172",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q-ZL-_zgA3U/hqdefault.jpg"
+        },
+        {
+            "video_id": "zwbPMNyKqxg",
+            "title": "Hello, goodbye.",
+            "channel_name": " 홍이삭(Isaac Hong) - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "33805",
+            "thumbnail_url": "https://i.ytimg.com/vi/zwbPMNyKqxg/hqdefault.jpg"
+        },
+        {
+            "video_id": "EI6qhsPIcd0",
+            "title": "[AION2] G-STAR 2025 트레일러",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "1:35",
+            "view_count": "49948",
+            "thumbnail_url": "https://i.ytimg.com/vi/EI6qhsPIcd0/hqdefault.jpg"
+        },
+        {
+            "video_id": "hKANjIz-2Lk",
+            "title": "멸망전 대비! 클상도 합동강화훈련 합숙 시작!",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "47:18",
+            "view_count": "205693",
+            "thumbnail_url": "https://i.ytimg.com/vi/hKANjIz-2Lk/hqdefault.jpg"
+        },
+        {
+            "video_id": "Z2ghFb9XMGE",
+            "title": "ของขวัญปีใหม่ (Golden Night)",
+            "channel_name": "Jeff Satur - Topic",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "154211",
+            "thumbnail_url": "https://i.ytimg.com/vi/Z2ghFb9XMGE/hqdefault.jpg"
+        },
+        {
+            "video_id": "CIR7uGXHP7o",
+            "title": "서울 자가에 대기업 다니는 김 부장 이야기 7회 예고편 - 심부름꾼이라도 해야지",
+            "channel_name": "JTBC Drama",
+            "category": "Entertainment",
+            "duration": "0:44",
+            "view_count": "262062",
+            "thumbnail_url": "https://i.ytimg.com/vi/CIR7uGXHP7o/hqdefault.jpg"
         },
         {
             "video_id": "GgrKwTO8Q_w",
@@ -106,7 +133,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "34:50",
-            "view_count": "147908",
+            "view_count": "150895",
             "thumbnail_url": "https://i.ytimg.com/vi/GgrKwTO8Q_w/hqdefault.jpg"
         },
         {
@@ -115,35 +142,8 @@
             "channel_name": "LEE MU JIN - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "101104",
+            "view_count": "101564",
             "thumbnail_url": "https://i.ytimg.com/vi/C_H4zNo713c/hqdefault.jpg"
-        },
-        {
-            "video_id": "CIR7uGXHP7o",
-            "title": "서울 자가에 대기업 다니는 김 부장 이야기 7회 예고편 - 심부름꾼이라도 해야지",
-            "channel_name": "JTBC Drama",
-            "category": "Entertainment",
-            "duration": "0:44",
-            "view_count": "261757",
-            "thumbnail_url": "https://i.ytimg.com/vi/CIR7uGXHP7o/hqdefault.jpg"
-        },
-        {
-            "video_id": "Tj7jDentVKY",
-            "title": "프레이한테 당한 거 저라뎃한테 써먹는 스맵ㅋㅋㅋ",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "25:50",
-            "view_count": "73182",
-            "thumbnail_url": "https://i.ytimg.com/vi/Tj7jDentVKY/hqdefault.jpg"
-        },
-        {
-            "video_id": "zwbPMNyKqxg",
-            "title": "Hello, goodbye.",
-            "channel_name": " 홍이삭(Isaac Hong) - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "32958",
-            "thumbnail_url": "https://i.ytimg.com/vi/zwbPMNyKqxg/hqdefault.jpg"
         },
         {
             "video_id": "9c-DrMe8o5Q",
@@ -151,35 +151,8 @@
             "channel_name": "20th Century Studios",
             "category": "Film & Animation",
             "duration": "0:52",
-            "view_count": "4598164",
+            "view_count": "4691386",
             "thumbnail_url": "https://i.ytimg.com/vi/9c-DrMe8o5Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "Pmf9XT2pCYU",
-            "title": "결승전에서 조커픽 꺼내는 명장 저라뎃 \"넌 최고의 제자야\"",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "1:05:07",
-            "view_count": "112376",
-            "thumbnail_url": "https://i.ytimg.com/vi/Pmf9XT2pCYU/hqdefault.jpg"
-        },
-        {
-            "video_id": "Tfueho5jyiE",
-            "title": "BURNING UP",
-            "channel_name": "MEOVV - Topic",
-            "category": "Music",
-            "duration": "2:50",
-            "view_count": "42009",
-            "thumbnail_url": "https://i.ytimg.com/vi/Tfueho5jyiE/hqdefault.jpg"
-        },
-        {
-            "video_id": "tqDK4zSuSJA",
-            "title": "역대급 찍어버린 슈퍼마리오가 돌아왔다! ≪슈퍼마리오 갤럭시≫ 공식 예고편 떡밥 총정리",
-            "channel_name": "무비띵크_Movie Think",
-            "category": "Film & Animation",
-            "duration": "9:48",
-            "view_count": "32015",
-            "thumbnail_url": "https://i.ytimg.com/vi/tqDK4zSuSJA/hqdefault.jpg"
         },
         {
             "video_id": "xxAjcR0FhSU",
@@ -187,17 +160,44 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "18:38",
-            "view_count": "111835",
+            "view_count": "117179",
             "thumbnail_url": "https://i.ytimg.com/vi/xxAjcR0FhSU/hqdefault.jpg"
         },
         {
-            "video_id": "vkBbeOVDkak",
-            "title": "[SPECIAL CLIP] Park ji hyeon(박지현) - Nasty Man(얄미운 사람) (ENG SUB.) | 🥊Nice to Not Meet You 얄미운 사랑 OST",
-            "channel_name": "MUSIC&NEW 뮤직앤뉴",
+            "video_id": "LqyIl6PGGC0",
+            "title": "정승환 '청혼' Cover (원곡: 노을) | SeungTUDIO Mini",
+            "channel_name": "정승환 Jung Seung Hwan",
             "category": "Music",
-            "duration": "2:52",
-            "view_count": "34244",
-            "thumbnail_url": "https://i.ytimg.com/vi/vkBbeOVDkak/hqdefault.jpg"
+            "duration": "4:38",
+            "view_count": "15499",
+            "thumbnail_url": "https://i.ytimg.com/vi/LqyIl6PGGC0/hqdefault.jpg"
+        },
+        {
+            "video_id": "tqDK4zSuSJA",
+            "title": "역대급 찍어버린 슈퍼마리오가 돌아왔다! ≪슈퍼마리오 갤럭시≫ 공식 예고편 떡밥 총정리",
+            "channel_name": "무비띵크_Movie Think",
+            "category": "Film & Animation",
+            "duration": "9:48",
+            "view_count": "32521",
+            "thumbnail_url": "https://i.ytimg.com/vi/tqDK4zSuSJA/hqdefault.jpg"
+        },
+        {
+            "video_id": "ohNPWa7MUsY",
+            "title": "15시즌 챌린저 달리기 7화 : 봄(BOMB)",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "32:04",
+            "view_count": "137253",
+            "thumbnail_url": "https://i.ytimg.com/vi/ohNPWa7MUsY/hqdefault.jpg"
+        },
+        {
+            "video_id": "Tfueho5jyiE",
+            "title": "BURNING UP",
+            "channel_name": "MEOVV - Topic",
+            "category": "Music",
+            "duration": "2:50",
+            "view_count": "42081",
+            "thumbnail_url": "https://i.ytimg.com/vi/Tfueho5jyiE/hqdefault.jpg"
         },
         {
             "video_id": "9qwAulK6db4",
@@ -205,17 +205,17 @@
             "channel_name": "Horizon Steel Frontiers",
             "category": "People & Blogs",
             "duration": "2:53",
-            "view_count": "115123",
+            "view_count": "122672",
             "thumbnail_url": "https://i.ytimg.com/vi/9qwAulK6db4/hqdefault.jpg"
         },
         {
-            "video_id": "2QMdT6wwdeE",
-            "title": "학교는 끝났지만 *귀신 하교길*이 시작됐다.. 과연 살아남을 수 있을까?",
-            "channel_name": "잠뜰 TV",
+            "video_id": "Tj7jDentVKY",
+            "title": "프레이한테 당한 거 저라뎃한테 써먹는 스맵ㅋㅋㅋ",
+            "channel_name": "스맵",
             "category": "Gaming",
-            "duration": "28:26",
-            "view_count": "232651",
-            "thumbnail_url": "https://i.ytimg.com/vi/2QMdT6wwdeE/hqdefault.jpg"
+            "duration": "25:50",
+            "view_count": "74300",
+            "thumbnail_url": "https://i.ytimg.com/vi/Tj7jDentVKY/hqdefault.jpg"
         },
         {
             "video_id": "9wyI-NYkzn0",
@@ -223,7 +223,7 @@
             "channel_name": "Yoon Min Soo - Topic",
             "category": "Music",
             "duration": "5:17",
-            "view_count": "55825",
+            "view_count": "56337",
             "thumbnail_url": "https://i.ytimg.com/vi/9wyI-NYkzn0/hqdefault.jpg"
         },
         {
@@ -232,8 +232,26 @@
             "channel_name": "이하영HayoungLee",
             "category": "People & Blogs",
             "duration": "11:27",
-            "view_count": "225692",
+            "view_count": "229759",
             "thumbnail_url": "https://i.ytimg.com/vi/qrnCvr6E-xw/hqdefault.jpg"
+        },
+        {
+            "video_id": "vkBbeOVDkak",
+            "title": "[SPECIAL CLIP] Park ji hyeon(박지현) - Nasty Man(얄미운 사람) (ENG SUB.) | 🥊Nice to Not Meet You 얄미운 사랑 OST",
+            "channel_name": "MUSIC&NEW 뮤직앤뉴",
+            "category": "Music",
+            "duration": "2:52",
+            "view_count": "34324",
+            "thumbnail_url": "https://i.ytimg.com/vi/vkBbeOVDkak/hqdefault.jpg"
+        },
+        {
+            "video_id": "2QMdT6wwdeE",
+            "title": "학교는 끝났지만 *귀신 하교길*이 시작됐다.. 과연 살아남을 수 있을까?",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "28:26",
+            "view_count": "233252",
+            "thumbnail_url": "https://i.ytimg.com/vi/2QMdT6wwdeE/hqdefault.jpg"
         },
         {
             "video_id": "DO2W8jTdaUw",
@@ -241,98 +259,8 @@
             "channel_name": "DOYOUNG - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "35996",
+            "view_count": "36704",
             "thumbnail_url": "https://i.ytimg.com/vi/DO2W8jTdaUw/hqdefault.jpg"
-        },
-        {
-            "video_id": "I0oTY27gL-0",
-            "title": "15시즌 챌린저 달리기 6화 : 레전드 벌레",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "31:08",
-            "view_count": "181352",
-            "thumbnail_url": "https://i.ytimg.com/vi/I0oTY27gL-0/hqdefault.jpg"
-        },
-        {
-            "video_id": "KmHved6uotw",
-            "title": "Expected",
-            "channel_name": "FTISLAND - Topic",
-            "category": "Music",
-            "duration": "2:48",
-            "view_count": "70305",
-            "thumbnail_url": "https://i.ytimg.com/vi/KmHved6uotw/hqdefault.jpg"
-        },
-        {
-            "video_id": "S-1eYsBj8Fs",
-            "title": "\"마지막 증명\"",
-            "channel_name": "프로관전러 P.S",
-            "category": "Gaming",
-            "duration": "32:35",
-            "view_count": "380831",
-            "thumbnail_url": "https://i.ytimg.com/vi/S-1eYsBj8Fs/hqdefault.jpg"
-        },
-        {
-            "video_id": "piSq8IioghU",
-            "title": "ITZY \"TUNNEL VISION\" M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:16",
-            "view_count": "8172307",
-            "thumbnail_url": "https://i.ytimg.com/vi/piSq8IioghU/hqdefault.jpg"
-        },
-        {
-            "video_id": "y54uQ9Q2RSg",
-            "title": "바이퍼급의 S급 원딜이 LPL 이적 가능성? 난리난 커뮤니티.. 구마유시 혹은 에이밍일까?? 롤이슈 붐바야",
-            "channel_name": "붐바야",
-            "category": "Gaming",
-            "duration": "3:20",
-            "view_count": "213036",
-            "thumbnail_url": "https://i.ytimg.com/vi/y54uQ9Q2RSg/hqdefault.jpg"
-        },
-        {
-            "video_id": "Z2ghFb9XMGE",
-            "title": "ของขวัญปีใหม่ (Golden Night)",
-            "channel_name": "Jeff Satur - Topic",
-            "category": "Music",
-            "duration": "4:00",
-            "view_count": "150673",
-            "thumbnail_url": "https://i.ytimg.com/vi/Z2ghFb9XMGE/hqdefault.jpg"
-        },
-        {
-            "video_id": "qlXCyP5sG7Y",
-            "title": "세계관 최강자들의 대결 ㄷㄷㄷ",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "12:31",
-            "view_count": "214434",
-            "thumbnail_url": "https://i.ytimg.com/vi/qlXCyP5sG7Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "JSZ5NnGMAAI",
-            "title": "나윤권&도경수 - 나였으면｜Na Yoon Kwon&D.O.｜야외녹음실｜Beyond the Studio｜LIVE",
-            "channel_name": "1theK Live - 원더케이 라이브",
-            "category": "Music",
-            "duration": "5:01",
-            "view_count": "347099",
-            "thumbnail_url": "https://i.ytimg.com/vi/JSZ5NnGMAAI/hqdefault.jpg"
-        },
-        {
-            "video_id": "Bw594yQZq40",
-            "title": "\"무조건 이긴다\" 팀원들 박았지만, 갈리오 궁 안썼던 페이커 비하인드 (feat. 롤드컵 결승전의 숨겨진 맥락 3)",
-            "channel_name": "깸빗",
-            "category": "Gaming",
-            "duration": "12:54",
-            "view_count": "166346",
-            "thumbnail_url": "https://i.ytimg.com/vi/Bw594yQZq40/hqdefault.jpg"
-        },
-        {
-            "video_id": "-RYb1nfjdlw",
-            "title": "Exhausted",
-            "channel_name": "Ha Dong Qn - Topic",
-            "category": "Music",
-            "duration": "4:14",
-            "view_count": "152758",
-            "thumbnail_url": "https://i.ytimg.com/vi/-RYb1nfjdlw/hqdefault.jpg"
         },
         {
             "video_id": "OOwyndoyc_8",
@@ -340,8 +268,98 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "23:18",
-            "view_count": "119918",
+            "view_count": "122222",
             "thumbnail_url": "https://i.ytimg.com/vi/OOwyndoyc_8/hqdefault.jpg"
+        },
+        {
+            "video_id": "KmHved6uotw",
+            "title": "Expected",
+            "channel_name": "FTISLAND - Topic",
+            "category": "Music",
+            "duration": "2:48",
+            "view_count": "70943",
+            "thumbnail_url": "https://i.ytimg.com/vi/KmHved6uotw/hqdefault.jpg"
+        },
+        {
+            "video_id": "y54uQ9Q2RSg",
+            "title": "바이퍼급의 S급 원딜이 LPL 이적 가능성? 난리난 커뮤니티.. 구마유시 혹은 에이밍일까?? 롤이슈 붐바야",
+            "channel_name": "붐바야",
+            "category": "Gaming",
+            "duration": "3:20",
+            "view_count": "214450",
+            "thumbnail_url": "https://i.ytimg.com/vi/y54uQ9Q2RSg/hqdefault.jpg"
+        },
+        {
+            "video_id": "u_zMfEh--dI",
+            "title": "사랑한 만큼",
+            "channel_name": "Muzie - Topic",
+            "category": "Music",
+            "duration": "5:39",
+            "view_count": "14997",
+            "thumbnail_url": "https://i.ytimg.com/vi/u_zMfEh--dI/hqdefault.jpg"
+        },
+        {
+            "video_id": "z9zX_hF9Coc",
+            "title": "데바데 전세계 1위, 이번엔 모든 살인마로 ALL KILL하는 장인 ㅋㅋㅋ 살구 장인초대석 [테스터훈]",
+            "channel_name": "테스터훈 TesterHoon",
+            "category": "Gaming",
+            "duration": "1:00:46",
+            "view_count": "99990",
+            "thumbnail_url": "https://i.ytimg.com/vi/z9zX_hF9Coc/hqdefault.jpg"
+        },
+        {
+            "video_id": "piSq8IioghU",
+            "title": "ITZY \"TUNNEL VISION\" M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "8263523",
+            "thumbnail_url": "https://i.ytimg.com/vi/piSq8IioghU/hqdefault.jpg"
+        },
+        {
+            "video_id": "Bw594yQZq40",
+            "title": "\"무조건 이긴다\" 팀원들 박았지만, 갈리오 궁 안썼던 페이커 비하인드 (feat. 롤드컵 결승전의 숨겨진 맥락 3)",
+            "channel_name": "깸빗",
+            "category": "Gaming",
+            "duration": "12:54",
+            "view_count": "167509",
+            "thumbnail_url": "https://i.ytimg.com/vi/Bw594yQZq40/hqdefault.jpg"
+        },
+        {
+            "video_id": "JSZ5NnGMAAI",
+            "title": "나윤권&도경수 - 나였으면｜Na Yoon Kwon&D.O.｜야외녹음실｜Beyond the Studio｜LIVE",
+            "channel_name": "1theK Live - 원더케이 라이브",
+            "category": "Music",
+            "duration": "5:01",
+            "view_count": "348889",
+            "thumbnail_url": "https://i.ytimg.com/vi/JSZ5NnGMAAI/hqdefault.jpg"
+        },
+        {
+            "video_id": "SnDXXysftqA",
+            "title": "와 이게 카트라이더지ㅠㅠㅠ \"도파민 300% 터지는\" 0티어 카트바디",
+            "channel_name": "형독방송",
+            "category": "Gaming",
+            "duration": "26:11",
+            "view_count": "116311",
+            "thumbnail_url": "https://i.ytimg.com/vi/SnDXXysftqA/hqdefault.jpg"
+        },
+        {
+            "video_id": "-RYb1nfjdlw",
+            "title": "Exhausted",
+            "channel_name": "Ha Dong Qn - Topic",
+            "category": "Music",
+            "duration": "4:14",
+            "view_count": "153281",
+            "thumbnail_url": "https://i.ytimg.com/vi/-RYb1nfjdlw/hqdefault.jpg"
+        },
+        {
+            "video_id": "S-1eYsBj8Fs",
+            "title": "\"마지막 증명\"",
+            "channel_name": "프로관전러 P.S",
+            "category": "Gaming",
+            "duration": "32:35",
+            "view_count": "381619",
+            "thumbnail_url": "https://i.ytimg.com/vi/S-1eYsBj8Fs/hqdefault.jpg"
         },
         {
             "video_id": "twP4JRph1ec",
@@ -349,35 +367,17 @@
             "channel_name": "Radio Love",
             "category": "People & Blogs",
             "duration": "1:12:43",
-            "view_count": "15049",
+            "view_count": "15244",
             "thumbnail_url": "https://i.ytimg.com/vi/twP4JRph1ec/hqdefault.jpg"
         },
         {
-            "video_id": "rcJBDNif-2w",
-            "title": "위기에 처한 킴성태를 구하러 온 그녀",
-            "channel_name": "킴성태TV",
+            "video_id": "qlXCyP5sG7Y",
+            "title": "세계관 최강자들의 대결 ㄷㄷㄷ",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "18:49",
-            "view_count": "188550",
-            "thumbnail_url": "https://i.ytimg.com/vi/rcJBDNif-2w/hqdefault.jpg"
-        },
-        {
-            "video_id": "odYUWj1TX8w",
-            "title": "TUNNEL VISION",
-            "channel_name": "ITZY - Topic",
-            "category": "Music",
-            "duration": "3:05",
-            "view_count": "396221",
-            "thumbnail_url": "https://i.ytimg.com/vi/odYUWj1TX8w/hqdefault.jpg"
-        },
-        {
-            "video_id": "P6_D06rKXQ4",
-            "title": "스타팅이 왜 너야【어나더 레드 벌레타입 챌린지】#1",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "34:41",
-            "view_count": "182719",
-            "thumbnail_url": "https://i.ytimg.com/vi/P6_D06rKXQ4/hqdefault.jpg"
+            "duration": "12:31",
+            "view_count": "215492",
+            "thumbnail_url": "https://i.ytimg.com/vi/qlXCyP5sG7Y/hqdefault.jpg"
         }
     ]
 }
