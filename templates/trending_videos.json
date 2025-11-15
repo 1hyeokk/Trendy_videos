@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-16 05:21:19",
+    "scraped_time": "2025-11-16 06:17:36",
     "videos": [
         {
             "video_id": "cGrG93v8jpU",
@@ -7,7 +7,7 @@
             "channel_name": "아샤트리 AshaTree",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "148965",
+            "view_count": "149761",
             "thumbnail_url": "https://i.ytimg.com/vi/cGrG93v8jpU/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:01",
-            "view_count": "77583",
+            "view_count": "78338",
             "thumbnail_url": "https://i.ytimg.com/vi/8yYaC36GhVs/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "12:33",
-            "view_count": "207113",
+            "view_count": "207625",
             "thumbnail_url": "https://i.ytimg.com/vi/45UibC9ISJE/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Muzie - Topic",
             "category": "Music",
             "duration": "5:39",
-            "view_count": "122051",
+            "view_count": "123076",
             "thumbnail_url": "https://i.ytimg.com/vi/u_zMfEh--dI/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "1:02",
-            "view_count": "671916",
+            "view_count": "675752",
             "thumbnail_url": "https://i.ytimg.com/vi/H0EX9Ygaq7M/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "T1 Gumayusi",
             "category": "Gaming",
             "duration": "29:28",
-            "view_count": "405773",
+            "view_count": "413797",
             "thumbnail_url": "https://i.ytimg.com/vi/Wo7uwGNc97g/hqdefault.jpg"
         },
         {
@@ -61,8 +61,17 @@
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "Music",
             "duration": "4:38",
-            "view_count": "92235",
+            "view_count": "92818",
             "thumbnail_url": "https://i.ytimg.com/vi/LqyIl6PGGC0/hqdefault.jpg"
+        },
+        {
+            "video_id": "6CX7pjlRjJI",
+            "title": "[메인 예고] 니 모든 권리는 나한테 있다고 | 천둥구름 비바람",
+            "channel_name": "STUDIO OAK 스튜디오 오크",
+            "category": "People & Blogs",
+            "duration": "1:03",
+            "view_count": "28613",
+            "thumbnail_url": "https://i.ytimg.com/vi/6CX7pjlRjJI/hqdefault.jpg"
         },
         {
             "video_id": "3RTBaMpyfak",
@@ -70,7 +79,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "55:53",
-            "view_count": "214008",
+            "view_count": "217441",
             "thumbnail_url": "https://i.ytimg.com/vi/3RTBaMpyfak/hqdefault.jpg"
         },
         {
@@ -79,26 +88,8 @@
             "channel_name": "가수 이예은 OFFICIAL ",
             "category": "People & Blogs",
             "duration": "4:16",
-            "view_count": "21657",
+            "view_count": "21814",
             "thumbnail_url": "https://i.ytimg.com/vi/b9CmFOtXjto/hqdefault.jpg"
-        },
-        {
-            "video_id": "Qd4PjIPBr-c",
-            "title": "브레인롯 훔치기 운영자 새미만 들어 갈 수 있는 서버에 들어가봤습니다ㅋㅋㅋ (브레인롯 훔치기)",
-            "channel_name": "싸모스",
-            "category": "Gaming",
-            "duration": "17:08",
-            "view_count": "185296",
-            "thumbnail_url": "https://i.ytimg.com/vi/Qd4PjIPBr-c/hqdefault.jpg"
-        },
-        {
-            "video_id": "zwbPMNyKqxg",
-            "title": "Hello, goodbye.",
-            "channel_name": " 홍이삭(Isaac Hong) - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "123251",
-            "thumbnail_url": "https://i.ytimg.com/vi/zwbPMNyKqxg/hqdefault.jpg"
         },
         {
             "video_id": "F-aoHKX8Sq0",
@@ -106,8 +97,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "40:01",
-            "view_count": "129172",
+            "view_count": "130399",
             "thumbnail_url": "https://i.ytimg.com/vi/F-aoHKX8Sq0/hqdefault.jpg"
+        },
+        {
+            "video_id": "zwbPMNyKqxg",
+            "title": "Hello, goodbye.",
+            "channel_name": " 홍이삭(Isaac Hong) - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "123522",
+            "thumbnail_url": "https://i.ytimg.com/vi/zwbPMNyKqxg/hqdefault.jpg"
+        },
+        {
+            "video_id": "Qd4PjIPBr-c",
+            "title": "브레인롯 훔치기 운영자 새미만 들어 갈 수 있는 서버에 들어가봤습니다ㅋㅋㅋ (브레인롯 훔치기)",
+            "channel_name": "싸모스",
+            "category": "Gaming",
+            "duration": "17:08",
+            "view_count": "186302",
+            "thumbnail_url": "https://i.ytimg.com/vi/Qd4PjIPBr-c/hqdefault.jpg"
         },
         {
             "video_id": "XkI9WCr-IfI",
@@ -115,7 +124,7 @@
             "channel_name": "Kkuek - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "157754",
+            "view_count": "158230",
             "thumbnail_url": "https://i.ytimg.com/vi/XkI9WCr-IfI/hqdefault.jpg"
         },
         {
@@ -124,7 +133,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "30:05",
-            "view_count": "328718",
+            "view_count": "332545",
             "thumbnail_url": "https://i.ytimg.com/vi/_WBfk00OCO4/hqdefault.jpg"
         },
         {
@@ -133,26 +142,8 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "1275970",
+            "view_count": "1284846",
             "thumbnail_url": "https://i.ytimg.com/vi/O99aP4AvEF8/hqdefault.jpg"
-        },
-        {
-            "video_id": "PFH3eYyNhTk",
-            "title": "아만다의 정체와 떡밥이 풀립니다! 아만다 마지막 이야기!",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "34:48",
-            "view_count": "128333",
-            "thumbnail_url": "https://i.ytimg.com/vi/PFH3eYyNhTk/hqdefault.jpg"
-        },
-        {
-            "video_id": "DO2W8jTdaUw",
-            "title": "Still Here",
-            "channel_name": "DOYOUNG - Topic",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "122086",
-            "thumbnail_url": "https://i.ytimg.com/vi/DO2W8jTdaUw/hqdefault.jpg"
         },
         {
             "video_id": "s_1PHXnqX5o",
@@ -160,8 +151,26 @@
             "channel_name": "형독방송",
             "category": "Gaming",
             "duration": "18:10",
-            "view_count": "141918",
+            "view_count": "143670",
             "thumbnail_url": "https://i.ytimg.com/vi/s_1PHXnqX5o/hqdefault.jpg"
+        },
+        {
+            "video_id": "DO2W8jTdaUw",
+            "title": "Still Here",
+            "channel_name": "DOYOUNG - Topic",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "122451",
+            "thumbnail_url": "https://i.ytimg.com/vi/DO2W8jTdaUw/hqdefault.jpg"
+        },
+        {
+            "video_id": "PFH3eYyNhTk",
+            "title": "아만다의 정체와 떡밥이 풀립니다! 아만다 마지막 이야기!",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "34:48",
+            "view_count": "128753",
+            "thumbnail_url": "https://i.ytimg.com/vi/PFH3eYyNhTk/hqdefault.jpg"
         },
         {
             "video_id": "ba9MX-bk8LY",
@@ -169,7 +178,7 @@
             "channel_name": "Monsta X - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "76101",
+            "view_count": "77158",
             "thumbnail_url": "https://i.ytimg.com/vi/ba9MX-bk8LY/hqdefault.jpg"
         },
         {
@@ -178,7 +187,7 @@
             "channel_name": "무지개맛 Rainbow Flavor",
             "category": "Gaming",
             "duration": "10:36",
-            "view_count": "211011",
+            "view_count": "213194",
             "thumbnail_url": "https://i.ytimg.com/vi/VrpH59-4NQ4/hqdefault.jpg"
         },
         {
@@ -187,116 +196,8 @@
             "channel_name": "Jeff Satur - Topic",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "366677",
+            "view_count": "368501",
             "thumbnail_url": "https://i.ytimg.com/vi/Z2ghFb9XMGE/hqdefault.jpg"
-        },
-        {
-            "video_id": "GVNglzVMVIA",
-            "title": "사슴이 다쳤다고!? 범인으로 추정되는 ”괴물 예티“가 있는 곳에서 99일간 생존 도전하기!! (로블록스 99나이트인더포레스트)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "31:56",
-            "view_count": "232750",
-            "thumbnail_url": "https://i.ytimg.com/vi/GVNglzVMVIA/hqdefault.jpg"
-        },
-        {
-            "video_id": "O9CgBHAZ878",
-            "title": "First Snow, First You",
-            "channel_name": "HEARTZ - Topic",
-            "category": "Music",
-            "duration": "3:21",
-            "view_count": "52991",
-            "thumbnail_url": "https://i.ytimg.com/vi/O9CgBHAZ878/hqdefault.jpg"
-        },
-        {
-            "video_id": "nsDQuI2p-V4",
-            "title": "칸삼대전이었는데 치지직 전설의 포켓몬들이 나왔습니다 ㄷㄷ",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "37:06",
-            "view_count": "230706",
-            "thumbnail_url": "https://i.ytimg.com/vi/nsDQuI2p-V4/hqdefault.jpg"
-        },
-        {
-            "video_id": "uANkOn5pYy4",
-            "title": "차 안에서 듣는 트로트 | 드라이브 음악💖하루 종일 듣기 좋은 노래 모음🎶흘러간 옛노래 뽕짝 메들리 가사 포함,추억의 트로트 명곡 모음💿 잊을 수 없는 그 시절의 감성",
-            "channel_name": "Sora Tide",
-            "category": "People & Blogs",
-            "duration": "45:17",
-            "view_count": "16663",
-            "thumbnail_url": "https://i.ytimg.com/vi/uANkOn5pYy4/hqdefault.jpg"
-        },
-        {
-            "video_id": "Lnt2F7jze3E",
-            "title": "메이플키우기 : 어머,, 이건 사야 돼!   [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "20:55",
-            "view_count": "195283",
-            "thumbnail_url": "https://i.ytimg.com/vi/Lnt2F7jze3E/hqdefault.jpg"
-        },
-        {
-            "video_id": "cWeqwSSw-6Y",
-            "title": "Summer End",
-            "channel_name": "Paul Kim - Topic",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "65704",
-            "thumbnail_url": "https://i.ytimg.com/vi/cWeqwSSw-6Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "slgtXq7R1Ic",
-            "title": "자는 사이에 끝났다고요?",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "35:44",
-            "view_count": "139658",
-            "thumbnail_url": "https://i.ytimg.com/vi/slgtXq7R1Ic/hqdefault.jpg"
-        },
-        {
-            "video_id": "Zs16Bdt_ZwU",
-            "title": "11월이 되면 듣고 싶은 7080 노래 🎧 라디오 추억 7080 |50대 60대 마음을 울리는 추억의 노래.바람바람바람/그집앞/잊혀진 사랑/어느 60대 노부부 이야기",
-            "channel_name": "JUN FM",
-            "category": "People & Blogs",
-            "duration": "57:01",
-            "view_count": "14766",
-            "thumbnail_url": "https://i.ytimg.com/vi/Zs16Bdt_ZwU/hqdefault.jpg"
-        },
-        {
-            "video_id": "p-NOoiy6aGY",
-            "title": "15시즌 챌린저 달리기 8화 : 유미의 저주",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "28:14",
-            "view_count": "161705",
-            "thumbnail_url": "https://i.ytimg.com/vi/p-NOoiy6aGY/hqdefault.jpg"
-        },
-        {
-            "video_id": "BGyomRz13hk",
-            "title": "JANE DOE (米津玄師×宇多田ヒカル) ／弱酸性×ダズビー COVER",
-            "channel_name": "DAZBEE official",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "200861",
-            "thumbnail_url": "https://i.ytimg.com/vi/BGyomRz13hk/hqdefault.jpg"
-        },
-        {
-            "video_id": "LlFpvE6CFyQ",
-            "title": "모양몬이 백현 번호를 유출시켰습니나… 어떡하냐고",
-            "channel_name": "백앤아",
-            "category": "Gaming",
-            "duration": "15:43",
-            "view_count": "88951",
-            "thumbnail_url": "https://i.ytimg.com/vi/LlFpvE6CFyQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "_pCdsALV5S4",
-            "title": "'사랑한 마음엔 죄가 없다' with 몬스타엑스 기현",
-            "channel_name": "소란 / SORAN",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "82949",
-            "thumbnail_url": "https://i.ytimg.com/vi/_pCdsALV5S4/hqdefault.jpg"
         },
         {
             "video_id": "fFEsQ2CA2KM",
@@ -304,26 +205,116 @@
             "channel_name": "깸빗",
             "category": "Gaming",
             "duration": "14:01",
-            "view_count": "140055",
+            "view_count": "142783",
             "thumbnail_url": "https://i.ytimg.com/vi/fFEsQ2CA2KM/hqdefault.jpg"
         },
         {
-            "video_id": "DWeqMPWPD3w",
-            "title": "Song To My Awful You",
-            "channel_name": "Yuuri - Topic",
+            "video_id": "O9CgBHAZ878",
+            "title": "First Snow, First You",
+            "channel_name": "HEARTZ - Topic",
             "category": "Music",
-            "duration": "4:13",
-            "view_count": "42080",
-            "thumbnail_url": "https://i.ytimg.com/vi/DWeqMPWPD3w/hqdefault.jpg"
+            "duration": "3:21",
+            "view_count": "54052",
+            "thumbnail_url": "https://i.ytimg.com/vi/O9CgBHAZ878/hqdefault.jpg"
         },
         {
-            "video_id": "yvLj90mfKuw",
-            "title": "99일 기지방어자 사용법 [로블록스 99 나이트 인 더 포레스트]",
-            "channel_name": "주전자",
+            "video_id": "2n4ffJSyjqM",
+            "title": "역대급 버프 이후 결국 탑 1티어 꿀챔이 되버린 \"탑 오버파밍 말파이트\" 🗿🐝",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "11:08",
-            "view_count": "86113",
-            "thumbnail_url": "https://i.ytimg.com/vi/yvLj90mfKuw/hqdefault.jpg"
+            "duration": "24:34",
+            "view_count": "113614",
+            "thumbnail_url": "https://i.ytimg.com/vi/2n4ffJSyjqM/hqdefault.jpg"
+        },
+        {
+            "video_id": "uANkOn5pYy4",
+            "title": "차 안에서 듣는 트로트 | 드라이브 음악💖하루 종일 듣기 좋은 노래 모음🎶흘러간 옛노래 뽕짝 메들리 가사 포함,추억의 트로트 명곡 모음💿 잊을 수 없는 그 시절의 감성",
+            "channel_name": "Sora Tide",
+            "category": "People & Blogs",
+            "duration": "45:17",
+            "view_count": "16765",
+            "thumbnail_url": "https://i.ytimg.com/vi/uANkOn5pYy4/hqdefault.jpg"
+        },
+        {
+            "video_id": "WZr2Ko9YRfU",
+            "title": "15시즌 챌린저 달리기 9화 : XXX XX XXX",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "25:41",
+            "view_count": "114201",
+            "thumbnail_url": "https://i.ytimg.com/vi/WZr2Ko9YRfU/hqdefault.jpg"
+        },
+        {
+            "video_id": "BGyomRz13hk",
+            "title": "JANE DOE (米津玄師×宇多田ヒカル) ／弱酸性×ダズビー COVER",
+            "channel_name": "DAZBEE official",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "202678",
+            "thumbnail_url": "https://i.ytimg.com/vi/BGyomRz13hk/hqdefault.jpg"
+        },
+        {
+            "video_id": "GVNglzVMVIA",
+            "title": "사슴이 다쳤다고!? 범인으로 추정되는 ”괴물 예티“가 있는 곳에서 99일간 생존 도전하기!! (로블록스 99나이트인더포레스트)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "31:56",
+            "view_count": "233230",
+            "thumbnail_url": "https://i.ytimg.com/vi/GVNglzVMVIA/hqdefault.jpg"
+        },
+        {
+            "video_id": "cWeqwSSw-6Y",
+            "title": "Summer End",
+            "channel_name": "Paul Kim - Topic",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "65870",
+            "thumbnail_url": "https://i.ytimg.com/vi/cWeqwSSw-6Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "nsDQuI2p-V4",
+            "title": "칸삼대전이었는데 치지직 전설의 포켓몬들이 나왔습니다 ㄷㄷ",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "37:06",
+            "view_count": "231488",
+            "thumbnail_url": "https://i.ytimg.com/vi/nsDQuI2p-V4/hqdefault.jpg"
+        },
+        {
+            "video_id": "Zs16Bdt_ZwU",
+            "title": "11월이 되면 듣고 싶은 7080 노래 🎧 라디오 추억 7080 |50대 60대 마음을 울리는 추억의 노래.바람바람바람/그집앞/잊혀진 사랑/어느 60대 노부부 이야기",
+            "channel_name": "JUN FM",
+            "category": "People & Blogs",
+            "duration": "57:01",
+            "view_count": "14800",
+            "thumbnail_url": "https://i.ytimg.com/vi/Zs16Bdt_ZwU/hqdefault.jpg"
+        },
+        {
+            "video_id": "Lnt2F7jze3E",
+            "title": "메이플키우기 : 어머,, 이건 사야 돼!   [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "20:55",
+            "view_count": "196058",
+            "thumbnail_url": "https://i.ytimg.com/vi/Lnt2F7jze3E/hqdefault.jpg"
+        },
+        {
+            "video_id": "_pCdsALV5S4",
+            "title": "'사랑한 마음엔 죄가 없다' with 몬스타엑스 기현",
+            "channel_name": "소란 / SORAN",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "83063",
+            "thumbnail_url": "https://i.ytimg.com/vi/_pCdsALV5S4/hqdefault.jpg"
+        },
+        {
+            "video_id": "slgtXq7R1Ic",
+            "title": "자는 사이에 끝났다고요?",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "35:44",
+            "view_count": "140161",
+            "thumbnail_url": "https://i.ytimg.com/vi/slgtXq7R1Ic/hqdefault.jpg"
         },
         {
             "video_id": "spQ6JXmv1do",
@@ -331,17 +322,35 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:36",
-            "view_count": "3033786",
+            "view_count": "3069324",
             "thumbnail_url": "https://i.ytimg.com/vi/spQ6JXmv1do/hqdefault.jpg"
         },
         {
-            "video_id": "nhRn1MCNshU",
-            "title": "[생]바둑 황태자 까꿍프로",
-            "channel_name": "까꿍프로_바둑채널",
+            "video_id": "DB2T-6eCAwQ",
+            "title": "솔랭내기 처음하는데 트롤 맛을 봐버린 박사장ㅋㅋㅋㅋ",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "4:48:22",
-            "view_count": "51036",
-            "thumbnail_url": "https://i.ytimg.com/vi/nhRn1MCNshU/hqdefault.jpg"
+            "duration": "30:28",
+            "view_count": "76420",
+            "thumbnail_url": "https://i.ytimg.com/vi/DB2T-6eCAwQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "DWeqMPWPD3w",
+            "title": "Song To My Awful You",
+            "channel_name": "Yuuri - Topic",
+            "category": "Music",
+            "duration": "4:13",
+            "view_count": "42477",
+            "thumbnail_url": "https://i.ytimg.com/vi/DWeqMPWPD3w/hqdefault.jpg"
+        },
+        {
+            "video_id": "0BN7x66YpTA",
+            "title": "알파고의 실력을 보더니 못하는 게 잘 하는 척 한다며 미친 듯이 조롱하는 상대ㄷㄷ;;",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "39:33",
+            "view_count": "86846",
+            "thumbnail_url": "https://i.ytimg.com/vi/0BN7x66YpTA/hqdefault.jpg"
         },
         {
             "video_id": "PxZej9IEVxc",
@@ -349,35 +358,26 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "221854",
+            "view_count": "225390",
             "thumbnail_url": "https://i.ytimg.com/vi/PxZej9IEVxc/hqdefault.jpg"
         },
         {
-            "video_id": "IFlxx2n-_5A",
-            "title": "시청자 모두를 웃긴 배그 교통사고ㅋㅋㅋㅋ",
-            "channel_name": "주키니TV",
+            "video_id": "LlFpvE6CFyQ",
+            "title": "모양몬이 백현 번호를 유출시켰습니나… 어떡하냐고",
+            "channel_name": "백앤아",
             "category": "Gaming",
-            "duration": "20:03",
-            "view_count": "151979",
-            "thumbnail_url": "https://i.ytimg.com/vi/IFlxx2n-_5A/hqdefault.jpg"
+            "duration": "15:43",
+            "view_count": "89119",
+            "thumbnail_url": "https://i.ytimg.com/vi/LlFpvE6CFyQ/hqdefault.jpg"
         },
         {
-            "video_id": "jZD2aHNHa0c",
-            "title": "I Run",
-            "channel_name": "HAVEN. - Topic",
+            "video_id": "C_H4zNo713c",
+            "title": "Remember",
+            "channel_name": "LEE MU JIN - Topic",
             "category": "Music",
-            "duration": "2:10",
-            "view_count": "2385732",
-            "thumbnail_url": "https://i.ytimg.com/vi/jZD2aHNHa0c/hqdefault.jpg"
-        },
-        {
-            "video_id": "jixFG0YzlYo",
-            "title": "챔피언스 세트 씹어먹는 30만원짜리 역대급 스킨 세트 [오라 바이 원탭 스킨 리뷰]",
-            "channel_name": "행돌",
-            "category": "Gaming",
-            "duration": "15:57",
-            "view_count": "190107",
-            "thumbnail_url": "https://i.ytimg.com/vi/jixFG0YzlYo/hqdefault.jpg"
+            "duration": "3:54",
+            "view_count": "210169",
+            "thumbnail_url": "https://i.ytimg.com/vi/C_H4zNo713c/hqdefault.jpg"
         }
     ]
 }
