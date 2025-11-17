@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-17 16:22:21",
+    "scraped_time": "2025-11-17 17:32:22",
     "videos": [
         {
             "video_id": "p119468NiY0",
@@ -7,7 +7,7 @@
             "channel_name": "ATEEZ - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "39126",
+            "view_count": "64126",
             "thumbnail_url": "https://i.ytimg.com/vi/p119468NiY0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "JTBC Drama",
             "category": "Entertainment",
             "duration": "0:44",
-            "view_count": "130746",
+            "view_count": "134755",
             "thumbnail_url": "https://i.ytimg.com/vi/SVsE3SdbCqo/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "40:49",
-            "view_count": "161240",
+            "view_count": "176564",
             "thumbnail_url": "https://i.ytimg.com/vi/Xhut4dGSMY8/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "37638",
+            "view_count": "57671",
             "thumbnail_url": "https://i.ytimg.com/vi/D5MtRNQBVbk/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "9:41",
-            "view_count": "172337",
+            "view_count": "176324",
             "thumbnail_url": "https://i.ytimg.com/vi/RUfOcEmgp_Q/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "30:27",
-            "view_count": "832107",
+            "view_count": "845944",
             "thumbnail_url": "https://i.ytimg.com/vi/DE5FpKy7Oy0/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Kassy - Topic",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "60065",
+            "view_count": "63362",
             "thumbnail_url": "https://i.ytimg.com/vi/uSWjra9-osc/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:01",
-            "view_count": "107219",
+            "view_count": "108085",
             "thumbnail_url": "https://i.ytimg.com/vi/8yYaC36GhVs/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "스맵",
             "category": "Gaming",
             "duration": "50:25",
-            "view_count": "162624",
+            "view_count": "163989",
             "thumbnail_url": "https://i.ytimg.com/vi/8f2jxGDOPDI/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "Sora Tide",
             "category": "People & Blogs",
             "duration": "41:37",
-            "view_count": "10112",
+            "view_count": "12586",
             "thumbnail_url": "https://i.ytimg.com/vi/0LJPFqRkAYU/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "1:02",
-            "view_count": "1045393",
+            "view_count": "1055250",
             "thumbnail_url": "https://i.ytimg.com/vi/H0EX9Ygaq7M/hqdefault.jpg"
-        },
-        {
-            "video_id": "JCop6DPg_Rs",
-            "title": "방에 가두고 유로트럭으로 강제 운전연수 시키기ㅋㅋㅋ",
-            "channel_name": "보따",
-            "category": "Comedy",
-            "duration": "12:39",
-            "view_count": "333959",
-            "thumbnail_url": "https://i.ytimg.com/vi/JCop6DPg_Rs/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZlfBhlKXNn4",
-            "title": "Moondance",
-            "channel_name": "TOUCHED - Topic",
-            "category": "Music",
-            "duration": "3:46",
-            "view_count": "28584",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZlfBhlKXNn4/hqdefault.jpg"
         },
         {
             "video_id": "cUcDoaJSiuE",
@@ -124,8 +106,26 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "39:49",
-            "view_count": "276012",
+            "view_count": "281906",
             "thumbnail_url": "https://i.ytimg.com/vi/cUcDoaJSiuE/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZlfBhlKXNn4",
+            "title": "Moondance",
+            "channel_name": "TOUCHED - Topic",
+            "category": "Music",
+            "duration": "3:46",
+            "view_count": "30517",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZlfBhlKXNn4/hqdefault.jpg"
+        },
+        {
+            "video_id": "JCop6DPg_Rs",
+            "title": "방에 가두고 유로트럭으로 강제 운전연수 시키기ㅋㅋㅋ",
+            "channel_name": "보따",
+            "category": "Comedy",
+            "duration": "12:39",
+            "view_count": "336558",
+            "thumbnail_url": "https://i.ytimg.com/vi/JCop6DPg_Rs/hqdefault.jpg"
         },
         {
             "video_id": "B_8vbqwGNb0",
@@ -133,7 +133,7 @@
             "channel_name": "Purple Kiss - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "23100",
+            "view_count": "24331",
             "thumbnail_url": "https://i.ytimg.com/vi/B_8vbqwGNb0/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "24:27",
-            "view_count": "221499",
+            "view_count": "223865",
             "thumbnail_url": "https://i.ytimg.com/vi/CQFNrKHdWAA/hqdefault.jpg"
         },
         {
@@ -151,17 +151,17 @@
             "channel_name": "Jeff Satur - Topic",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "97781",
+            "view_count": "105660",
             "thumbnail_url": "https://i.ytimg.com/vi/T3QzvXHrtEw/hqdefault.jpg"
         },
         {
-            "video_id": "4Xqqy2oiblM",
-            "title": "아쿠아틱 기지 바로 완성! 신규시크릿 오르칼레돈에다가 0.1% 방사능 폭격무기까지 모두 얻어보기!! 와 그런데 낚시로 모비 시크릿까지 나온다고!? (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
+            "video_id": "KroOhCVOVcs",
+            "title": "\"한 사람만 행복한 멸망전\" 어떻게든 팀을 지키려는 이상호의 눈물똥꼬쇼..!【멸망전 Ep. 2】",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "25:13",
-            "view_count": "285599",
-            "thumbnail_url": "https://i.ytimg.com/vi/4Xqqy2oiblM/hqdefault.jpg"
+            "duration": "26:58",
+            "view_count": "84800",
+            "thumbnail_url": "https://i.ytimg.com/vi/KroOhCVOVcs/hqdefault.jpg"
         },
         {
             "video_id": "zFmKBpHrKY8",
@@ -169,17 +169,17 @@
             "channel_name": "이세계아이돌 ISEGYE IDOL",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "369637",
+            "view_count": "380251",
             "thumbnail_url": "https://i.ytimg.com/vi/zFmKBpHrKY8/hqdefault.jpg"
         },
         {
-            "video_id": "6E0_dslwBFw",
-            "title": "\"본격 상피하기 시작\" 끝날 때까지 아무도 믿을 수 없는 멸망전 팀짜기!【멸망전 Ep. 1】",
-            "channel_name": "이상호",
+            "video_id": "4Xqqy2oiblM",
+            "title": "아쿠아틱 기지 바로 완성! 신규시크릿 오르칼레돈에다가 0.1% 방사능 폭격무기까지 모두 얻어보기!! 와 그런데 낚시로 모비 시크릿까지 나온다고!? (로블록스 브레인롯 훔치기)",
+            "channel_name": "말량",
             "category": "Gaming",
-            "duration": "46:33",
-            "view_count": "205252",
-            "thumbnail_url": "https://i.ytimg.com/vi/6E0_dslwBFw/hqdefault.jpg"
+            "duration": "25:13",
+            "view_count": "289823",
+            "thumbnail_url": "https://i.ytimg.com/vi/4Xqqy2oiblM/hqdefault.jpg"
         },
         {
             "video_id": "cGrG93v8jpU",
@@ -187,26 +187,8 @@
             "channel_name": "아샤트리 AshaTree",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "235753",
+            "view_count": "239303",
             "thumbnail_url": "https://i.ytimg.com/vi/cGrG93v8jpU/hqdefault.jpg"
-        },
-        {
-            "video_id": "l1eYLjUEhaU",
-            "title": "99일 사슴이 다쳐서 도와줬더니 생긴 일 ㄷㄷ;; 같은편이 되어준다고!!??? (로블록스 99나이트 인더 포레스트)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "23:11",
-            "view_count": "232311",
-            "thumbnail_url": "https://i.ytimg.com/vi/l1eYLjUEhaU/hqdefault.jpg"
-        },
-        {
-            "video_id": "u_zMfEh--dI",
-            "title": "사랑한 만큼",
-            "channel_name": "Muzie - Topic",
-            "category": "Music",
-            "duration": "5:39",
-            "view_count": "288396",
-            "thumbnail_url": "https://i.ytimg.com/vi/u_zMfEh--dI/hqdefault.jpg"
         },
         {
             "video_id": "3nYsXs0mmuw",
@@ -214,8 +196,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "45:22",
-            "view_count": "50848",
+            "view_count": "67364",
             "thumbnail_url": "https://i.ytimg.com/vi/3nYsXs0mmuw/hqdefault.jpg"
+        },
+        {
+            "video_id": "u_zMfEh--dI",
+            "title": "사랑한 만큼",
+            "channel_name": "Muzie - Topic",
+            "category": "Music",
+            "duration": "5:39",
+            "view_count": "297165",
+            "thumbnail_url": "https://i.ytimg.com/vi/u_zMfEh--dI/hqdefault.jpg"
+        },
+        {
+            "video_id": "l1eYLjUEhaU",
+            "title": "99일 사슴이 다쳐서 도와줬더니 생긴 일 ㄷㄷ;; 같은편이 되어준다고!!??? (로블록스 99나이트 인더 포레스트)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "23:11",
+            "view_count": "236702",
+            "thumbnail_url": "https://i.ytimg.com/vi/l1eYLjUEhaU/hqdefault.jpg"
         },
         {
             "video_id": "vtlVwu3Bm8Y",
@@ -223,7 +223,7 @@
             "channel_name": "DIMO REX - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "22936",
+            "view_count": "24118",
             "thumbnail_url": "https://i.ytimg.com/vi/vtlVwu3Bm8Y/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:24",
-            "view_count": "223165",
+            "view_count": "228305",
             "thumbnail_url": "https://i.ytimg.com/vi/tk-ZHrUCI-U/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "0:31",
-            "view_count": "144331",
+            "view_count": "146539",
             "thumbnail_url": "https://i.ytimg.com/vi/FBDv5-waNBs/hqdefault.jpg"
         },
         {
@@ -250,26 +250,8 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "31:12",
-            "view_count": "374684",
+            "view_count": "377698",
             "thumbnail_url": "https://i.ytimg.com/vi/EW-APJzyIDk/hqdefault.jpg"
-        },
-        {
-            "video_id": "sfkjxLioWUk",
-            "title": "Up & Down",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "4:04",
-            "view_count": "15060",
-            "thumbnail_url": "https://i.ytimg.com/vi/sfkjxLioWUk/hqdefault.jpg"
-        },
-        {
-            "video_id": "FY0ZR6BeNQ4",
-            "title": "15시즌 챌린저 달리기 10화 : 우리 친구 아이가..",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "25:15",
-            "view_count": "135031",
-            "thumbnail_url": "https://i.ytimg.com/vi/FY0ZR6BeNQ4/hqdefault.jpg"
         },
         {
             "video_id": "yBuXuCmUuWk",
@@ -277,8 +259,26 @@
             "channel_name": "JUN FM",
             "category": "People & Blogs",
             "duration": "53:24",
-            "view_count": "10847",
+            "view_count": "11297",
             "thumbnail_url": "https://i.ytimg.com/vi/yBuXuCmUuWk/hqdefault.jpg"
+        },
+        {
+            "video_id": "FY0ZR6BeNQ4",
+            "title": "15시즌 챌린저 달리기 10화 : 우리 친구 아이가..",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "25:15",
+            "view_count": "136936",
+            "thumbnail_url": "https://i.ytimg.com/vi/FY0ZR6BeNQ4/hqdefault.jpg"
+        },
+        {
+            "video_id": "sfkjxLioWUk",
+            "title": "Up & Down",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "4:04",
+            "view_count": "15476",
+            "thumbnail_url": "https://i.ytimg.com/vi/sfkjxLioWUk/hqdefault.jpg"
         },
         {
             "video_id": "xY83nopsVzc",
@@ -286,7 +286,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "1:13:00",
-            "view_count": "154307",
+            "view_count": "157441",
             "thumbnail_url": "https://i.ytimg.com/vi/xY83nopsVzc/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "Music",
             "duration": "4:38",
-            "view_count": "158431",
+            "view_count": "161569",
             "thumbnail_url": "https://i.ytimg.com/vi/LqyIl6PGGC0/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "T1 Gumayusi",
             "category": "Gaming",
             "duration": "29:28",
-            "view_count": "570178",
+            "view_count": "572458",
             "thumbnail_url": "https://i.ytimg.com/vi/Wo7uwGNc97g/hqdefault.jpg"
         },
         {
@@ -313,26 +313,8 @@
             "channel_name": "로이킴 Roy Kim",
             "category": "Music",
             "duration": "4:29",
-            "view_count": "44860",
+            "view_count": "45864",
             "thumbnail_url": "https://i.ytimg.com/vi/_-Y5HHUSK9A/hqdefault.jpg"
-        },
-        {
-            "video_id": "tZKx5KtNwzg",
-            "title": "1299승 359패 승률 78% 초고수 상대의 마지막 1승 제물이 알파고!?ㄷㄷ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "54:27",
-            "view_count": "113568",
-            "thumbnail_url": "https://i.ytimg.com/vi/tZKx5KtNwzg/hqdefault.jpg"
-        },
-        {
-            "video_id": "b9CmFOtXjto",
-            "title": "[LIVE 풀버전] 그래 늦지 않았어(2025)-아샤트리,이예은,전건호(원곡:녹색지대)",
-            "channel_name": "가수 이예은 OFFICIAL ",
-            "category": "People & Blogs",
-            "duration": "4:16",
-            "view_count": "41639",
-            "thumbnail_url": "https://i.ytimg.com/vi/b9CmFOtXjto/hqdefault.jpg"
         },
         {
             "video_id": "JYnQT0phCq4",
@@ -340,8 +322,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "23:11",
-            "view_count": "140448",
+            "view_count": "143217",
             "thumbnail_url": "https://i.ytimg.com/vi/JYnQT0phCq4/hqdefault.jpg"
+        },
+        {
+            "video_id": "b9CmFOtXjto",
+            "title": "[LIVE 풀버전] 그래 늦지 않았어(2025)-아샤트리,이예은,전건호(원곡:녹색지대)",
+            "channel_name": "가수 이예은 OFFICIAL ",
+            "category": "People & Blogs",
+            "duration": "4:16",
+            "view_count": "42414",
+            "thumbnail_url": "https://i.ytimg.com/vi/b9CmFOtXjto/hqdefault.jpg"
+        },
+        {
+            "video_id": "tZKx5KtNwzg",
+            "title": "1299승 359패 승률 78% 초고수 상대의 마지막 1승 제물이 알파고!?ㄷㄷ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "54:27",
+            "view_count": "114763",
+            "thumbnail_url": "https://i.ytimg.com/vi/tZKx5KtNwzg/hqdefault.jpg"
         },
         {
             "video_id": "aVkFbGwawm4",
@@ -349,26 +349,8 @@
             "channel_name": "추억의 멜로디 7080",
             "category": "People & Blogs",
             "duration": "50:19",
-            "view_count": "8428",
+            "view_count": "8665",
             "thumbnail_url": "https://i.ytimg.com/vi/aVkFbGwawm4/hqdefault.jpg"
-        },
-        {
-            "video_id": "45UibC9ISJE",
-            "title": "멜로우 아파서 촬영 가능할까?! 대신 평학이가 팀나빠의 새로운 리더?!",
-            "channel_name": "멜로우TV",
-            "category": "Gaming",
-            "duration": "12:33",
-            "view_count": "313559",
-            "thumbnail_url": "https://i.ytimg.com/vi/45UibC9ISJE/hqdefault.jpg"
-        },
-        {
-            "video_id": "xgokuFPrNOs",
-            "title": "Monday Blues",
-            "channel_name": "Crush - Topic",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "36510",
-            "thumbnail_url": "https://i.ytimg.com/vi/xgokuFPrNOs/hqdefault.jpg"
         },
         {
             "video_id": "zkLCp7nb0Bc",
@@ -376,8 +358,26 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "44:31",
-            "view_count": "140859",
+            "view_count": "143474",
             "thumbnail_url": "https://i.ytimg.com/vi/zkLCp7nb0Bc/hqdefault.jpg"
+        },
+        {
+            "video_id": "6CJUnVKtLQ4",
+            "title": "To You Again",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "4:20",
+            "view_count": "35510",
+            "thumbnail_url": "https://i.ytimg.com/vi/6CJUnVKtLQ4/hqdefault.jpg"
+        },
+        {
+            "video_id": "45UibC9ISJE",
+            "title": "멜로우 아파서 촬영 가능할까?! 대신 평학이가 팀나빠의 새로운 리더?!",
+            "channel_name": "멜로우TV",
+            "category": "Gaming",
+            "duration": "12:33",
+            "view_count": "317284",
+            "thumbnail_url": "https://i.ytimg.com/vi/45UibC9ISJE/hqdefault.jpg"
         }
     ]
 }
