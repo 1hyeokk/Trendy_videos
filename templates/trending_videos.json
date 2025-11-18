@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-19 03:33:23",
+    "scraped_time": "2025-11-19 04:18:06",
     "videos": [
         {
             "video_id": "OgEwJ8a1OoY",
@@ -7,7 +7,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "6903849",
+            "view_count": "6968853",
             "thumbnail_url": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "JTBC Drama",
             "category": "Entertainment",
             "duration": "0:44",
-            "view_count": "265426",
+            "view_count": "266153",
             "thumbnail_url": "https://i.ytimg.com/vi/SVsE3SdbCqo/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "7:10",
-            "view_count": "1864980",
+            "view_count": "1867454",
             "thumbnail_url": "https://i.ytimg.com/vi/WFUmexn_zfg/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "ALLDAY PROJECT - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "609615",
+            "view_count": "612567",
             "thumbnail_url": "https://i.ytimg.com/vi/tGrZUfRADgs/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "9:41",
-            "view_count": "347197",
+            "view_count": "347888",
             "thumbnail_url": "https://i.ytimg.com/vi/RUfOcEmgp_Q/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "20:16",
-            "view_count": "698575",
+            "view_count": "703432",
             "thumbnail_url": "https://i.ytimg.com/vi/fZUP3fPYL54/hqdefault.jpg"
         },
         {
@@ -61,44 +61,8 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "4024497",
+            "view_count": "4070765",
             "thumbnail_url": "https://i.ytimg.com/vi/wvtNmMmcAYw/hqdefault.jpg"
-        },
-        {
-            "video_id": "XLoNnw7ody0",
-            "title": "삼자택일 | 멸망전 EP.3",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "42:01",
-            "view_count": "189805",
-            "thumbnail_url": "https://i.ytimg.com/vi/XLoNnw7ody0/hqdefault.jpg"
-        },
-        {
-            "video_id": "D5MtRNQBVbk",
-            "title": "BLUE (WINTER Solo)",
-            "channel_name": "aespa - Topic",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "309612",
-            "thumbnail_url": "https://i.ytimg.com/vi/D5MtRNQBVbk/hqdefault.jpg"
-        },
-        {
-            "video_id": "VEfAHxKQ48Q",
-            "title": "4성 아타칸",
-            "channel_name": "승상싱",
-            "category": "Gaming",
-            "duration": "12:08",
-            "view_count": "513534",
-            "thumbnail_url": "https://i.ytimg.com/vi/VEfAHxKQ48Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "-W6tkMEKgmc",
-            "title": "Beat It Up",
-            "channel_name": "NCT DREAM - Topic",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "180779",
-            "thumbnail_url": "https://i.ytimg.com/vi/-W6tkMEKgmc/hqdefault.jpg"
         },
         {
             "video_id": "eMFMux5d5Cc",
@@ -106,17 +70,35 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "34:46",
-            "view_count": "189230",
+            "view_count": "193851",
             "thumbnail_url": "https://i.ytimg.com/vi/eMFMux5d5Cc/hqdefault.jpg"
         },
         {
-            "video_id": "p119468NiY0",
-            "title": "Choose",
-            "channel_name": "ATEEZ - Topic",
+            "video_id": "D5MtRNQBVbk",
+            "title": "BLUE (WINTER Solo)",
+            "channel_name": "aespa - Topic",
             "category": "Music",
-            "duration": "3:07",
-            "view_count": "183856",
-            "thumbnail_url": "https://i.ytimg.com/vi/p119468NiY0/hqdefault.jpg"
+            "duration": "3:32",
+            "view_count": "312211",
+            "thumbnail_url": "https://i.ytimg.com/vi/D5MtRNQBVbk/hqdefault.jpg"
+        },
+        {
+            "video_id": "XLoNnw7ody0",
+            "title": "삼자택일 | 멸망전 EP.3",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "42:01",
+            "view_count": "192015",
+            "thumbnail_url": "https://i.ytimg.com/vi/XLoNnw7ody0/hqdefault.jpg"
+        },
+        {
+            "video_id": "-W6tkMEKgmc",
+            "title": "Beat It Up",
+            "channel_name": "NCT DREAM - Topic",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "181958",
+            "thumbnail_url": "https://i.ytimg.com/vi/-W6tkMEKgmc/hqdefault.jpg"
         },
         {
             "video_id": "bzbJ2KtpQhw",
@@ -124,8 +106,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "47:17",
-            "view_count": "150629",
+            "view_count": "153494",
             "thumbnail_url": "https://i.ytimg.com/vi/bzbJ2KtpQhw/hqdefault.jpg"
+        },
+        {
+            "video_id": "p119468NiY0",
+            "title": "Choose",
+            "channel_name": "ATEEZ - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "185189",
+            "thumbnail_url": "https://i.ytimg.com/vi/p119468NiY0/hqdefault.jpg"
+        },
+        {
+            "video_id": "VEfAHxKQ48Q",
+            "title": "4성 아타칸",
+            "channel_name": "승상싱",
+            "category": "Gaming",
+            "duration": "12:08",
+            "view_count": "515319",
+            "thumbnail_url": "https://i.ytimg.com/vi/VEfAHxKQ48Q/hqdefault.jpg"
         },
         {
             "video_id": "E8N8CAihLT0",
@@ -133,7 +133,7 @@
             "channel_name": "Kenshi Yonezu  米津玄師",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "1000539",
+            "view_count": "1032544",
             "thumbnail_url": "https://i.ytimg.com/vi/E8N8CAihLT0/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "19:59",
-            "view_count": "364981",
+            "view_count": "367802",
             "thumbnail_url": "https://i.ytimg.com/vi/iDVhazUB1jU/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "미스틱스토리 MYSTIC STORY",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "15763",
+            "view_count": "16404",
             "thumbnail_url": "https://i.ytimg.com/vi/VSvR3Mpqreo/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "스맵",
             "category": "Gaming",
             "duration": "46:07",
-            "view_count": "111936",
+            "view_count": "112752",
             "thumbnail_url": "https://i.ytimg.com/vi/n7VnZPLDLpk/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "TOUCHED - Topic",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "89620",
+            "view_count": "89850",
             "thumbnail_url": "https://i.ytimg.com/vi/ZlfBhlKXNn4/hqdefault.jpg"
         },
         {
@@ -178,80 +178,8 @@
             "channel_name": "붐바야",
             "category": "Gaming",
             "duration": "3:55",
-            "view_count": "410950",
+            "view_count": "411075",
             "thumbnail_url": "https://i.ytimg.com/vi/FRIVEbbAu6U/hqdefault.jpg"
-        },
-        {
-            "video_id": "iPKS24wRFnQ",
-            "title": "한마디면 돼요",
-            "channel_name": "WENDY - Topic",
-            "category": "Music",
-            "duration": "4:12",
-            "view_count": "56904",
-            "thumbnail_url": "https://i.ytimg.com/vi/iPKS24wRFnQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "_XBkkEIbGHo",
-            "title": "【대회】  구마유시 선수가 정말 이적합니다 ㄷㄷ / 유력 후보는 페이즈 / 구마 다음 행선지는 한화?  - 롤 이스포츠",
-            "channel_name": "THIRD[롤 백과사전]",
-            "category": "Gaming",
-            "duration": "2:14",
-            "view_count": "512438",
-            "thumbnail_url": "https://i.ytimg.com/vi/_XBkkEIbGHo/hqdefault.jpg"
-        },
-        {
-            "video_id": "vw8kPbQIYu0",
-            "title": "차 안에서 듣는 트로트 | 드라이브 음악💖하루 종일 듣기 좋은 노래 모음🎶흘러간 옛노래 뽕짝 메들리 가사 포함,추억의 트로트 명곡 모음💿 잊을 수 없는 그 시절의 감성",
-            "channel_name": "Sora Tide",
-            "category": "People & Blogs",
-            "duration": "46:20",
-            "view_count": "19801",
-            "thumbnail_url": "https://i.ytimg.com/vi/vw8kPbQIYu0/hqdefault.jpg"
-        },
-        {
-            "video_id": "tSlKVN2eVUg",
-            "title": "농장에서 고양이를 피해 숨어야 한다? 😺신박한 농장 꼬리잡기🐾",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "28:11",
-            "view_count": "130599",
-            "thumbnail_url": "https://i.ytimg.com/vi/tSlKVN2eVUg/hqdefault.jpg"
-        },
-        {
-            "video_id": "cslQ64TO6rk",
-            "title": "최유리 - 숙녀에게 & 내게 남은 사랑을 드릴께요 (Live from 최유리 콘서트 2025 : 머무름)",
-            "channel_name": "최유리 Choi Yu Ree",
-            "category": "Music",
-            "duration": "7:52",
-            "view_count": "60524",
-            "thumbnail_url": "https://i.ytimg.com/vi/cslQ64TO6rk/hqdefault.jpg"
-        },
-        {
-            "video_id": "TRgmLeg3Yc0",
-            "title": "다친 사슴을 위해 세상에서 제일좋은 병원 만들어주기!! 그리고 99일동안 사슴 치료 안해주면 어떻게 될까!? (로블록스 99나이트 인더 포레스트)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "28:03",
-            "view_count": "111517",
-            "thumbnail_url": "https://i.ytimg.com/vi/TRgmLeg3Yc0/hqdefault.jpg"
-        },
-        {
-            "video_id": "uSWjra9-osc",
-            "title": "Love X Friends",
-            "channel_name": "Kassy - Topic",
-            "category": "Music",
-            "duration": "2:45",
-            "view_count": "127904",
-            "thumbnail_url": "https://i.ytimg.com/vi/uSWjra9-osc/hqdefault.jpg"
-        },
-        {
-            "video_id": "cqPFA3bC9t0",
-            "title": "결국 T1이 공개한 구마유시 이적 이야기.. 한화 구마유시부터 T1 페이즈까지, 바이퍼는 LPL으로 이적??? 그냥 역대급으로 난리난 혼돈의 LCK..",
-            "channel_name": "티모준위",
-            "category": "Gaming",
-            "duration": "3:34",
-            "view_count": "415404",
-            "thumbnail_url": "https://i.ytimg.com/vi/cqPFA3bC9t0/hqdefault.jpg"
         },
         {
             "video_id": "3L-v6Xh64FE",
@@ -259,62 +187,62 @@
             "channel_name": "KISS OF LIFE",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "110549",
+            "view_count": "116212",
             "thumbnail_url": "https://i.ytimg.com/vi/3L-v6Xh64FE/hqdefault.jpg"
         },
         {
-            "video_id": "KroOhCVOVcs",
-            "title": "\"한 사람만 행복한 멸망전\" 어떻게든 팀을 지키려는 이상호의 눈물똥꼬쇼..!【멸망전 Ep. 2】",
+            "video_id": "_XBkkEIbGHo",
+            "title": "【대회】  구마유시 선수가 정말 이적합니다 ㄷㄷ / 유력 후보는 페이즈 / 구마 다음 행선지는 한화?  - 롤 이스포츠",
+            "channel_name": "THIRD[롤 백과사전]",
+            "category": "Gaming",
+            "duration": "2:14",
+            "view_count": "512657",
+            "thumbnail_url": "https://i.ytimg.com/vi/_XBkkEIbGHo/hqdefault.jpg"
+        },
+        {
+            "video_id": "cslQ64TO6rk",
+            "title": "최유리 - 숙녀에게 & 내게 남은 사랑을 드릴께요 (Live from 최유리 콘서트 2025 : 머무름)",
+            "channel_name": "최유리 Choi Yu Ree",
+            "category": "Music",
+            "duration": "7:52",
+            "view_count": "60847",
+            "thumbnail_url": "https://i.ytimg.com/vi/cslQ64TO6rk/hqdefault.jpg"
+        },
+        {
+            "video_id": "tSlKVN2eVUg",
+            "title": "농장에서 고양이를 피해 숨어야 한다? 😺신박한 농장 꼬리잡기🐾",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "28:11",
+            "view_count": "132031",
+            "thumbnail_url": "https://i.ytimg.com/vi/tSlKVN2eVUg/hqdefault.jpg"
+        },
+        {
+            "video_id": "iPKS24wRFnQ",
+            "title": "한마디면 돼요",
+            "channel_name": "WENDY - Topic",
+            "category": "Music",
+            "duration": "4:12",
+            "view_count": "57461",
+            "thumbnail_url": "https://i.ytimg.com/vi/iPKS24wRFnQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "_1YGzl_mDpI",
+            "title": "\"얘들아 이게 무슨 말이야?\" 팀원들 속마음 듣고 멘탈 터져버린 이상호..!【멸망전 Ep. 3】",
             "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "26:58",
-            "view_count": "211927",
-            "thumbnail_url": "https://i.ytimg.com/vi/KroOhCVOVcs/hqdefault.jpg"
+            "duration": "35:13",
+            "view_count": "139455",
+            "thumbnail_url": "https://i.ytimg.com/vi/_1YGzl_mDpI/hqdefault.jpg"
         },
         {
-            "video_id": "EoUtUAB_MGE",
-            "title": "그날의 우리",
-            "channel_name": "오현우 - Topic",
-            "category": "Music",
-            "duration": "4:17",
-            "view_count": "18702",
-            "thumbnail_url": "https://i.ytimg.com/vi/EoUtUAB_MGE/hqdefault.jpg"
-        },
-        {
-            "video_id": "yFN9Lfl7kLM",
-            "title": "15시즌 챌린저 달리기 12화 : 암살자 카르텔",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "28:03",
-            "view_count": "102566",
-            "thumbnail_url": "https://i.ytimg.com/vi/yFN9Lfl7kLM/hqdefault.jpg"
-        },
-        {
-            "video_id": "sfkjxLioWUk",
-            "title": "Up & Down",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "4:04",
-            "view_count": "45060",
-            "thumbnail_url": "https://i.ytimg.com/vi/sfkjxLioWUk/hqdefault.jpg"
-        },
-        {
-            "video_id": "Bl7c_Wxd78w",
-            "title": "스카웃이 농심으로 온다고..?ㄷ 한화생명 슈퍼팀 탄생과 구마유시 이적 이유 ㄷㄷ LCK 스토브리그 진짜 미쳤다.. T1",
-            "channel_name": "아리tv-롤정보통",
-            "category": "Gaming",
-            "duration": "4:02",
-            "view_count": "171844",
-            "thumbnail_url": "https://i.ytimg.com/vi/Bl7c_Wxd78w/hqdefault.jpg"
-        },
-        {
-            "video_id": "B_8vbqwGNb0",
-            "title": "Breath",
-            "channel_name": "Purple Kiss - Topic",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "57680",
-            "thumbnail_url": "https://i.ytimg.com/vi/B_8vbqwGNb0/hqdefault.jpg"
+            "video_id": "vw8kPbQIYu0",
+            "title": "차 안에서 듣는 트로트 | 드라이브 음악💖하루 종일 듣기 좋은 노래 모음🎶흘러간 옛노래 뽕짝 메들리 가사 포함,추억의 트로트 명곡 모음💿 잊을 수 없는 그 시절의 감성",
+            "channel_name": "Sora Tide",
+            "category": "People & Blogs",
+            "duration": "46:20",
+            "view_count": "19862",
+            "thumbnail_url": "https://i.ytimg.com/vi/vw8kPbQIYu0/hqdefault.jpg"
         },
         {
             "video_id": "50fh-bZH3G0",
@@ -322,8 +250,98 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:30",
-            "view_count": "132593",
+            "view_count": "137834",
             "thumbnail_url": "https://i.ytimg.com/vi/50fh-bZH3G0/hqdefault.jpg"
+        },
+        {
+            "video_id": "uSWjra9-osc",
+            "title": "Love X Friends",
+            "channel_name": "Kassy - Topic",
+            "category": "Music",
+            "duration": "2:45",
+            "view_count": "128062",
+            "thumbnail_url": "https://i.ytimg.com/vi/uSWjra9-osc/hqdefault.jpg"
+        },
+        {
+            "video_id": "yFN9Lfl7kLM",
+            "title": "15시즌 챌린저 달리기 12화 : 암살자 카르텔",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "28:03",
+            "view_count": "106815",
+            "thumbnail_url": "https://i.ytimg.com/vi/yFN9Lfl7kLM/hqdefault.jpg"
+        },
+        {
+            "video_id": "EoUtUAB_MGE",
+            "title": "그날의 우리",
+            "channel_name": "오현우 - Topic",
+            "category": "Music",
+            "duration": "4:17",
+            "view_count": "18813",
+            "thumbnail_url": "https://i.ytimg.com/vi/EoUtUAB_MGE/hqdefault.jpg"
+        },
+        {
+            "video_id": "w2j-q3lX9LU",
+            "title": "버프된 선공+환급+삼중물약으로 초패스트 풀템 띄우는 \"돈에 미친 케넨 전략\" 🐭⚡",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "23:18",
+            "view_count": "97815",
+            "thumbnail_url": "https://i.ytimg.com/vi/w2j-q3lX9LU/hqdefault.jpg"
+        },
+        {
+            "video_id": "sfkjxLioWUk",
+            "title": "Up & Down",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "4:04",
+            "view_count": "45159",
+            "thumbnail_url": "https://i.ytimg.com/vi/sfkjxLioWUk/hqdefault.jpg"
+        },
+        {
+            "video_id": "NPcZ0NuW78M",
+            "title": "게임 시작 전부터 미리 잔인할 예정이라고 사과하는 상대, 곧바로 알파고를 숨도 못 쉬게 압도하기 시작하는데!?ㄷㄷ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "59:13",
+            "view_count": "91087",
+            "thumbnail_url": "https://i.ytimg.com/vi/NPcZ0NuW78M/hqdefault.jpg"
+        },
+        {
+            "video_id": "B_8vbqwGNb0",
+            "title": "Breath",
+            "channel_name": "Purple Kiss - Topic",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "57921",
+            "thumbnail_url": "https://i.ytimg.com/vi/B_8vbqwGNb0/hqdefault.jpg"
+        },
+        {
+            "video_id": "TRgmLeg3Yc0",
+            "title": "다친 사슴을 위해 세상에서 제일좋은 병원 만들어주기!! 그리고 99일동안 사슴 치료 안해주면 어떻게 될까!? (로블록스 99나이트 인더 포레스트)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "28:03",
+            "view_count": "111694",
+            "thumbnail_url": "https://i.ytimg.com/vi/TRgmLeg3Yc0/hqdefault.jpg"
+        },
+        {
+            "video_id": "eP4cvTgvRys",
+            "title": "당신을 위하여 - 더크로스 김혁건x이보람 / 이보람 (Lee Boram) [보람씨야]",
+            "channel_name": "보람씨야",
+            "category": "Music",
+            "duration": "3:55",
+            "view_count": "11158",
+            "thumbnail_url": "https://i.ytimg.com/vi/eP4cvTgvRys/hqdefault.jpg"
+        },
+        {
+            "video_id": "KK7eB5MRan8",
+            "title": "South Korea vs Ghana | International Friendly Football Match 2025 | PES 21 Simulation Gameplay",
+            "channel_name": "Football Gamer Rony",
+            "category": "Gaming",
+            "duration": "15:16",
+            "view_count": "172522",
+            "thumbnail_url": "https://i.ytimg.com/vi/KK7eB5MRan8/hqdefault.jpg"
         },
         {
             "video_id": "DmhdkI3UU8M",
@@ -331,17 +349,17 @@
             "channel_name": "Paul Kim - Topic",
             "category": "Music",
             "duration": "2:00",
-            "view_count": "20740",
+            "view_count": "20818",
             "thumbnail_url": "https://i.ytimg.com/vi/DmhdkI3UU8M/hqdefault.jpg"
         },
         {
-            "video_id": "47I3fVInM6U",
-            "title": "[마비노기 모바일] 캠파 LIVE | 25.11.17",
-            "channel_name": "마비노기 모바일",
+            "video_id": "cqPFA3bC9t0",
+            "title": "결국 T1이 공개한 구마유시 이적 이야기.. 한화 구마유시부터 T1 페이즈까지, 바이퍼는 LPL으로 이적??? 그냥 역대급으로 난리난 혼돈의 LCK..",
+            "channel_name": "티모준위",
             "category": "Gaming",
-            "duration": "54:19",
-            "view_count": "86958",
-            "thumbnail_url": "https://i.ytimg.com/vi/47I3fVInM6U/hqdefault.jpg"
+            "duration": "3:34",
+            "view_count": "415725",
+            "thumbnail_url": "https://i.ytimg.com/vi/cqPFA3bC9t0/hqdefault.jpg"
         },
         {
             "video_id": "vtlVwu3Bm8Y",
@@ -349,26 +367,8 @@
             "channel_name": "DIMO REX - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "50148",
+            "view_count": "50278",
             "thumbnail_url": "https://i.ytimg.com/vi/vtlVwu3Bm8Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "rZTbcMIxu0I",
-            "title": "배그 석궁 킬당 5만원 미션",
-            "channel_name": "주키니TV",
-            "category": "Gaming",
-            "duration": "19:37",
-            "view_count": "182687",
-            "thumbnail_url": "https://i.ytimg.com/vi/rZTbcMIxu0I/hqdefault.jpg"
-        },
-        {
-            "video_id": "_-ADm34ETso",
-            "title": "Song For Youth (시시한 청춘에 남기는 노래)",
-            "channel_name": "UmYull - Topic",
-            "category": "Music",
-            "duration": "3:41",
-            "view_count": "31658",
-            "thumbnail_url": "https://i.ytimg.com/vi/_-ADm34ETso/hqdefault.jpg"
         },
         {
             "video_id": "dt_UrHUXGjE",
@@ -376,7 +376,7 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "16:16",
-            "view_count": "91410",
+            "view_count": "92473",
             "thumbnail_url": "https://i.ytimg.com/vi/dt_UrHUXGjE/hqdefault.jpg"
         }
     ]
