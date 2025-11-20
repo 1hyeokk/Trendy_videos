@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-20 13:26:04",
+    "scraped_time": "2025-11-20 14:22:20",
     "videos": [
         {
             "video_id": "tGrZUfRADgs",
@@ -7,7 +7,7 @@
             "channel_name": "ALLDAY PROJECT - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "1313183",
+            "view_count": "1335506",
             "thumbnail_url": "https://i.ytimg.com/vi/tGrZUfRADgs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "JTBC Drama",
             "category": "Entertainment",
             "duration": "0:44",
-            "view_count": "301948",
+            "view_count": "301435",
             "thumbnail_url": "https://i.ytimg.com/vi/SVsE3SdbCqo/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "40:20",
-            "view_count": "224667",
+            "view_count": "229066",
             "thumbnail_url": "https://i.ytimg.com/vi/H0q0an5iqdc/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "8679350",
+            "view_count": "8700401",
             "thumbnail_url": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Disney Korea",
             "category": "Entertainment",
             "duration": "1:08",
-            "view_count": "651608",
+            "view_count": "656481",
             "thumbnail_url": "https://i.ytimg.com/vi/_OEimioamfI/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "27:26",
-            "view_count": "232183",
+            "view_count": "238323",
             "thumbnail_url": "https://i.ytimg.com/vi/PzWtt7NxuQg/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "4:21",
-            "view_count": "189744",
+            "view_count": "195828",
             "thumbnail_url": "https://i.ytimg.com/vi/yEHkBifsHPY/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
             "duration": "26:32",
-            "view_count": "243903",
+            "view_count": "254533",
             "thumbnail_url": "https://i.ytimg.com/vi/YpHfBBwlL7c/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "BABYMONSTER",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "12741009",
+            "view_count": "12876111",
             "thumbnail_url": "https://i.ytimg.com/vi/yd_uG3TtREs/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "더블비",
             "category": "Comedy",
             "duration": "22:31",
-            "view_count": "250763",
+            "view_count": "257106",
             "thumbnail_url": "https://i.ytimg.com/vi/xTiNHqotO_o/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "6503717",
+            "view_count": "6587342",
             "thumbnail_url": "https://i.ytimg.com/vi/wvtNmMmcAYw/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZoSYcPuIYHU",
-            "title": "[LIVE] 아이온2 긴급 라이브 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "32:15",
-            "view_count": "161704",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZoSYcPuIYHU/hqdefault.jpg"
-        },
-        {
-            "video_id": "D5MtRNQBVbk",
-            "title": "BLUE (WINTER Solo)",
-            "channel_name": "aespa - Topic",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "464699",
-            "thumbnail_url": "https://i.ytimg.com/vi/D5MtRNQBVbk/hqdefault.jpg"
         },
         {
             "video_id": "zTVIDUqx27o",
@@ -124,8 +106,26 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "35:57",
-            "view_count": "241095",
+            "view_count": "247071",
             "thumbnail_url": "https://i.ytimg.com/vi/zTVIDUqx27o/hqdefault.jpg"
+        },
+        {
+            "video_id": "D5MtRNQBVbk",
+            "title": "BLUE (WINTER Solo)",
+            "channel_name": "aespa - Topic",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "468604",
+            "thumbnail_url": "https://i.ytimg.com/vi/D5MtRNQBVbk/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZoSYcPuIYHU",
+            "title": "[LIVE] 아이온2 긴급 라이브 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "32:15",
+            "view_count": "162243",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZoSYcPuIYHU/hqdefault.jpg"
         },
         {
             "video_id": "E8N8CAihLT0",
@@ -133,7 +133,7 @@
             "channel_name": "Kenshi Yonezu  米津玄師",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "2000369",
+            "view_count": "2013454",
             "thumbnail_url": "https://i.ytimg.com/vi/E8N8CAihLT0/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "제이게임채널",
             "category": "Gaming",
             "duration": "7:07",
-            "view_count": "106430",
+            "view_count": "108019",
             "thumbnail_url": "https://i.ytimg.com/vi/NlF4eziOpfY/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "NCT DREAM - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "274311",
+            "view_count": "277052",
             "thumbnail_url": "https://i.ytimg.com/vi/-W6tkMEKgmc/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "센터로드TV",
             "category": "Gaming",
             "duration": "14:03",
-            "view_count": "118151",
+            "view_count": "118875",
             "thumbnail_url": "https://i.ytimg.com/vi/ygQ_k4hxUT0/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "미스틱스토리 MYSTIC STORY",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "65894",
+            "view_count": "67529",
             "thumbnail_url": "https://i.ytimg.com/vi/VSvR3Mpqreo/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "7:10",
-            "view_count": "1950162",
+            "view_count": "1951501",
             "thumbnail_url": "https://i.ytimg.com/vi/WFUmexn_zfg/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "Yorushika - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "59514",
+            "view_count": "61102",
             "thumbnail_url": "https://i.ytimg.com/vi/IlzOOT8uE84/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "탱커킹",
             "category": "Gaming",
             "duration": "11:55:00",
-            "view_count": "216124",
+            "view_count": "217079",
             "thumbnail_url": "https://i.ytimg.com/vi/ZFHkiuPlSDA/hqdefault.jpg"
         },
         {
@@ -205,26 +205,8 @@
             "channel_name": "ATEEZ - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "239032",
+            "view_count": "240217",
             "thumbnail_url": "https://i.ytimg.com/vi/p119468NiY0/hqdefault.jpg"
-        },
-        {
-            "video_id": "Kj6xhomFIHk",
-            "title": "멸망전 팀 완전체 첫 스크림에서 나온 레전드 매장각ㅋㅋㅋ 【롤 멸망전 EP.09】",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "27:00",
-            "view_count": "119512",
-            "thumbnail_url": "https://i.ytimg.com/vi/Kj6xhomFIHk/hqdefault.jpg"
-        },
-        {
-            "video_id": "cmmdyfokecc",
-            "title": "사랑이란 배워가는 거야",
-            "channel_name": "LEEWOO - Topic",
-            "category": "Music",
-            "duration": "4:04",
-            "view_count": "43027",
-            "thumbnail_url": "https://i.ytimg.com/vi/cmmdyfokecc/hqdefault.jpg"
         },
         {
             "video_id": "QDHwzm4kyE0",
@@ -232,7 +214,7 @@
             "channel_name": "붐바야",
             "category": "Gaming",
             "duration": "4:37",
-            "view_count": "306007",
+            "view_count": "309493",
             "thumbnail_url": "https://i.ytimg.com/vi/QDHwzm4kyE0/hqdefault.jpg"
         },
         {
@@ -241,8 +223,26 @@
             "channel_name": "Baby DONT Cry - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "16480",
+            "view_count": "17854",
             "thumbnail_url": "https://i.ytimg.com/vi/ClVqBH3arZ8/hqdefault.jpg"
+        },
+        {
+            "video_id": "Kj6xhomFIHk",
+            "title": "멸망전 팀 완전체 첫 스크림에서 나온 레전드 매장각ㅋㅋㅋ 【롤 멸망전 EP.09】",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "27:00",
+            "view_count": "121327",
+            "thumbnail_url": "https://i.ytimg.com/vi/Kj6xhomFIHk/hqdefault.jpg"
+        },
+        {
+            "video_id": "cmmdyfokecc",
+            "title": "사랑이란 배워가는 거야",
+            "channel_name": "LEEWOO - Topic",
+            "category": "Music",
+            "duration": "4:04",
+            "view_count": "43732",
+            "thumbnail_url": "https://i.ytimg.com/vi/cmmdyfokecc/hqdefault.jpg"
         },
         {
             "video_id": "AZ_cGeoDCdM",
@@ -250,26 +250,8 @@
             "channel_name": "게임하는인기",
             "category": "Gaming",
             "duration": "8:19",
-            "view_count": "93619",
+            "view_count": "96660",
             "thumbnail_url": "https://i.ytimg.com/vi/AZ_cGeoDCdM/hqdefault.jpg"
-        },
-        {
-            "video_id": "S90X8XK0Cs8",
-            "title": "Vaundy - 前前前世 / Zenzenzense [Audio]",
-            "channel_name": "RADWIMPS",
-            "category": "Music",
-            "duration": "4:23",
-            "view_count": "1459067",
-            "thumbnail_url": "https://i.ytimg.com/vi/S90X8XK0Cs8/hqdefault.jpg"
-        },
-        {
-            "video_id": "YKwWfSU7O-0",
-            "title": "로스 타코 럭블 등장에 \"새로운 OG\" 예고까지!? 희귀 돌연변이까지 마구마구 뿌려버린 새미 ㄷㄷㄷ 최종 로스 시크릿까지 싹다 얻어보자!! (로블록스 브레인롯훔치기)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "27:54",
-            "view_count": "183354",
-            "thumbnail_url": "https://i.ytimg.com/vi/YKwWfSU7O-0/hqdefault.jpg"
         },
         {
             "video_id": "9UsQAfKm6d0",
@@ -277,17 +259,35 @@
             "channel_name": "Vaundy - Topic",
             "category": "Music",
             "duration": "4:23",
-            "view_count": "48436",
+            "view_count": "50675",
             "thumbnail_url": "https://i.ytimg.com/vi/9UsQAfKm6d0/hqdefault.jpg"
         },
         {
-            "video_id": "QdkETiKpBk4",
-            "title": "유튜브 촬영팀이라더니 저튜브 촬영팀이었어?ㅋㅋㅋㅋ",
+            "video_id": "YKwWfSU7O-0",
+            "title": "로스 타코 럭블 등장에 \"새로운 OG\" 예고까지!? 희귀 돌연변이까지 마구마구 뿌려버린 새미 ㄷㄷㄷ 최종 로스 시크릿까지 싹다 얻어보자!! (로블록스 브레인롯훔치기)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "27:54",
+            "view_count": "183908",
+            "thumbnail_url": "https://i.ytimg.com/vi/YKwWfSU7O-0/hqdefault.jpg"
+        },
+        {
+            "video_id": "S90X8XK0Cs8",
+            "title": "Vaundy - 前前前世 / Zenzenzense [Audio]",
+            "channel_name": "RADWIMPS",
+            "category": "Music",
+            "duration": "4:23",
+            "view_count": "1477920",
+            "thumbnail_url": "https://i.ytimg.com/vi/S90X8XK0Cs8/hqdefault.jpg"
+        },
+        {
+            "video_id": "JzZvR48fS7c",
+            "title": "우리가 조금만 더 일찍 만났더라면..",
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "40:09",
-            "view_count": "154311",
-            "thumbnail_url": "https://i.ytimg.com/vi/QdkETiKpBk4/hqdefault.jpg"
+            "duration": "41:11",
+            "view_count": "111804",
+            "thumbnail_url": "https://i.ytimg.com/vi/JzZvR48fS7c/hqdefault.jpg"
         },
         {
             "video_id": "eP4cvTgvRys",
@@ -295,7 +295,7 @@
             "channel_name": "보람씨야",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "34455",
+            "view_count": "34871",
             "thumbnail_url": "https://i.ytimg.com/vi/eP4cvTgvRys/hqdefault.jpg"
         },
         {
@@ -304,26 +304,8 @@
             "channel_name": "티모준위",
             "category": "Gaming",
             "duration": "3:35",
-            "view_count": "197510",
+            "view_count": "204662",
             "thumbnail_url": "https://i.ytimg.com/vi/LDSQ4J8OFq4/hqdefault.jpg"
-        },
-        {
-            "video_id": "iPKS24wRFnQ",
-            "title": "한마디면 돼요",
-            "channel_name": "WENDY - Topic",
-            "category": "Music",
-            "duration": "4:12",
-            "view_count": "111053",
-            "thumbnail_url": "https://i.ytimg.com/vi/iPKS24wRFnQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "XiIu5jxwCOQ",
-            "title": "15시즌 챌린저 달리기 13화 : 내다 버린 4일 (씨엘님 초대석)",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "1:16:50",
-            "view_count": "121027",
-            "thumbnail_url": "https://i.ytimg.com/vi/XiIu5jxwCOQ/hqdefault.jpg"
         },
         {
             "video_id": "U4EqyI_WzA0",
@@ -331,26 +313,26 @@
             "channel_name": "ZUTOMAYO - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "208856",
+            "view_count": "213761",
             "thumbnail_url": "https://i.ytimg.com/vi/U4EqyI_WzA0/hqdefault.jpg"
         },
         {
-            "video_id": "rmH3M23wfqQ",
-            "title": "[아이온2] 유저분들 죄송합니다 - 모든걸 바꾸겠습니다 / 자동모드 추가, 수호성,치유성 상향, BM삭제등",
-            "channel_name": "쵸튜브[쵸피]",
+            "video_id": "XiIu5jxwCOQ",
+            "title": "15시즌 챌린저 달리기 13화 : 내다 버린 4일 (씨엘님 초대석)",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "5:39",
-            "view_count": "92935",
-            "thumbnail_url": "https://i.ytimg.com/vi/rmH3M23wfqQ/hqdefault.jpg"
+            "duration": "1:16:50",
+            "view_count": "124210",
+            "thumbnail_url": "https://i.ytimg.com/vi/XiIu5jxwCOQ/hqdefault.jpg"
         },
         {
-            "video_id": "_ESM7qjOvE4",
-            "title": "7080 카페음악모음 ✨ ☕ 중년의 여유를 담은 커피 음악 컬렉션 📺📺그집앞/바람바람바람/잊혀진 사랑/아득히먼곳/어느 60대 노부부 이야기",
-            "channel_name": "JUN FM",
-            "category": "People & Blogs",
-            "duration": "53:09",
-            "view_count": "12908",
-            "thumbnail_url": "https://i.ytimg.com/vi/_ESM7qjOvE4/hqdefault.jpg"
+            "video_id": "iPKS24wRFnQ",
+            "title": "한마디면 돼요",
+            "channel_name": "WENDY - Topic",
+            "category": "Music",
+            "duration": "4:12",
+            "view_count": "112186",
+            "thumbnail_url": "https://i.ytimg.com/vi/iPKS24wRFnQ/hqdefault.jpg"
         },
         {
             "video_id": "iJzb6SfKooA",
@@ -358,8 +340,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "50:41",
-            "view_count": "143858",
+            "view_count": "145128",
             "thumbnail_url": "https://i.ytimg.com/vi/iJzb6SfKooA/hqdefault.jpg"
+        },
+        {
+            "video_id": "_ESM7qjOvE4",
+            "title": "7080 카페음악모음 ✨ ☕ 중년의 여유를 담은 커피 음악 컬렉션 📺📺그집앞/바람바람바람/잊혀진 사랑/아득히먼곳/어느 60대 노부부 이야기",
+            "channel_name": "JUN FM",
+            "category": "People & Blogs",
+            "duration": "53:09",
+            "view_count": "13113",
+            "thumbnail_url": "https://i.ytimg.com/vi/_ESM7qjOvE4/hqdefault.jpg"
+        },
+        {
+            "video_id": "rmH3M23wfqQ",
+            "title": "[아이온2] 유저분들 죄송합니다 - 모든걸 바꾸겠습니다 / 자동모드 추가, 수호성,치유성 상향, BM삭제등",
+            "channel_name": "쵸튜브[쵸피]",
+            "category": "Gaming",
+            "duration": "5:39",
+            "view_count": "93794",
+            "thumbnail_url": "https://i.ytimg.com/vi/rmH3M23wfqQ/hqdefault.jpg"
         },
         {
             "video_id": "3L-v6Xh64FE",
@@ -367,7 +367,7 @@
             "channel_name": "KISS OF LIFE",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "228571",
+            "view_count": "233901",
             "thumbnail_url": "https://i.ytimg.com/vi/3L-v6Xh64FE/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:18",
-            "view_count": "164513",
+            "view_count": "170551",
             "thumbnail_url": "https://i.ytimg.com/vi/-brQVXKv880/hqdefault.jpg"
         }
     ]
