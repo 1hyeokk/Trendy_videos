@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-21 00:24:12",
+    "scraped_time": "2025-11-21 01:29:51",
     "videos": [
         {
             "video_id": "tGrZUfRADgs",
@@ -7,7 +7,7 @@
             "channel_name": "ALLDAY PROJECT - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "1641989",
+            "view_count": "1661652",
             "thumbnail_url": "https://i.ytimg.com/vi/tGrZUfRADgs/hqdefault.jpg"
         },
         {
@@ -16,17 +16,17 @@
             "channel_name": "JTBC Drama",
             "category": "Entertainment",
             "duration": "0:44",
-            "view_count": "313475",
+            "view_count": "315393",
             "thumbnail_url": "https://i.ytimg.com/vi/SVsE3SdbCqo/hqdefault.jpg"
         },
         {
-            "video_id": "H0q0an5iqdc",
-            "title": "굴복 | 멸망전 EP.5",
-            "channel_name": "클리드",
+            "video_id": "YpHfBBwlL7c",
+            "title": "아이온2은 똥겜일까? 과금요소까지 싹싹 털어봤습니다 | 아이온2 똥갓겜 [테스터훈]",
+            "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
-            "duration": "40:20",
-            "view_count": "256789",
-            "thumbnail_url": "https://i.ytimg.com/vi/H0q0an5iqdc/hqdefault.jpg"
+            "duration": "26:32",
+            "view_count": "346815",
+            "thumbnail_url": "https://i.ytimg.com/vi/YpHfBBwlL7c/hqdefault.jpg"
         },
         {
             "video_id": "OgEwJ8a1OoY",
@@ -34,7 +34,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "9547893",
+            "view_count": "9782675",
             "thumbnail_url": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg"
         },
         {
@@ -43,17 +43,17 @@
             "channel_name": "Disney Korea",
             "category": "Entertainment",
             "duration": "1:08",
-            "view_count": "755886",
+            "view_count": "772876",
             "thumbnail_url": "https://i.ytimg.com/vi/_OEimioamfI/hqdefault.jpg"
         },
         {
-            "video_id": "YpHfBBwlL7c",
-            "title": "아이온2은 똥겜일까? 과금요소까지 싹싹 털어봤습니다 | 아이온2 똥갓겜 [테스터훈]",
-            "channel_name": "테스터훈 TesterHoon",
+            "video_id": "W9ROv7HxOgQ",
+            "title": "\"결과적으로 이상호는 빠졌지만 멸망전에 활기가 돌았습니다\"【멸망전 Ep. 5】",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "26:32",
-            "view_count": "338755",
-            "thumbnail_url": "https://i.ytimg.com/vi/YpHfBBwlL7c/hqdefault.jpg"
+            "duration": "53:14",
+            "view_count": "137265",
+            "thumbnail_url": "https://i.ytimg.com/vi/W9ROv7HxOgQ/hqdefault.jpg"
         },
         {
             "video_id": "yEHkBifsHPY",
@@ -61,7 +61,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "4:21",
-            "view_count": "262299",
+            "view_count": "267222",
             "thumbnail_url": "https://i.ytimg.com/vi/yEHkBifsHPY/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:39",
-            "view_count": "18702",
+            "view_count": "19898",
             "thumbnail_url": "https://i.ytimg.com/vi/saSWLsd4g9A/hqdefault.jpg"
-        },
-        {
-            "video_id": "PzWtt7NxuQg",
-            "title": "롤 대회 이름이 멸망전인 이유...",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "27:26",
-            "view_count": "270518",
-            "thumbnail_url": "https://i.ytimg.com/vi/PzWtt7NxuQg/hqdefault.jpg"
-        },
-        {
-            "video_id": "N_NVmpz5Az8",
-            "title": "LIT",
-            "channel_name": "JUSTHIS - Topic",
-            "category": "Music",
-            "duration": "3:24",
-            "view_count": "102253",
-            "thumbnail_url": "https://i.ytimg.com/vi/N_NVmpz5Az8/hqdefault.jpg"
         },
         {
             "video_id": "xTiNHqotO_o",
@@ -97,8 +79,26 @@
             "channel_name": "더블비",
             "category": "Comedy",
             "duration": "22:31",
-            "view_count": "332246",
+            "view_count": "337984",
             "thumbnail_url": "https://i.ytimg.com/vi/xTiNHqotO_o/hqdefault.jpg"
+        },
+        {
+            "video_id": "N_NVmpz5Az8",
+            "title": "LIT",
+            "channel_name": "JUSTHIS - Topic",
+            "category": "Music",
+            "duration": "3:24",
+            "view_count": "115884",
+            "thumbnail_url": "https://i.ytimg.com/vi/N_NVmpz5Az8/hqdefault.jpg"
+        },
+        {
+            "video_id": "H0q0an5iqdc",
+            "title": "굴복 | 멸망전 EP.5",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "40:20",
+            "view_count": "258914",
+            "thumbnail_url": "https://i.ytimg.com/vi/H0q0an5iqdc/hqdefault.jpg"
         },
         {
             "video_id": "yd_uG3TtREs",
@@ -106,17 +106,17 @@
             "channel_name": "BABYMONSTER",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "16093309",
+            "view_count": "16243347",
             "thumbnail_url": "https://i.ytimg.com/vi/yd_uG3TtREs/hqdefault.jpg"
         },
         {
-            "video_id": "zTVIDUqx27o",
-            "title": "\"얘들아 나 눈 뜬다?\" 결국 익명투표로 결정된 상상깐의 운명【멸망전 Ep. 4】",
-            "channel_name": "이상호",
+            "video_id": "PzWtt7NxuQg",
+            "title": "롤 대회 이름이 멸망전인 이유...",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "35:57",
-            "view_count": "281771",
-            "thumbnail_url": "https://i.ytimg.com/vi/zTVIDUqx27o/hqdefault.jpg"
+            "duration": "27:26",
+            "view_count": "272088",
+            "thumbnail_url": "https://i.ytimg.com/vi/PzWtt7NxuQg/hqdefault.jpg"
         },
         {
             "video_id": "wvtNmMmcAYw",
@@ -124,8 +124,26 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "7261287",
+            "view_count": "7311994",
             "thumbnail_url": "https://i.ytimg.com/vi/wvtNmMmcAYw/hqdefault.jpg"
+        },
+        {
+            "video_id": "d6VHj-cr9jk",
+            "title": "타워디펜스",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "51:59",
+            "view_count": "176370",
+            "thumbnail_url": "https://i.ytimg.com/vi/d6VHj-cr9jk/hqdefault.jpg"
+        },
+        {
+            "video_id": "E8N8CAihLT0",
+            "title": "米津玄師,宇多田ヒカル「JANE DOE」×『チェンソーマン レゼ篇』MV/KenshiYonezu,HikaruUtada-JANE DOE×ChainsawMan–TheMovie:RezeArc",
+            "channel_name": "Kenshi Yonezu  米津玄師",
+            "category": "Music",
+            "duration": "3:57",
+            "view_count": "2286841",
+            "thumbnail_url": "https://i.ytimg.com/vi/E8N8CAihLT0/hqdefault.jpg"
         },
         {
             "video_id": "ZoSYcPuIYHU",
@@ -133,7 +151,7 @@
             "channel_name": "AION2",
             "category": "Gaming",
             "duration": "32:15",
-            "view_count": "166589",
+            "view_count": "166988",
             "thumbnail_url": "https://i.ytimg.com/vi/ZoSYcPuIYHU/hqdefault.jpg"
         },
         {
@@ -142,7 +160,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "514342",
+            "view_count": "518787",
             "thumbnail_url": "https://i.ytimg.com/vi/D5MtRNQBVbk/hqdefault.jpg"
         },
         {
@@ -151,17 +169,17 @@
             "channel_name": "제이게임채널",
             "category": "Gaming",
             "duration": "7:07",
-            "view_count": "117579",
+            "view_count": "118231",
             "thumbnail_url": "https://i.ytimg.com/vi/NlF4eziOpfY/hqdefault.jpg"
         },
         {
-            "video_id": "E8N8CAihLT0",
-            "title": "米津玄師,宇多田ヒカル「JANE DOE」×『チェンソーマン レゼ篇』MV/KenshiYonezu,HikaruUtada-JANE DOE×ChainsawMan–TheMovie:RezeArc",
-            "channel_name": "Kenshi Yonezu  米津玄師",
+            "video_id": "ClVqBH3arZ8",
+            "title": "I DONT CARE",
+            "channel_name": "Baby DONT Cry - Topic",
             "category": "Music",
-            "duration": "3:57",
-            "view_count": "2252520",
-            "thumbnail_url": "https://i.ytimg.com/vi/E8N8CAihLT0/hqdefault.jpg"
+            "duration": "3:20",
+            "view_count": "33250",
+            "thumbnail_url": "https://i.ytimg.com/vi/ClVqBH3arZ8/hqdefault.jpg"
         },
         {
             "video_id": "ygQ_k4hxUT0",
@@ -169,7 +187,7 @@
             "channel_name": "센터로드TV",
             "category": "Gaming",
             "duration": "14:03",
-            "view_count": "125157",
+            "view_count": "125825",
             "thumbnail_url": "https://i.ytimg.com/vi/ygQ_k4hxUT0/hqdefault.jpg"
         },
         {
@@ -178,26 +196,8 @@
             "channel_name": "NCT DREAM - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "310592",
+            "view_count": "313454",
             "thumbnail_url": "https://i.ytimg.com/vi/-W6tkMEKgmc/hqdefault.jpg"
-        },
-        {
-            "video_id": "AZ_cGeoDCdM",
-            "title": "아이온2 만렙 후기! 재밌나요? [아이온2]",
-            "channel_name": "게임하는인기",
-            "category": "Gaming",
-            "duration": "8:19",
-            "view_count": "117685",
-            "thumbnail_url": "https://i.ytimg.com/vi/AZ_cGeoDCdM/hqdefault.jpg"
-        },
-        {
-            "video_id": "ClVqBH3arZ8",
-            "title": "I DONT CARE",
-            "channel_name": "Baby DONT Cry - Topic",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "32406",
-            "thumbnail_url": "https://i.ytimg.com/vi/ClVqBH3arZ8/hqdefault.jpg"
         },
         {
             "video_id": "JzZvR48fS7c",
@@ -205,7 +205,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "41:11",
-            "view_count": "147693",
+            "view_count": "150006",
             "thumbnail_url": "https://i.ytimg.com/vi/JzZvR48fS7c/hqdefault.jpg"
         },
         {
@@ -214,17 +214,17 @@
             "channel_name": "미스틱스토리 MYSTIC STORY",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "87229",
+            "view_count": "87969",
             "thumbnail_url": "https://i.ytimg.com/vi/VSvR3Mpqreo/hqdefault.jpg"
         },
         {
-            "video_id": "QDHwzm4kyE0",
-            "title": "T1 페이즈 영입 공식 발표!! 인스타 팔로워 떡상! 한화생명 제우스, 제카 재계약.. 구마유시 3년 75억?? 롤이슈 붐바야",
-            "channel_name": "붐바야",
+            "video_id": "AZ_cGeoDCdM",
+            "title": "아이온2 만렙 후기! 재밌나요? [아이온2]",
+            "channel_name": "게임하는인기",
             "category": "Gaming",
-            "duration": "4:37",
-            "view_count": "329146",
-            "thumbnail_url": "https://i.ytimg.com/vi/QDHwzm4kyE0/hqdefault.jpg"
+            "duration": "8:19",
+            "view_count": "119094",
+            "thumbnail_url": "https://i.ytimg.com/vi/AZ_cGeoDCdM/hqdefault.jpg"
         },
         {
             "video_id": "9UsQAfKm6d0",
@@ -232,17 +232,17 @@
             "channel_name": "Vaundy - Topic",
             "category": "Music",
             "duration": "4:23",
-            "view_count": "77032",
+            "view_count": "77894",
             "thumbnail_url": "https://i.ytimg.com/vi/9UsQAfKm6d0/hqdefault.jpg"
         },
         {
-            "video_id": "WFUmexn_zfg",
-            "title": "THANK YOU, LEE 'GUMAYUSI' MIN-HYUNG",
-            "channel_name": "T1",
+            "video_id": "YjlkSwvgGLU",
+            "title": "젠지 선수 감코진 앞에서 고상범 실력 보여주기",
+            "channel_name": "김된모",
             "category": "Gaming",
-            "duration": "7:10",
-            "view_count": "1966081",
-            "thumbnail_url": "https://i.ytimg.com/vi/WFUmexn_zfg/hqdefault.jpg"
+            "duration": "20:17",
+            "view_count": "83490",
+            "thumbnail_url": "https://i.ytimg.com/vi/YjlkSwvgGLU/hqdefault.jpg"
         },
         {
             "video_id": "IlzOOT8uE84",
@@ -250,17 +250,17 @@
             "channel_name": "Yorushika - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "79141",
+            "view_count": "80019",
             "thumbnail_url": "https://i.ytimg.com/vi/IlzOOT8uE84/hqdefault.jpg"
         },
         {
-            "video_id": "ZFHkiuPlSDA",
-            "title": "탱커킹★아이온2 이스라펠 수호성 재밌게 하는중요!",
-            "channel_name": "탱커킹",
+            "video_id": "QDHwzm4kyE0",
+            "title": "T1 페이즈 영입 공식 발표!! 인스타 팔로워 떡상! 한화생명 제우스, 제카 재계약.. 구마유시 3년 75억?? 롤이슈 붐바야",
+            "channel_name": "붐바야",
             "category": "Gaming",
-            "duration": "11:55:00",
-            "view_count": "221983",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZFHkiuPlSDA/hqdefault.jpg"
+            "duration": "4:37",
+            "view_count": "330155",
+            "thumbnail_url": "https://i.ytimg.com/vi/QDHwzm4kyE0/hqdefault.jpg"
         },
         {
             "video_id": "cmmdyfokecc",
@@ -268,17 +268,17 @@
             "channel_name": "LEEWOO - Topic",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "53358",
+            "view_count": "54394",
             "thumbnail_url": "https://i.ytimg.com/vi/cmmdyfokecc/hqdefault.jpg"
         },
         {
-            "video_id": "Kj6xhomFIHk",
-            "title": "멸망전 팀 완전체 첫 스크림에서 나온 레전드 매장각ㅋㅋㅋ 【롤 멸망전 EP.09】",
-            "channel_name": "스맵",
+            "video_id": "XiIu5jxwCOQ",
+            "title": "15시즌 챌린저 달리기 13화 : 내다 버린 4일 (씨엘님 초대석)",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "27:00",
-            "view_count": "132077",
-            "thumbnail_url": "https://i.ytimg.com/vi/Kj6xhomFIHk/hqdefault.jpg"
+            "duration": "1:16:50",
+            "view_count": "146059",
+            "thumbnail_url": "https://i.ytimg.com/vi/XiIu5jxwCOQ/hqdefault.jpg"
         },
         {
             "video_id": "S90X8XK0Cs8",
@@ -286,8 +286,44 @@
             "channel_name": "RADWIMPS",
             "category": "Music",
             "duration": "4:23",
-            "view_count": "1818248",
+            "view_count": "1873870",
             "thumbnail_url": "https://i.ytimg.com/vi/S90X8XK0Cs8/hqdefault.jpg"
+        },
+        {
+            "video_id": "Kj6xhomFIHk",
+            "title": "멸망전 팀 완전체 첫 스크림에서 나온 레전드 매장각ㅋㅋㅋ 【롤 멸망전 EP.09】",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "27:00",
+            "view_count": "132919",
+            "thumbnail_url": "https://i.ytimg.com/vi/Kj6xhomFIHk/hqdefault.jpg"
+        },
+        {
+            "video_id": "eP4cvTgvRys",
+            "title": "당신을 위하여 - 더크로스 김혁건x이보람 / 이보람 (Lee Boram) [보람씨야]",
+            "channel_name": "보람씨야",
+            "category": "Music",
+            "duration": "3:55",
+            "view_count": "49912",
+            "thumbnail_url": "https://i.ytimg.com/vi/eP4cvTgvRys/hqdefault.jpg"
+        },
+        {
+            "video_id": "WFUmexn_zfg",
+            "title": "THANK YOU, LEE 'GUMAYUSI' MIN-HYUNG",
+            "channel_name": "T1",
+            "category": "Gaming",
+            "duration": "7:10",
+            "view_count": "1967584",
+            "thumbnail_url": "https://i.ytimg.com/vi/WFUmexn_zfg/hqdefault.jpg"
+        },
+        {
+            "video_id": "U4EqyI_WzA0",
+            "title": "Yushinron",
+            "channel_name": "ZUTOMAYO - Topic",
+            "category": "Music",
+            "duration": "4:09",
+            "view_count": "285608",
+            "thumbnail_url": "https://i.ytimg.com/vi/U4EqyI_WzA0/hqdefault.jpg"
         },
         {
             "video_id": "YKwWfSU7O-0",
@@ -295,7 +331,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "27:54",
-            "view_count": "210505",
+            "view_count": "211516",
             "thumbnail_url": "https://i.ytimg.com/vi/YKwWfSU7O-0/hqdefault.jpg"
         },
         {
@@ -304,26 +340,8 @@
             "channel_name": "ATEEZ - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "252424",
+            "view_count": "253709",
             "thumbnail_url": "https://i.ytimg.com/vi/p119468NiY0/hqdefault.jpg"
-        },
-        {
-            "video_id": "XiIu5jxwCOQ",
-            "title": "15시즌 챌린저 달리기 13화 : 내다 버린 4일 (씨엘님 초대석)",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "1:16:50",
-            "view_count": "144720",
-            "thumbnail_url": "https://i.ytimg.com/vi/XiIu5jxwCOQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "eP4cvTgvRys",
-            "title": "당신을 위하여 - 더크로스 김혁건x이보람 / 이보람 (Lee Boram) [보람씨야]",
-            "channel_name": "보람씨야",
-            "category": "Music",
-            "duration": "3:55",
-            "view_count": "48143",
-            "thumbnail_url": "https://i.ytimg.com/vi/eP4cvTgvRys/hqdefault.jpg"
         },
         {
             "video_id": "LDSQ4J8OFq4",
@@ -331,26 +349,8 @@
             "channel_name": "티모준위",
             "category": "Gaming",
             "duration": "3:35",
-            "view_count": "245956",
+            "view_count": "248605",
             "thumbnail_url": "https://i.ytimg.com/vi/LDSQ4J8OFq4/hqdefault.jpg"
-        },
-        {
-            "video_id": "U4EqyI_WzA0",
-            "title": "Yushinron",
-            "channel_name": "ZUTOMAYO - Topic",
-            "category": "Music",
-            "duration": "4:09",
-            "view_count": "279590",
-            "thumbnail_url": "https://i.ytimg.com/vi/U4EqyI_WzA0/hqdefault.jpg"
-        },
-        {
-            "video_id": "iJzb6SfKooA",
-            "title": "행운을 보석으로 실체화하는 세공소가 있다?🍀",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "50:41",
-            "view_count": "181147",
-            "thumbnail_url": "https://i.ytimg.com/vi/iJzb6SfKooA/hqdefault.jpg"
         },
         {
             "video_id": "sodFQ1G2dro",
@@ -358,17 +358,17 @@
             "channel_name": "HAON - Topic",
             "category": "Music",
             "duration": "2:15",
-            "view_count": "20929",
+            "view_count": "21498",
             "thumbnail_url": "https://i.ytimg.com/vi/sodFQ1G2dro/hqdefault.jpg"
         },
         {
-            "video_id": "-brQVXKv880",
-            "title": "해금 난이도가 말이 안 되는 7코 사일러스",
-            "channel_name": "잡상싱",
+            "video_id": "ZFHkiuPlSDA",
+            "title": "탱커킹★아이온2 이스라펠 수호성 재밌게 하는중요!",
+            "channel_name": "탱커킹",
             "category": "Gaming",
-            "duration": "12:18",
-            "view_count": "209742",
-            "thumbnail_url": "https://i.ytimg.com/vi/-brQVXKv880/hqdefault.jpg"
+            "duration": "11:55:00",
+            "view_count": "222137",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZFHkiuPlSDA/hqdefault.jpg"
         },
         {
             "video_id": "m3y9QNG6DRg",
@@ -376,7 +376,7 @@
             "channel_name": "Sora Tide",
             "category": "People & Blogs",
             "duration": "46:20",
-            "view_count": "14136",
+            "view_count": "14287",
             "thumbnail_url": "https://i.ytimg.com/vi/m3y9QNG6DRg/hqdefault.jpg"
         }
     ]
