@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-11-22 06:19:20",
+    "scraped_time": "2025-11-22 07:21:15",
     "videos": [
         {
             "video_id": "NED7nev2ywQ",
@@ -7,7 +7,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "9172286",
+            "view_count": "9418293",
             "thumbnail_url": "https://i.ytimg.com/vi/NED7nev2ywQ/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "TVING",
             "category": "Entertainment",
             "duration": "0:38",
-            "view_count": "135189",
+            "view_count": "137312",
             "thumbnail_url": "https://i.ytimg.com/vi/HcUbrWKWRjE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "33:02",
-            "view_count": "223715",
+            "view_count": "238368",
             "thumbnail_url": "https://i.ytimg.com/vi/0-OLbbX1P_I/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "JUSTHIS - Topic",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "257058",
+            "view_count": "257913",
             "thumbnail_url": "https://i.ytimg.com/vi/N_NVmpz5Az8/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:03",
-            "view_count": "94010",
+            "view_count": "94645",
             "thumbnail_url": "https://i.ytimg.com/vi/FSFuN04McOE/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "1:18:50",
-            "view_count": "299728",
+            "view_count": "300739",
             "thumbnail_url": "https://i.ytimg.com/vi/vYoKLROPMmU/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Stray Kids - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "973117",
+            "view_count": "1017726",
             "thumbnail_url": "https://i.ytimg.com/vi/FI4pbPmlgwY/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "SBS Catch",
             "category": "Entertainment",
             "duration": "0:29",
-            "view_count": "18516",
+            "view_count": "18997",
             "thumbnail_url": "https://i.ytimg.com/vi/-bLEHNzOspY/hqdefault.jpg"
-        },
-        {
-            "video_id": "wBc8jpi2NXc",
-            "title": "100일동안 버려진 무인도를 파라다이스로 바꾸기",
-            "channel_name": "프뚜",
-            "category": "Gaming",
-            "duration": "25:39",
-            "view_count": "176452",
-            "thumbnail_url": "https://i.ytimg.com/vi/wBc8jpi2NXc/hqdefault.jpg"
-        },
-        {
-            "video_id": "tGrZUfRADgs",
-            "title": "ONE MORE TIME",
-            "channel_name": "ALLDAY PROJECT - Topic",
-            "category": "Music",
-            "duration": "3:16",
-            "view_count": "2247490",
-            "thumbnail_url": "https://i.ytimg.com/vi/tGrZUfRADgs/hqdefault.jpg"
         },
         {
             "video_id": "eEyrshB4DoE",
@@ -97,8 +79,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:34",
-            "view_count": "183101",
+            "view_count": "192346",
             "thumbnail_url": "https://i.ytimg.com/vi/eEyrshB4DoE/hqdefault.jpg"
+        },
+        {
+            "video_id": "tGrZUfRADgs",
+            "title": "ONE MORE TIME",
+            "channel_name": "ALLDAY PROJECT - Topic",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "2250104",
+            "thumbnail_url": "https://i.ytimg.com/vi/tGrZUfRADgs/hqdefault.jpg"
+        },
+        {
+            "video_id": "wBc8jpi2NXc",
+            "title": "100일동안 버려진 무인도를 파라다이스로 바꾸기",
+            "channel_name": "프뚜",
+            "category": "Gaming",
+            "duration": "25:39",
+            "view_count": "178461",
+            "thumbnail_url": "https://i.ytimg.com/vi/wBc8jpi2NXc/hqdefault.jpg"
         },
         {
             "video_id": "yEHkBifsHPY",
@@ -106,7 +106,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "4:21",
-            "view_count": "370337",
+            "view_count": "371476",
             "thumbnail_url": "https://i.ytimg.com/vi/yEHkBifsHPY/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "33:12",
-            "view_count": "175690",
+            "view_count": "178017",
             "thumbnail_url": "https://i.ytimg.com/vi/1wFi8k9UjyA/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "11392955",
+            "view_count": "11409002",
             "thumbnail_url": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "27:05",
-            "view_count": "180425",
+            "view_count": "182722",
             "thumbnail_url": "https://i.ytimg.com/vi/fDFWO9OIKxo/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "BABYMONSTER",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "22545590",
+            "view_count": "22703376",
             "thumbnail_url": "https://i.ytimg.com/vi/yd_uG3TtREs/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "53:14",
-            "view_count": "249209",
+            "view_count": "249634",
             "thumbnail_url": "https://i.ytimg.com/vi/W9ROv7HxOgQ/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "Cynthia Erivo - Topic",
             "category": "Music",
             "duration": "6:18",
-            "view_count": "277052",
+            "view_count": "287533",
             "thumbnail_url": "https://i.ytimg.com/vi/aO8SiN8H6EQ/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "51:59",
-            "view_count": "340411",
+            "view_count": "341852",
             "thumbnail_url": "https://i.ytimg.com/vi/d6VHj-cr9jk/hqdefault.jpg"
         },
         {
@@ -178,26 +178,8 @@
             "channel_name": "KYUHYUN - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "39512",
+            "view_count": "39802",
             "thumbnail_url": "https://i.ytimg.com/vi/uEH3KiYsMRI/hqdefault.jpg"
-        },
-        {
-            "video_id": "kejwtlTxx3M",
-            "title": "멸망전 합숙 첫 날, 지면 해체 합니다..",
-            "channel_name": "게임대장봉준",
-            "category": "Gaming",
-            "duration": "19:18",
-            "view_count": "122851",
-            "thumbnail_url": "https://i.ytimg.com/vi/kejwtlTxx3M/hqdefault.jpg"
-        },
-        {
-            "video_id": "0FjtZz-zWWs",
-            "title": "NCT DREAM 엔시티 드림 'Beat It Up' Stage Clip",
-            "channel_name": "NCT DREAM",
-            "category": "Music",
-            "duration": "3:25",
-            "view_count": "159038",
-            "thumbnail_url": "https://i.ytimg.com/vi/0FjtZz-zWWs/hqdefault.jpg"
         },
         {
             "video_id": "b5_wQ5zR4rg",
@@ -205,8 +187,26 @@
             "channel_name": "중년게이머 김실장",
             "category": "Gaming",
             "duration": "39:53",
-            "view_count": "204127",
+            "view_count": "208234",
             "thumbnail_url": "https://i.ytimg.com/vi/b5_wQ5zR4rg/hqdefault.jpg"
+        },
+        {
+            "video_id": "0FjtZz-zWWs",
+            "title": "NCT DREAM 엔시티 드림 'Beat It Up' Stage Clip",
+            "channel_name": "NCT DREAM",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "159758",
+            "thumbnail_url": "https://i.ytimg.com/vi/0FjtZz-zWWs/hqdefault.jpg"
+        },
+        {
+            "video_id": "kejwtlTxx3M",
+            "title": "멸망전 합숙 첫 날, 지면 해체 합니다..",
+            "channel_name": "게임대장봉준",
+            "category": "Gaming",
+            "duration": "19:18",
+            "view_count": "123455",
+            "thumbnail_url": "https://i.ytimg.com/vi/kejwtlTxx3M/hqdefault.jpg"
         },
         {
             "video_id": "ZZ27yLzPPCM",
@@ -214,26 +214,8 @@
             "channel_name": "JUN FM",
             "category": "People & Blogs",
             "duration": "1:00:27",
-            "view_count": "13808",
+            "view_count": "13920",
             "thumbnail_url": "https://i.ytimg.com/vi/ZZ27yLzPPCM/hqdefault.jpg"
-        },
-        {
-            "video_id": "GUwelXawC4g",
-            "title": "다누리 뺏기더니 칼을 갈고온 민교의 복수ㄷㄷ 【롤 멸망전 EP.10】",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "34:52",
-            "view_count": "85939",
-            "thumbnail_url": "https://i.ytimg.com/vi/GUwelXawC4g/hqdefault.jpg"
-        },
-        {
-            "video_id": "E8N8CAihLT0",
-            "title": "米津玄師,宇多田ヒカル「JANE DOE」×『チェンソーマン レゼ篇』MV/KenshiYonezu,HikaruUtada-JANE DOE×ChainsawMan–TheMovie:RezeArc",
-            "channel_name": "Kenshi Yonezu  米津玄師",
-            "category": "Music",
-            "duration": "3:57",
-            "view_count": "2685364",
-            "thumbnail_url": "https://i.ytimg.com/vi/E8N8CAihLT0/hqdefault.jpg"
         },
         {
             "video_id": "zHKHXllK_g4",
@@ -241,8 +223,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "1:01:21",
-            "view_count": "151539",
+            "view_count": "152053",
             "thumbnail_url": "https://i.ytimg.com/vi/zHKHXllK_g4/hqdefault.jpg"
+        },
+        {
+            "video_id": "E8N8CAihLT0",
+            "title": "米津玄師,宇多田ヒカル「JANE DOE」×『チェンソーマン レゼ篇』MV/KenshiYonezu,HikaruUtada-JANE DOE×ChainsawMan–TheMovie:RezeArc",
+            "channel_name": "Kenshi Yonezu  米津玄師",
+            "category": "Music",
+            "duration": "3:57",
+            "view_count": "2689795",
+            "thumbnail_url": "https://i.ytimg.com/vi/E8N8CAihLT0/hqdefault.jpg"
+        },
+        {
+            "video_id": "GUwelXawC4g",
+            "title": "다누리 뺏기더니 칼을 갈고온 민교의 복수ㄷㄷ 【롤 멸망전 EP.10】",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "34:52",
+            "view_count": "86354",
+            "thumbnail_url": "https://i.ytimg.com/vi/GUwelXawC4g/hqdefault.jpg"
         },
         {
             "video_id": "hfO7veqkHns",
@@ -250,7 +250,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "844868",
+            "view_count": "846973",
             "thumbnail_url": "https://i.ytimg.com/vi/hfO7veqkHns/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "10:28",
-            "view_count": "126121",
+            "view_count": "128033",
             "thumbnail_url": "https://i.ytimg.com/vi/YQ0TWHhShvI/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "Baby DONT Cry - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "54377",
+            "view_count": "54574",
             "thumbnail_url": "https://i.ytimg.com/vi/ClVqBH3arZ8/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "탱커킹",
             "category": "Gaming",
             "duration": "11:55:00",
-            "view_count": "152840",
+            "view_count": "153079",
             "thumbnail_url": "https://i.ytimg.com/vi/WuWqWTlSqTE/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "Vaundy - Topic",
             "category": "Music",
             "duration": "4:23",
-            "view_count": "329464",
+            "view_count": "329957",
             "thumbnail_url": "https://i.ytimg.com/vi/tqmvLCZkq5A/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "센터로드TV",
             "category": "Gaming",
             "duration": "11:57",
-            "view_count": "160577",
+            "view_count": "163743",
             "thumbnail_url": "https://i.ytimg.com/vi/4rDx2DYs2yo/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "HYUN SEO - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "19127",
+            "view_count": "19247",
             "thumbnail_url": "https://i.ytimg.com/vi/WEWOEb0WLzM/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "26:39",
-            "view_count": "92709",
+            "view_count": "94901",
             "thumbnail_url": "https://i.ytimg.com/vi/31Pb8CP2Ia0/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "8342988",
+            "view_count": "8350432",
             "thumbnail_url": "https://i.ytimg.com/vi/wvtNmMmcAYw/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "AION2",
             "category": "Gaming",
             "duration": "37:55",
-            "view_count": "85075",
+            "view_count": "85295",
             "thumbnail_url": "https://i.ytimg.com/vi/9fn0OkV5h7k/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "미스틱스토리 MYSTIC STORY",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "103018",
+            "view_count": "103282",
             "thumbnail_url": "https://i.ytimg.com/vi/VSvR3Mpqreo/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:55",
-            "view_count": "136407",
+            "view_count": "139410",
             "thumbnail_url": "https://i.ytimg.com/vi/Xa2VU_LOCvE/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "Chogakusei Official",
             "category": "Music",
             "duration": "2:32",
-            "view_count": "126650",
+            "view_count": "128532",
             "thumbnail_url": "https://i.ytimg.com/vi/fiG_T-0zFT8/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "32:47",
-            "view_count": "78972",
+            "view_count": "79856",
             "thumbnail_url": "https://i.ytimg.com/vi/h28NPqsSEyE/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "Green Area - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "22667",
+            "view_count": "22817",
             "thumbnail_url": "https://i.ytimg.com/vi/CgESeiAdgIc/hqdefault.jpg"
         }
     ]
