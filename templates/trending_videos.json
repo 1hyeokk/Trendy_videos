@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-12-01 01:26:25",
+    "scraped_time": "2025-12-01 02:18:37",
     "videos": [
         {
             "video_id": "DYomc7I_IWE",
@@ -7,7 +7,7 @@
             "channel_name": "UM JUNGWOO - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "186780",
+            "view_count": "187588",
             "thumbnail_url": "https://i.ytimg.com/vi/DYomc7I_IWE/hqdefault.jpg"
         },
         {
@@ -16,26 +16,8 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "1:07:30",
-            "view_count": "161382",
+            "view_count": "176399",
             "thumbnail_url": "https://i.ytimg.com/vi/pnOyKThHY8I/hqdefault.jpg"
-        },
-        {
-            "video_id": "F3C87lOmZBM",
-            "title": "RIIZE(라이즈) _ Fame | 1theKILLPO | 원더킬포 | 퍼포먼스 | Performance | 4K",
-            "channel_name": "1theK Originals - 원더케이 오리지널",
-            "category": "Entertainment",
-            "duration": "3:08",
-            "view_count": "557796",
-            "thumbnail_url": "https://i.ytimg.com/vi/F3C87lOmZBM/hqdefault.jpg"
-        },
-        {
-            "video_id": "iKLwxvRGfKw",
-            "title": "흙투성이 미드라이너",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "22:08",
-            "view_count": "624801",
-            "thumbnail_url": "https://i.ytimg.com/vi/iKLwxvRGfKw/hqdefault.jpg"
         },
         {
             "video_id": "E8i32NXMxnc",
@@ -43,8 +25,26 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "16768757",
+            "view_count": "16857620",
             "thumbnail_url": "https://i.ytimg.com/vi/E8i32NXMxnc/hqdefault.jpg"
+        },
+        {
+            "video_id": "iKLwxvRGfKw",
+            "title": "흙투성이 미드라이너",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "22:08",
+            "view_count": "632306",
+            "thumbnail_url": "https://i.ytimg.com/vi/iKLwxvRGfKw/hqdefault.jpg"
+        },
+        {
+            "video_id": "F3C87lOmZBM",
+            "title": "RIIZE(라이즈) _ Fame | 1theKILLPO | 원더킬포 | 퍼포먼스 | Performance | 4K",
+            "channel_name": "1theK Originals - 원더케이 오리지널",
+            "category": "Entertainment",
+            "duration": "3:08",
+            "view_count": "567617",
+            "thumbnail_url": "https://i.ytimg.com/vi/F3C87lOmZBM/hqdefault.jpg"
         },
         {
             "video_id": "29d0uR9RAhE",
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "28:14",
-            "view_count": "415176",
+            "view_count": "422038",
             "thumbnail_url": "https://i.ytimg.com/vi/29d0uR9RAhE/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "331418",
+            "view_count": "333208",
             "thumbnail_url": "https://i.ytimg.com/vi/bY6_nKTJplA/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "시미베",
             "category": "Gaming",
             "duration": "18:41",
-            "view_count": "167993",
+            "view_count": "175728",
             "thumbnail_url": "https://i.ytimg.com/vi/AprMnZjwg4E/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "Roy Kim - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "15377",
+            "view_count": "17049",
             "thumbnail_url": "https://i.ytimg.com/vi/I1Gs69t_jQ8/hqdefault.jpg"
-        },
-        {
-            "video_id": "d-E6X6xgY5Q",
-            "title": "\"오른 대가리 강타 사건\" 멸망전 본선에서 역대급 대참사를 내버린 이상호..!【멸망전 Ep. 13】",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "35:54",
-            "view_count": "349872",
-            "thumbnail_url": "https://i.ytimg.com/vi/d-E6X6xgY5Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "7V1UoaXc5xE",
-            "title": "Night, Star, You",
-            "channel_name": "J_ust - Topic",
-            "category": "Music",
-            "duration": "3:33",
-            "view_count": "32826",
-            "thumbnail_url": "https://i.ytimg.com/vi/7V1UoaXc5xE/hqdefault.jpg"
         },
         {
             "video_id": "Sq82VmRldXk",
@@ -106,8 +88,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "57:25",
-            "view_count": "121904",
+            "view_count": "129434",
             "thumbnail_url": "https://i.ytimg.com/vi/Sq82VmRldXk/hqdefault.jpg"
+        },
+        {
+            "video_id": "7V1UoaXc5xE",
+            "title": "Night, Star, You",
+            "channel_name": "J_ust - Topic",
+            "category": "Music",
+            "duration": "3:33",
+            "view_count": "33391",
+            "thumbnail_url": "https://i.ytimg.com/vi/7V1UoaXc5xE/hqdefault.jpg"
+        },
+        {
+            "video_id": "d-E6X6xgY5Q",
+            "title": "\"오른 대가리 강타 사건\" 멸망전 본선에서 역대급 대참사를 내버린 이상호..!【멸망전 Ep. 13】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "35:54",
+            "view_count": "352494",
+            "thumbnail_url": "https://i.ytimg.com/vi/d-E6X6xgY5Q/hqdefault.jpg"
         },
         {
             "video_id": "2GdWAnLdiVQ",
@@ -115,7 +115,7 @@
             "channel_name": "ENHYPEN",
             "category": "Entertainment",
             "duration": "3:08",
-            "view_count": "874726",
+            "view_count": "880727",
             "thumbnail_url": "https://i.ytimg.com/vi/2GdWAnLdiVQ/hqdefault.jpg"
         },
         {
@@ -124,44 +124,8 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "25:27",
-            "view_count": "209771",
+            "view_count": "210554",
             "thumbnail_url": "https://i.ytimg.com/vi/p1DlbaaDjhI/hqdefault.jpg"
-        },
-        {
-            "video_id": "qS76FHT9QNY",
-            "title": "7080 카페음악모음 ✨ ☕ 50대이상이 들으면 기분좋아지는 7080노래모음 📺📺그집앞/바람바람바람/잊혀진 사랑/아득히먼곳/어느 60대 노부부 이야기",
-            "channel_name": "JUN FM",
-            "category": "People & Blogs",
-            "duration": "1:17:53",
-            "view_count": "11579",
-            "thumbnail_url": "https://i.ytimg.com/vi/qS76FHT9QNY/hqdefault.jpg"
-        },
-        {
-            "video_id": "RFZcHUHzNn8",
-            "title": "멸망전 판을 뒤흔드는 슈퍼스타 준밧드ㅋㅋㅋ 【멸망전 본선 8강】",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "42:11",
-            "view_count": "241441",
-            "thumbnail_url": "https://i.ytimg.com/vi/RFZcHUHzNn8/hqdefault.jpg"
-        },
-        {
-            "video_id": "Bf8kqMVZDsY",
-            "title": "KOCAINE CASTLE",
-            "channel_name": "KC - Topic",
-            "category": "Music",
-            "duration": "3:28",
-            "view_count": "115864",
-            "thumbnail_url": "https://i.ytimg.com/vi/Bf8kqMVZDsY/hqdefault.jpg"
-        },
-        {
-            "video_id": "mNV9ZU_YunA",
-            "title": "Red Bull League of Its Own",
-            "channel_name": "Red Bull Gaming",
-            "category": "Gaming",
-            "duration": "6:24:42",
-            "view_count": "1190357",
-            "thumbnail_url": "https://i.ytimg.com/vi/mNV9ZU_YunA/hqdefault.jpg"
         },
         {
             "video_id": "xXlDZ75Jfic",
@@ -169,8 +133,44 @@
             "channel_name": "THISISJUSTHIS",
             "category": "Music",
             "duration": "7:48",
-            "view_count": "9733",
+            "view_count": "11261",
             "thumbnail_url": "https://i.ytimg.com/vi/xXlDZ75Jfic/hqdefault.jpg"
+        },
+        {
+            "video_id": "RFZcHUHzNn8",
+            "title": "멸망전 판을 뒤흔드는 슈퍼스타 준밧드ㅋㅋㅋ 【멸망전 본선 8강】",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "42:11",
+            "view_count": "242688",
+            "thumbnail_url": "https://i.ytimg.com/vi/RFZcHUHzNn8/hqdefault.jpg"
+        },
+        {
+            "video_id": "qS76FHT9QNY",
+            "title": "7080 카페음악모음 ✨ ☕ 50대이상이 들으면 기분좋아지는 7080노래모음 📺📺그집앞/바람바람바람/잊혀진 사랑/아득히먼곳/어느 60대 노부부 이야기",
+            "channel_name": "JUN FM",
+            "category": "People & Blogs",
+            "duration": "1:17:53",
+            "view_count": "11782",
+            "thumbnail_url": "https://i.ytimg.com/vi/qS76FHT9QNY/hqdefault.jpg"
+        },
+        {
+            "video_id": "mNV9ZU_YunA",
+            "title": "Red Bull League of Its Own",
+            "channel_name": "Red Bull Gaming",
+            "category": "Gaming",
+            "duration": "6:24:42",
+            "view_count": "1193347",
+            "thumbnail_url": "https://i.ytimg.com/vi/mNV9ZU_YunA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Bf8kqMVZDsY",
+            "title": "KOCAINE CASTLE",
+            "channel_name": "KC - Topic",
+            "category": "Music",
+            "duration": "3:28",
+            "view_count": "116870",
+            "thumbnail_url": "https://i.ytimg.com/vi/Bf8kqMVZDsY/hqdefault.jpg"
         },
         {
             "video_id": "Ucg5MI5lP-c",
@@ -178,7 +178,7 @@
             "channel_name": "THIRD[롤 백과사전]",
             "category": "Gaming",
             "duration": "4:42",
-            "view_count": "223145",
+            "view_count": "224314",
             "thumbnail_url": "https://i.ytimg.com/vi/Ucg5MI5lP-c/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "ZO ZAZZ - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "19422",
+            "view_count": "19876",
             "thumbnail_url": "https://i.ytimg.com/vi/ucZtzK6CEwg/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "라스 마인크래프트",
             "category": "Gaming",
             "duration": "23:43",
-            "view_count": "109075",
+            "view_count": "110599",
             "thumbnail_url": "https://i.ytimg.com/vi/NbIoj6ATupI/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "Heize - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "119611",
+            "view_count": "120459",
             "thumbnail_url": "https://i.ytimg.com/vi/DIZzM63mSZA/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:28",
-            "view_count": "138389",
+            "view_count": "141258",
             "thumbnail_url": "https://i.ytimg.com/vi/OpauflaIa5w/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "GENIE MUSIC",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "341756",
+            "view_count": "343132",
             "thumbnail_url": "https://i.ytimg.com/vi/_N4nrc2L-GQ/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "형독방송",
             "category": "Gaming",
             "duration": "15:40",
-            "view_count": "108677",
+            "view_count": "113688",
             "thumbnail_url": "https://i.ytimg.com/vi/8JVBOHncQ2I/hqdefault.jpg"
         },
         {
@@ -241,17 +241,17 @@
             "channel_name": "20 Years of Age - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "53244",
+            "view_count": "53727",
             "thumbnail_url": "https://i.ytimg.com/vi/1COu09ewfBM/hqdefault.jpg"
         },
         {
-            "video_id": "b4tUUT8-4dw",
-            "title": "지옥 난이도의 초보자 분쇄기타워 과연 대저택중 누가 못깨는지 맞춰보시라!!(로블록스 초보자 분쇄기 타워 2편)",
-            "channel_name": "집사TV",
+            "video_id": "lsrpvx7DZOw",
+            "title": "2025 T1 레드불 이벤트 하이라이트!! 25분 보고 7시간 아끼세요",
+            "channel_name": "박진혁(박진흙)",
             "category": "Gaming",
-            "duration": "14:53",
-            "view_count": "86692",
-            "thumbnail_url": "https://i.ytimg.com/vi/b4tUUT8-4dw/hqdefault.jpg"
+            "duration": "25:14",
+            "view_count": "129503",
+            "thumbnail_url": "https://i.ytimg.com/vi/lsrpvx7DZOw/hqdefault.jpg"
         },
         {
             "video_id": "_Qx-CyYsr3s",
@@ -259,17 +259,17 @@
             "channel_name": "Sora Tide",
             "category": "People & Blogs",
             "duration": "38:57",
-            "view_count": "9066",
+            "view_count": "9143",
             "thumbnail_url": "https://i.ytimg.com/vi/_Qx-CyYsr3s/hqdefault.jpg"
         },
         {
-            "video_id": "pSTIEBshTdc",
-            "title": "8강 첫 경기, 나락으로 떨어지는 고티어들 【롤 멸망전 EP.26】",
-            "channel_name": "스맵",
+            "video_id": "aSAFw5br_sI",
+            "title": "15시즌 챌린저 달리기 24화 : 한 걸음 남았다",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "40:59",
-            "view_count": "97903",
-            "thumbnail_url": "https://i.ytimg.com/vi/pSTIEBshTdc/hqdefault.jpg"
+            "duration": "27:22",
+            "view_count": "79553",
+            "thumbnail_url": "https://i.ytimg.com/vi/aSAFw5br_sI/hqdefault.jpg"
         },
         {
             "video_id": "Od9gk54gSQU",
@@ -277,7 +277,7 @@
             "channel_name": "Ha Yea Song - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "89269",
+            "view_count": "89559",
             "thumbnail_url": "https://i.ytimg.com/vi/Od9gk54gSQU/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "59:57",
-            "view_count": "85696",
+            "view_count": "88505",
             "thumbnail_url": "https://i.ytimg.com/vi/FOlcDD7ZfVs/hqdefault.jpg"
         },
         {
@@ -295,17 +295,17 @@
             "channel_name": "JUNGWOO - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "51082",
+            "view_count": "51731",
             "thumbnail_url": "https://i.ytimg.com/vi/hGFpnUm7IjE/hqdefault.jpg"
         },
         {
-            "video_id": "lsrpvx7DZOw",
-            "title": "2025 T1 레드불 이벤트 하이라이트!! 25분 보고 7시간 아끼세요",
-            "channel_name": "박진혁(박진흙)",
+            "video_id": "b4tUUT8-4dw",
+            "title": "지옥 난이도의 초보자 분쇄기타워 과연 대저택중 누가 못깨는지 맞춰보시라!!(로블록스 초보자 분쇄기 타워 2편)",
+            "channel_name": "집사TV",
             "category": "Gaming",
-            "duration": "25:14",
-            "view_count": "120497",
-            "thumbnail_url": "https://i.ytimg.com/vi/lsrpvx7DZOw/hqdefault.jpg"
+            "duration": "14:53",
+            "view_count": "87522",
+            "thumbnail_url": "https://i.ytimg.com/vi/b4tUUT8-4dw/hqdefault.jpg"
         },
         {
             "video_id": "UfTpKaKXbG4",
@@ -313,17 +313,17 @@
             "channel_name": "Eve",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "1068760",
+            "view_count": "1091301",
             "thumbnail_url": "https://i.ytimg.com/vi/UfTpKaKXbG4/hqdefault.jpg"
         },
         {
-            "video_id": "e9Xlt8eHVzs",
-            "title": "잠각태쁘 사이에 잠입한 끔찍한 도플갱어! 서로를 의심해야 살아남는다..",
-            "channel_name": "잠뜰 TV",
+            "video_id": "pSTIEBshTdc",
+            "title": "8강 첫 경기, 나락으로 떨어지는 고티어들 【롤 멸망전 EP.26】",
+            "channel_name": "스맵",
             "category": "Gaming",
-            "duration": "47:18",
-            "view_count": "213541",
-            "thumbnail_url": "https://i.ytimg.com/vi/e9Xlt8eHVzs/hqdefault.jpg"
+            "duration": "40:59",
+            "view_count": "99999",
+            "thumbnail_url": "https://i.ytimg.com/vi/pSTIEBshTdc/hqdefault.jpg"
         },
         {
             "video_id": "ES9oYbzYCh8",
@@ -331,17 +331,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:17",
-            "view_count": "1275952",
+            "view_count": "1282753",
             "thumbnail_url": "https://i.ytimg.com/vi/ES9oYbzYCh8/hqdefault.jpg"
         },
         {
-            "video_id": "sgT4NMoJpoI",
-            "title": "1000일 동안 살아남기 성공!! 99나이트 인 더 포레스트",
-            "channel_name": "민쩌미",
+            "video_id": "e9Xlt8eHVzs",
+            "title": "잠각태쁘 사이에 잠입한 끔찍한 도플갱어! 서로를 의심해야 살아남는다..",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "17:31",
-            "view_count": "191441",
-            "thumbnail_url": "https://i.ytimg.com/vi/sgT4NMoJpoI/hqdefault.jpg"
+            "duration": "47:18",
+            "view_count": "215394",
+            "thumbnail_url": "https://i.ytimg.com/vi/e9Xlt8eHVzs/hqdefault.jpg"
         },
         {
             "video_id": "WNbtXklKFI4",
@@ -349,17 +349,17 @@
             "channel_name": "UmYull - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "23345",
+            "view_count": "23555",
             "thumbnail_url": "https://i.ytimg.com/vi/WNbtXklKFI4/hqdefault.jpg"
         },
         {
-            "video_id": "aSAFw5br_sI",
-            "title": "15시즌 챌린저 달리기 24화 : 한 걸음 남았다",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "QFyAVQMgWlQ",
+            "title": "[생]바둑 황태자 까꿍프로",
+            "channel_name": "까꿍프로_바둑채널",
             "category": "Gaming",
-            "duration": "27:22",
-            "view_count": "71885",
-            "thumbnail_url": "https://i.ytimg.com/vi/aSAFw5br_sI/hqdefault.jpg"
+            "duration": "5:04:03",
+            "view_count": "65825",
+            "thumbnail_url": "https://i.ytimg.com/vi/QFyAVQMgWlQ/hqdefault.jpg"
         },
         {
             "video_id": "HP8qpxRpIW8",
@@ -367,17 +367,17 @@
             "channel_name": "ILLIT - Topic",
             "category": "Music",
             "duration": "2:12",
-            "view_count": "2083162",
+            "view_count": "2095847",
             "thumbnail_url": "https://i.ytimg.com/vi/HP8qpxRpIW8/hqdefault.jpg"
         },
         {
-            "video_id": "0bm7mzwg72A",
-            "title": "드디어 진행된 페이즈가 합류한 T1 vs G2.. 벌써 난리났습니다 ㄷㄷㄷ",
-            "channel_name": "티모준위",
+            "video_id": "3c4nywAfQ00",
+            "title": "정글 챔프 패치로 떡상 후 분당 1킬로 캐리하는 \"정글 극딜 사이온 전략\" 🤤🪓",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "3:47",
-            "view_count": "381493",
-            "thumbnail_url": "https://i.ytimg.com/vi/0bm7mzwg72A/hqdefault.jpg"
+            "duration": "26:21",
+            "view_count": "73005",
+            "thumbnail_url": "https://i.ytimg.com/vi/3c4nywAfQ00/hqdefault.jpg"
         }
     ]
 }
