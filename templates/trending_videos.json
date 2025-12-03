@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-12-04 07:22:55",
+    "scraped_time": "2025-12-04 08:19:30",
     "videos": [
         {
             "video_id": "5ZB9JLfIw_Q",
@@ -7,7 +7,7 @@
             "channel_name": "fromis_9",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "2784655",
+            "view_count": "2789554",
             "thumbnail_url": "https://i.ytimg.com/vi/5ZB9JLfIw_Q/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:20",
-            "view_count": "424535",
+            "view_count": "426370",
             "thumbnail_url": "https://i.ytimg.com/vi/7SSLElO33q8/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "42:32",
-            "view_count": "173999",
+            "view_count": "175763",
             "thumbnail_url": "https://i.ytimg.com/vi/SPK6PveYJwg/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "TAEYEON - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "585989",
+            "view_count": "587820",
             "thumbnail_url": "https://i.ytimg.com/vi/ODRqjBLzjEM/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "김어준의 겸손은힘들다 뉴스공장",
             "category": "News & Politics",
             "duration": "0:40",
-            "view_count": "32809",
+            "view_count": "33494",
             "thumbnail_url": "https://i.ytimg.com/vi/JOV41OKIXBM/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "42:51",
-            "view_count": "215719",
+            "view_count": "217775",
             "thumbnail_url": "https://i.ytimg.com/vi/HXqcVoEWHdQ/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "아샤트리 AshaTree",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "53173",
+            "view_count": "53874",
             "thumbnail_url": "https://i.ytimg.com/vi/3_biExdxQyk/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "1:06:22",
-            "view_count": "226474",
+            "view_count": "227007",
             "thumbnail_url": "https://i.ytimg.com/vi/CthZi_FQn5w/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "734628",
+            "view_count": "735977",
             "thumbnail_url": "https://i.ytimg.com/vi/xGhaNqnjgr4/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "쿠팡플레이 Coupang Play",
             "category": "Entertainment",
             "duration": "0:33",
-            "view_count": "57097",
+            "view_count": "57836",
             "thumbnail_url": "https://i.ytimg.com/vi/ApUZ6N-vClc/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "40:19",
-            "view_count": "137750",
+            "view_count": "138680",
             "thumbnail_url": "https://i.ytimg.com/vi/EzP4AfdZxJ4/hqdefault.jpg"
         },
         {
@@ -115,26 +115,8 @@
             "channel_name": "Richard Parkers - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "20737",
+            "view_count": "20948",
             "thumbnail_url": "https://i.ytimg.com/vi/6jdujhYNQMY/hqdefault.jpg"
-        },
-        {
-            "video_id": "tqoYrchJgPQ",
-            "title": "폭군이 라이브 스트리밍 중",
-            "channel_name": "폭군이",
-            "category": "People & Blogs",
-            "duration": "3:17:42",
-            "view_count": "134954",
-            "thumbnail_url": "https://i.ytimg.com/vi/tqoYrchJgPQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "PhAHl7-iMz4",
-            "title": "silent treatment",
-            "channel_name": "Freya Skye - Topic",
-            "category": "Music",
-            "duration": "2:23",
-            "view_count": "456967",
-            "thumbnail_url": "https://i.ytimg.com/vi/PhAHl7-iMz4/hqdefault.jpg"
         },
         {
             "video_id": "e7hwWYKsQco",
@@ -142,8 +124,26 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:12",
-            "view_count": "119329",
+            "view_count": "120131",
             "thumbnail_url": "https://i.ytimg.com/vi/e7hwWYKsQco/hqdefault.jpg"
+        },
+        {
+            "video_id": "PhAHl7-iMz4",
+            "title": "silent treatment",
+            "channel_name": "Freya Skye - Topic",
+            "category": "Music",
+            "duration": "2:23",
+            "view_count": "468519",
+            "thumbnail_url": "https://i.ytimg.com/vi/PhAHl7-iMz4/hqdefault.jpg"
+        },
+        {
+            "video_id": "tqoYrchJgPQ",
+            "title": "폭군이 라이브 스트리밍 중",
+            "channel_name": "폭군이",
+            "category": "People & Blogs",
+            "duration": "3:17:42",
+            "view_count": "134955",
+            "thumbnail_url": "https://i.ytimg.com/vi/tqoYrchJgPQ/hqdefault.jpg"
         },
         {
             "video_id": "I1Gs69t_jQ8",
@@ -151,7 +151,7 @@
             "channel_name": "Roy Kim - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "220439",
+            "view_count": "221168",
             "thumbnail_url": "https://i.ytimg.com/vi/I1Gs69t_jQ8/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "AION2",
             "category": "Gaming",
             "duration": "1:15:18",
-            "view_count": "136246",
+            "view_count": "136284",
             "thumbnail_url": "https://i.ytimg.com/vi/yc0qllw3_R4/hqdefault.jpg"
         },
         {
@@ -169,26 +169,8 @@
             "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "111807",
+            "view_count": "112902",
             "thumbnail_url": "https://i.ytimg.com/vi/ysHWGK6LhOE/hqdefault.jpg"
-        },
-        {
-            "video_id": "68E59XsULvM",
-            "title": "그저 낙엽만 치울 뿐인데 왜 이렇게 빠져들지",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "27:34",
-            "view_count": "287762",
-            "thumbnail_url": "https://i.ytimg.com/vi/68E59XsULvM/hqdefault.jpg"
-        },
-        {
-            "video_id": "TOLkVmU9uEw",
-            "title": "7080 카페음악모음 ✨ ☕ 중년의 여유를 담은 커피 음악 컬렉션 📷📷그집앞/바람바람바람/잊혀진 사랑/아득히먼곳/어느 60대 노부부 이야기",
-            "channel_name": "JUN FM",
-            "category": "People & Blogs",
-            "duration": "1:22:03",
-            "view_count": "18097",
-            "thumbnail_url": "https://i.ytimg.com/vi/TOLkVmU9uEw/hqdefault.jpg"
         },
         {
             "video_id": "0xzM1GwtcSk",
@@ -196,8 +178,26 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "28:51",
-            "view_count": "70215",
+            "view_count": "72141",
             "thumbnail_url": "https://i.ytimg.com/vi/0xzM1GwtcSk/hqdefault.jpg"
+        },
+        {
+            "video_id": "TOLkVmU9uEw",
+            "title": "7080 카페음악모음 ✨ ☕ 중년의 여유를 담은 커피 음악 컬렉션 📷📷그집앞/바람바람바람/잊혀진 사랑/아득히먼곳/어느 60대 노부부 이야기",
+            "channel_name": "JUN FM",
+            "category": "People & Blogs",
+            "duration": "1:22:03",
+            "view_count": "18361",
+            "thumbnail_url": "https://i.ytimg.com/vi/TOLkVmU9uEw/hqdefault.jpg"
+        },
+        {
+            "video_id": "68E59XsULvM",
+            "title": "그저 낙엽만 치울 뿐인데 왜 이렇게 빠져들지",
+            "channel_name": "우주하마",
+            "category": "Gaming",
+            "duration": "27:34",
+            "view_count": "288483",
+            "thumbnail_url": "https://i.ytimg.com/vi/68E59XsULvM/hqdefault.jpg"
         },
         {
             "video_id": "t8p8FF16zJs",
@@ -205,7 +205,7 @@
             "channel_name": "Paul Kim - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "24881",
+            "view_count": "25339",
             "thumbnail_url": "https://i.ytimg.com/vi/t8p8FF16zJs/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "28:02",
-            "view_count": "115342",
+            "view_count": "116477",
             "thumbnail_url": "https://i.ytimg.com/vi/BNGIvLGODIk/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "OFFICIAL HIGE DANDISM - Topic",
             "category": "Music",
             "duration": "5:05",
-            "view_count": "363650",
+            "view_count": "364845",
             "thumbnail_url": "https://i.ytimg.com/vi/aRtoPwe4ado/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "35:43",
-            "view_count": "68160",
+            "view_count": "68817",
             "thumbnail_url": "https://i.ytimg.com/vi/7fQ2IvrNdeE/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "악월 AKUGETSU",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "46936",
+            "view_count": "48596",
             "thumbnail_url": "https://i.ytimg.com/vi/fiEsqDOAp7k/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "11:15",
-            "view_count": "202526",
+            "view_count": "203109",
             "thumbnail_url": "https://i.ytimg.com/vi/QE4PfTJUPuk/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "Ahn Heesu - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "8983",
+            "view_count": "9207",
             "thumbnail_url": "https://i.ytimg.com/vi/Svl9e0Fcc6Y/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "30:09",
-            "view_count": "461334",
+            "view_count": "461867",
             "thumbnail_url": "https://i.ytimg.com/vi/ZHd5N-l8ouM/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "Heize official",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "37577",
+            "view_count": "37762",
             "thumbnail_url": "https://i.ytimg.com/vi/TtD5v7sRu28/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "썩쏘TV",
             "category": "Gaming",
             "duration": "24:14",
-            "view_count": "160660",
+            "view_count": "163472",
             "thumbnail_url": "https://i.ytimg.com/vi/CuN2Kj87Eso/hqdefault.jpg"
         },
         {
@@ -295,8 +295,26 @@
             "channel_name": "entoy - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "16747",
+            "view_count": "17142",
             "thumbnail_url": "https://i.ytimg.com/vi/UtETrLQiUEE/hqdefault.jpg"
+        },
+        {
+            "video_id": "KaLxn8EKAT8",
+            "title": "이번 주 산타 퓨즈머신을 대비해 시크릿 창고 여러개를 가득 채웠습니다 ㅋㅋㅋ 타코 데이 행운 12배 대박인데!!?  (로블록스 브레인롯 훔치기)",
+            "channel_name": "말량",
+            "category": "Gaming",
+            "duration": "25:38",
+            "view_count": "133402",
+            "thumbnail_url": "https://i.ytimg.com/vi/KaLxn8EKAT8/hqdefault.jpg"
+        },
+        {
+            "video_id": "ofNQ2yoMvDM",
+            "title": "진 (Jin) 'The Astronaut' Stage CAM @ 'RUNSEOKJIN_EP.TOUR' ENCORE Day 2",
+            "channel_name": "BANGTANTV",
+            "category": "Music",
+            "duration": "4:55",
+            "view_count": "105140",
+            "thumbnail_url": "https://i.ytimg.com/vi/ofNQ2yoMvDM/hqdefault.jpg"
         },
         {
             "video_id": "kLEVRKWcRN0",
@@ -304,7 +322,7 @@
             "channel_name": "김성회의 G식백과",
             "category": "Gaming",
             "duration": "17:15",
-            "view_count": "424057",
+            "view_count": "425325",
             "thumbnail_url": "https://i.ytimg.com/vi/kLEVRKWcRN0/hqdefault.jpg"
         },
         {
@@ -313,26 +331,8 @@
             "channel_name": "1theK Originals - 원더케이 오리지널",
             "category": "Entertainment",
             "duration": "2:55",
-            "view_count": "105601",
+            "view_count": "107666",
             "thumbnail_url": "https://i.ytimg.com/vi/tGYLldnv_Eo/hqdefault.jpg"
-        },
-        {
-            "video_id": "KaLxn8EKAT8",
-            "title": "이번 주 산타 퓨즈머신을 대비해 시크릿 창고 여러개를 가득 채웠습니다 ㅋㅋㅋ 타코 데이 행운 12배 대박인데!!?  (로블록스 브레인롯 훔치기)",
-            "channel_name": "말량",
-            "category": "Gaming",
-            "duration": "25:38",
-            "view_count": "132869",
-            "thumbnail_url": "https://i.ytimg.com/vi/KaLxn8EKAT8/hqdefault.jpg"
-        },
-        {
-            "video_id": "-gzqfjzqG6U",
-            "title": "VERIVERY - 'RED (Beggin')' Official M/V",
-            "channel_name": "VERIVERY",
-            "category": "Entertainment",
-            "duration": "3:04",
-            "view_count": "2253910",
-            "thumbnail_url": "https://i.ytimg.com/vi/-gzqfjzqG6U/hqdefault.jpg"
         },
         {
             "video_id": "3e8hKr0DwtU",
@@ -340,17 +340,17 @@
             "channel_name": "인피쉰",
             "category": "Gaming",
             "duration": "4:38:29",
-            "view_count": "85021",
+            "view_count": "85516",
             "thumbnail_url": "https://i.ytimg.com/vi/3e8hKr0DwtU/hqdefault.jpg"
         },
         {
-            "video_id": "ofNQ2yoMvDM",
-            "title": "진 (Jin) 'The Astronaut' Stage CAM @ 'RUNSEOKJIN_EP.TOUR' ENCORE Day 2",
-            "channel_name": "BANGTANTV",
-            "category": "Music",
-            "duration": "4:55",
-            "view_count": "99021",
-            "thumbnail_url": "https://i.ytimg.com/vi/ofNQ2yoMvDM/hqdefault.jpg"
+            "video_id": "-gzqfjzqG6U",
+            "title": "VERIVERY - 'RED (Beggin')' Official M/V",
+            "channel_name": "VERIVERY",
+            "category": "Entertainment",
+            "duration": "3:04",
+            "view_count": "2257488",
+            "thumbnail_url": "https://i.ytimg.com/vi/-gzqfjzqG6U/hqdefault.jpg"
         },
         {
             "video_id": "NB9GaP2f8FA",
@@ -358,17 +358,17 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:05",
-            "view_count": "438083",
+            "view_count": "438732",
             "thumbnail_url": "https://i.ytimg.com/vi/NB9GaP2f8FA/hqdefault.jpg"
         },
         {
-            "video_id": "ucZtzK6CEwg",
-            "title": "Only for You",
-            "channel_name": "ZO ZAZZ - Topic",
+            "video_id": "pqDTRgaY8q0",
+            "title": "고요한 밤 하늘 별들 반짝일 때 Savior Has Come",
+            "channel_name": "팀룩워십 (Team Luke Worship) - Topic",
             "category": "Music",
-            "duration": "3:38",
-            "view_count": "127827",
-            "thumbnail_url": "https://i.ytimg.com/vi/ucZtzK6CEwg/hqdefault.jpg"
+            "duration": "3:47",
+            "view_count": "21360",
+            "thumbnail_url": "https://i.ytimg.com/vi/pqDTRgaY8q0/hqdefault.jpg"
         },
         {
             "video_id": "Up5dv-5BnX4",
@@ -376,7 +376,7 @@
             "channel_name": "수삼티비",
             "category": "Gaming",
             "duration": "2:29:51",
-            "view_count": "78051",
+            "view_count": "79432",
             "thumbnail_url": "https://i.ytimg.com/vi/Up5dv-5BnX4/hqdefault.jpg"
         }
     ]
