@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-12-05 02:24:16",
+    "scraped_time": "2025-12-05 03:36:20",
     "videos": [
         {
             "video_id": "JG6YHjbj4zQ",
@@ -7,17 +7,17 @@
             "channel_name": "fromis_9 - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "512860",
+            "view_count": "516740",
             "thumbnail_url": "https://i.ytimg.com/vi/JG6YHjbj4zQ/hqdefault.jpg"
         },
         {
-            "video_id": "7SSLElO33q8",
-            "title": "피지컬: 웰컴 투 몽골 | 공식 티저 예고편 | 넷플릭스",
+            "video_id": "46mnxS30MHY",
+            "title": "대홍수 | 공식 예고편 | 넷플릭스",
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
-            "duration": "1:20",
-            "view_count": "541455",
-            "thumbnail_url": "https://i.ytimg.com/vi/7SSLElO33q8/hqdefault.jpg"
+            "duration": "2:04",
+            "view_count": "97365",
+            "thumbnail_url": "https://i.ytimg.com/vi/46mnxS30MHY/hqdefault.jpg"
         },
         {
             "video_id": "soy-y3dplz0",
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "51:34",
-            "view_count": "377148",
+            "view_count": "414858",
             "thumbnail_url": "https://i.ytimg.com/vi/soy-y3dplz0/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "TAEYEON - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "724749",
+            "view_count": "727996",
             "thumbnail_url": "https://i.ytimg.com/vi/ODRqjBLzjEM/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "김어준의 겸손은힘들다 뉴스공장",
             "category": "News & Politics",
             "duration": "0:40",
-            "view_count": "45193",
+            "view_count": "45402",
             "thumbnail_url": "https://i.ytimg.com/vi/JOV41OKIXBM/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "20:09",
-            "view_count": "201964",
+            "view_count": "221146",
             "thumbnail_url": "https://i.ytimg.com/vi/0XDoTtKGdp0/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "소란 / SORAN",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "50597",
+            "view_count": "53207",
             "thumbnail_url": "https://i.ytimg.com/vi/FP74cfurf5c/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "15:03",
-            "view_count": "114934",
+            "view_count": "123292",
             "thumbnail_url": "https://i.ytimg.com/vi/n0027U6EADw/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "아샤트리 AshaTree",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "83446",
+            "view_count": "84223",
             "thumbnail_url": "https://i.ytimg.com/vi/3_biExdxQyk/hqdefault.jpg"
-        },
-        {
-            "video_id": "SPK6PveYJwg",
-            "title": "연말의 기적 | 멸망전 EP.23",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "42:32",
-            "view_count": "221631",
-            "thumbnail_url": "https://i.ytimg.com/vi/SPK6PveYJwg/hqdefault.jpg"
-        },
-        {
-            "video_id": "UtETrLQiUEE",
-            "title": "Love is you",
-            "channel_name": "entoy - Topic",
-            "category": "Music",
-            "duration": "3:16",
-            "view_count": "52743",
-            "thumbnail_url": "https://i.ytimg.com/vi/UtETrLQiUEE/hqdefault.jpg"
         },
         {
             "video_id": "uMNfvryL0JE",
@@ -115,8 +97,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "59:16",
-            "view_count": "93158",
+            "view_count": "110891",
             "thumbnail_url": "https://i.ytimg.com/vi/uMNfvryL0JE/hqdefault.jpg"
+        },
+        {
+            "video_id": "UtETrLQiUEE",
+            "title": "Love is you",
+            "channel_name": "entoy - Topic",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "53717",
+            "thumbnail_url": "https://i.ytimg.com/vi/UtETrLQiUEE/hqdefault.jpg"
+        },
+        {
+            "video_id": "Cp1PWhLjFwE",
+            "title": "귀뚤톡크 마스터 - 4세대 : 기라티나 버전【1~4세대 정주행】",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "25:20",
+            "view_count": "96022",
+            "thumbnail_url": "https://i.ytimg.com/vi/Cp1PWhLjFwE/hqdefault.jpg"
         },
         {
             "video_id": "6jdujhYNQMY",
@@ -124,17 +124,17 @@
             "channel_name": "Richard Parkers - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "33665",
+            "view_count": "33956",
             "thumbnail_url": "https://i.ytimg.com/vi/6jdujhYNQMY/hqdefault.jpg"
         },
         {
-            "video_id": "HXqcVoEWHdQ",
-            "title": "\"세주아니 대가리 강타 사건\" 아니 이게 어떻게 또 나오나요!!【멸망전 Ep. 15】",
-            "channel_name": "이상호",
+            "video_id": "SPK6PveYJwg",
+            "title": "연말의 기적 | 멸망전 EP.23",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "42:51",
-            "view_count": "278112",
-            "thumbnail_url": "https://i.ytimg.com/vi/HXqcVoEWHdQ/hqdefault.jpg"
+            "duration": "42:32",
+            "view_count": "222642",
+            "thumbnail_url": "https://i.ytimg.com/vi/SPK6PveYJwg/hqdefault.jpg"
         },
         {
             "video_id": "C55WD6N_Mew",
@@ -142,7 +142,7 @@
             "channel_name": "Jung Seo Joo - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "19189",
+            "view_count": "19545",
             "thumbnail_url": "https://i.ytimg.com/vi/C55WD6N_Mew/hqdefault.jpg"
         },
         {
@@ -151,8 +151,26 @@
             "channel_name": "JUNE",
             "category": "Gaming",
             "duration": "13:23",
-            "view_count": "87551",
+            "view_count": "92579",
             "thumbnail_url": "https://i.ytimg.com/vi/8RguadXcoyw/hqdefault.jpg"
+        },
+        {
+            "video_id": "jlhPIaJi7O8",
+            "title": "Sung Si Kyung(성시경) - Anytime anyhow(어떤 날 어떤 마음으로) | 💗 Surely Tomorrow 경도를 기다리며 OST",
+            "channel_name": "MUSIC&NEW 뮤직앤뉴",
+            "category": "Music",
+            "duration": "3:50",
+            "view_count": "14774",
+            "thumbnail_url": "https://i.ytimg.com/vi/jlhPIaJi7O8/hqdefault.jpg"
+        },
+        {
+            "video_id": "HXqcVoEWHdQ",
+            "title": "\"세주아니 대가리 강타 사건\" 아니 이게 어떻게 또 나오나요!!【멸망전 Ep. 15】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "42:51",
+            "view_count": "279422",
+            "thumbnail_url": "https://i.ytimg.com/vi/HXqcVoEWHdQ/hqdefault.jpg"
         },
         {
             "video_id": "t8p8FF16zJs",
@@ -160,7 +178,7 @@
             "channel_name": "Paul Kim - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "55830",
+            "view_count": "56760",
             "thumbnail_url": "https://i.ytimg.com/vi/t8p8FF16zJs/hqdefault.jpg"
         },
         {
@@ -169,44 +187,8 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "28:51",
-            "view_count": "161580",
+            "view_count": "163090",
             "thumbnail_url": "https://i.ytimg.com/vi/0xzM1GwtcSk/hqdefault.jpg"
-        },
-        {
-            "video_id": "xGhaNqnjgr4",
-            "title": "TAEYEON 태연 '인사 (Panorama)' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "3:12",
-            "view_count": "803058",
-            "thumbnail_url": "https://i.ytimg.com/vi/xGhaNqnjgr4/hqdefault.jpg"
-        },
-        {
-            "video_id": "Cp1PWhLjFwE",
-            "title": "귀뚤톡크 마스터 - 4세대 : 기라티나 버전【1~4세대 정주행】",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "25:20",
-            "view_count": "87741",
-            "thumbnail_url": "https://i.ytimg.com/vi/Cp1PWhLjFwE/hqdefault.jpg"
-        },
-        {
-            "video_id": "jlhPIaJi7O8",
-            "title": "Sung Si Kyung(성시경) - Anytime anyhow(어떤 날 어떤 마음으로) | 💗 Surely Tomorrow 경도를 기다리며 OST",
-            "channel_name": "MUSIC&NEW 뮤직앤뉴",
-            "category": "Music",
-            "duration": "3:50",
-            "view_count": "13619",
-            "thumbnail_url": "https://i.ytimg.com/vi/jlhPIaJi7O8/hqdefault.jpg"
-        },
-        {
-            "video_id": "JRLMnO7FZMw",
-            "title": "이번 시즌 노동청은 너다 홍철아 ㅋㅋㅋㅋ",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "12:04",
-            "view_count": "123700",
-            "thumbnail_url": "https://i.ytimg.com/vi/JRLMnO7FZMw/hqdefault.jpg"
         },
         {
             "video_id": "Ts2mpHh26WQ",
@@ -214,17 +196,35 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "9673",
+            "view_count": "10155",
             "thumbnail_url": "https://i.ytimg.com/vi/Ts2mpHh26WQ/hqdefault.jpg"
         },
         {
-            "video_id": "EzP4AfdZxJ4",
-            "title": "좀비가 모든 걸 집어삼킨 도시... 변하지 않은 건 나뿐이었다",
-            "channel_name": "잠뜰 TV",
+            "video_id": "JRLMnO7FZMw",
+            "title": "이번 시즌 노동청은 너다 홍철아 ㅋㅋㅋㅋ",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "40:19",
-            "view_count": "205721",
-            "thumbnail_url": "https://i.ytimg.com/vi/EzP4AfdZxJ4/hqdefault.jpg"
+            "duration": "12:04",
+            "view_count": "128029",
+            "thumbnail_url": "https://i.ytimg.com/vi/JRLMnO7FZMw/hqdefault.jpg"
+        },
+        {
+            "video_id": "xGhaNqnjgr4",
+            "title": "TAEYEON 태연 '인사 (Panorama)' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "3:12",
+            "view_count": "806562",
+            "thumbnail_url": "https://i.ytimg.com/vi/xGhaNqnjgr4/hqdefault.jpg"
+        },
+        {
+            "video_id": "79K5lyKcuCI",
+            "title": "\"이쉬탈 랭킹 1등\"",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "17:21",
+            "view_count": "80199",
+            "thumbnail_url": "https://i.ytimg.com/vi/79K5lyKcuCI/hqdefault.jpg"
         },
         {
             "video_id": "ysHWGK6LhOE",
@@ -232,7 +232,7 @@
             "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "174338",
+            "view_count": "176407",
             "thumbnail_url": "https://i.ytimg.com/vi/ysHWGK6LhOE/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "16:51",
-            "view_count": "97182",
+            "view_count": "109252",
             "thumbnail_url": "https://i.ytimg.com/vi/7qv5E8rQjT4/hqdefault.jpg"
         },
         {
@@ -250,44 +250,8 @@
             "channel_name": "악월 AKUGETSU",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "89753",
+            "view_count": "91851",
             "thumbnail_url": "https://i.ytimg.com/vi/fiEsqDOAp7k/hqdefault.jpg"
-        },
-        {
-            "video_id": "79K5lyKcuCI",
-            "title": "\"이쉬탈 랭킹 1등\"",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "17:21",
-            "view_count": "72229",
-            "thumbnail_url": "https://i.ytimg.com/vi/79K5lyKcuCI/hqdefault.jpg"
-        },
-        {
-            "video_id": "TOLkVmU9uEw",
-            "title": "7080 카페음악모음 ✨ ☕ 중년의 여유를 담은 커피 음악 컬렉션 📷📷그집앞/바람바람바람/잊혀진 사랑/아득히먼곳/어느 60대 노부부 이야기",
-            "channel_name": "JUN FM",
-            "category": "People & Blogs",
-            "duration": "1:22:03",
-            "view_count": "25564",
-            "thumbnail_url": "https://i.ytimg.com/vi/TOLkVmU9uEw/hqdefault.jpg"
-        },
-        {
-            "video_id": "3uekXT6Z89E",
-            "title": "겜알못 친구 대신 대리게임해서 모든 내기 이기기!ㅋㅋㅋㅋ",
-            "channel_name": "도징징",
-            "category": "Comedy",
-            "duration": "14:30",
-            "view_count": "41051",
-            "thumbnail_url": "https://i.ytimg.com/vi/3uekXT6Z89E/hqdefault.jpg"
-        },
-        {
-            "video_id": "PhAHl7-iMz4",
-            "title": "silent treatment",
-            "channel_name": "Freya Skye - Topic",
-            "category": "Music",
-            "duration": "2:23",
-            "view_count": "596317",
-            "thumbnail_url": "https://i.ytimg.com/vi/PhAHl7-iMz4/hqdefault.jpg"
         },
         {
             "video_id": "HvuyG9IuDhw",
@@ -295,8 +259,44 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "30:57",
-            "view_count": "62109",
+            "view_count": "70871",
             "thumbnail_url": "https://i.ytimg.com/vi/HvuyG9IuDhw/hqdefault.jpg"
+        },
+        {
+            "video_id": "TOLkVmU9uEw",
+            "title": "7080 카페음악모음 ✨ ☕ 중년의 여유를 담은 커피 음악 컬렉션 📷📷그집앞/바람바람바람/잊혀진 사랑/아득히먼곳/어느 60대 노부부 이야기",
+            "channel_name": "JUN FM",
+            "category": "People & Blogs",
+            "duration": "1:22:03",
+            "view_count": "25687",
+            "thumbnail_url": "https://i.ytimg.com/vi/TOLkVmU9uEw/hqdefault.jpg"
+        },
+        {
+            "video_id": "EzP4AfdZxJ4",
+            "title": "좀비가 모든 걸 집어삼킨 도시... 변하지 않은 건 나뿐이었다",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "40:19",
+            "view_count": "207354",
+            "thumbnail_url": "https://i.ytimg.com/vi/EzP4AfdZxJ4/hqdefault.jpg"
+        },
+        {
+            "video_id": "PhAHl7-iMz4",
+            "title": "silent treatment",
+            "channel_name": "Freya Skye - Topic",
+            "category": "Music",
+            "duration": "2:23",
+            "view_count": "606697",
+            "thumbnail_url": "https://i.ytimg.com/vi/PhAHl7-iMz4/hqdefault.jpg"
+        },
+        {
+            "video_id": "3uekXT6Z89E",
+            "title": "겜알못 친구 대신 대리게임해서 모든 내기 이기기!ㅋㅋㅋㅋ",
+            "channel_name": "도징징",
+            "category": "Comedy",
+            "duration": "14:30",
+            "view_count": "43529",
+            "thumbnail_url": "https://i.ytimg.com/vi/3uekXT6Z89E/hqdefault.jpg"
         },
         {
             "video_id": "I1Gs69t_jQ8",
@@ -304,26 +304,8 @@
             "channel_name": "Roy Kim - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "265121",
+            "view_count": "266233",
             "thumbnail_url": "https://i.ytimg.com/vi/I1Gs69t_jQ8/hqdefault.jpg"
-        },
-        {
-            "video_id": "2hTGfFCowAA",
-            "title": "[생]바둑 황태자 까꿍프로",
-            "channel_name": "까꿍프로_바둑채널",
-            "category": "Gaming",
-            "duration": "4:49:15",
-            "view_count": "51178",
-            "thumbnail_url": "https://i.ytimg.com/vi/2hTGfFCowAA/hqdefault.jpg"
-        },
-        {
-            "video_id": "Svl9e0Fcc6Y",
-            "title": "세상엔 말뿐인 말들이 너무나 많이 존재하니까",
-            "channel_name": "Ahn Heesu - Topic",
-            "category": "Music",
-            "duration": "4:30",
-            "view_count": "18410",
-            "thumbnail_url": "https://i.ytimg.com/vi/Svl9e0Fcc6Y/hqdefault.jpg"
         },
         {
             "video_id": "cra35r93iag",
@@ -331,8 +313,44 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "37:50",
-            "view_count": "68338",
+            "view_count": "70979",
             "thumbnail_url": "https://i.ytimg.com/vi/cra35r93iag/hqdefault.jpg"
+        },
+        {
+            "video_id": "Svl9e0Fcc6Y",
+            "title": "세상엔 말뿐인 말들이 너무나 많이 존재하니까",
+            "channel_name": "Ahn Heesu - Topic",
+            "category": "Music",
+            "duration": "4:30",
+            "view_count": "18646",
+            "thumbnail_url": "https://i.ytimg.com/vi/Svl9e0Fcc6Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "6LmESQofRts",
+            "title": "같은 그림 찾기만 하면 되는 지금 초보자가 가장 따라하기 쉽고 강한 미친 꿀덱 ㄷㄷㄷㄷ",
+            "channel_name": "전쓰트의 게임 채널 Junsst",
+            "category": "Gaming",
+            "duration": "17:44",
+            "view_count": "43039",
+            "thumbnail_url": "https://i.ytimg.com/vi/6LmESQofRts/hqdefault.jpg"
+        },
+        {
+            "video_id": "coEm9SFRFCM",
+            "title": "Blushing",
+            "channel_name": "meenoi - Topic",
+            "category": "Music",
+            "duration": "2:57",
+            "view_count": "9975",
+            "thumbnail_url": "https://i.ytimg.com/vi/coEm9SFRFCM/hqdefault.jpg"
+        },
+        {
+            "video_id": "2hTGfFCowAA",
+            "title": "[생]바둑 황태자 까꿍프로",
+            "channel_name": "까꿍프로_바둑채널",
+            "category": "Gaming",
+            "duration": "4:49:15",
+            "view_count": "51228",
+            "thumbnail_url": "https://i.ytimg.com/vi/2hTGfFCowAA/hqdefault.jpg"
         },
         {
             "video_id": "wVH2naW5D9Q",
@@ -340,7 +358,7 @@
             "channel_name": "Sora Tide",
             "category": "People & Blogs",
             "duration": "45:56",
-            "view_count": "10097",
+            "view_count": "10200",
             "thumbnail_url": "https://i.ytimg.com/vi/wVH2naW5D9Q/hqdefault.jpg"
         },
         {
@@ -349,35 +367,17 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "9:16",
-            "view_count": "102557",
+            "view_count": "105672",
             "thumbnail_url": "https://i.ytimg.com/vi/hZswD45Vzcg/hqdefault.jpg"
         },
         {
-            "video_id": "coEm9SFRFCM",
-            "title": "Blushing",
-            "channel_name": "meenoi - Topic",
-            "category": "Music",
-            "duration": "2:57",
-            "view_count": "9319",
-            "thumbnail_url": "https://i.ytimg.com/vi/coEm9SFRFCM/hqdefault.jpg"
-        },
-        {
-            "video_id": "K7ylLLr5Mig",
-            "title": "카트라이더 클래식 오피셜 설문조사 같이 해보기",
-            "channel_name": "형독방송",
-            "category": "Gaming",
-            "duration": "14:29",
-            "view_count": "120488",
-            "thumbnail_url": "https://i.ytimg.com/vi/K7ylLLr5Mig/hqdefault.jpg"
-        },
-        {
-            "video_id": "vXn6zw8UWSs",
-            "title": "Sweet Tooth",
-            "channel_name": "BINI - Topic",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "132823",
-            "thumbnail_url": "https://i.ytimg.com/vi/vXn6zw8UWSs/hqdefault.jpg"
+            "video_id": "SQWc-sCMoVA",
+            "title": "ENHYPEN (엔하이픈) 2025 MAMA AWARDS Performance Practice ",
+            "channel_name": "ENHYPEN",
+            "category": "Entertainment",
+            "duration": "4:08",
+            "view_count": "173243",
+            "thumbnail_url": "https://i.ytimg.com/vi/SQWc-sCMoVA/hqdefault.jpg"
         }
     ]
 }
