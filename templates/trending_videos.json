@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-12-06 10:44:44",
+    "scraped_time": "2025-12-06 12:11:22",
     "videos": [
         {
             "video_id": "JG6YHjbj4zQ",
@@ -7,17 +7,17 @@
             "channel_name": "fromis_9 - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "778309",
+            "view_count": "798555",
             "thumbnail_url": "https://i.ytimg.com/vi/JG6YHjbj4zQ/hqdefault.jpg"
         },
         {
-            "video_id": "46mnxS30MHY",
-            "title": "대홍수 | 공식 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "2:04",
-            "view_count": "298133",
-            "thumbnail_url": "https://i.ytimg.com/vi/46mnxS30MHY/hqdefault.jpg"
+            "video_id": "j6K_qexKXoI",
+            "title": "[공식] 파피 플레이타임 챕터 5 시네마틱 트레일러",
+            "channel_name": "대타맨",
+            "category": "Gaming",
+            "duration": "0:58",
+            "view_count": "38509",
+            "thumbnail_url": "https://i.ytimg.com/vi/j6K_qexKXoI/hqdefault.jpg"
         },
         {
             "video_id": "soy-y3dplz0",
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "51:34",
-            "view_count": "753481",
+            "view_count": "761904",
             "thumbnail_url": "https://i.ytimg.com/vi/soy-y3dplz0/hqdefault.jpg"
         },
         {
@@ -34,17 +34,17 @@
             "channel_name": "TOMIOKA AI - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "64686",
+            "view_count": "69703",
             "thumbnail_url": "https://i.ytimg.com/vi/oA9if7e8Xt0/hqdefault.jpg"
         },
         {
-            "video_id": "j6K_qexKXoI",
-            "title": "[공식] 파피 플레이타임 챕터 5 시네마틱 트레일러",
-            "channel_name": "대타맨",
-            "category": "Gaming",
-            "duration": "0:58",
-            "view_count": "26477",
-            "thumbnail_url": "https://i.ytimg.com/vi/j6K_qexKXoI/hqdefault.jpg"
+            "video_id": "46mnxS30MHY",
+            "title": "대홍수 | 공식 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "2:04",
+            "view_count": "311514",
+            "thumbnail_url": "https://i.ytimg.com/vi/46mnxS30MHY/hqdefault.jpg"
         },
         {
             "video_id": "AOR24U3_5So",
@@ -52,7 +52,7 @@
             "channel_name": "Hanwha Life Esports",
             "category": "Gaming",
             "duration": "18:56",
-            "view_count": "277206",
+            "view_count": "293405",
             "thumbnail_url": "https://i.ytimg.com/vi/AOR24U3_5So/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "JUN FM",
             "category": "People & Blogs",
             "duration": "1:08:03",
-            "view_count": "35880",
+            "view_count": "39051",
             "thumbnail_url": "https://i.ytimg.com/vi/EEoHah3nu-k/hqdefault.jpg"
         },
         {
@@ -70,17 +70,17 @@
             "channel_name": "GLITCH",
             "category": "Film & Animation",
             "duration": "0:58",
-            "view_count": "1865849",
+            "view_count": "2290510",
             "thumbnail_url": "https://i.ytimg.com/vi/VI6XO8EijT4/hqdefault.jpg"
         },
         {
-            "video_id": "0XDoTtKGdp0",
-            "title": "아 실명이에요",
-            "channel_name": "PAKA",
+            "video_id": "eIHNDrwJSl8",
+            "title": "이게 멸망전이라고? 역대급 미친 경기 나왔습니다｜멸망전 4강#2",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "20:09",
-            "view_count": "374611",
-            "thumbnail_url": "https://i.ytimg.com/vi/0XDoTtKGdp0/hqdefault.jpg"
+            "duration": "1:49:14",
+            "view_count": "128118",
+            "thumbnail_url": "https://i.ytimg.com/vi/eIHNDrwJSl8/hqdefault.jpg"
         },
         {
             "video_id": "FP74cfurf5c",
@@ -88,7 +88,7 @@
             "channel_name": "소란 / SORAN",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "91966",
+            "view_count": "93510",
             "thumbnail_url": "https://i.ytimg.com/vi/FP74cfurf5c/hqdefault.jpg"
         },
         {
@@ -97,17 +97,17 @@
             "channel_name": "엣나인필름ATNINEFILM",
             "category": "Film & Animation",
             "duration": "1:41",
-            "view_count": "13562",
+            "view_count": "14107",
             "thumbnail_url": "https://i.ytimg.com/vi/NuOR-QdYhpU/hqdefault.jpg"
         },
         {
-            "video_id": "eIHNDrwJSl8",
-            "title": "이게 멸망전이라고? 역대급 미친 경기 나왔습니다｜멸망전 4강#2",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "video_id": "0XDoTtKGdp0",
+            "title": "아 실명이에요",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "1:49:14",
-            "view_count": "110164",
-            "thumbnail_url": "https://i.ytimg.com/vi/eIHNDrwJSl8/hqdefault.jpg"
+            "duration": "20:09",
+            "view_count": "378243",
+            "thumbnail_url": "https://i.ytimg.com/vi/0XDoTtKGdp0/hqdefault.jpg"
         },
         {
             "video_id": "Ts2mpHh26WQ",
@@ -115,7 +115,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "37069",
+            "view_count": "38695",
             "thumbnail_url": "https://i.ytimg.com/vi/Ts2mpHh26WQ/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "1:34:04",
-            "view_count": "236291",
+            "view_count": "237941",
             "thumbnail_url": "https://i.ytimg.com/vi/33I5tzXWZHw/hqdefault.jpg"
         },
         {
@@ -133,8 +133,26 @@
             "channel_name": "TAEYEON - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "887727",
+            "view_count": "897013",
             "thumbnail_url": "https://i.ytimg.com/vi/ODRqjBLzjEM/hqdefault.jpg"
+        },
+        {
+            "video_id": "2HJ5N2m2EWY",
+            "title": "동굴에서 500일 살아남기 도전!!!",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "20:12",
+            "view_count": "149068",
+            "thumbnail_url": "https://i.ytimg.com/vi/2HJ5N2m2EWY/hqdefault.jpg"
+        },
+        {
+            "video_id": "aLBo0oJqBXI",
+            "title": "ALPHA DRIVE ONE (알파드라이브원)  FORMULA PERFORMANCE VIDEO",
+            "channel_name": "ALPHA DRIVE ONE",
+            "category": "People & Blogs",
+            "duration": "3:27",
+            "view_count": "3651117",
+            "thumbnail_url": "https://i.ytimg.com/vi/aLBo0oJqBXI/hqdefault.jpg"
         },
         {
             "video_id": "1-ghYr61hfc",
@@ -146,30 +164,12 @@
             "thumbnail_url": "https://i.ytimg.com/vi/1-ghYr61hfc/hqdefault.jpg"
         },
         {
-            "video_id": "aLBo0oJqBXI",
-            "title": "ALPHA DRIVE ONE (알파드라이브원)  FORMULA PERFORMANCE VIDEO",
-            "channel_name": "ALPHA DRIVE ONE",
-            "category": "People & Blogs",
-            "duration": "3:27",
-            "view_count": "3571897",
-            "thumbnail_url": "https://i.ytimg.com/vi/aLBo0oJqBXI/hqdefault.jpg"
-        },
-        {
-            "video_id": "2HJ5N2m2EWY",
-            "title": "동굴에서 500일 살아남기 도전!!!",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "20:12",
-            "view_count": "127796",
-            "thumbnail_url": "https://i.ytimg.com/vi/2HJ5N2m2EWY/hqdefault.jpg"
-        },
-        {
             "video_id": "6h3WcUKFxks",
             "title": "Fight Me",
             "channel_name": "meenoi - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "27461",
+            "view_count": "29401",
             "thumbnail_url": "https://i.ytimg.com/vi/6h3WcUKFxks/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "발__젭",
             "category": "Gaming",
             "duration": "14:46",
-            "view_count": "107735",
+            "view_count": "115093",
             "thumbnail_url": "https://i.ytimg.com/vi/F3ZS6aLWxmU/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "아샤트리 AshaTree",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "119710",
+            "view_count": "121820",
             "thumbnail_url": "https://i.ytimg.com/vi/3_biExdxQyk/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "16:34",
-            "view_count": "124095",
+            "view_count": "126454",
             "thumbnail_url": "https://i.ytimg.com/vi/cXbTm9JOJzc/hqdefault.jpg"
         },
         {
@@ -205,26 +205,8 @@
             "channel_name": "entoy - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "93196",
+            "view_count": "94677",
             "thumbnail_url": "https://i.ytimg.com/vi/UtETrLQiUEE/hqdefault.jpg"
-        },
-        {
-            "video_id": "-xbbzIzZrow",
-            "title": "퇴근 후 힐링스타 하려던 직장인 상대, 하필 공방 싸이코 알파고를 만나버렸다..",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "40:44",
-            "view_count": "125519",
-            "thumbnail_url": "https://i.ytimg.com/vi/-xbbzIzZrow/hqdefault.jpg"
-        },
-        {
-            "video_id": "jlhPIaJi7O8",
-            "title": "Sung Si Kyung(성시경) - Anytime anyhow(어떤 날 어떤 마음으로) | 💗 Surely Tomorrow 경도를 기다리며 OST",
-            "channel_name": "MUSIC&NEW 뮤직앤뉴",
-            "category": "Music",
-            "duration": "3:50",
-            "view_count": "34392",
-            "thumbnail_url": "https://i.ytimg.com/vi/jlhPIaJi7O8/hqdefault.jpg"
         },
         {
             "video_id": "gVCrZXwsMv4",
@@ -232,7 +214,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "27:02",
-            "view_count": "76934",
+            "view_count": "84963",
             "thumbnail_url": "https://i.ytimg.com/vi/gVCrZXwsMv4/hqdefault.jpg"
         },
         {
@@ -241,8 +223,26 @@
             "channel_name": "KIM LEGEND - Topic",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "18442",
+            "view_count": "19175",
             "thumbnail_url": "https://i.ytimg.com/vi/_ubzh54QKJA/hqdefault.jpg"
+        },
+        {
+            "video_id": "-xbbzIzZrow",
+            "title": "퇴근 후 힐링스타 하려던 직장인 상대, 하필 공방 싸이코 알파고를 만나버렸다..",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "40:44",
+            "view_count": "128895",
+            "thumbnail_url": "https://i.ytimg.com/vi/-xbbzIzZrow/hqdefault.jpg"
+        },
+        {
+            "video_id": "jlhPIaJi7O8",
+            "title": "Sung Si Kyung(성시경) - Anytime anyhow(어떤 날 어떤 마음으로) | 💗 Surely Tomorrow 경도를 기다리며 OST",
+            "channel_name": "MUSIC&NEW 뮤직앤뉴",
+            "category": "Music",
+            "duration": "3:50",
+            "view_count": "34968",
+            "thumbnail_url": "https://i.ytimg.com/vi/jlhPIaJi7O8/hqdefault.jpg"
         },
         {
             "video_id": "SYS6ISMxtBg",
@@ -250,7 +250,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "12:01",
-            "view_count": "95283",
+            "view_count": "99432",
             "thumbnail_url": "https://i.ytimg.com/vi/SYS6ISMxtBg/hqdefault.jpg"
         },
         {
@@ -259,17 +259,17 @@
             "channel_name": "Paul Kim - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "106703",
+            "view_count": "109578",
             "thumbnail_url": "https://i.ytimg.com/vi/t8p8FF16zJs/hqdefault.jpg"
         },
         {
-            "video_id": "i_3EFfvOL-g",
-            "title": "홍구 : 잘하는놈 찾는다구요? 여기 래더 1등이요 ㅋㅋㅋㅋㅋ",
-            "channel_name": "발스타홍구",
+            "video_id": "6mY0Adr-Fxc",
+            "title": "아니 무슨 진짜 리듬 게임을 만들었네 ㅋㅋㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
-            "duration": "23:41",
-            "view_count": "119440",
-            "thumbnail_url": "https://i.ytimg.com/vi/i_3EFfvOL-g/hqdefault.jpg"
+            "duration": "20:15",
+            "view_count": "80621",
+            "thumbnail_url": "https://i.ytimg.com/vi/6mY0Adr-Fxc/hqdefault.jpg"
         },
         {
             "video_id": "C55WD6N_Mew",
@@ -277,26 +277,8 @@
             "channel_name": "Jung Seo Joo - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "32350",
+            "view_count": "32915",
             "thumbnail_url": "https://i.ytimg.com/vi/C55WD6N_Mew/hqdefault.jpg"
-        },
-        {
-            "video_id": "8cJ-456Jnls",
-            "title": "마크에이지 리턴즈3 1회차 : 잊혀진 전설 2부 | 악어 마인크래프트 M.C.Age Returns 3",
-            "channel_name": "악어 유튜브",
-            "category": "Gaming",
-            "duration": "27:29",
-            "view_count": "31477",
-            "thumbnail_url": "https://i.ytimg.com/vi/8cJ-456Jnls/hqdefault.jpg"
-        },
-        {
-            "video_id": "-8V8BYGoQTs",
-            "title": "Last First Christmas",
-            "channel_name": "Lauren Spencer Smith - Topic",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "75680",
-            "thumbnail_url": "https://i.ytimg.com/vi/-8V8BYGoQTs/hqdefault.jpg"
         },
         {
             "video_id": "rVblaYf_Gyo",
@@ -304,7 +286,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "22:25",
-            "view_count": "85166",
+            "view_count": "93208",
             "thumbnail_url": "https://i.ytimg.com/vi/rVblaYf_Gyo/hqdefault.jpg"
         },
         {
@@ -313,17 +295,35 @@
             "channel_name": "O3ohn - Topic",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "20040",
+            "view_count": "22285",
             "thumbnail_url": "https://i.ytimg.com/vi/jeIJW82uM7I/hqdefault.jpg"
         },
         {
-            "video_id": "6mY0Adr-Fxc",
-            "title": "아니 무슨 진짜 리듬 게임을 만들었네 ㅋㅋㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
+            "video_id": "8cJ-456Jnls",
+            "title": "마크에이지 리턴즈3 1회차 : 잊혀진 전설 2부 | 악어 마인크래프트 M.C.Age Returns 3",
+            "channel_name": "악어 유튜브",
             "category": "Gaming",
-            "duration": "20:15",
-            "view_count": "73300",
-            "thumbnail_url": "https://i.ytimg.com/vi/6mY0Adr-Fxc/hqdefault.jpg"
+            "duration": "27:23",
+            "view_count": "32808",
+            "thumbnail_url": "https://i.ytimg.com/vi/8cJ-456Jnls/hqdefault.jpg"
+        },
+        {
+            "video_id": "-8V8BYGoQTs",
+            "title": "Last First Christmas",
+            "channel_name": "Lauren Spencer Smith - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "77292",
+            "thumbnail_url": "https://i.ytimg.com/vi/-8V8BYGoQTs/hqdefault.jpg"
+        },
+        {
+            "video_id": "i_3EFfvOL-g",
+            "title": "홍구 : 잘하는놈 찾는다구요? 여기 래더 1등이요 ㅋㅋㅋㅋㅋ",
+            "channel_name": "발스타홍구",
+            "category": "Gaming",
+            "duration": "23:41",
+            "view_count": "121590",
+            "thumbnail_url": "https://i.ytimg.com/vi/i_3EFfvOL-g/hqdefault.jpg"
         },
         {
             "video_id": "fiEsqDOAp7k",
@@ -331,7 +331,7 @@
             "channel_name": "악월 AKUGETSU",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "142579",
+            "view_count": "145440",
             "thumbnail_url": "https://i.ytimg.com/vi/fiEsqDOAp7k/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "15:03",
-            "view_count": "182930",
+            "view_count": "183919",
             "thumbnail_url": "https://i.ytimg.com/vi/n0027U6EADw/hqdefault.jpg"
         },
         {
@@ -349,17 +349,17 @@
             "channel_name": "CRACKER - Topic",
             "category": "Music",
             "duration": "3:45",
-            "view_count": "16368",
+            "view_count": "16842",
             "thumbnail_url": "https://i.ytimg.com/vi/9lVtROSnPWM/hqdefault.jpg"
         },
         {
-            "video_id": "jB0ZFh-IxXE",
-            "title": "대회에서 만난 아내와 클리드.. 오늘 이기고 결승으로 초대하겠습니다..[멸망전 4강]",
-            "channel_name": "게임대장봉준",
+            "video_id": "MjRGh8e2THw",
+            "title": "아름이 사슴한테 100번 죽고 사과했습니다.. 불가능한 99밤 포레스트 병원에서 살아남기!?",
+            "channel_name": "백앤아",
             "category": "Gaming",
-            "duration": "59:09",
-            "view_count": "131669",
-            "thumbnail_url": "https://i.ytimg.com/vi/jB0ZFh-IxXE/hqdefault.jpg"
+            "duration": "14:57",
+            "view_count": "86391",
+            "thumbnail_url": "https://i.ytimg.com/vi/MjRGh8e2THw/hqdefault.jpg"
         },
         {
             "video_id": "ysHWGK6LhOE",
@@ -367,17 +367,17 @@
             "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "269951",
+            "view_count": "274268",
             "thumbnail_url": "https://i.ytimg.com/vi/ysHWGK6LhOE/hqdefault.jpg"
         },
         {
-            "video_id": "_YoxoveOhkA",
-            "title": "엑스트라식 해설이 판치는 예언자 게임ㅋㅋㅋ",
-            "channel_name": "왈도쿤",
+            "video_id": "jB0ZFh-IxXE",
+            "title": "대회에서 만난 아내와 클리드.. 오늘 이기고 결승으로 초대하겠습니다..[멸망전 4강]",
+            "channel_name": "게임대장봉준",
             "category": "Gaming",
-            "duration": "11:29",
-            "view_count": "91361",
-            "thumbnail_url": "https://i.ytimg.com/vi/_YoxoveOhkA/hqdefault.jpg"
+            "duration": "59:09",
+            "view_count": "133425",
+            "thumbnail_url": "https://i.ytimg.com/vi/jB0ZFh-IxXE/hqdefault.jpg"
         }
     ]
 }
