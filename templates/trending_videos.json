@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-12-11 00:28:17",
+    "scraped_time": "2025-12-11 01:31:36",
     "videos": [
         {
             "video_id": "9nOrPNxjvck",
@@ -7,7 +7,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "8096195",
+            "view_count": "8140670",
             "thumbnail_url": "https://i.ytimg.com/vi/9nOrPNxjvck/hqdefault.jpg"
         },
         {
@@ -16,17 +16,17 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:49",
-            "view_count": "158005",
+            "view_count": "169232",
             "thumbnail_url": "https://i.ytimg.com/vi/FojHz9RM008/hqdefault.jpg"
         },
         {
-            "video_id": "trF9Y7bPVyE",
-            "title": "피곤한 형들의 퇴근을 위해 풀전력 쓰는 피넛 \"신의 퇴근 동선\" 【SLL EP. 09】",
+            "video_id": "rViSNJ7f5IE",
+            "title": "비상사태 발생.. 밥많이퍼와 죄카의 휴방 \"웰컴 쿼드 오뀨\" 【SLL EP. 10】",
             "channel_name": "스맵",
             "category": "Gaming",
-            "duration": "30:45",
-            "view_count": "374583",
-            "thumbnail_url": "https://i.ytimg.com/vi/trF9Y7bPVyE/hqdefault.jpg"
+            "duration": "50:51",
+            "view_count": "199949",
+            "thumbnail_url": "https://i.ytimg.com/vi/rViSNJ7f5IE/hqdefault.jpg"
         },
         {
             "video_id": "TETa0j79byM",
@@ -34,7 +34,7 @@
             "channel_name": "ALLDAY PROJECT - Topic",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "429209",
+            "view_count": "433795",
             "thumbnail_url": "https://i.ytimg.com/vi/TETa0j79byM/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "EXO",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "450146",
+            "view_count": "453241",
             "thumbnail_url": "https://i.ytimg.com/vi/aNDfYPnF6A8/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "한국e스포츠협회",
             "category": "Gaming",
             "duration": "11:19",
-            "view_count": "1243921",
+            "view_count": "1248070",
             "thumbnail_url": "https://i.ytimg.com/vi/MrdezH99WWo/hqdefault.jpg"
         },
         {
@@ -61,26 +61,8 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "400566",
+            "view_count": "406629",
             "thumbnail_url": "https://i.ytimg.com/vi/ss7z2upAvX8/hqdefault.jpg"
-        },
-        {
-            "video_id": "GMTPTRG2oq4",
-            "title": "[LIVE] 12월 9일 아이온2 업데이트 프리뷰 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "1:26:31",
-            "view_count": "166352",
-            "thumbnail_url": "https://i.ytimg.com/vi/GMTPTRG2oq4/hqdefault.jpg"
-        },
-        {
-            "video_id": "Jn4HB9HhVOc",
-            "title": "늦은 말 Promise",
-            "channel_name": "DOYOUNG - Topic",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "89606",
-            "thumbnail_url": "https://i.ytimg.com/vi/Jn4HB9HhVOc/hqdefault.jpg"
         },
         {
             "video_id": "eMllalcKGbM",
@@ -88,8 +70,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "26:23",
-            "view_count": "337958",
+            "view_count": "342748",
             "thumbnail_url": "https://i.ytimg.com/vi/eMllalcKGbM/hqdefault.jpg"
+        },
+        {
+            "video_id": "Jn4HB9HhVOc",
+            "title": "늦은 말 Promise",
+            "channel_name": "DOYOUNG - Topic",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "91782",
+            "thumbnail_url": "https://i.ytimg.com/vi/Jn4HB9HhVOc/hqdefault.jpg"
+        },
+        {
+            "video_id": "GMTPTRG2oq4",
+            "title": "[LIVE] 12월 9일 아이온2 업데이트 프리뷰 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "1:26:31",
+            "view_count": "166591",
+            "thumbnail_url": "https://i.ytimg.com/vi/GMTPTRG2oq4/hqdefault.jpg"
         },
         {
             "video_id": "zpPFHclAOoM",
@@ -97,44 +97,8 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "159579",
+            "view_count": "162509",
             "thumbnail_url": "https://i.ytimg.com/vi/zpPFHclAOoM/hqdefault.jpg"
-        },
-        {
-            "video_id": "e3C273pw4F0",
-            "title": "메이플키우기: 라고 하기엔 너무나도 좋은 상품이었다 [팡이요,  메이플스토리:메이플키우기]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "18:58",
-            "view_count": "235508",
-            "thumbnail_url": "https://i.ytimg.com/vi/e3C273pw4F0/hqdefault.jpg"
-        },
-        {
-            "video_id": "BW3uLNnIIdY",
-            "title": "December love story",
-            "channel_name": "SUNNYSIDEMJ - Topic",
-            "category": "Music",
-            "duration": "3:29",
-            "view_count": "92641",
-            "thumbnail_url": "https://i.ytimg.com/vi/BW3uLNnIIdY/hqdefault.jpg"
-        },
-        {
-            "video_id": "aOMweKhcVus",
-            "title": "가슴이 옹졸해지는 SLL 최약체 대결",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "30:04",
-            "view_count": "196075",
-            "thumbnail_url": "https://i.ytimg.com/vi/aOMweKhcVus/hqdefault.jpg"
-        },
-        {
-            "video_id": "8U9ux1P_bwU",
-            "title": "December 32 days",
-            "channel_name": "Shin Ye Young - Topic",
-            "category": "Music",
-            "duration": "4:47",
-            "view_count": "52168",
-            "thumbnail_url": "https://i.ytimg.com/vi/8U9ux1P_bwU/hqdefault.jpg"
         },
         {
             "video_id": "n2kI-ISB6I0",
@@ -142,8 +106,44 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "21:17",
-            "view_count": "128455",
+            "view_count": "164839",
             "thumbnail_url": "https://i.ytimg.com/vi/n2kI-ISB6I0/hqdefault.jpg"
+        },
+        {
+            "video_id": "BW3uLNnIIdY",
+            "title": "December love story",
+            "channel_name": "SUNNYSIDEMJ - Topic",
+            "category": "Music",
+            "duration": "3:29",
+            "view_count": "93508",
+            "thumbnail_url": "https://i.ytimg.com/vi/BW3uLNnIIdY/hqdefault.jpg"
+        },
+        {
+            "video_id": "e3C273pw4F0",
+            "title": "메이플키우기: 라고 하기엔 너무나도 좋은 상품이었다 [팡이요,  메이플스토리:메이플키우기]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "18:58",
+            "view_count": "239267",
+            "thumbnail_url": "https://i.ytimg.com/vi/e3C273pw4F0/hqdefault.jpg"
+        },
+        {
+            "video_id": "8U9ux1P_bwU",
+            "title": "December 32 days",
+            "channel_name": "Shin Ye Young - Topic",
+            "category": "Music",
+            "duration": "4:47",
+            "view_count": "53333",
+            "thumbnail_url": "https://i.ytimg.com/vi/8U9ux1P_bwU/hqdefault.jpg"
+        },
+        {
+            "video_id": "aOMweKhcVus",
+            "title": "가슴이 옹졸해지는 SLL 최약체 대결",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "30:04",
+            "view_count": "198042",
+            "thumbnail_url": "https://i.ytimg.com/vi/aOMweKhcVus/hqdefault.jpg"
         },
         {
             "video_id": "gME3V6XGYo0",
@@ -151,7 +151,7 @@
             "channel_name": "DAESUNG - Topic",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "11669",
+            "view_count": "13852",
             "thumbnail_url": "https://i.ytimg.com/vi/gME3V6XGYo0/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "37:23",
-            "view_count": "144449",
+            "view_count": "146206",
             "thumbnail_url": "https://i.ytimg.com/vi/YrUx6BT5IW4/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "ALEPH - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "20592",
+            "view_count": "21345",
             "thumbnail_url": "https://i.ytimg.com/vi/XT3qFS_c-w0/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "38:01",
-            "view_count": "127975",
+            "view_count": "133168",
             "thumbnail_url": "https://i.ytimg.com/vi/Ey8OLNTwfQ8/hqdefault.jpg"
         },
         {
@@ -187,62 +187,8 @@
             "channel_name": "토일",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "50584",
+            "view_count": "51096",
             "thumbnail_url": "https://i.ytimg.com/vi/2MfdmIj36fU/hqdefault.jpg"
-        },
-        {
-            "video_id": "m5Uluw9Dmjo",
-            "title": "워윅 공포증",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "27:48",
-            "view_count": "404510",
-            "thumbnail_url": "https://i.ytimg.com/vi/m5Uluw9Dmjo/hqdefault.jpg"
-        },
-        {
-            "video_id": "T3Ht8G-ay5c",
-            "title": "7080 카페음악모음🎬🎬12월이 되면 듣고 싶은 7080 노래 🎧 라디오 추억 7080 |50대 60대 마음을 울리는 추억의 노래.바람바람바람/귀거래사.",
-            "channel_name": "JUN FM",
-            "category": "People & Blogs",
-            "duration": "1:12:25",
-            "view_count": "12691",
-            "thumbnail_url": "https://i.ytimg.com/vi/T3Ht8G-ay5c/hqdefault.jpg"
-        },
-        {
-            "video_id": "nJU-QOgcKp8",
-            "title": "결승전에서 말도 안되는 일이 벌어졌습니다 \"이걸 그대로 진행한다고?\"｜결승 ep.02",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "1:17:17",
-            "view_count": "170807",
-            "thumbnail_url": "https://i.ytimg.com/vi/nJU-QOgcKp8/hqdefault.jpg"
-        },
-        {
-            "video_id": "MMLPR4xrzXY",
-            "title": "Shape of You",
-            "channel_name": "Ed Sheeran - Topic",
-            "category": "Music",
-            "duration": "3:54",
-            "view_count": "588692",
-            "thumbnail_url": "https://i.ytimg.com/vi/MMLPR4xrzXY/hqdefault.jpg"
-        },
-        {
-            "video_id": "NyrsjfbGT4g",
-            "title": "※위기 발생※ 에라 모르겠다 니가해!",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "29:39",
-            "view_count": "79016",
-            "thumbnail_url": "https://i.ytimg.com/vi/NyrsjfbGT4g/hqdefault.jpg"
-        },
-        {
-            "video_id": "xCJKhF-oKgE",
-            "title": "12월이 되면 듣고 싶은 7080 노래 🎧 7080 추억의 노래 25곡 모음 |50대 60대 마음을 울리는 추억의 노래.바람바람바람/귀거래사/그집앞",
-            "channel_name": "KR - Playlits Hits 7080",
-            "category": "People & Blogs",
-            "duration": "1:20:01",
-            "view_count": "18315",
-            "thumbnail_url": "https://i.ytimg.com/vi/xCJKhF-oKgE/hqdefault.jpg"
         },
         {
             "video_id": "Nj2L0wCmEsk",
@@ -250,35 +196,17 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "18:30",
-            "view_count": "58831",
+            "view_count": "67926",
             "thumbnail_url": "https://i.ytimg.com/vi/Nj2L0wCmEsk/hqdefault.jpg"
         },
         {
-            "video_id": "16EZJhkoLNc",
-            "title": "A Timid Woman (PROD. ROCOBERRY)",
-            "channel_name": "Zia - Topic",
-            "category": "Music",
-            "duration": "3:51",
-            "view_count": "25409",
-            "thumbnail_url": "https://i.ytimg.com/vi/16EZJhkoLNc/hqdefault.jpg"
-        },
-        {
-            "video_id": "Uf3EdZh1UMo",
-            "title": "스시 알바 공포게임 소름이 쫙 돋았다",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "1:07:46",
-            "view_count": "215251",
-            "thumbnail_url": "https://i.ytimg.com/vi/Uf3EdZh1UMo/hqdefault.jpg"
-        },
-        {
-            "video_id": "zhRA6x2lykc",
-            "title": "[MV]그래 늦지 않았어(2025 여자VER.)-이예은",
-            "channel_name": "가수 이예은 OFFICIAL ",
+            "video_id": "T3Ht8G-ay5c",
+            "title": "7080 카페음악모음🎬🎬12월이 되면 듣고 싶은 7080 노래 🎧 라디오 추억 7080 |50대 60대 마음을 울리는 추억의 노래.바람바람바람/귀거래사.",
+            "channel_name": "JUN FM",
             "category": "People & Blogs",
-            "duration": "4:13",
-            "view_count": "32716",
-            "thumbnail_url": "https://i.ytimg.com/vi/zhRA6x2lykc/hqdefault.jpg"
+            "duration": "1:12:25",
+            "view_count": "13009",
+            "thumbnail_url": "https://i.ytimg.com/vi/T3Ht8G-ay5c/hqdefault.jpg"
         },
         {
             "video_id": "5k4RoaPLuww",
@@ -286,17 +214,71 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:41",
-            "view_count": "58562",
+            "view_count": "72310",
             "thumbnail_url": "https://i.ytimg.com/vi/5k4RoaPLuww/hqdefault.jpg"
         },
         {
-            "video_id": "MjCg1776VmQ",
-            "title": "Sweet Dream",
-            "channel_name": "Jang Na-ra - Topic",
+            "video_id": "MMLPR4xrzXY",
+            "title": "Shape of You",
+            "channel_name": "Ed Sheeran - Topic",
             "category": "Music",
-            "duration": "3:57",
-            "view_count": "65483",
-            "thumbnail_url": "https://i.ytimg.com/vi/MjCg1776VmQ/hqdefault.jpg"
+            "duration": "3:54",
+            "view_count": "604439",
+            "thumbnail_url": "https://i.ytimg.com/vi/MMLPR4xrzXY/hqdefault.jpg"
+        },
+        {
+            "video_id": "nJU-QOgcKp8",
+            "title": "결승전에서 말도 안되는 일이 벌어졌습니다 \"이걸 그대로 진행한다고?\"｜결승 ep.02",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "1:17:17",
+            "view_count": "173430",
+            "thumbnail_url": "https://i.ytimg.com/vi/nJU-QOgcKp8/hqdefault.jpg"
+        },
+        {
+            "video_id": "xCJKhF-oKgE",
+            "title": "12월이 되면 듣고 싶은 7080 노래 🎧 7080 추억의 노래 25곡 모음 |50대 60대 마음을 울리는 추억의 노래.바람바람바람/귀거래사/그집앞",
+            "channel_name": "KR - Playlits Hits 7080",
+            "category": "People & Blogs",
+            "duration": "1:20:01",
+            "view_count": "18373",
+            "thumbnail_url": "https://i.ytimg.com/vi/xCJKhF-oKgE/hqdefault.jpg"
+        },
+        {
+            "video_id": "m5Uluw9Dmjo",
+            "title": "워윅 공포증",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "27:48",
+            "view_count": "406049",
+            "thumbnail_url": "https://i.ytimg.com/vi/m5Uluw9Dmjo/hqdefault.jpg"
+        },
+        {
+            "video_id": "16EZJhkoLNc",
+            "title": "A Timid Woman (PROD. ROCOBERRY)",
+            "channel_name": "Zia - Topic",
+            "category": "Music",
+            "duration": "3:51",
+            "view_count": "25695",
+            "thumbnail_url": "https://i.ytimg.com/vi/16EZJhkoLNc/hqdefault.jpg"
+        },
+        {
+            "video_id": "NyrsjfbGT4g",
+            "title": "※위기 발생※ 에라 모르겠다 니가해!",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "29:39",
+            "view_count": "87494",
+            "thumbnail_url": "https://i.ytimg.com/vi/NyrsjfbGT4g/hqdefault.jpg"
+        },
+        {
+            "video_id": "zhRA6x2lykc",
+            "title": "[MV]그래 늦지 않았어(2025 여자VER.)-이예은",
+            "channel_name": "가수 이예은 OFFICIAL ",
+            "category": "People & Blogs",
+            "duration": "4:13",
+            "view_count": "33055",
+            "thumbnail_url": "https://i.ytimg.com/vi/zhRA6x2lykc/hqdefault.jpg"
         },
         {
             "video_id": "HjKkcUuQWdU",
@@ -304,8 +286,26 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "16:11",
-            "view_count": "84368",
+            "view_count": "90630",
             "thumbnail_url": "https://i.ytimg.com/vi/HjKkcUuQWdU/hqdefault.jpg"
+        },
+        {
+            "video_id": "MjCg1776VmQ",
+            "title": "Sweet Dream",
+            "channel_name": "Jang Na-ra - Topic",
+            "category": "Music",
+            "duration": "3:57",
+            "view_count": "66053",
+            "thumbnail_url": "https://i.ytimg.com/vi/MjCg1776VmQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Uf3EdZh1UMo",
+            "title": "스시 알바 공포게임 소름이 쫙 돋았다",
+            "channel_name": "우주하마",
+            "category": "Gaming",
+            "duration": "1:07:46",
+            "view_count": "220644",
+            "thumbnail_url": "https://i.ytimg.com/vi/Uf3EdZh1UMo/hqdefault.jpg"
         },
         {
             "video_id": "oA9if7e8Xt0",
@@ -313,17 +313,17 @@
             "channel_name": "TOMIOKA AI - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "450904",
+            "view_count": "454157",
             "thumbnail_url": "https://i.ytimg.com/vi/oA9if7e8Xt0/hqdefault.jpg"
         },
         {
-            "video_id": "Qb5XY8XtIR4",
-            "title": "본캐 드디어 완성한 그때 그시절 레알 BBC 크카모 미친조합!!!",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "Y1_xTDre5O4",
+            "title": "주키니 핵 사용 의심 영상",
+            "channel_name": "주키니TV",
             "category": "Gaming",
-            "duration": "13:02",
-            "view_count": "82798",
-            "thumbnail_url": "https://i.ytimg.com/vi/Qb5XY8XtIR4/hqdefault.jpg"
+            "duration": "28:16",
+            "view_count": "61937",
+            "thumbnail_url": "https://i.ytimg.com/vi/Y1_xTDre5O4/hqdefault.jpg"
         },
         {
             "video_id": "I7h33P9DqBk",
@@ -331,8 +331,17 @@
             "channel_name": "Can - Topic",
             "category": "Music",
             "duration": "5:13",
-            "view_count": "25897",
+            "view_count": "26231",
             "thumbnail_url": "https://i.ytimg.com/vi/I7h33P9DqBk/hqdefault.jpg"
+        },
+        {
+            "video_id": "Qb5XY8XtIR4",
+            "title": "본캐 드디어 완성한 그때 그시절 레알 BBC 크카모 미친조합!!!",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "13:02",
+            "view_count": "86468",
+            "thumbnail_url": "https://i.ytimg.com/vi/Qb5XY8XtIR4/hqdefault.jpg"
         },
         {
             "video_id": "2s6f6SiC7Lg",
@@ -340,17 +349,8 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "17:34",
-            "view_count": "72164",
+            "view_count": "81061",
             "thumbnail_url": "https://i.ytimg.com/vi/2s6f6SiC7Lg/hqdefault.jpg"
-        },
-        {
-            "video_id": "0KzCqrzVI5Y",
-            "title": "하늘이 예뻐서",
-            "channel_name": "Kkuek - Topic",
-            "category": "Music",
-            "duration": "4:14",
-            "view_count": "24996",
-            "thumbnail_url": "https://i.ytimg.com/vi/0KzCqrzVI5Y/hqdefault.jpg"
         },
         {
             "video_id": "8ORtEqQJAuk",
@@ -358,8 +358,17 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "17:31",
-            "view_count": "57770",
+            "view_count": "64927",
             "thumbnail_url": "https://i.ytimg.com/vi/8ORtEqQJAuk/hqdefault.jpg"
+        },
+        {
+            "video_id": "OpITL6Kx4cM",
+            "title": "세주아니는 이제부터 탑챔입니다. 역대급 버프로 떡상한 \"탑 AP 오버파밍 세주아니\" 🐷❄️",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "32:32",
+            "view_count": "60467",
+            "thumbnail_url": "https://i.ytimg.com/vi/OpITL6Kx4cM/hqdefault.jpg"
         },
         {
             "video_id": "2f7-bFMf8so",
@@ -367,17 +376,8 @@
             "channel_name": "집사TV",
             "category": "Gaming",
             "duration": "20:37",
-            "view_count": "144054",
+            "view_count": "145142",
             "thumbnail_url": "https://i.ytimg.com/vi/2f7-bFMf8so/hqdefault.jpg"
-        },
-        {
-            "video_id": "eO8hDBgsOgE",
-            "title": "소희 어머님이 제 유튜브를 보신다구요..? [맹든링 1편]",
-            "channel_name": "킴성태TV",
-            "category": "Gaming",
-            "duration": "23:13",
-            "view_count": "175459",
-            "thumbnail_url": "https://i.ytimg.com/vi/eO8hDBgsOgE/hqdefault.jpg"
         }
     ]
 }
