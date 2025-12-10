@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-12-10 08:22:13",
+    "scraped_time": "2025-12-10 10:52:50",
     "videos": [
         {
             "video_id": "9nOrPNxjvck",
@@ -7,7 +7,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "7505664",
+            "view_count": "7537509",
             "thumbnail_url": "https://i.ytimg.com/vi/9nOrPNxjvck/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "EXO",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "420494",
+            "view_count": "423746",
             "thumbnail_url": "https://i.ytimg.com/vi/aNDfYPnF6A8/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "스맵",
             "category": "Gaming",
             "duration": "50:34",
-            "view_count": "318215",
+            "view_count": "326566",
             "thumbnail_url": "https://i.ytimg.com/vi/I-bxuaovi18/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "302814",
+            "view_count": "314204",
             "thumbnail_url": "https://i.ytimg.com/vi/ss7z2upAvX8/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "쿠팡플레이 Coupang Play",
             "category": "Entertainment",
             "duration": "0:33",
-            "view_count": "3245",
+            "view_count": "3953",
             "thumbnail_url": "https://i.ytimg.com/vi/KgcpVvdRtC8/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "한국e스포츠협회",
             "category": "Gaming",
             "duration": "11:19",
-            "view_count": "1185869",
+            "view_count": "1191226",
             "thumbnail_url": "https://i.ytimg.com/vi/MrdezH99WWo/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "ALLDAY PROJECT - Topic",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "284575",
+            "view_count": "316733",
             "thumbnail_url": "https://i.ytimg.com/vi/TETa0j79byM/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "SBS ",
             "category": "Entertainment",
             "duration": "0:42",
-            "view_count": "74003",
+            "view_count": "74276",
             "thumbnail_url": "https://i.ytimg.com/vi/magpNG722n4/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "AION2",
             "category": "Gaming",
             "duration": "1:26:31",
-            "view_count": "158632",
+            "view_count": "161222",
             "thumbnail_url": "https://i.ytimg.com/vi/GMTPTRG2oq4/hqdefault.jpg"
-        },
-        {
-            "video_id": "zpPFHclAOoM",
-            "title": "DOYOUNG 도영 '늦은 말 (Promise)' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "4:05",
-            "view_count": "116822",
-            "thumbnail_url": "https://i.ytimg.com/vi/zpPFHclAOoM/hqdefault.jpg"
-        },
-        {
-            "video_id": "e3C273pw4F0",
-            "title": "메이플키우기: 라고 하기엔 너무나도 좋은 상품이었다 [팡이요,  메이플스토리:메이플키우기]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "18:58",
-            "view_count": "173632",
-            "thumbnail_url": "https://i.ytimg.com/vi/e3C273pw4F0/hqdefault.jpg"
         },
         {
             "video_id": "Jn4HB9HhVOc",
@@ -106,8 +88,26 @@
             "channel_name": "DOYOUNG - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "22300",
+            "view_count": "34829",
             "thumbnail_url": "https://i.ytimg.com/vi/Jn4HB9HhVOc/hqdefault.jpg"
+        },
+        {
+            "video_id": "e3C273pw4F0",
+            "title": "메이플키우기: 라고 하기엔 너무나도 좋은 상품이었다 [팡이요,  메이플스토리:메이플키우기]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "18:58",
+            "view_count": "185728",
+            "thumbnail_url": "https://i.ytimg.com/vi/e3C273pw4F0/hqdefault.jpg"
+        },
+        {
+            "video_id": "zpPFHclAOoM",
+            "title": "DOYOUNG 도영 '늦은 말 (Promise)' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "4:05",
+            "view_count": "123560",
+            "thumbnail_url": "https://i.ytimg.com/vi/zpPFHclAOoM/hqdefault.jpg"
         },
         {
             "video_id": "eMllalcKGbM",
@@ -115,7 +115,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "26:23",
-            "view_count": "208789",
+            "view_count": "232259",
             "thumbnail_url": "https://i.ytimg.com/vi/eMllalcKGbM/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "SUNNYSIDEMJ - Topic",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "68442",
+            "view_count": "73699",
             "thumbnail_url": "https://i.ytimg.com/vi/BW3uLNnIIdY/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "27:48",
-            "view_count": "379282",
+            "view_count": "382416",
             "thumbnail_url": "https://i.ytimg.com/vi/m5Uluw9Dmjo/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "Shin Ye Young - Topic",
             "category": "Music",
             "duration": "4:47",
-            "view_count": "28065",
+            "view_count": "32413",
             "thumbnail_url": "https://i.ytimg.com/vi/8U9ux1P_bwU/hqdefault.jpg"
         },
         {
@@ -151,17 +151,17 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "18:52",
-            "view_count": "528311",
+            "view_count": "531922",
             "thumbnail_url": "https://i.ytimg.com/vi/zBRBh7KIwoM/hqdefault.jpg"
         },
         {
-            "video_id": "16EZJhkoLNc",
-            "title": "A Timid Woman (PROD. ROCOBERRY)",
-            "channel_name": "Zia - Topic",
+            "video_id": "XT3qFS_c-w0",
+            "title": "Don't let them know",
+            "channel_name": "ALEPH - Topic",
             "category": "Music",
-            "duration": "3:51",
-            "view_count": "18019",
-            "thumbnail_url": "https://i.ytimg.com/vi/16EZJhkoLNc/hqdefault.jpg"
+            "duration": "3:00",
+            "view_count": "12347",
+            "thumbnail_url": "https://i.ytimg.com/vi/XT3qFS_c-w0/hqdefault.jpg"
         },
         {
             "video_id": "aOMweKhcVus",
@@ -169,17 +169,17 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "30:04",
-            "view_count": "126223",
+            "view_count": "137159",
             "thumbnail_url": "https://i.ytimg.com/vi/aOMweKhcVus/hqdefault.jpg"
         },
         {
-            "video_id": "oA9if7e8Xt0",
-            "title": "グッバイバイ",
-            "channel_name": "TOMIOKA AI - Topic",
+            "video_id": "16EZJhkoLNc",
+            "title": "A Timid Woman (PROD. ROCOBERRY)",
+            "channel_name": "Zia - Topic",
             "category": "Music",
-            "duration": "3:20",
-            "view_count": "379610",
-            "thumbnail_url": "https://i.ytimg.com/vi/oA9if7e8Xt0/hqdefault.jpg"
+            "duration": "3:51",
+            "view_count": "19683",
+            "thumbnail_url": "https://i.ytimg.com/vi/16EZJhkoLNc/hqdefault.jpg"
         },
         {
             "video_id": "6Sb8KpDcAGs",
@@ -187,8 +187,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "51:39",
-            "view_count": "259008",
+            "view_count": "261057",
             "thumbnail_url": "https://i.ytimg.com/vi/6Sb8KpDcAGs/hqdefault.jpg"
+        },
+        {
+            "video_id": "oA9if7e8Xt0",
+            "title": "グッバイバイ",
+            "channel_name": "TOMIOKA AI - Topic",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "392908",
+            "thumbnail_url": "https://i.ytimg.com/vi/oA9if7e8Xt0/hqdefault.jpg"
+        },
+        {
+            "video_id": "YrUx6BT5IW4",
+            "title": "\"상호 형 그냥 아무 말 안 해줄 수 있어?\" SLL 시작하자마자 콜 금지 당한 이상호..!【SLL Ep.1】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "37:23",
+            "view_count": "95016",
+            "thumbnail_url": "https://i.ytimg.com/vi/YrUx6BT5IW4/hqdefault.jpg"
         },
         {
             "video_id": "qqMPXcQzQN0",
@@ -196,7 +214,7 @@
             "channel_name": "BE:FIRST - Topic",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "278940",
+            "view_count": "291125",
             "thumbnail_url": "https://i.ytimg.com/vi/qqMPXcQzQN0/hqdefault.jpg"
         },
         {
@@ -205,17 +223,17 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "40:10",
-            "view_count": "138191",
+            "view_count": "146084",
             "thumbnail_url": "https://i.ytimg.com/vi/ObXfZ6pU6ik/hqdefault.jpg"
         },
         {
-            "video_id": "XT3qFS_c-w0",
-            "title": "Don't let them know",
-            "channel_name": "ALEPH - Topic",
+            "video_id": "0KzCqrzVI5Y",
+            "title": "하늘이 예뻐서",
+            "channel_name": "Kkuek - Topic",
             "category": "Music",
-            "duration": "3:00",
-            "view_count": "10132",
-            "thumbnail_url": "https://i.ytimg.com/vi/XT3qFS_c-w0/hqdefault.jpg"
+            "duration": "4:14",
+            "view_count": "20689",
+            "thumbnail_url": "https://i.ytimg.com/vi/0KzCqrzVI5Y/hqdefault.jpg"
         },
         {
             "video_id": "Uf3EdZh1UMo",
@@ -223,7 +241,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "1:07:46",
-            "view_count": "157744",
+            "view_count": "163652",
             "thumbnail_url": "https://i.ytimg.com/vi/Uf3EdZh1UMo/hqdefault.jpg"
         },
         {
@@ -232,7 +250,7 @@
             "channel_name": "Ed Sheeran - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "418168",
+            "view_count": "439822",
             "thumbnail_url": "https://i.ytimg.com/vi/MMLPR4xrzXY/hqdefault.jpg"
         },
         {
@@ -241,44 +259,8 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "12:58",
-            "view_count": "92664",
+            "view_count": "98361",
             "thumbnail_url": "https://i.ytimg.com/vi/_-V_tB7USUg/hqdefault.jpg"
-        },
-        {
-            "video_id": "0KzCqrzVI5Y",
-            "title": "하늘이 예뻐서",
-            "channel_name": "Kkuek - Topic",
-            "category": "Music",
-            "duration": "4:14",
-            "view_count": "19505",
-            "thumbnail_url": "https://i.ytimg.com/vi/0KzCqrzVI5Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "YrUx6BT5IW4",
-            "title": "\"상호 형 그냥 아무 말 안 해줄 수 있어?\" SLL 시작하자마자 콜 금지 당한 이상호..!【SLL Ep.1】",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "37:23",
-            "view_count": "82559",
-            "thumbnail_url": "https://i.ytimg.com/vi/YrUx6BT5IW4/hqdefault.jpg"
-        },
-        {
-            "video_id": "umkH3aM_vdU",
-            "title": "&TEAM 'MISMATCH' Live Performance Video",
-            "channel_name": "&TEAM",
-            "category": "People & Blogs",
-            "duration": "3:35",
-            "view_count": "601502",
-            "thumbnail_url": "https://i.ytimg.com/vi/umkH3aM_vdU/hqdefault.jpg"
-        },
-        {
-            "video_id": "L61DQZFCBeo",
-            "title": "영증 럼블의 명멸 레이저 발사",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "11:53",
-            "view_count": "108977",
-            "thumbnail_url": "https://i.ytimg.com/vi/L61DQZFCBeo/hqdefault.jpg"
         },
         {
             "video_id": "RKiv0dHteTk",
@@ -286,17 +268,17 @@
             "channel_name": "JUN FM",
             "category": "People & Blogs",
             "duration": "1:07:15",
-            "view_count": "11498",
+            "view_count": "12115",
             "thumbnail_url": "https://i.ytimg.com/vi/RKiv0dHteTk/hqdefault.jpg"
         },
         {
-            "video_id": "eO8hDBgsOgE",
-            "title": "소희 어머님이 제 유튜브를 보신다구요..? [맹든링 1편]",
-            "channel_name": "킴성태TV",
+            "video_id": "L61DQZFCBeo",
+            "title": "영증 럼블의 명멸 레이저 발사",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "23:13",
-            "view_count": "131093",
-            "thumbnail_url": "https://i.ytimg.com/vi/eO8hDBgsOgE/hqdefault.jpg"
+            "duration": "11:53",
+            "view_count": "119445",
+            "thumbnail_url": "https://i.ytimg.com/vi/L61DQZFCBeo/hqdefault.jpg"
         },
         {
             "video_id": "MjCg1776VmQ",
@@ -304,35 +286,17 @@
             "channel_name": "Jang Na-ra - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "52436",
+            "view_count": "54279",
             "thumbnail_url": "https://i.ytimg.com/vi/MjCg1776VmQ/hqdefault.jpg"
         },
         {
-            "video_id": "-0UjQF7elJk",
-            "title": "아 늙기 싫다..【SLL EP.01】",
-            "channel_name": "피넛",
+            "video_id": "eO8hDBgsOgE",
+            "title": "소희 어머님이 제 유튜브를 보신다구요..? [맹든링 1편]",
+            "channel_name": "킴성태TV",
             "category": "Gaming",
-            "duration": "1:09:17",
-            "view_count": "195649",
-            "thumbnail_url": "https://i.ytimg.com/vi/-0UjQF7elJk/hqdefault.jpg"
-        },
-        {
-            "video_id": "c25uUQzxzC0",
-            "title": "BBUU! (Christmas Ver.)",
-            "channel_name": "PLAVE - Topic",
-            "category": "Music",
-            "duration": "2:54",
-            "view_count": "153411",
-            "thumbnail_url": "https://i.ytimg.com/vi/c25uUQzxzC0/hqdefault.jpg"
-        },
-        {
-            "video_id": "2f7-bFMf8so",
-            "title": "피1도 안까고 99일 생존가능?? (로블록스 99 나이트 인 더 포레스트 노데미지 챌린지 1편)",
-            "channel_name": "집사TV",
-            "category": "Gaming",
-            "duration": "20:37",
-            "view_count": "90488",
-            "thumbnail_url": "https://i.ytimg.com/vi/2f7-bFMf8so/hqdefault.jpg"
+            "duration": "23:13",
+            "view_count": "140528",
+            "thumbnail_url": "https://i.ytimg.com/vi/eO8hDBgsOgE/hqdefault.jpg"
         },
         {
             "video_id": "zhRA6x2lykc",
@@ -340,8 +304,62 @@
             "channel_name": "가수 이예은 OFFICIAL ",
             "category": "People & Blogs",
             "duration": "4:13",
-            "view_count": "22881",
+            "view_count": "24394",
             "thumbnail_url": "https://i.ytimg.com/vi/zhRA6x2lykc/hqdefault.jpg"
+        },
+        {
+            "video_id": "nJU-QOgcKp8",
+            "title": "결승전에서 말도 안되는 일이 벌어졌습니다 \"이걸 그대로 진행한다고?\"｜결승 ep.02",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "1:17:17",
+            "view_count": "115681",
+            "thumbnail_url": "https://i.ytimg.com/vi/nJU-QOgcKp8/hqdefault.jpg"
+        },
+        {
+            "video_id": "umkH3aM_vdU",
+            "title": "&TEAM 'MISMATCH' Live Performance Video",
+            "channel_name": "&TEAM",
+            "category": "People & Blogs",
+            "duration": "3:35",
+            "view_count": "613923",
+            "thumbnail_url": "https://i.ytimg.com/vi/umkH3aM_vdU/hqdefault.jpg"
+        },
+        {
+            "video_id": "-0UjQF7elJk",
+            "title": "아 늙기 싫다..【SLL EP.01】",
+            "channel_name": "피넛",
+            "category": "Gaming",
+            "duration": "1:09:17",
+            "view_count": "197951",
+            "thumbnail_url": "https://i.ytimg.com/vi/-0UjQF7elJk/hqdefault.jpg"
+        },
+        {
+            "video_id": "xCJKhF-oKgE",
+            "title": "12월이 되면 듣고 싶은 7080 노래 🎧 7080 추억의 노래 25곡 모음 |50대 60대 마음을 울리는 추억의 노래.바람바람바람/귀거래사/그집앞",
+            "channel_name": "KR - Playlits Hits 7080",
+            "category": "People & Blogs",
+            "duration": "1:20:01",
+            "view_count": "9081",
+            "thumbnail_url": "https://i.ytimg.com/vi/xCJKhF-oKgE/hqdefault.jpg"
+        },
+        {
+            "video_id": "2f7-bFMf8so",
+            "title": "피1도 안까고 99일 생존가능?? (로블록스 99 나이트 인 더 포레스트 노데미지 챌린지 1편)",
+            "channel_name": "집사TV",
+            "category": "Gaming",
+            "duration": "20:37",
+            "view_count": "100166",
+            "thumbnail_url": "https://i.ytimg.com/vi/2f7-bFMf8so/hqdefault.jpg"
+        },
+        {
+            "video_id": "c25uUQzxzC0",
+            "title": "BBUU! (Christmas Ver.)",
+            "channel_name": "PLAVE - Topic",
+            "category": "Music",
+            "duration": "2:54",
+            "view_count": "158193",
+            "thumbnail_url": "https://i.ytimg.com/vi/c25uUQzxzC0/hqdefault.jpg"
         },
         {
             "video_id": "EEr1HWrD7vE",
@@ -349,7 +367,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "37:08",
-            "view_count": "98002",
+            "view_count": "101281",
             "thumbnail_url": "https://i.ytimg.com/vi/EEr1HWrD7vE/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "Jeong Hyo Bean - Topic",
             "category": "Music",
             "duration": "4:39",
-            "view_count": "20848",
+            "view_count": "21972",
             "thumbnail_url": "https://i.ytimg.com/vi/fxFP5DLLu_0/hqdefault.jpg"
-        },
-        {
-            "video_id": "nJU-QOgcKp8",
-            "title": "결승전에서 말도 안되는 일이 벌어졌습니다 \"이걸 그대로 진행한다고?\"｜결승 ep.02",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "1:17:17",
-            "view_count": "102013",
-            "thumbnail_url": "https://i.ytimg.com/vi/nJU-QOgcKp8/hqdefault.jpg"
-        },
-        {
-            "video_id": "34bu9INXl6U",
-            "title": "차 안에서 듣는 트로트 | 드라이브 음악💖하루 종일 듣기 좋은 노래 모음🎶흘러간 옛노래 뽕짝 메들리 가사 포함,추억의 트로트 명곡 모음💿 잊을 수 없는 그 시절의 감성",
-            "channel_name": "Sora Tide",
-            "category": "People & Blogs",
-            "duration": "46:08",
-            "view_count": "8615",
-            "thumbnail_url": "https://i.ytimg.com/vi/34bu9INXl6U/hqdefault.jpg"
         }
     ]
 }
