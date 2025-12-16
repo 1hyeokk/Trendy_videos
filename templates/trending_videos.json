@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-12-16 08:22:50",
+    "scraped_time": "2025-12-16 10:54:10",
     "videos": [
         {
             "video_id": "RFwpRB0Ecoo",
@@ -7,7 +7,7 @@
             "channel_name": "DAY6 - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "94795",
+            "view_count": "143278",
             "thumbnail_url": "https://i.ytimg.com/vi/RFwpRB0Ecoo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "8:38",
-            "view_count": "201909",
+            "view_count": "204215",
             "thumbnail_url": "https://i.ytimg.com/vi/YPwBnZbUvrc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "한국e스포츠협회",
             "category": "Gaming",
             "duration": "52:13",
-            "view_count": "2226234",
+            "view_count": "2241535",
             "thumbnail_url": "https://i.ytimg.com/vi/z1h2VCO32SQ/hqdefault.jpg"
         },
         {
@@ -34,26 +34,17 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "420803",
+            "view_count": "440311",
             "thumbnail_url": "https://i.ytimg.com/vi/R856GYdEcPg/hqdefault.jpg"
         },
         {
-            "video_id": "xKweaNVbHOU",
-            "title": "대회 전 마지막 스크림.. 6연패에 꺾여가는 팀 【SLL EP. 15】",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "33:39",
-            "view_count": "200482",
-            "thumbnail_url": "https://i.ytimg.com/vi/xKweaNVbHOU/hqdefault.jpg"
-        },
-        {
-            "video_id": "04GSqsX0S50",
-            "title": "[COVER] DK X SEUNGKWAN - Die With A Smile (Original Song : Lady Gaga, Bruno Mars)",
-            "channel_name": "SEVENTEEN",
-            "category": "Music",
-            "duration": "4:13",
-            "view_count": "1310632",
-            "thumbnail_url": "https://i.ytimg.com/vi/04GSqsX0S50/hqdefault.jpg"
+            "video_id": "yZCle17QVdM",
+            "title": "기묘한 이야기 5 | 2부 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "2:16",
+            "view_count": "47901",
+            "thumbnail_url": "https://i.ytimg.com/vi/yZCle17QVdM/hqdefault.jpg"
         },
         {
             "video_id": "fmkDwiDjkUQ",
@@ -61,8 +52,35 @@
             "channel_name": "SOOP 게임&e스포츠",
             "category": "Gaming",
             "duration": "21:14",
-            "view_count": "68133",
+            "view_count": "83411",
             "thumbnail_url": "https://i.ytimg.com/vi/fmkDwiDjkUQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "04GSqsX0S50",
+            "title": "[COVER] DK X SEUNGKWAN - Die With A Smile (Original Song : Lady Gaga, Bruno Mars)",
+            "channel_name": "SEVENTEEN",
+            "category": "Music",
+            "duration": "4:13",
+            "view_count": "1353825",
+            "thumbnail_url": "https://i.ytimg.com/vi/04GSqsX0S50/hqdefault.jpg"
+        },
+        {
+            "video_id": "dyAs499P3gw",
+            "title": "[10회 예고] 도연이와 마을 사람들 중 하나를 택해야 하는 최강!? #UDT우리동네특공대",
+            "channel_name": "ENA DRAMA",
+            "category": "Entertainment",
+            "duration": "0:46",
+            "view_count": "4571",
+            "thumbnail_url": "https://i.ytimg.com/vi/dyAs499P3gw/hqdefault.jpg"
+        },
+        {
+            "video_id": "xKweaNVbHOU",
+            "title": "대회 전 마지막 스크림.. 6연패에 꺾여가는 팀 【SLL EP. 15】",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "33:39",
+            "view_count": "206195",
+            "thumbnail_url": "https://i.ytimg.com/vi/xKweaNVbHOU/hqdefault.jpg"
         },
         {
             "video_id": "7hTbNeHqGD8",
@@ -70,17 +88,26 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "3954069",
+            "view_count": "4029184",
             "thumbnail_url": "https://i.ytimg.com/vi/7hTbNeHqGD8/hqdefault.jpg"
         },
         {
-            "video_id": "lGdsheiZZjg",
-            "title": "탭 댄서 베인",
-            "channel_name": "PAKA",
+            "video_id": "2vRvH_h5i-c",
+            "title": "UDT: 우리 동네 특공대 | 10화 예고편 | 쿠팡플레이 | 쿠팡",
+            "channel_name": "쿠팡플레이 Coupang Play",
+            "category": "Entertainment",
+            "duration": "0:33",
+            "view_count": "3633",
+            "thumbnail_url": "https://i.ytimg.com/vi/2vRvH_h5i-c/hqdefault.jpg"
+        },
+        {
+            "video_id": "IcDSOu05drY",
+            "title": "전 프로 상대로 증명하는 남자",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "22:26",
-            "view_count": "353664",
-            "thumbnail_url": "https://i.ytimg.com/vi/lGdsheiZZjg/hqdefault.jpg"
+            "duration": "28:47",
+            "view_count": "216866",
+            "thumbnail_url": "https://i.ytimg.com/vi/IcDSOu05drY/hqdefault.jpg"
         },
         {
             "video_id": "DtguKz5TiiU",
@@ -88,7 +115,7 @@
             "channel_name": "성시경 SUNG SI KYUNG",
             "category": "Entertainment",
             "duration": "9:21",
-            "view_count": "568695",
+            "view_count": "576459",
             "thumbnail_url": "https://i.ytimg.com/vi/DtguKz5TiiU/hqdefault.jpg"
         },
         {
@@ -97,7 +124,7 @@
             "channel_name": "[꿀템TV] 클템 유튜브",
             "category": "Gaming",
             "duration": "1:18:46",
-            "view_count": "192257",
+            "view_count": "199767",
             "thumbnail_url": "https://i.ytimg.com/vi/OuMZhMErD20/hqdefault.jpg"
         },
         {
@@ -106,8 +133,26 @@
             "channel_name": "ヨルシカ / n-buna Official",
             "category": "Music",
             "duration": "4:43",
-            "view_count": "483855",
+            "view_count": "532109",
             "thumbnail_url": "https://i.ytimg.com/vi/Vs5NViM8TSY/hqdefault.jpg"
+        },
+        {
+            "video_id": "lGdsheiZZjg",
+            "title": "탭 댄서 베인",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "22:26",
+            "view_count": "356490",
+            "thumbnail_url": "https://i.ytimg.com/vi/lGdsheiZZjg/hqdefault.jpg"
+        },
+        {
+            "video_id": "x8--vk83-cM",
+            "title": "First Love",
+            "channel_name": "Sin Ye Young - Topic",
+            "category": "Music",
+            "duration": "4:16",
+            "view_count": "25738",
+            "thumbnail_url": "https://i.ytimg.com/vi/x8--vk83-cM/hqdefault.jpg"
         },
         {
             "video_id": "KHLBaLeReUk",
@@ -115,7 +160,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "26:30",
-            "view_count": "185163",
+            "view_count": "187531",
             "thumbnail_url": "https://i.ytimg.com/vi/KHLBaLeReUk/hqdefault.jpg"
         },
         {
@@ -124,26 +169,8 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "522374",
+            "view_count": "545004",
             "thumbnail_url": "https://i.ytimg.com/vi/CSUE7lufvE4/hqdefault.jpg"
-        },
-        {
-            "video_id": "oFFPSpehANo",
-            "title": "[최초|단독] 마비노기 모바일 웨카 경매장, 19금청불 심의결과 공개",
-            "channel_name": "김성회의 G식백과",
-            "category": "Gaming",
-            "duration": "23:18",
-            "view_count": "230506",
-            "thumbnail_url": "https://i.ytimg.com/vi/oFFPSpehANo/hqdefault.jpg"
-        },
-        {
-            "video_id": "x8--vk83-cM",
-            "title": "First Love",
-            "channel_name": "Sin Ye Young - Topic",
-            "category": "Music",
-            "duration": "4:16",
-            "view_count": "20862",
-            "thumbnail_url": "https://i.ytimg.com/vi/x8--vk83-cM/hqdefault.jpg"
         },
         {
             "video_id": "qQymG79rCfA",
@@ -151,7 +178,7 @@
             "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
             "duration": "19:07",
-            "view_count": "147684",
+            "view_count": "163422",
             "thumbnail_url": "https://i.ytimg.com/vi/qQymG79rCfA/hqdefault.jpg"
         },
         {
@@ -160,17 +187,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:56",
-            "view_count": "20294",
+            "view_count": "23236",
             "thumbnail_url": "https://i.ytimg.com/vi/Jc94two36h0/hqdefault.jpg"
         },
         {
-            "video_id": "Qsbi0NjRBYU",
-            "title": "아 얘네들 또 겁나 재밌는 거 업뎃했네 ㅋㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
+            "video_id": "oFFPSpehANo",
+            "title": "[최초|단독] 마비노기 모바일 웨카 경매장, 19금청불 심의결과 공개",
+            "channel_name": "김성회의 G식백과",
             "category": "Gaming",
-            "duration": "25:01",
-            "view_count": "234855",
-            "thumbnail_url": "https://i.ytimg.com/vi/Qsbi0NjRBYU/hqdefault.jpg"
+            "duration": "23:18",
+            "view_count": "251873",
+            "thumbnail_url": "https://i.ytimg.com/vi/oFFPSpehANo/hqdefault.jpg"
         },
         {
             "video_id": "a8qq1UIl-7k",
@@ -178,8 +205,26 @@
             "channel_name": "Viktor Uvalic",
             "category": "People & Blogs",
             "duration": "3:59",
-            "view_count": "475201",
+            "view_count": "507177",
             "thumbnail_url": "https://i.ytimg.com/vi/a8qq1UIl-7k/hqdefault.jpg"
+        },
+        {
+            "video_id": "rSVa5DHbQcU",
+            "title": "[SLL WINTER A조 1경기] 프레이 유나라, 시비르 : 맛있게 잘 먹었습니다~",
+            "channel_name": "프레이 TV",
+            "category": "Gaming",
+            "duration": "1:22:48",
+            "view_count": "82006",
+            "thumbnail_url": "https://i.ytimg.com/vi/rSVa5DHbQcU/hqdefault.jpg"
+        },
+        {
+            "video_id": "RvVJ_YIhves",
+            "title": "포레스텔라(Forestella) ’Still Here' Lyric Video",
+            "channel_name": "포레스텔라 Forestella  ",
+            "category": "Entertainment",
+            "duration": "4:46",
+            "view_count": "22194",
+            "thumbnail_url": "https://i.ytimg.com/vi/RvVJ_YIhves/hqdefault.jpg"
         },
         {
             "video_id": "U0z88dFKGnI",
@@ -187,8 +232,26 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "1:11:21",
-            "view_count": "91648",
+            "view_count": "98334",
             "thumbnail_url": "https://i.ytimg.com/vi/U0z88dFKGnI/hqdefault.jpg"
+        },
+        {
+            "video_id": "Gy-MZjiFv2M",
+            "title": "ดอกกระเจียวบาน - ก้อง ห้วยไร่ |Official MV|",
+            "channel_name": "GeneLab",
+            "category": "Music",
+            "duration": "4:15",
+            "view_count": "1106335",
+            "thumbnail_url": "https://i.ytimg.com/vi/Gy-MZjiFv2M/hqdefault.jpg"
+        },
+        {
+            "video_id": "Qsbi0NjRBYU",
+            "title": "아 얘네들 또 겁나 재밌는 거 업뎃했네 ㅋㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "25:01",
+            "view_count": "237416",
+            "thumbnail_url": "https://i.ytimg.com/vi/Qsbi0NjRBYU/hqdefault.jpg"
         },
         {
             "video_id": "ml1O-QRfKVY",
@@ -196,7 +259,7 @@
             "channel_name": "TimeFeveR(타임피버)",
             "category": "Music",
             "duration": "2:22",
-            "view_count": "99854",
+            "view_count": "101467",
             "thumbnail_url": "https://i.ytimg.com/vi/ml1O-QRfKVY/hqdefault.jpg"
         },
         {
@@ -205,62 +268,8 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "16:25",
-            "view_count": "111459",
+            "view_count": "115107",
             "thumbnail_url": "https://i.ytimg.com/vi/5PHl7fjn8Kk/hqdefault.jpg"
-        },
-        {
-            "video_id": "Gy-MZjiFv2M",
-            "title": "ดอกกระเจียวบาน - ก้อง ห้วยไร่ |Official MV|",
-            "channel_name": "GeneLab",
-            "category": "Music",
-            "duration": "4:15",
-            "view_count": "1012535",
-            "thumbnail_url": "https://i.ytimg.com/vi/Gy-MZjiFv2M/hqdefault.jpg"
-        },
-        {
-            "video_id": "NjxXfwJNRYY",
-            "title": "알파고의 본진 더블넥 빌드를 보고 면전에 대고 개무시하는 상대, 그의 최후는 과연?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "42:17",
-            "view_count": "97719",
-            "thumbnail_url": "https://i.ytimg.com/vi/NjxXfwJNRYY/hqdefault.jpg"
-        },
-        {
-            "video_id": "RvVJ_YIhves",
-            "title": "포레스텔라(Forestella) ’Still Here' Lyric Video",
-            "channel_name": "포레스텔라 Forestella  ",
-            "category": "Entertainment",
-            "duration": "4:46",
-            "view_count": "19777",
-            "thumbnail_url": "https://i.ytimg.com/vi/RvVJ_YIhves/hqdefault.jpg"
-        },
-        {
-            "video_id": "dHJ5Y9o6xmE",
-            "title": "오리누나 그립습니다.. | SLL EP.11",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "34:28",
-            "view_count": "135989",
-            "thumbnail_url": "https://i.ytimg.com/vi/dHJ5Y9o6xmE/hqdefault.jpg"
-        },
-        {
-            "video_id": "7N9dhR_0REc",
-            "title": "ALLDAY PROJECT - ‘LOOK AT ME’ PERFORMANCE VIDEO",
-            "channel_name": "THEBLACKLABEL",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "866372",
-            "thumbnail_url": "https://i.ytimg.com/vi/7N9dhR_0REc/hqdefault.jpg"
-        },
-        {
-            "video_id": "h5VxqztHLdU",
-            "title": "배그 반동이 사라진 총",
-            "channel_name": "주키니TV",
-            "category": "Gaming",
-            "duration": "27:47",
-            "view_count": "112303",
-            "thumbnail_url": "https://i.ytimg.com/vi/h5VxqztHLdU/hqdefault.jpg"
         },
         {
             "video_id": "w-pnV4f1GDI",
@@ -268,17 +277,17 @@
             "channel_name": "Korean Ballads Playlist DD",
             "category": "People & Blogs",
             "duration": "1:47:39",
-            "view_count": "32060",
+            "view_count": "34352",
             "thumbnail_url": "https://i.ytimg.com/vi/w-pnV4f1GDI/hqdefault.jpg"
         },
         {
-            "video_id": "olEamSGfFQU",
-            "title": "\"그렇게 할 거면 게임 하지 마요\" 이상호의 행동에 결국 터져버린 버돌..!【SLL Ep.8】",
-            "channel_name": "이상호",
+            "video_id": "h5VxqztHLdU",
+            "title": "배그 반동이 사라진 총",
+            "channel_name": "주키니TV",
             "category": "Gaming",
-            "duration": "29:57",
-            "view_count": "108089",
-            "thumbnail_url": "https://i.ytimg.com/vi/olEamSGfFQU/hqdefault.jpg"
+            "duration": "27:47",
+            "view_count": "120723",
+            "thumbnail_url": "https://i.ytimg.com/vi/h5VxqztHLdU/hqdefault.jpg"
         },
         {
             "video_id": "Wr7Lzq6yCT4",
@@ -286,17 +295,35 @@
             "channel_name": "ASH ISLAND - Topic",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "145521",
+            "view_count": "151937",
             "thumbnail_url": "https://i.ytimg.com/vi/Wr7Lzq6yCT4/hqdefault.jpg"
         },
         {
-            "video_id": "7FNM48Bz0Mo",
-            "title": "너무 빠른 베퀴벌레",
-            "channel_name": "Official dopa",
+            "video_id": "NjxXfwJNRYY",
+            "title": "알파고의 본진 더블넥 빌드를 보고 면전에 대고 개무시하는 상대, 그의 최후는 과연?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "22:30",
-            "view_count": "108452",
-            "thumbnail_url": "https://i.ytimg.com/vi/7FNM48Bz0Mo/hqdefault.jpg"
+            "duration": "42:17",
+            "view_count": "100317",
+            "thumbnail_url": "https://i.ytimg.com/vi/NjxXfwJNRYY/hqdefault.jpg"
+        },
+        {
+            "video_id": "7N9dhR_0REc",
+            "title": "ALLDAY PROJECT - ‘LOOK AT ME’ PERFORMANCE VIDEO",
+            "channel_name": "THEBLACKLABEL",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "870195",
+            "thumbnail_url": "https://i.ytimg.com/vi/7N9dhR_0REc/hqdefault.jpg"
+        },
+        {
+            "video_id": "olEamSGfFQU",
+            "title": "\"그렇게 할 거면 게임 하지 마요\" 이상호의 행동에 결국 터져버린 버돌..!【SLL Ep.8】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "29:57",
+            "view_count": "110726",
+            "thumbnail_url": "https://i.ytimg.com/vi/olEamSGfFQU/hqdefault.jpg"
         },
         {
             "video_id": "cQb4UxF7DL8",
@@ -304,17 +331,17 @@
             "channel_name": "Balen",
             "category": "Music",
             "duration": "4:46",
-            "view_count": "1259231",
+            "view_count": "1287719",
             "thumbnail_url": "https://i.ytimg.com/vi/cQb4UxF7DL8/hqdefault.jpg"
         },
         {
-            "video_id": "m8uXoPS9JeE",
-            "title": "드디어 뽑은 해금 기물 5코 3성",
-            "channel_name": "잡상싱",
+            "video_id": "dHJ5Y9o6xmE",
+            "title": "오리누나 그립습니다.. | SLL EP.11",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "11:40",
-            "view_count": "105088",
-            "thumbnail_url": "https://i.ytimg.com/vi/m8uXoPS9JeE/hqdefault.jpg"
+            "duration": "34:28",
+            "view_count": "137170",
+            "thumbnail_url": "https://i.ytimg.com/vi/dHJ5Y9o6xmE/hqdefault.jpg"
         },
         {
             "video_id": "WisAHyIrjvk",
@@ -322,35 +349,17 @@
             "channel_name": "Silica Gel - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "259246",
+            "view_count": "267875",
             "thumbnail_url": "https://i.ytimg.com/vi/WisAHyIrjvk/hqdefault.jpg"
         },
         {
-            "video_id": "x8y4Ox2hF_I",
-            "title": "산타가 되기 위해 별짓 다 해보는 스카이블록",
-            "channel_name": "잠뜰 TV",
+            "video_id": "7FNM48Bz0Mo",
+            "title": "너무 빠른 베퀴벌레",
+            "channel_name": "Official dopa",
             "category": "Gaming",
-            "duration": "37:50",
-            "view_count": "197706",
-            "thumbnail_url": "https://i.ytimg.com/vi/x8y4Ox2hF_I/hqdefault.jpg"
-        },
-        {
-            "video_id": "0Dn44z18X2c",
-            "title": "TAKE ACTION covered by 3SKM【歌ってみた】",
-            "channel_name": "3SKM",
-            "category": "Entertainment",
-            "duration": "3:17",
-            "view_count": "211710",
-            "thumbnail_url": "https://i.ytimg.com/vi/0Dn44z18X2c/hqdefault.jpg"
-        },
-        {
-            "video_id": "hF2FRTQf4L4",
-            "title": "리뷰 500개중 499개가 극찬!!! \"50% 확률로 목숨걸고 하는 심리게임ㄷㄷ\"",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "45:25",
-            "view_count": "85288",
-            "thumbnail_url": "https://i.ytimg.com/vi/hF2FRTQf4L4/hqdefault.jpg"
+            "duration": "22:30",
+            "view_count": "115170",
+            "thumbnail_url": "https://i.ytimg.com/vi/7FNM48Bz0Mo/hqdefault.jpg"
         },
         {
             "video_id": "XNkvCwln1LE",
@@ -358,26 +367,17 @@
             "channel_name": "마크툽(MAKTUB) - Topic",
             "category": "Music",
             "duration": "4:22",
-            "view_count": "74033",
+            "view_count": "77131",
             "thumbnail_url": "https://i.ytimg.com/vi/XNkvCwln1LE/hqdefault.jpg"
         },
         {
-            "video_id": "fX9r3zWpIZQ",
-            "title": "라인전을 깨달은사람",
-            "channel_name": "랄로",
+            "video_id": "m8uXoPS9JeE",
+            "title": "드디어 뽑은 해금 기물 5코 3성",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "31:31",
-            "view_count": "553542",
-            "thumbnail_url": "https://i.ytimg.com/vi/fX9r3zWpIZQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "toG53zueDi8",
-            "title": "Sia - Unstoppable (Lyrics)",
-            "channel_name": "lemonni",
-            "category": "Music",
-            "duration": "3:38",
-            "view_count": "1352463",
-            "thumbnail_url": "https://i.ytimg.com/vi/toG53zueDi8/hqdefault.jpg"
+            "duration": "11:40",
+            "view_count": "117075",
+            "thumbnail_url": "https://i.ytimg.com/vi/m8uXoPS9JeE/hqdefault.jpg"
         }
     ]
 }
