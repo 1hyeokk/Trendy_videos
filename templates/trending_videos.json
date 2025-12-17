@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-12-17 08:21:59",
+    "scraped_time": "2025-12-17 10:49:38",
     "videos": [
         {
             "video_id": "NNf9QhWjG58",
@@ -7,7 +7,7 @@
             "channel_name": "소란 / SORAN",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "167459",
+            "view_count": "186790",
             "thumbnail_url": "https://i.ytimg.com/vi/NNf9QhWjG58/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "8:35",
-            "view_count": "430617",
+            "view_count": "446061",
             "thumbnail_url": "https://i.ytimg.com/vi/vDHfCODT5tY/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "한국e스포츠협회",
             "category": "Gaming",
             "duration": "52:13",
-            "view_count": "2383320",
+            "view_count": "2389013",
             "thumbnail_url": "https://i.ytimg.com/vi/z1h2VCO32SQ/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "DAY6 - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "270443",
+            "view_count": "301344",
             "thumbnail_url": "https://i.ytimg.com/vi/RFwpRB0Ecoo/hqdefault.jpg"
         },
         {
@@ -43,35 +43,8 @@
             "channel_name": "timeory",
             "category": "Film & Animation",
             "duration": "1:19",
-            "view_count": "285377",
+            "view_count": "286740",
             "thumbnail_url": "https://i.ytimg.com/vi/LJHDmb2zHNE/hqdefault.jpg"
-        },
-        {
-            "video_id": "bCYEY4gyfNs",
-            "title": "SLL 개막전에서 나온 역대급 경기력 \"연습은 끝났고 보여줄 때\" 【SLL EP. 16】",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "42:46",
-            "view_count": "384879",
-            "thumbnail_url": "https://i.ytimg.com/vi/bCYEY4gyfNs/hqdefault.jpg"
-        },
-        {
-            "video_id": "R856GYdEcPg",
-            "title": "DAY6(데이식스) \"Lovin' the Christmas\" M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:37",
-            "view_count": "732470",
-            "thumbnail_url": "https://i.ytimg.com/vi/R856GYdEcPg/hqdefault.jpg"
-        },
-        {
-            "video_id": "yZCle17QVdM",
-            "title": "기묘한 이야기 5 | 2부 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "2:16",
-            "view_count": "89068",
-            "thumbnail_url": "https://i.ytimg.com/vi/yZCle17QVdM/hqdefault.jpg"
         },
         {
             "video_id": "MiN260tiBjM",
@@ -79,8 +52,62 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "21:55",
-            "view_count": "204238",
+            "view_count": "227531",
             "thumbnail_url": "https://i.ytimg.com/vi/MiN260tiBjM/hqdefault.jpg"
+        },
+        {
+            "video_id": "R856GYdEcPg",
+            "title": "DAY6(데이식스) \"Lovin' the Christmas\" M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "3:37",
+            "view_count": "761953",
+            "thumbnail_url": "https://i.ytimg.com/vi/R856GYdEcPg/hqdefault.jpg"
+        },
+        {
+            "video_id": "_x41v8kaW0w",
+            "title": "[디스클로저 데이] 티저 예고편",
+            "channel_name": "유니버설 픽쳐스",
+            "category": "Film & Animation",
+            "duration": "2:06",
+            "view_count": "58947",
+            "thumbnail_url": "https://i.ytimg.com/vi/_x41v8kaW0w/hqdefault.jpg"
+        },
+        {
+            "video_id": "bCYEY4gyfNs",
+            "title": "SLL 개막전에서 나온 역대급 경기력 \"연습은 끝났고 보여줄 때\" 【SLL EP. 16】",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "42:46",
+            "view_count": "390076",
+            "thumbnail_url": "https://i.ytimg.com/vi/bCYEY4gyfNs/hqdefault.jpg"
+        },
+        {
+            "video_id": "3AbjxMctQGY",
+            "title": "LOVERS",
+            "channel_name": "Car, the Garden - Topic",
+            "category": "Music",
+            "duration": "3:14",
+            "view_count": "28330",
+            "thumbnail_url": "https://i.ytimg.com/vi/3AbjxMctQGY/hqdefault.jpg"
+        },
+        {
+            "video_id": "yZCle17QVdM",
+            "title": "기묘한 이야기 5 | 2부 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "2:16",
+            "view_count": "90636",
+            "thumbnail_url": "https://i.ytimg.com/vi/yZCle17QVdM/hqdefault.jpg"
+        },
+        {
+            "video_id": "uzba3NwEJcI",
+            "title": "황제",
+            "channel_name": "승상싱",
+            "category": "Gaming",
+            "duration": "12:36",
+            "view_count": "335496",
+            "thumbnail_url": "https://i.ytimg.com/vi/uzba3NwEJcI/hqdefault.jpg"
         },
         {
             "video_id": "04GSqsX0S50",
@@ -88,7 +115,7 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "1671925",
+            "view_count": "1696763",
             "thumbnail_url": "https://i.ytimg.com/vi/04GSqsX0S50/hqdefault.jpg"
         },
         {
@@ -97,17 +124,17 @@
             "channel_name": "Teaser Universe",
             "category": "Film & Animation",
             "duration": "1:10",
-            "view_count": "2383560",
+            "view_count": "2437402",
             "thumbnail_url": "https://i.ytimg.com/vi/UDfjsSqCQ44/hqdefault.jpg"
         },
         {
-            "video_id": "uzba3NwEJcI",
-            "title": "황제",
-            "channel_name": "승상싱",
+            "video_id": "JmBRLRyS6e0",
+            "title": "[LIVE] 12월 16일 아이온2 업데이트 프리뷰 방송",
+            "channel_name": "AION2",
             "category": "Gaming",
-            "duration": "12:36",
-            "view_count": "314587",
-            "thumbnail_url": "https://i.ytimg.com/vi/uzba3NwEJcI/hqdefault.jpg"
+            "duration": "1:23:50",
+            "view_count": "164165",
+            "thumbnail_url": "https://i.ytimg.com/vi/JmBRLRyS6e0/hqdefault.jpg"
         },
         {
             "video_id": "7hTbNeHqGD8",
@@ -115,7 +142,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "4613093",
+            "view_count": "4630065",
             "thumbnail_url": "https://i.ytimg.com/vi/7hTbNeHqGD8/hqdefault.jpg"
         },
         {
@@ -124,35 +151,8 @@
             "channel_name": "ENA DRAMA",
             "category": "Entertainment",
             "duration": "0:46",
-            "view_count": "8393",
+            "view_count": "8462",
             "thumbnail_url": "https://i.ytimg.com/vi/dyAs499P3gw/hqdefault.jpg"
-        },
-        {
-            "video_id": "JmBRLRyS6e0",
-            "title": "[LIVE] 12월 16일 아이온2 업데이트 프리뷰 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "1:23:50",
-            "view_count": "161664",
-            "thumbnail_url": "https://i.ytimg.com/vi/JmBRLRyS6e0/hqdefault.jpg"
-        },
-        {
-            "video_id": "3AbjxMctQGY",
-            "title": "LOVERS",
-            "channel_name": "Car, the Garden - Topic",
-            "category": "Music",
-            "duration": "3:14",
-            "view_count": "9741",
-            "thumbnail_url": "https://i.ytimg.com/vi/3AbjxMctQGY/hqdefault.jpg"
-        },
-        {
-            "video_id": "f-Gqp6M33T8",
-            "title": "[프로젝트 Y] 메인 예고편",
-            "channel_name": "플러스엠 엔터테인먼트",
-            "category": "Film & Animation",
-            "duration": "1:08",
-            "view_count": "46983",
-            "thumbnail_url": "https://i.ytimg.com/vi/f-Gqp6M33T8/hqdefault.jpg"
         },
         {
             "video_id": "3en8zo6G4xY",
@@ -160,26 +160,26 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "22:56",
-            "view_count": "217108",
+            "view_count": "228780",
             "thumbnail_url": "https://i.ytimg.com/vi/3en8zo6G4xY/hqdefault.jpg"
         },
         {
-            "video_id": "DtguKz5TiiU",
-            "title": "[성시경 노래] 64. 白い恋人達 (하얀 연인들) l Sung Si Kyung Music",
-            "channel_name": "성시경 SUNG SI KYUNG",
-            "category": "Entertainment",
-            "duration": "9:21",
-            "view_count": "643017",
-            "thumbnail_url": "https://i.ytimg.com/vi/DtguKz5TiiU/hqdefault.jpg"
+            "video_id": "fvaB8ykanec",
+            "title": "Think About You",
+            "channel_name": "KyoungSeo - Topic",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "12885",
+            "thumbnail_url": "https://i.ytimg.com/vi/fvaB8ykanec/hqdefault.jpg"
         },
         {
-            "video_id": "_x41v8kaW0w",
-            "title": "[디스클로저 데이] 티저 예고편",
-            "channel_name": "유니버설 픽쳐스",
+            "video_id": "f-Gqp6M33T8",
+            "title": "[프로젝트 Y] 메인 예고편",
+            "channel_name": "플러스엠 엔터테인먼트",
             "category": "Film & Animation",
-            "duration": "2:06",
-            "view_count": "11580",
-            "thumbnail_url": "https://i.ytimg.com/vi/_x41v8kaW0w/hqdefault.jpg"
+            "duration": "1:08",
+            "view_count": "51048",
+            "thumbnail_url": "https://i.ytimg.com/vi/f-Gqp6M33T8/hqdefault.jpg"
         },
         {
             "video_id": "BmzUPwS111c",
@@ -187,17 +187,17 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "30:17",
-            "view_count": "159226",
+            "view_count": "163956",
             "thumbnail_url": "https://i.ytimg.com/vi/BmzUPwS111c/hqdefault.jpg"
         },
         {
-            "video_id": "Vs5NViM8TSY",
-            "title": "ヨルシカ - 八月、某、月明かり（OFFICIAL VIDEO）",
-            "channel_name": "ヨルシカ / n-buna Official",
-            "category": "Music",
-            "duration": "4:43",
-            "view_count": "793103",
-            "thumbnail_url": "https://i.ytimg.com/vi/Vs5NViM8TSY/hqdefault.jpg"
+            "video_id": "DtguKz5TiiU",
+            "title": "[성시경 노래] 64. 白い恋人達 (하얀 연인들) l Sung Si Kyung Music",
+            "channel_name": "성시경 SUNG SI KYUNG",
+            "category": "Entertainment",
+            "duration": "9:21",
+            "view_count": "648159",
+            "thumbnail_url": "https://i.ytimg.com/vi/DtguKz5TiiU/hqdefault.jpg"
         },
         {
             "video_id": "nFsdOuj0FPo",
@@ -205,8 +205,26 @@
             "channel_name": "アニメ『銀河特急 ミルキー☆サブウェイ』公式",
             "category": "Film & Animation",
             "duration": "1:01",
-            "view_count": "383560",
+            "view_count": "399926",
             "thumbnail_url": "https://i.ytimg.com/vi/nFsdOuj0FPo/hqdefault.jpg"
+        },
+        {
+            "video_id": "LaX6qtVL7mM",
+            "title": "인섹은 단단해졌다",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "37:49",
+            "view_count": "217877",
+            "thumbnail_url": "https://i.ytimg.com/vi/LaX6qtVL7mM/hqdefault.jpg"
+        },
+        {
+            "video_id": "Vs5NViM8TSY",
+            "title": "ヨルシカ - 八月、某、月明かり（OFFICIAL VIDEO）",
+            "channel_name": "ヨルシカ / n-buna Official",
+            "category": "Music",
+            "duration": "4:43",
+            "view_count": "810803",
+            "thumbnail_url": "https://i.ytimg.com/vi/Vs5NViM8TSY/hqdefault.jpg"
         },
         {
             "video_id": "dvb0MMVWSQI",
@@ -214,7 +232,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "19:17",
-            "view_count": "174186",
+            "view_count": "182033",
             "thumbnail_url": "https://i.ytimg.com/vi/dvb0MMVWSQI/hqdefault.jpg"
         },
         {
@@ -223,26 +241,8 @@
             "channel_name": "Sin Ye Young - Topic",
             "category": "Music",
             "duration": "4:16",
-            "view_count": "41331",
+            "view_count": "43618",
             "thumbnail_url": "https://i.ytimg.com/vi/x8--vk83-cM/hqdefault.jpg"
-        },
-        {
-            "video_id": "LaX6qtVL7mM",
-            "title": "인섹은 단단해졌다",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "37:49",
-            "view_count": "195073",
-            "thumbnail_url": "https://i.ytimg.com/vi/LaX6qtVL7mM/hqdefault.jpg"
-        },
-        {
-            "video_id": "Jc94two36h0",
-            "title": "THE CHRISTMAS SONG",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "4:56",
-            "view_count": "40491",
-            "thumbnail_url": "https://i.ytimg.com/vi/Jc94two36h0/hqdefault.jpg"
         },
         {
             "video_id": "IcDSOu05drY",
@@ -250,35 +250,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "28:47",
-            "view_count": "341674",
+            "view_count": "344103",
             "thumbnail_url": "https://i.ytimg.com/vi/IcDSOu05drY/hqdefault.jpg"
         },
         {
-            "video_id": "fvaB8ykanec",
-            "title": "Think About You",
-            "channel_name": "KyoungSeo - Topic",
+            "video_id": "Jc94two36h0",
+            "title": "THE CHRISTMAS SONG",
+            "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "3:32",
-            "view_count": "9365",
-            "thumbnail_url": "https://i.ytimg.com/vi/fvaB8ykanec/hqdefault.jpg"
-        },
-        {
-            "video_id": "H7RUVRcLCCk",
-            "title": "운도 실력이다【에눈박놈 손가락흔들기 배틀 합방】",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "26:13",
-            "view_count": "113243",
-            "thumbnail_url": "https://i.ytimg.com/vi/H7RUVRcLCCk/hqdefault.jpg"
-        },
-        {
-            "video_id": "Gy-MZjiFv2M",
-            "title": "ดอกกระเจียวบาน - ก้อง ห้วยไร่ |Official MV|",
-            "channel_name": "GeneLab",
-            "category": "Music",
-            "duration": "4:15",
-            "view_count": "2432770",
-            "thumbnail_url": "https://i.ytimg.com/vi/Gy-MZjiFv2M/hqdefault.jpg"
+            "duration": "4:56",
+            "view_count": "42446",
+            "thumbnail_url": "https://i.ytimg.com/vi/Jc94two36h0/hqdefault.jpg"
         },
         {
             "video_id": "hQifYTyDIio",
@@ -286,8 +268,26 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "14:50",
-            "view_count": "242738",
+            "view_count": "257218",
             "thumbnail_url": "https://i.ytimg.com/vi/hQifYTyDIio/hqdefault.jpg"
+        },
+        {
+            "video_id": "Gy-MZjiFv2M",
+            "title": "ดอกกระเจียวบาน - ก้อง ห้วยไร่ |Official MV|",
+            "channel_name": "GeneLab",
+            "category": "Music",
+            "duration": "4:15",
+            "view_count": "2521019",
+            "thumbnail_url": "https://i.ytimg.com/vi/Gy-MZjiFv2M/hqdefault.jpg"
+        },
+        {
+            "video_id": "H7RUVRcLCCk",
+            "title": "운도 실력이다【에눈박놈 손가락흔들기 배틀 합방】",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "26:13",
+            "view_count": "118592",
+            "thumbnail_url": "https://i.ytimg.com/vi/H7RUVRcLCCk/hqdefault.jpg"
         },
         {
             "video_id": "SuTIEOqV0L0",
@@ -295,7 +295,7 @@
             "channel_name": "JUN FM",
             "category": "People & Blogs",
             "duration": "1:25:29",
-            "view_count": "13750",
+            "view_count": "14723",
             "thumbnail_url": "https://i.ytimg.com/vi/SuTIEOqV0L0/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "악동 김블루",
             "category": "Gaming",
             "duration": "14:44",
-            "view_count": "126975",
+            "view_count": "147245",
             "thumbnail_url": "https://i.ytimg.com/vi/A9vDsQ-Ie7w/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "635464",
+            "view_count": "652467",
             "thumbnail_url": "https://i.ytimg.com/vi/CSUE7lufvE4/hqdefault.jpg"
         },
         {
@@ -322,17 +322,17 @@
             "channel_name": "SOOP 게임&e스포츠",
             "category": "Gaming",
             "duration": "21:14",
-            "view_count": "141667",
+            "view_count": "142591",
             "thumbnail_url": "https://i.ytimg.com/vi/fmkDwiDjkUQ/hqdefault.jpg"
         },
         {
-            "video_id": "RvVJ_YIhves",
-            "title": "포레스텔라(Forestella) ’Still Here' Lyric Video",
-            "channel_name": "포레스텔라 Forestella  ",
-            "category": "Entertainment",
-            "duration": "4:46",
-            "view_count": "33598",
-            "thumbnail_url": "https://i.ytimg.com/vi/RvVJ_YIhves/hqdefault.jpg"
+            "video_id": "gOF4C6C9XeE",
+            "title": "Sweet Dream",
+            "channel_name": "10CM - Topic",
+            "category": "Music",
+            "duration": "3:35",
+            "view_count": "23219",
+            "thumbnail_url": "https://i.ytimg.com/vi/gOF4C6C9XeE/hqdefault.jpg"
         },
         {
             "video_id": "q_lxusyJsFw",
@@ -340,17 +340,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "58:27",
-            "view_count": "85586",
+            "view_count": "90977",
             "thumbnail_url": "https://i.ytimg.com/vi/q_lxusyJsFw/hqdefault.jpg"
         },
         {
-            "video_id": "cQb4UxF7DL8",
-            "title": "BALEN - AAM NEPALI BUWAA (OST JHARI PACHHI KO INDRENI)",
-            "channel_name": "Balen",
-            "category": "Music",
+            "video_id": "RvVJ_YIhves",
+            "title": "포레스텔라(Forestella) ’Still Here' Lyric Video",
+            "channel_name": "포레스텔라 Forestella  ",
+            "category": "Entertainment",
             "duration": "4:46",
-            "view_count": "1932464",
-            "thumbnail_url": "https://i.ytimg.com/vi/cQb4UxF7DL8/hqdefault.jpg"
+            "view_count": "34464",
+            "thumbnail_url": "https://i.ytimg.com/vi/RvVJ_YIhves/hqdefault.jpg"
         },
         {
             "video_id": "VNXSZPAGJLU",
@@ -358,17 +358,17 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "19:33",
-            "view_count": "95403",
+            "view_count": "100407",
             "thumbnail_url": "https://i.ytimg.com/vi/VNXSZPAGJLU/hqdefault.jpg"
         },
         {
-            "video_id": "w-pnV4f1GDI",
-            "title": "잔잔한 겨울 발라드 노래모음 TOP30 ᴘʟᴀʏʟɪsᴛ 브라운아이즈 , 성시경 , 김범수, SG워너비 , 허각💖",
-            "channel_name": "Korean Ballads Playlist DD",
-            "category": "People & Blogs",
-            "duration": "1:47:39",
-            "view_count": "49744",
-            "thumbnail_url": "https://i.ytimg.com/vi/w-pnV4f1GDI/hqdefault.jpg"
+            "video_id": "cQb4UxF7DL8",
+            "title": "BALEN - AAM NEPALI BUWAA (OST JHARI PACHHI KO INDRENI)",
+            "channel_name": "Balen",
+            "category": "Music",
+            "duration": "4:46",
+            "view_count": "1952488",
+            "thumbnail_url": "https://i.ytimg.com/vi/cQb4UxF7DL8/hqdefault.jpg"
         },
         {
             "video_id": "s2SoyfyLR5Y",
@@ -376,7 +376,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "39:54",
-            "view_count": "116181",
+            "view_count": "121890",
             "thumbnail_url": "https://i.ytimg.com/vi/s2SoyfyLR5Y/hqdefault.jpg"
         }
     ]
