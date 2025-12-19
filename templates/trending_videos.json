@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-12-20 00:25:58",
+    "scraped_time": "2025-12-20 01:30:32",
     "videos": [
         {
             "video_id": "sssoyDLFPWE",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "709105",
+            "view_count": "747852",
             "thumbnail_url": "https://i.ytimg.com/vi/sssoyDLFPWE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "11:38",
-            "view_count": "222674",
+            "view_count": "232988",
             "thumbnail_url": "https://i.ytimg.com/vi/37igjIF1YUk/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "25:23",
-            "view_count": "166675",
+            "view_count": "204039",
             "thumbnail_url": "https://i.ytimg.com/vi/n1S4DRjjEJ8/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "ZICO - Topic",
             "category": "Music",
             "duration": "2:26",
-            "view_count": "142572",
+            "view_count": "152137",
             "thumbnail_url": "https://i.ytimg.com/vi/zfESlU8diD0/hqdefault.jpg"
         },
         {
@@ -43,35 +43,8 @@
             "channel_name": "넥슨게임즈 YouTube",
             "category": "Gaming",
             "duration": "0:31",
-            "view_count": "149675",
+            "view_count": "149951",
             "thumbnail_url": "https://i.ytimg.com/vi/pFT4JxSEvu0/hqdefault.jpg"
-        },
-        {
-            "video_id": "0DvMtqw6R2o",
-            "title": "대깨 데마시아 장인 승아내 초대석",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "20:20",
-            "view_count": "161557",
-            "thumbnail_url": "https://i.ytimg.com/vi/0DvMtqw6R2o/hqdefault.jpg"
-        },
-        {
-            "video_id": "8kMHnD9XYjI",
-            "title": "Twelfth Night",
-            "channel_name": "HANHAE - Topic",
-            "category": "Music",
-            "duration": "4:21",
-            "view_count": "195260",
-            "thumbnail_url": "https://i.ytimg.com/vi/8kMHnD9XYjI/hqdefault.jpg"
-        },
-        {
-            "video_id": "xLhmKJx7mE0",
-            "title": "이 사랑 통역 되나요? | 공식 티저 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "1:25",
-            "view_count": "657029",
-            "thumbnail_url": "https://i.ytimg.com/vi/xLhmKJx7mE0/hqdefault.jpg"
         },
         {
             "video_id": "hm2wkTIuj1c",
@@ -79,7 +52,7 @@
             "channel_name": "ㅇyㅇ",
             "category": "Gaming",
             "duration": "2:50:50",
-            "view_count": "103203",
+            "view_count": "133279",
             "thumbnail_url": "https://i.ytimg.com/vi/hm2wkTIuj1c/hqdefault.jpg"
         },
         {
@@ -88,8 +61,35 @@
             "channel_name": "이세계아이돌 ISEGYE IDOL",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "92340",
+            "view_count": "105147",
             "thumbnail_url": "https://i.ytimg.com/vi/hT8ahye6kTg/hqdefault.jpg"
+        },
+        {
+            "video_id": "xLhmKJx7mE0",
+            "title": "이 사랑 통역 되나요? | 공식 티저 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "1:25",
+            "view_count": "667880",
+            "thumbnail_url": "https://i.ytimg.com/vi/xLhmKJx7mE0/hqdefault.jpg"
+        },
+        {
+            "video_id": "0DvMtqw6R2o",
+            "title": "대깨 데마시아 장인 승아내 초대석",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "20:20",
+            "view_count": "167146",
+            "thumbnail_url": "https://i.ytimg.com/vi/0DvMtqw6R2o/hqdefault.jpg"
+        },
+        {
+            "video_id": "8kMHnD9XYjI",
+            "title": "Twelfth Night",
+            "channel_name": "HANHAE - Topic",
+            "category": "Music",
+            "duration": "4:21",
+            "view_count": "196996",
+            "thumbnail_url": "https://i.ytimg.com/vi/8kMHnD9XYjI/hqdefault.jpg"
         },
         {
             "video_id": "_n8jvSd1ylM",
@@ -97,7 +97,7 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "10:53",
-            "view_count": "138429",
+            "view_count": "143989",
             "thumbnail_url": "https://i.ytimg.com/vi/_n8jvSd1ylM/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "22:36",
-            "view_count": "125550",
+            "view_count": "136818",
             "thumbnail_url": "https://i.ytimg.com/vi/jIUnghhiYSY/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "소란 / SORAN",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "426118",
+            "view_count": "428899",
             "thumbnail_url": "https://i.ytimg.com/vi/NNf9QhWjG58/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "PlayStation Korea",
             "category": "Gaming",
             "duration": "4:43",
-            "view_count": "67060",
+            "view_count": "67344",
             "thumbnail_url": "https://i.ytimg.com/vi/esr0xUdGFCU/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "YouTube지누",
             "category": "Gaming",
             "duration": "14:20",
-            "view_count": "106184",
+            "view_count": "112050",
             "thumbnail_url": "https://i.ytimg.com/vi/Bb3LnkQRyfY/hqdefault.jpg"
         },
         {
@@ -142,35 +142,8 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "15672",
+            "view_count": "15710",
             "thumbnail_url": "https://i.ytimg.com/vi/EBJ9sXRxlJk/hqdefault.jpg"
-        },
-        {
-            "video_id": "AS-nbhlHZIw",
-            "title": "🔥아,또!!!｜어벤져스 둠스데이 토르 예고편도 유출됐다!!!🔥",
-            "channel_name": "올원채널 AllWonChannel",
-            "category": "Film & Animation",
-            "duration": "4:27",
-            "view_count": "80407",
-            "thumbnail_url": "https://i.ytimg.com/vi/AS-nbhlHZIw/hqdefault.jpg"
-        },
-        {
-            "video_id": "BiAt_IjMxCs",
-            "title": "그냥 나무 캐서 파는 맵인데 왜 재밌음???(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "18:31",
-            "view_count": "166200",
-            "thumbnail_url": "https://i.ytimg.com/vi/BiAt_IjMxCs/hqdefault.jpg"
-        },
-        {
-            "video_id": "RFwpRB0Ecoo",
-            "title": "Lovin' the Christmas",
-            "channel_name": "DAY6 - Topic",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "637521",
-            "thumbnail_url": "https://i.ytimg.com/vi/RFwpRB0Ecoo/hqdefault.jpg"
         },
         {
             "video_id": "bzVwP-nvF8k",
@@ -178,8 +151,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "23:54",
-            "view_count": "206398",
+            "view_count": "209994",
             "thumbnail_url": "https://i.ytimg.com/vi/bzVwP-nvF8k/hqdefault.jpg"
+        },
+        {
+            "video_id": "RFwpRB0Ecoo",
+            "title": "Lovin' the Christmas",
+            "channel_name": "DAY6 - Topic",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "641195",
+            "thumbnail_url": "https://i.ytimg.com/vi/RFwpRB0Ecoo/hqdefault.jpg"
+        },
+        {
+            "video_id": "BiAt_IjMxCs",
+            "title": "그냥 나무 캐서 파는 맵인데 왜 재밌음???(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "18:31",
+            "view_count": "170992",
+            "thumbnail_url": "https://i.ytimg.com/vi/BiAt_IjMxCs/hqdefault.jpg"
         },
         {
             "video_id": "iSn2sBjdP98",
@@ -187,7 +178,7 @@
             "channel_name": "doyouka - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "50090",
+            "view_count": "50873",
             "thumbnail_url": "https://i.ytimg.com/vi/iSn2sBjdP98/hqdefault.jpg"
         },
         {
@@ -196,7 +187,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "48:00",
-            "view_count": "88695",
+            "view_count": "95042",
             "thumbnail_url": "https://i.ytimg.com/vi/ftKwvKD_t9k/hqdefault.jpg"
         },
         {
@@ -205,7 +196,7 @@
             "channel_name": "Car, the Garden - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "237303",
+            "view_count": "238756",
             "thumbnail_url": "https://i.ytimg.com/vi/3AbjxMctQGY/hqdefault.jpg"
         },
         {
@@ -214,7 +205,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "14:26",
-            "view_count": "65081",
+            "view_count": "82218",
             "thumbnail_url": "https://i.ytimg.com/vi/0dAAEMbjcDQ/hqdefault.jpg"
         },
         {
@@ -223,17 +214,17 @@
             "channel_name": "Gain - Topic",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "68193",
+            "view_count": "69769",
             "thumbnail_url": "https://i.ytimg.com/vi/uvH37JTMgVI/hqdefault.jpg"
         },
         {
-            "video_id": "qbKLG4TjHBg",
-            "title": "꽥꽥탐험대 채스터가 99일 동안 막내로 살기? (로블록스 99 나이트 인 더 포레스트)",
-            "channel_name": "꽥",
+            "video_id": "FDzaG2xvo48",
+            "title": "배그 3분만 파밍하기 미션....?",
+            "channel_name": "주키니TV",
             "category": "Gaming",
-            "duration": "22:40",
-            "view_count": "69739",
-            "thumbnail_url": "https://i.ytimg.com/vi/qbKLG4TjHBg/hqdefault.jpg"
+            "duration": "27:08",
+            "view_count": "60395",
+            "thumbnail_url": "https://i.ytimg.com/vi/FDzaG2xvo48/hqdefault.jpg"
         },
         {
             "video_id": "oaP8MhjOWAE",
@@ -241,17 +232,17 @@
             "channel_name": "SEJEONG - Topic",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "54588",
+            "view_count": "55324",
             "thumbnail_url": "https://i.ytimg.com/vi/oaP8MhjOWAE/hqdefault.jpg"
         },
         {
-            "video_id": "PdoZroYQd4I",
-            "title": "제1회 사코팍 Q&A",
-            "channel_name": "사코팍 SAKOPAK",
-            "category": "People & Blogs",
-            "duration": "29:34",
-            "view_count": "240021",
-            "thumbnail_url": "https://i.ytimg.com/vi/PdoZroYQd4I/hqdefault.jpg"
+            "video_id": "qbKLG4TjHBg",
+            "title": "꽥꽥탐험대 채스터가 99일 동안 막내로 살기? (로블록스 99 나이트 인 더 포레스트)",
+            "channel_name": "꽥",
+            "category": "Gaming",
+            "duration": "22:40",
+            "view_count": "73909",
+            "thumbnail_url": "https://i.ytimg.com/vi/qbKLG4TjHBg/hqdefault.jpg"
         },
         {
             "video_id": "0_yx2Y4d8ow",
@@ -259,44 +250,8 @@
             "channel_name": "Yuika - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "50620",
+            "view_count": "52532",
             "thumbnail_url": "https://i.ytimg.com/vi/0_yx2Y4d8ow/hqdefault.jpg"
-        },
-        {
-            "video_id": "OhjX-II7Qhk",
-            "title": "망구랑 앞이빨 뽑으러 갑니다",
-            "channel_name": "킴성태TV",
-            "category": "Gaming",
-            "duration": "19:04",
-            "view_count": "188938",
-            "thumbnail_url": "https://i.ytimg.com/vi/OhjX-II7Qhk/hqdefault.jpg"
-        },
-        {
-            "video_id": "N76x2qOExY0",
-            "title": "[최신가요 실시간 인기차트] 🏆🍉2025년 12월 18일 3주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
-            "channel_name": "CoolCat",
-            "category": "Music",
-            "duration": "12:29:51",
-            "view_count": "25209",
-            "thumbnail_url": "https://i.ytimg.com/vi/N76x2qOExY0/hqdefault.jpg"
-        },
-        {
-            "video_id": "uYQInJxAE5s",
-            "title": "배수의 진",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "20:29",
-            "view_count": "344022",
-            "thumbnail_url": "https://i.ytimg.com/vi/uYQInJxAE5s/hqdefault.jpg"
-        },
-        {
-            "video_id": "tTnNOS5_oCM",
-            "title": "50대이상이 들으면 기분좋아지는 7080노래모음🎬12월이 되면 듣고 싶은 7080 노래 [싱크가사/Lyric Video]바람바람바람/귀거래사/그집앞",
-            "channel_name": "JUN FM",
-            "category": "People & Blogs",
-            "duration": "1:19:42",
-            "view_count": "13087",
-            "thumbnail_url": "https://i.ytimg.com/vi/tTnNOS5_oCM/hqdefault.jpg"
         },
         {
             "video_id": "D4ovA5emOxE",
@@ -304,17 +259,53 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "51:33",
-            "view_count": "70100",
+            "view_count": "75512",
             "thumbnail_url": "https://i.ytimg.com/vi/D4ovA5emOxE/hqdefault.jpg"
         },
         {
-            "video_id": "12mMS6GInJE",
-            "title": "QWER - 행복해져라 (캐롤 Ver.) l QWER with PlayStation",
-            "channel_name": "QWER",
-            "category": "Entertainment",
-            "duration": "2:51",
-            "view_count": "809194",
-            "thumbnail_url": "https://i.ytimg.com/vi/12mMS6GInJE/hqdefault.jpg"
+            "video_id": "N76x2qOExY0",
+            "title": "[최신가요 실시간 인기차트] 🏆🍉2025년 12월 18일 3주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
+            "channel_name": "CoolCat",
+            "category": "Music",
+            "duration": "12:29:51",
+            "view_count": "25692",
+            "thumbnail_url": "https://i.ytimg.com/vi/N76x2qOExY0/hqdefault.jpg"
+        },
+        {
+            "video_id": "PdoZroYQd4I",
+            "title": "제1회 사코팍 Q&A",
+            "channel_name": "사코팍 SAKOPAK",
+            "category": "People & Blogs",
+            "duration": "29:34",
+            "view_count": "242988",
+            "thumbnail_url": "https://i.ytimg.com/vi/PdoZroYQd4I/hqdefault.jpg"
+        },
+        {
+            "video_id": "1mVo8z3VBBI",
+            "title": "YOONA 윤아 'Wish to Wish' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "4:01",
+            "view_count": "108886",
+            "thumbnail_url": "https://i.ytimg.com/vi/1mVo8z3VBBI/hqdefault.jpg"
+        },
+        {
+            "video_id": "OhjX-II7Qhk",
+            "title": "망구랑 앞이빨 뽑으러 갑니다",
+            "channel_name": "킴성태TV",
+            "category": "Gaming",
+            "duration": "19:04",
+            "view_count": "190842",
+            "thumbnail_url": "https://i.ytimg.com/vi/OhjX-II7Qhk/hqdefault.jpg"
+        },
+        {
+            "video_id": "tTnNOS5_oCM",
+            "title": "50대이상이 들으면 기분좋아지는 7080노래모음🎬12월이 되면 듣고 싶은 7080 노래 [싱크가사/Lyric Video]바람바람바람/귀거래사/그집앞",
+            "channel_name": "JUN FM",
+            "category": "People & Blogs",
+            "duration": "1:19:42",
+            "view_count": "13364",
+            "thumbnail_url": "https://i.ytimg.com/vi/tTnNOS5_oCM/hqdefault.jpg"
         },
         {
             "video_id": "XGNuv-UrI-w",
@@ -322,8 +313,26 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "16:52",
-            "view_count": "93226",
+            "view_count": "97083",
             "thumbnail_url": "https://i.ytimg.com/vi/XGNuv-UrI-w/hqdefault.jpg"
+        },
+        {
+            "video_id": "12mMS6GInJE",
+            "title": "QWER - 행복해져라 (캐롤 Ver.) l QWER with PlayStation",
+            "channel_name": "QWER",
+            "category": "Entertainment",
+            "duration": "2:51",
+            "view_count": "812427",
+            "thumbnail_url": "https://i.ytimg.com/vi/12mMS6GInJE/hqdefault.jpg"
+        },
+        {
+            "video_id": "uYQInJxAE5s",
+            "title": "배수의 진",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "20:29",
+            "view_count": "345546",
+            "thumbnail_url": "https://i.ytimg.com/vi/uYQInJxAE5s/hqdefault.jpg"
         },
         {
             "video_id": "DvJ9B0eOHrk",
@@ -331,7 +340,7 @@
             "channel_name": "영탁스클럽 YOUNGTAKsClub",
             "category": "Entertainment",
             "duration": "3:30",
-            "view_count": "8015",
+            "view_count": "9353",
             "thumbnail_url": "https://i.ytimg.com/vi/DvJ9B0eOHrk/hqdefault.jpg"
         },
         {
@@ -340,26 +349,8 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "14:09",
-            "view_count": "60762",
+            "view_count": "64378",
             "thumbnail_url": "https://i.ytimg.com/vi/k8IGe-Ak6do/hqdefault.jpg"
-        },
-        {
-            "video_id": "1mVo8z3VBBI",
-            "title": "YOONA 윤아 'Wish to Wish' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "4:01",
-            "view_count": "94200",
-            "thumbnail_url": "https://i.ytimg.com/vi/1mVo8z3VBBI/hqdefault.jpg"
-        },
-        {
-            "video_id": "FDzaG2xvo48",
-            "title": "배그 3분만 파밍하기 미션....?",
-            "channel_name": "주키니TV",
-            "category": "Gaming",
-            "duration": "27:08",
-            "view_count": "49145",
-            "thumbnail_url": "https://i.ytimg.com/vi/FDzaG2xvo48/hqdefault.jpg"
         },
         {
             "video_id": "2yYKQrMHPXk",
@@ -367,7 +358,7 @@
             "channel_name": "Kassy - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "43434",
+            "view_count": "43894",
             "thumbnail_url": "https://i.ytimg.com/vi/2yYKQrMHPXk/hqdefault.jpg"
         },
         {
@@ -376,8 +367,17 @@
             "channel_name": "펭귄몬스터",
             "category": "Gaming",
             "duration": "10:59",
-            "view_count": "229694",
+            "view_count": "232359",
             "thumbnail_url": "https://i.ytimg.com/vi/zTftPHUYYYI/hqdefault.jpg"
+        },
+        {
+            "video_id": "fcKxJxoRLg4",
+            "title": "NOT CUTE ANYMORE (Holiday Party ver.)",
+            "channel_name": "ILLIT - Topic",
+            "category": "Music",
+            "duration": "2:27",
+            "view_count": "34157",
+            "thumbnail_url": "https://i.ytimg.com/vi/fcKxJxoRLg4/hqdefault.jpg"
         }
     ]
 }
