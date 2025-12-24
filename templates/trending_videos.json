@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-12-24 20:20:57",
+    "scraped_time": "2025-12-24 21:48:59",
     "videos": [
         {
             "video_id": "rrbyUlaPqqs",
@@ -7,7 +7,7 @@
             "channel_name": "순순희",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "281792",
+            "view_count": "289218",
             "thumbnail_url": "https://i.ytimg.com/vi/rrbyUlaPqqs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "1:30",
-            "view_count": "562991",
+            "view_count": "591988",
             "thumbnail_url": "https://i.ytimg.com/vi/6CiR3fC1cLM/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "AION2",
             "category": "Gaming",
             "duration": "1:56:01",
-            "view_count": "259134",
+            "view_count": "259765",
             "thumbnail_url": "https://i.ytimg.com/vi/IpUN03SmyWY/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "2:19",
-            "view_count": "1576129",
+            "view_count": "1636555",
             "thumbnail_url": "https://i.ytimg.com/vi/fjTvhaDsRDg/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:13",
-            "view_count": "95152",
+            "view_count": "125299",
             "thumbnail_url": "https://i.ytimg.com/vi/eLjjrGGEyR8/hqdefault.jpg"
         },
         {
@@ -52,17 +52,17 @@
             "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
             "duration": "23:05",
-            "view_count": "314218",
+            "view_count": "332800",
             "thumbnail_url": "https://i.ytimg.com/vi/MjWyddAjyjc/hqdefault.jpg"
         },
         {
-            "video_id": "j8EAE3_uoYM",
-            "title": "[TWS:TUDIO] 'Snow Prince - SS501' Live Clip l Covered by TWS",
-            "channel_name": "TWS",
+            "video_id": "9jsCiTGU8Zw",
+            "title": "그래 늦지 않았어(2025)-녹색지대(곽창선),아샤트리,이예은 ",
+            "channel_name": "아샤트리 AshaTree",
             "category": "Music",
-            "duration": "3:28",
-            "view_count": "137191",
-            "thumbnail_url": "https://i.ytimg.com/vi/j8EAE3_uoYM/hqdefault.jpg"
+            "duration": "4:16",
+            "view_count": "10197",
+            "thumbnail_url": "https://i.ytimg.com/vi/9jsCiTGU8Zw/hqdefault.jpg"
         },
         {
             "video_id": "_n2UiOqW0ZQ",
@@ -70,7 +70,7 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "1:49",
-            "view_count": "965902",
+            "view_count": "980521",
             "thumbnail_url": "https://i.ytimg.com/vi/_n2UiOqW0ZQ/hqdefault.jpg"
         },
         {
@@ -79,17 +79,17 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "23:35",
-            "view_count": "156920",
+            "view_count": "165620",
             "thumbnail_url": "https://i.ytimg.com/vi/376dYMWDu-o/hqdefault.jpg"
         },
         {
-            "video_id": "q3DQbTrCdGg",
-            "title": "4 SEASONS",
-            "channel_name": "XG - Topic",
+            "video_id": "j8EAE3_uoYM",
+            "title": "[TWS:TUDIO] 'Snow Prince - SS501' Live Clip l Covered by TWS",
+            "channel_name": "TWS",
             "category": "Music",
-            "duration": "4:36",
-            "view_count": "60872",
-            "thumbnail_url": "https://i.ytimg.com/vi/q3DQbTrCdGg/hqdefault.jpg"
+            "duration": "3:28",
+            "view_count": "143812",
+            "thumbnail_url": "https://i.ytimg.com/vi/j8EAE3_uoYM/hqdefault.jpg"
         },
         {
             "video_id": "00TqDuFWCN0",
@@ -97,8 +97,35 @@
             "channel_name": "토이쿠",
             "category": "Gaming",
             "duration": "9:29",
-            "view_count": "70837",
+            "view_count": "76084",
             "thumbnail_url": "https://i.ytimg.com/vi/00TqDuFWCN0/hqdefault.jpg"
+        },
+        {
+            "video_id": "DDYlGELc8jU",
+            "title": "[우주경찰들] 탈옥을 꿈꾸는 죄수들",
+            "channel_name": "짤툰",
+            "category": "Film & Animation",
+            "duration": "3:04",
+            "view_count": "100696",
+            "thumbnail_url": "https://i.ytimg.com/vi/DDYlGELc8jU/hqdefault.jpg"
+        },
+        {
+            "video_id": "q3DQbTrCdGg",
+            "title": "4 SEASONS",
+            "channel_name": "XG - Topic",
+            "category": "Music",
+            "duration": "4:36",
+            "view_count": "67276",
+            "thumbnail_url": "https://i.ytimg.com/vi/q3DQbTrCdGg/hqdefault.jpg"
+        },
+        {
+            "video_id": "QyJcoMqOqyo",
+            "title": "[휴민트 HUMINT] 런칭 예고편",
+            "channel_name": "잇츠뉴 It'sNEW",
+            "category": "Film & Animation",
+            "duration": "0:31",
+            "view_count": "124819",
+            "thumbnail_url": "https://i.ytimg.com/vi/QyJcoMqOqyo/hqdefault.jpg"
         },
         {
             "video_id": "zBvuTcXPQwM",
@@ -106,7 +133,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "27:47",
-            "view_count": "170833",
+            "view_count": "175449",
             "thumbnail_url": "https://i.ytimg.com/vi/zBvuTcXPQwM/hqdefault.jpg"
         },
         {
@@ -115,35 +142,8 @@
             "channel_name": "Vaundy - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "130971",
+            "view_count": "152041",
             "thumbnail_url": "https://i.ytimg.com/vi/WMMlqpcWBr8/hqdefault.jpg"
-        },
-        {
-            "video_id": "QyJcoMqOqyo",
-            "title": "[휴민트 HUMINT] 런칭 예고편",
-            "channel_name": "잇츠뉴 It'sNEW",
-            "category": "Film & Animation",
-            "duration": "0:31",
-            "view_count": "122422",
-            "thumbnail_url": "https://i.ytimg.com/vi/QyJcoMqOqyo/hqdefault.jpg"
-        },
-        {
-            "video_id": "bU6fYm7qz00",
-            "title": "한 방에 세상을 멸망시키는 여명 공룡",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "11:26",
-            "view_count": "153827",
-            "thumbnail_url": "https://i.ytimg.com/vi/bU6fYm7qz00/hqdefault.jpg"
-        },
-        {
-            "video_id": "W_yA-Cd3E4Q",
-            "title": "K-CAROL Covered by IVE ANYUJIN",
-            "channel_name": "IVE",
-            "category": "Entertainment",
-            "duration": "5:06",
-            "view_count": "127293",
-            "thumbnail_url": "https://i.ytimg.com/vi/W_yA-Cd3E4Q/hqdefault.jpg"
         },
         {
             "video_id": "Drc_I-7_WZ8",
@@ -151,26 +151,26 @@
             "channel_name": "신비아파트 공식채널 - Shinbi House",
             "category": "Film & Animation",
             "duration": "1:18",
-            "view_count": "67503",
+            "view_count": "69778",
             "thumbnail_url": "https://i.ytimg.com/vi/Drc_I-7_WZ8/hqdefault.jpg"
         },
         {
-            "video_id": "U9WRn35TWAs",
-            "title": "[장기강좌] 최강원앙마 사마룡장기 라이브방송",
-            "channel_name": "사마룡장기",
+            "video_id": "bU6fYm7qz00",
+            "title": "한 방에 세상을 멸망시키는 여명 공룡",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "5:46:06",
-            "view_count": "54487",
-            "thumbnail_url": "https://i.ytimg.com/vi/U9WRn35TWAs/hqdefault.jpg"
+            "duration": "11:26",
+            "view_count": "157253",
+            "thumbnail_url": "https://i.ytimg.com/vi/bU6fYm7qz00/hqdefault.jpg"
         },
         {
-            "video_id": "25yoO0iUwOo",
-            "title": "가장 인기있는 크리스마스 캐롤 메들리 캐롤송 연속듣기 🎅 크리스마스에 듣기 좋은 노래 🎄 Merry Christmas 2026 Vol 02",
+            "video_id": "YgHuyxSs3g0",
+            "title": "가장 인기있는 크리스마스 캐롤 메들리 캐롤송 연속듣기 🎅 크리스마스에 듣기 좋은 노래 🎄 Merry Christmas 2026 Vol 07",
             "channel_name": "드라마 OST",
             "category": "Entertainment",
-            "duration": "1:18:15",
-            "view_count": "245090",
-            "thumbnail_url": "https://i.ytimg.com/vi/25yoO0iUwOo/hqdefault.jpg"
+            "duration": "1:27:35",
+            "view_count": "4073",
+            "thumbnail_url": "https://i.ytimg.com/vi/YgHuyxSs3g0/hqdefault.jpg"
         },
         {
             "video_id": "6W2J2u_CaK0",
@@ -178,8 +178,44 @@
             "channel_name": "기묘한 케이지",
             "category": "Film & Animation",
             "duration": "11:03",
-            "view_count": "47215",
+            "view_count": "49675",
             "thumbnail_url": "https://i.ytimg.com/vi/6W2J2u_CaK0/hqdefault.jpg"
+        },
+        {
+            "video_id": "ocNGfmsM2vY",
+            "title": "24시간동안 한판도 지지 않고 아크네메시스를 찍으면 생기는 일",
+            "channel_name": "양세돌",
+            "category": "Gaming",
+            "duration": "24:47",
+            "view_count": "50743",
+            "thumbnail_url": "https://i.ytimg.com/vi/ocNGfmsM2vY/hqdefault.jpg"
+        },
+        {
+            "video_id": "W_yA-Cd3E4Q",
+            "title": "K-CAROL Covered by IVE ANYUJIN",
+            "channel_name": "IVE",
+            "category": "Entertainment",
+            "duration": "5:06",
+            "view_count": "133190",
+            "thumbnail_url": "https://i.ytimg.com/vi/W_yA-Cd3E4Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "U9WRn35TWAs",
+            "title": "[장기강좌] 최강원앙마 사마룡장기 라이브방송",
+            "channel_name": "사마룡장기",
+            "category": "Gaming",
+            "duration": "5:46:06",
+            "view_count": "0",
+            "thumbnail_url": "https://i.ytimg.com/vi/U9WRn35TWAs/hqdefault.jpg"
+        },
+        {
+            "video_id": "t0lus004uoc",
+            "title": "IU 'Last Fantasy' Live Clip (2024 IU HEREH WORLD TOUR CONCERT ENCORE : THE WINNING)",
+            "channel_name": "이지금 [IU Official]",
+            "category": "Entertainment",
+            "duration": "6:17",
+            "view_count": "43314",
+            "thumbnail_url": "https://i.ytimg.com/vi/t0lus004uoc/hqdefault.jpg"
         },
         {
             "video_id": "ARSHo1u0RsY",
@@ -187,7 +223,7 @@
             "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
             "duration": "15:02",
-            "view_count": "220069",
+            "view_count": "225032",
             "thumbnail_url": "https://i.ytimg.com/vi/ARSHo1u0RsY/hqdefault.jpg"
         },
         {
@@ -196,35 +232,17 @@
             "channel_name": "Yorushika - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "552545",
+            "view_count": "560337",
             "thumbnail_url": "https://i.ytimg.com/vi/2-jDq07rNs0/hqdefault.jpg"
         },
         {
-            "video_id": "DDYlGELc8jU",
-            "title": "[우주경찰들] 탈옥을 꿈꾸는 죄수들",
-            "channel_name": "짤툰",
-            "category": "Film & Animation",
-            "duration": "3:04",
-            "view_count": "70735",
-            "thumbnail_url": "https://i.ytimg.com/vi/DDYlGELc8jU/hqdefault.jpg"
-        },
-        {
-            "video_id": "9jsCiTGU8Zw",
-            "title": "그래 늦지 않았어(2025)-녹색지대(곽창선),아샤트리,이예은 ",
-            "channel_name": "아샤트리 AshaTree",
-            "category": "Music",
-            "duration": "4:16",
-            "view_count": "5963",
-            "thumbnail_url": "https://i.ytimg.com/vi/9jsCiTGU8Zw/hqdefault.jpg"
-        },
-        {
-            "video_id": "2wuSFd75QYA",
-            "title": "\"25분 CS 290\" 25분에 18렙 찍는 2라인 오버파밍 사이온 전략 😋🍽️",
-            "channel_name": "전략적죽음",
+            "video_id": "7Px2OUdvDcc",
+            "title": "사소한 천재 [방 탈출 시뮬레이터2]",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "24:48",
-            "view_count": "135802",
-            "thumbnail_url": "https://i.ytimg.com/vi/2wuSFd75QYA/hqdefault.jpg"
+            "duration": "1:12:18",
+            "view_count": "76614",
+            "thumbnail_url": "https://i.ytimg.com/vi/7Px2OUdvDcc/hqdefault.jpg"
         },
         {
             "video_id": "zfESlU8diD0",
@@ -232,62 +250,8 @@
             "channel_name": "ZICO - Topic",
             "category": "Music",
             "duration": "2:26",
-            "view_count": "1489407",
+            "view_count": "1522678",
             "thumbnail_url": "https://i.ytimg.com/vi/zfESlU8diD0/hqdefault.jpg"
-        },
-        {
-            "video_id": "J8B3VEGn6iI",
-            "title": "그 랜드마크 짓는 게임 누가 마크로 만듦 ㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "21:20",
-            "view_count": "145105",
-            "thumbnail_url": "https://i.ytimg.com/vi/J8B3VEGn6iI/hqdefault.jpg"
-        },
-        {
-            "video_id": "6V3xN-8eedk",
-            "title": "이승협&유회승 - 하얀 크리스마스잖아요",
-            "channel_name": "유회승 Yoo Hwe Seung",
-            "category": "Music",
-            "duration": "4:00",
-            "view_count": "22469",
-            "thumbnail_url": "https://i.ytimg.com/vi/6V3xN-8eedk/hqdefault.jpg"
-        },
-        {
-            "video_id": "pwlogFVF28E",
-            "title": "에메랄드 거지 형제",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "32:02",
-            "view_count": "72129",
-            "thumbnail_url": "https://i.ytimg.com/vi/pwlogFVF28E/hqdefault.jpg"
-        },
-        {
-            "video_id": "IvRLeEFYPUc",
-            "title": "윤미래 (yoonmirae)  \"숨 (Breath)\" Visualizer",
-            "channel_name": "Feel Ghood Music [필굿뮤직]",
-            "category": "Music",
-            "duration": "2:49",
-            "view_count": "226504",
-            "thumbnail_url": "https://i.ytimg.com/vi/IvRLeEFYPUc/hqdefault.jpg"
-        },
-        {
-            "video_id": "ocNGfmsM2vY",
-            "title": "24시간동안 한판도 지지 않고 아크네메시스를 찍으면 생기는 일",
-            "channel_name": "양세돌",
-            "category": "Gaming",
-            "duration": "24:47",
-            "view_count": "25347",
-            "thumbnail_url": "https://i.ytimg.com/vi/ocNGfmsM2vY/hqdefault.jpg"
-        },
-        {
-            "video_id": "KRGsGeamIkM",
-            "title": "Not money. You",
-            "channel_name": "노아주다 (noahjooda) - Topic",
-            "category": "Music",
-            "duration": "2:19",
-            "view_count": "37258",
-            "thumbnail_url": "https://i.ytimg.com/vi/KRGsGeamIkM/hqdefault.jpg"
         },
         {
             "video_id": "safVkZSGGhY",
@@ -295,8 +259,80 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "43:59",
-            "view_count": "47777",
+            "view_count": "66078",
             "thumbnail_url": "https://i.ytimg.com/vi/safVkZSGGhY/hqdefault.jpg"
+        },
+        {
+            "video_id": "IvRLeEFYPUc",
+            "title": "윤미래 (yoonmirae)  \"숨 (Breath)\" Visualizer",
+            "channel_name": "Feel Ghood Music [필굿뮤직]",
+            "category": "Music",
+            "duration": "2:49",
+            "view_count": "243576",
+            "thumbnail_url": "https://i.ytimg.com/vi/IvRLeEFYPUc/hqdefault.jpg"
+        },
+        {
+            "video_id": "2wuSFd75QYA",
+            "title": "\"25분 CS 290\" 25분에 18렙 찍는 2라인 오버파밍 사이온 전략 😋🍽️",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "24:48",
+            "view_count": "139346",
+            "thumbnail_url": "https://i.ytimg.com/vi/2wuSFd75QYA/hqdefault.jpg"
+        },
+        {
+            "video_id": "6V3xN-8eedk",
+            "title": "이승협&유회승 - 하얀 크리스마스잖아요",
+            "channel_name": "유회승 Yoo Hwe Seung",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "23798",
+            "thumbnail_url": "https://i.ytimg.com/vi/6V3xN-8eedk/hqdefault.jpg"
+        },
+        {
+            "video_id": "J8B3VEGn6iI",
+            "title": "그 랜드마크 짓는 게임 누가 마크로 만듦 ㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "21:20",
+            "view_count": "152773",
+            "thumbnail_url": "https://i.ytimg.com/vi/J8B3VEGn6iI/hqdefault.jpg"
+        },
+        {
+            "video_id": "KRGsGeamIkM",
+            "title": "Not money. You",
+            "channel_name": "노아주다 (noahjooda) - Topic",
+            "category": "Music",
+            "duration": "2:19",
+            "view_count": "39295",
+            "thumbnail_url": "https://i.ytimg.com/vi/KRGsGeamIkM/hqdefault.jpg"
+        },
+        {
+            "video_id": "pwlogFVF28E",
+            "title": "에메랄드 거지 형제",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "32:02",
+            "view_count": "81102",
+            "thumbnail_url": "https://i.ytimg.com/vi/pwlogFVF28E/hqdefault.jpg"
+        },
+        {
+            "video_id": "QqXg1L71vy4",
+            "title": "Best Christmas Choir Songs 2026 🎄 Top Christmas Songs of All Time 🎄 Christmas Songs Playlist",
+            "channel_name": "Heavenly Christmas",
+            "category": "Music",
+            "duration": "1:48:05",
+            "view_count": "50565",
+            "thumbnail_url": "https://i.ytimg.com/vi/QqXg1L71vy4/hqdefault.jpg"
+        },
+        {
+            "video_id": "vA4ZG1-_9CQ",
+            "title": "직접 개발한 15분 초패스트 333업 200드라군 빌드를 상대한테 실험해봤는데, 상대 반응이ㅋㅋㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "36:38",
+            "view_count": "66434",
+            "thumbnail_url": "https://i.ytimg.com/vi/vA4ZG1-_9CQ/hqdefault.jpg"
         },
         {
             "video_id": "OCfFVUySdYw",
@@ -304,7 +340,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "957450",
+            "view_count": "970515",
             "thumbnail_url": "https://i.ytimg.com/vi/OCfFVUySdYw/hqdefault.jpg"
         },
         {
@@ -313,7 +349,7 @@
             "channel_name": "가재맨",
             "category": "Gaming",
             "duration": "21:31",
-            "view_count": "118466",
+            "view_count": "124787",
             "thumbnail_url": "https://i.ytimg.com/vi/z5ZO8GDC1qU/hqdefault.jpg"
         },
         {
@@ -322,53 +358,17 @@
             "channel_name": "Boramiyu - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "79696",
+            "view_count": "81171",
             "thumbnail_url": "https://i.ytimg.com/vi/7FwvAKbgakQ/hqdefault.jpg"
         },
         {
-            "video_id": "f9qiXeOwt5Q",
-            "title": "배그에서 가장 쎈 연사 AR 총",
-            "channel_name": "주키니TV",
+            "video_id": "8peRxgjRZDw",
+            "title": "그림자 군도 + 공허 아이템으로 라이즈를 솔캐리로 사용하는 방법",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "19:39",
-            "view_count": "117313",
-            "thumbnail_url": "https://i.ytimg.com/vi/f9qiXeOwt5Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "t0lus004uoc",
-            "title": "IU 'Last Fantasy' Live Clip (2024 IU HEREH WORLD TOUR CONCERT ENCORE : THE WINNING)",
-            "channel_name": "이지금 [IU Official]",
-            "category": "Entertainment",
-            "duration": "6:17",
-            "view_count": "25134",
-            "thumbnail_url": "https://i.ytimg.com/vi/t0lus004uoc/hqdefault.jpg"
-        },
-        {
-            "video_id": "vA4ZG1-_9CQ",
-            "title": "직접 개발한 15분 초패스트 333업 200드라군 빌드를 상대한테 실험해봤는데, 상대 반응이ㅋㅋㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "36:38",
-            "view_count": "57287",
-            "thumbnail_url": "https://i.ytimg.com/vi/vA4ZG1-_9CQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "RqzG5uv8diQ",
-            "title": "Tomorrow, Promise",
-            "channel_name": "UmYull - Topic",
-            "category": "Music",
-            "duration": "4:27",
-            "view_count": "46255",
-            "thumbnail_url": "https://i.ytimg.com/vi/RqzG5uv8diQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "7Px2OUdvDcc",
-            "title": "사소한 천재 [방 탈출 시뮬레이터2]",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "1:12:18",
-            "view_count": "51844",
-            "thumbnail_url": "https://i.ytimg.com/vi/7Px2OUdvDcc/hqdefault.jpg"
+            "duration": "14:15",
+            "view_count": "89725",
+            "thumbnail_url": "https://i.ytimg.com/vi/8peRxgjRZDw/hqdefault.jpg"
         },
         {
             "video_id": "wndy1evKS2Q",
@@ -376,7 +376,7 @@
             "channel_name": "CORTIS",
             "category": "Entertainment",
             "duration": "2:59",
-            "view_count": "266845",
+            "view_count": "286175",
             "thumbnail_url": "https://i.ytimg.com/vi/wndy1evKS2Q/hqdefault.jpg"
         }
     ]
