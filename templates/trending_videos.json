@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2025-12-28 02:19:28",
+    "scraped_time": "2025-12-28 03:31:51",
     "videos": [
         {
             "video_id": "hd8oTfHG2fg",
@@ -7,7 +7,7 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "200420",
+            "view_count": "214539",
             "thumbnail_url": "https://i.ytimg.com/vi/hd8oTfHG2fg/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "SBS ",
             "category": "Entertainment",
             "duration": "0:33",
-            "view_count": "28918",
+            "view_count": "29081",
             "thumbnail_url": "https://i.ytimg.com/vi/dsw3KhXnCuE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "29:37",
-            "view_count": "193554",
+            "view_count": "215487",
             "thumbnail_url": "https://i.ytimg.com/vi/cWtIci_5dlc/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "2:06",
-            "view_count": "262969",
+            "view_count": "265639",
             "thumbnail_url": "https://i.ytimg.com/vi/-gA4IYS0Kco/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:33",
-            "view_count": "210447",
+            "view_count": "213865",
             "thumbnail_url": "https://i.ytimg.com/vi/x0JPmS86oGA/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "48:33",
-            "view_count": "877874",
+            "view_count": "884617",
             "thumbnail_url": "https://i.ytimg.com/vi/2hVWSrz1p-Q/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "하데스(HADES) - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "42467",
+            "view_count": "43062",
             "thumbnail_url": "https://i.ytimg.com/vi/6y5tJCkMggI/hqdefault.jpg"
         },
         {
@@ -70,8 +70,35 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:13",
-            "view_count": "331054",
+            "view_count": "331880",
             "thumbnail_url": "https://i.ytimg.com/vi/eLjjrGGEyR8/hqdefault.jpg"
+        },
+        {
+            "video_id": "_-vBPJ5NEUA",
+            "title": "에메랄드 손목 꺾기",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "22:32",
+            "view_count": "166360",
+            "thumbnail_url": "https://i.ytimg.com/vi/_-vBPJ5NEUA/hqdefault.jpg"
+        },
+        {
+            "video_id": "YsvbN665LZE",
+            "title": "HAN \"유성우 (Raining stars)\" | [Stray Kids : SKZ-RECORD]",
+            "channel_name": "Stray Kids",
+            "category": "Music",
+            "duration": "3:42",
+            "view_count": "336420",
+            "thumbnail_url": "https://i.ytimg.com/vi/YsvbN665LZE/hqdefault.jpg"
+        },
+        {
+            "video_id": "6CiR3fC1cLM",
+            "title": "[어벤져스: 둠스데이] ‘스티브 로저스’ 예고편 최초 공개",
+            "channel_name": "MarvelKorea",
+            "category": "Entertainment",
+            "duration": "1:30",
+            "view_count": "934812",
+            "thumbnail_url": "https://i.ytimg.com/vi/6CiR3fC1cLM/hqdefault.jpg"
         },
         {
             "video_id": "utgr-mBiAOw",
@@ -79,7 +106,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:13",
-            "view_count": "128891",
+            "view_count": "150583",
             "thumbnail_url": "https://i.ytimg.com/vi/utgr-mBiAOw/hqdefault.jpg"
         },
         {
@@ -88,17 +115,8 @@
             "channel_name": "드라마 OST",
             "category": "Entertainment",
             "duration": "1:27:35",
-            "view_count": "174507",
+            "view_count": "174564",
             "thumbnail_url": "https://i.ytimg.com/vi/YgHuyxSs3g0/hqdefault.jpg"
-        },
-        {
-            "video_id": "6CiR3fC1cLM",
-            "title": "[어벤져스: 둠스데이] ‘스티브 로저스’ 예고편 최초 공개",
-            "channel_name": "MarvelKorea",
-            "category": "Entertainment",
-            "duration": "1:30",
-            "view_count": "931742",
-            "thumbnail_url": "https://i.ytimg.com/vi/6CiR3fC1cLM/hqdefault.jpg"
         },
         {
             "video_id": "J2sYUlN-7D4",
@@ -106,7 +124,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:45",
-            "view_count": "281172",
+            "view_count": "283946",
             "thumbnail_url": "https://i.ytimg.com/vi/J2sYUlN-7D4/hqdefault.jpg"
         },
         {
@@ -115,7 +133,7 @@
             "channel_name": "아샤트리 AshaTree",
             "category": "Music",
             "duration": "4:16",
-            "view_count": "206719",
+            "view_count": "208205",
             "thumbnail_url": "https://i.ytimg.com/vi/9jsCiTGU8Zw/hqdefault.jpg"
         },
         {
@@ -124,26 +142,8 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "1:02:12",
-            "view_count": "277554",
+            "view_count": "280781",
             "thumbnail_url": "https://i.ytimg.com/vi/zBviYe4_-Mc/hqdefault.jpg"
-        },
-        {
-            "video_id": "YsvbN665LZE",
-            "title": "HAN \"유성우 (Raining stars)\" | [Stray Kids : SKZ-RECORD]",
-            "channel_name": "Stray Kids",
-            "category": "Music",
-            "duration": "3:42",
-            "view_count": "253638",
-            "thumbnail_url": "https://i.ytimg.com/vi/YsvbN665LZE/hqdefault.jpg"
-        },
-        {
-            "video_id": "_nxsw6eQxgI",
-            "title": "정상을 향해 | SLL 결승",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "2:00:52",
-            "view_count": "174943",
-            "thumbnail_url": "https://i.ytimg.com/vi/_nxsw6eQxgI/hqdefault.jpg"
         },
         {
             "video_id": "zy7j3YePxRc",
@@ -151,17 +151,17 @@
             "channel_name": "NMIXX",
             "category": "Entertainment",
             "duration": "3:51",
-            "view_count": "42651",
+            "view_count": "47066",
             "thumbnail_url": "https://i.ytimg.com/vi/zy7j3YePxRc/hqdefault.jpg"
         },
         {
-            "video_id": "_-vBPJ5NEUA",
-            "title": "에메랄드 손목 꺾기",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "22:32",
-            "view_count": "128427",
-            "thumbnail_url": "https://i.ytimg.com/vi/_-vBPJ5NEUA/hqdefault.jpg"
+            "video_id": "9HcJAVlJMBY",
+            "title": "버거 훌라 777 라이브 스트리밍 중",
+            "channel_name": "버거 훌라 777",
+            "category": "People & Blogs",
+            "duration": "4:10:20",
+            "view_count": "130501",
+            "thumbnail_url": "https://i.ytimg.com/vi/9HcJAVlJMBY/hqdefault.jpg"
         },
         {
             "video_id": "bQgikiTB8GU",
@@ -169,17 +169,17 @@
             "channel_name": "SEVENTEEN",
             "category": "Music",
             "duration": "3:34",
-            "view_count": "353662",
+            "view_count": "355575",
             "thumbnail_url": "https://i.ytimg.com/vi/bQgikiTB8GU/hqdefault.jpg"
         },
         {
-            "video_id": "5VTgyvbiZII",
-            "title": "마인크래프트에서 *99밤* 만들어봤습니다!",
-            "channel_name": "토뎀이",
+            "video_id": "_nxsw6eQxgI",
+            "title": "정상을 향해 | SLL 결승",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "21:43",
-            "view_count": "107416",
-            "thumbnail_url": "https://i.ytimg.com/vi/5VTgyvbiZII/hqdefault.jpg"
+            "duration": "2:00:52",
+            "view_count": "178800",
+            "thumbnail_url": "https://i.ytimg.com/vi/_nxsw6eQxgI/hqdefault.jpg"
         },
         {
             "video_id": "k6Zj7XyXcLg",
@@ -187,26 +187,8 @@
             "channel_name": "V.O.S - Topic",
             "category": "Music",
             "duration": "3:51",
-            "view_count": "16412",
+            "view_count": "16692",
             "thumbnail_url": "https://i.ytimg.com/vi/k6Zj7XyXcLg/hqdefault.jpg"
-        },
-        {
-            "video_id": "D1NmEmUadaE",
-            "title": "만물상 라이즈",
-            "channel_name": "승상싱",
-            "category": "Gaming",
-            "duration": "11:54",
-            "view_count": "514324",
-            "thumbnail_url": "https://i.ytimg.com/vi/D1NmEmUadaE/hqdefault.jpg"
-        },
-        {
-            "video_id": "mLwfuskNDOo",
-            "title": "거리에서",
-            "channel_name": "Sung Si-kyung - Topic",
-            "category": "Music",
-            "duration": "4:40",
-            "view_count": "12849",
-            "thumbnail_url": "https://i.ytimg.com/vi/mLwfuskNDOo/hqdefault.jpg"
         },
         {
             "video_id": "wwZl3hn3NtE",
@@ -214,7 +196,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "13:59",
-            "view_count": "95993",
+            "view_count": "103932",
             "thumbnail_url": "https://i.ytimg.com/vi/wwZl3hn3NtE/hqdefault.jpg"
         },
         {
@@ -223,26 +205,8 @@
             "channel_name": "DAZBEE official",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "86792",
+            "view_count": "89306",
             "thumbnail_url": "https://i.ytimg.com/vi/4NM0NASCNeE/hqdefault.jpg"
-        },
-        {
-            "video_id": "y3LAMmsmRR8",
-            "title": "마크에이지 리턴즈3 전쟁 시작부터 파괴된 신호기 4회차 4부 (완결) | 악어 마인크래프트 M.C.Age Returns 3",
-            "channel_name": "악어 유튜브",
-            "category": "Gaming",
-            "duration": "43:00",
-            "view_count": "29761",
-            "thumbnail_url": "https://i.ytimg.com/vi/y3LAMmsmRR8/hqdefault.jpg"
-        },
-        {
-            "video_id": "ILDol5yPM0Q",
-            "title": "[LIVE] 한로로 (HANRORO) - 0+0 I 4TH 단독콘서트 [자몽살구클럽]",
-            "channel_name": "한로로 HANRORO",
-            "category": "Music",
-            "duration": "3:16",
-            "view_count": "50924",
-            "thumbnail_url": "https://i.ytimg.com/vi/ILDol5yPM0Q/hqdefault.jpg"
         },
         {
             "video_id": "GGzF-HFo75w",
@@ -250,8 +214,44 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "36:40",
-            "view_count": "75710",
+            "view_count": "87428",
             "thumbnail_url": "https://i.ytimg.com/vi/GGzF-HFo75w/hqdefault.jpg"
+        },
+        {
+            "video_id": "mLwfuskNDOo",
+            "title": "거리에서",
+            "channel_name": "Sung Si-kyung - Topic",
+            "category": "Music",
+            "duration": "4:40",
+            "view_count": "13237",
+            "thumbnail_url": "https://i.ytimg.com/vi/mLwfuskNDOo/hqdefault.jpg"
+        },
+        {
+            "video_id": "5VTgyvbiZII",
+            "title": "마인크래프트에서 *99밤* 만들어봤습니다!",
+            "channel_name": "토뎀이",
+            "category": "Gaming",
+            "duration": "21:43",
+            "view_count": "109472",
+            "thumbnail_url": "https://i.ytimg.com/vi/5VTgyvbiZII/hqdefault.jpg"
+        },
+        {
+            "video_id": "ILDol5yPM0Q",
+            "title": "[LIVE] 한로로 (HANRORO) - 0+0 I 4TH 단독콘서트 [자몽살구클럽]",
+            "channel_name": "한로로 HANRORO",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "51674",
+            "thumbnail_url": "https://i.ytimg.com/vi/ILDol5yPM0Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "D1NmEmUadaE",
+            "title": "만물상 라이즈",
+            "channel_name": "승상싱",
+            "category": "Gaming",
+            "duration": "11:54",
+            "view_count": "516015",
+            "thumbnail_url": "https://i.ytimg.com/vi/D1NmEmUadaE/hqdefault.jpg"
         },
         {
             "video_id": "tIqjg6T6idM",
@@ -259,8 +259,26 @@
             "channel_name": "폴킴 Paul Kim Official",
             "category": "Entertainment",
             "duration": "2:26",
-            "view_count": "14109",
+            "view_count": "14685",
             "thumbnail_url": "https://i.ytimg.com/vi/tIqjg6T6idM/hqdefault.jpg"
+        },
+        {
+            "video_id": "y3LAMmsmRR8",
+            "title": "마크에이지 리턴즈3 전쟁 시작부터 파괴된 신호기 4회차 4부 (완결) | 악어 마인크래프트 M.C.Age Returns 3",
+            "channel_name": "악어 유튜브",
+            "category": "Gaming",
+            "duration": "43:00",
+            "view_count": "32276",
+            "thumbnail_url": "https://i.ytimg.com/vi/y3LAMmsmRR8/hqdefault.jpg"
+        },
+        {
+            "video_id": "8z6T83tbQRo",
+            "title": "가는 해가 아쉬워 듣는 7080 노래모음 🌅 50대 60대 마음을 울리는 추억의 노래 ☕ 잊혀진 계절/그 겨울의 찻집/사랑을 위하여",
+            "channel_name": "Retro Radio 7080",
+            "category": "People & Blogs",
+            "duration": "1:04:03",
+            "view_count": "6228",
+            "thumbnail_url": "https://i.ytimg.com/vi/8z6T83tbQRo/hqdefault.jpg"
         },
         {
             "video_id": "xbOBEuHpnkM",
@@ -268,7 +286,7 @@
             "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
             "duration": "16:10",
-            "view_count": "134388",
+            "view_count": "145601",
             "thumbnail_url": "https://i.ytimg.com/vi/xbOBEuHpnkM/hqdefault.jpg"
         },
         {
@@ -277,26 +295,8 @@
             "channel_name": "Geeks - Topic",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "21677",
+            "view_count": "22073",
             "thumbnail_url": "https://i.ytimg.com/vi/O4ZZJ_ek2gs/hqdefault.jpg"
-        },
-        {
-            "video_id": "QExzzRi_zNo",
-            "title": "21년 동안 카트에서 처음 보는 숨바꼭질 고인물",
-            "channel_name": "형독방송",
-            "category": "Gaming",
-            "duration": "17:22",
-            "view_count": "69589",
-            "thumbnail_url": "https://i.ytimg.com/vi/QExzzRi_zNo/hqdefault.jpg"
-        },
-        {
-            "video_id": "SGmJV4ycbN0",
-            "title": "Want Want Want",
-            "channel_name": "back number - Topic",
-            "category": "Music",
-            "duration": "3:47",
-            "view_count": "87100",
-            "thumbnail_url": "https://i.ytimg.com/vi/SGmJV4ycbN0/hqdefault.jpg"
         },
         {
             "video_id": "eUsWjpdqvuw",
@@ -304,8 +304,26 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "37:00",
-            "view_count": "83651",
+            "view_count": "94097",
             "thumbnail_url": "https://i.ytimg.com/vi/eUsWjpdqvuw/hqdefault.jpg"
+        },
+        {
+            "video_id": "SGmJV4ycbN0",
+            "title": "Want Want Want",
+            "channel_name": "back number - Topic",
+            "category": "Music",
+            "duration": "3:47",
+            "view_count": "89872",
+            "thumbnail_url": "https://i.ytimg.com/vi/SGmJV4ycbN0/hqdefault.jpg"
+        },
+        {
+            "video_id": "QExzzRi_zNo",
+            "title": "21년 동안 카트에서 처음 보는 숨바꼭질 고인물",
+            "channel_name": "형독방송",
+            "category": "Gaming",
+            "duration": "17:22",
+            "view_count": "74153",
+            "thumbnail_url": "https://i.ytimg.com/vi/QExzzRi_zNo/hqdefault.jpg"
         },
         {
             "video_id": "rrbyUlaPqqs",
@@ -313,26 +331,8 @@
             "channel_name": "순순희",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "449145",
+            "view_count": "449215",
             "thumbnail_url": "https://i.ytimg.com/vi/rrbyUlaPqqs/hqdefault.jpg"
-        },
-        {
-            "video_id": "WLI0EMHRCHg",
-            "title": "팔꿈치끼리 닿나요? : 에스퍼타입 하트골드【포켓몬 모든타입 깨기】#2",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "14:44",
-            "view_count": "87512",
-            "thumbnail_url": "https://i.ytimg.com/vi/WLI0EMHRCHg/hqdefault.jpg"
-        },
-        {
-            "video_id": "-XalGO05GDY",
-            "title": "차 안에서 듣는 트로트 | 드라이브 음악💖하루 종일 듣기 좋은 노래 모음🎶흘러간 옛노래 뽕짝 메들리 가사 포함,추억의 트로트 명곡 모음💿 잊을 수 없는 그 시절의 감성",
-            "channel_name": "Sora Tide",
-            "category": "People & Blogs",
-            "duration": "49:43",
-            "view_count": "7535",
-            "thumbnail_url": "https://i.ytimg.com/vi/-XalGO05GDY/hqdefault.jpg"
         },
         {
             "video_id": "F59EulSOcZA",
@@ -340,17 +340,35 @@
             "channel_name": "침착맨 플러스",
             "category": "Gaming",
             "duration": "21:49",
-            "view_count": "121588",
+            "view_count": "146368",
             "thumbnail_url": "https://i.ytimg.com/vi/F59EulSOcZA/hqdefault.jpg"
         },
         {
-            "video_id": "8z6T83tbQRo",
-            "title": "가는 해가 아쉬워 듣는 7080 노래모음 🌅 50대 60대 마음을 울리는 추억의 노래 ☕ 잊혀진 계절/그 겨울의 찻집/사랑을 위하여",
-            "channel_name": "Retro Radio 7080",
+            "video_id": "-XalGO05GDY",
+            "title": "차 안에서 듣는 트로트 | 드라이브 음악💖하루 종일 듣기 좋은 노래 모음🎶흘러간 옛노래 뽕짝 메들리 가사 포함,추억의 트로트 명곡 모음💿 잊을 수 없는 그 시절의 감성",
+            "channel_name": "Sora Tide",
             "category": "People & Blogs",
-            "duration": "1:04:03",
-            "view_count": "5862",
-            "thumbnail_url": "https://i.ytimg.com/vi/8z6T83tbQRo/hqdefault.jpg"
+            "duration": "49:43",
+            "view_count": "7688",
+            "thumbnail_url": "https://i.ytimg.com/vi/-XalGO05GDY/hqdefault.jpg"
+        },
+        {
+            "video_id": "WLI0EMHRCHg",
+            "title": "팔꿈치끼리 닿나요? : 에스퍼타입 하트골드【포켓몬 모든타입 깨기】#2",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "14:44",
+            "view_count": "95398",
+            "thumbnail_url": "https://i.ytimg.com/vi/WLI0EMHRCHg/hqdefault.jpg"
+        },
+        {
+            "video_id": "TpLGQ8hYB-Q",
+            "title": "장민호 JANG MIN HO | '좋은 시절 (好時節)' 'Good Times' Official MV",
+            "channel_name": "장민호",
+            "category": "People & Blogs",
+            "duration": "4:43",
+            "view_count": "34773",
+            "thumbnail_url": "https://i.ytimg.com/vi/TpLGQ8hYB-Q/hqdefault.jpg"
         },
         {
             "video_id": "kBidytD71ZQ",
@@ -358,26 +376,8 @@
             "channel_name": "ProjectMoon Official",
             "category": "Gaming",
             "duration": "4:49",
-            "view_count": "522303",
+            "view_count": "525310",
             "thumbnail_url": "https://i.ytimg.com/vi/kBidytD71ZQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "t0lus004uoc",
-            "title": "IU 'Last Fantasy' Live Clip (2024 IU HEREH WORLD TOUR CONCERT ENCORE : THE WINNING)",
-            "channel_name": "이지금 [IU Official]",
-            "category": "Entertainment",
-            "duration": "6:17",
-            "view_count": "233748",
-            "thumbnail_url": "https://i.ytimg.com/vi/t0lus004uoc/hqdefault.jpg"
-        },
-        {
-            "video_id": "6JwnfID-jck",
-            "title": "연말 기념 5년간 모든 \"개쩌는 클립\"만 모았습니다 , 여러분들이 생각하는 1등은 뭔가요?",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "1:48:47",
-            "view_count": "88595",
-            "thumbnail_url": "https://i.ytimg.com/vi/6JwnfID-jck/hqdefault.jpg"
         }
     ]
 }
