@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-03 00:25:16",
+    "scraped_time": "2026-01-03 01:29:24",
     "videos": [
         {
             "video_id": "cqsmlQdGCnk",
@@ -7,7 +7,7 @@
             "channel_name": "Joji - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "330494",
+            "view_count": "367902",
             "thumbnail_url": "https://i.ytimg.com/vi/cqsmlQdGCnk/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "8:16",
-            "view_count": "142740",
+            "view_count": "150069",
             "thumbnail_url": "https://i.ytimg.com/vi/oA1HqYHdRy0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "로스트아크 LOST ARK",
             "category": "Gaming",
             "duration": "3:46:10",
-            "view_count": "365465",
+            "view_count": "387758",
             "thumbnail_url": "https://i.ytimg.com/vi/QT_imKOR4Cw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "마크툽(MAKTUB) - Topic",
             "category": "Music",
             "duration": "4:27",
-            "view_count": "79655",
+            "view_count": "81025",
             "thumbnail_url": "https://i.ytimg.com/vi/mlbheOTF9AQ/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "1:33",
-            "view_count": "798826",
+            "view_count": "804352",
             "thumbnail_url": "https://i.ytimg.com/vi/3F4p3KOH8y0/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:17",
-            "view_count": "424121",
+            "view_count": "430669",
             "thumbnail_url": "https://i.ytimg.com/vi/rfLFEimS3xk/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "OfficialGDRAGON",
             "category": "People & Blogs",
             "duration": "6:01",
-            "view_count": "392592",
+            "view_count": "400201",
             "thumbnail_url": "https://i.ytimg.com/vi/FFbfq3-R73Y/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:10",
-            "view_count": "54559",
+            "view_count": "55561",
             "thumbnail_url": "https://i.ytimg.com/vi/ov8nQWMYpvA/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:32",
-            "view_count": "162563",
+            "view_count": "180991",
             "thumbnail_url": "https://i.ytimg.com/vi/nBA11xJ4eX8/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "111168",
+            "view_count": "112764",
             "thumbnail_url": "https://i.ytimg.com/vi/mWyStlef0xY/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "CJ ENM Movie",
             "category": "Film & Animation",
             "duration": "1:18",
-            "view_count": "678883",
+            "view_count": "683638",
             "thumbnail_url": "https://i.ytimg.com/vi/9FdiLntO6sE/hqdefault.jpg"
-        },
-        {
-            "video_id": "f8gKfOUhc94",
-            "title": "브레인롯 뱃속은 어떻게 생겼을까..? [브레인롯 훔치기]",
-            "channel_name": "로트키",
-            "category": "Gaming",
-            "duration": "11:24",
-            "view_count": "135101",
-            "thumbnail_url": "https://i.ytimg.com/vi/f8gKfOUhc94/hqdefault.jpg"
-        },
-        {
-            "video_id": "DXGkV8CwY1M",
-            "title": "Close to you",
-            "channel_name": "SOLE - Topic",
-            "category": "Music",
-            "duration": "2:21",
-            "view_count": "81231",
-            "thumbnail_url": "https://i.ytimg.com/vi/DXGkV8CwY1M/hqdefault.jpg"
         },
         {
             "video_id": "4M4zQ6OSGdE",
@@ -124,8 +106,26 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "20:15",
-            "view_count": "147619",
+            "view_count": "185230",
             "thumbnail_url": "https://i.ytimg.com/vi/4M4zQ6OSGdE/hqdefault.jpg"
+        },
+        {
+            "video_id": "DXGkV8CwY1M",
+            "title": "Close to you",
+            "channel_name": "SOLE - Topic",
+            "category": "Music",
+            "duration": "2:21",
+            "view_count": "83151",
+            "thumbnail_url": "https://i.ytimg.com/vi/DXGkV8CwY1M/hqdefault.jpg"
+        },
+        {
+            "video_id": "f8gKfOUhc94",
+            "title": "브레인롯 뱃속은 어떻게 생겼을까..? [브레인롯 훔치기]",
+            "channel_name": "로트키",
+            "category": "Gaming",
+            "duration": "11:24",
+            "view_count": "137850",
+            "thumbnail_url": "https://i.ytimg.com/vi/f8gKfOUhc94/hqdefault.jpg"
         },
         {
             "video_id": "nMgEIG5VE4I",
@@ -133,7 +133,7 @@
             "channel_name": "CNBLUE - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "44054",
+            "view_count": "45116",
             "thumbnail_url": "https://i.ytimg.com/vi/nMgEIG5VE4I/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "ProjectMoon Official",
             "category": "Gaming",
             "duration": "0:45",
-            "view_count": "309192",
+            "view_count": "334965",
             "thumbnail_url": "https://i.ytimg.com/vi/Y2-VkdfA2os/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "Heize - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "90894",
+            "view_count": "91772",
             "thumbnail_url": "https://i.ytimg.com/vi/MrfKWj7dupE/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "29:11",
-            "view_count": "357777",
+            "view_count": "362505",
             "thumbnail_url": "https://i.ytimg.com/vi/Sg4UrrkEsME/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "TOIL - Topic",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "27663",
+            "view_count": "28350",
             "thumbnail_url": "https://i.ytimg.com/vi/Tn2AKylZdjk/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "34:56",
-            "view_count": "123419",
+            "view_count": "133064",
             "thumbnail_url": "https://i.ytimg.com/vi/4ZCGyanZiYY/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "ZEROBASEONE",
             "category": "Entertainment",
             "duration": "2:20",
-            "view_count": "61748",
+            "view_count": "72991",
             "thumbnail_url": "https://i.ytimg.com/vi/Hp40zslZ6cE/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:52",
-            "view_count": "279924",
+            "view_count": "281491",
             "thumbnail_url": "https://i.ytimg.com/vi/gdf2vTKGDjI/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "Yeo Doll",
             "category": "Music",
             "duration": "12:24:47",
-            "view_count": "29801",
+            "view_count": "30278",
             "thumbnail_url": "https://i.ytimg.com/vi/T2LpI12ERdU/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "25:00",
-            "view_count": "72620",
+            "view_count": "85660",
             "thumbnail_url": "https://i.ytimg.com/vi/IzUwyOg5BoM/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "KATSEYE - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "452775",
+            "view_count": "483001",
             "thumbnail_url": "https://i.ytimg.com/vi/Mxp_q_RBCXE/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "1:27:51",
-            "view_count": "348687",
+            "view_count": "353655",
             "thumbnail_url": "https://i.ytimg.com/vi/5A9QSrlxh8c/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "JUN FM",
             "category": "People & Blogs",
             "duration": "57:33",
-            "view_count": "11910",
+            "view_count": "12073",
             "thumbnail_url": "https://i.ytimg.com/vi/1F-slS4YNAM/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "16:59",
-            "view_count": "153303",
+            "view_count": "154660",
             "thumbnail_url": "https://i.ytimg.com/vi/0_qJvAR-r-0/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "CORTIS",
             "category": "Entertainment",
             "duration": "3:21",
-            "view_count": "707818",
+            "view_count": "717781",
             "thumbnail_url": "https://i.ytimg.com/vi/T-76o4XpGh8/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
             "duration": "15:11",
-            "view_count": "76497",
+            "view_count": "85108",
             "thumbnail_url": "https://i.ytimg.com/vi/4ACrozRm1jk/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "TWS",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "26184",
+            "view_count": "30010",
             "thumbnail_url": "https://i.ytimg.com/vi/4xRPAM_zjUs/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "원신",
             "category": "Entertainment",
             "duration": "1:02:44",
-            "view_count": "105082",
+            "view_count": "107085",
             "thumbnail_url": "https://i.ytimg.com/vi/ukOnlmQ8qzM/hqdefault.jpg"
         },
         {
@@ -295,44 +295,8 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "4:01",
-            "view_count": "43946",
+            "view_count": "44455",
             "thumbnail_url": "https://i.ytimg.com/vi/3fYZ-20uTok/hqdefault.jpg"
-        },
-        {
-            "video_id": "U0SreTVzyNQ",
-            "title": "피넛.. 스트리머 데뷔 후 브실골티어랑 최초로 저티어 CK..【VS저라뎃】",
-            "channel_name": "게임대장봉준",
-            "category": "Gaming",
-            "duration": "29:37",
-            "view_count": "164401",
-            "thumbnail_url": "https://i.ytimg.com/vi/U0SreTVzyNQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "XoSoSmthMb4",
-            "title": "girl, get up.",
-            "channel_name": "Doechii - Topic",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "352562",
-            "thumbnail_url": "https://i.ytimg.com/vi/XoSoSmthMb4/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ba3EBeiiRYg",
-            "title": "된티맞 최초 시청자랑 싸울뻔한 \"실디언트 사건\", 진짜 존X 잘하면서 존X 못하는데???? [ 된티맞 8회차 ]",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "40:52",
-            "view_count": "121651",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ba3EBeiiRYg/hqdefault.jpg"
-        },
-        {
-            "video_id": "eDlYB_e5k3c",
-            "title": "Borrow your night",
-            "channel_name": "PLAVE - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "153737",
-            "thumbnail_url": "https://i.ytimg.com/vi/eDlYB_e5k3c/hqdefault.jpg"
         },
         {
             "video_id": "GHOIsIOmaks",
@@ -340,8 +304,44 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "14:43",
-            "view_count": "82213",
+            "view_count": "93553",
             "thumbnail_url": "https://i.ytimg.com/vi/GHOIsIOmaks/hqdefault.jpg"
+        },
+        {
+            "video_id": "XoSoSmthMb4",
+            "title": "girl, get up.",
+            "channel_name": "Doechii - Topic",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "355253",
+            "thumbnail_url": "https://i.ytimg.com/vi/XoSoSmthMb4/hqdefault.jpg"
+        },
+        {
+            "video_id": "U0SreTVzyNQ",
+            "title": "피넛.. 스트리머 데뷔 후 브실골티어랑 최초로 저티어 CK..【VS저라뎃】",
+            "channel_name": "게임대장봉준",
+            "category": "Gaming",
+            "duration": "29:37",
+            "view_count": "165284",
+            "thumbnail_url": "https://i.ytimg.com/vi/U0SreTVzyNQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "eDlYB_e5k3c",
+            "title": "Borrow your night",
+            "channel_name": "PLAVE - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "154952",
+            "thumbnail_url": "https://i.ytimg.com/vi/eDlYB_e5k3c/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ba3EBeiiRYg",
+            "title": "된티맞 최초 시청자랑 싸울뻔한 \"실디언트 사건\", 진짜 존X 잘하면서 존X 못하는데???? [ 된티맞 8회차 ]",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "40:52",
+            "view_count": "123719",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ba3EBeiiRYg/hqdefault.jpg"
         },
         {
             "video_id": "DwAv826t1DY",
@@ -349,17 +349,8 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "29195",
+            "view_count": "29559",
             "thumbnail_url": "https://i.ytimg.com/vi/DwAv826t1DY/hqdefault.jpg"
-        },
-        {
-            "video_id": "4fyZafDeBmc",
-            "title": "한 판당 5000원빵 먹튀 없는 상대와 내기스타 대결, 승자는 과연?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "54:32",
-            "view_count": "159118",
-            "thumbnail_url": "https://i.ytimg.com/vi/4fyZafDeBmc/hqdefault.jpg"
         },
         {
             "video_id": "TGnKBYKU_XU",
@@ -367,7 +358,7 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "18:56",
-            "view_count": "97832",
+            "view_count": "102399",
             "thumbnail_url": "https://i.ytimg.com/vi/TGnKBYKU_XU/hqdefault.jpg"
         },
         {
@@ -376,8 +367,17 @@
             "channel_name": "글자네",
             "category": "Gaming",
             "duration": "19:05",
-            "view_count": "85489",
+            "view_count": "91246",
             "thumbnail_url": "https://i.ytimg.com/vi/a6eluGioXP4/hqdefault.jpg"
+        },
+        {
+            "video_id": "4fyZafDeBmc",
+            "title": "한 판당 5000원빵 먹튀 없는 상대와 내기스타 대결, 승자는 과연?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "54:32",
+            "view_count": "161253",
+            "thumbnail_url": "https://i.ytimg.com/vi/4fyZafDeBmc/hqdefault.jpg"
         }
     ]
 }
