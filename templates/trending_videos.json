@@ -1,14 +1,14 @@
 {
-    "scraped_time": "2026-01-05 11:06:37",
+    "scraped_time": "2026-01-05 13:17:18",
     "videos": [
         {
-            "video_id": "izssDYTMXis",
-            "title": "Every Moment Of You (Original)",
-            "channel_name": "Sung Si-kyung - Topic",
+            "video_id": "Nhs9NKQ0-8E",
+            "title": "When it turns white",
+            "channel_name": "entoy - Topic",
             "category": "Music",
-            "duration": "4:04",
-            "view_count": "106677",
-            "thumbnail_url": "https://i.ytimg.com/vi/izssDYTMXis/hqdefault.jpg"
+            "duration": "3:05",
+            "view_count": "44034",
+            "thumbnail_url": "https://i.ytimg.com/vi/Nhs9NKQ0-8E/hqdefault.jpg"
         },
         {
             "video_id": "uAt34ypXTvw",
@@ -16,80 +16,8 @@
             "channel_name": "SBS ",
             "category": "Entertainment",
             "duration": "0:39",
-            "view_count": "37170",
+            "view_count": "37951",
             "thumbnail_url": "https://i.ytimg.com/vi/uAt34ypXTvw/hqdefault.jpg"
-        },
-        {
-            "video_id": "j7FEgcrQuxI",
-            "title": "잠뜰 TV 멤버들 미수반을 만나다",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "58:31",
-            "view_count": "255674",
-            "thumbnail_url": "https://i.ytimg.com/vi/j7FEgcrQuxI/hqdefault.jpg"
-        },
-        {
-            "video_id": "Nhs9NKQ0-8E",
-            "title": "When it turns white",
-            "channel_name": "entoy - Topic",
-            "category": "Music",
-            "duration": "3:05",
-            "view_count": "37784",
-            "thumbnail_url": "https://i.ytimg.com/vi/Nhs9NKQ0-8E/hqdefault.jpg"
-        },
-        {
-            "video_id": "oA1HqYHdRy0",
-            "title": "실시간으로 마블이 삭제 중인 닥터둠 유출본ㄷㄷ ≪어벤져스: 둠스데이≫ 5차 예고편 루머 떡밥 총정리",
-            "channel_name": "무비띵크_Movie Think",
-            "category": "Film & Animation",
-            "duration": "8:16",
-            "view_count": "215564",
-            "thumbnail_url": "https://i.ytimg.com/vi/oA1HqYHdRy0/hqdefault.jpg"
-        },
-        {
-            "video_id": "skgIkicPCXI",
-            "title": "넛사부한테 첫 날부터 제대로 혼나는 저둥이 ㅋㅋㅋ 【넛저밧 합숙 EP.02】",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "32:55",
-            "view_count": "236086",
-            "thumbnail_url": "https://i.ytimg.com/vi/skgIkicPCXI/hqdefault.jpg"
-        },
-        {
-            "video_id": "uomVNxmkylg",
-            "title": "서로 사랑하는 마음",
-            "channel_name": "찰리빈웍스 - Topic",
-            "category": "Music",
-            "duration": "3:16",
-            "view_count": "19643",
-            "thumbnail_url": "https://i.ytimg.com/vi/uomVNxmkylg/hqdefault.jpg"
-        },
-        {
-            "video_id": "IIHQ1Z2yu80",
-            "title": "이 사랑 통역 되나요? | 공식 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "2:06",
-            "view_count": "22731",
-            "thumbnail_url": "https://i.ytimg.com/vi/IIHQ1Z2yu80/hqdefault.jpg"
-        },
-        {
-            "video_id": "NrqmMzwiFYs",
-            "title": "\"긴급 합숙 훈련\" 신흥 문파 넛저밧에 맞서기 위해 긴급 훈련에 들어간 클상도 문파..!",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "30:13",
-            "view_count": "272290",
-            "thumbnail_url": "https://i.ytimg.com/vi/NrqmMzwiFYs/hqdefault.jpg"
-        },
-        {
-            "video_id": "cqsmlQdGCnk",
-            "title": "LOVE YOU LESS",
-            "channel_name": "Joji - Topic",
-            "category": "Music",
-            "duration": "3:22",
-            "view_count": "1324260",
-            "thumbnail_url": "https://i.ytimg.com/vi/cqsmlQdGCnk/hqdefault.jpg"
         },
         {
             "video_id": "or7Xc8tZg-g",
@@ -97,8 +25,98 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "1:33:52",
-            "view_count": "308358",
+            "view_count": "353835",
             "thumbnail_url": "https://i.ytimg.com/vi/or7Xc8tZg-g/hqdefault.jpg"
+        },
+        {
+            "video_id": "izssDYTMXis",
+            "title": "Every Moment Of You (Original)",
+            "channel_name": "Sung Si-kyung - Topic",
+            "category": "Music",
+            "duration": "4:04",
+            "view_count": "115930",
+            "thumbnail_url": "https://i.ytimg.com/vi/izssDYTMXis/hqdefault.jpg"
+        },
+        {
+            "video_id": "IIHQ1Z2yu80",
+            "title": "이 사랑 통역 되나요? | 공식 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "2:06",
+            "view_count": "65829",
+            "thumbnail_url": "https://i.ytimg.com/vi/IIHQ1Z2yu80/hqdefault.jpg"
+        },
+        {
+            "video_id": "j7FEgcrQuxI",
+            "title": "잠뜰 TV 멤버들 미수반을 만나다",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "58:31",
+            "view_count": "269371",
+            "thumbnail_url": "https://i.ytimg.com/vi/j7FEgcrQuxI/hqdefault.jpg"
+        },
+        {
+            "video_id": "NavS54q3-jM",
+            "title": "과정",
+            "channel_name": "Kkuek - Topic",
+            "category": "Music",
+            "duration": "4:36",
+            "view_count": "20977",
+            "thumbnail_url": "https://i.ytimg.com/vi/NavS54q3-jM/hqdefault.jpg"
+        },
+        {
+            "video_id": "oA1HqYHdRy0",
+            "title": "실시간으로 마블이 삭제 중인 닥터둠 유출본ㄷㄷ ≪어벤져스: 둠스데이≫ 5차 예고편 루머 떡밥 총정리",
+            "channel_name": "무비띵크_Movie Think",
+            "category": "Film & Animation",
+            "duration": "8:16",
+            "view_count": "216469",
+            "thumbnail_url": "https://i.ytimg.com/vi/oA1HqYHdRy0/hqdefault.jpg"
+        },
+        {
+            "video_id": "VEEL_n0NQdI",
+            "title": "【클상도 vs 넛저밧 저티어 대전】문파의 명예를 걸고 반드시 이기겠습니다!",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "49:45",
+            "view_count": "137771",
+            "thumbnail_url": "https://i.ytimg.com/vi/VEEL_n0NQdI/hqdefault.jpg"
+        },
+        {
+            "video_id": "uomVNxmkylg",
+            "title": "서로 사랑하는 마음",
+            "channel_name": "찰리빈웍스 - Topic",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "21460",
+            "thumbnail_url": "https://i.ytimg.com/vi/uomVNxmkylg/hqdefault.jpg"
+        },
+        {
+            "video_id": "skgIkicPCXI",
+            "title": "넛사부한테 첫 날부터 제대로 혼나는 저둥이 ㅋㅋㅋ 【넛저밧 합숙 EP.02】",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "32:55",
+            "view_count": "239921",
+            "thumbnail_url": "https://i.ytimg.com/vi/skgIkicPCXI/hqdefault.jpg"
+        },
+        {
+            "video_id": "cqsmlQdGCnk",
+            "title": "LOVE YOU LESS",
+            "channel_name": "Joji - Topic",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "1344865",
+            "thumbnail_url": "https://i.ytimg.com/vi/cqsmlQdGCnk/hqdefault.jpg"
+        },
+        {
+            "video_id": "PM6ozceNQwg",
+            "title": "대바드 분양 시대에서 살아남는 법",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "15:08",
+            "view_count": "153247",
+            "thumbnail_url": "https://i.ytimg.com/vi/PM6ozceNQwg/hqdefault.jpg"
         },
         {
             "video_id": "mlbheOTF9AQ",
@@ -106,7 +124,7 @@
             "channel_name": "마크툽(MAKTUB) - Topic",
             "category": "Music",
             "duration": "4:27",
-            "view_count": "171382",
+            "view_count": "178975",
             "thumbnail_url": "https://i.ytimg.com/vi/mlbheOTF9AQ/hqdefault.jpg"
         },
         {
@@ -115,17 +133,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "27:37",
-            "view_count": "442065",
+            "view_count": "447318",
             "thumbnail_url": "https://i.ytimg.com/vi/EgMS2EPuA7s/hqdefault.jpg"
         },
         {
-            "video_id": "NKhw0qOLMms",
-            "title": "アドレナ",
-            "channel_name": "YOASOBI - Topic",
+            "video_id": "FDjb834LcWw",
+            "title": "I Believe Change Street Version",
+            "channel_name": "TAEHYUN - Topic",
             "category": "Music",
-            "duration": "3:06",
-            "view_count": "243539",
-            "thumbnail_url": "https://i.ytimg.com/vi/NKhw0qOLMms/hqdefault.jpg"
+            "duration": "3:18",
+            "view_count": "19501",
+            "thumbnail_url": "https://i.ytimg.com/vi/FDjb834LcWw/hqdefault.jpg"
         },
         {
             "video_id": "doRwTIsorKI",
@@ -133,35 +151,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "38:46",
-            "view_count": "197712",
+            "view_count": "202727",
             "thumbnail_url": "https://i.ytimg.com/vi/doRwTIsorKI/hqdefault.jpg"
         },
         {
-            "video_id": "gVu46s9UcR0",
-            "title": "눈꽃을 닮은 너에게",
-            "channel_name": "Movning - Topic",
+            "video_id": "NKhw0qOLMms",
+            "title": "アドレナ",
+            "channel_name": "YOASOBI - Topic",
             "category": "Music",
-            "duration": "4:12",
-            "view_count": "14335",
-            "thumbnail_url": "https://i.ytimg.com/vi/gVu46s9UcR0/hqdefault.jpg"
-        },
-        {
-            "video_id": "PM6ozceNQwg",
-            "title": "대바드 분양 시대에서 살아남는 법",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "15:08",
-            "view_count": "144421",
-            "thumbnail_url": "https://i.ytimg.com/vi/PM6ozceNQwg/hqdefault.jpg"
-        },
-        {
-            "video_id": "NavS54q3-jM",
-            "title": "과정",
-            "channel_name": "Kkuek - Topic",
-            "category": "Music",
-            "duration": "4:36",
-            "view_count": "16852",
-            "thumbnail_url": "https://i.ytimg.com/vi/NavS54q3-jM/hqdefault.jpg"
+            "duration": "3:06",
+            "view_count": "263695",
+            "thumbnail_url": "https://i.ytimg.com/vi/NKhw0qOLMms/hqdefault.jpg"
         },
         {
             "video_id": "p2drZE-vdu4",
@@ -169,7 +169,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "12:03",
-            "view_count": "124106",
+            "view_count": "128554",
             "thumbnail_url": "https://i.ytimg.com/vi/p2drZE-vdu4/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "AKMU - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "19881",
+            "view_count": "23395",
             "thumbnail_url": "https://i.ytimg.com/vi/s4PO3Wgftu8/hqdefault.jpg"
         },
         {
@@ -187,17 +187,17 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "12:45",
-            "view_count": "207430",
+            "view_count": "213707",
             "thumbnail_url": "https://i.ytimg.com/vi/QrgniuaDtaI/hqdefault.jpg"
         },
         {
-            "video_id": "sqd1tVEnL9g",
-            "title": "Wonderful Night",
-            "channel_name": "N.Flying - Topic",
+            "video_id": "gVu46s9UcR0",
+            "title": "눈꽃을 닮은 너에게",
+            "channel_name": "Movning - Topic",
             "category": "Music",
-            "duration": "3:35",
-            "view_count": "16709",
-            "thumbnail_url": "https://i.ytimg.com/vi/sqd1tVEnL9g/hqdefault.jpg"
+            "duration": "4:12",
+            "view_count": "15517",
+            "thumbnail_url": "https://i.ytimg.com/vi/gVu46s9UcR0/hqdefault.jpg"
         },
         {
             "video_id": "rVHgpqqTFEU",
@@ -205,17 +205,17 @@
             "channel_name": "샥샥이",
             "category": "Gaming",
             "duration": "20:33",
-            "view_count": "199482",
+            "view_count": "203989",
             "thumbnail_url": "https://i.ytimg.com/vi/rVHgpqqTFEU/hqdefault.jpg"
         },
         {
-            "video_id": "NWQB_yFwn7k",
-            "title": "Universe (나의 우주)",
-            "channel_name": "Kwon Jin-ah - Topic",
+            "video_id": "sqd1tVEnL9g",
+            "title": "Wonderful Night",
+            "channel_name": "N.Flying - Topic",
             "category": "Music",
-            "duration": "4:00",
-            "view_count": "15108",
-            "thumbnail_url": "https://i.ytimg.com/vi/NWQB_yFwn7k/hqdefault.jpg"
+            "duration": "3:35",
+            "view_count": "19365",
+            "thumbnail_url": "https://i.ytimg.com/vi/sqd1tVEnL9g/hqdefault.jpg"
         },
         {
             "video_id": "XmwbwDnsQ7o",
@@ -223,17 +223,17 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "23:00",
-            "view_count": "124924",
+            "view_count": "129978",
             "thumbnail_url": "https://i.ytimg.com/vi/XmwbwDnsQ7o/hqdefault.jpg"
         },
         {
-            "video_id": "03cvRC__Mz0",
-            "title": "못된 사람의 비밀 (Main Theme ver.)",
-            "channel_name": "AdTear - Topic",
+            "video_id": "NWQB_yFwn7k",
+            "title": "Universe (나의 우주)",
+            "channel_name": "Kwon Jin-ah - Topic",
             "category": "Music",
-            "duration": "3:59",
-            "view_count": "73902",
-            "thumbnail_url": "https://i.ytimg.com/vi/03cvRC__Mz0/hqdefault.jpg"
+            "duration": "4:00",
+            "view_count": "17813",
+            "thumbnail_url": "https://i.ytimg.com/vi/NWQB_yFwn7k/hqdefault.jpg"
         },
         {
             "video_id": "a_ffmBT8lVk",
@@ -241,17 +241,17 @@
             "channel_name": "킴성태TV",
             "category": "Gaming",
             "duration": "21:22",
-            "view_count": "108808",
+            "view_count": "117095",
             "thumbnail_url": "https://i.ytimg.com/vi/a_ffmBT8lVk/hqdefault.jpg"
         },
         {
-            "video_id": "FFbfq3-R73Y",
-            "title": "BIGBANG - 눈물뿐인 바보 G-DRAGON 2025 WORLD TOUR [Übermensch] IN SEOUL : ENCORE ver.",
-            "channel_name": "OfficialGDRAGON",
-            "category": "People & Blogs",
-            "duration": "6:01",
-            "view_count": "589647",
-            "thumbnail_url": "https://i.ytimg.com/vi/FFbfq3-R73Y/hqdefault.jpg"
+            "video_id": "03cvRC__Mz0",
+            "title": "못된 사람의 비밀 (Main Theme ver.)",
+            "channel_name": "AdTear - Topic",
+            "category": "Music",
+            "duration": "3:59",
+            "view_count": "75804",
+            "thumbnail_url": "https://i.ytimg.com/vi/03cvRC__Mz0/hqdefault.jpg"
         },
         {
             "video_id": "Y_gL88_CbK4",
@@ -259,26 +259,80 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "17:35",
-            "view_count": "131105",
+            "view_count": "137854",
             "thumbnail_url": "https://i.ytimg.com/vi/Y_gL88_CbK4/hqdefault.jpg"
         },
         {
-            "video_id": "Lql2OKdzQCM",
-            "title": "50대이상이 들으면 기분좋아지는 7080노래모음🌻🌻7080 카페음악모음🎬🎬01월이 되면 듣고 싶은 7080 노래",
-            "channel_name": "JUN FM",
-            "category": "People & Blogs",
-            "duration": "1:17:21",
-            "view_count": "11433",
-            "thumbnail_url": "https://i.ytimg.com/vi/Lql2OKdzQCM/hqdefault.jpg"
+            "video_id": "mlH751891hA",
+            "title": "가슴만 알죠",
+            "channel_name": "Baegna - Topic",
+            "category": "Music",
+            "duration": "3:45",
+            "view_count": "10902",
+            "thumbnail_url": "https://i.ytimg.com/vi/mlH751891hA/hqdefault.jpg"
         },
         {
-            "video_id": "ouRj8J37Grc",
-            "title": "증바람 극고점 소환술사 말자하보고 결국 현실 신난다 터진 애교용ㅋㅋㅋㅋ",
+            "video_id": "81S4mlZAOf4",
+            "title": "내 아이스크림 너가 가져갔냐? | 클상도 긴급합숙훈련 EP.2",
             "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "25:51",
-            "view_count": "155172",
-            "thumbnail_url": "https://i.ytimg.com/vi/ouRj8J37Grc/hqdefault.jpg"
+            "duration": "50:45",
+            "view_count": "53880",
+            "thumbnail_url": "https://i.ytimg.com/vi/81S4mlZAOf4/hqdefault.jpg"
+        },
+        {
+            "video_id": "ToKjd6Zv-y8",
+            "title": "The Way (Prod. d.ear)",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "24772",
+            "thumbnail_url": "https://i.ytimg.com/vi/ToKjd6Zv-y8/hqdefault.jpg"
+        },
+        {
+            "video_id": "JRq9mxV3ACs",
+            "title": "수위 미쳤다...개발자가 15년동안 잠수타다가 갑자기 발매한 공포게임ㄷㄷ",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "21:54",
+            "view_count": "196346",
+            "thumbnail_url": "https://i.ytimg.com/vi/JRq9mxV3ACs/hqdefault.jpg"
+        },
+        {
+            "video_id": "UlAUhcLmyv8",
+            "title": "이 계절은 내게",
+            "channel_name": "유명한아이 - Topic",
+            "category": "Music",
+            "duration": "2:52",
+            "view_count": "15486",
+            "thumbnail_url": "https://i.ytimg.com/vi/UlAUhcLmyv8/hqdefault.jpg"
+        },
+        {
+            "video_id": "BBK3JWijveQ",
+            "title": "무과금 팔라딘육성 10이더 VS 35가운 내기시작 ㄷㄷ ㅋㅋㅋㅋㅋ",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "22:30",
+            "view_count": "86551",
+            "thumbnail_url": "https://i.ytimg.com/vi/BBK3JWijveQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "CoRjGBNPCgA",
+            "title": "SAY MY NAME",
+            "channel_name": "SAY MY NAME - Topic",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "33821",
+            "thumbnail_url": "https://i.ytimg.com/vi/CoRjGBNPCgA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Dnpo9oTXtc8",
+            "title": "[ 1. 4 live ] 리니지m : 93되기 4일 전, 깡깡이 탈출 D-4",
+            "channel_name": "수삼티비",
+            "category": "Gaming",
+            "duration": "3:11:38",
+            "view_count": "109785",
+            "thumbnail_url": "https://i.ytimg.com/vi/Dnpo9oTXtc8/hqdefault.jpg"
         },
         {
             "video_id": "JzrdmC7E1q8",
@@ -286,7 +340,7 @@
             "channel_name": "Hearts2Hearts",
             "category": "Music",
             "duration": "1:31",
-            "view_count": "121567",
+            "view_count": "124602",
             "thumbnail_url": "https://i.ytimg.com/vi/JzrdmC7E1q8/hqdefault.jpg"
         },
         {
@@ -295,71 +349,17 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "14:03",
-            "view_count": "107216",
+            "view_count": "109569",
             "thumbnail_url": "https://i.ytimg.com/vi/rRwUUl7faxg/hqdefault.jpg"
         },
         {
-            "video_id": "mlH751891hA",
-            "title": "가슴만 알죠",
-            "channel_name": "Baegna - Topic",
-            "category": "Music",
-            "duration": "3:45",
-            "view_count": "9563",
-            "thumbnail_url": "https://i.ytimg.com/vi/mlH751891hA/hqdefault.jpg"
-        },
-        {
-            "video_id": "Dnpo9oTXtc8",
-            "title": "[ 1. 4 live ] 리니지m : 93되기 4일 전, 깡깡이 탈출 D-4",
-            "channel_name": "수삼티비",
-            "category": "Gaming",
-            "duration": "3:11:38",
-            "view_count": "108205",
-            "thumbnail_url": "https://i.ytimg.com/vi/Dnpo9oTXtc8/hqdefault.jpg"
-        },
-        {
-            "video_id": "FDjb834LcWw",
-            "title": "I Believe Change Street Version",
-            "channel_name": "TAEHYUN - Topic",
-            "category": "Music",
-            "duration": "3:18",
-            "view_count": "15750",
-            "thumbnail_url": "https://i.ytimg.com/vi/FDjb834LcWw/hqdefault.jpg"
-        },
-        {
-            "video_id": "JRq9mxV3ACs",
-            "title": "수위 미쳤다...개발자가 15년동안 잠수타다가 갑자기 발매한 공포게임ㄷㄷ",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "21:54",
-            "view_count": "180200",
-            "thumbnail_url": "https://i.ytimg.com/vi/JRq9mxV3ACs/hqdefault.jpg"
-        },
-        {
-            "video_id": "DXGkV8CwY1M",
-            "title": "Close to you",
-            "channel_name": "SOLE - Topic",
-            "category": "Music",
-            "duration": "2:21",
-            "view_count": "187268",
-            "thumbnail_url": "https://i.ytimg.com/vi/DXGkV8CwY1M/hqdefault.jpg"
-        },
-        {
-            "video_id": "BBK3JWijveQ",
-            "title": "무과금 팔라딘육성 10이더 VS 35가운 내기시작 ㄷㄷ ㅋㅋㅋㅋㅋ",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "22:30",
-            "view_count": "80587",
-            "thumbnail_url": "https://i.ytimg.com/vi/BBK3JWijveQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "ToKjd6Zv-y8",
-            "title": "The Way (Prod. d.ear)",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "4:00",
-            "view_count": "23076",
-            "thumbnail_url": "https://i.ytimg.com/vi/ToKjd6Zv-y8/hqdefault.jpg"
+            "video_id": "FFbfq3-R73Y",
+            "title": "BIGBANG - 눈물뿐인 바보 G-DRAGON 2025 WORLD TOUR [Übermensch] IN SEOUL : ENCORE ver.",
+            "channel_name": "OfficialGDRAGON",
+            "category": "People & Blogs",
+            "duration": "6:01",
+            "view_count": "594944",
+            "thumbnail_url": "https://i.ytimg.com/vi/FFbfq3-R73Y/hqdefault.jpg"
         },
         {
             "video_id": "hps-CwodwCk",
@@ -367,17 +367,17 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "27:23",
-            "view_count": "111986",
+            "view_count": "116086",
             "thumbnail_url": "https://i.ytimg.com/vi/hps-CwodwCk/hqdefault.jpg"
         },
         {
-            "video_id": "aSVrki8FQUU",
-            "title": "ENHYPEN (엔하이픈) 'THE SIN : VANISH' Chapter 3. 'Stealer'",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "1:49",
-            "view_count": "824195",
-            "thumbnail_url": "https://i.ytimg.com/vi/aSVrki8FQUU/hqdefault.jpg"
+            "video_id": "Lql2OKdzQCM",
+            "title": "50대이상이 들으면 기분좋아지는 7080노래모음🌻🌻7080 카페음악모음🎬🎬01월이 되면 듣고 싶은 7080 노래",
+            "channel_name": "JUN FM",
+            "category": "People & Blogs",
+            "duration": "1:17:21",
+            "view_count": "11871",
+            "thumbnail_url": "https://i.ytimg.com/vi/Lql2OKdzQCM/hqdefault.jpg"
         }
     ]
 }
