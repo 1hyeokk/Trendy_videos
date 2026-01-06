@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-07 00:26:50",
+    "scraped_time": "2026-01-07 01:33:26",
     "videos": [
         {
             "video_id": "_UiZ-Uuw1ro",
@@ -7,17 +7,17 @@
             "channel_name": "H1-KEY - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "104315",
+            "view_count": "107327",
             "thumbnail_url": "https://i.ytimg.com/vi/_UiZ-Uuw1ro/hqdefault.jpg"
         },
         {
-            "video_id": "MWveUG9bZig",
-            "title": "[군체] 30초 예고편",
-            "channel_name": "쇼박스 SHOWBOX",
-            "category": "Film & Animation",
-            "duration": "0:31",
-            "view_count": "113835",
-            "thumbnail_url": "https://i.ytimg.com/vi/MWveUG9bZig/hqdefault.jpg"
+            "video_id": "acUIyAfieHE",
+            "title": "[어벤져스: 둠스데이] '엑스맨' 예고편 최초 공개",
+            "channel_name": "MarvelKorea",
+            "category": "Entertainment",
+            "duration": "1:17",
+            "view_count": "6263",
+            "thumbnail_url": "https://i.ytimg.com/vi/acUIyAfieHE/hqdefault.jpg"
         },
         {
             "video_id": "AoU1zNfv9HU",
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:57",
-            "view_count": "315412",
+            "view_count": "355296",
             "thumbnail_url": "https://i.ytimg.com/vi/AoU1zNfv9HU/hqdefault.jpg"
         },
         {
@@ -34,8 +34,35 @@
             "channel_name": "Apink - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "148706",
+            "view_count": "155457",
             "thumbnail_url": "https://i.ytimg.com/vi/BnqvaC65vvM/hqdefault.jpg"
+        },
+        {
+            "video_id": "MWveUG9bZig",
+            "title": "[군체] 30초 예고편",
+            "channel_name": "쇼박스 SHOWBOX",
+            "category": "Film & Animation",
+            "duration": "0:31",
+            "view_count": "124433",
+            "thumbnail_url": "https://i.ytimg.com/vi/MWveUG9bZig/hqdefault.jpg"
+        },
+        {
+            "video_id": "5jFZSI6dABo",
+            "title": "[LIVE] 아이온2 신년 라이브 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "2:25:21",
+            "view_count": "179761",
+            "thumbnail_url": "https://i.ytimg.com/vi/5jFZSI6dABo/hqdefault.jpg"
+        },
+        {
+            "video_id": "hVWyWH-caAE",
+            "title": "Punk Rocky",
+            "channel_name": "A$AP Rocky - Topic",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "277712",
+            "thumbnail_url": "https://i.ytimg.com/vi/hVWyWH-caAE/hqdefault.jpg"
         },
         {
             "video_id": "IIHQ1Z2yu80",
@@ -43,7 +70,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:06",
-            "view_count": "373679",
+            "view_count": "381206",
             "thumbnail_url": "https://i.ytimg.com/vi/IIHQ1Z2yu80/hqdefault.jpg"
         },
         {
@@ -52,17 +79,17 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "14:07",
-            "view_count": "445852",
+            "view_count": "461598",
             "thumbnail_url": "https://i.ytimg.com/vi/gfP62pnjig0/hqdefault.jpg"
         },
         {
-            "video_id": "hVWyWH-caAE",
-            "title": "Punk Rocky",
-            "channel_name": "A$AP Rocky - Topic",
+            "video_id": "yvWGrak_vvU",
+            "title": "Kotonoha",
+            "channel_name": "tuki. - Topic",
             "category": "Music",
-            "duration": "3:56",
-            "view_count": "257151",
-            "thumbnail_url": "https://i.ytimg.com/vi/hVWyWH-caAE/hqdefault.jpg"
+            "duration": "4:00",
+            "view_count": "43266",
+            "thumbnail_url": "https://i.ytimg.com/vi/yvWGrak_vvU/hqdefault.jpg"
         },
         {
             "video_id": "oPmy99lZr6c",
@@ -70,7 +97,7 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "8:53",
-            "view_count": "35598",
+            "view_count": "52235",
             "thumbnail_url": "https://i.ytimg.com/vi/oPmy99lZr6c/hqdefault.jpg"
         },
         {
@@ -79,17 +106,44 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "46:00",
-            "view_count": "157288",
+            "view_count": "167082",
             "thumbnail_url": "https://i.ytimg.com/vi/tSIKGJRl1Gk/hqdefault.jpg"
         },
         {
-            "video_id": "yvWGrak_vvU",
-            "title": "Kotonoha",
-            "channel_name": "tuki. - Topic",
+            "video_id": "Nhs9NKQ0-8E",
+            "title": "When it turns white",
+            "channel_name": "entoy - Topic",
             "category": "Music",
-            "duration": "4:00",
-            "view_count": "40694",
-            "thumbnail_url": "https://i.ytimg.com/vi/yvWGrak_vvU/hqdefault.jpg"
+            "duration": "3:05",
+            "view_count": "105590",
+            "thumbnail_url": "https://i.ytimg.com/vi/Nhs9NKQ0-8E/hqdefault.jpg"
+        },
+        {
+            "video_id": "v_LcASFYFiE",
+            "title": "이야.. 진짜 미쳤다 미쳤어.. ≪어벤져스: 둠스데이≫ 3차 엑스맨 티저 예고편 떡밥 총정리",
+            "channel_name": "무비띵크_Movie Think",
+            "category": "Film & Animation",
+            "duration": "13:31",
+            "view_count": "24585",
+            "thumbnail_url": "https://i.ytimg.com/vi/v_LcASFYFiE/hqdefault.jpg"
+        },
+        {
+            "video_id": "p6sR9rPAcho",
+            "title": "그림자 군주님을 뵙습니다",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "11:33",
+            "view_count": "136292",
+            "thumbnail_url": "https://i.ytimg.com/vi/p6sR9rPAcho/hqdefault.jpg"
+        },
+        {
+            "video_id": "izssDYTMXis",
+            "title": "Every Moment Of You (Original)",
+            "channel_name": "Sung Si-kyung - Topic",
+            "category": "Music",
+            "duration": "4:04",
+            "view_count": "232086",
+            "thumbnail_url": "https://i.ytimg.com/vi/izssDYTMXis/hqdefault.jpg"
         },
         {
             "video_id": "uAt34ypXTvw",
@@ -97,7 +151,7 @@
             "channel_name": "SBS ",
             "category": "Entertainment",
             "duration": "0:39",
-            "view_count": "45607",
+            "view_count": "45824",
             "thumbnail_url": "https://i.ytimg.com/vi/uAt34ypXTvw/hqdefault.jpg"
         },
         {
@@ -106,53 +160,8 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "3:39:36",
-            "view_count": "455858",
+            "view_count": "464713",
             "thumbnail_url": "https://i.ytimg.com/vi/w637lPH_b8M/hqdefault.jpg"
-        },
-        {
-            "video_id": "Nhs9NKQ0-8E",
-            "title": "When it turns white",
-            "channel_name": "entoy - Topic",
-            "category": "Music",
-            "duration": "3:05",
-            "view_count": "104413",
-            "thumbnail_url": "https://i.ytimg.com/vi/Nhs9NKQ0-8E/hqdefault.jpg"
-        },
-        {
-            "video_id": "xbh9ZWxREfI",
-            "title": "[데이 윌 킬 유] 1차 예고편",
-            "channel_name": "Warner Bros. Korea",
-            "category": "Film & Animation",
-            "duration": "2:39",
-            "view_count": "26280",
-            "thumbnail_url": "https://i.ytimg.com/vi/xbh9ZWxREfI/hqdefault.jpg"
-        },
-        {
-            "video_id": "or7Xc8tZg-g",
-            "title": "여섯 개의 별을 새기며｜2025 Worlds Behind",
-            "channel_name": "T1",
-            "category": "Gaming",
-            "duration": "1:33:52",
-            "view_count": "696130",
-            "thumbnail_url": "https://i.ytimg.com/vi/or7Xc8tZg-g/hqdefault.jpg"
-        },
-        {
-            "video_id": "izssDYTMXis",
-            "title": "Every Moment Of You (Original)",
-            "channel_name": "Sung Si-kyung - Topic",
-            "category": "Music",
-            "duration": "4:04",
-            "view_count": "229333",
-            "thumbnail_url": "https://i.ytimg.com/vi/izssDYTMXis/hqdefault.jpg"
-        },
-        {
-            "video_id": "6uqJdMfsQ0g",
-            "title": "NEW 승객과 함께하는 기차 마피아 *소름주의*",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "39:05",
-            "view_count": "119755",
-            "thumbnail_url": "https://i.ytimg.com/vi/6uqJdMfsQ0g/hqdefault.jpg"
         },
         {
             "video_id": "FDjb834LcWw",
@@ -160,17 +169,17 @@
             "channel_name": "TAEHYUN - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "53444",
+            "view_count": "53977",
             "thumbnail_url": "https://i.ytimg.com/vi/FDjb834LcWw/hqdefault.jpg"
         },
         {
-            "video_id": "BWnivBjeg1Q",
-            "title": "전 프로게이머 , 현 방송인이랑 롤하다 대판 싸웠습니다...",
-            "channel_name": "가재맨",
+            "video_id": "6uqJdMfsQ0g",
+            "title": "NEW 승객과 함께하는 기차 마피아 *소름주의*",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "29:21",
-            "view_count": "179344",
-            "thumbnail_url": "https://i.ytimg.com/vi/BWnivBjeg1Q/hqdefault.jpg"
+            "duration": "39:05",
+            "view_count": "135232",
+            "thumbnail_url": "https://i.ytimg.com/vi/6uqJdMfsQ0g/hqdefault.jpg"
         },
         {
             "video_id": "s4PO3Wgftu8",
@@ -178,17 +187,17 @@
             "channel_name": "AKMU - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "65599",
+            "view_count": "66616",
             "thumbnail_url": "https://i.ytimg.com/vi/s4PO3Wgftu8/hqdefault.jpg"
         },
         {
-            "video_id": "nEmJONUZBaY",
-            "title": "여자 보는 눈은 블튜브",
-            "channel_name": "강 지",
+            "video_id": "or7Xc8tZg-g",
+            "title": "여섯 개의 별을 새기며｜2025 Worlds Behind",
+            "channel_name": "T1",
             "category": "Gaming",
-            "duration": "12:09",
-            "view_count": "164624",
-            "thumbnail_url": "https://i.ytimg.com/vi/nEmJONUZBaY/hqdefault.jpg"
+            "duration": "1:33:52",
+            "view_count": "702745",
+            "thumbnail_url": "https://i.ytimg.com/vi/or7Xc8tZg-g/hqdefault.jpg"
         },
         {
             "video_id": "-obnQICeRCw",
@@ -196,80 +205,8 @@
             "channel_name": "Heo Hoy Kyung - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "44634",
+            "view_count": "45254",
             "thumbnail_url": "https://i.ytimg.com/vi/-obnQICeRCw/hqdefault.jpg"
-        },
-        {
-            "video_id": "p6sR9rPAcho",
-            "title": "그림자 군주님을 뵙습니다",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "11:33",
-            "view_count": "95305",
-            "thumbnail_url": "https://i.ytimg.com/vi/p6sR9rPAcho/hqdefault.jpg"
-        },
-        {
-            "video_id": "K55yGagNeas",
-            "title": "[최신가요연속듣기 2026] KPOP 노동요 💚 2026년 1월 5일 2주차, 멜론차트 X, 노래모음 플레이리스트 멜론 종합차트",
-            "channel_name": "Yeo Doll",
-            "category": "Music",
-            "duration": "12:54:44",
-            "view_count": "24871",
-            "thumbnail_url": "https://i.ytimg.com/vi/K55yGagNeas/hqdefault.jpg"
-        },
-        {
-            "video_id": "7Lcz0wxGgI8",
-            "title": "큰일 났습니다...리뷰 1400개가 극찬인 \"블랙홀 키우기\" 밤새 하고있음ㅠㅠㅠ",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "35:01",
-            "view_count": "363276",
-            "thumbnail_url": "https://i.ytimg.com/vi/7Lcz0wxGgI8/hqdefault.jpg"
-        },
-        {
-            "video_id": "7CzOdhSMs4U",
-            "title": "Pretty Boy Swag",
-            "channel_name": "idntt - Topic",
-            "category": "Music",
-            "duration": "2:59",
-            "view_count": "11097",
-            "thumbnail_url": "https://i.ytimg.com/vi/7CzOdhSMs4U/hqdefault.jpg"
-        },
-        {
-            "video_id": "Lm4mVkcfHFQ",
-            "title": "DG98 : 당신은 저격러가 맞습니다",
-            "channel_name": "배그 박프로",
-            "category": "Gaming",
-            "duration": "18:45",
-            "view_count": "117878",
-            "thumbnail_url": "https://i.ytimg.com/vi/Lm4mVkcfHFQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "NWQB_yFwn7k",
-            "title": "Universe (나의 우주)",
-            "channel_name": "Kwon Jin-ah - Topic",
-            "category": "Music",
-            "duration": "4:00",
-            "view_count": "48461",
-            "thumbnail_url": "https://i.ytimg.com/vi/NWQB_yFwn7k/hqdefault.jpg"
-        },
-        {
-            "video_id": "VEEL_n0NQdI",
-            "title": "【클상도 vs 넛저밧 저티어 대전】문파의 명예를 걸고 반드시 이기겠습니다!",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "49:45",
-            "view_count": "292577",
-            "thumbnail_url": "https://i.ytimg.com/vi/VEEL_n0NQdI/hqdefault.jpg"
-        },
-        {
-            "video_id": "w0qafjd3TNg",
-            "title": "Light Up (Prod. GroovyRoom)",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:30",
-            "view_count": "79452",
-            "thumbnail_url": "https://i.ytimg.com/vi/w0qafjd3TNg/hqdefault.jpg"
         },
         {
             "video_id": "urDIai6diM0",
@@ -277,71 +214,35 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "44:01",
-            "view_count": "109045",
+            "view_count": "129760",
             "thumbnail_url": "https://i.ytimg.com/vi/urDIai6diM0/hqdefault.jpg"
         },
         {
-            "video_id": "A-iHRvwkbs0",
-            "title": "Hi Bully",
-            "channel_name": "TOUCHED - Topic",
+            "video_id": "K55yGagNeas",
+            "title": "[최신가요연속듣기 2026] KPOP 노동요 💚 2026년 1월 5일 2주차, 멜론차트 X, 노래모음 플레이리스트 멜론 종합차트",
+            "channel_name": "Yeo Doll",
             "category": "Music",
-            "duration": "3:25",
-            "view_count": "62095",
-            "thumbnail_url": "https://i.ytimg.com/vi/A-iHRvwkbs0/hqdefault.jpg"
+            "duration": "12:54:44",
+            "view_count": "25309",
+            "thumbnail_url": "https://i.ytimg.com/vi/K55yGagNeas/hqdefault.jpg"
         },
         {
-            "video_id": "qgsCO74pjDU",
-            "title": "라이즈 제일 맛있게 쓰는 새X",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "nEmJONUZBaY",
+            "title": "여자 보는 눈은 블튜브",
+            "channel_name": "강 지",
             "category": "Gaming",
-            "duration": "17:22",
-            "view_count": "158274",
-            "thumbnail_url": "https://i.ytimg.com/vi/qgsCO74pjDU/hqdefault.jpg"
+            "duration": "12:09",
+            "view_count": "185771",
+            "thumbnail_url": "https://i.ytimg.com/vi/nEmJONUZBaY/hqdefault.jpg"
         },
         {
-            "video_id": "uomVNxmkylg",
-            "title": "서로 사랑하는 마음",
-            "channel_name": "찰리빈웍스 - Topic",
+            "video_id": "7CzOdhSMs4U",
+            "title": "Pretty Boy Swag",
+            "channel_name": "idntt - Topic",
             "category": "Music",
-            "duration": "3:16",
-            "view_count": "39455",
-            "thumbnail_url": "https://i.ytimg.com/vi/uomVNxmkylg/hqdefault.jpg"
-        },
-        {
-            "video_id": "v0z-U6WfoNE",
-            "title": "클상도 vs 넛저밧, 드디어 이 날이 왔습니다 | 클상도 긴급합숙훈련 EP.3",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "1:12:42",
-            "view_count": "151467",
-            "thumbnail_url": "https://i.ytimg.com/vi/v0z-U6WfoNE/hqdefault.jpg"
-        },
-        {
-            "video_id": "6MiiX6PpRus",
-            "title": "TSUYU",
-            "channel_name": "Siip - Topic",
-            "category": "Music",
-            "duration": "6:08",
-            "view_count": "430155",
-            "thumbnail_url": "https://i.ytimg.com/vi/6MiiX6PpRus/hqdefault.jpg"
-        },
-        {
-            "video_id": "So1IvzfjgQ0",
-            "title": "중세 자영업자의 삶",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "22:40",
-            "view_count": "279447",
-            "thumbnail_url": "https://i.ytimg.com/vi/So1IvzfjgQ0/hqdefault.jpg"
-        },
-        {
-            "video_id": "CoRjGBNPCgA",
-            "title": "SAY MY NAME",
-            "channel_name": "SAY MY NAME - Topic",
-            "category": "Music",
-            "duration": "3:18",
-            "view_count": "62830",
-            "thumbnail_url": "https://i.ytimg.com/vi/CoRjGBNPCgA/hqdefault.jpg"
+            "duration": "2:59",
+            "view_count": "11444",
+            "thumbnail_url": "https://i.ytimg.com/vi/7CzOdhSMs4U/hqdefault.jpg"
         },
         {
             "video_id": "oUBziTCoMj8",
@@ -349,17 +250,107 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "48:56",
-            "view_count": "56606",
+            "view_count": "70794",
             "thumbnail_url": "https://i.ytimg.com/vi/oUBziTCoMj8/hqdefault.jpg"
         },
         {
-            "video_id": "sqd1tVEnL9g",
-            "title": "Wonderful Night",
-            "channel_name": "N.Flying - Topic",
+            "video_id": "NWQB_yFwn7k",
+            "title": "Universe (나의 우주)",
+            "channel_name": "Kwon Jin-ah - Topic",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "49333",
+            "thumbnail_url": "https://i.ytimg.com/vi/NWQB_yFwn7k/hqdefault.jpg"
+        },
+        {
+            "video_id": "BWnivBjeg1Q",
+            "title": "전 프로게이머 , 현 방송인이랑 롤하다 대판 싸웠습니다...",
+            "channel_name": "가재맨",
+            "category": "Gaming",
+            "duration": "29:21",
+            "view_count": "185258",
+            "thumbnail_url": "https://i.ytimg.com/vi/BWnivBjeg1Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "w0qafjd3TNg",
+            "title": "Light Up (Prod. GroovyRoom)",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:30",
+            "view_count": "80656",
+            "thumbnail_url": "https://i.ytimg.com/vi/w0qafjd3TNg/hqdefault.jpg"
+        },
+        {
+            "video_id": "Lm4mVkcfHFQ",
+            "title": "DG98 : 당신은 저격러가 맞습니다",
+            "channel_name": "배그 박프로",
+            "category": "Gaming",
+            "duration": "18:45",
+            "view_count": "124412",
+            "thumbnail_url": "https://i.ytimg.com/vi/Lm4mVkcfHFQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "A-iHRvwkbs0",
+            "title": "Hi Bully",
+            "channel_name": "TOUCHED - Topic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "62557",
+            "thumbnail_url": "https://i.ytimg.com/vi/A-iHRvwkbs0/hqdefault.jpg"
+        },
+        {
+            "video_id": "7Lcz0wxGgI8",
+            "title": "큰일 났습니다...리뷰 1400개가 극찬인 \"블랙홀 키우기\" 밤새 하고있음ㅠㅠㅠ",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "35:01",
+            "view_count": "376026",
+            "thumbnail_url": "https://i.ytimg.com/vi/7Lcz0wxGgI8/hqdefault.jpg"
+        },
+        {
+            "video_id": "uomVNxmkylg",
+            "title": "서로 사랑하는 마음",
+            "channel_name": "찰리빈웍스 - Topic",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "39865",
+            "thumbnail_url": "https://i.ytimg.com/vi/uomVNxmkylg/hqdefault.jpg"
+        },
+        {
+            "video_id": "VEEL_n0NQdI",
+            "title": "【클상도 vs 넛저밧 저티어 대전】문파의 명예를 걸고 반드시 이기겠습니다!",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "49:45",
+            "view_count": "294641",
+            "thumbnail_url": "https://i.ytimg.com/vi/VEEL_n0NQdI/hqdefault.jpg"
+        },
+        {
+            "video_id": "UwUNEgb-0xU",
+            "title": "Dream (Veiled Musician X Paul Kim with Gamil-dong Cotton Candy) (Dream (베일드뮤지션 X...",
+            "channel_name": "Paul Kim - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "45749",
-            "thumbnail_url": "https://i.ytimg.com/vi/sqd1tVEnL9g/hqdefault.jpg"
+            "view_count": "7483",
+            "thumbnail_url": "https://i.ytimg.com/vi/UwUNEgb-0xU/hqdefault.jpg"
+        },
+        {
+            "video_id": "qgsCO74pjDU",
+            "title": "라이즈 제일 맛있게 쓰는 새X",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "17:22",
+            "view_count": "159756",
+            "thumbnail_url": "https://i.ytimg.com/vi/qgsCO74pjDU/hqdefault.jpg"
+        },
+        {
+            "video_id": "6MiiX6PpRus",
+            "title": "TSUYU",
+            "channel_name": "Siip - Topic",
+            "category": "Music",
+            "duration": "6:08",
+            "view_count": "432241",
+            "thumbnail_url": "https://i.ytimg.com/vi/6MiiX6PpRus/hqdefault.jpg"
         },
         {
             "video_id": "ce2HTLWaObg",
@@ -367,17 +358,26 @@
             "channel_name": "수탉",
             "category": "Gaming",
             "duration": "1:34:28",
-            "view_count": "162234",
+            "view_count": "170754",
             "thumbnail_url": "https://i.ytimg.com/vi/ce2HTLWaObg/hqdefault.jpg"
         },
         {
-            "video_id": "KLwUTmHEFu4",
-            "title": "7080 노래모음 | 50대이상이 들으면 정말 좋아할 노래 추천곡 | 7080노래모음 주옥같은노래 | 아득히 먼 곳 - 구창모\\이재성 - 그집앞\\어느 60대 노부부 이야기",
-            "channel_name": "KR - Playlits Hits 7080",
-            "category": "People & Blogs",
-            "duration": "1:21:41",
-            "view_count": "4657",
-            "thumbnail_url": "https://i.ytimg.com/vi/KLwUTmHEFu4/hqdefault.jpg"
+            "video_id": "CoRjGBNPCgA",
+            "title": "SAY MY NAME",
+            "channel_name": "SAY MY NAME - Topic",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "63341",
+            "thumbnail_url": "https://i.ytimg.com/vi/CoRjGBNPCgA/hqdefault.jpg"
+        },
+        {
+            "video_id": "So1IvzfjgQ0",
+            "title": "중세 자영업자의 삶",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "22:40",
+            "view_count": "286964",
+            "thumbnail_url": "https://i.ytimg.com/vi/So1IvzfjgQ0/hqdefault.jpg"
         }
     ]
 }
