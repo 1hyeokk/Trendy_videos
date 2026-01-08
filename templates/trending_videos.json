@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-08 13:41:45",
+    "scraped_time": "2026-01-08 14:27:55",
     "videos": [
         {
             "video_id": "lV4aZXWSaUY",
@@ -7,7 +7,7 @@
             "channel_name": "CHUU - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "70992",
+            "view_count": "75368",
             "thumbnail_url": "https://i.ytimg.com/vi/lV4aZXWSaUY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "1:17",
-            "view_count": "519469",
+            "view_count": "522317",
             "thumbnail_url": "https://i.ytimg.com/vi/acUIyAfieHE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:59",
-            "view_count": "240564",
+            "view_count": "243906",
             "thumbnail_url": "https://i.ytimg.com/vi/oLI4Ku_gAQc/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Wonpil (DAY6) - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "39015",
+            "view_count": "42116",
             "thumbnail_url": "https://i.ytimg.com/vi/4Mftjtzee9w/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "13:31",
-            "view_count": "381028",
+            "view_count": "382308",
             "thumbnail_url": "https://i.ytimg.com/vi/v_LcASFYFiE/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:47",
-            "view_count": "194974",
+            "view_count": "200845",
             "thumbnail_url": "https://i.ytimg.com/vi/WMzQU0pYHwM/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Ha Yea Song - Topic",
             "category": "Music",
             "duration": "4:16",
-            "view_count": "28308",
+            "view_count": "30624",
             "thumbnail_url": "https://i.ytimg.com/vi/dXslk1nJLOM/hqdefault.jpg"
         },
         {
@@ -70,35 +70,8 @@
             "channel_name": "쇼박스 SHOWBOX",
             "category": "Film & Animation",
             "duration": "0:31",
-            "view_count": "270739",
+            "view_count": "273881",
             "thumbnail_url": "https://i.ytimg.com/vi/MWveUG9bZig/hqdefault.jpg"
-        },
-        {
-            "video_id": "kVZYOQg9OqY",
-            "title": "280대 레벨 최초! 데벤져 데스티니 해방 완료 ㄷㄷ [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "16:36",
-            "view_count": "194000",
-            "thumbnail_url": "https://i.ytimg.com/vi/kVZYOQg9OqY/hqdefault.jpg"
-        },
-        {
-            "video_id": "_UiZ-Uuw1ro",
-            "title": "Not Like a Movie",
-            "channel_name": "H1-KEY - Topic",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "180066",
-            "thumbnail_url": "https://i.ytimg.com/vi/_UiZ-Uuw1ro/hqdefault.jpg"
-        },
-        {
-            "video_id": "IIHQ1Z2yu80",
-            "title": "이 사랑 통역 되나요? | 공식 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "2:06",
-            "view_count": "445213",
-            "thumbnail_url": "https://i.ytimg.com/vi/IIHQ1Z2yu80/hqdefault.jpg"
         },
         {
             "video_id": "ELFpVFycUUg",
@@ -106,7 +79,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "28:55",
-            "view_count": "169277",
+            "view_count": "177049",
             "thumbnail_url": "https://i.ytimg.com/vi/ELFpVFycUUg/hqdefault.jpg"
         },
         {
@@ -115,8 +88,35 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "413451",
+            "view_count": "431904",
             "thumbnail_url": "https://i.ytimg.com/vi/pP0Xn4c14ME/hqdefault.jpg"
+        },
+        {
+            "video_id": "IIHQ1Z2yu80",
+            "title": "이 사랑 통역 되나요? | 공식 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "2:06",
+            "view_count": "446442",
+            "thumbnail_url": "https://i.ytimg.com/vi/IIHQ1Z2yu80/hqdefault.jpg"
+        },
+        {
+            "video_id": "kVZYOQg9OqY",
+            "title": "280대 레벨 최초! 데벤져 데스티니 해방 완료 ㄷㄷ [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "16:36",
+            "view_count": "197568",
+            "thumbnail_url": "https://i.ytimg.com/vi/kVZYOQg9OqY/hqdefault.jpg"
+        },
+        {
+            "video_id": "_UiZ-Uuw1ro",
+            "title": "Not Like a Movie",
+            "channel_name": "H1-KEY - Topic",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "181550",
+            "thumbnail_url": "https://i.ytimg.com/vi/_UiZ-Uuw1ro/hqdefault.jpg"
         },
         {
             "video_id": "oPmy99lZr6c",
@@ -124,7 +124,7 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "8:53",
-            "view_count": "142419",
+            "view_count": "142647",
             "thumbnail_url": "https://i.ytimg.com/vi/oPmy99lZr6c/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "1:01:17",
-            "view_count": "288887",
+            "view_count": "291362",
             "thumbnail_url": "https://i.ytimg.com/vi/JezzJzktvwc/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "Apink - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "268629",
+            "view_count": "271284",
             "thumbnail_url": "https://i.ytimg.com/vi/BnqvaC65vvM/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "26:07",
-            "view_count": "241414",
+            "view_count": "248382",
             "thumbnail_url": "https://i.ytimg.com/vi/3nkxONJaUQU/hqdefault.jpg"
         },
         {
@@ -160,80 +160,8 @@
             "channel_name": "CNBLUE - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "26532",
+            "view_count": "28968",
             "thumbnail_url": "https://i.ytimg.com/vi/KUjWlTgqTyA/hqdefault.jpg"
-        },
-        {
-            "video_id": "ThCQah5I0f8",
-            "title": "[빅보스 1. 7 ] 리니지m : 8카탈 2개 성공!!!",
-            "channel_name": "빅보스",
-            "category": "Gaming",
-            "duration": "2:23:01",
-            "view_count": "98811",
-            "thumbnail_url": "https://i.ytimg.com/vi/ThCQah5I0f8/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ry12zQzkGPk",
-            "title": "Wishing Star",
-            "channel_name": "NCT WISH - Topic",
-            "category": "Music",
-            "duration": "2:34",
-            "view_count": "42852",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ry12zQzkGPk/hqdefault.jpg"
-        },
-        {
-            "video_id": "5jFZSI6dABo",
-            "title": "[LIVE] 아이온2 신년 라이브 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "2:25:21",
-            "view_count": "204094",
-            "thumbnail_url": "https://i.ytimg.com/vi/5jFZSI6dABo/hqdefault.jpg"
-        },
-        {
-            "video_id": "hVWyWH-caAE",
-            "title": "Punk Rocky",
-            "channel_name": "A$AP Rocky - Topic",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "596584",
-            "thumbnail_url": "https://i.ytimg.com/vi/hVWyWH-caAE/hqdefault.jpg"
-        },
-        {
-            "video_id": "Js4BoP0t7mU",
-            "title": "이상호 김민교 왔다ㅋㅋ 본캐 폭풍현질 개웃김ㅋㅋㅋㅋㅋ",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "26:15",
-            "view_count": "103761",
-            "thumbnail_url": "https://i.ytimg.com/vi/Js4BoP0t7mU/hqdefault.jpg"
-        },
-        {
-            "video_id": "yvWGrak_vvU",
-            "title": "Kotonoha",
-            "channel_name": "tuki. - Topic",
-            "category": "Music",
-            "duration": "4:00",
-            "view_count": "79717",
-            "thumbnail_url": "https://i.ytimg.com/vi/yvWGrak_vvU/hqdefault.jpg"
-        },
-        {
-            "video_id": "SoxSG6378uw",
-            "title": "[생방송 다시보기] 로사단 세르카 오픈런 (w.가비, 토라, 캡잭)",
-            "channel_name": "이다의게임방송",
-            "category": "Gaming",
-            "duration": "11:55:00",
-            "view_count": "234242",
-            "thumbnail_url": "https://i.ytimg.com/vi/SoxSG6378uw/hqdefault.jpg"
-        },
-        {
-            "video_id": "UwUNEgb-0xU",
-            "title": "Dream (Veiled Musician X Paul Kim with Gamil-dong Cotton Candy) (Dream (베일드뮤지션 X...",
-            "channel_name": "Paul Kim - Topic",
-            "category": "Music",
-            "duration": "3:35",
-            "view_count": "28152",
-            "thumbnail_url": "https://i.ytimg.com/vi/UwUNEgb-0xU/hqdefault.jpg"
         },
         {
             "video_id": "SjAC1ErTSFo",
@@ -241,8 +169,80 @@
             "channel_name": "롤박사 해도리",
             "category": "Gaming",
             "duration": "13:13",
-            "view_count": "80639",
+            "view_count": "96291",
             "thumbnail_url": "https://i.ytimg.com/vi/SjAC1ErTSFo/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ry12zQzkGPk",
+            "title": "Wishing Star",
+            "channel_name": "NCT WISH - Topic",
+            "category": "Music",
+            "duration": "2:34",
+            "view_count": "43497",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ry12zQzkGPk/hqdefault.jpg"
+        },
+        {
+            "video_id": "ThCQah5I0f8",
+            "title": "[빅보스 1. 7 ] 리니지m : 8카탈 2개 성공!!!",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "2:23:01",
+            "view_count": "99781",
+            "thumbnail_url": "https://i.ytimg.com/vi/ThCQah5I0f8/hqdefault.jpg"
+        },
+        {
+            "video_id": "hVWyWH-caAE",
+            "title": "Punk Rocky",
+            "channel_name": "A$AP Rocky - Topic",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "599156",
+            "thumbnail_url": "https://i.ytimg.com/vi/hVWyWH-caAE/hqdefault.jpg"
+        },
+        {
+            "video_id": "5jFZSI6dABo",
+            "title": "[LIVE] 아이온2 신년 라이브 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "2:25:21",
+            "view_count": "204209",
+            "thumbnail_url": "https://i.ytimg.com/vi/5jFZSI6dABo/hqdefault.jpg"
+        },
+        {
+            "video_id": "yvWGrak_vvU",
+            "title": "Kotonoha",
+            "channel_name": "tuki. - Topic",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "80219",
+            "thumbnail_url": "https://i.ytimg.com/vi/yvWGrak_vvU/hqdefault.jpg"
+        },
+        {
+            "video_id": "Js4BoP0t7mU",
+            "title": "이상호 김민교 왔다ㅋㅋ 본캐 폭풍현질 개웃김ㅋㅋㅋㅋㅋ",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "26:15",
+            "view_count": "107210",
+            "thumbnail_url": "https://i.ytimg.com/vi/Js4BoP0t7mU/hqdefault.jpg"
+        },
+        {
+            "video_id": "UwUNEgb-0xU",
+            "title": "Dream (Veiled Musician X Paul Kim with Gamil-dong Cotton Candy) (Dream (베일드뮤지션 X...",
+            "channel_name": "Paul Kim - Topic",
+            "category": "Music",
+            "duration": "3:35",
+            "view_count": "28547",
+            "thumbnail_url": "https://i.ytimg.com/vi/UwUNEgb-0xU/hqdefault.jpg"
+        },
+        {
+            "video_id": "SoxSG6378uw",
+            "title": "[생방송 다시보기] 로사단 세르카 오픈런 (w.가비, 토라, 캡잭)",
+            "channel_name": "이다의게임방송",
+            "category": "Gaming",
+            "duration": "11:55:00",
+            "view_count": "234402",
+            "thumbnail_url": "https://i.ytimg.com/vi/SoxSG6378uw/hqdefault.jpg"
         },
         {
             "video_id": "Ps2UeoRG-U8",
@@ -250,7 +250,7 @@
             "channel_name": "Sung Si-kyung - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "84939",
+            "view_count": "85896",
             "thumbnail_url": "https://i.ytimg.com/vi/Ps2UeoRG-U8/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "League of Legends",
             "category": "Gaming",
             "duration": "4:55",
-            "view_count": "2572696",
+            "view_count": "2702596",
             "thumbnail_url": "https://i.ytimg.com/vi/e3D7Fj1PsWk/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "오연하 - Topic",
             "category": "Music",
             "duration": "5:00",
-            "view_count": "36721",
+            "view_count": "37119",
             "thumbnail_url": "https://i.ytimg.com/vi/TsLxwwlhh6g/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "22:35",
-            "view_count": "147279",
+            "view_count": "149852",
             "thumbnail_url": "https://i.ytimg.com/vi/2daZNtZ9hwo/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "entoy - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "131751",
+            "view_count": "132583",
             "thumbnail_url": "https://i.ytimg.com/vi/Nhs9NKQ0-8E/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "14:07",
-            "view_count": "547728",
+            "view_count": "549414",
             "thumbnail_url": "https://i.ytimg.com/vi/gfP62pnjig0/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "35067",
+            "view_count": "35517",
             "thumbnail_url": "https://i.ytimg.com/vi/3oJb5-x07h0/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "글자네",
             "category": "Gaming",
             "duration": "15:31",
-            "view_count": "118984",
+            "view_count": "121639",
             "thumbnail_url": "https://i.ytimg.com/vi/i40xNsFRC_0/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "Retro Radio 7080",
             "category": "People & Blogs",
             "duration": "1:06:18",
-            "view_count": "15052",
+            "view_count": "15485",
             "thumbnail_url": "https://i.ytimg.com/vi/tQVAny6In-s/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "44:38",
-            "view_count": "96714",
+            "view_count": "99146",
             "thumbnail_url": "https://i.ytimg.com/vi/Oielz65AOl0/hqdefault.jpg"
         },
         {
@@ -340,17 +340,17 @@
             "channel_name": "Heo Hoy Kyung - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "60281",
+            "view_count": "60686",
             "thumbnail_url": "https://i.ytimg.com/vi/-obnQICeRCw/hqdefault.jpg"
         },
         {
-            "video_id": "6uqJdMfsQ0g",
-            "title": "NEW 승객과 함께하는 기차 마피아 *소름주의*",
-            "channel_name": "잠뜰 TV",
+            "video_id": "3j09E2lYNwI",
+            "title": "충격적인 MZ 일진 근황",
+            "channel_name": "가재맨",
             "category": "Gaming",
-            "duration": "39:05",
-            "view_count": "247385",
-            "thumbnail_url": "https://i.ytimg.com/vi/6uqJdMfsQ0g/hqdefault.jpg"
+            "duration": "22:39",
+            "view_count": "121695",
+            "thumbnail_url": "https://i.ytimg.com/vi/3j09E2lYNwI/hqdefault.jpg"
         },
         {
             "video_id": "s4PO3Wgftu8",
@@ -358,17 +358,17 @@
             "channel_name": "AKMU - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "116110",
+            "view_count": "117575",
             "thumbnail_url": "https://i.ytimg.com/vi/s4PO3Wgftu8/hqdefault.jpg"
         },
         {
-            "video_id": "urDIai6diM0",
-            "title": "무지성 올인 거인",
-            "channel_name": "PAKA",
+            "video_id": "6uqJdMfsQ0g",
+            "title": "NEW 승객과 함께하는 기차 마피아 *소름주의*",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "44:01",
-            "view_count": "263838",
-            "thumbnail_url": "https://i.ytimg.com/vi/urDIai6diM0/hqdefault.jpg"
+            "duration": "39:05",
+            "view_count": "249693",
+            "thumbnail_url": "https://i.ytimg.com/vi/6uqJdMfsQ0g/hqdefault.jpg"
         },
         {
             "video_id": "KLwUTmHEFu4",
@@ -376,7 +376,7 @@
             "channel_name": "KR - Playlits Hits 7080",
             "category": "People & Blogs",
             "duration": "1:21:41",
-            "view_count": "11951",
+            "view_count": "12170",
             "thumbnail_url": "https://i.ytimg.com/vi/KLwUTmHEFu4/hqdefault.jpg"
         }
     ]
