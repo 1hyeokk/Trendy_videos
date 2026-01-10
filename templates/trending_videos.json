@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-10 18:23:28",
+    "scraped_time": "2026-01-10 19:23:32",
     "videos": [
         {
             "video_id": "rW2HmFDGdKs",
@@ -7,7 +7,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "778362",
+            "view_count": "808587",
             "thumbnail_url": "https://i.ytimg.com/vi/rW2HmFDGdKs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:02",
-            "view_count": "104695",
+            "view_count": "105781",
             "thumbnail_url": "https://i.ytimg.com/vi/XLXb5Pcj1Z0/hqdefault.jpg"
         },
         {
@@ -25,35 +25,8 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:37:40",
-            "view_count": "1189500",
+            "view_count": "1192158",
             "thumbnail_url": "https://i.ytimg.com/vi/pMBE5-Zfjjw/hqdefault.jpg"
-        },
-        {
-            "video_id": "3mDtvHuRptA",
-            "title": "LIVE CLIPㅣ바다(BADA) - 소란스런 이별",
-            "channel_name": "바다 BADA",
-            "category": "Music",
-            "duration": "4:07",
-            "view_count": "105865",
-            "thumbnail_url": "https://i.ytimg.com/vi/3mDtvHuRptA/hqdefault.jpg"
-        },
-        {
-            "video_id": "dft47piUaws",
-            "title": "결국 최종 티저 예고편도 유출ㄷㄷ ≪어벤져스: 둠스데이≫ 네 번째 예고편 유출 떡밥 총정리",
-            "channel_name": "무비띵크_Movie Think",
-            "category": "Film & Animation",
-            "duration": "8:45",
-            "view_count": "245198",
-            "thumbnail_url": "https://i.ytimg.com/vi/dft47piUaws/hqdefault.jpg"
-        },
-        {
-            "video_id": "iB1FViC0rGY",
-            "title": "넛저밧 두 제자들의 진검승부... \"이기는 놈이 사형이다\"",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "1:07:56",
-            "view_count": "235707",
-            "thumbnail_url": "https://i.ytimg.com/vi/iB1FViC0rGY/hqdefault.jpg"
         },
         {
             "video_id": "luotSpkyCVU",
@@ -61,17 +34,17 @@
             "channel_name": "Bruno Mars - Topic",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "671548",
+            "view_count": "691082",
             "thumbnail_url": "https://i.ytimg.com/vi/luotSpkyCVU/hqdefault.jpg"
         },
         {
-            "video_id": "acUIyAfieHE",
-            "title": "[어벤져스: 둠스데이] '엑스맨' 예고편 최초 공개",
-            "channel_name": "MarvelKorea",
-            "category": "Entertainment",
-            "duration": "1:17",
-            "view_count": "628801",
-            "thumbnail_url": "https://i.ytimg.com/vi/acUIyAfieHE/hqdefault.jpg"
+            "video_id": "dft47piUaws",
+            "title": "결국 최종 티저 예고편도 유출ㄷㄷ ≪어벤져스: 둠스데이≫ 네 번째 예고편 유출 떡밥 총정리",
+            "channel_name": "무비띵크_Movie Think",
+            "category": "Film & Animation",
+            "duration": "8:45",
+            "view_count": "246066",
+            "thumbnail_url": "https://i.ytimg.com/vi/dft47piUaws/hqdefault.jpg"
         },
         {
             "video_id": "5Jdvqmt8dBA",
@@ -79,8 +52,35 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "29:57",
-            "view_count": "210230",
+            "view_count": "215765",
             "thumbnail_url": "https://i.ytimg.com/vi/5Jdvqmt8dBA/hqdefault.jpg"
+        },
+        {
+            "video_id": "3mDtvHuRptA",
+            "title": "LIVE CLIPㅣ바다(BADA) - 소란스런 이별",
+            "channel_name": "바다 BADA",
+            "category": "Music",
+            "duration": "4:07",
+            "view_count": "107941",
+            "thumbnail_url": "https://i.ytimg.com/vi/3mDtvHuRptA/hqdefault.jpg"
+        },
+        {
+            "video_id": "acUIyAfieHE",
+            "title": "[어벤져스: 둠스데이] '엑스맨' 예고편 최초 공개",
+            "channel_name": "MarvelKorea",
+            "category": "Entertainment",
+            "duration": "1:17",
+            "view_count": "630395",
+            "thumbnail_url": "https://i.ytimg.com/vi/acUIyAfieHE/hqdefault.jpg"
+        },
+        {
+            "video_id": "iB1FViC0rGY",
+            "title": "넛저밧 두 제자들의 진검승부... \"이기는 놈이 사형이다\"",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "1:07:56",
+            "view_count": "237781",
+            "thumbnail_url": "https://i.ytimg.com/vi/iB1FViC0rGY/hqdefault.jpg"
         },
         {
             "video_id": "wQiz17AKhjM",
@@ -88,53 +88,8 @@
             "channel_name": "King Gnu - Topic",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "675223",
+            "view_count": "690477",
             "thumbnail_url": "https://i.ytimg.com/vi/wQiz17AKhjM/hqdefault.jpg"
-        },
-        {
-            "video_id": "V2qn8E7PB0c",
-            "title": "오늘부터 인간입니다만 | 공식 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "1:08",
-            "view_count": "120311",
-            "thumbnail_url": "https://i.ytimg.com/vi/V2qn8E7PB0c/hqdefault.jpg"
-        },
-        {
-            "video_id": "8B0Ns2RAWyg",
-            "title": "메이플키우기 : PC클라이언트 만들어 줄 때가 됐는데.... [팡이요,  메이플스토리 : 메이플키우기]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "17:47",
-            "view_count": "218838",
-            "thumbnail_url": "https://i.ytimg.com/vi/8B0Ns2RAWyg/hqdefault.jpg"
-        },
-        {
-            "video_id": "ND5FhEsjVUk",
-            "title": "CNBLUE (씨엔블루) 'Killer Joy' MV",
-            "channel_name": "CNBLUE (씨엔블루)",
-            "category": "Entertainment",
-            "duration": "3:04",
-            "view_count": "2820961",
-            "thumbnail_url": "https://i.ytimg.com/vi/ND5FhEsjVUk/hqdefault.jpg"
-        },
-        {
-            "video_id": "V7wkpbOCfFY",
-            "title": "무수면의 극의",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "17:02",
-            "view_count": "255660",
-            "thumbnail_url": "https://i.ytimg.com/vi/V7wkpbOCfFY/hqdefault.jpg"
-        },
-        {
-            "video_id": "1-CwhyT2dSg",
-            "title": "Running to Future",
-            "channel_name": "ZEROBASEONE - Topic",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "69692",
-            "thumbnail_url": "https://i.ytimg.com/vi/1-CwhyT2dSg/hqdefault.jpg"
         },
         {
             "video_id": "cjAu2T5MKSE",
@@ -142,8 +97,44 @@
             "channel_name": "마쟈TV",
             "category": "Gaming",
             "duration": "15:40",
-            "view_count": "72448",
+            "view_count": "79094",
             "thumbnail_url": "https://i.ytimg.com/vi/cjAu2T5MKSE/hqdefault.jpg"
+        },
+        {
+            "video_id": "ND5FhEsjVUk",
+            "title": "CNBLUE (씨엔블루) 'Killer Joy' MV",
+            "channel_name": "CNBLUE (씨엔블루)",
+            "category": "Entertainment",
+            "duration": "3:04",
+            "view_count": "2829653",
+            "thumbnail_url": "https://i.ytimg.com/vi/ND5FhEsjVUk/hqdefault.jpg"
+        },
+        {
+            "video_id": "8B0Ns2RAWyg",
+            "title": "메이플키우기 : PC클라이언트 만들어 줄 때가 됐는데.... [팡이요,  메이플스토리 : 메이플키우기]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "17:47",
+            "view_count": "221582",
+            "thumbnail_url": "https://i.ytimg.com/vi/8B0Ns2RAWyg/hqdefault.jpg"
+        },
+        {
+            "video_id": "1-CwhyT2dSg",
+            "title": "Running to Future",
+            "channel_name": "ZEROBASEONE - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "73835",
+            "thumbnail_url": "https://i.ytimg.com/vi/1-CwhyT2dSg/hqdefault.jpg"
+        },
+        {
+            "video_id": "V7wkpbOCfFY",
+            "title": "무수면의 극의",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "17:02",
+            "view_count": "261182",
+            "thumbnail_url": "https://i.ytimg.com/vi/V7wkpbOCfFY/hqdefault.jpg"
         },
         {
             "video_id": "MJ70B_cwnPk",
@@ -151,26 +142,8 @@
             "channel_name": "Kenshi Yonezu  米津玄師",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "1657618",
+            "view_count": "1711413",
             "thumbnail_url": "https://i.ytimg.com/vi/MJ70B_cwnPk/hqdefault.jpg"
-        },
-        {
-            "video_id": "PMyz2TV2R7c",
-            "title": "새 시즌 맛보기",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "34:58",
-            "view_count": "232754",
-            "thumbnail_url": "https://i.ytimg.com/vi/PMyz2TV2R7c/hqdefault.jpg"
-        },
-        {
-            "video_id": "wRNXie-ieyA",
-            "title": "Night, Snow",
-            "channel_name": "soon - Topic",
-            "category": "Music",
-            "duration": "3:50",
-            "view_count": "67431",
-            "thumbnail_url": "https://i.ytimg.com/vi/wRNXie-ieyA/hqdefault.jpg"
         },
         {
             "video_id": "-ro91UoaOUY",
@@ -178,7 +151,7 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "18:24",
-            "view_count": "175784",
+            "view_count": "180713",
             "thumbnail_url": "https://i.ytimg.com/vi/-ro91UoaOUY/hqdefault.jpg"
         },
         {
@@ -187,17 +160,35 @@
             "channel_name": "Homies - Topic",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "30358",
+            "view_count": "33806",
             "thumbnail_url": "https://i.ytimg.com/vi/zHjVpzmu3IU/hqdefault.jpg"
         },
         {
-            "video_id": "K8LejDqKb0Q",
-            "title": "\"24분 18렙\" 새시즌 역대급 탑 버프로 신이 된 전략적죽음 사이온. 저 막으실 수 있겠습니까🧐",
-            "channel_name": "전략적죽음",
+            "video_id": "PMyz2TV2R7c",
+            "title": "새 시즌 맛보기",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "19:34",
-            "view_count": "165354",
-            "thumbnail_url": "https://i.ytimg.com/vi/K8LejDqKb0Q/hqdefault.jpg"
+            "duration": "34:58",
+            "view_count": "235803",
+            "thumbnail_url": "https://i.ytimg.com/vi/PMyz2TV2R7c/hqdefault.jpg"
+        },
+        {
+            "video_id": "wRNXie-ieyA",
+            "title": "Night, Snow",
+            "channel_name": "soon - Topic",
+            "category": "Music",
+            "duration": "3:50",
+            "view_count": "70132",
+            "thumbnail_url": "https://i.ytimg.com/vi/wRNXie-ieyA/hqdefault.jpg"
+        },
+        {
+            "video_id": "QKdqgKxGNes",
+            "title": "드디어 1달만에 성공했습니다! 모두가 원했던 이번 시즌 가장 어려운 초극악 난이도의 3성 자헨 ㄷㄷㄷㄷㄷ",
+            "channel_name": "전쓰트의 게임 채널 Junsst",
+            "category": "Gaming",
+            "duration": "17:22",
+            "view_count": "90656",
+            "thumbnail_url": "https://i.ytimg.com/vi/QKdqgKxGNes/hqdefault.jpg"
         },
         {
             "video_id": "4Mftjtzee9w",
@@ -205,8 +196,26 @@
             "channel_name": "Wonpil (DAY6) - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "283748",
+            "view_count": "292051",
             "thumbnail_url": "https://i.ytimg.com/vi/4Mftjtzee9w/hqdefault.jpg"
+        },
+        {
+            "video_id": "K8LejDqKb0Q",
+            "title": "\"24분 18렙\" 새시즌 역대급 탑 버프로 신이 된 전략적죽음 사이온. 저 막으실 수 있겠습니까🧐",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "19:34",
+            "view_count": "168234",
+            "thumbnail_url": "https://i.ytimg.com/vi/K8LejDqKb0Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "1DpsvE3GmR8",
+            "title": "spring flowers",
+            "channel_name": "MIYEON - Topic",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "30165",
+            "thumbnail_url": "https://i.ytimg.com/vi/1DpsvE3GmR8/hqdefault.jpg"
         },
         {
             "video_id": "P0uwXE_Rq4w",
@@ -214,7 +223,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:39",
-            "view_count": "174537",
+            "view_count": "177522",
             "thumbnail_url": "https://i.ytimg.com/vi/P0uwXE_Rq4w/hqdefault.jpg"
         },
         {
@@ -223,44 +232,8 @@
             "channel_name": "Ha Yea Song - Topic",
             "category": "Music",
             "duration": "4:16",
-            "view_count": "134274",
+            "view_count": "137692",
             "thumbnail_url": "https://i.ytimg.com/vi/dXslk1nJLOM/hqdefault.jpg"
-        },
-        {
-            "video_id": "QKdqgKxGNes",
-            "title": "드디어 1달만에 성공했습니다! 모두가 원했던 이번 시즌 가장 어려운 초극악 난이도의 3성 자헨 ㄷㄷㄷㄷㄷ",
-            "channel_name": "전쓰트의 게임 채널 Junsst",
-            "category": "Gaming",
-            "duration": "17:22",
-            "view_count": "78280",
-            "thumbnail_url": "https://i.ytimg.com/vi/QKdqgKxGNes/hqdefault.jpg"
-        },
-        {
-            "video_id": "1DpsvE3GmR8",
-            "title": "spring flowers",
-            "channel_name": "MIYEON - Topic",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "27805",
-            "thumbnail_url": "https://i.ytimg.com/vi/1DpsvE3GmR8/hqdefault.jpg"
-        },
-        {
-            "video_id": "SNCORXSIBjM",
-            "title": "[26뿌드컵 조별 1-1] 개막전부터 터졌다 김민교 vs 나선욱 미쳐버린 경기ㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "1:27:50",
-            "view_count": "113200",
-            "thumbnail_url": "https://i.ytimg.com/vi/SNCORXSIBjM/hqdefault.jpg"
-        },
-        {
-            "video_id": "lV4aZXWSaUY",
-            "title": "XO, My Cyberlove",
-            "channel_name": "CHUU - Topic",
-            "category": "Music",
-            "duration": "3:22",
-            "view_count": "218708",
-            "thumbnail_url": "https://i.ytimg.com/vi/lV4aZXWSaUY/hqdefault.jpg"
         },
         {
             "video_id": "Cs6qabuBjBs",
@@ -268,7 +241,7 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "32:40",
-            "view_count": "143340",
+            "view_count": "146438",
             "thumbnail_url": "https://i.ytimg.com/vi/Cs6qabuBjBs/hqdefault.jpg"
         },
         {
@@ -277,17 +250,17 @@
             "channel_name": "하데스(HADES) - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "19832",
+            "view_count": "21189",
             "thumbnail_url": "https://i.ytimg.com/vi/QmyrqNY9RPU/hqdefault.jpg"
         },
         {
-            "video_id": "cFrQqDUG5_c",
-            "title": "탑레 무진장 높은 실버",
-            "channel_name": "Official dopa",
+            "video_id": "SNCORXSIBjM",
+            "title": "[26뿌드컵 조별 1-1] 개막전부터 터졌다 김민교 vs 나선욱 미쳐버린 경기ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "두치와뿌꾸",
             "category": "Gaming",
-            "duration": "32:00",
-            "view_count": "222528",
-            "thumbnail_url": "https://i.ytimg.com/vi/cFrQqDUG5_c/hqdefault.jpg"
+            "duration": "1:27:50",
+            "view_count": "114429",
+            "thumbnail_url": "https://i.ytimg.com/vi/SNCORXSIBjM/hqdefault.jpg"
         },
         {
             "video_id": "GS3xW94y5Tg",
@@ -295,17 +268,35 @@
             "channel_name": "VALORANT - Topic",
             "category": "Music",
             "duration": "3:34",
-            "view_count": "384714",
+            "view_count": "395815",
             "thumbnail_url": "https://i.ytimg.com/vi/GS3xW94y5Tg/hqdefault.jpg"
         },
         {
-            "video_id": "_8NagvhTmJ8",
-            "title": "산데비스탄 베인",
-            "channel_name": "PAKA",
+            "video_id": "DWlbpMttGCU",
+            "title": "로블록스 역대 최악의 사칭범 드디어 참교육했습니다.",
+            "channel_name": "싸모스",
             "category": "Gaming",
-            "duration": "24:57",
-            "view_count": "397191",
-            "thumbnail_url": "https://i.ytimg.com/vi/_8NagvhTmJ8/hqdefault.jpg"
+            "duration": "10:26",
+            "view_count": "93952",
+            "thumbnail_url": "https://i.ytimg.com/vi/DWlbpMttGCU/hqdefault.jpg"
+        },
+        {
+            "video_id": "lV4aZXWSaUY",
+            "title": "XO, My Cyberlove",
+            "channel_name": "CHUU - Topic",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "220624",
+            "thumbnail_url": "https://i.ytimg.com/vi/lV4aZXWSaUY/hqdefault.jpg"
+        },
+        {
+            "video_id": "cFrQqDUG5_c",
+            "title": "탑레 무진장 높은 실버",
+            "channel_name": "Official dopa",
+            "category": "Gaming",
+            "duration": "32:00",
+            "view_count": "225301",
+            "thumbnail_url": "https://i.ytimg.com/vi/cFrQqDUG5_c/hqdefault.jpg"
         },
         {
             "video_id": "HcXu0d3jC0Y",
@@ -313,7 +304,7 @@
             "channel_name": "Jukjae - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "46245",
+            "view_count": "48860",
             "thumbnail_url": "https://i.ytimg.com/vi/HcXu0d3jC0Y/hqdefault.jpg"
         },
         {
@@ -322,7 +313,7 @@
             "channel_name": "스맵",
             "category": "Gaming",
             "duration": "25:36",
-            "view_count": "124993",
+            "view_count": "127764",
             "thumbnail_url": "https://i.ytimg.com/vi/9dvWb0eSwgI/hqdefault.jpg"
         },
         {
@@ -331,44 +322,26 @@
             "channel_name": "Min Kyung Hoon - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "15111",
+            "view_count": "16022",
             "thumbnail_url": "https://i.ytimg.com/vi/9GLRB9BO92g/hqdefault.jpg"
         },
         {
-            "video_id": "aGpX9SV2szg",
-            "title": "패치 후 상향 받은 녹서스 팔협지가 먼저 보여드립니다",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "_8NagvhTmJ8",
+            "title": "산데비스탄 베인",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "16:51",
-            "view_count": "139135",
-            "thumbnail_url": "https://i.ytimg.com/vi/aGpX9SV2szg/hqdefault.jpg"
+            "duration": "24:57",
+            "view_count": "398891",
+            "thumbnail_url": "https://i.ytimg.com/vi/_8NagvhTmJ8/hqdefault.jpg"
         },
         {
-            "video_id": "pP0Xn4c14ME",
-            "title": "ZICO, 幾田りら - DUET / THE FIRST TAKE",
-            "channel_name": "THE FIRST TAKE",
+            "video_id": "e5Qu_FSyuL8",
+            "title": "미안해",
+            "channel_name": "Kkuek - Topic",
             "category": "Music",
-            "duration": "3:18",
-            "view_count": "978099",
-            "thumbnail_url": "https://i.ytimg.com/vi/pP0Xn4c14ME/hqdefault.jpg"
-        },
-        {
-            "video_id": "DWlbpMttGCU",
-            "title": "로블록스 역대 최악의 사칭범 드디어 참교육했습니다.",
-            "channel_name": "싸모스",
-            "category": "Gaming",
-            "duration": "10:26",
-            "view_count": "85435",
-            "thumbnail_url": "https://i.ytimg.com/vi/DWlbpMttGCU/hqdefault.jpg"
-        },
-        {
-            "video_id": "K1CKSIpWQy4",
-            "title": "Midnight",
-            "channel_name": "Dept - Topic",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "11444",
-            "thumbnail_url": "https://i.ytimg.com/vi/K1CKSIpWQy4/hqdefault.jpg"
+            "duration": "4:16",
+            "view_count": "9782",
+            "thumbnail_url": "https://i.ytimg.com/vi/e5Qu_FSyuL8/hqdefault.jpg"
         },
         {
             "video_id": "4fZYPa8Q1hA",
@@ -376,8 +349,35 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "25:54",
-            "view_count": "181059",
+            "view_count": "185288",
             "thumbnail_url": "https://i.ytimg.com/vi/4fZYPa8Q1hA/hqdefault.jpg"
+        },
+        {
+            "video_id": "pP0Xn4c14ME",
+            "title": "ZICO, 幾田りら - DUET / THE FIRST TAKE",
+            "channel_name": "THE FIRST TAKE",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "986616",
+            "thumbnail_url": "https://i.ytimg.com/vi/pP0Xn4c14ME/hqdefault.jpg"
+        },
+        {
+            "video_id": "aGpX9SV2szg",
+            "title": "패치 후 상향 받은 녹서스 팔협지가 먼저 보여드립니다",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "16:51",
+            "view_count": "141152",
+            "thumbnail_url": "https://i.ytimg.com/vi/aGpX9SV2szg/hqdefault.jpg"
+        },
+        {
+            "video_id": "K1CKSIpWQy4",
+            "title": "Midnight",
+            "channel_name": "Dept - Topic",
+            "category": "Music",
+            "duration": "3:23",
+            "view_count": "12954",
+            "thumbnail_url": "https://i.ytimg.com/vi/K1CKSIpWQy4/hqdefault.jpg"
         }
     ]
 }
