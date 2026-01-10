@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-11 02:20:08",
+    "scraped_time": "2026-01-11 03:32:41",
     "videos": [
         {
             "video_id": "rW2HmFDGdKs",
@@ -7,7 +7,7 @@
             "channel_name": "HUNTR/X - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "1012467",
+            "view_count": "1069863",
             "thumbnail_url": "https://i.ytimg.com/vi/rW2HmFDGdKs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:22",
-            "view_count": "145826",
+            "view_count": "171809",
             "thumbnail_url": "https://i.ytimg.com/vi/M8uoJlDRxZo/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "5:37:40",
-            "view_count": "1205474",
+            "view_count": "1203414",
             "thumbnail_url": "https://i.ytimg.com/vi/pMBE5-Zfjjw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Bruno Mars - Topic",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "834779",
+            "view_count": "894596",
             "thumbnail_url": "https://i.ytimg.com/vi/luotSpkyCVU/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:02",
-            "view_count": "111875",
+            "view_count": "113254",
             "thumbnail_url": "https://i.ytimg.com/vi/XLXb5Pcj1Z0/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:59",
-            "view_count": "155821",
+            "view_count": "175781",
             "thumbnail_url": "https://i.ytimg.com/vi/28T9D1aTYr4/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "바다 BADA",
             "category": "Music",
             "duration": "4:07",
-            "view_count": "121813",
+            "view_count": "124863",
             "thumbnail_url": "https://i.ytimg.com/vi/3mDtvHuRptA/hqdefault.jpg"
         },
         {
@@ -70,44 +70,8 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "1:17",
-            "view_count": "642585",
+            "view_count": "644436",
             "thumbnail_url": "https://i.ytimg.com/vi/acUIyAfieHE/hqdefault.jpg"
-        },
-        {
-            "video_id": "IG0iXn26YDQ",
-            "title": "폐급과 폐차",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "32:47",
-            "view_count": "153209",
-            "thumbnail_url": "https://i.ytimg.com/vi/IG0iXn26YDQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "wQiz17AKhjM",
-            "title": "AIZO",
-            "channel_name": "King Gnu - Topic",
-            "category": "Music",
-            "duration": "3:36",
-            "view_count": "794601",
-            "thumbnail_url": "https://i.ytimg.com/vi/wQiz17AKhjM/hqdefault.jpg"
-        },
-        {
-            "video_id": "cjAu2T5MKSE",
-            "title": "\"자동 사냥 기지\"를 만들어서 10,000일 생존에 도전했습니다 (로블록스 99나이트인더포레스트)",
-            "channel_name": "마쟈TV",
-            "category": "Gaming",
-            "duration": "15:40",
-            "view_count": "109740",
-            "thumbnail_url": "https://i.ytimg.com/vi/cjAu2T5MKSE/hqdefault.jpg"
-        },
-        {
-            "video_id": "zHjVpzmu3IU",
-            "title": "NOSAE NOSAE",
-            "channel_name": "Homies - Topic",
-            "category": "Music",
-            "duration": "2:49",
-            "view_count": "48415",
-            "thumbnail_url": "https://i.ytimg.com/vi/zHjVpzmu3IU/hqdefault.jpg"
         },
         {
             "video_id": "0a6hYFPgO_I",
@@ -115,8 +79,44 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:51",
-            "view_count": "131144",
+            "view_count": "173539",
             "thumbnail_url": "https://i.ytimg.com/vi/0a6hYFPgO_I/hqdefault.jpg"
+        },
+        {
+            "video_id": "wQiz17AKhjM",
+            "title": "AIZO",
+            "channel_name": "King Gnu - Topic",
+            "category": "Music",
+            "duration": "3:36",
+            "view_count": "825465",
+            "thumbnail_url": "https://i.ytimg.com/vi/wQiz17AKhjM/hqdefault.jpg"
+        },
+        {
+            "video_id": "IG0iXn26YDQ",
+            "title": "폐급과 폐차",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "32:47",
+            "view_count": "168856",
+            "thumbnail_url": "https://i.ytimg.com/vi/IG0iXn26YDQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "zHjVpzmu3IU",
+            "title": "NOSAE NOSAE",
+            "channel_name": "Homies - Topic",
+            "category": "Music",
+            "duration": "2:49",
+            "view_count": "49507",
+            "thumbnail_url": "https://i.ytimg.com/vi/zHjVpzmu3IU/hqdefault.jpg"
+        },
+        {
+            "video_id": "cjAu2T5MKSE",
+            "title": "\"자동 사냥 기지\"를 만들어서 10,000일 생존에 도전했습니다 (로블록스 99나이트인더포레스트)",
+            "channel_name": "마쟈TV",
+            "category": "Gaming",
+            "duration": "15:40",
+            "view_count": "111682",
+            "thumbnail_url": "https://i.ytimg.com/vi/cjAu2T5MKSE/hqdefault.jpg"
         },
         {
             "video_id": "ND5FhEsjVUk",
@@ -124,26 +124,8 @@
             "channel_name": "CNBLUE (씨엔블루)",
             "category": "Entertainment",
             "duration": "3:04",
-            "view_count": "2969464",
+            "view_count": "2981025",
             "thumbnail_url": "https://i.ytimg.com/vi/ND5FhEsjVUk/hqdefault.jpg"
-        },
-        {
-            "video_id": "QKdqgKxGNes",
-            "title": "드디어 1달만에 성공했습니다! 모두가 원했던 이번 시즌 가장 어려운 초극악 난이도의 3성 자헨 ㄷㄷㄷㄷㄷ",
-            "channel_name": "전쓰트의 게임 채널 Junsst",
-            "category": "Gaming",
-            "duration": "17:22",
-            "view_count": "130489",
-            "thumbnail_url": "https://i.ytimg.com/vi/QKdqgKxGNes/hqdefault.jpg"
-        },
-        {
-            "video_id": "MJ70B_cwnPk",
-            "title": "米津玄師 – IRIS OUT「第76回NHK紅白歌合戦」　Kenshi Yonezu – IRIS OUT (76th NHK Kouhaku Performance)",
-            "channel_name": "Kenshi Yonezu  米津玄師",
-            "category": "Music",
-            "duration": "4:19",
-            "view_count": "2073445",
-            "thumbnail_url": "https://i.ytimg.com/vi/MJ70B_cwnPk/hqdefault.jpg"
         },
         {
             "video_id": "KDLmLG8J2wA",
@@ -151,8 +133,26 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "18:00",
-            "view_count": "228740",
+            "view_count": "247960",
             "thumbnail_url": "https://i.ytimg.com/vi/KDLmLG8J2wA/hqdefault.jpg"
+        },
+        {
+            "video_id": "MJ70B_cwnPk",
+            "title": "米津玄師 – IRIS OUT「第76回NHK紅白歌合戦」　Kenshi Yonezu – IRIS OUT (76th NHK Kouhaku Performance)",
+            "channel_name": "Kenshi Yonezu  米津玄師",
+            "category": "Music",
+            "duration": "4:19",
+            "view_count": "2125447",
+            "thumbnail_url": "https://i.ytimg.com/vi/MJ70B_cwnPk/hqdefault.jpg"
+        },
+        {
+            "video_id": "QKdqgKxGNes",
+            "title": "드디어 1달만에 성공했습니다! 모두가 원했던 이번 시즌 가장 어려운 초극악 난이도의 3성 자헨 ㄷㄷㄷㄷㄷ",
+            "channel_name": "전쓰트의 게임 채널 Junsst",
+            "category": "Gaming",
+            "duration": "17:22",
+            "view_count": "136592",
+            "thumbnail_url": "https://i.ytimg.com/vi/QKdqgKxGNes/hqdefault.jpg"
         },
         {
             "video_id": "1-CwhyT2dSg",
@@ -160,44 +160,8 @@
             "channel_name": "ZEROBASEONE - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "87902",
+            "view_count": "89667",
             "thumbnail_url": "https://i.ytimg.com/vi/1-CwhyT2dSg/hqdefault.jpg"
-        },
-        {
-            "video_id": "JAJ9Uj-3cpw",
-            "title": "버려진 기지를 발견했습니다..! [브레인롯 훔치기]",
-            "channel_name": "로트키",
-            "category": "Gaming",
-            "duration": "13:41",
-            "view_count": "86227",
-            "thumbnail_url": "https://i.ytimg.com/vi/JAJ9Uj-3cpw/hqdefault.jpg"
-        },
-        {
-            "video_id": "wRNXie-ieyA",
-            "title": "Night, Snow",
-            "channel_name": "soon - Topic",
-            "category": "Music",
-            "duration": "3:50",
-            "view_count": "80235",
-            "thumbnail_url": "https://i.ytimg.com/vi/wRNXie-ieyA/hqdefault.jpg"
-        },
-        {
-            "video_id": "5Jdvqmt8dBA",
-            "title": "'후루꾸 미드' 김민교의 롤 새시즌 배치고사",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "29:57",
-            "view_count": "236300",
-            "thumbnail_url": "https://i.ytimg.com/vi/5Jdvqmt8dBA/hqdefault.jpg"
-        },
-        {
-            "video_id": "4Mftjtzee9w",
-            "title": "Wish",
-            "channel_name": "Wonpil (DAY6) - Topic",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "319240",
-            "thumbnail_url": "https://i.ytimg.com/vi/4Mftjtzee9w/hqdefault.jpg"
         },
         {
             "video_id": "fzNx6NF4aAo",
@@ -205,8 +169,44 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "15:11",
-            "view_count": "140331",
+            "view_count": "150611",
             "thumbnail_url": "https://i.ytimg.com/vi/fzNx6NF4aAo/hqdefault.jpg"
+        },
+        {
+            "video_id": "wRNXie-ieyA",
+            "title": "Night, Snow",
+            "channel_name": "soon - Topic",
+            "category": "Music",
+            "duration": "3:50",
+            "view_count": "80949",
+            "thumbnail_url": "https://i.ytimg.com/vi/wRNXie-ieyA/hqdefault.jpg"
+        },
+        {
+            "video_id": "JAJ9Uj-3cpw",
+            "title": "버려진 기지를 발견했습니다..! [브레인롯 훔치기]",
+            "channel_name": "로트키",
+            "category": "Gaming",
+            "duration": "13:41",
+            "view_count": "88254",
+            "thumbnail_url": "https://i.ytimg.com/vi/JAJ9Uj-3cpw/hqdefault.jpg"
+        },
+        {
+            "video_id": "4Mftjtzee9w",
+            "title": "Wish",
+            "channel_name": "Wonpil (DAY6) - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "332830",
+            "thumbnail_url": "https://i.ytimg.com/vi/4Mftjtzee9w/hqdefault.jpg"
+        },
+        {
+            "video_id": "5Jdvqmt8dBA",
+            "title": "'후루꾸 미드' 김민교의 롤 새시즌 배치고사",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "29:57",
+            "view_count": "239109",
+            "thumbnail_url": "https://i.ytimg.com/vi/5Jdvqmt8dBA/hqdefault.jpg"
         },
         {
             "video_id": "1DpsvE3GmR8",
@@ -214,7 +214,7 @@
             "channel_name": "MIYEON - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "37959",
+            "view_count": "38367",
             "thumbnail_url": "https://i.ytimg.com/vi/1DpsvE3GmR8/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "34:02",
-            "view_count": "107099",
+            "view_count": "114723",
             "thumbnail_url": "https://i.ytimg.com/vi/INpL9-_ihtc/hqdefault.jpg"
         },
         {
@@ -232,26 +232,8 @@
             "channel_name": "Ha Yea Song - Topic",
             "category": "Music",
             "duration": "4:16",
-            "view_count": "150762",
+            "view_count": "153458",
             "thumbnail_url": "https://i.ytimg.com/vi/dXslk1nJLOM/hqdefault.jpg"
-        },
-        {
-            "video_id": "iB1FViC0rGY",
-            "title": "넛저밧 두 제자들의 진검승부... \"이기는 놈이 사형이다\"",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "1:07:56",
-            "view_count": "246682",
-            "thumbnail_url": "https://i.ytimg.com/vi/iB1FViC0rGY/hqdefault.jpg"
-        },
-        {
-            "video_id": "HcXu0d3jC0Y",
-            "title": "Romance, That Night",
-            "channel_name": "Jukjae - Topic",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "61156",
-            "thumbnail_url": "https://i.ytimg.com/vi/HcXu0d3jC0Y/hqdefault.jpg"
         },
         {
             "video_id": "muUT4l9nd4Q",
@@ -259,8 +241,26 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "57:43",
-            "view_count": "110427",
+            "view_count": "117080",
             "thumbnail_url": "https://i.ytimg.com/vi/muUT4l9nd4Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "HcXu0d3jC0Y",
+            "title": "Romance, That Night",
+            "channel_name": "Jukjae - Topic",
+            "category": "Music",
+            "duration": "3:23",
+            "view_count": "64999",
+            "thumbnail_url": "https://i.ytimg.com/vi/HcXu0d3jC0Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "iB1FViC0rGY",
+            "title": "넛저밧 두 제자들의 진검승부... \"이기는 놈이 사형이다\"",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "1:07:56",
+            "view_count": "248194",
+            "thumbnail_url": "https://i.ytimg.com/vi/iB1FViC0rGY/hqdefault.jpg"
         },
         {
             "video_id": "QmyrqNY9RPU",
@@ -268,26 +268,8 @@
             "channel_name": "하데스(HADES) - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "25071",
+            "view_count": "26061",
             "thumbnail_url": "https://i.ytimg.com/vi/QmyrqNY9RPU/hqdefault.jpg"
-        },
-        {
-            "video_id": "-ro91UoaOUY",
-            "title": "세상에서 제일 귀여운 타이쿤 맵 ㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "18:24",
-            "view_count": "205495",
-            "thumbnail_url": "https://i.ytimg.com/vi/-ro91UoaOUY/hqdefault.jpg"
-        },
-        {
-            "video_id": "GS3xW94y5Tg",
-            "title": "Toxic",
-            "channel_name": "VALORANT - Topic",
-            "category": "Music",
-            "duration": "3:34",
-            "view_count": "462399",
-            "thumbnail_url": "https://i.ytimg.com/vi/GS3xW94y5Tg/hqdefault.jpg"
         },
         {
             "video_id": "qzJOoR8-UKw",
@@ -295,8 +277,26 @@
             "channel_name": "펭귄몬스터",
             "category": "Gaming",
             "duration": "14:26",
-            "view_count": "123864",
+            "view_count": "130693",
             "thumbnail_url": "https://i.ytimg.com/vi/qzJOoR8-UKw/hqdefault.jpg"
+        },
+        {
+            "video_id": "GS3xW94y5Tg",
+            "title": "Toxic",
+            "channel_name": "VALORANT - Topic",
+            "category": "Music",
+            "duration": "3:34",
+            "view_count": "472718",
+            "thumbnail_url": "https://i.ytimg.com/vi/GS3xW94y5Tg/hqdefault.jpg"
+        },
+        {
+            "video_id": "-ro91UoaOUY",
+            "title": "세상에서 제일 귀여운 타이쿤 맵 ㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "18:24",
+            "view_count": "208150",
+            "thumbnail_url": "https://i.ytimg.com/vi/-ro91UoaOUY/hqdefault.jpg"
         },
         {
             "video_id": "e5Qu_FSyuL8",
@@ -304,26 +304,8 @@
             "channel_name": "Kkuek - Topic",
             "category": "Music",
             "duration": "4:16",
-            "view_count": "14216",
+            "view_count": "14505",
             "thumbnail_url": "https://i.ytimg.com/vi/e5Qu_FSyuL8/hqdefault.jpg"
-        },
-        {
-            "video_id": "DWlbpMttGCU",
-            "title": "로블록스 역대 최악의 사칭범 드디어 참교육했습니다.",
-            "channel_name": "싸모스",
-            "category": "Gaming",
-            "duration": "10:26",
-            "view_count": "132362",
-            "thumbnail_url": "https://i.ytimg.com/vi/DWlbpMttGCU/hqdefault.jpg"
-        },
-        {
-            "video_id": "lV4aZXWSaUY",
-            "title": "XO, My Cyberlove",
-            "channel_name": "CHUU - Topic",
-            "category": "Music",
-            "duration": "3:22",
-            "view_count": "230047",
-            "thumbnail_url": "https://i.ytimg.com/vi/lV4aZXWSaUY/hqdefault.jpg"
         },
         {
             "video_id": "aDysmtBpbRE",
@@ -331,8 +313,26 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "12:03",
-            "view_count": "150368",
+            "view_count": "158362",
             "thumbnail_url": "https://i.ytimg.com/vi/aDysmtBpbRE/hqdefault.jpg"
+        },
+        {
+            "video_id": "lV4aZXWSaUY",
+            "title": "XO, My Cyberlove",
+            "channel_name": "CHUU - Topic",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "232925",
+            "thumbnail_url": "https://i.ytimg.com/vi/lV4aZXWSaUY/hqdefault.jpg"
+        },
+        {
+            "video_id": "DWlbpMttGCU",
+            "title": "로블록스 역대 최악의 사칭범 드디어 참교육했습니다.",
+            "channel_name": "싸모스",
+            "category": "Gaming",
+            "duration": "10:26",
+            "view_count": "134378",
+            "thumbnail_url": "https://i.ytimg.com/vi/DWlbpMttGCU/hqdefault.jpg"
         },
         {
             "video_id": "9GLRB9BO92g",
@@ -340,17 +340,17 @@
             "channel_name": "Min Kyung Hoon - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "19883",
+            "view_count": "21013",
             "thumbnail_url": "https://i.ytimg.com/vi/9GLRB9BO92g/hqdefault.jpg"
         },
         {
-            "video_id": "PMyz2TV2R7c",
-            "title": "새 시즌 맛보기",
-            "channel_name": "클리드",
+            "video_id": "Qb4gV_B4f5c",
+            "title": "리치베인 나오면 무조건 고르세요. 딜러들 순삭하는 '리치베인 피즈'",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "34:58",
-            "view_count": "246251",
-            "thumbnail_url": "https://i.ytimg.com/vi/PMyz2TV2R7c/hqdefault.jpg"
+            "duration": "16:04",
+            "view_count": "93386",
+            "thumbnail_url": "https://i.ytimg.com/vi/Qb4gV_B4f5c/hqdefault.jpg"
         },
         {
             "video_id": "pP0Xn4c14ME",
@@ -358,17 +358,17 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "1052777",
+            "view_count": "1063784",
             "thumbnail_url": "https://i.ytimg.com/vi/pP0Xn4c14ME/hqdefault.jpg"
         },
         {
-            "video_id": "K8LejDqKb0Q",
-            "title": "\"24분 18렙\" 새시즌 역대급 탑 버프로 신이 된 전략적죽음 사이온. 저 막으실 수 있겠습니까🧐",
-            "channel_name": "전략적죽음",
+            "video_id": "PMyz2TV2R7c",
+            "title": "새 시즌 맛보기",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "19:34",
-            "view_count": "181744",
-            "thumbnail_url": "https://i.ytimg.com/vi/K8LejDqKb0Q/hqdefault.jpg"
+            "duration": "34:58",
+            "view_count": "247909",
+            "thumbnail_url": "https://i.ytimg.com/vi/PMyz2TV2R7c/hqdefault.jpg"
         },
         {
             "video_id": "qvD5r1YvG-Y",
@@ -376,7 +376,7 @@
             "channel_name": "김아중 - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "45722",
+            "view_count": "46263",
             "thumbnail_url": "https://i.ytimg.com/vi/qvD5r1YvG-Y/hqdefault.jpg"
         }
     ]
