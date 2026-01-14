@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-14 08:21:45",
+    "scraped_time": "2026-01-14 11:01:57",
     "videos": [
         {
             "video_id": "l2HfBaZi-4k",
@@ -7,7 +7,7 @@
             "channel_name": "DxS (SEVENTEEN) - Topic",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "275829",
+            "view_count": "292955",
             "thumbnail_url": "https://i.ytimg.com/vi/l2HfBaZi-4k/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "1:14",
-            "view_count": "155693",
+            "view_count": "193133",
             "thumbnail_url": "https://i.ytimg.com/vi/Wkg430JD9Yo/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "2:35:41",
-            "view_count": "369850",
+            "view_count": "398071",
             "thumbnail_url": "https://i.ytimg.com/vi/Nz2ByaTCSjo/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "ALPHA DRIVE ONE",
             "category": "People & Blogs",
             "duration": "3:14",
-            "view_count": "9714585",
+            "view_count": "9974527",
             "thumbnail_url": "https://i.ytimg.com/vi/P8VVnopM610/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "11:05",
-            "view_count": "67523",
+            "view_count": "97277",
             "thumbnail_url": "https://i.ytimg.com/vi/8cP4boKxThE/hqdefault.jpg"
         },
         {
@@ -52,17 +52,17 @@
             "channel_name": "AION2",
             "category": "Gaming",
             "duration": "1:51:49",
-            "view_count": "203860",
+            "view_count": "206263",
             "thumbnail_url": "https://i.ytimg.com/vi/zEQoiHYMhaE/hqdefault.jpg"
         },
         {
-            "video_id": "N9X1o0q4aIc",
-            "title": "도겸X승관 (SEVENTEEN) 'Blue' Official MV (Cinema Ver.)",
-            "channel_name": "HYBE LABELS",
+            "video_id": "1kcOvEtdFt4",
+            "title": "Never Let Go",
+            "channel_name": "LNGSHOT - Topic",
             "category": "Music",
-            "duration": "7:21",
-            "view_count": "4413205",
-            "thumbnail_url": "https://i.ytimg.com/vi/N9X1o0q4aIc/hqdefault.jpg"
+            "duration": "3:14",
+            "view_count": "66716",
+            "thumbnail_url": "https://i.ytimg.com/vi/1kcOvEtdFt4/hqdefault.jpg"
         },
         {
             "video_id": "IPn4svVIR68",
@@ -70,7 +70,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:13",
-            "view_count": "153379",
+            "view_count": "157055",
             "thumbnail_url": "https://i.ytimg.com/vi/IPn4svVIR68/hqdefault.jpg"
         },
         {
@@ -79,17 +79,17 @@
             "channel_name": "마비노기 모바일",
             "category": "Gaming",
             "duration": "1:41:32",
-            "view_count": "91588",
+            "view_count": "92144",
             "thumbnail_url": "https://i.ytimg.com/vi/a4cdEyloeh0/hqdefault.jpg"
         },
         {
-            "video_id": "4REuyY89tfw",
-            "title": "lulu.",
-            "channel_name": "Mrs. GREEN APPLE - Topic",
+            "video_id": "N9X1o0q4aIc",
+            "title": "도겸X승관 (SEVENTEEN) 'Blue' Official MV (Cinema Ver.)",
+            "channel_name": "HYBE LABELS",
             "category": "Music",
-            "duration": "4:31",
-            "view_count": "1083551",
-            "thumbnail_url": "https://i.ytimg.com/vi/4REuyY89tfw/hqdefault.jpg"
+            "duration": "7:21",
+            "view_count": "4605554",
+            "thumbnail_url": "https://i.ytimg.com/vi/N9X1o0q4aIc/hqdefault.jpg"
         },
         {
             "video_id": "FwPsW6ImKRM",
@@ -97,7 +97,7 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "8:04",
-            "view_count": "90379",
+            "view_count": "98072",
             "thumbnail_url": "https://i.ytimg.com/vi/FwPsW6ImKRM/hqdefault.jpg"
         },
         {
@@ -106,17 +106,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:40",
-            "view_count": "496680",
+            "view_count": "500674",
             "thumbnail_url": "https://i.ytimg.com/vi/flGaTkZ7Ryg/hqdefault.jpg"
         },
         {
-            "video_id": "1kcOvEtdFt4",
-            "title": "Never Let Go",
-            "channel_name": "LNGSHOT - Topic",
+            "video_id": "4REuyY89tfw",
+            "title": "lulu.",
+            "channel_name": "Mrs. GREEN APPLE - Topic",
             "category": "Music",
-            "duration": "3:14",
-            "view_count": "57225",
-            "thumbnail_url": "https://i.ytimg.com/vi/1kcOvEtdFt4/hqdefault.jpg"
+            "duration": "4:31",
+            "view_count": "1144944",
+            "thumbnail_url": "https://i.ytimg.com/vi/4REuyY89tfw/hqdefault.jpg"
+        },
+        {
+            "video_id": "9sxEZuJskvM",
+            "title": "[왕과 사는 남자] 공식 예고편",
+            "channel_name": "쇼박스 SHOWBOX",
+            "category": "Film & Animation",
+            "duration": "1:11",
+            "view_count": "7538",
+            "thumbnail_url": "https://i.ytimg.com/vi/9sxEZuJskvM/hqdefault.jpg"
         },
         {
             "video_id": "QSPJqvlbAUs",
@@ -124,7 +133,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:54",
-            "view_count": "221143",
+            "view_count": "224898",
             "thumbnail_url": "https://i.ytimg.com/vi/QSPJqvlbAUs/hqdefault.jpg"
         },
         {
@@ -133,7 +142,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "50407",
+            "view_count": "52864",
             "thumbnail_url": "https://i.ytimg.com/vi/gjKuVrD1hXM/hqdefault.jpg"
         },
         {
@@ -142,7 +151,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "33:15",
-            "view_count": "181217",
+            "view_count": "193045",
             "thumbnail_url": "https://i.ytimg.com/vi/Mg0A2y3WOfE/hqdefault.jpg"
         },
         {
@@ -151,7 +160,7 @@
             "channel_name": "ILLIT - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "121295",
+            "view_count": "133890",
             "thumbnail_url": "https://i.ytimg.com/vi/m5JAnsvvqTk/hqdefault.jpg"
         },
         {
@@ -160,7 +169,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "16:54",
-            "view_count": "126270",
+            "view_count": "132076",
             "thumbnail_url": "https://i.ytimg.com/vi/OS9of68gVMY/hqdefault.jpg"
         },
         {
@@ -169,7 +178,7 @@
             "channel_name": "A$AP Rocky - Topic",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "396150",
+            "view_count": "422699",
             "thumbnail_url": "https://i.ytimg.com/vi/QTVph5fi6hY/hqdefault.jpg"
         },
         {
@@ -178,7 +187,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "36:00",
-            "view_count": "90533",
+            "view_count": "97596",
             "thumbnail_url": "https://i.ytimg.com/vi/fxtj0szKf_I/hqdefault.jpg"
         },
         {
@@ -187,7 +196,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "810666",
+            "view_count": "827721",
             "thumbnail_url": "https://i.ytimg.com/vi/7FIj6lIPPj8/hqdefault.jpg"
         },
         {
@@ -196,7 +205,7 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "14:21",
-            "view_count": "199620",
+            "view_count": "203434",
             "thumbnail_url": "https://i.ytimg.com/vi/0uzmMtX9WZo/hqdefault.jpg"
         },
         {
@@ -205,7 +214,7 @@
             "channel_name": "ALPHA DRIVE ONE - Topic",
             "category": "Music",
             "duration": "2:55",
-            "view_count": "63955",
+            "view_count": "66611",
             "thumbnail_url": "https://i.ytimg.com/vi/houY-xCpqoQ/hqdefault.jpg"
         },
         {
@@ -214,26 +223,8 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "31:50",
-            "view_count": "281104",
+            "view_count": "283339",
             "thumbnail_url": "https://i.ytimg.com/vi/LVps6g8NsuU/hqdefault.jpg"
-        },
-        {
-            "video_id": "RD-lluo5OVw",
-            "title": "It Was Love",
-            "channel_name": "LATENCY - Topic",
-            "category": "Music",
-            "duration": "3:04",
-            "view_count": "101363",
-            "thumbnail_url": "https://i.ytimg.com/vi/RD-lluo5OVw/hqdefault.jpg"
-        },
-        {
-            "video_id": "Oly6PoR2KvE",
-            "title": "저라뎃 써밋 듀오에 솔랭 2연속 저격당해서 결국 멘탈나간 클리드 ㅋㅋㅋ",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "36:50",
-            "view_count": "201558",
-            "thumbnail_url": "https://i.ytimg.com/vi/Oly6PoR2KvE/hqdefault.jpg"
         },
         {
             "video_id": "jjZuOrMHzu0",
@@ -241,8 +232,26 @@
             "channel_name": "Huh Gak - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "63462",
+            "view_count": "68229",
             "thumbnail_url": "https://i.ytimg.com/vi/jjZuOrMHzu0/hqdefault.jpg"
+        },
+        {
+            "video_id": "Oly6PoR2KvE",
+            "title": "저라뎃 써밋 듀오에 솔랭 2연속 저격당해서 결국 멘탈나간 클리드 ㅋㅋㅋ",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "36:50",
+            "view_count": "203492",
+            "thumbnail_url": "https://i.ytimg.com/vi/Oly6PoR2KvE/hqdefault.jpg"
+        },
+        {
+            "video_id": "RD-lluo5OVw",
+            "title": "It Was Love",
+            "channel_name": "LATENCY - Topic",
+            "category": "Music",
+            "duration": "3:04",
+            "view_count": "104665",
+            "thumbnail_url": "https://i.ytimg.com/vi/RD-lluo5OVw/hqdefault.jpg"
         },
         {
             "video_id": "SRSbXFEw5lE",
@@ -250,7 +259,7 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "20:25",
-            "view_count": "108500",
+            "view_count": "113467",
             "thumbnail_url": "https://i.ytimg.com/vi/SRSbXFEw5lE/hqdefault.jpg"
         },
         {
@@ -259,53 +268,17 @@
             "channel_name": "Bruno Mars - Topic",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "3751212",
+            "view_count": "3865532",
             "thumbnail_url": "https://i.ytimg.com/vi/luotSpkyCVU/hqdefault.jpg"
         },
         {
-            "video_id": "2JuHCZxJ5Qo",
-            "title": "미드 황족의 왕관을 빼앗으러온 바텀팀 【라인CK 미드vs바텀】",
+            "video_id": "rAEdOA-TgdI",
+            "title": "무죄인간",
             "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "38:58",
-            "view_count": "178953",
-            "thumbnail_url": "https://i.ytimg.com/vi/2JuHCZxJ5Qo/hqdefault.jpg"
-        },
-        {
-            "video_id": "HHkj1M34QNg",
-            "title": "Something Feels Wrong",
-            "channel_name": "KickFlip - Topic",
-            "category": "Music",
-            "duration": "2:51",
-            "view_count": "45083",
-            "thumbnail_url": "https://i.ytimg.com/vi/HHkj1M34QNg/hqdefault.jpg"
-        },
-        {
-            "video_id": "acbtg_jMd0Q",
-            "title": "우리 엄마는 베트남 사람입니다...",
-            "channel_name": "가재맨",
-            "category": "Gaming",
-            "duration": "39:22",
-            "view_count": "199732",
-            "thumbnail_url": "https://i.ytimg.com/vi/acbtg_jMd0Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "zSFmsS5ufDs",
-            "title": "Dept - Blue Official Lyric Video",
-            "channel_name": "Dept 뎁트",
-            "category": "Music",
-            "duration": "3:17",
-            "view_count": "38211",
-            "thumbnail_url": "https://i.ytimg.com/vi/zSFmsS5ufDs/hqdefault.jpg"
-        },
-        {
-            "video_id": "PGXR2pgRyK4",
-            "title": "와..실화냐? 땅따먹기 온라인 팀전 ㄱㅐ재밌습니다 ㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "20:55",
-            "view_count": "288518",
-            "thumbnail_url": "https://i.ytimg.com/vi/PGXR2pgRyK4/hqdefault.jpg"
+            "duration": "26:39",
+            "view_count": "139109",
+            "thumbnail_url": "https://i.ytimg.com/vi/rAEdOA-TgdI/hqdefault.jpg"
         },
         {
             "video_id": "3y743h28quI",
@@ -313,7 +286,7 @@
             "channel_name": "TOMORROW X TOGETHER OFFICIAL",
             "category": "Music",
             "duration": "5:00",
-            "view_count": "223727",
+            "view_count": "240753",
             "thumbnail_url": "https://i.ytimg.com/vi/3y743h28quI/hqdefault.jpg"
         },
         {
@@ -322,35 +295,35 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "11:14",
-            "view_count": "230673",
+            "view_count": "239079",
             "thumbnail_url": "https://i.ytimg.com/vi/OvtV3Z2Fj4I/hqdefault.jpg"
         },
         {
-            "video_id": "gaIV0ca79Xk",
-            "title": "Beautiful",
-            "channel_name": "Kelly is Green - Topic",
+            "video_id": "zSFmsS5ufDs",
+            "title": "Dept - Blue Official Lyric Video",
+            "channel_name": "Dept 뎁트",
             "category": "Music",
-            "duration": "2:42",
-            "view_count": "53525",
-            "thumbnail_url": "https://i.ytimg.com/vi/gaIV0ca79Xk/hqdefault.jpg"
+            "duration": "3:17",
+            "view_count": "39834",
+            "thumbnail_url": "https://i.ytimg.com/vi/zSFmsS5ufDs/hqdefault.jpg"
         },
         {
-            "video_id": "3gjNu5CzPng",
-            "title": "1626명을 빨려들게 만든 블랙홀 키우기",
-            "channel_name": "우주하마",
+            "video_id": "UAYsfu6olSY",
+            "title": "광신도 기지를 빼앗고 10,000일 생존가능한 무적기지로 개조하기!! ㅋㅋㅋㅋ 농담아니라 진짜 무적요새입니다... 그런데 낚시터를 곁들인 (로블록스 99나이트인더포레스트)",
+            "channel_name": "말량",
             "category": "Gaming",
-            "duration": "25:25",
-            "view_count": "152361",
-            "thumbnail_url": "https://i.ytimg.com/vi/3gjNu5CzPng/hqdefault.jpg"
+            "duration": "37:46",
+            "view_count": "76184",
+            "thumbnail_url": "https://i.ytimg.com/vi/UAYsfu6olSY/hqdefault.jpg"
         },
         {
-            "video_id": "TZYqDl19qLQ",
-            "title": "【Ado】おどるポンポコリン",
-            "channel_name": "Ado",
+            "video_id": "HHkj1M34QNg",
+            "title": "Something Feels Wrong",
+            "channel_name": "KickFlip - Topic",
             "category": "Music",
-            "duration": "1:26",
-            "view_count": "1763792",
-            "thumbnail_url": "https://i.ytimg.com/vi/TZYqDl19qLQ/hqdefault.jpg"
+            "duration": "2:51",
+            "view_count": "46725",
+            "thumbnail_url": "https://i.ytimg.com/vi/HHkj1M34QNg/hqdefault.jpg"
         },
         {
             "video_id": "iptqsBsZdlA",
@@ -358,26 +331,53 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "27:11",
-            "view_count": "124533",
+            "view_count": "128857",
             "thumbnail_url": "https://i.ytimg.com/vi/iptqsBsZdlA/hqdefault.jpg"
         },
         {
-            "video_id": "a7DtlXpUj4I",
-            "title": "Golden (Glowin' Version)",
-            "channel_name": "HUNTR/X - Topic",
+            "video_id": "wTbrW044Tp0",
+            "title": "The World Has Ended",
+            "channel_name": "Yuuri - Topic",
             "category": "Music",
-            "duration": "3:11",
-            "view_count": "3427169",
-            "thumbnail_url": "https://i.ytimg.com/vi/a7DtlXpUj4I/hqdefault.jpg"
+            "duration": "4:15",
+            "view_count": "8789",
+            "thumbnail_url": "https://i.ytimg.com/vi/wTbrW044Tp0/hqdefault.jpg"
         },
         {
-            "video_id": "m-3K6o7qwyw",
-            "title": "얘들아 우리 팀 ㅈ됐어..",
-            "channel_name": "킴성태TV",
+            "video_id": "acbtg_jMd0Q",
+            "title": "우리 엄마는 베트남 사람입니다...",
+            "channel_name": "가재맨",
             "category": "Gaming",
-            "duration": "27:26",
-            "view_count": "116090",
-            "thumbnail_url": "https://i.ytimg.com/vi/m-3K6o7qwyw/hqdefault.jpg"
+            "duration": "39:22",
+            "view_count": "201801",
+            "thumbnail_url": "https://i.ytimg.com/vi/acbtg_jMd0Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "gaIV0ca79Xk",
+            "title": "Beautiful",
+            "channel_name": "Kelly is Green - Topic",
+            "category": "Music",
+            "duration": "2:42",
+            "view_count": "55157",
+            "thumbnail_url": "https://i.ytimg.com/vi/gaIV0ca79Xk/hqdefault.jpg"
+        },
+        {
+            "video_id": "PGXR2pgRyK4",
+            "title": "와..실화냐? 땅따먹기 온라인 팀전 ㄱㅐ재밌습니다 ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "20:55",
+            "view_count": "290918",
+            "thumbnail_url": "https://i.ytimg.com/vi/PGXR2pgRyK4/hqdefault.jpg"
+        },
+        {
+            "video_id": "TZYqDl19qLQ",
+            "title": "【Ado】おどるポンポコリン",
+            "channel_name": "Ado",
+            "category": "Music",
+            "duration": "1:26",
+            "view_count": "1786534",
+            "thumbnail_url": "https://i.ytimg.com/vi/TZYqDl19qLQ/hqdefault.jpg"
         }
     ]
 }
