@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-16 10:58:41",
+    "scraped_time": "2026-01-16 12:45:00",
     "videos": [
         {
             "video_id": "KRAFmgTECWw",
@@ -7,7 +7,7 @@
             "channel_name": "LIGHTSUM 라잇썸 (Official YouTube Channel)",
             "category": "Entertainment",
             "duration": "3:56",
-            "view_count": "223982",
+            "view_count": "256465",
             "thumbnail_url": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "1:14",
-            "view_count": "322457",
+            "view_count": "323506",
             "thumbnail_url": "https://i.ytimg.com/vi/Wkg430JD9Yo/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "40:37",
-            "view_count": "251254",
+            "view_count": "256311",
             "thumbnail_url": "https://i.ytimg.com/vi/Naqh1Su6pvY/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "nSSign",
             "category": "People & Blogs",
             "duration": "3:40",
-            "view_count": "242518",
+            "view_count": "249446",
             "thumbnail_url": "https://i.ytimg.com/vi/LVw93DLIE78/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "11:05",
-            "view_count": "200451",
+            "view_count": "200847",
             "thumbnail_url": "https://i.ytimg.com/vi/8cP4boKxThE/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "악동 김블루",
             "category": "Gaming",
             "duration": "12:00",
-            "view_count": "249822",
+            "view_count": "255542",
             "thumbnail_url": "https://i.ytimg.com/vi/eF5ficfikLk/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "72585",
+            "view_count": "74900",
             "thumbnail_url": "https://i.ytimg.com/vi/xzJePMCFbAo/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "쇼박스 SHOWBOX",
             "category": "Film & Animation",
             "duration": "1:11",
-            "view_count": "334926",
+            "view_count": "340766",
             "thumbnail_url": "https://i.ytimg.com/vi/9sxEZuJskvM/hqdefault.jpg"
         },
         {
@@ -79,53 +79,8 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:03",
-            "view_count": "134128",
+            "view_count": "141096",
             "thumbnail_url": "https://i.ytimg.com/vi/lJoVtHd51QM/hqdefault.jpg"
-        },
-        {
-            "video_id": "l2HfBaZi-4k",
-            "title": "Blue",
-            "channel_name": "DxS (SEVENTEEN) - Topic",
-            "category": "Music",
-            "duration": "3:29",
-            "view_count": "662654",
-            "thumbnail_url": "https://i.ytimg.com/vi/l2HfBaZi-4k/hqdefault.jpg"
-        },
-        {
-            "video_id": "IPn4svVIR68",
-            "title": "레이디 두아 | 공식 티저 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "1:13",
-            "view_count": "220672",
-            "thumbnail_url": "https://i.ytimg.com/vi/IPn4svVIR68/hqdefault.jpg"
-        },
-        {
-            "video_id": "I1MfFtBvcPY",
-            "title": "[🔴LIVE]리니지클래식 서버찍고 케릭터생성의날🤘스텟이 미래를 결정한다↗️[가짜뉴스금지]",
-            "channel_name": "만만",
-            "category": "Gaming",
-            "duration": "4:44:09",
-            "view_count": "314610",
-            "thumbnail_url": "https://i.ytimg.com/vi/I1MfFtBvcPY/hqdefault.jpg"
-        },
-        {
-            "video_id": "WAPScJ1IakM",
-            "title": "Ferris wheel",
-            "channel_name": "Onewe - Topic",
-            "category": "Music",
-            "duration": "3:35",
-            "view_count": "74465",
-            "thumbnail_url": "https://i.ytimg.com/vi/WAPScJ1IakM/hqdefault.jpg"
-        },
-        {
-            "video_id": "quPHBRPU9b4",
-            "title": "금연 도전기",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "29:27",
-            "view_count": "409146",
-            "thumbnail_url": "https://i.ytimg.com/vi/quPHBRPU9b4/hqdefault.jpg"
         },
         {
             "video_id": "97qr0BOdHkc",
@@ -133,8 +88,17 @@
             "channel_name": "ZICO - Topic",
             "category": "Music",
             "duration": "2:07",
-            "view_count": "28266",
+            "view_count": "37013",
             "thumbnail_url": "https://i.ytimg.com/vi/97qr0BOdHkc/hqdefault.jpg"
+        },
+        {
+            "video_id": "IPn4svVIR68",
+            "title": "레이디 두아 | 공식 티저 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "1:13",
+            "view_count": "222052",
+            "thumbnail_url": "https://i.ytimg.com/vi/IPn4svVIR68/hqdefault.jpg"
         },
         {
             "video_id": "BYiVe76OaFE",
@@ -142,8 +106,44 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "50:35",
-            "view_count": "140432",
+            "view_count": "146458",
             "thumbnail_url": "https://i.ytimg.com/vi/BYiVe76OaFE/hqdefault.jpg"
+        },
+        {
+            "video_id": "WAPScJ1IakM",
+            "title": "Ferris wheel",
+            "channel_name": "Onewe - Topic",
+            "category": "Music",
+            "duration": "3:35",
+            "view_count": "78107",
+            "thumbnail_url": "https://i.ytimg.com/vi/WAPScJ1IakM/hqdefault.jpg"
+        },
+        {
+            "video_id": "I1MfFtBvcPY",
+            "title": "[🔴LIVE]리니지클래식 서버찍고 케릭터생성의날🤘스텟이 미래를 결정한다↗️[가짜뉴스금지]",
+            "channel_name": "만만",
+            "category": "Gaming",
+            "duration": "4:44:09",
+            "view_count": "315009",
+            "thumbnail_url": "https://i.ytimg.com/vi/I1MfFtBvcPY/hqdefault.jpg"
+        },
+        {
+            "video_id": "l2HfBaZi-4k",
+            "title": "Blue",
+            "channel_name": "DxS (SEVENTEEN) - Topic",
+            "category": "Music",
+            "duration": "3:29",
+            "view_count": "681017",
+            "thumbnail_url": "https://i.ytimg.com/vi/l2HfBaZi-4k/hqdefault.jpg"
+        },
+        {
+            "video_id": "quPHBRPU9b4",
+            "title": "금연 도전기",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "29:27",
+            "view_count": "411876",
+            "thumbnail_url": "https://i.ytimg.com/vi/quPHBRPU9b4/hqdefault.jpg"
         },
         {
             "video_id": "32eV1hb1mOw",
@@ -151,7 +151,7 @@
             "channel_name": "TOIL - Topic",
             "category": "Music",
             "duration": "2:28",
-            "view_count": "48864",
+            "view_count": "52234",
             "thumbnail_url": "https://i.ytimg.com/vi/32eV1hb1mOw/hqdefault.jpg"
         },
         {
@@ -160,17 +160,17 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "2:35:41",
-            "view_count": "855899",
+            "view_count": "862760",
             "thumbnail_url": "https://i.ytimg.com/vi/Nz2ByaTCSjo/hqdefault.jpg"
         },
         {
-            "video_id": "H5O5TKumLwc",
-            "title": "Moonwalkin'",
-            "channel_name": "LNGSHOT - Topic",
+            "video_id": "Q6slf0GBvgQ",
+            "title": "Roommates",
+            "channel_name": "Hilary Duff - Topic",
             "category": "Music",
-            "duration": "3:29",
-            "view_count": "276234",
-            "thumbnail_url": "https://i.ytimg.com/vi/H5O5TKumLwc/hqdefault.jpg"
+            "duration": "2:53",
+            "view_count": "19764",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q6slf0GBvgQ/hqdefault.jpg"
         },
         {
             "video_id": "CByK3KFOcqA",
@@ -178,17 +178,17 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "28:30",
-            "view_count": "135122",
+            "view_count": "140149",
             "thumbnail_url": "https://i.ytimg.com/vi/CByK3KFOcqA/hqdefault.jpg"
         },
         {
-            "video_id": "_TVi0_vGa-w",
-            "title": "Vaundy - 괴수의 꽃노래 🎵\"저 가수입니다🎤\" by강남",
-            "channel_name": "동네친구 강나미 [Kangnami]",
-            "category": "Entertainment",
-            "duration": "3:50",
-            "view_count": "83472",
-            "thumbnail_url": "https://i.ytimg.com/vi/_TVi0_vGa-w/hqdefault.jpg"
+            "video_id": "H5O5TKumLwc",
+            "title": "Moonwalkin'",
+            "channel_name": "LNGSHOT - Topic",
+            "category": "Music",
+            "duration": "3:29",
+            "view_count": "288155",
+            "thumbnail_url": "https://i.ytimg.com/vi/H5O5TKumLwc/hqdefault.jpg"
         },
         {
             "video_id": "3uWIy_uWHOc",
@@ -196,17 +196,17 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "25:45",
-            "view_count": "143070",
+            "view_count": "149686",
             "thumbnail_url": "https://i.ytimg.com/vi/3uWIy_uWHOc/hqdefault.jpg"
         },
         {
-            "video_id": "-HdkCSbMBpg",
-            "title": "[COVER] 승관 - それがあなたの幸せとしても (그게 당신의 행복이라 할지라도) (원곡 : Heavenz feat. 巡音ルカ)",
-            "channel_name": "SEVENTEEN",
-            "category": "Music",
-            "duration": "4:27",
-            "view_count": "85785",
-            "thumbnail_url": "https://i.ytimg.com/vi/-HdkCSbMBpg/hqdefault.jpg"
+            "video_id": "_TVi0_vGa-w",
+            "title": "Vaundy - 괴수의 꽃노래 🎵\"저 가수입니다🎤\" by강남",
+            "channel_name": "동네친구 강나미 [Kangnami]",
+            "category": "Entertainment",
+            "duration": "3:50",
+            "view_count": "86731",
+            "thumbnail_url": "https://i.ytimg.com/vi/_TVi0_vGa-w/hqdefault.jpg"
         },
         {
             "video_id": "WKI_poPVO-k",
@@ -214,17 +214,35 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "21:18",
-            "view_count": "163025",
+            "view_count": "169135",
             "thumbnail_url": "https://i.ytimg.com/vi/WKI_poPVO-k/hqdefault.jpg"
         },
         {
-            "video_id": "HJgdT15UT4k",
-            "title": "LNGSHOT - [Moonwalkin'] Official Music Video",
-            "channel_name": "MORE VISION",
-            "category": "Entertainment",
-            "duration": "3:35",
-            "view_count": "2279666",
-            "thumbnail_url": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg"
+            "video_id": "-HdkCSbMBpg",
+            "title": "[COVER] 승관 - それがあなたの幸せとしても (그게 당신의 행복이라 할지라도) (원곡 : Heavenz feat. 巡音ルカ)",
+            "channel_name": "SEVENTEEN",
+            "category": "Music",
+            "duration": "4:27",
+            "view_count": "95436",
+            "thumbnail_url": "https://i.ytimg.com/vi/-HdkCSbMBpg/hqdefault.jpg"
+        },
+        {
+            "video_id": "Rv3CA1qYgSo",
+            "title": "\"공기가 다르다\" 프로들만 만나는 챌큐의 저라뎃",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "59:12",
+            "view_count": "82602",
+            "thumbnail_url": "https://i.ytimg.com/vi/Rv3CA1qYgSo/hqdefault.jpg"
+        },
+        {
+            "video_id": "D2takvkQvcY",
+            "title": "[몬채널][C] HYUNGWON - Flower (COVER.)",
+            "channel_name": "MONSTA X",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "27750",
+            "thumbnail_url": "https://i.ytimg.com/vi/D2takvkQvcY/hqdefault.jpg"
         },
         {
             "video_id": "qddMq2HA2HA",
@@ -232,8 +250,26 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "3:46:11",
-            "view_count": "189637",
+            "view_count": "190038",
             "thumbnail_url": "https://i.ytimg.com/vi/qddMq2HA2HA/hqdefault.jpg"
+        },
+        {
+            "video_id": "HJgdT15UT4k",
+            "title": "LNGSHOT - [Moonwalkin'] Official Music Video",
+            "channel_name": "MORE VISION",
+            "category": "Entertainment",
+            "duration": "3:35",
+            "view_count": "2352420",
+            "thumbnail_url": "https://i.ytimg.com/vi/HJgdT15UT4k/hqdefault.jpg"
+        },
+        {
+            "video_id": "HYHcOboifFQ",
+            "title": "또대급 레전드 라이즈 발생 '저포 + 빌지워터 폭발물 라이즈'",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "14:20",
+            "view_count": "118582",
+            "thumbnail_url": "https://i.ytimg.com/vi/HYHcOboifFQ/hqdefault.jpg"
         },
         {
             "video_id": "P8VVnopM610",
@@ -241,7 +277,7 @@
             "channel_name": "ALPHA DRIVE ONE",
             "category": "People & Blogs",
             "duration": "3:14",
-            "view_count": "21285500",
+            "view_count": "21779739",
             "thumbnail_url": "https://i.ytimg.com/vi/P8VVnopM610/hqdefault.jpg"
         },
         {
@@ -250,26 +286,8 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "1:08:39",
-            "view_count": "108191",
+            "view_count": "110648",
             "thumbnail_url": "https://i.ytimg.com/vi/LRtOAsYTJ4o/hqdefault.jpg"
-        },
-        {
-            "video_id": "D2takvkQvcY",
-            "title": "[몬채널][C] HYUNGWON - Flower (COVER.)",
-            "channel_name": "MONSTA X",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "26179",
-            "thumbnail_url": "https://i.ytimg.com/vi/D2takvkQvcY/hqdefault.jpg"
-        },
-        {
-            "video_id": "HYHcOboifFQ",
-            "title": "또대급 레전드 라이즈 발생 '저포 + 빌지워터 폭발물 라이즈'",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "14:20",
-            "view_count": "114833",
-            "thumbnail_url": "https://i.ytimg.com/vi/HYHcOboifFQ/hqdefault.jpg"
         },
         {
             "video_id": "f-WMbUPOULg",
@@ -277,7 +295,7 @@
             "channel_name": "B. Mars groov - Topic",
             "category": "Music",
             "duration": "2:28",
-            "view_count": "28609",
+            "view_count": "30209",
             "thumbnail_url": "https://i.ytimg.com/vi/f-WMbUPOULg/hqdefault.jpg"
         },
         {
@@ -286,17 +304,17 @@
             "channel_name": "피넛",
             "category": "Gaming",
             "duration": "19:34",
-            "view_count": "246845",
+            "view_count": "248406",
             "thumbnail_url": "https://i.ytimg.com/vi/860kHmQaVQY/hqdefault.jpg"
         },
         {
-            "video_id": "wTbrW044Tp0",
-            "title": "The World Has Ended",
-            "channel_name": "Yuuri - Topic",
+            "video_id": "iaOJJYR_O0w",
+            "title": "Belladona",
+            "channel_name": "Kenia Os - Topic",
             "category": "Music",
-            "duration": "4:15",
-            "view_count": "75704",
-            "thumbnail_url": "https://i.ytimg.com/vi/wTbrW044Tp0/hqdefault.jpg"
+            "duration": "3:33",
+            "view_count": "52119",
+            "thumbnail_url": "https://i.ytimg.com/vi/iaOJJYR_O0w/hqdefault.jpg"
         },
         {
             "video_id": "oW-CQd_N2_4",
@@ -304,17 +322,17 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "14:19",
-            "view_count": "234454",
+            "view_count": "235430",
             "thumbnail_url": "https://i.ytimg.com/vi/oW-CQd_N2_4/hqdefault.jpg"
         },
         {
-            "video_id": "m5JAnsvvqTk",
-            "title": "Sunday Morning",
-            "channel_name": "ILLIT - Topic",
+            "video_id": "wTbrW044Tp0",
+            "title": "The World Has Ended",
+            "channel_name": "Yuuri - Topic",
             "category": "Music",
-            "duration": "2:53",
-            "view_count": "337530",
-            "thumbnail_url": "https://i.ytimg.com/vi/m5JAnsvvqTk/hqdefault.jpg"
+            "duration": "4:15",
+            "view_count": "77320",
+            "thumbnail_url": "https://i.ytimg.com/vi/wTbrW044Tp0/hqdefault.jpg"
         },
         {
             "video_id": "9dKAYsbonN4",
@@ -322,35 +340,17 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "19:38",
-            "view_count": "145772",
+            "view_count": "150084",
             "thumbnail_url": "https://i.ytimg.com/vi/9dKAYsbonN4/hqdefault.jpg"
         },
         {
-            "video_id": "Q6slf0GBvgQ",
-            "title": "Roommates",
-            "channel_name": "Hilary Duff - Topic",
+            "video_id": "m5JAnsvvqTk",
+            "title": "Sunday Morning",
+            "channel_name": "ILLIT - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "5359",
-            "thumbnail_url": "https://i.ytimg.com/vi/Q6slf0GBvgQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "Rv3CA1qYgSo",
-            "title": "\"공기가 다르다\" 프로들만 만나는 챌큐의 저라뎃",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "59:12",
-            "view_count": "67212",
-            "thumbnail_url": "https://i.ytimg.com/vi/Rv3CA1qYgSo/hqdefault.jpg"
-        },
-        {
-            "video_id": "CG_nqZTo784",
-            "title": "100",
-            "channel_name": "Ella Mai - Topic",
-            "category": "Music",
-            "duration": "3:55",
-            "view_count": "128601",
-            "thumbnail_url": "https://i.ytimg.com/vi/CG_nqZTo784/hqdefault.jpg"
+            "view_count": "345750",
+            "thumbnail_url": "https://i.ytimg.com/vi/m5JAnsvvqTk/hqdefault.jpg"
         },
         {
             "video_id": "U4nJckEyi3A",
@@ -358,7 +358,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "27:17",
-            "view_count": "67536",
+            "view_count": "69830",
             "thumbnail_url": "https://i.ytimg.com/vi/U4nJckEyi3A/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "알아서할래요 - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "13557",
+            "view_count": "15452",
             "thumbnail_url": "https://i.ytimg.com/vi/cU3equsnMmU/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "20:27",
-            "view_count": "91820",
+            "view_count": "95726",
             "thumbnail_url": "https://i.ytimg.com/vi/evLCCdDt0AA/hqdefault.jpg"
         }
     ]
