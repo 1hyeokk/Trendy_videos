@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-18 15:35:34",
+    "scraped_time": "2026-01-18 16:22:31",
     "videos": [
         {
             "video_id": "Q3Fn0B-fHgE",
@@ -7,7 +7,7 @@
             "channel_name": "ENHYPEN - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "1054930",
+            "view_count": "1064101",
             "thumbnail_url": "https://i.ytimg.com/vi/Q3Fn0B-fHgE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "1:14",
-            "view_count": "357166",
+            "view_count": "357472",
             "thumbnail_url": "https://i.ytimg.com/vi/Wkg430JD9Yo/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "25:05",
-            "view_count": "457364",
+            "view_count": "475376",
             "thumbnail_url": "https://i.ytimg.com/vi/87bLhKwPpYo/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "LIGHTSUM 라잇썸 (Official YouTube Channel)",
             "category": "Entertainment",
             "duration": "3:56",
-            "view_count": "433192",
+            "view_count": "435113",
             "thumbnail_url": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg"
         },
         {
@@ -43,26 +43,8 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:05:49",
-            "view_count": "450974",
+            "view_count": "456283",
             "thumbnail_url": "https://i.ytimg.com/vi/GcLrQoUjV2I/hqdefault.jpg"
-        },
-        {
-            "video_id": "LVw93DLIE78",
-            "title": "n.SSign(엔싸인) - 'Funky like me (Feat. PEAK & PITCH)' MV",
-            "channel_name": "nSSign",
-            "category": "People & Blogs",
-            "duration": "3:40",
-            "view_count": "428342",
-            "thumbnail_url": "https://i.ytimg.com/vi/LVw93DLIE78/hqdefault.jpg"
-        },
-        {
-            "video_id": "6g474rOs6uA",
-            "title": "1분마다 뒤바뀌는 시청자 100명 속에 잠입하기",
-            "channel_name": "코마",
-            "category": "Gaming",
-            "duration": "23:38",
-            "view_count": "499887",
-            "thumbnail_url": "https://i.ytimg.com/vi/6g474rOs6uA/hqdefault.jpg"
         },
         {
             "video_id": "lpHyoTXgCRk",
@@ -70,8 +52,26 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "0:27",
-            "view_count": "268041",
+            "view_count": "276429",
             "thumbnail_url": "https://i.ytimg.com/vi/lpHyoTXgCRk/hqdefault.jpg"
+        },
+        {
+            "video_id": "6g474rOs6uA",
+            "title": "1분마다 뒤바뀌는 시청자 100명 속에 잠입하기",
+            "channel_name": "코마",
+            "category": "Gaming",
+            "duration": "23:38",
+            "view_count": "507640",
+            "thumbnail_url": "https://i.ytimg.com/vi/6g474rOs6uA/hqdefault.jpg"
+        },
+        {
+            "video_id": "LVw93DLIE78",
+            "title": "n.SSign(엔싸인) - 'Funky like me (Feat. PEAK & PITCH)' MV",
+            "channel_name": "nSSign",
+            "category": "People & Blogs",
+            "duration": "3:40",
+            "view_count": "430523",
+            "thumbnail_url": "https://i.ytimg.com/vi/LVw93DLIE78/hqdefault.jpg"
         },
         {
             "video_id": "59GFflBEkuY",
@@ -79,44 +79,8 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "19:39",
-            "view_count": "301633",
+            "view_count": "308065",
             "thumbnail_url": "https://i.ytimg.com/vi/59GFflBEkuY/hqdefault.jpg"
-        },
-        {
-            "video_id": "h0djuhl97Kw",
-            "title": "Mili - SAIKAI [ Limbus Company ]",
-            "channel_name": "Mili",
-            "category": "Music",
-            "duration": "5:24",
-            "view_count": "783071",
-            "thumbnail_url": "https://i.ytimg.com/vi/h0djuhl97Kw/hqdefault.jpg"
-        },
-        {
-            "video_id": "kPAWTPuG-OA",
-            "title": "상혁이 운동 많이 된다 | T1 vs HLE 게임 2 하이라이트 | 2026 LCK CUP",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "11:02",
-            "view_count": "215635",
-            "thumbnail_url": "https://i.ytimg.com/vi/kPAWTPuG-OA/hqdefault.jpg"
-        },
-        {
-            "video_id": "97qr0BOdHkc",
-            "title": "Yin and Yang",
-            "channel_name": "ZICO - Topic",
-            "category": "Music",
-            "duration": "2:07",
-            "view_count": "286123",
-            "thumbnail_url": "https://i.ytimg.com/vi/97qr0BOdHkc/hqdefault.jpg"
-        },
-        {
-            "video_id": "EVaxZZxCfH0",
-            "title": "원 밖으로 못 나가는 마인크래프트 100일 생존기",
-            "channel_name": "프뚜",
-            "category": "Gaming",
-            "duration": "29:15",
-            "view_count": "278281",
-            "thumbnail_url": "https://i.ytimg.com/vi/EVaxZZxCfH0/hqdefault.jpg"
         },
         {
             "video_id": "W2DExL93yvQ",
@@ -124,8 +88,44 @@
             "channel_name": "Kim Minseok (MeloMance) - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "84112",
+            "view_count": "87386",
             "thumbnail_url": "https://i.ytimg.com/vi/W2DExL93yvQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "kPAWTPuG-OA",
+            "title": "상혁이 운동 많이 된다 | T1 vs HLE 게임 2 하이라이트 | 2026 LCK CUP",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "11:02",
+            "view_count": "222418",
+            "thumbnail_url": "https://i.ytimg.com/vi/kPAWTPuG-OA/hqdefault.jpg"
+        },
+        {
+            "video_id": "h0djuhl97Kw",
+            "title": "Mili - SAIKAI [ Limbus Company ]",
+            "channel_name": "Mili",
+            "category": "Music",
+            "duration": "5:24",
+            "view_count": "792631",
+            "thumbnail_url": "https://i.ytimg.com/vi/h0djuhl97Kw/hqdefault.jpg"
+        },
+        {
+            "video_id": "EVaxZZxCfH0",
+            "title": "원 밖으로 못 나가는 마인크래프트 100일 생존기",
+            "channel_name": "프뚜",
+            "category": "Gaming",
+            "duration": "29:15",
+            "view_count": "284824",
+            "thumbnail_url": "https://i.ytimg.com/vi/EVaxZZxCfH0/hqdefault.jpg"
+        },
+        {
+            "video_id": "97qr0BOdHkc",
+            "title": "Yin and Yang",
+            "channel_name": "ZICO - Topic",
+            "category": "Music",
+            "duration": "2:07",
+            "view_count": "292209",
+            "thumbnail_url": "https://i.ytimg.com/vi/97qr0BOdHkc/hqdefault.jpg"
         },
         {
             "video_id": "hIHOgUaSdB4",
@@ -133,7 +133,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "37:39",
-            "view_count": "236517",
+            "view_count": "241061",
             "thumbnail_url": "https://i.ytimg.com/vi/hIHOgUaSdB4/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "13662638",
+            "view_count": "13709233",
             "thumbnail_url": "https://i.ytimg.com/vi/R6e4tBWxIxE/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "23:01",
-            "view_count": "434046",
+            "view_count": "436982",
             "thumbnail_url": "https://i.ytimg.com/vi/grTadk3Z0O8/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "off the menu - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "33213",
+            "view_count": "34198",
             "thumbnail_url": "https://i.ytimg.com/vi/rkFa3WRyck8/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "Sylex",
             "category": "Entertainment",
             "duration": "0:12",
-            "view_count": "3184484",
+            "view_count": "3184825",
             "thumbnail_url": "https://i.ytimg.com/vi/XRgOPWisuog/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "Wonstein - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "47744",
+            "view_count": "49639",
             "thumbnail_url": "https://i.ytimg.com/vi/r0ArFI0CXr8/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:16",
-            "view_count": "161935",
+            "view_count": "166345",
             "thumbnail_url": "https://i.ytimg.com/vi/wTVzHRbgBSs/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "ChRocktikal - Topic",
             "category": "Music",
             "duration": "4:28",
-            "view_count": "26728",
+            "view_count": "27705",
             "thumbnail_url": "https://i.ytimg.com/vi/s2pKIEXyXE4/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "Bang",
             "category": "Gaming",
             "duration": "33:52",
-            "view_count": "237803",
+            "view_count": "238995",
             "thumbnail_url": "https://i.ytimg.com/vi/NfKTDRDQdno/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "5:00",
-            "view_count": "714802",
+            "view_count": "723126",
             "thumbnail_url": "https://i.ytimg.com/vi/UGafYnmd7FE/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "프로관전러 P.S",
             "category": "Gaming",
             "duration": "26:32",
-            "view_count": "148733",
+            "view_count": "155157",
             "thumbnail_url": "https://i.ytimg.com/vi/qR2KIdj1VS8/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "4BOUT - Topic",
             "category": "Music",
             "duration": "4:34",
-            "view_count": "59919",
+            "view_count": "61213",
             "thumbnail_url": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "19:47",
-            "view_count": "129945",
+            "view_count": "132573",
             "thumbnail_url": "https://i.ytimg.com/vi/I7nAsYkEb3E/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "WENDY - Topic",
             "category": "Music",
             "duration": "4:35",
-            "view_count": "59840",
+            "view_count": "61891",
             "thumbnail_url": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "14:49",
-            "view_count": "137354",
+            "view_count": "139571",
             "thumbnail_url": "https://i.ytimg.com/vi/zNu2ucA0t_8/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "포레스텔라 Forestella  ",
             "category": "Entertainment",
             "duration": "4:29",
-            "view_count": "29701",
+            "view_count": "30276",
             "thumbnail_url": "https://i.ytimg.com/vi/HUNkE8Sopwo/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "53:13",
-            "view_count": "107537",
+            "view_count": "109508",
             "thumbnail_url": "https://i.ytimg.com/vi/AO_wWkdDoAw/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "King Gnu official YouTube channel",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "2475581",
+            "view_count": "2505969",
             "thumbnail_url": "https://i.ytimg.com/vi/zz2a9Q2Wru0/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "44:45",
-            "view_count": "183969",
+            "view_count": "185739",
             "thumbnail_url": "https://i.ytimg.com/vi/xz8kuj9unO4/hqdefault.jpg"
         },
         {
@@ -304,17 +304,17 @@
             "channel_name": "A$AP Rocky - Topic",
             "category": "Music",
             "duration": "5:47",
-            "view_count": "504945",
+            "view_count": "508922",
             "thumbnail_url": "https://i.ytimg.com/vi/iCvTrCngwQE/hqdefault.jpg"
         },
         {
-            "video_id": "BkBzXF_eiio",
-            "title": "숲속에서 다들 ⛺캠핑 할 때 저는 🏨호텔을 만들었습니다 (로블록스)",
-            "channel_name": "하네 HANE - 로블록스 게임채널",
+            "video_id": "x-xRimE-X7g",
+            "title": "역대급 확률 터진 축캐 팔라딘",
+            "channel_name": "레고77",
             "category": "Gaming",
-            "duration": "20:25",
-            "view_count": "147235",
-            "thumbnail_url": "https://i.ytimg.com/vi/BkBzXF_eiio/hqdefault.jpg"
+            "duration": "18:25",
+            "view_count": "66036",
+            "thumbnail_url": "https://i.ytimg.com/vi/x-xRimE-X7g/hqdefault.jpg"
         },
         {
             "video_id": "xzJePMCFbAo",
@@ -322,17 +322,17 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "113698",
+            "view_count": "113996",
             "thumbnail_url": "https://i.ytimg.com/vi/xzJePMCFbAo/hqdefault.jpg"
         },
         {
-            "video_id": "gMgACYJdasA",
-            "title": "ㄴ... 내 딸 아니야...!",
-            "channel_name": "강 지",
+            "video_id": "BkBzXF_eiio",
+            "title": "숲속에서 다들 ⛺캠핑 할 때 저는 🏨호텔을 만들었습니다 (로블록스)",
+            "channel_name": "하네 HANE - 로블록스 게임채널",
             "category": "Gaming",
-            "duration": "14:44",
-            "view_count": "232579",
-            "thumbnail_url": "https://i.ytimg.com/vi/gMgACYJdasA/hqdefault.jpg"
+            "duration": "20:25",
+            "view_count": "150315",
+            "thumbnail_url": "https://i.ytimg.com/vi/BkBzXF_eiio/hqdefault.jpg"
         },
         {
             "video_id": "32eV1hb1mOw",
@@ -340,7 +340,7 @@
             "channel_name": "TOIL - Topic",
             "category": "Music",
             "duration": "2:28",
-            "view_count": "123814",
+            "view_count": "124745",
             "thumbnail_url": "https://i.ytimg.com/vi/32eV1hb1mOw/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "23:27",
-            "view_count": "146309",
+            "view_count": "150701",
             "thumbnail_url": "https://i.ytimg.com/vi/yWfdX5BDa70/hqdefault.jpg"
         },
         {
@@ -358,26 +358,26 @@
             "channel_name": "Madison Beer - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "189804",
+            "view_count": "190873",
             "thumbnail_url": "https://i.ytimg.com/vi/g5mN7SCtLSw/hqdefault.jpg"
         },
         {
-            "video_id": "BNTTK1cUqNA",
-            "title": "디엠 2000통으로 추천받은 \"아이스크림 게임\" 이게 뭔데욬ㅋㅋㅋㅋ??",
-            "channel_name": "혜안",
+            "video_id": "gMgACYJdasA",
+            "title": "ㄴ... 내 딸 아니야...!",
+            "channel_name": "강 지",
             "category": "Gaming",
-            "duration": "14:19",
-            "view_count": "178489",
-            "thumbnail_url": "https://i.ytimg.com/vi/BNTTK1cUqNA/hqdefault.jpg"
+            "duration": "14:44",
+            "view_count": "235277",
+            "thumbnail_url": "https://i.ytimg.com/vi/gMgACYJdasA/hqdefault.jpg"
         },
         {
-            "video_id": "cU3equsnMmU",
-            "title": "Blue Valentine (Blues Version)",
-            "channel_name": "알아서할래요 - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "72942",
-            "thumbnail_url": "https://i.ytimg.com/vi/cU3equsnMmU/hqdefault.jpg"
+            "video_id": "NpYlHI6hZTY",
+            "title": "**한국 트롯 명곡 모음 │ 레전드 트롯 컬렉션 ||  이난영 · 이민숙 · 홍진영**",
+            "channel_name": "HarmonyX",
+            "category": "People & Blogs",
+            "duration": "1:03:04",
+            "view_count": "8088",
+            "thumbnail_url": "https://i.ytimg.com/vi/NpYlHI6hZTY/hqdefault.jpg"
         }
     ]
 }
