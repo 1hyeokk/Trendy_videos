@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-18 13:06:51",
+    "scraped_time": "2026-01-18 14:26:21",
     "videos": [
         {
             "video_id": "Q3Fn0B-fHgE",
@@ -7,7 +7,7 @@
             "channel_name": "ENHYPEN - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "1025443",
+            "view_count": "1039780",
             "thumbnail_url": "https://i.ytimg.com/vi/Q3Fn0B-fHgE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "1:14",
-            "view_count": "356305",
+            "view_count": "356729",
             "thumbnail_url": "https://i.ytimg.com/vi/Wkg430JD9Yo/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:05:49",
-            "view_count": "433705",
+            "view_count": "442486",
             "thumbnail_url": "https://i.ytimg.com/vi/GcLrQoUjV2I/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "LIGHTSUM 라잇썸 (Official YouTube Channel)",
             "category": "Entertainment",
             "duration": "3:56",
-            "view_count": "425182",
+            "view_count": "429969",
             "thumbnail_url": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "25:05",
-            "view_count": "385209",
+            "view_count": "423286",
             "thumbnail_url": "https://i.ytimg.com/vi/87bLhKwPpYo/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "nSSign",
             "category": "People & Blogs",
             "duration": "3:40",
-            "view_count": "419274",
+            "view_count": "424364",
             "thumbnail_url": "https://i.ytimg.com/vi/LVw93DLIE78/hqdefault.jpg"
         },
         {
@@ -61,44 +61,8 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "23:38",
-            "view_count": "471510",
+            "view_count": "486162",
             "thumbnail_url": "https://i.ytimg.com/vi/6g474rOs6uA/hqdefault.jpg"
-        },
-        {
-            "video_id": "h0djuhl97Kw",
-            "title": "Mili - SAIKAI [ Limbus Company ]",
-            "channel_name": "Mili",
-            "category": "Music",
-            "duration": "5:24",
-            "view_count": "752532",
-            "thumbnail_url": "https://i.ytimg.com/vi/h0djuhl97Kw/hqdefault.jpg"
-        },
-        {
-            "video_id": "59GFflBEkuY",
-            "title": "돌아온 말벌 베인",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "19:39",
-            "view_count": "278760",
-            "thumbnail_url": "https://i.ytimg.com/vi/59GFflBEkuY/hqdefault.jpg"
-        },
-        {
-            "video_id": "97qr0BOdHkc",
-            "title": "Yin and Yang",
-            "channel_name": "ZICO - Topic",
-            "category": "Music",
-            "duration": "2:07",
-            "view_count": "266348",
-            "thumbnail_url": "https://i.ytimg.com/vi/97qr0BOdHkc/hqdefault.jpg"
-        },
-        {
-            "video_id": "kPAWTPuG-OA",
-            "title": "상혁이 운동 많이 된다 | T1 vs HLE 게임 2 하이라이트 | 2026 LCK CUP",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "11:02",
-            "view_count": "188703",
-            "thumbnail_url": "https://i.ytimg.com/vi/kPAWTPuG-OA/hqdefault.jpg"
         },
         {
             "video_id": "lpHyoTXgCRk",
@@ -106,8 +70,44 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "0:27",
-            "view_count": "233532",
+            "view_count": "252358",
             "thumbnail_url": "https://i.ytimg.com/vi/lpHyoTXgCRk/hqdefault.jpg"
+        },
+        {
+            "video_id": "59GFflBEkuY",
+            "title": "돌아온 말벌 베인",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "19:39",
+            "view_count": "290440",
+            "thumbnail_url": "https://i.ytimg.com/vi/59GFflBEkuY/hqdefault.jpg"
+        },
+        {
+            "video_id": "h0djuhl97Kw",
+            "title": "Mili - SAIKAI [ Limbus Company ]",
+            "channel_name": "Mili",
+            "category": "Music",
+            "duration": "5:24",
+            "view_count": "768123",
+            "thumbnail_url": "https://i.ytimg.com/vi/h0djuhl97Kw/hqdefault.jpg"
+        },
+        {
+            "video_id": "kPAWTPuG-OA",
+            "title": "상혁이 운동 많이 된다 | T1 vs HLE 게임 2 하이라이트 | 2026 LCK CUP",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "11:02",
+            "view_count": "202981",
+            "thumbnail_url": "https://i.ytimg.com/vi/kPAWTPuG-OA/hqdefault.jpg"
+        },
+        {
+            "video_id": "97qr0BOdHkc",
+            "title": "Yin and Yang",
+            "channel_name": "ZICO - Topic",
+            "category": "Music",
+            "duration": "2:07",
+            "view_count": "275523",
+            "thumbnail_url": "https://i.ytimg.com/vi/97qr0BOdHkc/hqdefault.jpg"
         },
         {
             "video_id": "EVaxZZxCfH0",
@@ -115,7 +115,7 @@
             "channel_name": "프뚜",
             "category": "Gaming",
             "duration": "29:15",
-            "view_count": "254916",
+            "view_count": "266818",
             "thumbnail_url": "https://i.ytimg.com/vi/EVaxZZxCfH0/hqdefault.jpg"
         },
         {
@@ -124,17 +124,17 @@
             "channel_name": "Kim Minseok (MeloMance) - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "70664",
+            "view_count": "78366",
             "thumbnail_url": "https://i.ytimg.com/vi/W2DExL93yvQ/hqdefault.jpg"
         },
         {
-            "video_id": "XRgOPWisuog",
-            "title": "EXTREME SHARK GAME!!!",
-            "channel_name": "Sylex",
-            "category": "Entertainment",
-            "duration": "0:12",
-            "view_count": "3182957",
-            "thumbnail_url": "https://i.ytimg.com/vi/XRgOPWisuog/hqdefault.jpg"
+            "video_id": "hIHOgUaSdB4",
+            "title": "폐급맨 진짜 해고 위기.. [마크 하드코어 EP.02]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "37:39",
+            "view_count": "228805",
+            "thumbnail_url": "https://i.ytimg.com/vi/hIHOgUaSdB4/hqdefault.jpg"
         },
         {
             "video_id": "R6e4tBWxIxE",
@@ -142,7 +142,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "13504792",
+            "view_count": "13586650",
             "thumbnail_url": "https://i.ytimg.com/vi/R6e4tBWxIxE/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "23:01",
-            "view_count": "424408",
+            "view_count": "429202",
             "thumbnail_url": "https://i.ytimg.com/vi/grTadk3Z0O8/hqdefault.jpg"
         },
         {
@@ -160,35 +160,17 @@
             "channel_name": "off the menu - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "28348",
+            "view_count": "31349",
             "thumbnail_url": "https://i.ytimg.com/vi/rkFa3WRyck8/hqdefault.jpg"
         },
         {
-            "video_id": "hIHOgUaSdB4",
-            "title": "폐급맨 진짜 해고 위기.. [마크 하드코어 EP.02]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "37:39",
-            "view_count": "222166",
-            "thumbnail_url": "https://i.ytimg.com/vi/hIHOgUaSdB4/hqdefault.jpg"
-        },
-        {
-            "video_id": "UGafYnmd7FE",
-            "title": "NMIXX - O.O / THE FIRST TAKE",
-            "channel_name": "THE FIRST TAKE",
-            "category": "Music",
-            "duration": "5:00",
-            "view_count": "687202",
-            "thumbnail_url": "https://i.ytimg.com/vi/UGafYnmd7FE/hqdefault.jpg"
-        },
-        {
-            "video_id": "wTVzHRbgBSs",
-            "title": "도전하는 사람만이 한계를 뛰어넘는다",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "13:16",
-            "view_count": "146757",
-            "thumbnail_url": "https://i.ytimg.com/vi/wTVzHRbgBSs/hqdefault.jpg"
+            "video_id": "XRgOPWisuog",
+            "title": "EXTREME SHARK GAME!!!",
+            "channel_name": "Sylex",
+            "category": "Entertainment",
+            "duration": "0:12",
+            "view_count": "3183582",
+            "thumbnail_url": "https://i.ytimg.com/vi/XRgOPWisuog/hqdefault.jpg"
         },
         {
             "video_id": "r0ArFI0CXr8",
@@ -196,8 +178,26 @@
             "channel_name": "Wonstein - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "40569",
+            "view_count": "44675",
             "thumbnail_url": "https://i.ytimg.com/vi/r0ArFI0CXr8/hqdefault.jpg"
+        },
+        {
+            "video_id": "wTVzHRbgBSs",
+            "title": "도전하는 사람만이 한계를 뛰어넘는다",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "13:16",
+            "view_count": "155025",
+            "thumbnail_url": "https://i.ytimg.com/vi/wTVzHRbgBSs/hqdefault.jpg"
+        },
+        {
+            "video_id": "UGafYnmd7FE",
+            "title": "NMIXX - O.O / THE FIRST TAKE",
+            "channel_name": "THE FIRST TAKE",
+            "category": "Music",
+            "duration": "5:00",
+            "view_count": "701495",
+            "thumbnail_url": "https://i.ytimg.com/vi/UGafYnmd7FE/hqdefault.jpg"
         },
         {
             "video_id": "NfKTDRDQdno",
@@ -205,7 +205,7 @@
             "channel_name": "Bang",
             "category": "Gaming",
             "duration": "33:52",
-            "view_count": "234945",
+            "view_count": "236222",
             "thumbnail_url": "https://i.ytimg.com/vi/NfKTDRDQdno/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "ChRocktikal - Topic",
             "category": "Music",
             "duration": "4:28",
-            "view_count": "22763",
+            "view_count": "24960",
             "thumbnail_url": "https://i.ytimg.com/vi/s2pKIEXyXE4/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "14:49",
-            "view_count": "129479",
+            "view_count": "133605",
             "thumbnail_url": "https://i.ytimg.com/vi/zNu2ucA0t_8/hqdefault.jpg"
         },
         {
@@ -232,62 +232,8 @@
             "channel_name": "4BOUT - Topic",
             "category": "Music",
             "duration": "4:34",
-            "view_count": "56189",
+            "view_count": "58012",
             "thumbnail_url": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg"
-        },
-        {
-            "video_id": "I7nAsYkEb3E",
-            "title": "시즌 16 챌린저 달성!!!😭 전세계 사이온 1등의 극한을 보여드리겠습니다 😎",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "19:47",
-            "view_count": "119826",
-            "thumbnail_url": "https://i.ytimg.com/vi/I7nAsYkEb3E/hqdefault.jpg"
-        },
-        {
-            "video_id": "HUNkE8Sopwo",
-            "title": "포레스텔라(Forestella) ’Nella Notte' Lyric Video",
-            "channel_name": "포레스텔라 Forestella  ",
-            "category": "Entertainment",
-            "duration": "4:29",
-            "view_count": "27633",
-            "thumbnail_url": "https://i.ytimg.com/vi/HUNkE8Sopwo/hqdefault.jpg"
-        },
-        {
-            "video_id": "xz8kuj9unO4",
-            "title": "T1 2026년 매콤하게 시작합니다 | T1 vs HLE | 2026 LCK CUP",
-            "channel_name": "Untara",
-            "category": "Gaming",
-            "duration": "44:45",
-            "view_count": "178403",
-            "thumbnail_url": "https://i.ytimg.com/vi/xz8kuj9unO4/hqdefault.jpg"
-        },
-        {
-            "video_id": "zz2a9Q2Wru0",
-            "title": "King Gnu - AIZO",
-            "channel_name": "King Gnu official YouTube channel",
-            "category": "Music",
-            "duration": "3:58",
-            "view_count": "2349536",
-            "thumbnail_url": "https://i.ytimg.com/vi/zz2a9Q2Wru0/hqdefault.jpg"
-        },
-        {
-            "video_id": "AO_wWkdDoAw",
-            "title": "어제 게임 지고 화나서 내일 8시에 다시 붙자고 통보한 상대.. 다음 날 또 만났습니다ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "53:13",
-            "view_count": "99243",
-            "thumbnail_url": "https://i.ytimg.com/vi/AO_wWkdDoAw/hqdefault.jpg"
-        },
-        {
-            "video_id": "82s8PRgYSRU",
-            "title": "Daydream",
-            "channel_name": "WENDY - Topic",
-            "category": "Music",
-            "duration": "4:35",
-            "view_count": "53042",
-            "thumbnail_url": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg"
         },
         {
             "video_id": "qR2KIdj1VS8",
@@ -295,8 +241,62 @@
             "channel_name": "프로관전러 P.S",
             "category": "Gaming",
             "duration": "26:32",
-            "view_count": "120320",
+            "view_count": "135399",
             "thumbnail_url": "https://i.ytimg.com/vi/qR2KIdj1VS8/hqdefault.jpg"
+        },
+        {
+            "video_id": "HUNkE8Sopwo",
+            "title": "포레스텔라(Forestella) ’Nella Notte' Lyric Video",
+            "channel_name": "포레스텔라 Forestella  ",
+            "category": "Entertainment",
+            "duration": "4:29",
+            "view_count": "28666",
+            "thumbnail_url": "https://i.ytimg.com/vi/HUNkE8Sopwo/hqdefault.jpg"
+        },
+        {
+            "video_id": "I7nAsYkEb3E",
+            "title": "시즌 16 챌린저 달성!!!😭 전세계 사이온 1등의 극한을 보여드리겠습니다 😎",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "19:47",
+            "view_count": "125362",
+            "thumbnail_url": "https://i.ytimg.com/vi/I7nAsYkEb3E/hqdefault.jpg"
+        },
+        {
+            "video_id": "82s8PRgYSRU",
+            "title": "Daydream",
+            "channel_name": "WENDY - Topic",
+            "category": "Music",
+            "duration": "4:35",
+            "view_count": "56397",
+            "thumbnail_url": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg"
+        },
+        {
+            "video_id": "AO_wWkdDoAw",
+            "title": "어제 게임 지고 화나서 내일 8시에 다시 붙자고 통보한 상대.. 다음 날 또 만났습니다ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "53:13",
+            "view_count": "104022",
+            "thumbnail_url": "https://i.ytimg.com/vi/AO_wWkdDoAw/hqdefault.jpg"
+        },
+        {
+            "video_id": "zz2a9Q2Wru0",
+            "title": "King Gnu - AIZO",
+            "channel_name": "King Gnu official YouTube channel",
+            "category": "Music",
+            "duration": "3:58",
+            "view_count": "2419134",
+            "thumbnail_url": "https://i.ytimg.com/vi/zz2a9Q2Wru0/hqdefault.jpg"
+        },
+        {
+            "video_id": "xz8kuj9unO4",
+            "title": "T1 2026년 매콤하게 시작합니다 | T1 vs HLE | 2026 LCK CUP",
+            "channel_name": "Untara",
+            "category": "Gaming",
+            "duration": "44:45",
+            "view_count": "181198",
+            "thumbnail_url": "https://i.ytimg.com/vi/xz8kuj9unO4/hqdefault.jpg"
         },
         {
             "video_id": "iCvTrCngwQE",
@@ -304,7 +304,7 @@
             "channel_name": "A$AP Rocky - Topic",
             "category": "Music",
             "duration": "5:47",
-            "view_count": "491185",
+            "view_count": "497903",
             "thumbnail_url": "https://i.ytimg.com/vi/iCvTrCngwQE/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "하네 HANE - 로블록스 게임채널",
             "category": "Gaming",
             "duration": "20:25",
-            "view_count": "135064",
+            "view_count": "141727",
             "thumbnail_url": "https://i.ytimg.com/vi/BkBzXF_eiio/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "111629",
+            "view_count": "112618",
             "thumbnail_url": "https://i.ytimg.com/vi/xzJePMCFbAo/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "14:44",
-            "view_count": "221463",
+            "view_count": "227395",
             "thumbnail_url": "https://i.ytimg.com/vi/gMgACYJdasA/hqdefault.jpg"
         },
         {
@@ -340,17 +340,17 @@
             "channel_name": "TOIL - Topic",
             "category": "Music",
             "duration": "2:28",
-            "view_count": "120916",
+            "view_count": "122123",
             "thumbnail_url": "https://i.ytimg.com/vi/32eV1hb1mOw/hqdefault.jpg"
         },
         {
-            "video_id": "H0g6G2oGowo",
-            "title": "[롤] 감스트 이블린 정글 배치고사 놀라지마세요..LOL",
-            "channel_name": "감스트GAMST",
+            "video_id": "yWfdX5BDa70",
+            "title": "어 군림보 기절",
+            "channel_name": "주키니TV",
             "category": "Gaming",
-            "duration": "18:35",
-            "view_count": "367639",
-            "thumbnail_url": "https://i.ytimg.com/vi/H0g6G2oGowo/hqdefault.jpg"
+            "duration": "23:27",
+            "view_count": "138033",
+            "thumbnail_url": "https://i.ytimg.com/vi/yWfdX5BDa70/hqdefault.jpg"
         },
         {
             "video_id": "g5mN7SCtLSw",
@@ -358,17 +358,17 @@
             "channel_name": "Madison Beer - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "185584",
+            "view_count": "187754",
             "thumbnail_url": "https://i.ytimg.com/vi/g5mN7SCtLSw/hqdefault.jpg"
         },
         {
-            "video_id": "quRr48oW54M",
-            "title": "마크에이지 리턴즈3 불가피한 선택의 순간 7회차 4부 (완결) | 악어 마인크래프트 M.C.Age Returns 3",
-            "channel_name": "악어 유튜브",
+            "video_id": "H0g6G2oGowo",
+            "title": "[롤] 감스트 이블린 정글 배치고사 놀라지마세요..LOL",
+            "channel_name": "감스트GAMST",
             "category": "Gaming",
-            "duration": "1:00:15",
-            "view_count": "37818",
-            "thumbnail_url": "https://i.ytimg.com/vi/quRr48oW54M/hqdefault.jpg"
+            "duration": "18:35",
+            "view_count": "372479",
+            "thumbnail_url": "https://i.ytimg.com/vi/H0g6G2oGowo/hqdefault.jpg"
         },
         {
             "video_id": "cU3equsnMmU",
@@ -376,7 +376,7 @@
             "channel_name": "알아서할래요 - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "71215",
+            "view_count": "72087",
             "thumbnail_url": "https://i.ytimg.com/vi/cU3equsnMmU/hqdefault.jpg"
         }
     ]
