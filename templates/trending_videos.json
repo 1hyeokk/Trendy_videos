@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-19 16:31:32",
+    "scraped_time": "2026-01-19 17:37:12",
     "videos": [
         {
             "video_id": "W2DExL93yvQ",
@@ -7,7 +7,7 @@
             "channel_name": "Kim Minseok (MeloMance) - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "296497",
+            "view_count": "310557",
             "thumbnail_url": "https://i.ytimg.com/vi/W2DExL93yvQ/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "19:07",
-            "view_count": "401019",
+            "view_count": "409575",
             "thumbnail_url": "https://i.ytimg.com/vi/gbSUtDqBZF4/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "off the menu - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "99914",
+            "view_count": "104183",
             "thumbnail_url": "https://i.ytimg.com/vi/rkFa3WRyck8/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "25:05",
-            "view_count": "679397",
+            "view_count": "684047",
             "thumbnail_url": "https://i.ytimg.com/vi/87bLhKwPpYo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Wonstein - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "168061",
+            "view_count": "176603",
             "thumbnail_url": "https://i.ytimg.com/vi/r0ArFI0CXr8/hqdefault.jpg"
         },
         {
@@ -52,8 +52,26 @@
             "channel_name": "LCK Global",
             "category": "Gaming",
             "duration": "5:33:15",
-            "view_count": "1146326",
+            "view_count": "1147935",
             "thumbnail_url": "https://i.ytimg.com/vi/p9aL-U8f9tU/hqdefault.jpg"
+        },
+        {
+            "video_id": "qeGbxMQ4NYg",
+            "title": "Round and Round",
+            "channel_name": "Jisokury - Topic",
+            "category": "Music",
+            "duration": "4:05",
+            "view_count": "57313",
+            "thumbnail_url": "https://i.ytimg.com/vi/qeGbxMQ4NYg/hqdefault.jpg"
+        },
+        {
+            "video_id": "RaXheSnPcTM",
+            "title": "드디어 업데이트 첫날! 너굴이가 미쳤나봐요",
+            "channel_name": "아오니 AONI",
+            "category": "Gaming",
+            "duration": "11:56",
+            "view_count": "276525",
+            "thumbnail_url": "https://i.ytimg.com/vi/RaXheSnPcTM/hqdefault.jpg"
         },
         {
             "video_id": "82s8PRgYSRU",
@@ -61,7 +79,7 @@
             "channel_name": "WENDY - Topic",
             "category": "Music",
             "duration": "4:35",
-            "view_count": "209301",
+            "view_count": "221057",
             "thumbnail_url": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg"
         },
         {
@@ -70,26 +88,8 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "23:38",
-            "view_count": "632663",
+            "view_count": "637800",
             "thumbnail_url": "https://i.ytimg.com/vi/6g474rOs6uA/hqdefault.jpg"
-        },
-        {
-            "video_id": "qeGbxMQ4NYg",
-            "title": "Round and Round",
-            "channel_name": "Jisokury - Topic",
-            "category": "Music",
-            "duration": "4:05",
-            "view_count": "54313",
-            "thumbnail_url": "https://i.ytimg.com/vi/qeGbxMQ4NYg/hqdefault.jpg"
-        },
-        {
-            "video_id": "GcLrQoUjV2I",
-            "title": "예술이다 예술│HLE vs T1│2026 LCK CUP│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "1:05:49",
-            "view_count": "512124",
-            "thumbnail_url": "https://i.ytimg.com/vi/GcLrQoUjV2I/hqdefault.jpg"
         },
         {
             "video_id": "Q3Fn0B-fHgE",
@@ -97,35 +97,17 @@
             "channel_name": "ENHYPEN - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "1369828",
+            "view_count": "1378495",
             "thumbnail_url": "https://i.ytimg.com/vi/Q3Fn0B-fHgE/hqdefault.jpg"
         },
         {
-            "video_id": "RaXheSnPcTM",
-            "title": "드디어 업데이트 첫날! 너굴이가 미쳤나봐요",
-            "channel_name": "아오니 AONI",
+            "video_id": "GcLrQoUjV2I",
+            "title": "예술이다 예술│HLE vs T1│2026 LCK CUP│울챔스 하이라이트",
+            "channel_name": "Wolf",
             "category": "Gaming",
-            "duration": "11:56",
-            "view_count": "270938",
-            "thumbnail_url": "https://i.ytimg.com/vi/RaXheSnPcTM/hqdefault.jpg"
-        },
-        {
-            "video_id": "KRAFmgTECWw",
-            "title": "LIGHTSUM(라잇썸) - '아름답고도 아프구나 (상아, 초원, 주현)' LIVE CLIP",
-            "channel_name": "LIGHTSUM 라잇썸 (Official YouTube Channel)",
-            "category": "Entertainment",
-            "duration": "3:56",
-            "view_count": "529984",
-            "thumbnail_url": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg"
-        },
-        {
-            "video_id": "59GFflBEkuY",
-            "title": "돌아온 말벌 베인",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "19:39",
-            "view_count": "389435",
-            "thumbnail_url": "https://i.ytimg.com/vi/59GFflBEkuY/hqdefault.jpg"
+            "duration": "1:05:49",
+            "view_count": "513768",
+            "thumbnail_url": "https://i.ytimg.com/vi/GcLrQoUjV2I/hqdefault.jpg"
         },
         {
             "video_id": "97qr0BOdHkc",
@@ -133,8 +115,26 @@
             "channel_name": "ZICO - Topic",
             "category": "Music",
             "duration": "2:07",
-            "view_count": "460618",
+            "view_count": "470326",
             "thumbnail_url": "https://i.ytimg.com/vi/97qr0BOdHkc/hqdefault.jpg"
+        },
+        {
+            "video_id": "59GFflBEkuY",
+            "title": "돌아온 말벌 베인",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "19:39",
+            "view_count": "391394",
+            "thumbnail_url": "https://i.ytimg.com/vi/59GFflBEkuY/hqdefault.jpg"
+        },
+        {
+            "video_id": "KRAFmgTECWw",
+            "title": "LIGHTSUM(라잇썸) - '아름답고도 아프구나 (상아, 초원, 주현)' LIVE CLIP",
+            "channel_name": "LIGHTSUM 라잇썸 (Official YouTube Channel)",
+            "category": "Entertainment",
+            "duration": "3:56",
+            "view_count": "532691",
+            "thumbnail_url": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg"
         },
         {
             "video_id": "_wlxOk3k1K0",
@@ -142,7 +142,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "22:27",
-            "view_count": "150119",
+            "view_count": "153490",
             "thumbnail_url": "https://i.ytimg.com/vi/_wlxOk3k1K0/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "nSSign",
             "category": "People & Blogs",
             "duration": "3:40",
-            "view_count": "505772",
+            "view_count": "508249",
             "thumbnail_url": "https://i.ytimg.com/vi/LVw93DLIE78/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "38:45",
-            "view_count": "202851",
+            "view_count": "205119",
             "thumbnail_url": "https://i.ytimg.com/vi/_io_OzPfQrA/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "Mili",
             "category": "Music",
             "duration": "5:24",
-            "view_count": "1017203",
+            "view_count": "1027163",
             "thumbnail_url": "https://i.ytimg.com/vi/h0djuhl97Kw/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "12:42",
-            "view_count": "333787",
+            "view_count": "336388",
             "thumbnail_url": "https://i.ytimg.com/vi/3IopTxF2Vcg/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "Green Area - Topic",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "20603",
+            "view_count": "22436",
             "thumbnail_url": "https://i.ytimg.com/vi/BpkNB0Kfkj8/hqdefault.jpg"
         },
         {
@@ -196,26 +196,8 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "28:43",
-            "view_count": "146510",
+            "view_count": "149023",
             "thumbnail_url": "https://i.ytimg.com/vi/jr5Vi-Gv9IA/hqdefault.jpg"
-        },
-        {
-            "video_id": "s2pKIEXyXE4",
-            "title": "Iris",
-            "channel_name": "ChRocktikal - Topic",
-            "category": "Music",
-            "duration": "4:28",
-            "view_count": "50189",
-            "thumbnail_url": "https://i.ytimg.com/vi/s2pKIEXyXE4/hqdefault.jpg"
-        },
-        {
-            "video_id": "YKO6NNsrLis",
-            "title": "아우솔의 비밀, 찬템, 유물보다 평균 등수가 높은 '기원자 상징 아우솔'",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "13:30",
-            "view_count": "170941",
-            "thumbnail_url": "https://i.ytimg.com/vi/YKO6NNsrLis/hqdefault.jpg"
         },
         {
             "video_id": "lQ8D320bfSM",
@@ -223,26 +205,26 @@
             "channel_name": "Sung Si-kyung - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "11074",
+            "view_count": "12825",
             "thumbnail_url": "https://i.ytimg.com/vi/lQ8D320bfSM/hqdefault.jpg"
         },
         {
-            "video_id": "EVaxZZxCfH0",
-            "title": "원 밖으로 못 나가는 마인크래프트 100일 생존기",
-            "channel_name": "프뚜",
+            "video_id": "YKO6NNsrLis",
+            "title": "아우솔의 비밀, 찬템, 유물보다 평균 등수가 높은 '기원자 상징 아우솔'",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "29:15",
-            "view_count": "382750",
-            "thumbnail_url": "https://i.ytimg.com/vi/EVaxZZxCfH0/hqdefault.jpg"
+            "duration": "13:30",
+            "view_count": "173271",
+            "thumbnail_url": "https://i.ytimg.com/vi/YKO6NNsrLis/hqdefault.jpg"
         },
         {
-            "video_id": "R6e4tBWxIxE",
-            "title": "ENHYPEN (엔하이픈) 'Knife' Official MV",
-            "channel_name": "HYBE LABELS",
+            "video_id": "s2pKIEXyXE4",
+            "title": "Iris",
+            "channel_name": "ChRocktikal - Topic",
             "category": "Music",
-            "duration": "2:44",
-            "view_count": "15176148",
-            "thumbnail_url": "https://i.ytimg.com/vi/R6e4tBWxIxE/hqdefault.jpg"
+            "duration": "4:28",
+            "view_count": "51485",
+            "thumbnail_url": "https://i.ytimg.com/vi/s2pKIEXyXE4/hqdefault.jpg"
         },
         {
             "video_id": "e3_U-1y0BAM",
@@ -250,17 +232,17 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "43:42",
-            "view_count": "280464",
+            "view_count": "282848",
             "thumbnail_url": "https://i.ytimg.com/vi/e3_U-1y0BAM/hqdefault.jpg"
         },
         {
-            "video_id": "W1kwyo11vD8",
-            "title": "In this City Without You",
-            "channel_name": "Ha Dong Qn - Topic",
+            "video_id": "R6e4tBWxIxE",
+            "title": "ENHYPEN (엔하이픈) 'Knife' Official MV",
+            "channel_name": "HYBE LABELS",
             "category": "Music",
-            "duration": "4:59",
-            "view_count": "16609",
-            "thumbnail_url": "https://i.ytimg.com/vi/W1kwyo11vD8/hqdefault.jpg"
+            "duration": "2:44",
+            "view_count": "15205174",
+            "thumbnail_url": "https://i.ytimg.com/vi/R6e4tBWxIxE/hqdefault.jpg"
         },
         {
             "video_id": "DOtBugHBHVw",
@@ -268,8 +250,26 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "48:36",
-            "view_count": "116770",
+            "view_count": "121091",
             "thumbnail_url": "https://i.ytimg.com/vi/DOtBugHBHVw/hqdefault.jpg"
+        },
+        {
+            "video_id": "W1kwyo11vD8",
+            "title": "In this City Without You",
+            "channel_name": "Ha Dong Qn - Topic",
+            "category": "Music",
+            "duration": "4:59",
+            "view_count": "17112",
+            "thumbnail_url": "https://i.ytimg.com/vi/W1kwyo11vD8/hqdefault.jpg"
+        },
+        {
+            "video_id": "EVaxZZxCfH0",
+            "title": "원 밖으로 못 나가는 마인크래프트 100일 생존기",
+            "channel_name": "프뚜",
+            "category": "Gaming",
+            "duration": "29:15",
+            "view_count": "386374",
+            "thumbnail_url": "https://i.ytimg.com/vi/EVaxZZxCfH0/hqdefault.jpg"
         },
         {
             "video_id": "UFe-zOIasaA",
@@ -277,7 +277,7 @@
             "channel_name": "STARGLOW - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "66237",
+            "view_count": "71388",
             "thumbnail_url": "https://i.ytimg.com/vi/UFe-zOIasaA/hqdefault.jpg"
         },
         {
@@ -286,26 +286,8 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:19",
-            "view_count": "138552",
+            "view_count": "141107",
             "thumbnail_url": "https://i.ytimg.com/vi/oNzQp8gqnTo/hqdefault.jpg"
-        },
-        {
-            "video_id": "UGafYnmd7FE",
-            "title": "NMIXX - O.O / THE FIRST TAKE",
-            "channel_name": "THE FIRST TAKE",
-            "category": "Music",
-            "duration": "5:00",
-            "view_count": "913774",
-            "thumbnail_url": "https://i.ytimg.com/vi/UGafYnmd7FE/hqdefault.jpg"
-        },
-        {
-            "video_id": "FxMgD63qZNg",
-            "title": "이과생들이 무조건 해봐야 하는 맵;;;;;;(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "11:30",
-            "view_count": "144428",
-            "thumbnail_url": "https://i.ytimg.com/vi/FxMgD63qZNg/hqdefault.jpg"
         },
         {
             "video_id": "9PILswZ9Yt4",
@@ -313,7 +295,7 @@
             "channel_name": "Yerin Baek",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "32071",
+            "view_count": "33421",
             "thumbnail_url": "https://i.ytimg.com/vi/9PILswZ9Yt4/hqdefault.jpg"
         },
         {
@@ -322,8 +304,26 @@
             "channel_name": "Bang",
             "category": "Gaming",
             "duration": "38:09",
-            "view_count": "100301",
+            "view_count": "102798",
             "thumbnail_url": "https://i.ytimg.com/vi/gaaFL5Ax_X0/hqdefault.jpg"
+        },
+        {
+            "video_id": "UGafYnmd7FE",
+            "title": "NMIXX - O.O / THE FIRST TAKE",
+            "channel_name": "THE FIRST TAKE",
+            "category": "Music",
+            "duration": "5:00",
+            "view_count": "919039",
+            "thumbnail_url": "https://i.ytimg.com/vi/UGafYnmd7FE/hqdefault.jpg"
+        },
+        {
+            "video_id": "FxMgD63qZNg",
+            "title": "이과생들이 무조건 해봐야 하는 맵;;;;;;(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "11:30",
+            "view_count": "147649",
+            "thumbnail_url": "https://i.ytimg.com/vi/FxMgD63qZNg/hqdefault.jpg"
         },
         {
             "video_id": "jEVnFdnXe1A",
@@ -331,7 +331,7 @@
             "channel_name": "SIYEON (Dreamcatcher) - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "34849",
+            "view_count": "36715",
             "thumbnail_url": "https://i.ytimg.com/vi/jEVnFdnXe1A/hqdefault.jpg"
         },
         {
@@ -340,17 +340,17 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "48:10",
-            "view_count": "185022",
+            "view_count": "188005",
             "thumbnail_url": "https://i.ytimg.com/vi/jqqCs0V_fu8/hqdefault.jpg"
         },
         {
-            "video_id": "jpJ1TQENa_4",
-            "title": "A Cicada Sings",
-            "channel_name": "4BOUT - Topic",
+            "video_id": "l9wDyRDJFRE",
+            "title": "Bittersweet",
+            "channel_name": "siso(시소) - Topic",
             "category": "Music",
-            "duration": "4:34",
-            "view_count": "92089",
-            "thumbnail_url": "https://i.ytimg.com/vi/jpJ1TQENa_4/hqdefault.jpg"
+            "duration": "3:12",
+            "view_count": "28442",
+            "thumbnail_url": "https://i.ytimg.com/vi/l9wDyRDJFRE/hqdefault.jpg"
         },
         {
             "video_id": "QJpYjhALzDg",
@@ -358,7 +358,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "37:00",
-            "view_count": "129850",
+            "view_count": "132913",
             "thumbnail_url": "https://i.ytimg.com/vi/QJpYjhALzDg/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "We Are the Night - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "31241",
+            "view_count": "32807",
             "thumbnail_url": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "19:57",
-            "view_count": "131736",
+            "view_count": "133589",
             "thumbnail_url": "https://i.ytimg.com/vi/Stcid2fcbqo/hqdefault.jpg"
         }
     ]
