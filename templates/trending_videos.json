@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-20 10:58:38",
+    "scraped_time": "2026-01-20 12:49:22",
     "videos": [
         {
             "video_id": "BWfKkqo1Mk8",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "6993167",
+            "view_count": "7142847",
             "thumbnail_url": "https://i.ytimg.com/vi/BWfKkqo1Mk8/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:52",
-            "view_count": "277348",
+            "view_count": "292436",
             "thumbnail_url": "https://i.ytimg.com/vi/hDqE3Pk3cbA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "EXO - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "245556",
+            "view_count": "275168",
             "thumbnail_url": "https://i.ytimg.com/vi/mbiN9853aic/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:19:07",
-            "view_count": "197903",
+            "view_count": "202480",
             "thumbnail_url": "https://i.ytimg.com/vi/3VZGF7qGgHw/hqdefault.jpg"
         },
         {
@@ -43,26 +43,8 @@
             "channel_name": "Kim Minseok (MeloMance) - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "497770",
+            "view_count": "528300",
             "thumbnail_url": "https://i.ytimg.com/vi/W2DExL93yvQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "yPpgq4gepGo",
-            "title": "테토 서폿 | T1 vs DRX 게임 1 하이라이트 | 2026 LCK CUP",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "13:10",
-            "view_count": "170193",
-            "thumbnail_url": "https://i.ytimg.com/vi/yPpgq4gepGo/hqdefault.jpg"
-        },
-        {
-            "video_id": "qeGbxMQ4NYg",
-            "title": "Round and Round",
-            "channel_name": "Jisokury - Topic",
-            "category": "Music",
-            "duration": "4:05",
-            "view_count": "97029",
-            "thumbnail_url": "https://i.ytimg.com/vi/qeGbxMQ4NYg/hqdefault.jpg"
         },
         {
             "video_id": "xmuq2mhEuC8",
@@ -70,8 +52,26 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:16",
-            "view_count": "144743",
+            "view_count": "151924",
             "thumbnail_url": "https://i.ytimg.com/vi/xmuq2mhEuC8/hqdefault.jpg"
+        },
+        {
+            "video_id": "qeGbxMQ4NYg",
+            "title": "Round and Round",
+            "channel_name": "Jisokury - Topic",
+            "category": "Music",
+            "duration": "4:05",
+            "view_count": "105553",
+            "thumbnail_url": "https://i.ytimg.com/vi/qeGbxMQ4NYg/hqdefault.jpg"
+        },
+        {
+            "video_id": "yPpgq4gepGo",
+            "title": "테토 서폿 | T1 vs DRX 게임 1 하이라이트 | 2026 LCK CUP",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "13:10",
+            "view_count": "174116",
+            "thumbnail_url": "https://i.ytimg.com/vi/yPpgq4gepGo/hqdefault.jpg"
         },
         {
             "video_id": "82s8PRgYSRU",
@@ -79,26 +79,8 @@
             "channel_name": "WENDY - Topic",
             "category": "Music",
             "duration": "4:35",
-            "view_count": "356895",
+            "view_count": "380935",
             "thumbnail_url": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg"
-        },
-        {
-            "video_id": "8iuveyO09nM",
-            "title": "감스트 맨유 감독되다 [4화] 5천억 레전드 선수 영입!!",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "2:47:45",
-            "view_count": "148661",
-            "thumbnail_url": "https://i.ytimg.com/vi/8iuveyO09nM/hqdefault.jpg"
-        },
-        {
-            "video_id": "BpkNB0Kfkj8",
-            "title": "LOVE AGAIN (2026 GREEN ZONE Version)",
-            "channel_name": "Green Area - Topic",
-            "category": "Music",
-            "duration": "4:17",
-            "view_count": "49175",
-            "thumbnail_url": "https://i.ytimg.com/vi/BpkNB0Kfkj8/hqdefault.jpg"
         },
         {
             "video_id": "-2jhrFKzZJQ",
@@ -106,8 +88,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "28:10",
-            "view_count": "96147",
+            "view_count": "114556",
             "thumbnail_url": "https://i.ytimg.com/vi/-2jhrFKzZJQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "BpkNB0Kfkj8",
+            "title": "LOVE AGAIN (2026 GREEN ZONE Version)",
+            "channel_name": "Green Area - Topic",
+            "category": "Music",
+            "duration": "4:17",
+            "view_count": "53453",
+            "thumbnail_url": "https://i.ytimg.com/vi/BpkNB0Kfkj8/hqdefault.jpg"
+        },
+        {
+            "video_id": "8iuveyO09nM",
+            "title": "감스트 맨유 감독되다 [4화] 5천억 레전드 선수 영입!!",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "2:47:45",
+            "view_count": "156138",
+            "thumbnail_url": "https://i.ytimg.com/vi/8iuveyO09nM/hqdefault.jpg"
         },
         {
             "video_id": "r0ArFI0CXr8",
@@ -115,7 +115,7 @@
             "channel_name": "Wonstein - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "285570",
+            "view_count": "305659",
             "thumbnail_url": "https://i.ytimg.com/vi/r0ArFI0CXr8/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "T1 Faker",
             "category": "Gaming",
             "duration": "13:35",
-            "view_count": "237482",
+            "view_count": "249191",
             "thumbnail_url": "https://i.ytimg.com/vi/6jEnMdCUh-4/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "off the menu - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "151957",
+            "view_count": "159398",
             "thumbnail_url": "https://i.ytimg.com/vi/rkFa3WRyck8/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "25:05",
-            "view_count": "738978",
+            "view_count": "741869",
             "thumbnail_url": "https://i.ytimg.com/vi/87bLhKwPpYo/hqdefault.jpg"
         },
         {
@@ -151,62 +151,8 @@
             "channel_name": "Sung Si-kyung - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "29038",
+            "view_count": "30186",
             "thumbnail_url": "https://i.ytimg.com/vi/lQ8D320bfSM/hqdefault.jpg"
-        },
-        {
-            "video_id": "BH04v4dLJYg",
-            "title": "야 이놈들아 토티 사면 슬럼프 탈출 된다며 ㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "유봉훈",
-            "category": "Gaming",
-            "duration": "11:18",
-            "view_count": "96153",
-            "thumbnail_url": "https://i.ytimg.com/vi/BH04v4dLJYg/hqdefault.jpg"
-        },
-        {
-            "video_id": "97qr0BOdHkc",
-            "title": "Yin and Yang",
-            "channel_name": "ZICO - Topic",
-            "category": "Music",
-            "duration": "2:07",
-            "view_count": "590199",
-            "thumbnail_url": "https://i.ytimg.com/vi/97qr0BOdHkc/hqdefault.jpg"
-        },
-        {
-            "video_id": "p9aL-U8f9tU",
-            "title": "NS vs HLE - DRX vs T1 | 2026 LCK CUP",
-            "channel_name": "LCK Global",
-            "category": "Gaming",
-            "duration": "5:33:15",
-            "view_count": "1165533",
-            "thumbnail_url": "https://i.ytimg.com/vi/p9aL-U8f9tU/hqdefault.jpg"
-        },
-        {
-            "video_id": "w7j0aTM5ujk",
-            "title": "Play the whole world in Mono",
-            "channel_name": "i-dle (아이들)",
-            "category": "Music",
-            "duration": "0:17",
-            "view_count": "97594",
-            "thumbnail_url": "https://i.ytimg.com/vi/w7j0aTM5ujk/hqdefault.jpg"
-        },
-        {
-            "video_id": "L72FRU1oHuE",
-            "title": "또 또 또 끔찍한 개초딩 신호등 라이즈 만들어버린 팔협지",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "15:10",
-            "view_count": "120770",
-            "thumbnail_url": "https://i.ytimg.com/vi/L72FRU1oHuE/hqdefault.jpg"
-        },
-        {
-            "video_id": "KRAFmgTECWw",
-            "title": "LIGHTSUM(라잇썸) - '아름답고도 아프구나 (상아, 초원, 주현)' LIVE CLIP",
-            "channel_name": "LIGHTSUM 라잇썸 (Official YouTube Channel)",
-            "category": "Entertainment",
-            "duration": "3:56",
-            "view_count": "609441",
-            "thumbnail_url": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg"
         },
         {
             "video_id": "bBTRXkBLS3o",
@@ -214,26 +160,26 @@
             "channel_name": "가재맨",
             "category": "Gaming",
             "duration": "27:46",
-            "view_count": "113441",
+            "view_count": "128628",
             "thumbnail_url": "https://i.ytimg.com/vi/bBTRXkBLS3o/hqdefault.jpg"
         },
         {
-            "video_id": "LVw93DLIE78",
-            "title": "n.SSign(엔싸인) - 'Funky like me (Feat. PEAK & PITCH)' MV",
-            "channel_name": "nSSign",
-            "category": "People & Blogs",
-            "duration": "3:40",
-            "view_count": "550643",
-            "thumbnail_url": "https://i.ytimg.com/vi/LVw93DLIE78/hqdefault.jpg"
+            "video_id": "w7j0aTM5ujk",
+            "title": "Play the whole world in Mono",
+            "channel_name": "i-dle (아이들)",
+            "category": "Music",
+            "duration": "0:17",
+            "view_count": "110624",
+            "thumbnail_url": "https://i.ytimg.com/vi/w7j0aTM5ujk/hqdefault.jpg"
         },
         {
-            "video_id": "JY_xLKZEoP4",
-            "title": "남자 1호님 주먹이 마려워요",
-            "channel_name": "스맵",
+            "video_id": "BH04v4dLJYg",
+            "title": "야 이놈들아 토티 사면 슬럼프 탈출 된다며 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "유봉훈",
             "category": "Gaming",
-            "duration": "36:59",
-            "view_count": "129856",
-            "thumbnail_url": "https://i.ytimg.com/vi/JY_xLKZEoP4/hqdefault.jpg"
+            "duration": "11:18",
+            "view_count": "99601",
+            "thumbnail_url": "https://i.ytimg.com/vi/BH04v4dLJYg/hqdefault.jpg"
         },
         {
             "video_id": "noKnSQRqkEs",
@@ -241,44 +187,26 @@
             "channel_name": "Kassy - Topic",
             "category": "Music",
             "duration": "4:10",
-            "view_count": "24310",
+            "view_count": "27243",
             "thumbnail_url": "https://i.ytimg.com/vi/noKnSQRqkEs/hqdefault.jpg"
         },
         {
-            "video_id": "RaXheSnPcTM",
-            "title": "드디어 업데이트 첫날! 너굴이가 미쳤나봐요",
-            "channel_name": "아오니 AONI",
+            "video_id": "L72FRU1oHuE",
+            "title": "또 또 또 끔찍한 개초딩 신호등 라이즈 만들어버린 팔협지",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "11:56",
-            "view_count": "339072",
-            "thumbnail_url": "https://i.ytimg.com/vi/RaXheSnPcTM/hqdefault.jpg"
+            "duration": "15:10",
+            "view_count": "124285",
+            "thumbnail_url": "https://i.ytimg.com/vi/L72FRU1oHuE/hqdefault.jpg"
         },
         {
-            "video_id": "h0djuhl97Kw",
-            "title": "Mili - SAIKAI [ Limbus Company ]",
-            "channel_name": "Mili",
+            "video_id": "97qr0BOdHkc",
+            "title": "Yin and Yang",
+            "channel_name": "ZICO - Topic",
             "category": "Music",
-            "duration": "5:24",
-            "view_count": "1171103",
-            "thumbnail_url": "https://i.ytimg.com/vi/h0djuhl97Kw/hqdefault.jpg"
-        },
-        {
-            "video_id": "QI_burWdYbw",
-            "title": "상대가 먹을 멀티를 다 뺏어먹고 말라죽을 때까지 공격 안 가고 수비만 해본다면?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "36:25",
-            "view_count": "79369",
-            "thumbnail_url": "https://i.ytimg.com/vi/QI_burWdYbw/hqdefault.jpg"
-        },
-        {
-            "video_id": "Q3Fn0B-fHgE",
-            "title": "No Way Back (feat. So!YoON!)",
-            "channel_name": "ENHYPEN - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "1494376",
-            "thumbnail_url": "https://i.ytimg.com/vi/Q3Fn0B-fHgE/hqdefault.jpg"
+            "duration": "2:07",
+            "view_count": "605794",
+            "thumbnail_url": "https://i.ytimg.com/vi/97qr0BOdHkc/hqdefault.jpg"
         },
         {
             "video_id": "HiFdeNZLwWE",
@@ -286,17 +214,71 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "11:42",
-            "view_count": "74871",
+            "view_count": "81588",
             "thumbnail_url": "https://i.ytimg.com/vi/HiFdeNZLwWE/hqdefault.jpg"
         },
         {
-            "video_id": "dZNPbNkKAss",
-            "title": "도겸X승관 (SEVENTEEN) 'Blue' Official MV (Epilogue Ver.)",
-            "channel_name": "HYBE LABELS",
+            "video_id": "KRAFmgTECWw",
+            "title": "LIGHTSUM(라잇썸) - '아름답고도 아프구나 (상아, 초원, 주현)' LIVE CLIP",
+            "channel_name": "LIGHTSUM 라잇썸 (Official YouTube Channel)",
+            "category": "Entertainment",
+            "duration": "3:56",
+            "view_count": "617075",
+            "thumbnail_url": "https://i.ytimg.com/vi/KRAFmgTECWw/hqdefault.jpg"
+        },
+        {
+            "video_id": "p9aL-U8f9tU",
+            "title": "NS vs HLE - DRX vs T1 | 2026 LCK CUP",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "5:33:15",
+            "view_count": "1166657",
+            "thumbnail_url": "https://i.ytimg.com/vi/p9aL-U8f9tU/hqdefault.jpg"
+        },
+        {
+            "video_id": "LVw93DLIE78",
+            "title": "n.SSign(엔싸인) - 'Funky like me (Feat. PEAK & PITCH)' MV",
+            "channel_name": "nSSign",
+            "category": "People & Blogs",
+            "duration": "3:40",
+            "view_count": "558075",
+            "thumbnail_url": "https://i.ytimg.com/vi/LVw93DLIE78/hqdefault.jpg"
+        },
+        {
+            "video_id": "QI_burWdYbw",
+            "title": "상대가 먹을 멀티를 다 뺏어먹고 말라죽을 때까지 공격 안 가고 수비만 해본다면?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "36:25",
+            "view_count": "82698",
+            "thumbnail_url": "https://i.ytimg.com/vi/QI_burWdYbw/hqdefault.jpg"
+        },
+        {
+            "video_id": "h0djuhl97Kw",
+            "title": "Mili - SAIKAI [ Limbus Company ]",
+            "channel_name": "Mili",
             "category": "Music",
-            "duration": "4:29",
-            "view_count": "762549",
-            "thumbnail_url": "https://i.ytimg.com/vi/dZNPbNkKAss/hqdefault.jpg"
+            "duration": "5:24",
+            "view_count": "1183271",
+            "thumbnail_url": "https://i.ytimg.com/vi/h0djuhl97Kw/hqdefault.jpg"
+        },
+        {
+            "video_id": "JY_xLKZEoP4",
+            "title": "남자 1호님 주먹이 마려워요",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "36:59",
+            "view_count": "131258",
+            "thumbnail_url": "https://i.ytimg.com/vi/JY_xLKZEoP4/hqdefault.jpg"
+        },
+        {
+            "video_id": "Q3Fn0B-fHgE",
+            "title": "No Way Back (feat. So!YoON!)",
+            "channel_name": "ENHYPEN - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "1505132",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q3Fn0B-fHgE/hqdefault.jpg"
         },
         {
             "video_id": "fxyPdLp1RaQ",
@@ -304,8 +286,26 @@
             "channel_name": "이루의 마인크래프트",
             "category": "Gaming",
             "duration": "26:20",
-            "view_count": "127369",
+            "view_count": "133945",
             "thumbnail_url": "https://i.ytimg.com/vi/fxyPdLp1RaQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "dZNPbNkKAss",
+            "title": "도겸X승관 (SEVENTEEN) 'Blue' Official MV (Epilogue Ver.)",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "4:29",
+            "view_count": "772410",
+            "thumbnail_url": "https://i.ytimg.com/vi/dZNPbNkKAss/hqdefault.jpg"
+        },
+        {
+            "video_id": "RaXheSnPcTM",
+            "title": "드디어 업데이트 첫날! 너굴이가 미쳤나봐요",
+            "channel_name": "아오니 AONI",
+            "category": "Gaming",
+            "duration": "11:56",
+            "view_count": "346415",
+            "thumbnail_url": "https://i.ytimg.com/vi/RaXheSnPcTM/hqdefault.jpg"
         },
         {
             "video_id": "hiI_f9hsC7I",
@@ -313,7 +313,7 @@
             "channel_name": "Hodge - Topic",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "68114",
+            "view_count": "73086",
             "thumbnail_url": "https://i.ytimg.com/vi/hiI_f9hsC7I/hqdefault.jpg"
         },
         {
@@ -322,8 +322,26 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "16:26",
-            "view_count": "145991",
+            "view_count": "147115",
             "thumbnail_url": "https://i.ytimg.com/vi/xcAmqTUpDNY/hqdefault.jpg"
+        },
+        {
+            "video_id": "jEVnFdnXe1A",
+            "title": "Someday",
+            "channel_name": "SIYEON (Dreamcatcher) - Topic",
+            "category": "Music",
+            "duration": "3:43",
+            "view_count": "63751",
+            "thumbnail_url": "https://i.ytimg.com/vi/jEVnFdnXe1A/hqdefault.jpg"
+        },
+        {
+            "video_id": "JWBQD8bHx1s",
+            "title": "99일에서 무적 버그, 복사 버그가 진짜 될까?",
+            "channel_name": "강태풍의 로블록스",
+            "category": "Gaming",
+            "duration": "19:46",
+            "view_count": "98703",
+            "thumbnail_url": "https://i.ytimg.com/vi/JWBQD8bHx1s/hqdefault.jpg"
         },
         {
             "video_id": "FvZ_7UX9XNg",
@@ -331,7 +349,7 @@
             "channel_name": "Sondia - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "16151",
+            "view_count": "16874",
             "thumbnail_url": "https://i.ytimg.com/vi/FvZ_7UX9XNg/hqdefault.jpg"
         },
         {
@@ -340,7 +358,7 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "48:36",
-            "view_count": "161331",
+            "view_count": "162363",
             "thumbnail_url": "https://i.ytimg.com/vi/DOtBugHBHVw/hqdefault.jpg"
         },
         {
@@ -349,7 +367,7 @@
             "channel_name": "Ha Dong Qn - Topic",
             "category": "Music",
             "duration": "4:59",
-            "view_count": "23130",
+            "view_count": "24507",
             "thumbnail_url": "https://i.ytimg.com/vi/W1kwyo11vD8/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "22:27",
-            "view_count": "185093",
+            "view_count": "186543",
             "thumbnail_url": "https://i.ytimg.com/vi/_wlxOk3k1K0/hqdefault.jpg"
-        },
-        {
-            "video_id": "xdAbB3sCQH0",
-            "title": "LNGSHOT - [Moonwalkin’] Performance Video",
-            "channel_name": "LNGSHOT",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "256262",
-            "thumbnail_url": "https://i.ytimg.com/vi/xdAbB3sCQH0/hqdefault.jpg"
-        },
-        {
-            "video_id": "JWBQD8bHx1s",
-            "title": "99일에서 무적 버그, 복사 버그가 진짜 될까?",
-            "channel_name": "강태풍의 로블록스",
-            "category": "Gaming",
-            "duration": "19:46",
-            "view_count": "95192",
-            "thumbnail_url": "https://i.ytimg.com/vi/JWBQD8bHx1s/hqdefault.jpg"
         }
     ]
 }
