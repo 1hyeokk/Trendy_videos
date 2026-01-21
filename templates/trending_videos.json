@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-21 22:50:11",
+    "scraped_time": "2026-01-21 23:34:35",
     "videos": [
         {
             "video_id": "BWfKkqo1Mk8",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "13357215",
+            "view_count": "13665925",
             "thumbnail_url": "https://i.ytimg.com/vi/BWfKkqo1Mk8/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "16:38",
-            "view_count": "327035",
+            "view_count": "330518",
             "thumbnail_url": "https://i.ytimg.com/vi/AZBXAYYsC18/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "23:38",
-            "view_count": "615938",
+            "view_count": "621108",
             "thumbnail_url": "https://i.ytimg.com/vi/HPSHo89XnHQ/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "EXO - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "597450",
+            "view_count": "602250",
             "thumbnail_url": "https://i.ytimg.com/vi/nGG42t7pm5Y/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:49",
-            "view_count": "138276",
+            "view_count": "152833",
             "thumbnail_url": "https://i.ytimg.com/vi/4_Bad0cjm6U/hqdefault.jpg"
         },
         {
@@ -52,26 +52,8 @@
             "channel_name": "Yeoro - Topic",
             "category": "Music",
             "duration": "4:07",
-            "view_count": "21926",
+            "view_count": "22297",
             "thumbnail_url": "https://i.ytimg.com/vi/JysENiF030w/hqdefault.jpg"
-        },
-        {
-            "video_id": "-S99FZl4A1k",
-            "title": "[LIVE] 1월 21일 아이온2 긴급 라이브 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "16:10",
-            "view_count": "134687",
-            "thumbnail_url": "https://i.ytimg.com/vi/-S99FZl4A1k/hqdefault.jpg"
-        },
-        {
-            "video_id": "qeGbxMQ4NYg",
-            "title": "Round and Round",
-            "channel_name": "Jisokury - Topic",
-            "category": "Music",
-            "duration": "4:05",
-            "view_count": "247429",
-            "thumbnail_url": "https://i.ytimg.com/vi/qeGbxMQ4NYg/hqdefault.jpg"
         },
         {
             "video_id": "x1rZCAHW__w",
@@ -79,8 +61,26 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "27:29",
-            "view_count": "172283",
+            "view_count": "181289",
             "thumbnail_url": "https://i.ytimg.com/vi/x1rZCAHW__w/hqdefault.jpg"
+        },
+        {
+            "video_id": "qeGbxMQ4NYg",
+            "title": "Round and Round",
+            "channel_name": "Jisokury - Topic",
+            "category": "Music",
+            "duration": "4:05",
+            "view_count": "250305",
+            "thumbnail_url": "https://i.ytimg.com/vi/qeGbxMQ4NYg/hqdefault.jpg"
+        },
+        {
+            "video_id": "-S99FZl4A1k",
+            "title": "[LIVE] 1월 21일 아이온2 긴급 라이브 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "16:10",
+            "view_count": "135203",
+            "thumbnail_url": "https://i.ytimg.com/vi/-S99FZl4A1k/hqdefault.jpg"
         },
         {
             "video_id": "W2DExL93yvQ",
@@ -88,7 +88,7 @@
             "channel_name": "Kim Minseok (MeloMance) - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "962193",
+            "view_count": "971913",
             "thumbnail_url": "https://i.ytimg.com/vi/W2DExL93yvQ/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "18:33",
-            "view_count": "328826",
+            "view_count": "332195",
             "thumbnail_url": "https://i.ytimg.com/vi/TUuaZ5LYzZ4/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "박서진",
             "category": "Entertainment",
             "duration": "3:39",
-            "view_count": "71832",
+            "view_count": "73379",
             "thumbnail_url": "https://i.ytimg.com/vi/9lj-mGd5sYE/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "46:38",
-            "view_count": "216866",
+            "view_count": "219449",
             "thumbnail_url": "https://i.ytimg.com/vi/TM5AI33RXb4/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "Louis Tomlinson - Topic",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "125155",
+            "view_count": "128689",
             "thumbnail_url": "https://i.ytimg.com/vi/0aOU-LBtxUI/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "발__젭",
             "category": "Gaming",
             "duration": "17:47",
-            "view_count": "123653",
+            "view_count": "133248",
             "thumbnail_url": "https://i.ytimg.com/vi/y_x-7LhKXec/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "WENDY - Topic",
             "category": "Music",
             "duration": "4:35",
-            "view_count": "762944",
+            "view_count": "771124",
             "thumbnail_url": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "36:59",
-            "view_count": "101955",
+            "view_count": "114170",
             "thumbnail_url": "https://i.ytimg.com/vi/3ZibGE3LmVA/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "Green Area - Topic",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "95020",
+            "view_count": "95325",
             "thumbnail_url": "https://i.ytimg.com/vi/BpkNB0Kfkj8/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "34:22",
-            "view_count": "86227",
+            "view_count": "94666",
             "thumbnail_url": "https://i.ytimg.com/vi/FboErKw1x50/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "Yeo Doll",
             "category": "Music",
             "duration": "12:35:31",
-            "view_count": "9913",
+            "view_count": "10555",
             "thumbnail_url": "https://i.ytimg.com/vi/FPBB4yA_m6k/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "마주 - 로블록스",
             "category": "Gaming",
             "duration": "14:24",
-            "view_count": "120341",
+            "view_count": "123746",
             "thumbnail_url": "https://i.ytimg.com/vi/y1ftmKA4DM0/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "Hodge - Topic",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "171588",
+            "view_count": "174228",
             "thumbnail_url": "https://i.ytimg.com/vi/hiI_f9hsC7I/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "12:44",
-            "view_count": "141668",
+            "view_count": "142771",
             "thumbnail_url": "https://i.ytimg.com/vi/KIGP2-3SBH8/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "Wonstein - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "584286",
+            "view_count": "591252",
             "thumbnail_url": "https://i.ytimg.com/vi/r0ArFI0CXr8/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "14:54",
-            "view_count": "90334",
+            "view_count": "93468",
             "thumbnail_url": "https://i.ytimg.com/vi/jYZytmJUavw/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "SIYEON (Dreamcatcher) - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "139817",
+            "view_count": "141903",
             "thumbnail_url": "https://i.ytimg.com/vi/jEVnFdnXe1A/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "2:04:59",
-            "view_count": "61796",
+            "view_count": "63732",
             "thumbnail_url": "https://i.ytimg.com/vi/DjdoNK81ktE/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "off the menu - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "268026",
+            "view_count": "270362",
             "thumbnail_url": "https://i.ytimg.com/vi/rkFa3WRyck8/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "1:46:09",
-            "view_count": "139555",
+            "view_count": "139878",
             "thumbnail_url": "https://i.ytimg.com/vi/jULt2jWOkF4/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "We Are the Night - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "130722",
+            "view_count": "132583",
             "thumbnail_url": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "23:41",
-            "view_count": "174628",
+            "view_count": "175869",
             "thumbnail_url": "https://i.ytimg.com/vi/hKGbOTpKiQM/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "Kassy - Topic",
             "category": "Music",
             "duration": "4:10",
-            "view_count": "53048",
+            "view_count": "53433",
             "thumbnail_url": "https://i.ytimg.com/vi/noKnSQRqkEs/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "24:10",
-            "view_count": "88613",
+            "view_count": "91874",
             "thumbnail_url": "https://i.ytimg.com/vi/wDmXPKGPiLo/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "i-dle (아이들)",
             "category": "Music",
             "duration": "0:17",
-            "view_count": "433953",
+            "view_count": "435460",
             "thumbnail_url": "https://i.ytimg.com/vi/w7j0aTM5ujk/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "스텔라이브 StelLive Official",
             "category": "Entertainment",
             "duration": "25:14",
-            "view_count": "161517",
+            "view_count": "162570",
             "thumbnail_url": "https://i.ytimg.com/vi/AOSnV8AJjtY/hqdefault.jpg"
         },
         {
@@ -322,44 +322,8 @@
             "channel_name": "natori - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "31148",
+            "view_count": "33334",
             "thumbnail_url": "https://i.ytimg.com/vi/WiYkBISlv0w/hqdefault.jpg"
-        },
-        {
-            "video_id": "3z1VdSc3UBo",
-            "title": "4성보다 3성 2마리가 훨씬 강한 녀석들",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "13:55",
-            "view_count": "139302",
-            "thumbnail_url": "https://i.ytimg.com/vi/3z1VdSc3UBo/hqdefault.jpg"
-        },
-        {
-            "video_id": "HAmYFOoEs1c",
-            "title": "Turtle Ship Remix Version (feat. G2, B-Free, Okasian, ZICO)",
-            "channel_name": "Paloalto - Topic",
-            "category": "Music",
-            "duration": "4:41",
-            "view_count": "54733",
-            "thumbnail_url": "https://i.ytimg.com/vi/HAmYFOoEs1c/hqdefault.jpg"
-        },
-        {
-            "video_id": "bi0rwcFCg6k",
-            "title": "리니지 클래식 역대급 난리난 이유! 진짜 ㅈ됐다",
-            "channel_name": "센터로드TV",
-            "category": "Gaming",
-            "duration": "9:33",
-            "view_count": "106040",
-            "thumbnail_url": "https://i.ytimg.com/vi/bi0rwcFCg6k/hqdefault.jpg"
-        },
-        {
-            "video_id": "hr22KynlWAY",
-            "title": "We Burned, Then We Faded",
-            "channel_name": "Jeong Dong Won - Topic",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "17635",
-            "thumbnail_url": "https://i.ytimg.com/vi/hr22KynlWAY/hqdefault.jpg"
         },
         {
             "video_id": "XP1DZAva27w",
@@ -367,8 +331,44 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "18:03",
-            "view_count": "62299",
+            "view_count": "69696",
             "thumbnail_url": "https://i.ytimg.com/vi/XP1DZAva27w/hqdefault.jpg"
+        },
+        {
+            "video_id": "HAmYFOoEs1c",
+            "title": "Turtle Ship Remix Version (feat. G2, B-Free, Okasian, ZICO)",
+            "channel_name": "Paloalto - Topic",
+            "category": "Music",
+            "duration": "4:41",
+            "view_count": "55069",
+            "thumbnail_url": "https://i.ytimg.com/vi/HAmYFOoEs1c/hqdefault.jpg"
+        },
+        {
+            "video_id": "3z1VdSc3UBo",
+            "title": "4성보다 3성 2마리가 훨씬 강한 녀석들",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "13:55",
+            "view_count": "139932",
+            "thumbnail_url": "https://i.ytimg.com/vi/3z1VdSc3UBo/hqdefault.jpg"
+        },
+        {
+            "video_id": "hr22KynlWAY",
+            "title": "We Burned, Then We Faded",
+            "channel_name": "Jeong Dong Won - Topic",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "17777",
+            "thumbnail_url": "https://i.ytimg.com/vi/hr22KynlWAY/hqdefault.jpg"
+        },
+        {
+            "video_id": "bi0rwcFCg6k",
+            "title": "리니지 클래식 역대급 난리난 이유! 진짜 ㅈ됐다",
+            "channel_name": "센터로드TV",
+            "category": "Gaming",
+            "duration": "9:33",
+            "view_count": "106948",
+            "thumbnail_url": "https://i.ytimg.com/vi/bi0rwcFCg6k/hqdefault.jpg"
         },
         {
             "video_id": "xdAbB3sCQH0",
@@ -376,7 +376,7 @@
             "channel_name": "LNGSHOT",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "629158",
+            "view_count": "638710",
             "thumbnail_url": "https://i.ytimg.com/vi/xdAbB3sCQH0/hqdefault.jpg"
         }
     ]
