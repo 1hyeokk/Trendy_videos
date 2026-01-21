@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-21 21:56:28",
+    "scraped_time": "2026-01-21 22:50:11",
     "videos": [
         {
             "video_id": "BWfKkqo1Mk8",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "12846066",
+            "view_count": "13357215",
             "thumbnail_url": "https://i.ytimg.com/vi/BWfKkqo1Mk8/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "16:38",
-            "view_count": "322596",
+            "view_count": "327035",
             "thumbnail_url": "https://i.ytimg.com/vi/AZBXAYYsC18/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "23:38",
-            "view_count": "608115",
+            "view_count": "615938",
             "thumbnail_url": "https://i.ytimg.com/vi/HPSHo89XnHQ/hqdefault.jpg"
         },
         {
@@ -34,44 +34,8 @@
             "channel_name": "EXO - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "590395",
+            "view_count": "597450",
             "thumbnail_url": "https://i.ytimg.com/vi/nGG42t7pm5Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "-S99FZl4A1k",
-            "title": "[LIVE] 1월 21일 아이온2 긴급 라이브 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "16:10",
-            "view_count": "133546",
-            "thumbnail_url": "https://i.ytimg.com/vi/-S99FZl4A1k/hqdefault.jpg"
-        },
-        {
-            "video_id": "JysENiF030w",
-            "title": "Loved You More (feat. Lee A Young)",
-            "channel_name": "Yeoro - Topic",
-            "category": "Music",
-            "duration": "4:07",
-            "view_count": "21195",
-            "thumbnail_url": "https://i.ytimg.com/vi/JysENiF030w/hqdefault.jpg"
-        },
-        {
-            "video_id": "TUuaZ5LYzZ4",
-            "title": "자해공갈 니달리",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "18:33",
-            "view_count": "324229",
-            "thumbnail_url": "https://i.ytimg.com/vi/TUuaZ5LYzZ4/hqdefault.jpg"
-        },
-        {
-            "video_id": "qeGbxMQ4NYg",
-            "title": "Round and Round",
-            "channel_name": "Jisokury - Topic",
-            "category": "Music",
-            "duration": "4:05",
-            "view_count": "242152",
-            "thumbnail_url": "https://i.ytimg.com/vi/qeGbxMQ4NYg/hqdefault.jpg"
         },
         {
             "video_id": "4_Bad0cjm6U",
@@ -79,17 +43,35 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:49",
-            "view_count": "116419",
+            "view_count": "138276",
             "thumbnail_url": "https://i.ytimg.com/vi/4_Bad0cjm6U/hqdefault.jpg"
         },
         {
-            "video_id": "W2DExL93yvQ",
-            "title": "Love Language",
-            "channel_name": "Kim Minseok (MeloMance) - Topic",
+            "video_id": "JysENiF030w",
+            "title": "Loved You More (feat. Lee A Young)",
+            "channel_name": "Yeoro - Topic",
             "category": "Music",
-            "duration": "3:06",
-            "view_count": "947371",
-            "thumbnail_url": "https://i.ytimg.com/vi/W2DExL93yvQ/hqdefault.jpg"
+            "duration": "4:07",
+            "view_count": "21926",
+            "thumbnail_url": "https://i.ytimg.com/vi/JysENiF030w/hqdefault.jpg"
+        },
+        {
+            "video_id": "-S99FZl4A1k",
+            "title": "[LIVE] 1월 21일 아이온2 긴급 라이브 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "16:10",
+            "view_count": "134687",
+            "thumbnail_url": "https://i.ytimg.com/vi/-S99FZl4A1k/hqdefault.jpg"
+        },
+        {
+            "video_id": "qeGbxMQ4NYg",
+            "title": "Round and Round",
+            "channel_name": "Jisokury - Topic",
+            "category": "Music",
+            "duration": "4:05",
+            "view_count": "247429",
+            "thumbnail_url": "https://i.ytimg.com/vi/qeGbxMQ4NYg/hqdefault.jpg"
         },
         {
             "video_id": "x1rZCAHW__w",
@@ -97,8 +79,26 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "27:29",
-            "view_count": "158850",
+            "view_count": "172283",
             "thumbnail_url": "https://i.ytimg.com/vi/x1rZCAHW__w/hqdefault.jpg"
+        },
+        {
+            "video_id": "W2DExL93yvQ",
+            "title": "Love Language",
+            "channel_name": "Kim Minseok (MeloMance) - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "962193",
+            "thumbnail_url": "https://i.ytimg.com/vi/W2DExL93yvQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "TUuaZ5LYzZ4",
+            "title": "자해공갈 니달리",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "18:33",
+            "view_count": "328826",
+            "thumbnail_url": "https://i.ytimg.com/vi/TUuaZ5LYzZ4/hqdefault.jpg"
         },
         {
             "video_id": "9lj-mGd5sYE",
@@ -106,7 +106,7 @@
             "channel_name": "박서진",
             "category": "Entertainment",
             "duration": "3:39",
-            "view_count": "69579",
+            "view_count": "71832",
             "thumbnail_url": "https://i.ytimg.com/vi/9lj-mGd5sYE/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "46:38",
-            "view_count": "212146",
+            "view_count": "216866",
             "thumbnail_url": "https://i.ytimg.com/vi/TM5AI33RXb4/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "Louis Tomlinson - Topic",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "120698",
+            "view_count": "125155",
             "thumbnail_url": "https://i.ytimg.com/vi/0aOU-LBtxUI/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "발__젭",
             "category": "Gaming",
             "duration": "17:47",
-            "view_count": "107769",
+            "view_count": "123653",
             "thumbnail_url": "https://i.ytimg.com/vi/y_x-7LhKXec/hqdefault.jpg"
         },
         {
@@ -142,44 +142,8 @@
             "channel_name": "WENDY - Topic",
             "category": "Music",
             "duration": "4:35",
-            "view_count": "750047",
+            "view_count": "762944",
             "thumbnail_url": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg"
-        },
-        {
-            "video_id": "KIGP2-3SBH8",
-            "title": "대규모 업데이트 본섭 상륙! 아델 깨알 스펙업까지 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "12:44",
-            "view_count": "140100",
-            "thumbnail_url": "https://i.ytimg.com/vi/KIGP2-3SBH8/hqdefault.jpg"
-        },
-        {
-            "video_id": "BpkNB0Kfkj8",
-            "title": "LOVE AGAIN (2026 GREEN ZONE Version)",
-            "channel_name": "Green Area - Topic",
-            "category": "Music",
-            "duration": "4:17",
-            "view_count": "94613",
-            "thumbnail_url": "https://i.ytimg.com/vi/BpkNB0Kfkj8/hqdefault.jpg"
-        },
-        {
-            "video_id": "y1ftmKA4DM0",
-            "title": "라이벌 운영자가 숨겨둔 \"비밀스킨\"을 찾았습니다",
-            "channel_name": "마주 - 로블록스",
-            "category": "Gaming",
-            "duration": "14:24",
-            "view_count": "115302",
-            "thumbnail_url": "https://i.ytimg.com/vi/y1ftmKA4DM0/hqdefault.jpg"
-        },
-        {
-            "video_id": "FPBB4yA_m6k",
-            "title": "[최신가요 실시간 인기차트] 💛💫 2026년 1월 21일 4주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
-            "channel_name": "Yeo Doll",
-            "category": "Music",
-            "duration": "12:35:31",
-            "view_count": "9160",
-            "thumbnail_url": "https://i.ytimg.com/vi/FPBB4yA_m6k/hqdefault.jpg"
         },
         {
             "video_id": "3ZibGE3LmVA",
@@ -187,53 +151,17 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "36:59",
-            "view_count": "85735",
+            "view_count": "101955",
             "thumbnail_url": "https://i.ytimg.com/vi/3ZibGE3LmVA/hqdefault.jpg"
         },
         {
-            "video_id": "hiI_f9hsC7I",
-            "title": "Waltz for Moon",
-            "channel_name": "Hodge - Topic",
+            "video_id": "BpkNB0Kfkj8",
+            "title": "LOVE AGAIN (2026 GREEN ZONE Version)",
+            "channel_name": "Green Area - Topic",
             "category": "Music",
-            "duration": "4:00",
-            "view_count": "168208",
-            "thumbnail_url": "https://i.ytimg.com/vi/hiI_f9hsC7I/hqdefault.jpg"
-        },
-        {
-            "video_id": "jULt2jWOkF4",
-            "title": "[🔴LIVE]리니지클래식 패스권 오피셜떳다!! 러닝크루 모집🏃‍➡️🏃‍➡️ 런준비↗️[아가리계엄😷가짜뉴스 고소각]",
-            "channel_name": "만만",
-            "category": "Gaming",
-            "duration": "1:46:09",
-            "view_count": "138556",
-            "thumbnail_url": "https://i.ytimg.com/vi/jULt2jWOkF4/hqdefault.jpg"
-        },
-        {
-            "video_id": "r0ArFI0CXr8",
-            "title": "Promise",
-            "channel_name": "Wonstein - Topic",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "575413",
-            "thumbnail_url": "https://i.ytimg.com/vi/r0ArFI0CXr8/hqdefault.jpg"
-        },
-        {
-            "video_id": "hKGbOTpKiQM",
-            "title": "딸피에서 순식간에 풀피되는 \"탑 원형질 안전벨트 람머스\" 이거 진짜 못막습니다 🐢💪",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "23:41",
-            "view_count": "173196",
-            "thumbnail_url": "https://i.ytimg.com/vi/hKGbOTpKiQM/hqdefault.jpg"
-        },
-        {
-            "video_id": "jEVnFdnXe1A",
-            "title": "Someday",
-            "channel_name": "SIYEON (Dreamcatcher) - Topic",
-            "category": "Music",
-            "duration": "3:43",
-            "view_count": "137051",
-            "thumbnail_url": "https://i.ytimg.com/vi/jEVnFdnXe1A/hqdefault.jpg"
+            "duration": "4:17",
+            "view_count": "95020",
+            "thumbnail_url": "https://i.ytimg.com/vi/BpkNB0Kfkj8/hqdefault.jpg"
         },
         {
             "video_id": "FboErKw1x50",
@@ -241,35 +169,53 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "34:22",
-            "view_count": "75871",
+            "view_count": "86227",
             "thumbnail_url": "https://i.ytimg.com/vi/FboErKw1x50/hqdefault.jpg"
         },
         {
-            "video_id": "rkFa3WRyck8",
-            "title": "Lay Down Together",
-            "channel_name": "off the menu - Topic",
+            "video_id": "FPBB4yA_m6k",
+            "title": "[최신가요 실시간 인기차트] 💛💫 2026년 1월 21일 4주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
+            "channel_name": "Yeo Doll",
             "category": "Music",
-            "duration": "4:09",
-            "view_count": "265043",
-            "thumbnail_url": "https://i.ytimg.com/vi/rkFa3WRyck8/hqdefault.jpg"
+            "duration": "12:35:31",
+            "view_count": "9913",
+            "thumbnail_url": "https://i.ytimg.com/vi/FPBB4yA_m6k/hqdefault.jpg"
         },
         {
-            "video_id": "DjdoNK81ktE",
-            "title": "[ 불도그 LIVE 생방송 1/21 ] 리니지클래식 4차브리핑 팩트만 논합니다. #리니지 #데포로쥬",
-            "channel_name": "불도그",
+            "video_id": "y1ftmKA4DM0",
+            "title": "라이벌 운영자가 숨겨둔 \"비밀스킨\"을 찾았습니다",
+            "channel_name": "마주 - 로블록스",
             "category": "Gaming",
-            "duration": "2:10:04",
-            "view_count": "56516",
-            "thumbnail_url": "https://i.ytimg.com/vi/DjdoNK81ktE/hqdefault.jpg"
+            "duration": "14:24",
+            "view_count": "120341",
+            "thumbnail_url": "https://i.ytimg.com/vi/y1ftmKA4DM0/hqdefault.jpg"
         },
         {
-            "video_id": "noKnSQRqkEs",
-            "title": "Again",
-            "channel_name": "Kassy - Topic",
+            "video_id": "hiI_f9hsC7I",
+            "title": "Waltz for Moon",
+            "channel_name": "Hodge - Topic",
             "category": "Music",
-            "duration": "4:10",
-            "view_count": "52570",
-            "thumbnail_url": "https://i.ytimg.com/vi/noKnSQRqkEs/hqdefault.jpg"
+            "duration": "4:00",
+            "view_count": "171588",
+            "thumbnail_url": "https://i.ytimg.com/vi/hiI_f9hsC7I/hqdefault.jpg"
+        },
+        {
+            "video_id": "KIGP2-3SBH8",
+            "title": "대규모 업데이트 본섭 상륙! 아델 깨알 스펙업까지 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "12:44",
+            "view_count": "141668",
+            "thumbnail_url": "https://i.ytimg.com/vi/KIGP2-3SBH8/hqdefault.jpg"
+        },
+        {
+            "video_id": "r0ArFI0CXr8",
+            "title": "Promise",
+            "channel_name": "Wonstein - Topic",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "584286",
+            "thumbnail_url": "https://i.ytimg.com/vi/r0ArFI0CXr8/hqdefault.jpg"
         },
         {
             "video_id": "jYZytmJUavw",
@@ -277,8 +223,44 @@
             "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
             "duration": "14:54",
-            "view_count": "84642",
+            "view_count": "90334",
             "thumbnail_url": "https://i.ytimg.com/vi/jYZytmJUavw/hqdefault.jpg"
+        },
+        {
+            "video_id": "jEVnFdnXe1A",
+            "title": "Someday",
+            "channel_name": "SIYEON (Dreamcatcher) - Topic",
+            "category": "Music",
+            "duration": "3:43",
+            "view_count": "139817",
+            "thumbnail_url": "https://i.ytimg.com/vi/jEVnFdnXe1A/hqdefault.jpg"
+        },
+        {
+            "video_id": "DjdoNK81ktE",
+            "title": "[ 불도그 LIVE 생방송 1/21 ] 리니지클래식 4차브리핑 팩트만 논합니다. #리니지 #데포로쥬",
+            "channel_name": "불도그",
+            "category": "Gaming",
+            "duration": "2:04:59",
+            "view_count": "61796",
+            "thumbnail_url": "https://i.ytimg.com/vi/DjdoNK81ktE/hqdefault.jpg"
+        },
+        {
+            "video_id": "rkFa3WRyck8",
+            "title": "Lay Down Together",
+            "channel_name": "off the menu - Topic",
+            "category": "Music",
+            "duration": "4:09",
+            "view_count": "268026",
+            "thumbnail_url": "https://i.ytimg.com/vi/rkFa3WRyck8/hqdefault.jpg"
+        },
+        {
+            "video_id": "jULt2jWOkF4",
+            "title": "[🔴LIVE]리니지클래식 패스권 오피셜떳다!! 러닝크루 모집🏃‍➡️🏃‍➡️ 런준비↗️[아가리계엄😷가짜뉴스 고소각]",
+            "channel_name": "만만",
+            "category": "Gaming",
+            "duration": "1:46:09",
+            "view_count": "139555",
+            "thumbnail_url": "https://i.ytimg.com/vi/jULt2jWOkF4/hqdefault.jpg"
         },
         {
             "video_id": "O0ZtSbqGz0k",
@@ -286,62 +268,26 @@
             "channel_name": "We Are the Night - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "127878",
+            "view_count": "130722",
             "thumbnail_url": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg"
         },
         {
-            "video_id": "AOSnV8AJjtY",
-            "title": "No Thank you - [연말 시상식 리액션 모아보기]",
-            "channel_name": "스텔라이브 StelLive Official",
-            "category": "Entertainment",
-            "duration": "25:14",
-            "view_count": "160047",
-            "thumbnail_url": "https://i.ytimg.com/vi/AOSnV8AJjtY/hqdefault.jpg"
-        },
-        {
-            "video_id": "w7j0aTM5ujk",
-            "title": "Play the whole world in Mono",
-            "channel_name": "i-dle (아이들)",
-            "category": "Music",
-            "duration": "0:17",
-            "view_count": "432046",
-            "thumbnail_url": "https://i.ytimg.com/vi/w7j0aTM5ujk/hqdefault.jpg"
-        },
-        {
-            "video_id": "3z1VdSc3UBo",
-            "title": "4성보다 3성 2마리가 훨씬 강한 녀석들",
-            "channel_name": "잡상싱",
+            "video_id": "hKGbOTpKiQM",
+            "title": "딸피에서 순식간에 풀피되는 \"탑 원형질 안전벨트 람머스\" 이거 진짜 못막습니다 🐢💪",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "13:55",
-            "view_count": "138156",
-            "thumbnail_url": "https://i.ytimg.com/vi/3z1VdSc3UBo/hqdefault.jpg"
+            "duration": "23:41",
+            "view_count": "174628",
+            "thumbnail_url": "https://i.ytimg.com/vi/hKGbOTpKiQM/hqdefault.jpg"
         },
         {
-            "video_id": "WiYkBISlv0w",
-            "title": "Serenade",
-            "channel_name": "natori - Topic",
+            "video_id": "noKnSQRqkEs",
+            "title": "Again",
+            "channel_name": "Kassy - Topic",
             "category": "Music",
-            "duration": "3:40",
-            "view_count": "28337",
-            "thumbnail_url": "https://i.ytimg.com/vi/WiYkBISlv0w/hqdefault.jpg"
-        },
-        {
-            "video_id": "bi0rwcFCg6k",
-            "title": "리니지 클래식 역대급 난리난 이유! 진짜 ㅈ됐다",
-            "channel_name": "센터로드TV",
-            "category": "Gaming",
-            "duration": "9:33",
-            "view_count": "104661",
-            "thumbnail_url": "https://i.ytimg.com/vi/bi0rwcFCg6k/hqdefault.jpg"
-        },
-        {
-            "video_id": "HAmYFOoEs1c",
-            "title": "Turtle Ship Remix Version (feat. G2, B-Free, Okasian, ZICO)",
-            "channel_name": "Paloalto - Topic",
-            "category": "Music",
-            "duration": "4:41",
-            "view_count": "54038",
-            "thumbnail_url": "https://i.ytimg.com/vi/HAmYFOoEs1c/hqdefault.jpg"
+            "duration": "4:10",
+            "view_count": "53048",
+            "thumbnail_url": "https://i.ytimg.com/vi/noKnSQRqkEs/hqdefault.jpg"
         },
         {
             "video_id": "wDmXPKGPiLo",
@@ -349,8 +295,62 @@
             "channel_name": "말량",
             "category": "Gaming",
             "duration": "24:10",
-            "view_count": "82791",
+            "view_count": "88613",
             "thumbnail_url": "https://i.ytimg.com/vi/wDmXPKGPiLo/hqdefault.jpg"
+        },
+        {
+            "video_id": "w7j0aTM5ujk",
+            "title": "Play the whole world in Mono",
+            "channel_name": "i-dle (아이들)",
+            "category": "Music",
+            "duration": "0:17",
+            "view_count": "433953",
+            "thumbnail_url": "https://i.ytimg.com/vi/w7j0aTM5ujk/hqdefault.jpg"
+        },
+        {
+            "video_id": "AOSnV8AJjtY",
+            "title": "No Thank you - [연말 시상식 리액션 모아보기]",
+            "channel_name": "스텔라이브 StelLive Official",
+            "category": "Entertainment",
+            "duration": "25:14",
+            "view_count": "161517",
+            "thumbnail_url": "https://i.ytimg.com/vi/AOSnV8AJjtY/hqdefault.jpg"
+        },
+        {
+            "video_id": "WiYkBISlv0w",
+            "title": "Serenade",
+            "channel_name": "natori - Topic",
+            "category": "Music",
+            "duration": "3:40",
+            "view_count": "31148",
+            "thumbnail_url": "https://i.ytimg.com/vi/WiYkBISlv0w/hqdefault.jpg"
+        },
+        {
+            "video_id": "3z1VdSc3UBo",
+            "title": "4성보다 3성 2마리가 훨씬 강한 녀석들",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "13:55",
+            "view_count": "139302",
+            "thumbnail_url": "https://i.ytimg.com/vi/3z1VdSc3UBo/hqdefault.jpg"
+        },
+        {
+            "video_id": "HAmYFOoEs1c",
+            "title": "Turtle Ship Remix Version (feat. G2, B-Free, Okasian, ZICO)",
+            "channel_name": "Paloalto - Topic",
+            "category": "Music",
+            "duration": "4:41",
+            "view_count": "54733",
+            "thumbnail_url": "https://i.ytimg.com/vi/HAmYFOoEs1c/hqdefault.jpg"
+        },
+        {
+            "video_id": "bi0rwcFCg6k",
+            "title": "리니지 클래식 역대급 난리난 이유! 진짜 ㅈ됐다",
+            "channel_name": "센터로드TV",
+            "category": "Gaming",
+            "duration": "9:33",
+            "view_count": "106040",
+            "thumbnail_url": "https://i.ytimg.com/vi/bi0rwcFCg6k/hqdefault.jpg"
         },
         {
             "video_id": "hr22KynlWAY",
@@ -358,17 +358,17 @@
             "channel_name": "Jeong Dong Won - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "17317",
+            "view_count": "17635",
             "thumbnail_url": "https://i.ytimg.com/vi/hr22KynlWAY/hqdefault.jpg"
         },
         {
-            "video_id": "hPv0DWERrAQ",
-            "title": "바이퍼: 왕호형 연승은 제가 막겠습니다",
-            "channel_name": "피넛",
+            "video_id": "XP1DZAva27w",
+            "title": "지작 그리스 3천만 영끌모으기 ㅋㅋㅋㅋ",
+            "channel_name": "레고77",
             "category": "Gaming",
-            "duration": "29:22",
-            "view_count": "128266",
-            "thumbnail_url": "https://i.ytimg.com/vi/hPv0DWERrAQ/hqdefault.jpg"
+            "duration": "18:03",
+            "view_count": "62299",
+            "thumbnail_url": "https://i.ytimg.com/vi/XP1DZAva27w/hqdefault.jpg"
         },
         {
             "video_id": "xdAbB3sCQH0",
@@ -376,7 +376,7 @@
             "channel_name": "LNGSHOT",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "619253",
+            "view_count": "629158",
             "thumbnail_url": "https://i.ytimg.com/vi/xdAbB3sCQH0/hqdefault.jpg"
         }
     ]
