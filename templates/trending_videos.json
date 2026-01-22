@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-22 21:56:35",
+    "scraped_time": "2026-01-22 22:50:59",
     "videos": [
         {
             "video_id": "BWfKkqo1Mk8",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "17495970",
+            "view_count": "17803107",
             "thumbnail_url": "https://i.ytimg.com/vi/BWfKkqo1Mk8/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "16:38",
-            "view_count": "378447",
+            "view_count": "381371",
             "thumbnail_url": "https://i.ytimg.com/vi/AZBXAYYsC18/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:49",
-            "view_count": "335760",
+            "view_count": "338950",
             "thumbnail_url": "https://i.ytimg.com/vi/4_Bad0cjm6U/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "EXO - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "764858",
+            "view_count": "771700",
             "thumbnail_url": "https://i.ytimg.com/vi/mbiN9853aic/hqdefault.jpg"
         },
         {
@@ -43,17 +43,17 @@
             "channel_name": "잇츠뉴 It'sNEW",
             "category": "Film & Animation",
             "duration": "1:20",
-            "view_count": "103359",
+            "view_count": "108630",
             "thumbnail_url": "https://i.ytimg.com/vi/uKOYQ1e4lv4/hqdefault.jpg"
         },
         {
-            "video_id": "HPSHo89XnHQ",
-            "title": "스트롱 스트롱 굿 파트너",
-            "channel_name": "랄로",
+            "video_id": "VIMydIe8Fcs",
+            "title": "신규 반지 '황홀한 악몽' 전섭 최초로 바로 가져왔습니다! [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "23:38",
-            "view_count": "700135",
-            "thumbnail_url": "https://i.ytimg.com/vi/HPSHo89XnHQ/hqdefault.jpg"
+            "duration": "14:40",
+            "view_count": "102275",
+            "thumbnail_url": "https://i.ytimg.com/vi/VIMydIe8Fcs/hqdefault.jpg"
         },
         {
             "video_id": "XPqXU3SfxdU",
@@ -61,8 +61,26 @@
             "channel_name": "Hebi.",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "61684",
+            "view_count": "80926",
             "thumbnail_url": "https://i.ytimg.com/vi/XPqXU3SfxdU/hqdefault.jpg"
+        },
+        {
+            "video_id": "HPSHo89XnHQ",
+            "title": "스트롱 스트롱 굿 파트너",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "23:38",
+            "view_count": "703475",
+            "thumbnail_url": "https://i.ytimg.com/vi/HPSHo89XnHQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "gNg2Qw5R-Q4",
+            "title": "natori - Serenade",
+            "channel_name": "なとり / natori",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "421716",
+            "thumbnail_url": "https://i.ytimg.com/vi/gNg2Qw5R-Q4/hqdefault.jpg"
         },
         {
             "video_id": "3ZibGE3LmVA",
@@ -70,7 +88,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "36:59",
-            "view_count": "255033",
+            "view_count": "258437",
             "thumbnail_url": "https://i.ytimg.com/vi/3ZibGE3LmVA/hqdefault.jpg"
         },
         {
@@ -79,26 +97,26 @@
             "channel_name": "Yeoro - Topic",
             "category": "Music",
             "duration": "4:07",
-            "view_count": "32529",
+            "view_count": "33368",
             "thumbnail_url": "https://i.ytimg.com/vi/JysENiF030w/hqdefault.jpg"
         },
         {
-            "video_id": "9oYPehtU7oM",
-            "title": "무한 리롤 이거 운동 많이 된다~",
-            "channel_name": "잡상싱",
+            "video_id": "Wtq_s7WDPGE",
+            "title": "하드코어 운동 많이 된다 [마크 하드코어 EP.03]",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "15:17",
-            "view_count": "177803",
-            "thumbnail_url": "https://i.ytimg.com/vi/9oYPehtU7oM/hqdefault.jpg"
+            "duration": "31:51",
+            "view_count": "79059",
+            "thumbnail_url": "https://i.ytimg.com/vi/Wtq_s7WDPGE/hqdefault.jpg"
         },
         {
-            "video_id": "gNg2Qw5R-Q4",
-            "title": "natori - Serenade",
-            "channel_name": "なとり / natori",
+            "video_id": "977-Ce1-zuE",
+            "title": "Even If This Love Disappears Tonight",
+            "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
-            "duration": "3:38",
-            "view_count": "395972",
-            "thumbnail_url": "https://i.ytimg.com/vi/gNg2Qw5R-Q4/hqdefault.jpg"
+            "duration": "3:40",
+            "view_count": "21697",
+            "thumbnail_url": "https://i.ytimg.com/vi/977-Ce1-zuE/hqdefault.jpg"
         },
         {
             "video_id": "x1rZCAHW__w",
@@ -106,7 +124,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "27:29",
-            "view_count": "290270",
+            "view_count": "293399",
             "thumbnail_url": "https://i.ytimg.com/vi/x1rZCAHW__w/hqdefault.jpg"
         },
         {
@@ -115,35 +133,17 @@
             "channel_name": "Jisokury - Topic",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "352456",
+            "view_count": "357198",
             "thumbnail_url": "https://i.ytimg.com/vi/qeGbxMQ4NYg/hqdefault.jpg"
         },
         {
-            "video_id": "VIMydIe8Fcs",
-            "title": "신규 반지 '황홀한 악몽' 전섭 최초로 바로 가져왔습니다! [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
+            "video_id": "9oYPehtU7oM",
+            "title": "무한 리롤 이거 운동 많이 된다~",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "14:40",
-            "view_count": "76367",
-            "thumbnail_url": "https://i.ytimg.com/vi/VIMydIe8Fcs/hqdefault.jpg"
-        },
-        {
-            "video_id": "977-Ce1-zuE",
-            "title": "Even If This Love Disappears Tonight",
-            "channel_name": "Jeon Sang Keun - Topic",
-            "category": "Music",
-            "duration": "3:40",
-            "view_count": "20843",
-            "thumbnail_url": "https://i.ytimg.com/vi/977-Ce1-zuE/hqdefault.jpg"
-        },
-        {
-            "video_id": "v5bx_wjrMgE",
-            "title": "[조밈 vs 시청자 100명] 마크 프로는 과연 이길 수 있을것인가..!",
-            "channel_name": "꼬예유 & 한예찬의 게임저장소",
-            "category": "Gaming",
-            "duration": "22:40",
-            "view_count": "98986",
-            "thumbnail_url": "https://i.ytimg.com/vi/v5bx_wjrMgE/hqdefault.jpg"
+            "duration": "15:17",
+            "view_count": "180078",
+            "thumbnail_url": "https://i.ytimg.com/vi/9oYPehtU7oM/hqdefault.jpg"
         },
         {
             "video_id": "9lj-mGd5sYE",
@@ -151,17 +151,17 @@
             "channel_name": "박서진",
             "category": "Entertainment",
             "duration": "3:39",
-            "view_count": "96450",
+            "view_count": "97359",
             "thumbnail_url": "https://i.ytimg.com/vi/9lj-mGd5sYE/hqdefault.jpg"
         },
         {
-            "video_id": "vFYmolevJiY",
-            "title": "솔로 5년차 송경호의 데이트 준비..",
-            "channel_name": "스맵",
+            "video_id": "v5bx_wjrMgE",
+            "title": "[조밈 vs 시청자 100명] 마크 프로는 과연 이길 수 있을것인가..!",
+            "channel_name": "꼬예유 & 한예찬의 게임저장소",
             "category": "Gaming",
-            "duration": "35:28",
-            "view_count": "116129",
-            "thumbnail_url": "https://i.ytimg.com/vi/vFYmolevJiY/hqdefault.jpg"
+            "duration": "22:40",
+            "view_count": "104921",
+            "thumbnail_url": "https://i.ytimg.com/vi/v5bx_wjrMgE/hqdefault.jpg"
         },
         {
             "video_id": "W2DExL93yvQ",
@@ -169,17 +169,17 @@
             "channel_name": "Kim Minseok (MeloMance) - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "1247969",
+            "view_count": "1262033",
             "thumbnail_url": "https://i.ytimg.com/vi/W2DExL93yvQ/hqdefault.jpg"
         },
         {
-            "video_id": "y_x-7LhKXec",
-            "title": "6년만에 돌아온 치명타 마이",
-            "channel_name": "발__젭",
+            "video_id": "vFYmolevJiY",
+            "title": "솔로 5년차 송경호의 데이트 준비..",
+            "channel_name": "스맵",
             "category": "Gaming",
-            "duration": "17:47",
-            "view_count": "236622",
-            "thumbnail_url": "https://i.ytimg.com/vi/y_x-7LhKXec/hqdefault.jpg"
+            "duration": "35:28",
+            "view_count": "124990",
+            "thumbnail_url": "https://i.ytimg.com/vi/vFYmolevJiY/hqdefault.jpg"
         },
         {
             "video_id": "FPBB4yA_m6k",
@@ -187,17 +187,17 @@
             "channel_name": "Yeo Doll",
             "category": "Music",
             "duration": "12:35:31",
-            "view_count": "23434",
+            "view_count": "24006",
             "thumbnail_url": "https://i.ytimg.com/vi/FPBB4yA_m6k/hqdefault.jpg"
         },
         {
-            "video_id": "Wtq_s7WDPGE",
-            "title": "하드코어 운동 많이 된다 [마크 하드코어 EP.03]",
-            "channel_name": "말왕TV",
+            "video_id": "5i-RsnPNyxo",
+            "title": "NS vs TS / ZETA vs FS - VCT 퍼시픽 - 킥오프 - 상위조 라운드 1 - DAY 1",
+            "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
-            "duration": "31:51",
-            "view_count": "58311",
-            "thumbnail_url": "https://i.ytimg.com/vi/Wtq_s7WDPGE/hqdefault.jpg"
+            "duration": "4:58:39",
+            "view_count": "150965",
+            "thumbnail_url": "https://i.ytimg.com/vi/5i-RsnPNyxo/hqdefault.jpg"
         },
         {
             "video_id": "mnppE562IpM",
@@ -205,17 +205,17 @@
             "channel_name": "추억의 K트롯",
             "category": "Music",
             "duration": "2:07:12",
-            "view_count": "6582",
+            "view_count": "6894",
             "thumbnail_url": "https://i.ytimg.com/vi/mnppE562IpM/hqdefault.jpg"
         },
         {
-            "video_id": "FboErKw1x50",
-            "title": "마크 동아줄 서바이벌🐯 호랑이 추격을 피해서 탈출해라",
-            "channel_name": "잠뜰 TV",
+            "video_id": "y_x-7LhKXec",
+            "title": "6년만에 돌아온 치명타 마이",
+            "channel_name": "발__젭",
             "category": "Gaming",
-            "duration": "34:22",
-            "view_count": "183574",
-            "thumbnail_url": "https://i.ytimg.com/vi/FboErKw1x50/hqdefault.jpg"
+            "duration": "17:47",
+            "view_count": "239010",
+            "thumbnail_url": "https://i.ytimg.com/vi/y_x-7LhKXec/hqdefault.jpg"
         },
         {
             "video_id": "ypiBnSLJiDg",
@@ -223,17 +223,17 @@
             "channel_name": "Banhana - Topic",
             "category": "Music",
             "duration": "4:21",
-            "view_count": "8704",
+            "view_count": "9077",
             "thumbnail_url": "https://i.ytimg.com/vi/ypiBnSLJiDg/hqdefault.jpg"
         },
         {
-            "video_id": "cydrahN8Rh4",
-            "title": "아니 몹을 창조해버리네 ㄷㄷㄷ;;;(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
+            "video_id": "ZSeOcoOdZd8",
+            "title": "클리드한테 하루종일 입터는 생배 원챔 애니비아?!",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "19:44",
-            "view_count": "172292",
-            "thumbnail_url": "https://i.ytimg.com/vi/cydrahN8Rh4/hqdefault.jpg"
+            "duration": "40:54",
+            "view_count": "57574",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZSeOcoOdZd8/hqdefault.jpg"
         },
         {
             "video_id": "hiI_f9hsC7I",
@@ -241,8 +241,44 @@
             "channel_name": "Hodge - Topic",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "251176",
+            "view_count": "254595",
             "thumbnail_url": "https://i.ytimg.com/vi/hiI_f9hsC7I/hqdefault.jpg"
+        },
+        {
+            "video_id": "FboErKw1x50",
+            "title": "마크 동아줄 서바이벌🐯 호랑이 추격을 피해서 탈출해라",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "34:22",
+            "view_count": "186309",
+            "thumbnail_url": "https://i.ytimg.com/vi/FboErKw1x50/hqdefault.jpg"
+        },
+        {
+            "video_id": "ERlE9AqiYfQ",
+            "title": "[LIVE] Car, the garden - 그대 작은 나의 세상이 되어 | 2026 단독공연 'BLUE HEART'",
+            "channel_name": "카더가든 (Car, the garden)",
+            "category": "Music",
+            "duration": "3:59",
+            "view_count": "16453",
+            "thumbnail_url": "https://i.ytimg.com/vi/ERlE9AqiYfQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "cydrahN8Rh4",
+            "title": "아니 몹을 창조해버리네 ㄷㄷㄷ;;;(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "19:44",
+            "view_count": "175448",
+            "thumbnail_url": "https://i.ytimg.com/vi/cydrahN8Rh4/hqdefault.jpg"
+        },
+        {
+            "video_id": "bnxE5Pp7iRg",
+            "title": "I Dream",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "4:19",
+            "view_count": "2366",
+            "thumbnail_url": "https://i.ytimg.com/vi/bnxE5Pp7iRg/hqdefault.jpg"
         },
         {
             "video_id": "TUuaZ5LYzZ4",
@@ -250,7 +286,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "18:33",
-            "view_count": "382852",
+            "view_count": "384713",
             "thumbnail_url": "https://i.ytimg.com/vi/TUuaZ5LYzZ4/hqdefault.jpg"
         },
         {
@@ -259,26 +295,8 @@
             "channel_name": "SIYEON (Dreamcatcher) - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "204594",
+            "view_count": "207440",
             "thumbnail_url": "https://i.ytimg.com/vi/jEVnFdnXe1A/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZSeOcoOdZd8",
-            "title": "클리드한테 하루종일 입터는 생배 원챔 애니비아?!",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "40:54",
-            "view_count": "46571",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZSeOcoOdZd8/hqdefault.jpg"
-        },
-        {
-            "video_id": "82s8PRgYSRU",
-            "title": "Daydream",
-            "channel_name": "WENDY - Topic",
-            "category": "Music",
-            "duration": "4:35",
-            "view_count": "1005753",
-            "thumbnail_url": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg"
         },
         {
             "video_id": "z05J1WSYwjs",
@@ -286,26 +304,26 @@
             "channel_name": "롤박사 해도리",
             "category": "Gaming",
             "duration": "3:13",
-            "view_count": "211257",
+            "view_count": "215186",
             "thumbnail_url": "https://i.ytimg.com/vi/z05J1WSYwjs/hqdefault.jpg"
         },
         {
-            "video_id": "ERlE9AqiYfQ",
-            "title": "[LIVE] Car, the garden - 그대 작은 나의 세상이 되어 | 2026 단독공연 'BLUE HEART'",
-            "channel_name": "카더가든 (Car, the garden)",
+            "video_id": "82s8PRgYSRU",
+            "title": "Daydream",
+            "channel_name": "WENDY - Topic",
             "category": "Music",
-            "duration": "3:59",
-            "view_count": "15490",
-            "thumbnail_url": "https://i.ytimg.com/vi/ERlE9AqiYfQ/hqdefault.jpg"
+            "duration": "4:35",
+            "view_count": "1016767",
+            "thumbnail_url": "https://i.ytimg.com/vi/82s8PRgYSRU/hqdefault.jpg"
         },
         {
-            "video_id": "TM5AI33RXb4",
-            "title": "김민교의 정치 따위는 통하지 않는 롤진남들ㅋㅋㅋㅋ",
-            "channel_name": "튜브김민교",
+            "video_id": "iCFINV8Y8PY",
+            "title": "≪쿼런틴 존 정식출시!!🔥≫ 인류 99.9%가 멸망한 세상, 사람인척 하는 좀비를 찾아내라.",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "46:38",
-            "view_count": "256790",
-            "thumbnail_url": "https://i.ytimg.com/vi/TM5AI33RXb4/hqdefault.jpg"
+            "duration": "1:09:17",
+            "view_count": "50178",
+            "thumbnail_url": "https://i.ytimg.com/vi/iCFINV8Y8PY/hqdefault.jpg"
         },
         {
             "video_id": "O0ZtSbqGz0k",
@@ -313,17 +331,17 @@
             "channel_name": "We Are the Night - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "191968",
+            "view_count": "194877",
             "thumbnail_url": "https://i.ytimg.com/vi/O0ZtSbqGz0k/hqdefault.jpg"
         },
         {
-            "video_id": "xD_du8I2p38",
-            "title": "[🔴LIVE]리니지클래식 유로패스권 삭제, 여론의승리↗️겜방 젤데이는..글쎄 [아가리계엄 가짜뉴스 고소각]",
-            "channel_name": "만만",
+            "video_id": "TM5AI33RXb4",
+            "title": "김민교의 정치 따위는 통하지 않는 롤진남들ㅋㅋㅋㅋ",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "3:09:58",
-            "view_count": "168883",
-            "thumbnail_url": "https://i.ytimg.com/vi/xD_du8I2p38/hqdefault.jpg"
+            "duration": "46:38",
+            "view_count": "258124",
+            "thumbnail_url": "https://i.ytimg.com/vi/TM5AI33RXb4/hqdefault.jpg"
         },
         {
             "video_id": "0aOU-LBtxUI",
@@ -331,7 +349,7 @@
             "channel_name": "Louis Tomlinson - Topic",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "194555",
+            "view_count": "195887",
             "thumbnail_url": "https://i.ytimg.com/vi/0aOU-LBtxUI/hqdefault.jpg"
         },
         {
@@ -340,44 +358,26 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "12:31",
-            "view_count": "153191",
+            "view_count": "155312",
             "thumbnail_url": "https://i.ytimg.com/vi/LGeYxj4Hf8o/hqdefault.jpg"
         },
         {
-            "video_id": "r0ArFI0CXr8",
-            "title": "Promise",
-            "channel_name": "Wonstein - Topic",
+            "video_id": "7sfUhayURd0",
+            "title": "이승윤 - 어버버버(Stutter) Live Clip @ 2025 LEE SEUNG YOON CONCERT [URDINGAR]",
+            "channel_name": "이승윤",
             "category": "Music",
-            "duration": "3:09",
-            "view_count": "776795",
-            "thumbnail_url": "https://i.ytimg.com/vi/r0ArFI0CXr8/hqdefault.jpg"
+            "duration": "4:09",
+            "view_count": "3611",
+            "thumbnail_url": "https://i.ytimg.com/vi/7sfUhayURd0/hqdefault.jpg"
         },
         {
-            "video_id": "SsTFGS3CfZk",
-            "title": "시작한지 단 1분만에 우승 확정 ㅋㅋㅋㅋ 싸우기도전에 뜬 세나에서 시작되는 레전드 사기판 ㄷㄷㄷㄷ",
-            "channel_name": "전쓰트의 게임 채널 Junsst",
+            "video_id": "xD_du8I2p38",
+            "title": "[🔴LIVE]리니지클래식 유로패스권 삭제, 여론의승리↗️겜방 젤데이는..글쎄 [아가리계엄 가짜뉴스 고소각]",
+            "channel_name": "만만",
             "category": "Gaming",
-            "duration": "15:27",
-            "view_count": "85396",
-            "thumbnail_url": "https://i.ytimg.com/vi/SsTFGS3CfZk/hqdefault.jpg"
-        },
-        {
-            "video_id": "bnxE5Pp7iRg",
-            "title": "I Dream",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "4:19",
-            "view_count": "1789",
-            "thumbnail_url": "https://i.ytimg.com/vi/bnxE5Pp7iRg/hqdefault.jpg"
-        },
-        {
-            "video_id": "-S99FZl4A1k",
-            "title": "[LIVE] 1월 21일 아이온2 긴급 라이브 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "16:10",
-            "view_count": "139600",
-            "thumbnail_url": "https://i.ytimg.com/vi/-S99FZl4A1k/hqdefault.jpg"
+            "duration": "3:09:58",
+            "view_count": "169382",
+            "thumbnail_url": "https://i.ytimg.com/vi/xD_du8I2p38/hqdefault.jpg"
         }
     ]
 }
