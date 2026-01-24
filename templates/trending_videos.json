@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-24 10:54:48",
+    "scraped_time": "2026-01-24 12:38:27",
     "videos": [
         {
             "video_id": "anzBQFMJK-s",
@@ -7,7 +7,7 @@
             "channel_name": "XG - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "128471",
+            "view_count": "137807",
             "thumbnail_url": "https://i.ytimg.com/vi/anzBQFMJK-s/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:50",
-            "view_count": "185862",
+            "view_count": "189049",
             "thumbnail_url": "https://i.ytimg.com/vi/eaWMv7rgqwY/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "Bang",
             "category": "Gaming",
             "duration": "33:01",
-            "view_count": "240221",
+            "view_count": "250659",
             "thumbnail_url": "https://i.ytimg.com/vi/Ry3QEVq9iiI/hqdefault.jpg"
         },
         {
@@ -34,35 +34,8 @@
             "channel_name": "Hebi - Topic",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "97452",
+            "view_count": "102102",
             "thumbnail_url": "https://i.ytimg.com/vi/WQmzbVpCLGo/hqdefault.jpg"
-        },
-        {
-            "video_id": "AZBXAYYsC18",
-            "title": "\"생존율 1%\" ≪어벤져스: 둠스데이≫ 최종 티저 예고편 총정리 + 전체 팀 떡밥 분석",
-            "channel_name": "무비띵크_Movie Think",
-            "category": "Film & Animation",
-            "duration": "16:38",
-            "view_count": "437780",
-            "thumbnail_url": "https://i.ytimg.com/vi/AZBXAYYsC18/hqdefault.jpg"
-        },
-        {
-            "video_id": "m7Deh-u0WPI",
-            "title": "운동 많이 된다",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "21:14",
-            "view_count": "293474",
-            "thumbnail_url": "https://i.ytimg.com/vi/m7Deh-u0WPI/hqdefault.jpg"
-        },
-        {
-            "video_id": "FukSr00Qnro",
-            "title": "Aperture",
-            "channel_name": "Harry Styles - Topic",
-            "category": "Music",
-            "duration": "5:12",
-            "view_count": "665242",
-            "thumbnail_url": "https://i.ytimg.com/vi/FukSr00Qnro/hqdefault.jpg"
         },
         {
             "video_id": "XGcvgr27sac",
@@ -70,7 +43,7 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "2:25",
-            "view_count": "325352",
+            "view_count": "380133",
             "thumbnail_url": "https://i.ytimg.com/vi/XGcvgr27sac/hqdefault.jpg"
         },
         {
@@ -79,8 +52,35 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "55:56",
-            "view_count": "154371",
+            "view_count": "182509",
             "thumbnail_url": "https://i.ytimg.com/vi/7ztCSYvthKw/hqdefault.jpg"
+        },
+        {
+            "video_id": "FukSr00Qnro",
+            "title": "Aperture",
+            "channel_name": "Harry Styles - Topic",
+            "category": "Music",
+            "duration": "5:12",
+            "view_count": "698668",
+            "thumbnail_url": "https://i.ytimg.com/vi/FukSr00Qnro/hqdefault.jpg"
+        },
+        {
+            "video_id": "AZBXAYYsC18",
+            "title": "\"생존율 1%\" ≪어벤져스: 둠스데이≫ 최종 티저 예고편 총정리 + 전체 팀 떡밥 분석",
+            "channel_name": "무비띵크_Movie Think",
+            "category": "Film & Animation",
+            "duration": "16:38",
+            "view_count": "439925",
+            "thumbnail_url": "https://i.ytimg.com/vi/AZBXAYYsC18/hqdefault.jpg"
+        },
+        {
+            "video_id": "h8zYMtU06jA",
+            "title": "그때까지만 버티면...!!😲│T1 vs KT│2026 LCK CUP│울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "55:00",
+            "view_count": "136708",
+            "thumbnail_url": "https://i.ytimg.com/vi/h8zYMtU06jA/hqdefault.jpg"
         },
         {
             "video_id": "mXTf9cvMTrI",
@@ -88,7 +88,7 @@
             "channel_name": "SUNG HAN BIN - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "53637",
+            "view_count": "56481",
             "thumbnail_url": "https://i.ytimg.com/vi/mXTf9cvMTrI/hqdefault.jpg"
         },
         {
@@ -97,17 +97,17 @@
             "channel_name": "Forza",
             "category": "Gaming",
             "duration": "0:48",
-            "view_count": "1340274",
+            "view_count": "1370064",
             "thumbnail_url": "https://i.ytimg.com/vi/pWw-UENvdTw/hqdefault.jpg"
         },
         {
-            "video_id": "Op0EUG6ZXw8",
-            "title": "T1 vs KT - NS vs DRX | 2026 LCK CUP",
-            "channel_name": "LCK Global",
+            "video_id": "m7Deh-u0WPI",
+            "title": "운동 많이 된다",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "5:46:16",
-            "view_count": "1280146",
-            "thumbnail_url": "https://i.ytimg.com/vi/Op0EUG6ZXw8/hqdefault.jpg"
+            "duration": "21:14",
+            "view_count": "308062",
+            "thumbnail_url": "https://i.ytimg.com/vi/m7Deh-u0WPI/hqdefault.jpg"
         },
         {
             "video_id": "bnxE5Pp7iRg",
@@ -115,26 +115,8 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "34399",
+            "view_count": "37152",
             "thumbnail_url": "https://i.ytimg.com/vi/bnxE5Pp7iRg/hqdefault.jpg"
-        },
-        {
-            "video_id": "X8J2JxoObbI",
-            "title": "유기사가 달라졌다?! 팀 나빠 멤버들 과거 털기!!ㅋㅋ (멜로우 포함 ㅠ)",
-            "channel_name": "멜로우TV",
-            "category": "Gaming",
-            "duration": "16:21",
-            "view_count": "247270",
-            "thumbnail_url": "https://i.ytimg.com/vi/X8J2JxoObbI/hqdefault.jpg"
-        },
-        {
-            "video_id": "977-Ce1-zuE",
-            "title": "Even If This Love Disappears Tonight",
-            "channel_name": "Jeon Sang Keun - Topic",
-            "category": "Music",
-            "duration": "3:40",
-            "view_count": "70416",
-            "thumbnail_url": "https://i.ytimg.com/vi/977-Ce1-zuE/hqdefault.jpg"
         },
         {
             "video_id": "Ozv0BRrgaLA",
@@ -142,8 +124,44 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "41:40",
-            "view_count": "185702",
+            "view_count": "205250",
             "thumbnail_url": "https://i.ytimg.com/vi/Ozv0BRrgaLA/hqdefault.jpg"
+        },
+        {
+            "video_id": "tzU_biDifD4",
+            "title": "Night Drive",
+            "channel_name": "STUTS - Topic",
+            "category": "Music",
+            "duration": "3:27",
+            "view_count": "17305",
+            "thumbnail_url": "https://i.ytimg.com/vi/tzU_biDifD4/hqdefault.jpg"
+        },
+        {
+            "video_id": "Op0EUG6ZXw8",
+            "title": "T1 vs KT - NS vs DRX | 2026 LCK CUP",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "5:46:16",
+            "view_count": "1285962",
+            "thumbnail_url": "https://i.ytimg.com/vi/Op0EUG6ZXw8/hqdefault.jpg"
+        },
+        {
+            "video_id": "977-Ce1-zuE",
+            "title": "Even If This Love Disappears Tonight",
+            "channel_name": "Jeon Sang Keun - Topic",
+            "category": "Music",
+            "duration": "3:40",
+            "view_count": "73535",
+            "thumbnail_url": "https://i.ytimg.com/vi/977-Ce1-zuE/hqdefault.jpg"
+        },
+        {
+            "video_id": "X8J2JxoObbI",
+            "title": "유기사가 달라졌다?! 팀 나빠 멤버들 과거 털기!!ㅋㅋ (멜로우 포함 ㅠ)",
+            "channel_name": "멜로우TV",
+            "category": "Gaming",
+            "duration": "16:21",
+            "view_count": "271159",
+            "thumbnail_url": "https://i.ytimg.com/vi/X8J2JxoObbI/hqdefault.jpg"
         },
         {
             "video_id": "7MLLBtbT8fU",
@@ -151,26 +169,8 @@
             "channel_name": "ryo (supercell) - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "150052",
+            "view_count": "156254",
             "thumbnail_url": "https://i.ytimg.com/vi/7MLLBtbT8fU/hqdefault.jpg"
-        },
-        {
-            "video_id": "h8zYMtU06jA",
-            "title": "그때까지만 버티면...!!😲│T1 vs KT│2026 LCK CUP│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "55:00",
-            "view_count": "100381",
-            "thumbnail_url": "https://i.ytimg.com/vi/h8zYMtU06jA/hqdefault.jpg"
-        },
-        {
-            "video_id": "ypiBnSLJiDg",
-            "title": "With a smile",
-            "channel_name": "Banhana - Topic",
-            "category": "Music",
-            "duration": "4:21",
-            "view_count": "32044",
-            "thumbnail_url": "https://i.ytimg.com/vi/ypiBnSLJiDg/hqdefault.jpg"
         },
         {
             "video_id": "9W0gfe4_YvU",
@@ -178,17 +178,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:21",
-            "view_count": "268508",
+            "view_count": "293202",
             "thumbnail_url": "https://i.ytimg.com/vi/9W0gfe4_YvU/hqdefault.jpg"
         },
         {
-            "video_id": "gNg2Qw5R-Q4",
-            "title": "natori - Serenade",
-            "channel_name": "なとり / natori",
+            "video_id": "ypiBnSLJiDg",
+            "title": "With a smile",
+            "channel_name": "Banhana - Topic",
             "category": "Music",
-            "duration": "3:38",
-            "view_count": "962235",
-            "thumbnail_url": "https://i.ytimg.com/vi/gNg2Qw5R-Q4/hqdefault.jpg"
+            "duration": "4:21",
+            "view_count": "35696",
+            "thumbnail_url": "https://i.ytimg.com/vi/ypiBnSLJiDg/hqdefault.jpg"
         },
         {
             "video_id": "iCFINV8Y8PY",
@@ -196,8 +196,26 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "1:09:17",
-            "view_count": "366382",
+            "view_count": "374068",
             "thumbnail_url": "https://i.ytimg.com/vi/iCFINV8Y8PY/hqdefault.jpg"
+        },
+        {
+            "video_id": "gNg2Qw5R-Q4",
+            "title": "natori - Serenade",
+            "channel_name": "なとり / natori",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "983074",
+            "thumbnail_url": "https://i.ytimg.com/vi/gNg2Qw5R-Q4/hqdefault.jpg"
+        },
+        {
+            "video_id": "TGA__naB7Fw",
+            "title": "목을 쳤어야지.. 밸류의 맛 | LCK컵 T1 vs KT 스트리머 리액션 반응 모음",
+            "channel_name": "Ju1st",
+            "category": "Gaming",
+            "duration": "1:08:42",
+            "view_count": "153525",
+            "thumbnail_url": "https://i.ytimg.com/vi/TGA__naB7Fw/hqdefault.jpg"
         },
         {
             "video_id": "mbiN9853aic",
@@ -205,7 +223,7 @@
             "channel_name": "EXO - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "974327",
+            "view_count": "985482",
             "thumbnail_url": "https://i.ytimg.com/vi/mbiN9853aic/hqdefault.jpg"
         },
         {
@@ -214,7 +232,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "42:17",
-            "view_count": "171013",
+            "view_count": "178296",
             "thumbnail_url": "https://i.ytimg.com/vi/XGQPwoCDlMA/hqdefault.jpg"
         },
         {
@@ -223,26 +241,8 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "23629725",
+            "view_count": "23683226",
             "thumbnail_url": "https://i.ytimg.com/vi/BWfKkqo1Mk8/hqdefault.jpg"
-        },
-        {
-            "video_id": "TGA__naB7Fw",
-            "title": "목을 쳤어야지.. 밸류의 맛 | LCK컵 T1 vs KT 스트리머 리액션 반응 모음",
-            "channel_name": "Ju1st",
-            "category": "Gaming",
-            "duration": "1:08:42",
-            "view_count": "139469",
-            "thumbnail_url": "https://i.ytimg.com/vi/TGA__naB7Fw/hqdefault.jpg"
-        },
-        {
-            "video_id": "JUeZL0TyT3I",
-            "title": "ZEROBASEONE (제로베이스원) ‘ROSES’ MV",
-            "channel_name": "ZEROBASEONE",
-            "category": "Entertainment",
-            "duration": "2:26",
-            "view_count": "111783",
-            "thumbnail_url": "https://i.ytimg.com/vi/JUeZL0TyT3I/hqdefault.jpg"
         },
         {
             "video_id": "pGwdKG3M8yY",
@@ -250,26 +250,26 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "13:55",
-            "view_count": "174449",
+            "view_count": "182084",
             "thumbnail_url": "https://i.ytimg.com/vi/pGwdKG3M8yY/hqdefault.jpg"
         },
         {
-            "video_id": "JysENiF030w",
-            "title": "Loved You More (feat. Lee A Young)",
-            "channel_name": "Yeoro - Topic",
-            "category": "Music",
-            "duration": "4:07",
-            "view_count": "52492",
-            "thumbnail_url": "https://i.ytimg.com/vi/JysENiF030w/hqdefault.jpg"
+            "video_id": "JUeZL0TyT3I",
+            "title": "ZEROBASEONE (제로베이스원) ‘ROSES’ MV",
+            "channel_name": "ZEROBASEONE",
+            "category": "Entertainment",
+            "duration": "2:26",
+            "view_count": "115824",
+            "thumbnail_url": "https://i.ytimg.com/vi/JUeZL0TyT3I/hqdefault.jpg"
         },
         {
-            "video_id": "Wtq_s7WDPGE",
-            "title": "하드코어 운동 많이 된다 [마크 하드코어 EP.03]",
-            "channel_name": "말왕TV",
+            "video_id": "peH6p2YcVEU",
+            "title": "01.23｜T1 vs KT 하이라이트｜2026 LCK CUP",
+            "channel_name": "강퀴TV",
             "category": "Gaming",
-            "duration": "31:51",
-            "view_count": "294837",
-            "thumbnail_url": "https://i.ytimg.com/vi/Wtq_s7WDPGE/hqdefault.jpg"
+            "duration": "32:30",
+            "view_count": "109710",
+            "thumbnail_url": "https://i.ytimg.com/vi/peH6p2YcVEU/hqdefault.jpg"
         },
         {
             "video_id": "HXumlLlXo00",
@@ -277,7 +277,7 @@
             "channel_name": "Yeo Doll",
             "category": "Music",
             "duration": "12:56:08",
-            "view_count": "11163",
+            "view_count": "12255",
             "thumbnail_url": "https://i.ytimg.com/vi/HXumlLlXo00/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "붐바야",
             "category": "Gaming",
             "duration": "5:14",
-            "view_count": "231947",
+            "view_count": "247375",
             "thumbnail_url": "https://i.ytimg.com/vi/vQfDxmVrZNk/hqdefault.jpg"
         },
         {
@@ -295,8 +295,26 @@
             "channel_name": "雨良 Amala",
             "category": "Music",
             "duration": "2:27",
-            "view_count": "295895",
+            "view_count": "322932",
             "thumbnail_url": "https://i.ytimg.com/vi/txIFj3E-kuk/hqdefault.jpg"
+        },
+        {
+            "video_id": "Wtq_s7WDPGE",
+            "title": "하드코어 운동 많이 된다 [마크 하드코어 EP.03]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "31:51",
+            "view_count": "297212",
+            "thumbnail_url": "https://i.ytimg.com/vi/Wtq_s7WDPGE/hqdefault.jpg"
+        },
+        {
+            "video_id": "JysENiF030w",
+            "title": "Loved You More (feat. Lee A Young)",
+            "channel_name": "Yeoro - Topic",
+            "category": "Music",
+            "duration": "4:07",
+            "view_count": "53924",
+            "thumbnail_url": "https://i.ytimg.com/vi/JysENiF030w/hqdefault.jpg"
         },
         {
             "video_id": "bh7vi7IMs8c",
@@ -304,26 +322,26 @@
             "channel_name": "난동군",
             "category": "Gaming",
             "duration": "6:04",
-            "view_count": "100004",
+            "view_count": "102361",
             "thumbnail_url": "https://i.ytimg.com/vi/bh7vi7IMs8c/hqdefault.jpg"
         },
         {
-            "video_id": "tzU_biDifD4",
-            "title": "Night Drive",
-            "channel_name": "STUTS - Topic",
+            "video_id": "ERlE9AqiYfQ",
+            "title": "[LIVE] Car, the garden - 그대 작은 나의 세상이 되어 | 2026 단독공연 'BLUE HEART'",
+            "channel_name": "카더가든 (Car, the garden)",
             "category": "Music",
-            "duration": "3:27",
-            "view_count": "10737",
-            "thumbnail_url": "https://i.ytimg.com/vi/tzU_biDifD4/hqdefault.jpg"
+            "duration": "3:59",
+            "view_count": "41885",
+            "thumbnail_url": "https://i.ytimg.com/vi/ERlE9AqiYfQ/hqdefault.jpg"
         },
         {
-            "video_id": "peH6p2YcVEU",
-            "title": "01.23｜T1 vs KT 하이라이트｜2026 LCK CUP",
-            "channel_name": "강퀴TV",
+            "video_id": "Q-GvMsJEdTA",
+            "title": "현재 로블록스 1등 공포게임! 타코가게에서 알바를 하는데 손님이 이상하다?! (로블록스 샤와르마 키오스크)",
+            "channel_name": "집사TV",
             "category": "Gaming",
-            "duration": "32:30",
-            "view_count": "98283",
-            "thumbnail_url": "https://i.ytimg.com/vi/peH6p2YcVEU/hqdefault.jpg"
+            "duration": "14:23",
+            "view_count": "157376",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q-GvMsJEdTA/hqdefault.jpg"
         },
         {
             "video_id": "UD8U1KwGWH4",
@@ -331,7 +349,7 @@
             "channel_name": "박서진",
             "category": "Entertainment",
             "duration": "4:03",
-            "view_count": "38868",
+            "view_count": "39753",
             "thumbnail_url": "https://i.ytimg.com/vi/UD8U1KwGWH4/hqdefault.jpg"
         },
         {
@@ -340,26 +358,8 @@
             "channel_name": "준밧드",
             "category": "Gaming",
             "duration": "21:02",
-            "view_count": "155546",
+            "view_count": "157356",
             "thumbnail_url": "https://i.ytimg.com/vi/F7Yl6mMMW4c/hqdefault.jpg"
-        },
-        {
-            "video_id": "ERlE9AqiYfQ",
-            "title": "[LIVE] Car, the garden - 그대 작은 나의 세상이 되어 | 2026 단독공연 'BLUE HEART'",
-            "channel_name": "카더가든 (Car, the garden)",
-            "category": "Music",
-            "duration": "3:59",
-            "view_count": "40526",
-            "thumbnail_url": "https://i.ytimg.com/vi/ERlE9AqiYfQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "0Nl9yaPS-qE",
-            "title": "DFM vs GEN - VCT 퍼시픽 킥오프 - 상위조 라운드 1 - DAY 2",
-            "channel_name": "발로란트 챔피언스 투어",
-            "category": "Gaming",
-            "duration": "5:23:18",
-            "view_count": "173058",
-            "thumbnail_url": "https://i.ytimg.com/vi/0Nl9yaPS-qE/hqdefault.jpg"
         },
         {
             "video_id": "RefG6MTYl2g",
@@ -367,17 +367,17 @@
             "channel_name": "Dept 뎁트",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "18041",
+            "view_count": "18447",
             "thumbnail_url": "https://i.ytimg.com/vi/RefG6MTYl2g/hqdefault.jpg"
         },
         {
-            "video_id": "Q-GvMsJEdTA",
-            "title": "현재 로블록스 1등 공포게임! 타코가게에서 알바를 하는데 손님이 이상하다?! (로블록스 샤와르마 키오스크)",
-            "channel_name": "집사TV",
+            "video_id": "0Nl9yaPS-qE",
+            "title": "DFM vs GEN - VCT 퍼시픽 킥오프 - 상위조 라운드 1 - DAY 2",
+            "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
-            "duration": "14:23",
-            "view_count": "147218",
-            "thumbnail_url": "https://i.ytimg.com/vi/Q-GvMsJEdTA/hqdefault.jpg"
+            "duration": "5:23:18",
+            "view_count": "173753",
+            "thumbnail_url": "https://i.ytimg.com/vi/0Nl9yaPS-qE/hqdefault.jpg"
         }
     ]
 }
