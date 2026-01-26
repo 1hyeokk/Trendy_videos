@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-26 22:47:42",
+    "scraped_time": "2026-01-26 23:31:52",
     "videos": [
         {
             "video_id": "zhHB4dZTChw",
@@ -7,7 +7,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "334674",
+            "view_count": "478016",
             "thumbnail_url": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "2:05",
-            "view_count": "107462",
+            "view_count": "109705",
             "thumbnail_url": "https://i.ytimg.com/vi/TVXjrv8GVOU/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "28:39",
-            "view_count": "270608",
+            "view_count": "295953",
             "thumbnail_url": "https://i.ytimg.com/vi/Nzn7NdgvkMM/hqdefault.jpg"
         },
         {
-            "video_id": "TuTZCxzv0fs",
-            "title": "그러니까 내 말은 (Love letter)",
-            "channel_name": "TNX - Topic",
+            "video_id": "KL7km3PxilQ",
+            "title": "404 (New Era)",
+            "channel_name": "KiiiKiii - Topic",
             "category": "Music",
-            "duration": "3:19",
-            "view_count": "70893",
-            "thumbnail_url": "https://i.ytimg.com/vi/TuTZCxzv0fs/hqdefault.jpg"
+            "duration": "3:00",
+            "view_count": "11705",
+            "thumbnail_url": "https://i.ytimg.com/vi/KL7km3PxilQ/hqdefault.jpg"
         },
         {
             "video_id": "NeAce2n3tRc",
@@ -43,7 +43,7 @@
             "channel_name": "전한길뉴스 1waynews",
             "category": "News & Politics",
             "duration": "1:26",
-            "view_count": "15642",
+            "view_count": "15906",
             "thumbnail_url": "https://i.ytimg.com/vi/NeAce2n3tRc/hqdefault.jpg"
         },
         {
@@ -52,17 +52,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:37",
-            "view_count": "428540",
+            "view_count": "432797",
             "thumbnail_url": "https://i.ytimg.com/vi/ITLtYD1JMzA/hqdefault.jpg"
         },
         {
-            "video_id": "KL7km3PxilQ",
-            "title": "404 (New Era)",
-            "channel_name": "KiiiKiii - Topic",
+            "video_id": "TuTZCxzv0fs",
+            "title": "그러니까 내 말은 (Love letter)",
+            "channel_name": "TNX - Topic",
             "category": "Music",
-            "duration": "3:00",
-            "view_count": "9940",
-            "thumbnail_url": "https://i.ytimg.com/vi/KL7km3PxilQ/hqdefault.jpg"
+            "duration": "3:19",
+            "view_count": "71710",
+            "thumbnail_url": "https://i.ytimg.com/vi/TuTZCxzv0fs/hqdefault.jpg"
         },
         {
             "video_id": "O2KgViR63f0",
@@ -70,17 +70,17 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "49:50",
-            "view_count": "199535",
+            "view_count": "200961",
             "thumbnail_url": "https://i.ytimg.com/vi/O2KgViR63f0/hqdefault.jpg"
         },
         {
-            "video_id": "ALrIfGjGEpc",
-            "title": "Mid",
-            "channel_name": "oroodays - Topic",
+            "video_id": "3NNz56niDVY",
+            "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' M/V Teaser",
+            "channel_name": "i-dle (아이들)",
             "category": "Music",
-            "duration": "2:51",
-            "view_count": "40387",
-            "thumbnail_url": "https://i.ytimg.com/vi/ALrIfGjGEpc/hqdefault.jpg"
+            "duration": "0:27",
+            "view_count": "277035",
+            "thumbnail_url": "https://i.ytimg.com/vi/3NNz56niDVY/hqdefault.jpg"
         },
         {
             "video_id": "IBRmuKv2Vso",
@@ -88,8 +88,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "42:14",
-            "view_count": "225196",
+            "view_count": "226983",
             "thumbnail_url": "https://i.ytimg.com/vi/IBRmuKv2Vso/hqdefault.jpg"
+        },
+        {
+            "video_id": "ALrIfGjGEpc",
+            "title": "Mid",
+            "channel_name": "oroodays - Topic",
+            "category": "Music",
+            "duration": "2:51",
+            "view_count": "40922",
+            "thumbnail_url": "https://i.ytimg.com/vi/ALrIfGjGEpc/hqdefault.jpg"
+        },
+        {
+            "video_id": "nOShMeKEgVw",
+            "title": "굿 파트너 😉│T1 vs BFX│2026 LCK CUP│울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "1:24:36",
+            "view_count": "110617",
+            "thumbnail_url": "https://i.ytimg.com/vi/nOShMeKEgVw/hqdefault.jpg"
         },
         {
             "video_id": "-6b9pjpAMPc",
@@ -97,7 +115,7 @@
             "channel_name": "뱁찌 - Topic",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "59594",
+            "view_count": "60313",
             "thumbnail_url": "https://i.ytimg.com/vi/-6b9pjpAMPc/hqdefault.jpg"
         },
         {
@@ -106,7 +124,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "24:17",
-            "view_count": "267560",
+            "view_count": "270721",
             "thumbnail_url": "https://i.ytimg.com/vi/NEROwvFho8Y/hqdefault.jpg"
         },
         {
@@ -115,26 +133,8 @@
             "channel_name": "Novelbright - Topic",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "67791",
+            "view_count": "69480",
             "thumbnail_url": "https://i.ytimg.com/vi/jzDJ4ZRfVMY/hqdefault.jpg"
-        },
-        {
-            "video_id": "nOShMeKEgVw",
-            "title": "굿 파트너 😉│T1 vs BFX│2026 LCK CUP│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "1:24:36",
-            "view_count": "104059",
-            "thumbnail_url": "https://i.ytimg.com/vi/nOShMeKEgVw/hqdefault.jpg"
-        },
-        {
-            "video_id": "bnxE5Pp7iRg",
-            "title": "I Dream",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "4:19",
-            "view_count": "232377",
-            "thumbnail_url": "https://i.ytimg.com/vi/bnxE5Pp7iRg/hqdefault.jpg"
         },
         {
             "video_id": "LlPF_YIu9y0",
@@ -142,17 +142,17 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:27",
-            "view_count": "251360",
+            "view_count": "252038",
             "thumbnail_url": "https://i.ytimg.com/vi/LlPF_YIu9y0/hqdefault.jpg"
         },
         {
-            "video_id": "qSqYTl6EEYQ",
-            "title": "🎬 필헌 - 매일 듣는 노래(2026) Official Clip",
-            "channel_name": "필헌 FeelHeon",
+            "video_id": "bnxE5Pp7iRg",
+            "title": "I Dream",
+            "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "4:17",
-            "view_count": "48640",
-            "thumbnail_url": "https://i.ytimg.com/vi/qSqYTl6EEYQ/hqdefault.jpg"
+            "duration": "4:19",
+            "view_count": "234195",
+            "thumbnail_url": "https://i.ytimg.com/vi/bnxE5Pp7iRg/hqdefault.jpg"
         },
         {
             "video_id": "ClGQfZMkbxU",
@@ -160,53 +160,17 @@
             "channel_name": "LCK Global",
             "category": "Gaming",
             "duration": "6:59:10",
-            "view_count": "1518625",
+            "view_count": "1519388",
             "thumbnail_url": "https://i.ytimg.com/vi/ClGQfZMkbxU/hqdefault.jpg"
         },
         {
-            "video_id": "b6A5I68ZeT8",
-            "title": "If I Die Tomorrow",
-            "channel_name": "Chloe Adams - Topic",
+            "video_id": "qSqYTl6EEYQ",
+            "title": "🎬 필헌 - 매일 듣는 노래(2026) Official Clip",
+            "channel_name": "필헌 FeelHeon",
             "category": "Music",
-            "duration": "2:59",
-            "view_count": "41621",
-            "thumbnail_url": "https://i.ytimg.com/vi/b6A5I68ZeT8/hqdefault.jpg"
-        },
-        {
-            "video_id": "jL9UthpwEUs",
-            "title": "시작부터 미사일만 수천발을 풀공속으로 날려대는 미친 영웅 럼블",
-            "channel_name": "전쓰트의 게임 채널 Junsst",
-            "category": "Gaming",
-            "duration": "17:28",
-            "view_count": "206534",
-            "thumbnail_url": "https://i.ytimg.com/vi/jL9UthpwEUs/hqdefault.jpg"
-        },
-        {
-            "video_id": "7ehdQWIV5Ik",
-            "title": "사계(Always)",
-            "channel_name": "이준호 LEE JUNHO - Topic",
-            "category": "Music",
-            "duration": "4:01",
-            "view_count": "8712",
-            "thumbnail_url": "https://i.ytimg.com/vi/7ehdQWIV5Ik/hqdefault.jpg"
-        },
-        {
-            "video_id": "QB0W0CajKtc",
-            "title": "총검술 트페",
-            "channel_name": "Official dopa",
-            "category": "Gaming",
-            "duration": "30:23",
-            "view_count": "217028",
-            "thumbnail_url": "https://i.ytimg.com/vi/QB0W0CajKtc/hqdefault.jpg"
-        },
-        {
-            "video_id": "CuHBrVR5J7s",
-            "title": "Offline",
-            "channel_name": "Leebada - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "20350",
-            "thumbnail_url": "https://i.ytimg.com/vi/CuHBrVR5J7s/hqdefault.jpg"
+            "duration": "4:17",
+            "view_count": "50571",
+            "thumbnail_url": "https://i.ytimg.com/vi/qSqYTl6EEYQ/hqdefault.jpg"
         },
         {
             "video_id": "QhcG3J4AwQo",
@@ -214,8 +178,44 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "11:02",
-            "view_count": "58916",
+            "view_count": "64407",
             "thumbnail_url": "https://i.ytimg.com/vi/QhcG3J4AwQo/hqdefault.jpg"
+        },
+        {
+            "video_id": "7ehdQWIV5Ik",
+            "title": "사계(Always)",
+            "channel_name": "이준호 LEE JUNHO - Topic",
+            "category": "Music",
+            "duration": "4:01",
+            "view_count": "9759",
+            "thumbnail_url": "https://i.ytimg.com/vi/7ehdQWIV5Ik/hqdefault.jpg"
+        },
+        {
+            "video_id": "jL9UthpwEUs",
+            "title": "시작부터 미사일만 수천발을 풀공속으로 날려대는 미친 영웅 럼블",
+            "channel_name": "전쓰트의 게임 채널 Junsst",
+            "category": "Gaming",
+            "duration": "17:28",
+            "view_count": "207800",
+            "thumbnail_url": "https://i.ytimg.com/vi/jL9UthpwEUs/hqdefault.jpg"
+        },
+        {
+            "video_id": "b6A5I68ZeT8",
+            "title": "If I Die Tomorrow",
+            "channel_name": "Chloe Adams - Topic",
+            "category": "Music",
+            "duration": "2:59",
+            "view_count": "42475",
+            "thumbnail_url": "https://i.ytimg.com/vi/b6A5I68ZeT8/hqdefault.jpg"
+        },
+        {
+            "video_id": "iWhda3PthN0",
+            "title": "큰일났습니다...사람인척하는 좀비 찾는 게임 ㄱㅐ어려워졌습니다;",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "48:15",
+            "view_count": "76078",
+            "thumbnail_url": "https://i.ytimg.com/vi/iWhda3PthN0/hqdefault.jpg"
         },
         {
             "video_id": "anzBQFMJK-s",
@@ -223,26 +223,8 @@
             "channel_name": "XG - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "331395",
+            "view_count": "333301",
             "thumbnail_url": "https://i.ytimg.com/vi/anzBQFMJK-s/hqdefault.jpg"
-        },
-        {
-            "video_id": "Jz10pq2s5wE",
-            "title": "16.3 패치를 누구보다 잘 이해한 자의 '내내내' 아우솔",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "12:42",
-            "view_count": "200951",
-            "thumbnail_url": "https://i.ytimg.com/vi/Jz10pq2s5wE/hqdefault.jpg"
-        },
-        {
-            "video_id": "WQmzbVpCLGo",
-            "title": "Become",
-            "channel_name": "Hebi - Topic",
-            "category": "Music",
-            "duration": "3:11",
-            "view_count": "275730",
-            "thumbnail_url": "https://i.ytimg.com/vi/WQmzbVpCLGo/hqdefault.jpg"
         },
         {
             "video_id": "sUmRtecWz7I",
@@ -250,8 +232,44 @@
             "channel_name": "피넛",
             "category": "Gaming",
             "duration": "35:58",
-            "view_count": "94036",
+            "view_count": "101844",
             "thumbnail_url": "https://i.ytimg.com/vi/sUmRtecWz7I/hqdefault.jpg"
+        },
+        {
+            "video_id": "CuHBrVR5J7s",
+            "title": "Offline",
+            "channel_name": "Leebada - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "20578",
+            "thumbnail_url": "https://i.ytimg.com/vi/CuHBrVR5J7s/hqdefault.jpg"
+        },
+        {
+            "video_id": "QB0W0CajKtc",
+            "title": "총검술 트페",
+            "channel_name": "Official dopa",
+            "category": "Gaming",
+            "duration": "30:23",
+            "view_count": "218586",
+            "thumbnail_url": "https://i.ytimg.com/vi/QB0W0CajKtc/hqdefault.jpg"
+        },
+        {
+            "video_id": "WQmzbVpCLGo",
+            "title": "Become",
+            "channel_name": "Hebi - Topic",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "277762",
+            "thumbnail_url": "https://i.ytimg.com/vi/WQmzbVpCLGo/hqdefault.jpg"
+        },
+        {
+            "video_id": "Jz10pq2s5wE",
+            "title": "16.3 패치를 누구보다 잘 이해한 자의 '내내내' 아우솔",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "12:42",
+            "view_count": "201765",
+            "thumbnail_url": "https://i.ytimg.com/vi/Jz10pq2s5wE/hqdefault.jpg"
         },
         {
             "video_id": "LNKzn2TU7L0",
@@ -259,7 +277,7 @@
             "channel_name": "Louis Tomlinson - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "154460",
+            "view_count": "155811",
             "thumbnail_url": "https://i.ytimg.com/vi/LNKzn2TU7L0/hqdefault.jpg"
         },
         {
@@ -268,7 +286,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "29:55",
-            "view_count": "339176",
+            "view_count": "340136",
             "thumbnail_url": "https://i.ytimg.com/vi/e_aZakckaU8/hqdefault.jpg"
         },
         {
@@ -277,7 +295,7 @@
             "channel_name": "Aqu3ra - Topic",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "132616",
+            "view_count": "134256",
             "thumbnail_url": "https://i.ytimg.com/vi/hqx09wf56PM/hqdefault.jpg"
         },
         {
@@ -286,7 +304,7 @@
             "channel_name": "조나스",
             "category": "Gaming",
             "duration": "38:33",
-            "view_count": "170117",
+            "view_count": "174082",
             "thumbnail_url": "https://i.ytimg.com/vi/6vR0RCACYNw/hqdefault.jpg"
         },
         {
@@ -295,26 +313,8 @@
             "channel_name": "40mP - Topic",
             "category": "Music",
             "duration": "4:21",
-            "view_count": "101203",
+            "view_count": "102399",
             "thumbnail_url": "https://i.ytimg.com/vi/DzBu_EsLkRU/hqdefault.jpg"
-        },
-        {
-            "video_id": "lfYY9-uiDoI",
-            "title": "역대급 난장판 영상",
-            "channel_name": "이루의 마인크래프트",
-            "category": "Gaming",
-            "duration": "29:47",
-            "view_count": "183396",
-            "thumbnail_url": "https://i.ytimg.com/vi/lfYY9-uiDoI/hqdefault.jpg"
-        },
-        {
-            "video_id": "5KukuoqXERc",
-            "title": "[최신가요연속듣기 2026] KPOP 노동요 🍅 2026년 1월 26일 5주차, 멜론차트 X, 노래모음 플레이리스트 멜론 종합차트",
-            "channel_name": "Yeo Doll",
-            "category": "Music",
-            "duration": "12:18:46",
-            "view_count": "6656",
-            "thumbnail_url": "https://i.ytimg.com/vi/5KukuoqXERc/hqdefault.jpg"
         },
         {
             "video_id": "qoVNe3njLRM",
@@ -322,8 +322,26 @@
             "channel_name": "하네 HANE - 로블록스 게임채널",
             "category": "Gaming",
             "duration": "23:07",
-            "view_count": "114532",
+            "view_count": "117344",
             "thumbnail_url": "https://i.ytimg.com/vi/qoVNe3njLRM/hqdefault.jpg"
+        },
+        {
+            "video_id": "5KukuoqXERc",
+            "title": "[최신가요연속듣기 2026] KPOP 노동요 🍅 2026년 1월 26일 5주차, 멜론차트 X, 노래모음 플레이리스트 멜론 종합차트",
+            "channel_name": "Yeo Doll",
+            "category": "Music",
+            "duration": "12:18:46",
+            "view_count": "7869",
+            "thumbnail_url": "https://i.ytimg.com/vi/5KukuoqXERc/hqdefault.jpg"
+        },
+        {
+            "video_id": "lfYY9-uiDoI",
+            "title": "역대급 난장판 영상",
+            "channel_name": "이루의 마인크래프트",
+            "category": "Gaming",
+            "duration": "29:47",
+            "view_count": "184876",
+            "thumbnail_url": "https://i.ytimg.com/vi/lfYY9-uiDoI/hqdefault.jpg"
         },
         {
             "video_id": "LwxY3YK76Nk",
@@ -331,7 +349,7 @@
             "channel_name": "Ha Hyun Sang - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "16072",
+            "view_count": "16317",
             "thumbnail_url": "https://i.ytimg.com/vi/LwxY3YK76Nk/hqdefault.jpg"
         },
         {
@@ -340,7 +358,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "11:53",
-            "view_count": "219806",
+            "view_count": "220983",
             "thumbnail_url": "https://i.ytimg.com/vi/geYN-w83MG8/hqdefault.jpg"
         },
         {
@@ -349,35 +367,17 @@
             "channel_name": "SUNG HAN BIN - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "122563",
+            "view_count": "123032",
             "thumbnail_url": "https://i.ytimg.com/vi/mXTf9cvMTrI/hqdefault.jpg"
         },
         {
-            "video_id": "iWhda3PthN0",
-            "title": "큰일났습니다...사람인척하는 좀비 찾는 게임 ㄱㅐ어려워졌습니다;",
-            "channel_name": "혜안",
+            "video_id": "N0HCanKER84",
+            "title": "과연 여자 유튜버중 라이벌 최강자는..!?",
+            "channel_name": "꼬예유의 로블록스 저장소",
             "category": "Gaming",
-            "duration": "48:15",
-            "view_count": "62852",
-            "thumbnail_url": "https://i.ytimg.com/vi/iWhda3PthN0/hqdefault.jpg"
-        },
-        {
-            "video_id": "075raB27CW8",
-            "title": "ray (超かぐや姫！ Version)",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "5:02",
-            "view_count": "174842",
-            "thumbnail_url": "https://i.ytimg.com/vi/075raB27CW8/hqdefault.jpg"
-        },
-        {
-            "video_id": "-19EljsRfC8",
-            "title": "새시즌 신지드가 신이 됩니다. 신템 원형질 안전벨트로 떡상한 \"탑 오버파밍 신지드 전략\" 🤢💨",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "24:13",
-            "view_count": "163367",
-            "thumbnail_url": "https://i.ytimg.com/vi/-19EljsRfC8/hqdefault.jpg"
+            "duration": "29:28",
+            "view_count": "76488",
+            "thumbnail_url": "https://i.ytimg.com/vi/N0HCanKER84/hqdefault.jpg"
         }
     ]
 }
