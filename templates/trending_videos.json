@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-26 11:08:11",
+    "scraped_time": "2026-01-26 13:17:10",
     "videos": [
         {
             "video_id": "TuTZCxzv0fs",
@@ -7,7 +7,7 @@
             "channel_name": "TNX - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "39321",
+            "view_count": "47136",
             "thumbnail_url": "https://i.ytimg.com/vi/TuTZCxzv0fs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "2:05",
-            "view_count": "43298",
+            "view_count": "63942",
             "thumbnail_url": "https://i.ytimg.com/vi/TVXjrv8GVOU/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:37",
-            "view_count": "313430",
+            "view_count": "337521",
             "thumbnail_url": "https://i.ytimg.com/vi/ITLtYD1JMzA/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "oroodays - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "23463",
+            "view_count": "26741",
             "thumbnail_url": "https://i.ytimg.com/vi/ALrIfGjGEpc/hqdefault.jpg"
         },
         {
@@ -43,26 +43,8 @@
             "channel_name": "DOCLIP :: 두클립",
             "category": "Film & Animation",
             "duration": "13:38",
-            "view_count": "62670",
+            "view_count": "63602",
             "thumbnail_url": "https://i.ytimg.com/vi/rZ2R_8TAKVk/hqdefault.jpg"
-        },
-        {
-            "video_id": "ClGQfZMkbxU",
-            "title": "T1 vs BFX - KT vs BRO | 2026 LCK CUP",
-            "channel_name": "LCK Global",
-            "category": "Gaming",
-            "duration": "6:59:10",
-            "view_count": "1499040",
-            "thumbnail_url": "https://i.ytimg.com/vi/ClGQfZMkbxU/hqdefault.jpg"
-        },
-        {
-            "video_id": "-6b9pjpAMPc",
-            "title": "잘했고, 잘하고 있고, 잘할 거야",
-            "channel_name": "뱁찌 - Topic",
-            "category": "Music",
-            "duration": "3:33",
-            "view_count": "42594",
-            "thumbnail_url": "https://i.ytimg.com/vi/-6b9pjpAMPc/hqdefault.jpg"
         },
         {
             "video_id": "O2KgViR63f0",
@@ -70,8 +52,26 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "49:50",
-            "view_count": "149725",
+            "view_count": "161821",
             "thumbnail_url": "https://i.ytimg.com/vi/O2KgViR63f0/hqdefault.jpg"
+        },
+        {
+            "video_id": "-6b9pjpAMPc",
+            "title": "잘했고, 잘하고 있고, 잘할 거야",
+            "channel_name": "뱁찌 - Topic",
+            "category": "Music",
+            "duration": "3:33",
+            "view_count": "46759",
+            "thumbnail_url": "https://i.ytimg.com/vi/-6b9pjpAMPc/hqdefault.jpg"
+        },
+        {
+            "video_id": "ClGQfZMkbxU",
+            "title": "T1 vs BFX - KT vs BRO | 2026 LCK CUP",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "6:59:10",
+            "view_count": "1503180",
+            "thumbnail_url": "https://i.ytimg.com/vi/ClGQfZMkbxU/hqdefault.jpg"
         },
         {
             "video_id": "bnxE5Pp7iRg",
@@ -79,26 +79,8 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "182827",
+            "view_count": "192112",
             "thumbnail_url": "https://i.ytimg.com/vi/bnxE5Pp7iRg/hqdefault.jpg"
-        },
-        {
-            "video_id": "LlPF_YIu9y0",
-            "title": "2-6에 니달리가 뜨면 벌어지는 일",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "14:27",
-            "view_count": "225456",
-            "thumbnail_url": "https://i.ytimg.com/vi/LlPF_YIu9y0/hqdefault.jpg"
-        },
-        {
-            "video_id": "anzBQFMJK-s",
-            "title": "HYPNOTIZE",
-            "channel_name": "XG - Topic",
-            "category": "Music",
-            "duration": "2:51",
-            "view_count": "287742",
-            "thumbnail_url": "https://i.ytimg.com/vi/anzBQFMJK-s/hqdefault.jpg"
         },
         {
             "video_id": "IBRmuKv2Vso",
@@ -106,26 +88,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "42:14",
-            "view_count": "161209",
+            "view_count": "177363",
             "thumbnail_url": "https://i.ytimg.com/vi/IBRmuKv2Vso/hqdefault.jpg"
         },
         {
-            "video_id": "WQmzbVpCLGo",
-            "title": "Become",
-            "channel_name": "Hebi - Topic",
+            "video_id": "anzBQFMJK-s",
+            "title": "HYPNOTIZE",
+            "channel_name": "XG - Topic",
             "category": "Music",
-            "duration": "3:11",
-            "view_count": "225152",
-            "thumbnail_url": "https://i.ytimg.com/vi/WQmzbVpCLGo/hqdefault.jpg"
+            "duration": "2:51",
+            "view_count": "295522",
+            "thumbnail_url": "https://i.ytimg.com/vi/anzBQFMJK-s/hqdefault.jpg"
         },
         {
-            "video_id": "NEROwvFho8Y",
-            "title": "상교를 위협하는 강적 등장",
-            "channel_name": "튜브김민교",
+            "video_id": "LlPF_YIu9y0",
+            "title": "2-6에 니달리가 뜨면 벌어지는 일",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "24:17",
-            "view_count": "170837",
-            "thumbnail_url": "https://i.ytimg.com/vi/NEROwvFho8Y/hqdefault.jpg"
+            "duration": "14:27",
+            "view_count": "231519",
+            "thumbnail_url": "https://i.ytimg.com/vi/LlPF_YIu9y0/hqdefault.jpg"
         },
         {
             "video_id": "jzDJ4ZRfVMY",
@@ -133,8 +115,26 @@
             "channel_name": "Novelbright - Topic",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "18812",
+            "view_count": "32222",
             "thumbnail_url": "https://i.ytimg.com/vi/jzDJ4ZRfVMY/hqdefault.jpg"
+        },
+        {
+            "video_id": "NEROwvFho8Y",
+            "title": "상교를 위협하는 강적 등장",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "24:17",
+            "view_count": "195170",
+            "thumbnail_url": "https://i.ytimg.com/vi/NEROwvFho8Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "WQmzbVpCLGo",
+            "title": "Become",
+            "channel_name": "Hebi - Topic",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "233503",
+            "thumbnail_url": "https://i.ytimg.com/vi/WQmzbVpCLGo/hqdefault.jpg"
         },
         {
             "video_id": "e_aZakckaU8",
@@ -142,26 +142,8 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "29:55",
-            "view_count": "306809",
+            "view_count": "312266",
             "thumbnail_url": "https://i.ytimg.com/vi/e_aZakckaU8/hqdefault.jpg"
-        },
-        {
-            "video_id": "mXTf9cvMTrI",
-            "title": "You Are Spring",
-            "channel_name": "SUNG HAN BIN - Topic",
-            "category": "Music",
-            "duration": "3:47",
-            "view_count": "108984",
-            "thumbnail_url": "https://i.ytimg.com/vi/mXTf9cvMTrI/hqdefault.jpg"
-        },
-        {
-            "video_id": "jL9UthpwEUs",
-            "title": "시작부터 미사일만 수천발을 풀공속으로 날려대는 미친 영웅 럼블",
-            "channel_name": "전쓰트의 게임 채널 Junsst",
-            "category": "Gaming",
-            "duration": "17:28",
-            "view_count": "154768",
-            "thumbnail_url": "https://i.ytimg.com/vi/jL9UthpwEUs/hqdefault.jpg"
         },
         {
             "video_id": "qSqYTl6EEYQ",
@@ -169,8 +151,26 @@
             "channel_name": "필헌 FeelHeon",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "25619",
+            "view_count": "28531",
             "thumbnail_url": "https://i.ytimg.com/vi/qSqYTl6EEYQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "jL9UthpwEUs",
+            "title": "시작부터 미사일만 수천발을 풀공속으로 날려대는 미친 영웅 럼블",
+            "channel_name": "전쓰트의 게임 채널 Junsst",
+            "category": "Gaming",
+            "duration": "17:28",
+            "view_count": "166248",
+            "thumbnail_url": "https://i.ytimg.com/vi/jL9UthpwEUs/hqdefault.jpg"
+        },
+        {
+            "video_id": "mXTf9cvMTrI",
+            "title": "You Are Spring",
+            "channel_name": "SUNG HAN BIN - Topic",
+            "category": "Music",
+            "duration": "3:47",
+            "view_count": "111468",
+            "thumbnail_url": "https://i.ytimg.com/vi/mXTf9cvMTrI/hqdefault.jpg"
         },
         {
             "video_id": "Jz10pq2s5wE",
@@ -178,7 +178,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "12:42",
-            "view_count": "168942",
+            "view_count": "176214",
             "thumbnail_url": "https://i.ytimg.com/vi/Jz10pq2s5wE/hqdefault.jpg"
         },
         {
@@ -187,26 +187,8 @@
             "channel_name": "Harry Styles - Topic",
             "category": "Music",
             "duration": "5:12",
-            "view_count": "1361554",
+            "view_count": "1375679",
             "thumbnail_url": "https://i.ytimg.com/vi/FukSr00Qnro/hqdefault.jpg"
-        },
-        {
-            "video_id": "XRgVmbQ5EPc",
-            "title": "뷰어십의 악마 | T1 vs KT 게임 2 하이라이트 | 2026 LCK CUP",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "15:13",
-            "view_count": "535624",
-            "thumbnail_url": "https://i.ytimg.com/vi/XRgVmbQ5EPc/hqdefault.jpg"
-        },
-        {
-            "video_id": "6Njf7nYABpk",
-            "title": "WABIF (Wide Awake before I Fall)",
-            "channel_name": "1VERSE - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "41180",
-            "thumbnail_url": "https://i.ytimg.com/vi/6Njf7nYABpk/hqdefault.jpg"
         },
         {
             "video_id": "QB0W0CajKtc",
@@ -214,80 +196,26 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "30:23",
-            "view_count": "164666",
+            "view_count": "176482",
             "thumbnail_url": "https://i.ytimg.com/vi/QB0W0CajKtc/hqdefault.jpg"
         },
         {
-            "video_id": "rEeaKWehBpU",
-            "title": "A Season That Was You",
-            "channel_name": "Jaeyeon - Topic",
+            "video_id": "6Njf7nYABpk",
+            "title": "WABIF (Wide Awake before I Fall)",
+            "channel_name": "1VERSE - Topic",
             "category": "Music",
-            "duration": "4:00",
-            "view_count": "29620",
-            "thumbnail_url": "https://i.ytimg.com/vi/rEeaKWehBpU/hqdefault.jpg"
+            "duration": "2:58",
+            "view_count": "42630",
+            "thumbnail_url": "https://i.ytimg.com/vi/6Njf7nYABpk/hqdefault.jpg"
         },
         {
-            "video_id": "geYN-w83MG8",
-            "title": "신규 반지 황홀한 악몽 스펙업! 아델 최신 환산 공개합니다 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
+            "video_id": "XRgVmbQ5EPc",
+            "title": "뷰어십의 악마 | T1 vs KT 게임 2 하이라이트 | 2026 LCK CUP",
+            "channel_name": "LCK",
             "category": "Gaming",
-            "duration": "11:53",
-            "view_count": "191591",
-            "thumbnail_url": "https://i.ytimg.com/vi/geYN-w83MG8/hqdefault.jpg"
-        },
-        {
-            "video_id": "hqx09wf56PM",
-            "title": "星降る海",
-            "channel_name": "Aqu3ra - Topic",
-            "category": "Music",
-            "duration": "4:14",
-            "view_count": "95269",
-            "thumbnail_url": "https://i.ytimg.com/vi/hqx09wf56PM/hqdefault.jpg"
-        },
-        {
-            "video_id": "h8zYMtU06jA",
-            "title": "그때까지만 버티면...!!😲│T1 vs KT│2026 LCK CUP│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "55:00",
-            "view_count": "366417",
-            "thumbnail_url": "https://i.ytimg.com/vi/h8zYMtU06jA/hqdefault.jpg"
-        },
-        {
-            "video_id": "7MLLBtbT8fU",
-            "title": "ワールドイズマイン (かぐや&月見ヤチヨ ver.) [CPK! Remix]",
-            "channel_name": "ryo (supercell) - Topic",
-            "category": "Music",
-            "duration": "3:47",
-            "view_count": "363402",
-            "thumbnail_url": "https://i.ytimg.com/vi/7MLLBtbT8fU/hqdefault.jpg"
-        },
-        {
-            "video_id": "-19EljsRfC8",
-            "title": "새시즌 신지드가 신이 됩니다. 신템 원형질 안전벨트로 떡상한 \"탑 오버파밍 신지드 전략\" 🤢💨",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "24:13",
-            "view_count": "128050",
-            "thumbnail_url": "https://i.ytimg.com/vi/-19EljsRfC8/hqdefault.jpg"
-        },
-        {
-            "video_id": "OiRq5W3BFW4",
-            "title": "내 친구의 결혼식",
-            "channel_name": "포포 - Topic",
-            "category": "Music",
-            "duration": "3:28",
-            "view_count": "29502",
-            "thumbnail_url": "https://i.ytimg.com/vi/OiRq5W3BFW4/hqdefault.jpg"
-        },
-        {
-            "video_id": "IglbtDYx3WA",
-            "title": "끝까지 가면.. 말왕이 다 이겨.. [마크 하드코어 EP.04]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "38:20",
-            "view_count": "336034",
-            "thumbnail_url": "https://i.ytimg.com/vi/IglbtDYx3WA/hqdefault.jpg"
+            "duration": "15:13",
+            "view_count": "541541",
+            "thumbnail_url": "https://i.ytimg.com/vi/XRgVmbQ5EPc/hqdefault.jpg"
         },
         {
             "video_id": "LNKzn2TU7L0",
@@ -295,17 +223,17 @@
             "channel_name": "Louis Tomlinson - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "121998",
+            "view_count": "129757",
             "thumbnail_url": "https://i.ytimg.com/vi/LNKzn2TU7L0/hqdefault.jpg"
         },
         {
-            "video_id": "d1NAYdxkItg",
-            "title": "T1에게 느껴지는 SKT의 향",
-            "channel_name": "프로관전러 P.S",
+            "video_id": "geYN-w83MG8",
+            "title": "신규 반지 황홀한 악몽 스펙업! 아델 최신 환산 공개합니다 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "23:09",
-            "view_count": "317488",
-            "thumbnail_url": "https://i.ytimg.com/vi/d1NAYdxkItg/hqdefault.jpg"
+            "duration": "11:53",
+            "view_count": "197982",
+            "thumbnail_url": "https://i.ytimg.com/vi/geYN-w83MG8/hqdefault.jpg"
         },
         {
             "video_id": "b6A5I68ZeT8",
@@ -313,53 +241,17 @@
             "channel_name": "Chloe Adams - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "16234",
+            "view_count": "20962",
             "thumbnail_url": "https://i.ytimg.com/vi/b6A5I68ZeT8/hqdefault.jpg"
         },
         {
-            "video_id": "lfYY9-uiDoI",
-            "title": "역대급 난장판 영상",
-            "channel_name": "이루의 마인크래프트",
+            "video_id": "-19EljsRfC8",
+            "title": "새시즌 신지드가 신이 됩니다. 신템 원형질 안전벨트로 떡상한 \"탑 오버파밍 신지드 전략\" 🤢💨",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "29:47",
-            "view_count": "131539",
-            "thumbnail_url": "https://i.ytimg.com/vi/lfYY9-uiDoI/hqdefault.jpg"
-        },
-        {
-            "video_id": "pHQqaCid8ac",
-            "title": "Reindeer",
-            "channel_name": "CIKI - Topic",
-            "category": "Music",
-            "duration": "2:57",
-            "view_count": "12075",
-            "thumbnail_url": "https://i.ytimg.com/vi/pHQqaCid8ac/hqdefault.jpg"
-        },
-        {
-            "video_id": "YEJA2g56IfM",
-            "title": "Peyz 첫 POM l T1 vs BFX l 2026 LCK CUP",
-            "channel_name": "Bang",
-            "category": "Gaming",
-            "duration": "35:23",
-            "view_count": "90437",
-            "thumbnail_url": "https://i.ytimg.com/vi/YEJA2g56IfM/hqdefault.jpg"
-        },
-        {
-            "video_id": "ypiBnSLJiDg",
-            "title": "With a smile",
-            "channel_name": "Banhana - Topic",
-            "category": "Music",
-            "duration": "4:21",
-            "view_count": "82991",
-            "thumbnail_url": "https://i.ytimg.com/vi/ypiBnSLJiDg/hqdefault.jpg"
-        },
-        {
-            "video_id": "tEcSXH_nGP4",
-            "title": "복수하기위해 무려 150명과의 스파링으로 실력을 갈고닦은 상대... 곧바로 숨도 못쉬게 압도하며 알파고를 농락하기 시작하는데!?ㄷㄷ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "51:29",
-            "view_count": "119911",
-            "thumbnail_url": "https://i.ytimg.com/vi/tEcSXH_nGP4/hqdefault.jpg"
+            "duration": "24:13",
+            "view_count": "135906",
+            "thumbnail_url": "https://i.ytimg.com/vi/-19EljsRfC8/hqdefault.jpg"
         },
         {
             "video_id": "CuHBrVR5J7s",
@@ -367,8 +259,116 @@
             "channel_name": "Leebada - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "12779",
+            "view_count": "14212",
             "thumbnail_url": "https://i.ytimg.com/vi/CuHBrVR5J7s/hqdefault.jpg"
+        },
+        {
+            "video_id": "h8zYMtU06jA",
+            "title": "그때까지만 버티면...!!😲│T1 vs KT│2026 LCK CUP│울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "55:00",
+            "view_count": "368566",
+            "thumbnail_url": "https://i.ytimg.com/vi/h8zYMtU06jA/hqdefault.jpg"
+        },
+        {
+            "video_id": "hqx09wf56PM",
+            "title": "星降る海",
+            "channel_name": "Aqu3ra - Topic",
+            "category": "Music",
+            "duration": "4:14",
+            "view_count": "101294",
+            "thumbnail_url": "https://i.ytimg.com/vi/hqx09wf56PM/hqdefault.jpg"
+        },
+        {
+            "video_id": "YEJA2g56IfM",
+            "title": "Peyz 첫 POM l T1 vs BFX l 2026 LCK CUP",
+            "channel_name": "Bang",
+            "category": "Gaming",
+            "duration": "35:23",
+            "view_count": "97194",
+            "thumbnail_url": "https://i.ytimg.com/vi/YEJA2g56IfM/hqdefault.jpg"
+        },
+        {
+            "video_id": "rEeaKWehBpU",
+            "title": "A Season That Was You",
+            "channel_name": "Jaeyeon - Topic",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "31233",
+            "thumbnail_url": "https://i.ytimg.com/vi/rEeaKWehBpU/hqdefault.jpg"
+        },
+        {
+            "video_id": "lfYY9-uiDoI",
+            "title": "역대급 난장판 영상",
+            "channel_name": "이루의 마인크래프트",
+            "category": "Gaming",
+            "duration": "29:47",
+            "view_count": "142151",
+            "thumbnail_url": "https://i.ytimg.com/vi/lfYY9-uiDoI/hqdefault.jpg"
+        },
+        {
+            "video_id": "OiRq5W3BFW4",
+            "title": "내 친구의 결혼식",
+            "channel_name": "포포 - Topic",
+            "category": "Music",
+            "duration": "3:28",
+            "view_count": "30569",
+            "thumbnail_url": "https://i.ytimg.com/vi/OiRq5W3BFW4/hqdefault.jpg"
+        },
+        {
+            "video_id": "d1NAYdxkItg",
+            "title": "T1에게 느껴지는 SKT의 향",
+            "channel_name": "프로관전러 P.S",
+            "category": "Gaming",
+            "duration": "23:09",
+            "view_count": "322405",
+            "thumbnail_url": "https://i.ytimg.com/vi/d1NAYdxkItg/hqdefault.jpg"
+        },
+        {
+            "video_id": "7MLLBtbT8fU",
+            "title": "ワールドイズマイン (かぐや&月見ヤチヨ ver.) [CPK! Remix]",
+            "channel_name": "ryo (supercell) - Topic",
+            "category": "Music",
+            "duration": "3:47",
+            "view_count": "374193",
+            "thumbnail_url": "https://i.ytimg.com/vi/7MLLBtbT8fU/hqdefault.jpg"
+        },
+        {
+            "video_id": "IglbtDYx3WA",
+            "title": "끝까지 가면.. 말왕이 다 이겨.. [마크 하드코어 EP.04]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "38:20",
+            "view_count": "339756",
+            "thumbnail_url": "https://i.ytimg.com/vi/IglbtDYx3WA/hqdefault.jpg"
+        },
+        {
+            "video_id": "LwxY3YK76Nk",
+            "title": "Seen the Scene",
+            "channel_name": "Ha Hyun Sang - Topic",
+            "category": "Music",
+            "duration": "3:17",
+            "view_count": "9467",
+            "thumbnail_url": "https://i.ytimg.com/vi/LwxY3YK76Nk/hqdefault.jpg"
+        },
+        {
+            "video_id": "tEcSXH_nGP4",
+            "title": "복수하기위해 무려 150명과의 스파링으로 실력을 갈고닦은 상대... 곧바로 숨도 못쉬게 압도하며 알파고를 농락하기 시작하는데!?ㄷㄷ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "51:29",
+            "view_count": "125678",
+            "thumbnail_url": "https://i.ytimg.com/vi/tEcSXH_nGP4/hqdefault.jpg"
+        },
+        {
+            "video_id": "DzBu_EsLkRU",
+            "title": "瞬間、シンフォニー。",
+            "channel_name": "40mP - Topic",
+            "category": "Music",
+            "duration": "4:21",
+            "view_count": "78174",
+            "thumbnail_url": "https://i.ytimg.com/vi/DzBu_EsLkRU/hqdefault.jpg"
         },
         {
             "video_id": "64qnI1j7NNM",
@@ -376,7 +376,7 @@
             "channel_name": "유봉훈",
             "category": "Gaming",
             "duration": "13:43",
-            "view_count": "103855",
+            "view_count": "111870",
             "thumbnail_url": "https://i.ytimg.com/vi/64qnI1j7NNM/hqdefault.jpg"
         }
     ]
