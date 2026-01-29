@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-29 17:44:45",
+    "scraped_time": "2026-01-29 18:48:53",
     "videos": [
         {
             "video_id": "DYgE3SGPEqk",
@@ -7,7 +7,7 @@
             "channel_name": "i-dle (아이들)",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "4821963",
+            "view_count": "4878907",
             "thumbnail_url": "https://i.ytimg.com/vi/DYgE3SGPEqk/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "0:46",
-            "view_count": "35716",
+            "view_count": "41200",
             "thumbnail_url": "https://i.ytimg.com/vi/9Md-huAu1HE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "백크 Baekk",
             "category": "Gaming",
             "duration": "14:52",
-            "view_count": "749579",
+            "view_count": "781697",
             "thumbnail_url": "https://i.ytimg.com/vi/W2tkATC7-lU/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "ROCOBERRY - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "83301",
+            "view_count": "87725",
             "thumbnail_url": "https://i.ytimg.com/vi/zracwhm_rxU/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "비밀의 아이프리ㅣ프리티 시리즈 공식",
             "category": "Film & Animation",
             "duration": "1:01",
-            "view_count": "31669",
+            "view_count": "32750",
             "thumbnail_url": "https://i.ytimg.com/vi/f8hnoNzMbnw/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:09",
-            "view_count": "393230",
+            "view_count": "402588",
             "thumbnail_url": "https://i.ytimg.com/vi/tMAh6CP7JVU/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "KiiiKiii - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "454871",
+            "view_count": "467386",
             "thumbnail_url": "https://i.ytimg.com/vi/KL7km3PxilQ/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "15:14",
-            "view_count": "249012",
+            "view_count": "254091",
             "thumbnail_url": "https://i.ytimg.com/vi/x-ARZ_Mxr0E/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "2094429",
+            "view_count": "2228597",
             "thumbnail_url": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "Netflix Japan",
             "category": "Entertainment",
             "duration": "1:08",
-            "view_count": "130853",
+            "view_count": "132077",
             "thumbnail_url": "https://i.ytimg.com/vi/CSy9H1QvQ60/hqdefault.jpg"
-        },
-        {
-            "video_id": "ahHJ3oaYtSw",
-            "title": "주작 방송 죄송합니다 [마크 하드코어 EP.?]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "37:51",
-            "view_count": "378681",
-            "thumbnail_url": "https://i.ytimg.com/vi/ahHJ3oaYtSw/hqdefault.jpg"
-        },
-        {
-            "video_id": "Tsr3lBEn9ww",
-            "title": "Seungmin \"제자리걸음 (Still here)\" | [Stray Kids : SKZ-RECORD]",
-            "channel_name": "Stray Kids",
-            "category": "Music",
-            "duration": "3:05",
-            "view_count": "707511",
-            "thumbnail_url": "https://i.ytimg.com/vi/Tsr3lBEn9ww/hqdefault.jpg"
         },
         {
             "video_id": "HpCChfeBdfY",
@@ -124,8 +106,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "44:15",
-            "view_count": "144639",
+            "view_count": "154954",
             "thumbnail_url": "https://i.ytimg.com/vi/HpCChfeBdfY/hqdefault.jpg"
+        },
+        {
+            "video_id": "Tsr3lBEn9ww",
+            "title": "Seungmin \"제자리걸음 (Still here)\" | [Stray Kids : SKZ-RECORD]",
+            "channel_name": "Stray Kids",
+            "category": "Music",
+            "duration": "3:05",
+            "view_count": "727568",
+            "thumbnail_url": "https://i.ytimg.com/vi/Tsr3lBEn9ww/hqdefault.jpg"
+        },
+        {
+            "video_id": "ahHJ3oaYtSw",
+            "title": "주작 방송 죄송합니다 [마크 하드코어 EP.?]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "37:51",
+            "view_count": "386401",
+            "thumbnail_url": "https://i.ytimg.com/vi/ahHJ3oaYtSw/hqdefault.jpg"
         },
         {
             "video_id": "AN9IhHMRcKo",
@@ -133,7 +133,7 @@
             "channel_name": "Joob A - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "11711",
+            "view_count": "12670",
             "thumbnail_url": "https://i.ytimg.com/vi/AN9IhHMRcKo/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "지존조세",
             "category": "Gaming",
             "duration": "11:49",
-            "view_count": "295225",
+            "view_count": "299052",
             "thumbnail_url": "https://i.ytimg.com/vi/j6ikO-UOs3k/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "Soala - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "73142",
+            "view_count": "77461",
             "thumbnail_url": "https://i.ytimg.com/vi/RuR3R1qQwOI/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "20:13",
-            "view_count": "350675",
+            "view_count": "355844",
             "thumbnail_url": "https://i.ytimg.com/vi/vCnlabkClSQ/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "4:22",
-            "view_count": "277247",
+            "view_count": "284809",
             "thumbnail_url": "https://i.ytimg.com/vi/kb9vcbcBf8Y/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "33:35",
-            "view_count": "264359",
+            "view_count": "268356",
             "thumbnail_url": "https://i.ytimg.com/vi/-7LrhsMpPFk/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "Billlie - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "51628",
+            "view_count": "52892",
             "thumbnail_url": "https://i.ytimg.com/vi/0ZrO8_AKVcc/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "44:13",
-            "view_count": "116221",
+            "view_count": "119874",
             "thumbnail_url": "https://i.ytimg.com/vi/2OKr5MdgSFs/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "Feel Heon - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "78581",
+            "view_count": "79674",
             "thumbnail_url": "https://i.ytimg.com/vi/Ndu5zxZSIQE/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "22:14",
-            "view_count": "227117",
+            "view_count": "230213",
             "thumbnail_url": "https://i.ytimg.com/vi/APJJOFCOp3c/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "Yang Da Il - Topic",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "15216",
+            "view_count": "15917",
             "thumbnail_url": "https://i.ytimg.com/vi/BAgjKPVvgrY/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "18:06",
-            "view_count": "378545",
+            "view_count": "379824",
             "thumbnail_url": "https://i.ytimg.com/vi/1hNWMWkbATE/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "RAW NOIZE - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "30831",
+            "view_count": "33595",
             "thumbnail_url": "https://i.ytimg.com/vi/32gIqfOCBCI/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "14:21",
-            "view_count": "146322",
+            "view_count": "148262",
             "thumbnail_url": "https://i.ytimg.com/vi/vciMO1k_V0k/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "이준호 LEE JUNHO - Topic",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "112395",
+            "view_count": "117524",
             "thumbnail_url": "https://i.ytimg.com/vi/7ehdQWIV5Ik/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "52:32",
-            "view_count": "121314",
+            "view_count": "123628",
             "thumbnail_url": "https://i.ytimg.com/vi/yVC1Pi15CSA/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "ONE OR EIGHT - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "15564",
+            "view_count": "16592",
             "thumbnail_url": "https://i.ytimg.com/vi/5XNojjVvqEI/hqdefault.jpg"
         },
         {
@@ -286,44 +286,8 @@
             "channel_name": "행돌",
             "category": "Gaming",
             "duration": "15:27",
-            "view_count": "112401",
+            "view_count": "118078",
             "thumbnail_url": "https://i.ytimg.com/vi/zXwItoU1r50/hqdefault.jpg"
-        },
-        {
-            "video_id": "v-1h5JCXsC0",
-            "title": "bittersweet",
-            "channel_name": "Madison Beer - Topic",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "590771",
-            "thumbnail_url": "https://i.ytimg.com/vi/v-1h5JCXsC0/hqdefault.jpg"
-        },
-        {
-            "video_id": "akq3TYFO2vY",
-            "title": "한국 서버 갈리오 장인 랭킹 1위 김민교",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "22:13",
-            "view_count": "328202",
-            "thumbnail_url": "https://i.ytimg.com/vi/akq3TYFO2vY/hqdefault.jpg"
-        },
-        {
-            "video_id": "3FoHBuwTv-c",
-            "title": "Still In Time",
-            "channel_name": "FIFTY FIFTY - Topic",
-            "category": "Music",
-            "duration": "2:54",
-            "view_count": "37450",
-            "thumbnail_url": "https://i.ytimg.com/vi/3FoHBuwTv-c/hqdefault.jpg"
-        },
-        {
-            "video_id": "gs2JVkZdpDo",
-            "title": "돈 없는 상태로 시작된 극악의 보스전 *최저가 콜로세움*",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "36:44",
-            "view_count": "126443",
-            "thumbnail_url": "https://i.ytimg.com/vi/gs2JVkZdpDo/hqdefault.jpg"
         },
         {
             "video_id": "jieiS-k5ziA",
@@ -331,8 +295,62 @@
             "channel_name": "Melanie Martinez - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "133171",
+            "view_count": "148117",
             "thumbnail_url": "https://i.ytimg.com/vi/jieiS-k5ziA/hqdefault.jpg"
+        },
+        {
+            "video_id": "akq3TYFO2vY",
+            "title": "한국 서버 갈리오 장인 랭킹 1위 김민교",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "22:13",
+            "view_count": "329806",
+            "thumbnail_url": "https://i.ytimg.com/vi/akq3TYFO2vY/hqdefault.jpg"
+        },
+        {
+            "video_id": "v-1h5JCXsC0",
+            "title": "bittersweet",
+            "channel_name": "Madison Beer - Topic",
+            "category": "Music",
+            "duration": "3:23",
+            "view_count": "599161",
+            "thumbnail_url": "https://i.ytimg.com/vi/v-1h5JCXsC0/hqdefault.jpg"
+        },
+        {
+            "video_id": "gs2JVkZdpDo",
+            "title": "돈 없는 상태로 시작된 극악의 보스전 *최저가 콜로세움*",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "36:44",
+            "view_count": "129321",
+            "thumbnail_url": "https://i.ytimg.com/vi/gs2JVkZdpDo/hqdefault.jpg"
+        },
+        {
+            "video_id": "3FoHBuwTv-c",
+            "title": "Still In Time",
+            "channel_name": "FIFTY FIFTY - Topic",
+            "category": "Music",
+            "duration": "2:54",
+            "view_count": "39020",
+            "thumbnail_url": "https://i.ytimg.com/vi/3FoHBuwTv-c/hqdefault.jpg"
+        },
+        {
+            "video_id": "kW12TZt3I0g",
+            "title": "이용약관에 동의하기만 누르면 되는 게임 (Agreeee)",
+            "channel_name": "수탉",
+            "category": "Gaming",
+            "duration": "1:35:21",
+            "view_count": "137957",
+            "thumbnail_url": "https://i.ytimg.com/vi/kW12TZt3I0g/hqdefault.jpg"
+        },
+        {
+            "video_id": "TLf21McH4N4",
+            "title": "Song 4 You",
+            "channel_name": "GIST - Topic",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "14730",
+            "thumbnail_url": "https://i.ytimg.com/vi/TLf21McH4N4/hqdefault.jpg"
         },
         {
             "video_id": "Nzn7NdgvkMM",
@@ -340,7 +358,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "28:39",
-            "view_count": "800719",
+            "view_count": "802966",
             "thumbnail_url": "https://i.ytimg.com/vi/Nzn7NdgvkMM/hqdefault.jpg"
         },
         {
@@ -349,7 +367,7 @@
             "channel_name": "KageBow - Topic",
             "category": "Music",
             "duration": "2:29",
-            "view_count": "47677",
+            "view_count": "49400",
             "thumbnail_url": "https://i.ytimg.com/vi/aczsMzToROg/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "집사TV",
             "category": "Gaming",
             "duration": "13:56",
-            "view_count": "219837",
+            "view_count": "222118",
             "thumbnail_url": "https://i.ytimg.com/vi/OHBfa1pncBA/hqdefault.jpg"
-        },
-        {
-            "video_id": "LwxY3YK76Nk",
-            "title": "Seen the Scene",
-            "channel_name": "Ha Hyun Sang - Topic",
-            "category": "Music",
-            "duration": "3:17",
-            "view_count": "105420",
-            "thumbnail_url": "https://i.ytimg.com/vi/LwxY3YK76Nk/hqdefault.jpg"
-        },
-        {
-            "video_id": "kW12TZt3I0g",
-            "title": "이용약관에 동의하기만 누르면 되는 게임 (Agreeee)",
-            "channel_name": "수탉",
-            "category": "Gaming",
-            "duration": "1:35:21",
-            "view_count": "132397",
-            "thumbnail_url": "https://i.ytimg.com/vi/kW12TZt3I0g/hqdefault.jpg"
         }
     ]
 }
