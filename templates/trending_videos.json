@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-01-30 20:30:58",
+    "scraped_time": "2026-01-30 22:01:59",
     "videos": [
         {
             "video_id": "DYgE3SGPEqk",
@@ -7,7 +7,7 @@
             "channel_name": "i-dle (아이들)",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "6180232",
+            "view_count": "6230251",
             "thumbnail_url": "https://i.ytimg.com/vi/DYgE3SGPEqk/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "0:46",
-            "view_count": "73045",
+            "view_count": "73715",
             "thumbnail_url": "https://i.ytimg.com/vi/9Md-huAu1HE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:56",
-            "view_count": "389557",
+            "view_count": "399524",
             "thumbnail_url": "https://i.ytimg.com/vi/w0ZMuFMNsuc/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "ROCOBERRY - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "136871",
+            "view_count": "139692",
             "thumbnail_url": "https://i.ytimg.com/vi/zracwhm_rxU/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "백크 Baekk",
             "category": "Gaming",
             "duration": "14:52",
-            "view_count": "944018",
+            "view_count": "948443",
             "thumbnail_url": "https://i.ytimg.com/vi/W2tkATC7-lU/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "KiiiKiii - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "754172",
+            "view_count": "783216",
             "thumbnail_url": "https://i.ytimg.com/vi/KL7km3PxilQ/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "15:45",
-            "view_count": "93790",
+            "view_count": "127213",
             "thumbnail_url": "https://i.ytimg.com/vi/5y1YQx1g4Mg/hqdefault.jpg"
         },
         {
@@ -70,17 +70,17 @@
             "channel_name": "1theK Originals - 원더케이 오리지널",
             "category": "Entertainment",
             "duration": "3:12",
-            "view_count": "364850",
+            "view_count": "385769",
             "thumbnail_url": "https://i.ytimg.com/vi/TLmRZQgXmEk/hqdefault.jpg"
         },
         {
-            "video_id": "i74_f93dnF4",
-            "title": "설거지들은 절대 용서하지 않는 염보성의 프로 DNA론",
-            "channel_name": "클리드",
+            "video_id": "SAHe1CuJK7k",
+            "title": "범람 라이즈",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "41:50",
-            "view_count": "182439",
-            "thumbnail_url": "https://i.ytimg.com/vi/i74_f93dnF4/hqdefault.jpg"
+            "duration": "21:07",
+            "view_count": "119227",
+            "thumbnail_url": "https://i.ytimg.com/vi/SAHe1CuJK7k/hqdefault.jpg"
         },
         {
             "video_id": "nuCzHmEgcQQ",
@@ -88,17 +88,17 @@
             "channel_name": "GIRIBOY - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "42636",
+            "view_count": "48526",
             "thumbnail_url": "https://i.ytimg.com/vi/nuCzHmEgcQQ/hqdefault.jpg"
         },
         {
-            "video_id": "bekNgU2WRN4",
-            "title": "내 스킬샷 경이롭지?",
-            "channel_name": "T1",
+            "video_id": "i74_f93dnF4",
+            "title": "설거지들은 절대 용서하지 않는 염보성의 프로 DNA론",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "13:28",
-            "view_count": "260158",
-            "thumbnail_url": "https://i.ytimg.com/vi/bekNgU2WRN4/hqdefault.jpg"
+            "duration": "41:50",
+            "view_count": "187477",
+            "thumbnail_url": "https://i.ytimg.com/vi/i74_f93dnF4/hqdefault.jpg"
         },
         {
             "video_id": "WxL5cNNelLk",
@@ -106,8 +106,26 @@
             "channel_name": "8TURN",
             "category": "Entertainment",
             "duration": "3:30",
-            "view_count": "434982",
+            "view_count": "473413",
             "thumbnail_url": "https://i.ytimg.com/vi/WxL5cNNelLk/hqdefault.jpg"
+        },
+        {
+            "video_id": "bekNgU2WRN4",
+            "title": "내 스킬샷 경이롭지?",
+            "channel_name": "T1",
+            "category": "Gaming",
+            "duration": "13:28",
+            "view_count": "265115",
+            "thumbnail_url": "https://i.ytimg.com/vi/bekNgU2WRN4/hqdefault.jpg"
+        },
+        {
+            "video_id": "ytsNac5gG3Y",
+            "title": "Medianoche",
+            "channel_name": "ZUTOMAYO - Topic",
+            "category": "Music",
+            "duration": "3:50",
+            "view_count": "113438",
+            "thumbnail_url": "https://i.ytimg.com/vi/ytsNac5gG3Y/hqdefault.jpg"
         },
         {
             "video_id": "Ad3ziKbYyeA",
@@ -115,7 +133,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:32",
-            "view_count": "197443",
+            "view_count": "202353",
             "thumbnail_url": "https://i.ytimg.com/vi/Ad3ziKbYyeA/hqdefault.jpg"
         },
         {
@@ -124,62 +142,8 @@
             "channel_name": "Soala - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "144690",
+            "view_count": "150982",
             "thumbnail_url": "https://i.ytimg.com/vi/RuR3R1qQwOI/hqdefault.jpg"
-        },
-        {
-            "video_id": "SAHe1CuJK7k",
-            "title": "범람 라이즈",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "21:07",
-            "view_count": "84321",
-            "thumbnail_url": "https://i.ytimg.com/vi/SAHe1CuJK7k/hqdefault.jpg"
-        },
-        {
-            "video_id": "ytsNac5gG3Y",
-            "title": "Medianoche",
-            "channel_name": "ZUTOMAYO - Topic",
-            "category": "Music",
-            "duration": "3:50",
-            "view_count": "104956",
-            "thumbnail_url": "https://i.ytimg.com/vi/ytsNac5gG3Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "x2o_YkOd0k4",
-            "title": "역도 대회 우승자 출신 팔협지의 역도 대회 디테일 전수",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "16:56",
-            "view_count": "150059",
-            "thumbnail_url": "https://i.ytimg.com/vi/x2o_YkOd0k4/hqdefault.jpg"
-        },
-        {
-            "video_id": "Tsr3lBEn9ww",
-            "title": "Seungmin \"제자리걸음 (Still here)\" | [Stray Kids : SKZ-RECORD]",
-            "channel_name": "Stray Kids",
-            "category": "Music",
-            "duration": "3:05",
-            "view_count": "1023869",
-            "thumbnail_url": "https://i.ytimg.com/vi/Tsr3lBEn9ww/hqdefault.jpg"
-        },
-        {
-            "video_id": "ahHJ3oaYtSw",
-            "title": "주작 방송 죄송합니다 [마크 하드코어 EP.?]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "37:51",
-            "view_count": "453467",
-            "thumbnail_url": "https://i.ytimg.com/vi/ahHJ3oaYtSw/hqdefault.jpg"
-        },
-        {
-            "video_id": "zhHB4dZTChw",
-            "title": "KiiiKiii 키키 '404 (New Era)' MV",
-            "channel_name": "STARSHIP",
-            "category": "Music",
-            "duration": "3:27",
-            "view_count": "3366788",
-            "thumbnail_url": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg"
         },
         {
             "video_id": "6BRMs8EH1Co",
@@ -187,8 +151,44 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "34:09",
-            "view_count": "65225",
+            "view_count": "87078",
             "thumbnail_url": "https://i.ytimg.com/vi/6BRMs8EH1Co/hqdefault.jpg"
+        },
+        {
+            "video_id": "Tsr3lBEn9ww",
+            "title": "Seungmin \"제자리걸음 (Still here)\" | [Stray Kids : SKZ-RECORD]",
+            "channel_name": "Stray Kids",
+            "category": "Music",
+            "duration": "3:05",
+            "view_count": "1032346",
+            "thumbnail_url": "https://i.ytimg.com/vi/Tsr3lBEn9ww/hqdefault.jpg"
+        },
+        {
+            "video_id": "x2o_YkOd0k4",
+            "title": "역도 대회 우승자 출신 팔협지의 역도 대회 디테일 전수",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "16:56",
+            "view_count": "151974",
+            "thumbnail_url": "https://i.ytimg.com/vi/x2o_YkOd0k4/hqdefault.jpg"
+        },
+        {
+            "video_id": "zhHB4dZTChw",
+            "title": "KiiiKiii 키키 '404 (New Era)' MV",
+            "channel_name": "STARSHIP",
+            "category": "Music",
+            "duration": "3:27",
+            "view_count": "3389431",
+            "thumbnail_url": "https://i.ytimg.com/vi/zhHB4dZTChw/hqdefault.jpg"
+        },
+        {
+            "video_id": "ahHJ3oaYtSw",
+            "title": "주작 방송 죄송합니다 [마크 하드코어 EP.?]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "37:51",
+            "view_count": "456290",
+            "thumbnail_url": "https://i.ytimg.com/vi/ahHJ3oaYtSw/hqdefault.jpg"
         },
         {
             "video_id": "0ZrO8_AKVcc",
@@ -196,8 +196,26 @@
             "channel_name": "Billlie - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "98636",
+            "view_count": "101341",
             "thumbnail_url": "https://i.ytimg.com/vi/0ZrO8_AKVcc/hqdefault.jpg"
+        },
+        {
+            "video_id": "0HXwT4gefnQ",
+            "title": "LimbusCompany [000] 로보토미 E.G.O::램프 그레고르 / [000] 거미집 소지 제자 싱클레어",
+            "channel_name": "ProjectMoon Official",
+            "category": "Gaming",
+            "duration": "1:47",
+            "view_count": "174322",
+            "thumbnail_url": "https://i.ytimg.com/vi/0HXwT4gefnQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "TI7Z0XrN3eg",
+            "title": "Run With Me",
+            "channel_name": "Yoo Hwe-seung - Topic",
+            "category": "Music",
+            "duration": "4:55",
+            "view_count": "16138",
+            "thumbnail_url": "https://i.ytimg.com/vi/TI7Z0XrN3eg/hqdefault.jpg"
         },
         {
             "video_id": "YL0sWJHIAjI",
@@ -205,7 +223,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "30:30",
-            "view_count": "159289",
+            "view_count": "162124",
             "thumbnail_url": "https://i.ytimg.com/vi/YL0sWJHIAjI/hqdefault.jpg"
         },
         {
@@ -214,17 +232,17 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "4:22",
-            "view_count": "396030",
+            "view_count": "400863",
             "thumbnail_url": "https://i.ytimg.com/vi/kb9vcbcBf8Y/hqdefault.jpg"
         },
         {
-            "video_id": "UzFBq7OUmU0",
-            "title": "새시즌에도 돌아온 AP챔들의 악몽 \"탑 오버파밍 갈리오\" 🐔",
-            "channel_name": "전략적죽음",
+            "video_id": "ai68VMUv_OE",
+            "title": "못깨면 고고프렌즈 T익스프레스 탑니다!? 타면 죽을수도 있어...",
+            "channel_name": "백앤아",
             "category": "Gaming",
-            "duration": "21:32",
-            "view_count": "118532",
-            "thumbnail_url": "https://i.ytimg.com/vi/UzFBq7OUmU0/hqdefault.jpg"
+            "duration": "13:06",
+            "view_count": "49945",
+            "thumbnail_url": "https://i.ytimg.com/vi/ai68VMUv_OE/hqdefault.jpg"
         },
         {
             "video_id": "SsQeMEwNKms",
@@ -232,35 +250,17 @@
             "channel_name": "Eunsae Jo - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "48634",
+            "view_count": "49218",
             "thumbnail_url": "https://i.ytimg.com/vi/SsQeMEwNKms/hqdefault.jpg"
         },
         {
-            "video_id": "z5hLIBAwBPA",
-            "title": "블루랑 싸웠습니다",
-            "channel_name": "주키니TV",
+            "video_id": "UzFBq7OUmU0",
+            "title": "새시즌에도 돌아온 AP챔들의 악몽 \"탑 오버파밍 갈리오\" 🐔",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "30:30",
-            "view_count": "134278",
-            "thumbnail_url": "https://i.ytimg.com/vi/z5hLIBAwBPA/hqdefault.jpg"
-        },
-        {
-            "video_id": "TI7Z0XrN3eg",
-            "title": "Run With Me",
-            "channel_name": "Yoo Hwe-seung - Topic",
-            "category": "Music",
-            "duration": "4:55",
-            "view_count": "14161",
-            "thumbnail_url": "https://i.ytimg.com/vi/TI7Z0XrN3eg/hqdefault.jpg"
-        },
-        {
-            "video_id": "QqOxrKX9SX8",
-            "title": "#12 마크 역사상 제일 강한 몹을 만들 수 있을까?",
-            "channel_name": "창문",
-            "category": "Gaming",
-            "duration": "15:19",
-            "view_count": "161228",
-            "thumbnail_url": "https://i.ytimg.com/vi/QqOxrKX9SX8/hqdefault.jpg"
+            "duration": "21:32",
+            "view_count": "120966",
+            "thumbnail_url": "https://i.ytimg.com/vi/UzFBq7OUmU0/hqdefault.jpg"
         },
         {
             "video_id": "BAgjKPVvgrY",
@@ -268,80 +268,8 @@
             "channel_name": "Yang Da Il - Topic",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "36472",
+            "view_count": "38027",
             "thumbnail_url": "https://i.ytimg.com/vi/BAgjKPVvgrY/hqdefault.jpg"
-        },
-        {
-            "video_id": "1luj63gmh2Q",
-            "title": "겜방에서 3교대 부주 전화면접+빅보스 합류 1부 [리니지클래식, 데포로쥬]",
-            "channel_name": "만만",
-            "category": "Gaming",
-            "duration": "24:19",
-            "view_count": "166045",
-            "thumbnail_url": "https://i.ytimg.com/vi/1luj63gmh2Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "fSIjm2SoFaQ",
-            "title": "[최신가요연속듣기 2026] KPOP 노동요 플레이리스트 🖤 2026년 1월 30일 5주차, 멜론차트 X, 종합차트, 노래모음",
-            "channel_name": "Yeo Doll",
-            "category": "Music",
-            "duration": "12:53:23",
-            "view_count": "7731",
-            "thumbnail_url": "https://i.ytimg.com/vi/fSIjm2SoFaQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "PyPLzwCRddI",
-            "title": "정글러는 표정부터 달라야 해｜쇠구컵 EP.04",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "36:33",
-            "view_count": "111335",
-            "thumbnail_url": "https://i.ytimg.com/vi/PyPLzwCRddI/hqdefault.jpg"
-        },
-        {
-            "video_id": "TLf21McH4N4",
-            "title": "Song 4 You",
-            "channel_name": "GIST - Topic",
-            "category": "Music",
-            "duration": "2:47",
-            "view_count": "42354",
-            "thumbnail_url": "https://i.ytimg.com/vi/TLf21McH4N4/hqdefault.jpg"
-        },
-        {
-            "video_id": "0HXwT4gefnQ",
-            "title": "LimbusCompany [000] 로보토미 E.G.O::램프 그레고르 / [000] 거미집 소지 제자 싱클레어",
-            "channel_name": "ProjectMoon Official",
-            "category": "Gaming",
-            "duration": "1:47",
-            "view_count": "117222",
-            "thumbnail_url": "https://i.ytimg.com/vi/0HXwT4gefnQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "OmIvWEwtYmg",
-            "title": "Pilot3 (feat. KOONTA)",
-            "channel_name": "YOUNG POSSE - Topic",
-            "category": "Music",
-            "duration": "3:42",
-            "view_count": "21689",
-            "thumbnail_url": "https://i.ytimg.com/vi/OmIvWEwtYmg/hqdefault.jpg"
-        },
-        {
-            "video_id": "j6ikO-UOs3k",
-            "title": "확률 주작 후 전액환불한 넥슨의 메이플 키우기 역대급 사건!!!!!!!!!!!!!!!!!!!!!!!",
-            "channel_name": "지존조세",
-            "category": "Gaming",
-            "duration": "11:49",
-            "view_count": "333632",
-            "thumbnail_url": "https://i.ytimg.com/vi/j6ikO-UOs3k/hqdefault.jpg"
-        },
-        {
-            "video_id": "32gIqfOCBCI",
-            "title": "like jennie (MMA performance ver.)",
-            "channel_name": "RAW NOIZE - Topic",
-            "category": "Music",
-            "duration": "3:04",
-            "view_count": "91495",
-            "thumbnail_url": "https://i.ytimg.com/vi/32gIqfOCBCI/hqdefault.jpg"
         },
         {
             "video_id": "DttMXwf7mg0",
@@ -349,8 +277,80 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "53:29",
-            "view_count": "58123",
+            "view_count": "68032",
             "thumbnail_url": "https://i.ytimg.com/vi/DttMXwf7mg0/hqdefault.jpg"
+        },
+        {
+            "video_id": "fSIjm2SoFaQ",
+            "title": "[최신가요연속듣기 2026] KPOP 노동요 플레이리스트 🖤 2026년 1월 30일 5주차, 멜론차트 X, 종합차트, 노래모음",
+            "channel_name": "Yeo Doll",
+            "category": "Music",
+            "duration": "12:53:23",
+            "view_count": "8871",
+            "thumbnail_url": "https://i.ytimg.com/vi/fSIjm2SoFaQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Od1ACB6jHic",
+            "title": "황홀한 악몽이 2개?? 퍼클 파티 최강 반지 제작! [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "8:26",
+            "view_count": "79562",
+            "thumbnail_url": "https://i.ytimg.com/vi/Od1ACB6jHic/hqdefault.jpg"
+        },
+        {
+            "video_id": "32gIqfOCBCI",
+            "title": "like jennie (MMA performance ver.)",
+            "channel_name": "RAW NOIZE - Topic",
+            "category": "Music",
+            "duration": "3:04",
+            "view_count": "98387",
+            "thumbnail_url": "https://i.ytimg.com/vi/32gIqfOCBCI/hqdefault.jpg"
+        },
+        {
+            "video_id": "z5hLIBAwBPA",
+            "title": "블루랑 싸웠습니다",
+            "channel_name": "주키니TV",
+            "category": "Gaming",
+            "duration": "30:30",
+            "view_count": "138508",
+            "thumbnail_url": "https://i.ytimg.com/vi/z5hLIBAwBPA/hqdefault.jpg"
+        },
+        {
+            "video_id": "TLf21McH4N4",
+            "title": "Song 4 You",
+            "channel_name": "GIST - Topic",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "43581",
+            "thumbnail_url": "https://i.ytimg.com/vi/TLf21McH4N4/hqdefault.jpg"
+        },
+        {
+            "video_id": "6e5n9PvOjI8",
+            "title": "[장기강좌] 최강원앙마 사마룡장기 라이브방송",
+            "channel_name": "사마룡장기",
+            "category": "Gaming",
+            "duration": "5:42:57",
+            "view_count": "49808",
+            "thumbnail_url": "https://i.ytimg.com/vi/6e5n9PvOjI8/hqdefault.jpg"
+        },
+        {
+            "video_id": "OmIvWEwtYmg",
+            "title": "Pilot3 (feat. KOONTA)",
+            "channel_name": "YOUNG POSSE - Topic",
+            "category": "Music",
+            "duration": "3:42",
+            "view_count": "22772",
+            "thumbnail_url": "https://i.ytimg.com/vi/OmIvWEwtYmg/hqdefault.jpg"
+        },
+        {
+            "video_id": "1luj63gmh2Q",
+            "title": "겜방에서 3교대 부주 전화면접+빅보스 합류 1부 [리니지클래식, 데포로쥬]",
+            "channel_name": "만만",
+            "category": "Gaming",
+            "duration": "24:19",
+            "view_count": "169274",
+            "thumbnail_url": "https://i.ytimg.com/vi/1luj63gmh2Q/hqdefault.jpg"
         },
         {
             "video_id": "AN9IhHMRcKo",
@@ -358,17 +358,17 @@
             "channel_name": "Joob A - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "20616",
+            "view_count": "20901",
             "thumbnail_url": "https://i.ytimg.com/vi/AN9IhHMRcKo/hqdefault.jpg"
         },
         {
-            "video_id": "vCnlabkClSQ",
-            "title": "메이플키우기 : 난리도 아니네요, 플레이로는 마지막 영상 일 것 같습니다. (feat.왓더버거) [팡이요,  메이플스토리,  메이플키우기, 왓더버거]",
-            "channel_name": "팡이요",
+            "video_id": "QqOxrKX9SX8",
+            "title": "#12 마크 역사상 제일 강한 몹을 만들 수 있을까?",
+            "channel_name": "창문",
             "category": "Gaming",
-            "duration": "20:13",
-            "view_count": "407330",
-            "thumbnail_url": "https://i.ytimg.com/vi/vCnlabkClSQ/hqdefault.jpg"
+            "duration": "15:19",
+            "view_count": "165787",
+            "thumbnail_url": "https://i.ytimg.com/vi/QqOxrKX9SX8/hqdefault.jpg"
         },
         {
             "video_id": "7ehdQWIV5Ik",
@@ -376,7 +376,7 @@
             "channel_name": "이준호 LEE JUNHO - Topic",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "207679",
+            "view_count": "213745",
             "thumbnail_url": "https://i.ytimg.com/vi/7ehdQWIV5Ik/hqdefault.jpg"
         }
     ]
