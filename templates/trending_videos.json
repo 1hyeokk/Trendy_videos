@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-02 06:27:07",
+    "scraped_time": "2026-02-02 07:28:25",
     "videos": [
         {
             "video_id": "CCgmRhn7Z2A",
@@ -7,7 +7,7 @@
             "channel_name": "Jang Beom June - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "67501",
+            "view_count": "68120",
             "thumbnail_url": "https://i.ytimg.com/vi/CCgmRhn7Z2A/hqdefault.jpg"
         },
         {
@@ -16,44 +16,8 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:26:35",
-            "view_count": "263725",
+            "view_count": "265479",
             "thumbnail_url": "https://i.ytimg.com/vi/2xJqsBjDPwo/hqdefault.jpg"
-        },
-        {
-            "video_id": "nuCzHmEgcQQ",
-            "title": "Never Meant to Be",
-            "channel_name": "GIRIBOY - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "197624",
-            "thumbnail_url": "https://i.ytimg.com/vi/nuCzHmEgcQQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "JAYxz3AmBVg",
-            "title": "영퍼티 아칼리",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "54:04",
-            "view_count": "1071547",
-            "thumbnail_url": "https://i.ytimg.com/vi/JAYxz3AmBVg/hqdefault.jpg"
-        },
-        {
-            "video_id": "OSUHqAvuSRI",
-            "title": "Lee Know \"奏（かなで）(Kanade)\" Cover (원곡 : スキマスイッチ(Sukimaswitch)) | [Stray Kids : SKZ-RECORD]",
-            "channel_name": "Stray Kids",
-            "category": "Music",
-            "duration": "4:14",
-            "view_count": "905817",
-            "thumbnail_url": "https://i.ytimg.com/vi/OSUHqAvuSRI/hqdefault.jpg"
-        },
-        {
-            "video_id": "qNfaUOKrXmQ",
-            "title": "500배속 마인크래프트",
-            "channel_name": "우융",
-            "category": "Gaming",
-            "duration": "32:32",
-            "view_count": "666474",
-            "thumbnail_url": "https://i.ytimg.com/vi/qNfaUOKrXmQ/hqdefault.jpg"
         },
         {
             "video_id": "tUcWwAO5zU8",
@@ -61,8 +25,44 @@
             "channel_name": "차가을 - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "11911",
+            "view_count": "12192",
             "thumbnail_url": "https://i.ytimg.com/vi/tUcWwAO5zU8/hqdefault.jpg"
+        },
+        {
+            "video_id": "JAYxz3AmBVg",
+            "title": "영퍼티 아칼리",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "54:04",
+            "view_count": "1073865",
+            "thumbnail_url": "https://i.ytimg.com/vi/JAYxz3AmBVg/hqdefault.jpg"
+        },
+        {
+            "video_id": "nuCzHmEgcQQ",
+            "title": "Never Meant to Be",
+            "channel_name": "GIRIBOY - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "198509",
+            "thumbnail_url": "https://i.ytimg.com/vi/nuCzHmEgcQQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "qNfaUOKrXmQ",
+            "title": "500배속 마인크래프트",
+            "channel_name": "우융",
+            "category": "Gaming",
+            "duration": "32:32",
+            "view_count": "668299",
+            "thumbnail_url": "https://i.ytimg.com/vi/qNfaUOKrXmQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "OSUHqAvuSRI",
+            "title": "Lee Know \"奏（かなで）(Kanade)\" Cover (원곡 : スキマスイッチ(Sukimaswitch)) | [Stray Kids : SKZ-RECORD]",
+            "channel_name": "Stray Kids",
+            "category": "Music",
+            "duration": "4:14",
+            "view_count": "913695",
+            "thumbnail_url": "https://i.ytimg.com/vi/OSUHqAvuSRI/hqdefault.jpg"
         },
         {
             "video_id": "k5zblHkZjjs",
@@ -70,26 +70,8 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "11:34",
-            "view_count": "217841",
+            "view_count": "219771",
             "thumbnail_url": "https://i.ytimg.com/vi/k5zblHkZjjs/hqdefault.jpg"
-        },
-        {
-            "video_id": "DYgE3SGPEqk",
-            "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video",
-            "channel_name": "i-dle (아이들)",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "7961773",
-            "thumbnail_url": "https://i.ytimg.com/vi/DYgE3SGPEqk/hqdefault.jpg"
-        },
-        {
-            "video_id": "t_Aul8RwRns",
-            "title": "HLE vs GEN | 2026 LCK CUP",
-            "channel_name": "LCK Global",
-            "category": "Gaming",
-            "duration": "3:36:01",
-            "view_count": "1130343",
-            "thumbnail_url": "https://i.ytimg.com/vi/t_Aul8RwRns/hqdefault.jpg"
         },
         {
             "video_id": "irl3mPd3Ykw",
@@ -97,8 +79,26 @@
             "channel_name": "Kim Minseok (MeloMance) - Topic",
             "category": "Music",
             "duration": "5:48",
-            "view_count": "8995",
+            "view_count": "9473",
             "thumbnail_url": "https://i.ytimg.com/vi/irl3mPd3Ykw/hqdefault.jpg"
+        },
+        {
+            "video_id": "t_Aul8RwRns",
+            "title": "HLE vs GEN | 2026 LCK CUP",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "3:36:01",
+            "view_count": "1132177",
+            "thumbnail_url": "https://i.ytimg.com/vi/t_Aul8RwRns/hqdefault.jpg"
+        },
+        {
+            "video_id": "DYgE3SGPEqk",
+            "title": "i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video",
+            "channel_name": "i-dle (아이들)",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "7974099",
+            "thumbnail_url": "https://i.ytimg.com/vi/DYgE3SGPEqk/hqdefault.jpg"
         },
         {
             "video_id": "GEH0zUqaBbk",
@@ -106,7 +106,7 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "1:18:46",
-            "view_count": "247917",
+            "view_count": "248577",
             "thumbnail_url": "https://i.ytimg.com/vi/GEH0zUqaBbk/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "KiiiKiii",
             "category": "People & Blogs",
             "duration": "3:05",
-            "view_count": "234608",
+            "view_count": "235641",
             "thumbnail_url": "https://i.ytimg.com/vi/OpqB1GJbzms/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "58:48",
-            "view_count": "339450",
+            "view_count": "340675",
             "thumbnail_url": "https://i.ytimg.com/vi/IfGvdRuWjHI/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "1theK Originals - 원더케이 오리지널",
             "category": "Entertainment",
             "duration": "3:12",
-            "view_count": "1064703",
+            "view_count": "1065734",
             "thumbnail_url": "https://i.ytimg.com/vi/TLmRZQgXmEk/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "백크 Baekk",
             "category": "Gaming",
             "duration": "12:31",
-            "view_count": "201418",
+            "view_count": "209996",
             "thumbnail_url": "https://i.ytimg.com/vi/3qvdRBh-ZGY/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "POW - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "64729",
+            "view_count": "65126",
             "thumbnail_url": "https://i.ytimg.com/vi/-KrUN6LPxkA/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "24:27",
-            "view_count": "163267",
+            "view_count": "165427",
             "thumbnail_url": "https://i.ytimg.com/vi/tmVocEsW3DE/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "YECHAN - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "20326",
+            "view_count": "20429",
             "thumbnail_url": "https://i.ytimg.com/vi/jKINKVBbV7Y/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "33:08",
-            "view_count": "256472",
+            "view_count": "257249",
             "thumbnail_url": "https://i.ytimg.com/vi/JC-ioHFy7yg/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "5:53",
-            "view_count": "8415",
+            "view_count": "8622",
             "thumbnail_url": "https://i.ytimg.com/vi/8d9_aFgH0yU/hqdefault.jpg"
         },
         {
@@ -196,26 +196,8 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "18:47",
-            "view_count": "178004",
+            "view_count": "179361",
             "thumbnail_url": "https://i.ytimg.com/vi/NOwCc4rJoh8/hqdefault.jpg"
-        },
-        {
-            "video_id": "dGkVTpg2ojY",
-            "title": "BOYNEXTAGE | 'Nice Guy' Stage CAM @ ‘KNOCK ON Vol.1’ FINAL - BOYNEXTDOOR (보이넥스트도어)",
-            "channel_name": "BOYNEXTDOOR",
-            "category": "Music",
-            "duration": "3:54",
-            "view_count": "40428",
-            "thumbnail_url": "https://i.ytimg.com/vi/dGkVTpg2ojY/hqdefault.jpg"
-        },
-        {
-            "video_id": "SQwmruh_bFM",
-            "title": "초대형 거인도 울고 갈 초거신 사이온 탄생",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "12:57",
-            "view_count": "114521",
-            "thumbnail_url": "https://i.ytimg.com/vi/SQwmruh_bFM/hqdefault.jpg"
         },
         {
             "video_id": "gtDW-e_tygs",
@@ -223,8 +205,26 @@
             "channel_name": "ZO ZAZZ - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "20368",
+            "view_count": "20856",
             "thumbnail_url": "https://i.ytimg.com/vi/gtDW-e_tygs/hqdefault.jpg"
+        },
+        {
+            "video_id": "SQwmruh_bFM",
+            "title": "초대형 거인도 울고 갈 초거신 사이온 탄생",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "12:57",
+            "view_count": "117216",
+            "thumbnail_url": "https://i.ytimg.com/vi/SQwmruh_bFM/hqdefault.jpg"
+        },
+        {
+            "video_id": "dGkVTpg2ojY",
+            "title": "BOYNEXTAGE | 'Nice Guy' Stage CAM @ ‘KNOCK ON Vol.1’ FINAL - BOYNEXTDOOR (보이넥스트도어)",
+            "channel_name": "BOYNEXTDOOR",
+            "category": "Music",
+            "duration": "3:54",
+            "view_count": "41393",
+            "thumbnail_url": "https://i.ytimg.com/vi/dGkVTpg2ojY/hqdefault.jpg"
         },
         {
             "video_id": "scj4d2vIQu4",
@@ -241,17 +241,17 @@
             "channel_name": "ZEROBASEONE",
             "category": "Entertainment",
             "duration": "3:13",
-            "view_count": "44406",
+            "view_count": "46689",
             "thumbnail_url": "https://i.ytimg.com/vi/EGbY3ZO83v0/hqdefault.jpg"
         },
         {
-            "video_id": "Vf9G0Hs9NYs",
-            "title": "DFM vs GE / DRX vs T1 - VCT 퍼시픽 킥오프 - 중위조 라운드 2 - DAY 8",
-            "channel_name": "발로란트 챔피언스 투어",
+            "video_id": "kY_COeiNMTg",
+            "title": "\"포탑 피해량 40000\" 요새 파괴자+극방관 트리로 철거의 신이 된 \"탑 극방관 요릭\" 🧟‍♂️🪦",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "6:06:10",
-            "view_count": "180102",
-            "thumbnail_url": "https://i.ytimg.com/vi/Vf9G0Hs9NYs/hqdefault.jpg"
+            "duration": "29:21",
+            "view_count": "95578",
+            "thumbnail_url": "https://i.ytimg.com/vi/kY_COeiNMTg/hqdefault.jpg"
         },
         {
             "video_id": "zracwhm_rxU",
@@ -259,17 +259,17 @@
             "channel_name": "ROCOBERRY - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "216706",
+            "view_count": "217632",
             "thumbnail_url": "https://i.ytimg.com/vi/zracwhm_rxU/hqdefault.jpg"
         },
         {
-            "video_id": "DZrlBvN8ydg",
-            "title": "이 년 봐라...?",
-            "channel_name": "강 지",
+            "video_id": "Vf9G0Hs9NYs",
+            "title": "DFM vs GE / DRX vs T1 - VCT 퍼시픽 킥오프 - 중위조 라운드 2 - DAY 8",
+            "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
-            "duration": "15:25",
-            "view_count": "319852",
-            "thumbnail_url": "https://i.ytimg.com/vi/DZrlBvN8ydg/hqdefault.jpg"
+            "duration": "6:06:10",
+            "view_count": "180381",
+            "thumbnail_url": "https://i.ytimg.com/vi/Vf9G0Hs9NYs/hqdefault.jpg"
         },
         {
             "video_id": "OypgDq0NDYU",
@@ -281,13 +281,13 @@
             "thumbnail_url": "https://i.ytimg.com/vi/OypgDq0NDYU/hqdefault.jpg"
         },
         {
-            "video_id": "kY_COeiNMTg",
-            "title": "\"포탑 피해량 40000\" 요새 파괴자+극방관 트리로 철거의 신이 된 \"탑 극방관 요릭\" 🧟‍♂️🪦",
-            "channel_name": "전략적죽음",
+            "video_id": "DZrlBvN8ydg",
+            "title": "이 년 봐라...?",
+            "channel_name": "강 지",
             "category": "Gaming",
-            "duration": "29:21",
-            "view_count": "92626",
-            "thumbnail_url": "https://i.ytimg.com/vi/kY_COeiNMTg/hqdefault.jpg"
+            "duration": "15:25",
+            "view_count": "322479",
+            "thumbnail_url": "https://i.ytimg.com/vi/DZrlBvN8ydg/hqdefault.jpg"
         },
         {
             "video_id": "Jx7nt0qeLF8",
@@ -295,7 +295,7 @@
             "channel_name": "Mili",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "235831",
+            "view_count": "243558",
             "thumbnail_url": "https://i.ytimg.com/vi/Jx7nt0qeLF8/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "THIRD[롤 백과사전]",
             "category": "Gaming",
             "duration": "3:03",
-            "view_count": "191674",
+            "view_count": "193179",
             "thumbnail_url": "https://i.ytimg.com/vi/AZYvPie1e_8/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "16224",
+            "view_count": "16454",
             "thumbnail_url": "https://i.ytimg.com/vi/seHO9lttknQ/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "51:20",
-            "view_count": "168515",
+            "view_count": "169011",
             "thumbnail_url": "https://i.ytimg.com/vi/eOt537ARdWY/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "Yoon Jong Shin - Topic",
             "category": "Music",
             "duration": "4:10",
-            "view_count": "35326",
+            "view_count": "35587",
             "thumbnail_url": "https://i.ytimg.com/vi/FUTqgfiKVP0/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "10:06",
-            "view_count": "166721",
+            "view_count": "168537",
             "thumbnail_url": "https://i.ytimg.com/vi/FyJCTyEfmiA/hqdefault.jpg"
         },
         {
@@ -349,26 +349,8 @@
             "channel_name": "hyunrecord",
             "category": "Music",
             "duration": "2:37",
-            "view_count": "59100",
+            "view_count": "59378",
             "thumbnail_url": "https://i.ytimg.com/vi/BICA64FCpa8/hqdefault.jpg"
-        },
-        {
-            "video_id": "vVap0LX-dA0",
-            "title": "주문하신 기본으로 돌아가기 갱플랭크 나왔습니다",
-            "channel_name": "만기퇴소",
-            "category": "Gaming",
-            "duration": "18:29",
-            "view_count": "107469",
-            "thumbnail_url": "https://i.ytimg.com/vi/vVap0LX-dA0/hqdefault.jpg"
-        },
-        {
-            "video_id": "TI7Z0XrN3eg",
-            "title": "Run With Me",
-            "channel_name": "Yoo Hwe-seung - Topic",
-            "category": "Music",
-            "duration": "4:55",
-            "view_count": "50140",
-            "thumbnail_url": "https://i.ytimg.com/vi/TI7Z0XrN3eg/hqdefault.jpg"
         },
         {
             "video_id": "hdS1DOkCvWs",
@@ -376,8 +358,26 @@
             "channel_name": "티모준위",
             "category": "Gaming",
             "duration": "8:04",
-            "view_count": "214030",
+            "view_count": "218080",
             "thumbnail_url": "https://i.ytimg.com/vi/hdS1DOkCvWs/hqdefault.jpg"
+        },
+        {
+            "video_id": "TI7Z0XrN3eg",
+            "title": "Run With Me",
+            "channel_name": "Yoo Hwe-seung - Topic",
+            "category": "Music",
+            "duration": "4:55",
+            "view_count": "50377",
+            "thumbnail_url": "https://i.ytimg.com/vi/TI7Z0XrN3eg/hqdefault.jpg"
+        },
+        {
+            "video_id": "vVap0LX-dA0",
+            "title": "주문하신 기본으로 돌아가기 갱플랭크 나왔습니다",
+            "channel_name": "만기퇴소",
+            "category": "Gaming",
+            "duration": "18:29",
+            "view_count": "108554",
+            "thumbnail_url": "https://i.ytimg.com/vi/vVap0LX-dA0/hqdefault.jpg"
         }
     ]
 }
