@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-01 21:56:35",
+    "scraped_time": "2026-02-01 22:48:02",
     "videos": [
         {
             "video_id": "CCgmRhn7Z2A",
@@ -7,7 +7,7 @@
             "channel_name": "Jang Beom June - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "53826",
+            "view_count": "56868",
             "thumbnail_url": "https://i.ytimg.com/vi/CCgmRhn7Z2A/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "54:04",
-            "view_count": "1007095",
+            "view_count": "1014775",
             "thumbnail_url": "https://i.ytimg.com/vi/JAYxz3AmBVg/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "GIRIBOY - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "178877",
+            "view_count": "182211",
             "thumbnail_url": "https://i.ytimg.com/vi/nuCzHmEgcQQ/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "우융",
             "category": "Gaming",
             "duration": "32:32",
-            "view_count": "612896",
+            "view_count": "620379",
             "thumbnail_url": "https://i.ytimg.com/vi/qNfaUOKrXmQ/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Stray Kids",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "770762",
+            "view_count": "789754",
             "thumbnail_url": "https://i.ytimg.com/vi/OSUHqAvuSRI/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:26:35",
-            "view_count": "210416",
+            "view_count": "217919",
             "thumbnail_url": "https://i.ytimg.com/vi/2xJqsBjDPwo/hqdefault.jpg"
         },
         {
@@ -61,8 +61,26 @@
             "channel_name": "i-dle (아이들)",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "7782217",
+            "view_count": "7803808",
             "thumbnail_url": "https://i.ytimg.com/vi/DYgE3SGPEqk/hqdefault.jpg"
+        },
+        {
+            "video_id": "t_Aul8RwRns",
+            "title": "HLE vs GEN | 2026 LCK CUP",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "3:36:01",
+            "view_count": "1089360",
+            "thumbnail_url": "https://i.ytimg.com/vi/t_Aul8RwRns/hqdefault.jpg"
+        },
+        {
+            "video_id": "TLmRZQgXmEk",
+            "title": "KiiiKiii 키키 '404 (New Era)'｜liKe KiiiKiii Performance｜라잌키키 퍼포먼스｜지유 이솔 수이 하음 키야 @KiiiKiii_starship",
+            "channel_name": "1theK Originals - 원더케이 오리지널",
+            "category": "Entertainment",
+            "duration": "3:12",
+            "view_count": "1022565",
+            "thumbnail_url": "https://i.ytimg.com/vi/TLmRZQgXmEk/hqdefault.jpg"
         },
         {
             "video_id": "GEH0zUqaBbk",
@@ -70,7 +88,7 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "1:18:46",
-            "view_count": "229398",
+            "view_count": "232653",
             "thumbnail_url": "https://i.ytimg.com/vi/GEH0zUqaBbk/hqdefault.jpg"
         },
         {
@@ -79,7 +97,7 @@
             "channel_name": "YECHAN - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "17557",
+            "view_count": "18197",
             "thumbnail_url": "https://i.ytimg.com/vi/jKINKVBbV7Y/hqdefault.jpg"
         },
         {
@@ -88,26 +106,8 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "58:48",
-            "view_count": "302496",
+            "view_count": "307542",
             "thumbnail_url": "https://i.ytimg.com/vi/IfGvdRuWjHI/hqdefault.jpg"
-        },
-        {
-            "video_id": "TLmRZQgXmEk",
-            "title": "KiiiKiii 키키 '404 (New Era)'｜liKe KiiiKiii Performance｜라잌키키 퍼포먼스｜지유 이솔 수이 하음 키야 @KiiiKiii_starship",
-            "channel_name": "1theK Originals - 원더케이 오리지널",
-            "category": "Entertainment",
-            "duration": "3:12",
-            "view_count": "1016216",
-            "thumbnail_url": "https://i.ytimg.com/vi/TLmRZQgXmEk/hqdefault.jpg"
-        },
-        {
-            "video_id": "JC-ioHFy7yg",
-            "title": "끝없이 오르는 김민교 솔랭 점수 ㄷㄷ",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "33:08",
-            "view_count": "229672",
-            "thumbnail_url": "https://i.ytimg.com/vi/JC-ioHFy7yg/hqdefault.jpg"
         },
         {
             "video_id": "OpqB1GJbzms",
@@ -115,17 +115,17 @@
             "channel_name": "KiiiKiii",
             "category": "People & Blogs",
             "duration": "3:05",
-            "view_count": "211288",
+            "view_count": "214534",
             "thumbnail_url": "https://i.ytimg.com/vi/OpqB1GJbzms/hqdefault.jpg"
         },
         {
-            "video_id": "eOt537ARdWY",
-            "title": "압도 【T1 vs DK】",
-            "channel_name": "클리드",
+            "video_id": "Vf9G0Hs9NYs",
+            "title": "DFM vs GE / DRX vs T1 - VCT 퍼시픽 킥오프 - 중위조 라운드 2 - DAY 8",
+            "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
-            "duration": "51:20",
-            "view_count": "156657",
-            "thumbnail_url": "https://i.ytimg.com/vi/eOt537ARdWY/hqdefault.jpg"
+            "duration": "6:06:10",
+            "view_count": "139331",
+            "thumbnail_url": "https://i.ytimg.com/vi/Vf9G0Hs9NYs/hqdefault.jpg"
         },
         {
             "video_id": "-KrUN6LPxkA",
@@ -133,8 +133,44 @@
             "channel_name": "POW - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "54898",
+            "view_count": "56921",
             "thumbnail_url": "https://i.ytimg.com/vi/-KrUN6LPxkA/hqdefault.jpg"
+        },
+        {
+            "video_id": "JC-ioHFy7yg",
+            "title": "끝없이 오르는 김민교 솔랭 점수 ㄷㄷ",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "33:08",
+            "view_count": "234575",
+            "thumbnail_url": "https://i.ytimg.com/vi/JC-ioHFy7yg/hqdefault.jpg"
+        },
+        {
+            "video_id": "tUcWwAO5zU8",
+            "title": "After A Long Time",
+            "channel_name": "차가을 - Topic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "5068",
+            "thumbnail_url": "https://i.ytimg.com/vi/tUcWwAO5zU8/hqdefault.jpg"
+        },
+        {
+            "video_id": "k5zblHkZjjs",
+            "title": "우효오오오옷-♥ | T1 vs DK 게임 1 하이라이트 | 2026 LCK CUP",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "11:34",
+            "view_count": "117541",
+            "thumbnail_url": "https://i.ytimg.com/vi/k5zblHkZjjs/hqdefault.jpg"
+        },
+        {
+            "video_id": "nXy1DCK5Ee0",
+            "title": "BOYNEXTAGE | 'Count To Love' Stage CAM @ 251231 TBS CDTV LIVE! LIVE! - BOYNEXTDOOR (보이넥스트도어)",
+            "channel_name": "BOYNEXTDOOR",
+            "category": "Music",
+            "duration": "2:45",
+            "view_count": "102337",
+            "thumbnail_url": "https://i.ytimg.com/vi/nXy1DCK5Ee0/hqdefault.jpg"
         },
         {
             "video_id": "NOwCc4rJoh8",
@@ -142,7 +178,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "18:47",
-            "view_count": "126151",
+            "view_count": "134074",
             "thumbnail_url": "https://i.ytimg.com/vi/NOwCc4rJoh8/hqdefault.jpg"
         },
         {
@@ -151,17 +187,17 @@
             "channel_name": "Lee Young Hyun - Topic",
             "category": "Music",
             "duration": "3:51",
-            "view_count": "32371",
+            "view_count": "32992",
             "thumbnail_url": "https://i.ytimg.com/vi/OypgDq0NDYU/hqdefault.jpg"
         },
         {
-            "video_id": "k5zblHkZjjs",
-            "title": "우효오오오옷-♥ | T1 vs DK 게임 1 하이라이트 | 2026 LCK CUP",
-            "channel_name": "LCK",
+            "video_id": "eOt537ARdWY",
+            "title": "압도 【T1 vs DK】",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "11:34",
-            "view_count": "93283",
-            "thumbnail_url": "https://i.ytimg.com/vi/k5zblHkZjjs/hqdefault.jpg"
+            "duration": "51:20",
+            "view_count": "158402",
+            "thumbnail_url": "https://i.ytimg.com/vi/eOt537ARdWY/hqdefault.jpg"
         },
         {
             "video_id": "zracwhm_rxU",
@@ -169,7 +205,7 @@
             "channel_name": "ROCOBERRY - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "202820",
+            "view_count": "204804",
             "thumbnail_url": "https://i.ytimg.com/vi/zracwhm_rxU/hqdefault.jpg"
         },
         {
@@ -178,17 +214,17 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "15:25",
-            "view_count": "230860",
+            "view_count": "245744",
             "thumbnail_url": "https://i.ytimg.com/vi/DZrlBvN8ydg/hqdefault.jpg"
         },
         {
-            "video_id": "nXy1DCK5Ee0",
-            "title": "BOYNEXTAGE | 'Count To Love' Stage CAM @ 251231 TBS CDTV LIVE! LIVE! - BOYNEXTDOOR (보이넥스트도어)",
-            "channel_name": "BOYNEXTDOOR",
+            "video_id": "irl3mPd3Ykw",
+            "title": "Countdown to Three like a Habit",
+            "channel_name": "Kim Minseok (MeloMance) - Topic",
             "category": "Music",
-            "duration": "2:45",
-            "view_count": "99535",
-            "thumbnail_url": "https://i.ytimg.com/vi/nXy1DCK5Ee0/hqdefault.jpg"
+            "duration": "5:48",
+            "view_count": "3097",
+            "thumbnail_url": "https://i.ytimg.com/vi/irl3mPd3Ykw/hqdefault.jpg"
         },
         {
             "video_id": "8NU9rhOP0Wc",
@@ -196,17 +232,17 @@
             "channel_name": "흔한남매",
             "category": "Entertainment",
             "duration": "19:35",
-            "view_count": "282047",
+            "view_count": "286497",
             "thumbnail_url": "https://i.ytimg.com/vi/8NU9rhOP0Wc/hqdefault.jpg"
         },
         {
-            "video_id": "tUcWwAO5zU8",
-            "title": "After A Long Time",
-            "channel_name": "차가을 - Topic",
+            "video_id": "gtDW-e_tygs",
+            "title": "오늘 밤은 취해 볼게요",
+            "channel_name": "ZO ZAZZ - Topic",
             "category": "Music",
-            "duration": "3:25",
-            "view_count": "3654",
-            "thumbnail_url": "https://i.ytimg.com/vi/tUcWwAO5zU8/hqdefault.jpg"
+            "duration": "3:23",
+            "view_count": "15297",
+            "thumbnail_url": "https://i.ytimg.com/vi/gtDW-e_tygs/hqdefault.jpg"
         },
         {
             "video_id": "IiiGBc1MKpA",
@@ -214,7 +250,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "23:39",
-            "view_count": "217031",
+            "view_count": "220971",
             "thumbnail_url": "https://i.ytimg.com/vi/IiiGBc1MKpA/hqdefault.jpg"
         },
         {
@@ -223,7 +259,7 @@
             "channel_name": "Yoon Jong Shin - Topic",
             "category": "Music",
             "duration": "4:10",
-            "view_count": "30498",
+            "view_count": "31096",
             "thumbnail_url": "https://i.ytimg.com/vi/FUTqgfiKVP0/hqdefault.jpg"
         },
         {
@@ -232,26 +268,8 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "21:25",
-            "view_count": "118870",
+            "view_count": "120661",
             "thumbnail_url": "https://i.ytimg.com/vi/G5f31gGPwg8/hqdefault.jpg"
-        },
-        {
-            "video_id": "gtDW-e_tygs",
-            "title": "오늘 밤은 취해 볼게요",
-            "channel_name": "ZO ZAZZ - Topic",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "14426",
-            "thumbnail_url": "https://i.ytimg.com/vi/gtDW-e_tygs/hqdefault.jpg"
-        },
-        {
-            "video_id": "6dZs1f_oY9Q",
-            "title": "승패를 알 수가 없는 5코 3성 JOAT들의 대결",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "15:08",
-            "view_count": "173715",
-            "thumbnail_url": "https://i.ytimg.com/vi/6dZs1f_oY9Q/hqdefault.jpg"
         },
         {
             "video_id": "TI7Z0XrN3eg",
@@ -259,7 +277,7 @@
             "channel_name": "Yoo Hwe-seung - Topic",
             "category": "Music",
             "duration": "4:55",
-            "view_count": "46743",
+            "view_count": "47327",
             "thumbnail_url": "https://i.ytimg.com/vi/TI7Z0XrN3eg/hqdefault.jpg"
         },
         {
@@ -268,7 +286,7 @@
             "channel_name": "김성회의 G식백과",
             "category": "Gaming",
             "duration": "29:30",
-            "view_count": "116474",
+            "view_count": "124294",
             "thumbnail_url": "https://i.ytimg.com/vi/do2yzzz0hac/hqdefault.jpg"
         },
         {
@@ -277,44 +295,26 @@
             "channel_name": "hyunrecord",
             "category": "Music",
             "duration": "2:37",
-            "view_count": "52734",
+            "view_count": "54266",
             "thumbnail_url": "https://i.ytimg.com/vi/BICA64FCpa8/hqdefault.jpg"
         },
         {
-            "video_id": "SAHe1CuJK7k",
-            "title": "범람 라이즈",
-            "channel_name": "PAKA",
+            "video_id": "6dZs1f_oY9Q",
+            "title": "승패를 알 수가 없는 5코 3성 JOAT들의 대결",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "21:07",
-            "view_count": "408559",
-            "thumbnail_url": "https://i.ytimg.com/vi/SAHe1CuJK7k/hqdefault.jpg"
+            "duration": "15:08",
+            "view_count": "175291",
+            "thumbnail_url": "https://i.ytimg.com/vi/6dZs1f_oY9Q/hqdefault.jpg"
         },
         {
-            "video_id": "OmIvWEwtYmg",
-            "title": "Pilot3 (feat. KOONTA)",
-            "channel_name": "YOUNG POSSE - Topic",
+            "video_id": "8d9_aFgH0yU",
+            "title": "[MV] Kim Min Seok (김민석 (멜로망스)) _ Countdown to Three like a Habit (버릇처럼 셋을 센다) (Special Clip)",
+            "channel_name": "1theK (원더케이)",
             "category": "Music",
-            "duration": "3:42",
-            "view_count": "57105",
-            "thumbnail_url": "https://i.ytimg.com/vi/OmIvWEwtYmg/hqdefault.jpg"
-        },
-        {
-            "video_id": "0dJMAQwaAv0",
-            "title": "배만들기에서 99밤 맵을 그대로 만들면 누가 제일 멀리갈까?!ㅋㅋ(씽크로율 100%)",
-            "channel_name": "멜로우TV",
-            "category": "Gaming",
-            "duration": "13:07",
-            "view_count": "204680",
-            "thumbnail_url": "https://i.ytimg.com/vi/0dJMAQwaAv0/hqdefault.jpg"
-        },
-        {
-            "video_id": "fSIjm2SoFaQ",
-            "title": "[최신가요연속듣기 2026] KPOP 노동요 플레이리스트 🖤 2026년 1월 30일 5주차, 멜론차트 X, 종합차트, 노래모음",
-            "channel_name": "Yeo Doll",
-            "category": "Music",
-            "duration": "12:53:23",
-            "view_count": "34175",
-            "thumbnail_url": "https://i.ytimg.com/vi/fSIjm2SoFaQ/hqdefault.jpg"
+            "duration": "5:53",
+            "view_count": "3405",
+            "thumbnail_url": "https://i.ytimg.com/vi/8d9_aFgH0yU/hqdefault.jpg"
         },
         {
             "video_id": "vVap0LX-dA0",
@@ -322,8 +322,44 @@
             "channel_name": "만기퇴소",
             "category": "Gaming",
             "duration": "18:29",
-            "view_count": "81005",
+            "view_count": "84859",
             "thumbnail_url": "https://i.ytimg.com/vi/vVap0LX-dA0/hqdefault.jpg"
+        },
+        {
+            "video_id": "OmIvWEwtYmg",
+            "title": "Pilot3 (feat. KOONTA)",
+            "channel_name": "YOUNG POSSE - Topic",
+            "category": "Music",
+            "duration": "3:42",
+            "view_count": "57706",
+            "thumbnail_url": "https://i.ytimg.com/vi/OmIvWEwtYmg/hqdefault.jpg"
+        },
+        {
+            "video_id": "SAHe1CuJK7k",
+            "title": "범람 라이즈",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "21:07",
+            "view_count": "410261",
+            "thumbnail_url": "https://i.ytimg.com/vi/SAHe1CuJK7k/hqdefault.jpg"
+        },
+        {
+            "video_id": "fSIjm2SoFaQ",
+            "title": "[최신가요연속듣기 2026] KPOP 노동요 플레이리스트 🖤 2026년 1월 30일 5주차, 멜론차트 X, 종합차트, 노래모음",
+            "channel_name": "Yeo Doll",
+            "category": "Music",
+            "duration": "12:53:23",
+            "view_count": "34612",
+            "thumbnail_url": "https://i.ytimg.com/vi/fSIjm2SoFaQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "0dJMAQwaAv0",
+            "title": "배만들기에서 99밤 맵을 그대로 만들면 누가 제일 멀리갈까?!ㅋㅋ(씽크로율 100%)",
+            "channel_name": "멜로우TV",
+            "category": "Gaming",
+            "duration": "13:07",
+            "view_count": "208187",
+            "thumbnail_url": "https://i.ytimg.com/vi/0dJMAQwaAv0/hqdefault.jpg"
         },
         {
             "video_id": "VchfLmvvjio",
@@ -331,53 +367,17 @@
             "channel_name": "추억의 K트롯",
             "category": "Music",
             "duration": "2:06:41",
-            "view_count": "7683",
+            "view_count": "8076",
             "thumbnail_url": "https://i.ytimg.com/vi/VchfLmvvjio/hqdefault.jpg"
         },
         {
-            "video_id": "OCMzOjuV60c",
-            "title": "섹시몬스터 아기맹수 대황란 도황 POM 도란 | T1 vs DK | 2026 LCK CUP",
-            "channel_name": "Bang",
+            "video_id": "FyJCTyEfmiA",
+            "title": "아~ 강화 그렇게 하는 거 아닌데~ [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "1:08:26",
-            "view_count": "118668",
-            "thumbnail_url": "https://i.ytimg.com/vi/OCMzOjuV60c/hqdefault.jpg"
-        },
-        {
-            "video_id": "eDUam6Pqgfg",
-            "title": "늘 내가 더 사랑한다고 말할게 : yung kai \"blue\" cover",
-            "channel_name": "나의 노래 메모장",
-            "category": "Music",
-            "duration": "3:34",
-            "view_count": "44263",
-            "thumbnail_url": "https://i.ytimg.com/vi/eDUam6Pqgfg/hqdefault.jpg"
-        },
-        {
-            "video_id": "HedkZPEk8Z8",
-            "title": "장군님 게임 캐리하신다",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "19:31",
-            "view_count": "441427",
-            "thumbnail_url": "https://i.ytimg.com/vi/HedkZPEk8Z8/hqdefault.jpg"
-        },
-        {
-            "video_id": "9oGG_uaroIQ",
-            "title": "DNA",
-            "channel_name": "elijah woods - Topic",
-            "category": "Music",
-            "duration": "3:08",
-            "view_count": "41950",
-            "thumbnail_url": "https://i.ytimg.com/vi/9oGG_uaroIQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "n6RficI1tGk",
-            "title": "01.31｜T1 vs DK 하이라이트｜2026 LCK CUP",
-            "channel_name": "강퀴TV",
-            "category": "Gaming",
-            "duration": "49:00",
-            "view_count": "121672",
-            "thumbnail_url": "https://i.ytimg.com/vi/n6RficI1tGk/hqdefault.jpg"
+            "duration": "10:06",
+            "view_count": "95578",
+            "thumbnail_url": "https://i.ytimg.com/vi/FyJCTyEfmiA/hqdefault.jpg"
         }
     ]
 }
