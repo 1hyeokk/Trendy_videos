@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-06 20:36:08",
+    "scraped_time": "2026-02-06 22:06:30",
     "videos": [
         {
             "video_id": "dbBwv38Ycaw",
@@ -7,7 +7,7 @@
             "channel_name": "ZICO - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "372709",
+            "view_count": "394067",
             "thumbnail_url": "https://i.ytimg.com/vi/dbBwv38Ycaw/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:04",
-            "view_count": "229802",
+            "view_count": "233527",
             "thumbnail_url": "https://i.ytimg.com/vi/DPLZZkc0lO4/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "41:06",
-            "view_count": "455432",
+            "view_count": "465767",
             "thumbnail_url": "https://i.ytimg.com/vi/bljouTbxckU/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "SLAY 슬레이 ",
             "category": "People & Blogs",
             "duration": "3:27",
-            "view_count": "385834",
+            "view_count": "387644",
             "thumbnail_url": "https://i.ytimg.com/vi/cjQtYNsJfnM/hqdefault.jpg"
         },
         {
@@ -43,17 +43,17 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "1:56",
-            "view_count": "42121",
+            "view_count": "43744",
             "thumbnail_url": "https://i.ytimg.com/vi/wZxfXjrke6Y/hqdefault.jpg"
         },
         {
-            "video_id": "vGrup0yh_Qs",
-            "title": "재도전해서 좋았다",
-            "channel_name": "랄로",
+            "video_id": "gCEvu1TstPM",
+            "title": "하이파이브",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "29:58",
-            "view_count": "848773",
-            "thumbnail_url": "https://i.ytimg.com/vi/vGrup0yh_Qs/hqdefault.jpg"
+            "duration": "22:23",
+            "view_count": "357214",
+            "thumbnail_url": "https://i.ytimg.com/vi/gCEvu1TstPM/hqdefault.jpg"
         },
         {
             "video_id": "oyXx7MDqZ-Q",
@@ -61,7 +61,7 @@
             "channel_name": "Crush",
             "category": "Entertainment",
             "duration": "3:44",
-            "view_count": "376344",
+            "view_count": "383210",
             "thumbnail_url": "https://i.ytimg.com/vi/oyXx7MDqZ-Q/hqdefault.jpg"
         },
         {
@@ -70,35 +70,17 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "1:49",
-            "view_count": "622114",
+            "view_count": "633184",
             "thumbnail_url": "https://i.ytimg.com/vi/k2xCgn8Qz0Y/hqdefault.jpg"
         },
         {
-            "video_id": "gCEvu1TstPM",
-            "title": "하이파이브",
-            "channel_name": "PAKA",
+            "video_id": "vGrup0yh_Qs",
+            "title": "재도전해서 좋았다",
+            "channel_name": "랄로",
             "category": "Gaming",
-            "duration": "22:23",
-            "view_count": "349942",
-            "thumbnail_url": "https://i.ytimg.com/vi/gCEvu1TstPM/hqdefault.jpg"
-        },
-        {
-            "video_id": "6KjVYeQ9SRw",
-            "title": "Dracula (JENNIE Remix)",
-            "channel_name": "Tame Impala - Topic",
-            "category": "Music",
-            "duration": "3:30",
-            "view_count": "236553",
-            "thumbnail_url": "https://i.ytimg.com/vi/6KjVYeQ9SRw/hqdefault.jpg"
-        },
-        {
-            "video_id": "B22PBZCDhFk",
-            "title": "감스트 본캐 7경짜리 ws호날두 9카 떴다!! 3천만원 현질",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "18:29",
-            "view_count": "363639",
-            "thumbnail_url": "https://i.ytimg.com/vi/B22PBZCDhFk/hqdefault.jpg"
+            "duration": "29:58",
+            "view_count": "856733",
+            "thumbnail_url": "https://i.ytimg.com/vi/vGrup0yh_Qs/hqdefault.jpg"
         },
         {
             "video_id": "vqkfEUqjl6Y",
@@ -106,8 +88,26 @@
             "channel_name": "KQ ENTERTAINMENT",
             "category": "Music",
             "duration": "4:21",
-            "view_count": "3302284",
+            "view_count": "4374845",
             "thumbnail_url": "https://i.ytimg.com/vi/vqkfEUqjl6Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "B22PBZCDhFk",
+            "title": "감스트 본캐 7경짜리 ws호날두 9카 떴다!! 3천만원 현질",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "18:29",
+            "view_count": "371411",
+            "thumbnail_url": "https://i.ytimg.com/vi/B22PBZCDhFk/hqdefault.jpg"
+        },
+        {
+            "video_id": "6KjVYeQ9SRw",
+            "title": "Dracula (JENNIE Remix)",
+            "channel_name": "Tame Impala - Topic",
+            "category": "Music",
+            "duration": "3:30",
+            "view_count": "263630",
+            "thumbnail_url": "https://i.ytimg.com/vi/6KjVYeQ9SRw/hqdefault.jpg"
         },
         {
             "video_id": "gUWe5rmV5ek",
@@ -115,7 +115,7 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "8:01",
-            "view_count": "496937",
+            "view_count": "510465",
             "thumbnail_url": "https://i.ytimg.com/vi/gUWe5rmV5ek/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "Red Velvet",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "485463",
+            "view_count": "500100",
             "thumbnail_url": "https://i.ytimg.com/vi/6LE-Srn1UUo/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "34:29",
-            "view_count": "76745",
+            "view_count": "106638",
             "thumbnail_url": "https://i.ytimg.com/vi/ttOoaNywelY/hqdefault.jpg"
         },
         {
@@ -142,26 +142,8 @@
             "channel_name": "SLAY - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "49790",
+            "view_count": "52910",
             "thumbnail_url": "https://i.ytimg.com/vi/qAViO5wUH0k/hqdefault.jpg"
-        },
-        {
-            "video_id": "tTkT1IbsqN0",
-            "title": "아이고 이러면 티 난다니까요 라이엇;;",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "15:29",
-            "view_count": "231001",
-            "thumbnail_url": "https://i.ytimg.com/vi/tTkT1IbsqN0/hqdefault.jpg"
-        },
-        {
-            "video_id": "nqBxJhNUdhw",
-            "title": "JAEMIN, JISUNG, EUNSEOK, WONBIN, SION 'Soda Pop' (Saja Boys) Cover Stage @SMTOWN LIVE 2025-26",
-            "channel_name": "NCT",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "406066",
-            "thumbnail_url": "https://i.ytimg.com/vi/nqBxJhNUdhw/hqdefault.jpg"
         },
         {
             "video_id": "tYjOlczZ47c",
@@ -169,8 +151,26 @@
             "channel_name": "파이브",
             "category": "Gaming",
             "duration": "12:26",
-            "view_count": "133308",
+            "view_count": "147009",
             "thumbnail_url": "https://i.ytimg.com/vi/tYjOlczZ47c/hqdefault.jpg"
+        },
+        {
+            "video_id": "nqBxJhNUdhw",
+            "title": "JAEMIN, JISUNG, EUNSEOK, WONBIN, SION 'Soda Pop' (Saja Boys) Cover Stage @SMTOWN LIVE 2025-26",
+            "channel_name": "NCT",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "421440",
+            "thumbnail_url": "https://i.ytimg.com/vi/nqBxJhNUdhw/hqdefault.jpg"
+        },
+        {
+            "video_id": "tTkT1IbsqN0",
+            "title": "아이고 이러면 티 난다니까요 라이엇;;",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "15:29",
+            "view_count": "236698",
+            "thumbnail_url": "https://i.ytimg.com/vi/tTkT1IbsqN0/hqdefault.jpg"
         },
         {
             "video_id": "3441HgQwUs4",
@@ -178,17 +178,17 @@
             "channel_name": "ATEEZ - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "58872",
+            "view_count": "76505",
             "thumbnail_url": "https://i.ytimg.com/vi/3441HgQwUs4/hqdefault.jpg"
         },
         {
-            "video_id": "BZ1gDytFkFA",
-            "title": "광고에 ㅈㄴ 뜨던 게임, 개빡쳐서 깔아봤습니다",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "17:13",
-            "view_count": "903065",
-            "thumbnail_url": "https://i.ytimg.com/vi/BZ1gDytFkFA/hqdefault.jpg"
+            "video_id": "PCQ2ojh-Gmw",
+            "title": "새해 해 뜨기 전까지 금 2026개 모으기",
+            "channel_name": "쪼만",
+            "category": "People & Blogs",
+            "duration": "19:27",
+            "view_count": "108941",
+            "thumbnail_url": "https://i.ytimg.com/vi/PCQ2ojh-Gmw/hqdefault.jpg"
         },
         {
             "video_id": "h9UvH1utWb0",
@@ -196,17 +196,17 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "4:10",
-            "view_count": "61286",
+            "view_count": "65057",
             "thumbnail_url": "https://i.ytimg.com/vi/h9UvH1utWb0/hqdefault.jpg"
         },
         {
-            "video_id": "PCQ2ojh-Gmw",
-            "title": "새해 전까지 금 2026개 모으기",
-            "channel_name": "쪼만",
-            "category": "People & Blogs",
-            "duration": "19:27",
-            "view_count": "95152",
-            "thumbnail_url": "https://i.ytimg.com/vi/PCQ2ojh-Gmw/hqdefault.jpg"
+            "video_id": "BZ1gDytFkFA",
+            "title": "광고에 ㅈㄴ 뜨던 게임, 개빡쳐서 깔아봤습니다",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "17:13",
+            "view_count": "917484",
+            "thumbnail_url": "https://i.ytimg.com/vi/BZ1gDytFkFA/hqdefault.jpg"
         },
         {
             "video_id": "SzYvYNQQ1VU",
@@ -214,7 +214,7 @@
             "channel_name": "Gu Yoon Hoe - Topic",
             "category": "Music",
             "duration": "4:22",
-            "view_count": "22141",
+            "view_count": "23999",
             "thumbnail_url": "https://i.ytimg.com/vi/SzYvYNQQ1VU/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
             "duration": "7:44:06",
-            "view_count": "233889",
+            "view_count": "234460",
             "thumbnail_url": "https://i.ytimg.com/vi/pdBppfvwjw0/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "Han Dong Geun - Topic",
             "category": "Music",
             "duration": "3:34",
-            "view_count": "64146",
+            "view_count": "69111",
             "thumbnail_url": "https://i.ytimg.com/vi/IFEM-w47RKU/hqdefault.jpg"
         },
         {
@@ -241,17 +241,17 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "14:01",
-            "view_count": "424235",
+            "view_count": "428839",
             "thumbnail_url": "https://i.ytimg.com/vi/tmOcj4s9vkw/hqdefault.jpg"
         },
         {
-            "video_id": "D6cFGYxpFEw",
-            "title": "Crazy Fool",
-            "channel_name": "Lim Chang-jung - Topic",
-            "category": "Music",
-            "duration": "4:06",
-            "view_count": "47308",
-            "thumbnail_url": "https://i.ytimg.com/vi/D6cFGYxpFEw/hqdefault.jpg"
+            "video_id": "IxoCRq-v81I",
+            "title": "포레스텔라(Forestella) 'Etude' Lyric Video",
+            "channel_name": "포레스텔라 Forestella  ",
+            "category": "Entertainment",
+            "duration": "4:37",
+            "view_count": "18110",
+            "thumbnail_url": "https://i.ytimg.com/vi/IxoCRq-v81I/hqdefault.jpg"
         },
         {
             "video_id": "JqsMVnRA4rg",
@@ -259,7 +259,7 @@
             "channel_name": "나무늘보",
             "category": "Gaming",
             "duration": "18:58",
-            "view_count": "196014",
+            "view_count": "198017",
             "thumbnail_url": "https://i.ytimg.com/vi/JqsMVnRA4rg/hqdefault.jpg"
         },
         {
@@ -268,8 +268,44 @@
             "channel_name": "MONSTA X - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "17103",
+            "view_count": "19177",
             "thumbnail_url": "https://i.ytimg.com/vi/VPwM2jScX5w/hqdefault.jpg"
+        },
+        {
+            "video_id": "dI-MOa8IODM",
+            "title": "고물상 아저씨",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "22:13",
+            "view_count": "88357",
+            "thumbnail_url": "https://i.ytimg.com/vi/dI-MOa8IODM/hqdefault.jpg"
+        },
+        {
+            "video_id": "D6cFGYxpFEw",
+            "title": "Crazy Fool",
+            "channel_name": "Lim Chang-jung - Topic",
+            "category": "Music",
+            "duration": "4:06",
+            "view_count": "49334",
+            "thumbnail_url": "https://i.ytimg.com/vi/D6cFGYxpFEw/hqdefault.jpg"
+        },
+        {
+            "video_id": "P5n2jC0Ln0U",
+            "title": "절교하기 좋은 게임 1위를 팀나빠가 한다면? ㅋ",
+            "channel_name": "멜로우TV",
+            "category": "Gaming",
+            "duration": "15:20",
+            "view_count": "93253",
+            "thumbnail_url": "https://i.ytimg.com/vi/P5n2jC0Ln0U/hqdefault.jpg"
+        },
+        {
+            "video_id": "GlFI5VmsCRE",
+            "title": "[최신가요 실시간 인기차트] 🃏💗 2026년 2월 6일 1주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
+            "channel_name": "Yeo Doll",
+            "category": "Music",
+            "duration": "12:54:10",
+            "view_count": "10385",
+            "thumbnail_url": "https://i.ytimg.com/vi/GlFI5VmsCRE/hqdefault.jpg"
         },
         {
             "video_id": "G8R04AYxhb8",
@@ -277,7 +313,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:40",
-            "view_count": "206599",
+            "view_count": "212835",
             "thumbnail_url": "https://i.ytimg.com/vi/G8R04AYxhb8/hqdefault.jpg"
         },
         {
@@ -286,26 +322,8 @@
             "channel_name": "JD1 - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "15786",
+            "view_count": "16613",
             "thumbnail_url": "https://i.ytimg.com/vi/8DsqEQIE3Gk/hqdefault.jpg"
-        },
-        {
-            "video_id": "P5n2jC0Ln0U",
-            "title": "절교하기 좋은 게임 1위를 팀나빠가 한다면? ㅋ",
-            "channel_name": "멜로우TV",
-            "category": "Gaming",
-            "duration": "15:20",
-            "view_count": "75691",
-            "thumbnail_url": "https://i.ytimg.com/vi/P5n2jC0Ln0U/hqdefault.jpg"
-        },
-        {
-            "video_id": "IxoCRq-v81I",
-            "title": "포레스텔라(Forestella) 'Etude' Lyric Video",
-            "channel_name": "포레스텔라 Forestella  ",
-            "category": "Entertainment",
-            "duration": "4:37",
-            "view_count": "15736",
-            "thumbnail_url": "https://i.ytimg.com/vi/IxoCRq-v81I/hqdefault.jpg"
         },
         {
             "video_id": "MFcrB-TFpVk",
@@ -313,7 +331,7 @@
             "channel_name": "오버워치",
             "category": "Gaming",
             "duration": "6:25",
-            "view_count": "227269",
+            "view_count": "230380",
             "thumbnail_url": "https://i.ytimg.com/vi/MFcrB-TFpVk/hqdefault.jpg"
         },
         {
@@ -322,7 +340,7 @@
             "channel_name": "Yorushika - Topic",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "713353",
+            "view_count": "730407",
             "thumbnail_url": "https://i.ytimg.com/vi/wyz1uyeRvBg/hqdefault.jpg"
         },
         {
@@ -331,26 +349,8 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "30:34",
-            "view_count": "213871",
+            "view_count": "215941",
             "thumbnail_url": "https://i.ytimg.com/vi/C6b8hRKdC4w/hqdefault.jpg"
-        },
-        {
-            "video_id": "GlFI5VmsCRE",
-            "title": "[최신가요 실시간 인기차트] 🃏💗 2026년 2월 6일 1주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
-            "channel_name": "Yeo Doll",
-            "category": "Music",
-            "duration": "12:54:10",
-            "view_count": "8922",
-            "thumbnail_url": "https://i.ytimg.com/vi/GlFI5VmsCRE/hqdefault.jpg"
-        },
-        {
-            "video_id": "g85vOjiUkHs",
-            "title": "팔협지는 가끔은 정신을 놔야 예술작품이 나온다,, 체력 10000 짱룡과 기원자 솔",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "15:54",
-            "view_count": "133931",
-            "thumbnail_url": "https://i.ytimg.com/vi/g85vOjiUkHs/hqdefault.jpg"
         },
         {
             "video_id": "jkdx9PaVKe0",
@@ -358,17 +358,17 @@
             "channel_name": "Younha - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "497823",
+            "view_count": "507650",
             "thumbnail_url": "https://i.ytimg.com/vi/jkdx9PaVKe0/hqdefault.jpg"
         },
         {
-            "video_id": "HG8i1JRiweI",
-            "title": "버프먹은 실체화 장비로 모든 단점이 사라져 미쳐버린 체급의 탑 스웨인, 이거 지금 못 막습니다",
-            "channel_name": "1vsAll",
+            "video_id": "JrdXVHXEAGo",
+            "title": "요즘 치지직에서 핫하다는 레디언트 고양이 \"도로시 세트\" 전격 리뷰",
+            "channel_name": "버니버니",
             "category": "Gaming",
-            "duration": "25:42",
-            "view_count": "135519",
-            "thumbnail_url": "https://i.ytimg.com/vi/HG8i1JRiweI/hqdefault.jpg"
+            "duration": "14:01",
+            "view_count": "94821",
+            "thumbnail_url": "https://i.ytimg.com/vi/JrdXVHXEAGo/hqdefault.jpg"
         },
         {
             "video_id": "tUHmmMqV7pI",
@@ -376,7 +376,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "57340",
+            "view_count": "60126",
             "thumbnail_url": "https://i.ytimg.com/vi/tUHmmMqV7pI/hqdefault.jpg"
         }
     ]
