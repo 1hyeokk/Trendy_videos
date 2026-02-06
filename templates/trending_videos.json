@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-06 11:25:13",
+    "scraped_time": "2026-02-06 13:48:48",
     "videos": [
         {
             "video_id": "dbBwv38Ycaw",
@@ -7,7 +7,7 @@
             "channel_name": "ZICO - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "274299",
+            "view_count": "292585",
             "thumbnail_url": "https://i.ytimg.com/vi/dbBwv38Ycaw/hqdefault.jpg"
         },
         {
@@ -16,35 +16,8 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:04",
-            "view_count": "212689",
+            "view_count": "215427",
             "thumbnail_url": "https://i.ytimg.com/vi/DPLZZkc0lO4/hqdefault.jpg"
-        },
-        {
-            "video_id": "vGrup0yh_Qs",
-            "title": "재도전해서 좋았다",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "29:58",
-            "view_count": "809793",
-            "thumbnail_url": "https://i.ytimg.com/vi/vGrup0yh_Qs/hqdefault.jpg"
-        },
-        {
-            "video_id": "cjQtYNsJfnM",
-            "title": "SLAY (슬레이), 남규리 - 슬픔이 찾아와서 그래 (Prod. 로코베리) Live Clip",
-            "channel_name": "SLAY 슬레이 ",
-            "category": "People & Blogs",
-            "duration": "3:27",
-            "view_count": "372304",
-            "thumbnail_url": "https://i.ytimg.com/vi/cjQtYNsJfnM/hqdefault.jpg"
-        },
-        {
-            "video_id": "k2xCgn8Qz0Y",
-            "title": "[악마는 프라다를 입는다 2] 2차 티저 예고편",
-            "channel_name": "20th Century Studios Korea",
-            "category": "Film & Animation",
-            "duration": "1:49",
-            "view_count": "561492",
-            "thumbnail_url": "https://i.ytimg.com/vi/k2xCgn8Qz0Y/hqdefault.jpg"
         },
         {
             "video_id": "bljouTbxckU",
@@ -52,17 +25,17 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "41:06",
-            "view_count": "356782",
+            "view_count": "384076",
             "thumbnail_url": "https://i.ytimg.com/vi/bljouTbxckU/hqdefault.jpg"
         },
         {
-            "video_id": "oyXx7MDqZ-Q",
-            "title": "ZICO, Crush - 'Yin and Yang (FANXY CHILD Ver.)(Feat. DEAN, PENOMECO)' Visualizer",
-            "channel_name": "Crush",
-            "category": "Entertainment",
-            "duration": "3:44",
-            "view_count": "331837",
-            "thumbnail_url": "https://i.ytimg.com/vi/oyXx7MDqZ-Q/hqdefault.jpg"
+            "video_id": "cjQtYNsJfnM",
+            "title": "SLAY (슬레이), 남규리 - 슬픔이 찾아와서 그래 (Prod. 로코베리) Live Clip",
+            "channel_name": "SLAY 슬레이 ",
+            "category": "People & Blogs",
+            "duration": "3:27",
+            "view_count": "377932",
+            "thumbnail_url": "https://i.ytimg.com/vi/cjQtYNsJfnM/hqdefault.jpg"
         },
         {
             "video_id": "wZxfXjrke6Y",
@@ -70,8 +43,35 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "1:56",
-            "view_count": "25429",
+            "view_count": "31018",
             "thumbnail_url": "https://i.ytimg.com/vi/wZxfXjrke6Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "vGrup0yh_Qs",
+            "title": "재도전해서 좋았다",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "29:58",
+            "view_count": "817827",
+            "thumbnail_url": "https://i.ytimg.com/vi/vGrup0yh_Qs/hqdefault.jpg"
+        },
+        {
+            "video_id": "oyXx7MDqZ-Q",
+            "title": "ZICO, Crush - 'Yin and Yang (FANXY CHILD Ver.)(Feat. DEAN, PENOMECO)' Visualizer",
+            "channel_name": "Crush",
+            "category": "Entertainment",
+            "duration": "3:44",
+            "view_count": "342123",
+            "thumbnail_url": "https://i.ytimg.com/vi/oyXx7MDqZ-Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "k2xCgn8Qz0Y",
+            "title": "[악마는 프라다를 입는다 2] 2차 티저 예고편",
+            "channel_name": "20th Century Studios Korea",
+            "category": "Film & Animation",
+            "duration": "1:49",
+            "view_count": "577527",
+            "thumbnail_url": "https://i.ytimg.com/vi/k2xCgn8Qz0Y/hqdefault.jpg"
         },
         {
             "video_id": "gCEvu1TstPM",
@@ -79,7 +79,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:23",
-            "view_count": "293167",
+            "view_count": "309028",
             "thumbnail_url": "https://i.ytimg.com/vi/gCEvu1TstPM/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "Red Velvet",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "395631",
+            "view_count": "420375",
             "thumbnail_url": "https://i.ytimg.com/vi/6LE-Srn1UUo/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "8:33",
-            "view_count": "179936",
+            "view_count": "180471",
             "thumbnail_url": "https://i.ytimg.com/vi/KF0QgRVzSM8/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "18:29",
-            "view_count": "288122",
+            "view_count": "308780",
             "thumbnail_url": "https://i.ytimg.com/vi/B22PBZCDhFk/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "NCT",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "326036",
+            "view_count": "347373",
             "thumbnail_url": "https://i.ytimg.com/vi/nqBxJhNUdhw/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "8:01",
-            "view_count": "380368",
+            "view_count": "417736",
             "thumbnail_url": "https://i.ytimg.com/vi/gUWe5rmV5ek/hqdefault.jpg"
         },
         {
@@ -133,8 +133,26 @@
             "channel_name": "SLAY - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "28537",
+            "view_count": "34334",
             "thumbnail_url": "https://i.ytimg.com/vi/qAViO5wUH0k/hqdefault.jpg"
+        },
+        {
+            "video_id": "tTkT1IbsqN0",
+            "title": "아이고 이러면 티 난다니까요 라이엇;;",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "15:29",
+            "view_count": "192563",
+            "thumbnail_url": "https://i.ytimg.com/vi/tTkT1IbsqN0/hqdefault.jpg"
+        },
+        {
+            "video_id": "6KjVYeQ9SRw",
+            "title": "Dracula (JENNIE Remix)",
+            "channel_name": "Tame Impala - Topic",
+            "category": "Music",
+            "duration": "3:30",
+            "view_count": "101151",
+            "thumbnail_url": "https://i.ytimg.com/vi/6KjVYeQ9SRw/hqdefault.jpg"
         },
         {
             "video_id": "pdBppfvwjw0",
@@ -142,7 +160,7 @@
             "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
             "duration": "7:44:06",
-            "view_count": "229619",
+            "view_count": "230917",
             "thumbnail_url": "https://i.ytimg.com/vi/pdBppfvwjw0/hqdefault.jpg"
         },
         {
@@ -151,7 +169,7 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "4:10",
-            "view_count": "43702",
+            "view_count": "47037",
             "thumbnail_url": "https://i.ytimg.com/vi/h9UvH1utWb0/hqdefault.jpg"
         },
         {
@@ -160,26 +178,8 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "17:13",
-            "view_count": "805042",
+            "view_count": "827419",
             "thumbnail_url": "https://i.ytimg.com/vi/BZ1gDytFkFA/hqdefault.jpg"
-        },
-        {
-            "video_id": "6KjVYeQ9SRw",
-            "title": "Dracula (JENNIE Remix)",
-            "channel_name": "Tame Impala - Topic",
-            "category": "Music",
-            "duration": "3:30",
-            "view_count": "63844",
-            "thumbnail_url": "https://i.ytimg.com/vi/6KjVYeQ9SRw/hqdefault.jpg"
-        },
-        {
-            "video_id": "tTkT1IbsqN0",
-            "title": "아이고 이러면 티 난다니까요 라이엇;;",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "15:29",
-            "view_count": "177797",
-            "thumbnail_url": "https://i.ytimg.com/vi/tTkT1IbsqN0/hqdefault.jpg"
         },
         {
             "video_id": "wyz1uyeRvBg",
@@ -187,7 +187,7 @@
             "channel_name": "Yorushika - Topic",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "632097",
+            "view_count": "650009",
             "thumbnail_url": "https://i.ytimg.com/vi/wyz1uyeRvBg/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "14:01",
-            "view_count": "399144",
+            "view_count": "403940",
             "thumbnail_url": "https://i.ytimg.com/vi/tmOcj4s9vkw/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "Lim Chang-jung - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "35679",
+            "view_count": "38202",
             "thumbnail_url": "https://i.ytimg.com/vi/D6cFGYxpFEw/hqdefault.jpg"
         },
         {
@@ -214,26 +214,8 @@
             "channel_name": "나무늘보",
             "category": "Gaming",
             "duration": "18:58",
-            "view_count": "183553",
+            "view_count": "186735",
             "thumbnail_url": "https://i.ytimg.com/vi/JqsMVnRA4rg/hqdefault.jpg"
-        },
-        {
-            "video_id": "jkdx9PaVKe0",
-            "title": "Seasonal Crime",
-            "channel_name": "Younha - Topic",
-            "category": "Music",
-            "duration": "3:43",
-            "view_count": "440604",
-            "thumbnail_url": "https://i.ytimg.com/vi/jkdx9PaVKe0/hqdefault.jpg"
-        },
-        {
-            "video_id": "MFcrB-TFpVk",
-            "title": "오버워치 시네마틱 | “탈론의 지배”",
-            "channel_name": "오버워치",
-            "category": "Gaming",
-            "duration": "6:25",
-            "view_count": "211928",
-            "thumbnail_url": "https://i.ytimg.com/vi/MFcrB-TFpVk/hqdefault.jpg"
         },
         {
             "video_id": "8DsqEQIE3Gk",
@@ -241,8 +223,26 @@
             "channel_name": "JD1 - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "10720",
+            "view_count": "12102",
             "thumbnail_url": "https://i.ytimg.com/vi/8DsqEQIE3Gk/hqdefault.jpg"
+        },
+        {
+            "video_id": "MFcrB-TFpVk",
+            "title": "오버워치 시네마틱 | “탈론의 지배”",
+            "channel_name": "오버워치",
+            "category": "Gaming",
+            "duration": "6:25",
+            "view_count": "215324",
+            "thumbnail_url": "https://i.ytimg.com/vi/MFcrB-TFpVk/hqdefault.jpg"
+        },
+        {
+            "video_id": "jkdx9PaVKe0",
+            "title": "Seasonal Crime",
+            "channel_name": "Younha - Topic",
+            "category": "Music",
+            "duration": "3:43",
+            "view_count": "452123",
+            "thumbnail_url": "https://i.ytimg.com/vi/jkdx9PaVKe0/hqdefault.jpg"
         },
         {
             "video_id": "G8R04AYxhb8",
@@ -250,7 +250,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:40",
-            "view_count": "160784",
+            "view_count": "173651",
             "thumbnail_url": "https://i.ytimg.com/vi/G8R04AYxhb8/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "Han Dong Geun - Topic",
             "category": "Music",
             "duration": "3:34",
-            "view_count": "44109",
+            "view_count": "47475",
             "thumbnail_url": "https://i.ytimg.com/vi/IFEM-w47RKU/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "30:34",
-            "view_count": "189445",
+            "view_count": "197739",
             "thumbnail_url": "https://i.ytimg.com/vi/C6b8hRKdC4w/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "36984",
+            "view_count": "43038",
             "thumbnail_url": "https://i.ytimg.com/vi/tUHmmMqV7pI/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "15:54",
-            "view_count": "114495",
+            "view_count": "120286",
             "thumbnail_url": "https://i.ytimg.com/vi/g85vOjiUkHs/hqdefault.jpg"
         },
         {
@@ -295,8 +295,44 @@
             "channel_name": "TAK SONG I - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "25924",
+            "view_count": "27050",
             "thumbnail_url": "https://i.ytimg.com/vi/qGneLH3dMBQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "6eJvDswhWOU",
+            "title": "그렇게 어머니가 된다",
+            "channel_name": "강 지",
+            "category": "Gaming",
+            "duration": "16:42",
+            "view_count": "185467",
+            "thumbnail_url": "https://i.ytimg.com/vi/6eJvDswhWOU/hqdefault.jpg"
+        },
+        {
+            "video_id": "VPwM2jScX5w",
+            "title": "growing pains",
+            "channel_name": "MONSTA X - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "7808",
+            "thumbnail_url": "https://i.ytimg.com/vi/VPwM2jScX5w/hqdefault.jpg"
+        },
+        {
+            "video_id": "HG8i1JRiweI",
+            "title": "버프먹은 실체화 장비로 모든 단점이 사라져 미쳐버린 체급의 탑 스웨인, 이거 지금 못 막습니다",
+            "channel_name": "1vsAll",
+            "category": "Gaming",
+            "duration": "25:42",
+            "view_count": "120851",
+            "thumbnail_url": "https://i.ytimg.com/vi/HG8i1JRiweI/hqdefault.jpg"
+        },
+        {
+            "video_id": "SzYvYNQQ1VU",
+            "title": "Marry Me",
+            "channel_name": "Gu Yoon Hoe - Topic",
+            "category": "Music",
+            "duration": "4:22",
+            "view_count": "14753",
+            "thumbnail_url": "https://i.ytimg.com/vi/SzYvYNQQ1VU/hqdefault.jpg"
         },
         {
             "video_id": "JBfGAoG1-9c",
@@ -304,7 +340,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "41:04",
-            "view_count": "182041",
+            "view_count": "183612",
             "thumbnail_url": "https://i.ytimg.com/vi/JBfGAoG1-9c/hqdefault.jpg"
         },
         {
@@ -313,17 +349,17 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "51965",
+            "view_count": "53179",
             "thumbnail_url": "https://i.ytimg.com/vi/_mjDpC18_s0/hqdefault.jpg"
         },
         {
-            "video_id": "6eJvDswhWOU",
-            "title": "그렇게 어머니가 된다",
-            "channel_name": "강 지",
+            "video_id": "lDbbGwiCVVc",
+            "title": "죽음이 빗나가는 예언자 게임ㅋㅋㅋ",
+            "channel_name": "왈도쿤",
             "category": "Gaming",
-            "duration": "16:42",
-            "view_count": "175384",
-            "thumbnail_url": "https://i.ytimg.com/vi/6eJvDswhWOU/hqdefault.jpg"
+            "duration": "11:08",
+            "view_count": "121950",
+            "thumbnail_url": "https://i.ytimg.com/vi/lDbbGwiCVVc/hqdefault.jpg"
         },
         {
             "video_id": "cV4m6UE1cJA",
@@ -331,26 +367,8 @@
             "channel_name": "Kkuek - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "17917",
+            "view_count": "18529",
             "thumbnail_url": "https://i.ytimg.com/vi/cV4m6UE1cJA/hqdefault.jpg"
-        },
-        {
-            "video_id": "NLud1gbxeIQ",
-            "title": "Maple Now | 김창섭 디렉터 (26.02.05)",
-            "channel_name": "메이플스토리",
-            "category": "Gaming",
-            "duration": "1:50:33",
-            "view_count": "126748",
-            "thumbnail_url": "https://i.ytimg.com/vi/NLud1gbxeIQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "D32SUEoDnyA",
-            "title": "KiiiKiii 키키 ‘404 (New Era)’｜On the Spot｜온더스팟",
-            "channel_name": "1theK Originals - 원더케이 오리지널",
-            "category": "Entertainment",
-            "duration": "3:23",
-            "view_count": "470924",
-            "thumbnail_url": "https://i.ytimg.com/vi/D32SUEoDnyA/hqdefault.jpg"
         },
         {
             "video_id": "ygsPmJWL-Gw",
@@ -358,26 +376,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "25:16",
-            "view_count": "307756",
+            "view_count": "310211",
             "thumbnail_url": "https://i.ytimg.com/vi/ygsPmJWL-Gw/hqdefault.jpg"
-        },
-        {
-            "video_id": "LpwJYZlBxnc",
-            "title": "golden boy",
-            "channel_name": "Freya Skye - Topic",
-            "category": "Music",
-            "duration": "3:18",
-            "view_count": "116637",
-            "thumbnail_url": "https://i.ytimg.com/vi/LpwJYZlBxnc/hqdefault.jpg"
-        },
-        {
-            "video_id": "HG8i1JRiweI",
-            "title": "버프먹은 실체화 장비로 모든 단점이 사라져 미쳐버린 체급의 탑 스웨인, 이거 지금 못 막습니다",
-            "channel_name": "1vsAll",
-            "category": "Gaming",
-            "duration": "25:42",
-            "view_count": "115239",
-            "thumbnail_url": "https://i.ytimg.com/vi/HG8i1JRiweI/hqdefault.jpg"
         }
     ]
 }
