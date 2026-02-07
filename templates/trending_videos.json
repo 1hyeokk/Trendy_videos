@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-07 19:29:28",
+    "scraped_time": "2026-02-07 20:24:44",
     "videos": [
         {
             "video_id": "dbBwv38Ycaw",
@@ -7,7 +7,7 @@
             "channel_name": "ZICO - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "559313",
+            "view_count": "572383",
             "thumbnail_url": "https://i.ytimg.com/vi/dbBwv38Ycaw/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:04",
-            "view_count": "270120",
+            "view_count": "271804",
             "thumbnail_url": "https://i.ytimg.com/vi/DPLZZkc0lO4/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "28:12",
-            "view_count": "310736",
+            "view_count": "317946",
             "thumbnail_url": "https://i.ytimg.com/vi/YdRznvLniLo/hqdefault.jpg"
         },
         {
@@ -34,17 +34,8 @@
             "channel_name": "SLAY - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "114809",
+            "view_count": "119903",
             "thumbnail_url": "https://i.ytimg.com/vi/qAViO5wUH0k/hqdefault.jpg"
-        },
-        {
-            "video_id": "wZxfXjrke6Y",
-            "title": "[28년 후: 뼈의 사원] 메인 예고편",
-            "channel_name": "소니픽쳐스코리아",
-            "category": "Film & Animation",
-            "duration": "1:56",
-            "view_count": "58654",
-            "thumbnail_url": "https://i.ytimg.com/vi/wZxfXjrke6Y/hqdefault.jpg"
         },
         {
             "video_id": "ttOoaNywelY",
@@ -52,7 +43,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "34:29",
-            "view_count": "229959",
+            "view_count": "233614",
             "thumbnail_url": "https://i.ytimg.com/vi/ttOoaNywelY/hqdefault.jpg"
         },
         {
@@ -61,7 +52,7 @@
             "channel_name": "KQ ENTERTAINMENT",
             "category": "Music",
             "duration": "4:21",
-            "view_count": "8462336",
+            "view_count": "8520149",
             "thumbnail_url": "https://i.ytimg.com/vi/vqkfEUqjl6Y/hqdefault.jpg"
         },
         {
@@ -70,7 +61,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "41:06",
-            "view_count": "532370",
+            "view_count": "535262",
             "thumbnail_url": "https://i.ytimg.com/vi/bljouTbxckU/hqdefault.jpg"
         },
         {
@@ -79,26 +70,8 @@
             "channel_name": "Tame Impala - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "555515",
+            "view_count": "568436",
             "thumbnail_url": "https://i.ytimg.com/vi/6KjVYeQ9SRw/hqdefault.jpg"
-        },
-        {
-            "video_id": "IIY8qk4c7g4",
-            "title": "원펀맨 사일러스",
-            "channel_name": "백크 Baekk",
-            "category": "Gaming",
-            "duration": "12:35",
-            "view_count": "228571",
-            "thumbnail_url": "https://i.ytimg.com/vi/IIY8qk4c7g4/hqdefault.jpg"
-        },
-        {
-            "video_id": "cjQtYNsJfnM",
-            "title": "SLAY (슬레이), 남규리 - 슬픔이 찾아와서 그래 (Prod. 로코베리) Live Clip",
-            "channel_name": "SLAY 슬레이 ",
-            "category": "People & Blogs",
-            "duration": "3:27",
-            "view_count": "430471",
-            "thumbnail_url": "https://i.ytimg.com/vi/cjQtYNsJfnM/hqdefault.jpg"
         },
         {
             "video_id": "ZEZRjO9lYUU",
@@ -106,8 +79,26 @@
             "channel_name": "마주 - 로블록스",
             "category": "Gaming",
             "duration": "14:12",
-            "view_count": "118898",
+            "view_count": "128786",
             "thumbnail_url": "https://i.ytimg.com/vi/ZEZRjO9lYUU/hqdefault.jpg"
+        },
+        {
+            "video_id": "cjQtYNsJfnM",
+            "title": "SLAY (슬레이), 남규리 - 슬픔이 찾아와서 그래 (Prod. 로코베리) Live Clip",
+            "channel_name": "SLAY 슬레이 ",
+            "category": "People & Blogs",
+            "duration": "3:27",
+            "view_count": "432118",
+            "thumbnail_url": "https://i.ytimg.com/vi/cjQtYNsJfnM/hqdefault.jpg"
+        },
+        {
+            "video_id": "IIY8qk4c7g4",
+            "title": "원펀맨 사일러스",
+            "channel_name": "백크 Baekk",
+            "category": "Gaming",
+            "duration": "12:35",
+            "view_count": "235049",
+            "thumbnail_url": "https://i.ytimg.com/vi/IIY8qk4c7g4/hqdefault.jpg"
         },
         {
             "video_id": "3441HgQwUs4",
@@ -115,116 +106,8 @@
             "channel_name": "ATEEZ - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "274736",
+            "view_count": "282271",
             "thumbnail_url": "https://i.ytimg.com/vi/3441HgQwUs4/hqdefault.jpg"
-        },
-        {
-            "video_id": "9KADI9FNi-0",
-            "title": "이 탈출맵 풀이법이 진짜 기가 막힘 ㄷㄷ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "24:01",
-            "view_count": "149627",
-            "thumbnail_url": "https://i.ytimg.com/vi/9KADI9FNi-0/hqdefault.jpg"
-        },
-        {
-            "video_id": "6LE-Srn1UUo",
-            "title": "IRENE, SEULGI, KARINA, WINTER 'Chu~♡' (f(x)) Cover Stage @SMTOWN LIVE 2025-26",
-            "channel_name": "Red Velvet",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "705828",
-            "thumbnail_url": "https://i.ytimg.com/vi/6LE-Srn1UUo/hqdefault.jpg"
-        },
-        {
-            "video_id": "dI-MOa8IODM",
-            "title": "고물상 아저씨",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "22:13",
-            "view_count": "224044",
-            "thumbnail_url": "https://i.ytimg.com/vi/dI-MOa8IODM/hqdefault.jpg"
-        },
-        {
-            "video_id": "oyXx7MDqZ-Q",
-            "title": "ZICO, Crush - 'Yin and Yang (FANXY CHILD Ver.)(Feat. DEAN, PENOMECO)' Visualizer",
-            "channel_name": "Crush",
-            "category": "Entertainment",
-            "duration": "3:44",
-            "view_count": "441955",
-            "thumbnail_url": "https://i.ytimg.com/vi/oyXx7MDqZ-Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "4FmJ9AxZBwQ",
-            "title": "왔나? 대쌀철이의 시대",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "16:47",
-            "view_count": "165362",
-            "thumbnail_url": "https://i.ytimg.com/vi/4FmJ9AxZBwQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "9nEp9eeGaJk",
-            "title": "ILLIT (아일릿) 'NOT ME’ Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "2:36",
-            "view_count": "1113760",
-            "thumbnail_url": "https://i.ytimg.com/vi/9nEp9eeGaJk/hqdefault.jpg"
-        },
-        {
-            "video_id": "gCEvu1TstPM",
-            "title": "하이파이브",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "22:23",
-            "view_count": "408466",
-            "thumbnail_url": "https://i.ytimg.com/vi/gCEvu1TstPM/hqdefault.jpg"
-        },
-        {
-            "video_id": "nqBxJhNUdhw",
-            "title": "JAEMIN, JISUNG, EUNSEOK, WONBIN, SION 'Soda Pop' (Saja Boys) Cover Stage @SMTOWN LIVE 2025-26",
-            "channel_name": "NCT",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "617557",
-            "thumbnail_url": "https://i.ytimg.com/vi/nqBxJhNUdhw/hqdefault.jpg"
-        },
-        {
-            "video_id": "whYQCP2hoNw",
-            "title": "뽑으면 100% 서렌 당하는 “우당탕탕 포로“ 모르가나",
-            "channel_name": "무지개맛 Rainbow Flavor",
-            "category": "Gaming",
-            "duration": "9:19",
-            "view_count": "159265",
-            "thumbnail_url": "https://i.ytimg.com/vi/whYQCP2hoNw/hqdefault.jpg"
-        },
-        {
-            "video_id": "SzYvYNQQ1VU",
-            "title": "Marry Me",
-            "channel_name": "Gu Yoon Hoe - Topic",
-            "category": "Music",
-            "duration": "4:22",
-            "view_count": "43379",
-            "thumbnail_url": "https://i.ytimg.com/vi/SzYvYNQQ1VU/hqdefault.jpg"
-        },
-        {
-            "video_id": "vGrup0yh_Qs",
-            "title": "재도전해서 좋았다",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "29:58",
-            "view_count": "915767",
-            "thumbnail_url": "https://i.ytimg.com/vi/vGrup0yh_Qs/hqdefault.jpg"
-        },
-        {
-            "video_id": "QT2a9A9bhw0",
-            "title": "sarang..",
-            "channel_name": "Han Yo-han - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "20845",
-            "thumbnail_url": "https://i.ytimg.com/vi/QT2a9A9bhw0/hqdefault.jpg"
         },
         {
             "video_id": "MGY3sSpjDXw",
@@ -232,8 +115,116 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "14:39",
-            "view_count": "63427",
+            "view_count": "80923",
             "thumbnail_url": "https://i.ytimg.com/vi/MGY3sSpjDXw/hqdefault.jpg"
+        },
+        {
+            "video_id": "6LE-Srn1UUo",
+            "title": "IRENE, SEULGI, KARINA, WINTER 'Chu~♡' (f(x)) Cover Stage @SMTOWN LIVE 2025-26",
+            "channel_name": "Red Velvet",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "715513",
+            "thumbnail_url": "https://i.ytimg.com/vi/6LE-Srn1UUo/hqdefault.jpg"
+        },
+        {
+            "video_id": "9KADI9FNi-0",
+            "title": "이 탈출맵 풀이법이 진짜 기가 막힘 ㄷㄷ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "24:01",
+            "view_count": "153999",
+            "thumbnail_url": "https://i.ytimg.com/vi/9KADI9FNi-0/hqdefault.jpg"
+        },
+        {
+            "video_id": "oyXx7MDqZ-Q",
+            "title": "ZICO, Crush - 'Yin and Yang (FANXY CHILD Ver.)(Feat. DEAN, PENOMECO)' Visualizer",
+            "channel_name": "Crush",
+            "category": "Entertainment",
+            "duration": "3:44",
+            "view_count": "445509",
+            "thumbnail_url": "https://i.ytimg.com/vi/oyXx7MDqZ-Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "DvQVowjNnr0",
+            "title": "영혼의 파트너",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "25:38",
+            "view_count": "71963",
+            "thumbnail_url": "https://i.ytimg.com/vi/DvQVowjNnr0/hqdefault.jpg"
+        },
+        {
+            "video_id": "9nEp9eeGaJk",
+            "title": "ILLIT (아일릿) 'NOT ME’ Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "2:36",
+            "view_count": "1151870",
+            "thumbnail_url": "https://i.ytimg.com/vi/9nEp9eeGaJk/hqdefault.jpg"
+        },
+        {
+            "video_id": "whYQCP2hoNw",
+            "title": "뽑으면 100% 서렌 당하는 “우당탕탕 포로“ 모르가나",
+            "channel_name": "무지개맛 Rainbow Flavor",
+            "category": "Gaming",
+            "duration": "9:19",
+            "view_count": "176535",
+            "thumbnail_url": "https://i.ytimg.com/vi/whYQCP2hoNw/hqdefault.jpg"
+        },
+        {
+            "video_id": "nqBxJhNUdhw",
+            "title": "JAEMIN, JISUNG, EUNSEOK, WONBIN, SION 'Soda Pop' (Saja Boys) Cover Stage @SMTOWN LIVE 2025-26",
+            "channel_name": "NCT",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "628909",
+            "thumbnail_url": "https://i.ytimg.com/vi/nqBxJhNUdhw/hqdefault.jpg"
+        },
+        {
+            "video_id": "dI-MOa8IODM",
+            "title": "고물상 아저씨",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "22:13",
+            "view_count": "227778",
+            "thumbnail_url": "https://i.ytimg.com/vi/dI-MOa8IODM/hqdefault.jpg"
+        },
+        {
+            "video_id": "SzYvYNQQ1VU",
+            "title": "Marry Me",
+            "channel_name": "Gu Yoon Hoe - Topic",
+            "category": "Music",
+            "duration": "4:22",
+            "view_count": "44648",
+            "thumbnail_url": "https://i.ytimg.com/vi/SzYvYNQQ1VU/hqdefault.jpg"
+        },
+        {
+            "video_id": "4FmJ9AxZBwQ",
+            "title": "왔나? 대쌀철이의 시대",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "16:47",
+            "view_count": "168589",
+            "thumbnail_url": "https://i.ytimg.com/vi/4FmJ9AxZBwQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "QT2a9A9bhw0",
+            "title": "sarang..",
+            "channel_name": "Han Yo-han - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "23976",
+            "thumbnail_url": "https://i.ytimg.com/vi/QT2a9A9bhw0/hqdefault.jpg"
+        },
+        {
+            "video_id": "QAbPcQI9VR4",
+            "title": "[장기강좌]최강원앙마 사마룡장기 라이브방송",
+            "channel_name": "사마룡장기",
+            "category": "Gaming",
+            "duration": "7:16:10",
+            "view_count": "65554",
+            "thumbnail_url": "https://i.ytimg.com/vi/QAbPcQI9VR4/hqdefault.jpg"
         },
         {
             "video_id": "h9UvH1utWb0",
@@ -241,80 +232,8 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "4:10",
-            "view_count": "106093",
+            "view_count": "107255",
             "thumbnail_url": "https://i.ytimg.com/vi/h9UvH1utWb0/hqdefault.jpg"
-        },
-        {
-            "video_id": "B22PBZCDhFk",
-            "title": "감스트 본캐 7경짜리 ws호날두 9카 떴다!! 3천만원 현질",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "18:29",
-            "view_count": "433916",
-            "thumbnail_url": "https://i.ytimg.com/vi/B22PBZCDhFk/hqdefault.jpg"
-        },
-        {
-            "video_id": "GlFI5VmsCRE",
-            "title": "[최신가요 실시간 인기차트] 🃏💗 2026년 2월 6일 1주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
-            "channel_name": "Yeo Doll",
-            "category": "Music",
-            "duration": "12:54:10",
-            "view_count": "26256",
-            "thumbnail_url": "https://i.ytimg.com/vi/GlFI5VmsCRE/hqdefault.jpg"
-        },
-        {
-            "video_id": "PCQ2ojh-Gmw",
-            "title": "새해 해 뜨기 전까지 금 2026개 모으기",
-            "channel_name": "쪼만",
-            "category": "People & Blogs",
-            "duration": "19:27",
-            "view_count": "175875",
-            "thumbnail_url": "https://i.ytimg.com/vi/PCQ2ojh-Gmw/hqdefault.jpg"
-        },
-        {
-            "video_id": "cT2Lub6ct8s",
-            "title": "NAMSAN TOWER (feat. LEY)",
-            "channel_name": "Sik-K - Topic",
-            "category": "Music",
-            "duration": "3:15",
-            "view_count": "22889",
-            "thumbnail_url": "https://i.ytimg.com/vi/cT2Lub6ct8s/hqdefault.jpg"
-        },
-        {
-            "video_id": "gUWe5rmV5ek",
-            "title": "대역전극 [T1scord 2026 vs KT]",
-            "channel_name": "T1",
-            "category": "Gaming",
-            "duration": "8:01",
-            "view_count": "588257",
-            "thumbnail_url": "https://i.ytimg.com/vi/gUWe5rmV5ek/hqdefault.jpg"
-        },
-        {
-            "video_id": "IFEM-w47RKU",
-            "title": "LIE LIE LIE",
-            "channel_name": "Han Dong Geun - Topic",
-            "category": "Music",
-            "duration": "3:34",
-            "view_count": "114865",
-            "thumbnail_url": "https://i.ytimg.com/vi/IFEM-w47RKU/hqdefault.jpg"
-        },
-        {
-            "video_id": "oshdVmvXzfc",
-            "title": "한국최초 돼지저금통님 섭외!! 그런데 컨텐츠가 몰래카메라?! 돼지저금통님 빡치게 만들어봤습니다ㅋㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "유기사",
-            "category": "Gaming",
-            "duration": "24:42",
-            "view_count": "107393",
-            "thumbnail_url": "https://i.ytimg.com/vi/oshdVmvXzfc/hqdefault.jpg"
-        },
-        {
-            "video_id": "IxoCRq-v81I",
-            "title": "포레스텔라(Forestella) 'Etude' Lyric Video",
-            "channel_name": "포레스텔라 Forestella  ",
-            "category": "Entertainment",
-            "duration": "4:37",
-            "view_count": "34790",
-            "thumbnail_url": "https://i.ytimg.com/vi/IxoCRq-v81I/hqdefault.jpg"
         },
         {
             "video_id": "ypmSO3IQs5I",
@@ -322,8 +241,80 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "34:11",
-            "view_count": "69855",
+            "view_count": "78327",
             "thumbnail_url": "https://i.ytimg.com/vi/ypmSO3IQs5I/hqdefault.jpg"
+        },
+        {
+            "video_id": "GlFI5VmsCRE",
+            "title": "[최신가요 실시간 인기차트] 🃏💗 2026년 2월 6일 1주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
+            "channel_name": "Yeo Doll",
+            "category": "Music",
+            "duration": "12:54:10",
+            "view_count": "27660",
+            "thumbnail_url": "https://i.ytimg.com/vi/GlFI5VmsCRE/hqdefault.jpg"
+        },
+        {
+            "video_id": "oshdVmvXzfc",
+            "title": "한국최초 돼지저금통님 섭외!! 그런데 컨텐츠가 몰래카메라?! 돼지저금통님 빡치게 만들어봤습니다ㅋㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "유기사",
+            "category": "Gaming",
+            "duration": "24:42",
+            "view_count": "116268",
+            "thumbnail_url": "https://i.ytimg.com/vi/oshdVmvXzfc/hqdefault.jpg"
+        },
+        {
+            "video_id": "cT2Lub6ct8s",
+            "title": "NAMSAN TOWER (feat. LEY)",
+            "channel_name": "Sik-K - Topic",
+            "category": "Music",
+            "duration": "3:15",
+            "view_count": "24615",
+            "thumbnail_url": "https://i.ytimg.com/vi/cT2Lub6ct8s/hqdefault.jpg"
+        },
+        {
+            "video_id": "vGrup0yh_Qs",
+            "title": "재도전해서 좋았다",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "29:58",
+            "view_count": "918292",
+            "thumbnail_url": "https://i.ytimg.com/vi/vGrup0yh_Qs/hqdefault.jpg"
+        },
+        {
+            "video_id": "IFEM-w47RKU",
+            "title": "LIE LIE LIE",
+            "channel_name": "Han Dong Geun - Topic",
+            "category": "Music",
+            "duration": "3:34",
+            "view_count": "117927",
+            "thumbnail_url": "https://i.ytimg.com/vi/IFEM-w47RKU/hqdefault.jpg"
+        },
+        {
+            "video_id": "B22PBZCDhFk",
+            "title": "감스트 본캐 7경짜리 ws호날두 9카 떴다!! 3천만원 현질",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "18:29",
+            "view_count": "437090",
+            "thumbnail_url": "https://i.ytimg.com/vi/B22PBZCDhFk/hqdefault.jpg"
+        },
+        {
+            "video_id": "IxoCRq-v81I",
+            "title": "포레스텔라(Forestella) 'Etude' Lyric Video",
+            "channel_name": "포레스텔라 Forestella  ",
+            "category": "Entertainment",
+            "duration": "4:37",
+            "view_count": "35402",
+            "thumbnail_url": "https://i.ytimg.com/vi/IxoCRq-v81I/hqdefault.jpg"
+        },
+        {
+            "video_id": "PCQ2ojh-Gmw",
+            "title": "새해 해 뜨기 전까지 금 2026개 모으기",
+            "channel_name": "쪼만",
+            "category": "People & Blogs",
+            "duration": "19:27",
+            "view_count": "178005",
+            "thumbnail_url": "https://i.ytimg.com/vi/PCQ2ojh-Gmw/hqdefault.jpg"
         },
         {
             "video_id": "W6lIvxWfxLI",
@@ -331,17 +322,17 @@
             "channel_name": "British Pop Bangers",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "487089",
+            "view_count": "508288",
             "thumbnail_url": "https://i.ytimg.com/vi/W6lIvxWfxLI/hqdefault.jpg"
         },
         {
-            "video_id": "Q_SYCLeyzjA",
-            "title": "DFM vs FS / T1 vs PRX - VCT 퍼시픽 킥오프 - 중위조 라운드 3 - DAY 10",
-            "channel_name": "발로란트 챔피언스 투어",
+            "video_id": "gUWe5rmV5ek",
+            "title": "대역전극 [T1scord 2026 vs KT]",
+            "channel_name": "T1",
             "category": "Gaming",
-            "duration": "7:00:09",
-            "view_count": "239731",
-            "thumbnail_url": "https://i.ytimg.com/vi/Q_SYCLeyzjA/hqdefault.jpg"
+            "duration": "8:01",
+            "view_count": "590523",
+            "thumbnail_url": "https://i.ytimg.com/vi/gUWe5rmV5ek/hqdefault.jpg"
         },
         {
             "video_id": "yvhNPc8C4Ug",
@@ -349,7 +340,7 @@
             "channel_name": "필(Fil) - Topic",
             "category": "Music",
             "duration": "4:02",
-            "view_count": "17989",
+            "view_count": "19032",
             "thumbnail_url": "https://i.ytimg.com/vi/yvhNPc8C4Ug/hqdefault.jpg"
         },
         {
@@ -358,8 +349,26 @@
             "channel_name": "유봉훈",
             "category": "Gaming",
             "duration": "12:38",
-            "view_count": "177425",
+            "view_count": "180236",
             "thumbnail_url": "https://i.ytimg.com/vi/H8V40Zn3jnA/hqdefault.jpg"
+        },
+        {
+            "video_id": "4KrU6Bg8UGU",
+            "title": "사랑이란",
+            "channel_name": "Huh Gak - Topic",
+            "category": "Music",
+            "duration": "3:04",
+            "view_count": "24484",
+            "thumbnail_url": "https://i.ytimg.com/vi/4KrU6Bg8UGU/hqdefault.jpg"
+        },
+        {
+            "video_id": "Q_SYCLeyzjA",
+            "title": "DFM vs FS / T1 vs PRX - VCT 퍼시픽 킥오프 - 중위조 라운드 3 - DAY 10",
+            "channel_name": "발로란트 챔피언스 투어",
+            "category": "Gaming",
+            "duration": "7:00:09",
+            "view_count": "240171",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q_SYCLeyzjA/hqdefault.jpg"
         },
         {
             "video_id": "Lq8g5h37CPk",
@@ -367,17 +376,8 @@
             "channel_name": "Kkuek - Topic",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "13591",
+            "view_count": "14143",
             "thumbnail_url": "https://i.ytimg.com/vi/Lq8g5h37CPk/hqdefault.jpg"
-        },
-        {
-            "video_id": "tYjOlczZ47c",
-            "title": "새해 전까지 빵 2026개 모으기",
-            "channel_name": "파이브",
-            "category": "Gaming",
-            "duration": "12:26",
-            "view_count": "225305",
-            "thumbnail_url": "https://i.ytimg.com/vi/tYjOlczZ47c/hqdefault.jpg"
         }
     ]
 }
