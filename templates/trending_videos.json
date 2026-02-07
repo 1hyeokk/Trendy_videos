@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-07 11:21:28",
+    "scraped_time": "2026-02-07 13:39:50",
     "videos": [
         {
             "video_id": "dbBwv38Ycaw",
@@ -7,7 +7,7 @@
             "channel_name": "ZICO - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "455382",
+            "view_count": "481942",
             "thumbnail_url": "https://i.ytimg.com/vi/dbBwv38Ycaw/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:04",
-            "view_count": "256841",
+            "view_count": "261061",
             "thumbnail_url": "https://i.ytimg.com/vi/DPLZZkc0lO4/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "28:12",
-            "view_count": "229838",
+            "view_count": "257093",
             "thumbnail_url": "https://i.ytimg.com/vi/YdRznvLniLo/hqdefault.jpg"
         },
         {
-            "video_id": "cjQtYNsJfnM",
-            "title": "SLAY (슬레이), 남규리 - 슬픔이 찾아와서 그래 (Prod. 로코베리) Live Clip",
-            "channel_name": "SLAY 슬레이 ",
-            "category": "People & Blogs",
-            "duration": "3:27",
-            "view_count": "416489",
-            "thumbnail_url": "https://i.ytimg.com/vi/cjQtYNsJfnM/hqdefault.jpg"
+            "video_id": "vqkfEUqjl6Y",
+            "title": "ATEEZ(에이티즈) - 'Adrenaline' Official MV",
+            "channel_name": "KQ ENTERTAINMENT",
+            "category": "Music",
+            "duration": "4:21",
+            "view_count": "6572251",
+            "thumbnail_url": "https://i.ytimg.com/vi/vqkfEUqjl6Y/hqdefault.jpg"
         },
         {
             "video_id": "wZxfXjrke6Y",
@@ -43,7 +43,7 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "1:56",
-            "view_count": "53993",
+            "view_count": "55786",
             "thumbnail_url": "https://i.ytimg.com/vi/wZxfXjrke6Y/hqdefault.jpg"
         },
         {
@@ -52,17 +52,17 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "41:06",
-            "view_count": "505031",
+            "view_count": "511338",
             "thumbnail_url": "https://i.ytimg.com/vi/bljouTbxckU/hqdefault.jpg"
         },
         {
-            "video_id": "vqkfEUqjl6Y",
-            "title": "ATEEZ(에이티즈) - 'Adrenaline' Official MV",
-            "channel_name": "KQ ENTERTAINMENT",
-            "category": "Music",
-            "duration": "4:21",
-            "view_count": "5757605",
-            "thumbnail_url": "https://i.ytimg.com/vi/vqkfEUqjl6Y/hqdefault.jpg"
+            "video_id": "cjQtYNsJfnM",
+            "title": "SLAY (슬레이), 남규리 - 슬픔이 찾아와서 그래 (Prod. 로코베리) Live Clip",
+            "channel_name": "SLAY 슬레이 ",
+            "category": "People & Blogs",
+            "duration": "3:27",
+            "view_count": "420927",
+            "thumbnail_url": "https://i.ytimg.com/vi/cjQtYNsJfnM/hqdefault.jpg"
         },
         {
             "video_id": "ttOoaNywelY",
@@ -70,26 +70,8 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "34:29",
-            "view_count": "184493",
+            "view_count": "198587",
             "thumbnail_url": "https://i.ytimg.com/vi/ttOoaNywelY/hqdefault.jpg"
-        },
-        {
-            "video_id": "6KjVYeQ9SRw",
-            "title": "Dracula (JENNIE Remix)",
-            "channel_name": "Tame Impala - Topic",
-            "category": "Music",
-            "duration": "3:30",
-            "view_count": "463211",
-            "thumbnail_url": "https://i.ytimg.com/vi/6KjVYeQ9SRw/hqdefault.jpg"
-        },
-        {
-            "video_id": "gCEvu1TstPM",
-            "title": "하이파이브",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "22:23",
-            "view_count": "390259",
-            "thumbnail_url": "https://i.ytimg.com/vi/gCEvu1TstPM/hqdefault.jpg"
         },
         {
             "video_id": "qAViO5wUH0k",
@@ -97,8 +79,26 @@
             "channel_name": "SLAY - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "70843",
+            "view_count": "83877",
             "thumbnail_url": "https://i.ytimg.com/vi/qAViO5wUH0k/hqdefault.jpg"
+        },
+        {
+            "video_id": "gCEvu1TstPM",
+            "title": "하이파이브",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "22:23",
+            "view_count": "395909",
+            "thumbnail_url": "https://i.ytimg.com/vi/gCEvu1TstPM/hqdefault.jpg"
+        },
+        {
+            "video_id": "6KjVYeQ9SRw",
+            "title": "Dracula (JENNIE Remix)",
+            "channel_name": "Tame Impala - Topic",
+            "category": "Music",
+            "duration": "3:30",
+            "view_count": "490066",
+            "thumbnail_url": "https://i.ytimg.com/vi/6KjVYeQ9SRw/hqdefault.jpg"
         },
         {
             "video_id": "vGrup0yh_Qs",
@@ -106,7 +106,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "29:58",
-            "view_count": "890571",
+            "view_count": "897630",
             "thumbnail_url": "https://i.ytimg.com/vi/vGrup0yh_Qs/hqdefault.jpg"
         },
         {
@@ -115,17 +115,17 @@
             "channel_name": "Red Velvet",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "630739",
+            "view_count": "651175",
             "thumbnail_url": "https://i.ytimg.com/vi/6LE-Srn1UUo/hqdefault.jpg"
         },
         {
-            "video_id": "B22PBZCDhFk",
-            "title": "감스트 본캐 7경짜리 ws호날두 9카 떴다!! 3천만원 현질",
-            "channel_name": "감스트GAMST",
+            "video_id": "IIY8qk4c7g4",
+            "title": "원펀맨 사일러스",
+            "channel_name": "백크 Baekk",
             "category": "Gaming",
-            "duration": "18:29",
-            "view_count": "405420",
-            "thumbnail_url": "https://i.ytimg.com/vi/B22PBZCDhFk/hqdefault.jpg"
+            "duration": "12:35",
+            "view_count": "175001",
+            "thumbnail_url": "https://i.ytimg.com/vi/IIY8qk4c7g4/hqdefault.jpg"
         },
         {
             "video_id": "oyXx7MDqZ-Q",
@@ -133,8 +133,62 @@
             "channel_name": "Crush",
             "category": "Entertainment",
             "duration": "3:44",
-            "view_count": "414099",
+            "view_count": "421474",
             "thumbnail_url": "https://i.ytimg.com/vi/oyXx7MDqZ-Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "B22PBZCDhFk",
+            "title": "감스트 본캐 7경짜리 ws호날두 9카 떴다!! 3천만원 현질",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "18:29",
+            "view_count": "413570",
+            "thumbnail_url": "https://i.ytimg.com/vi/B22PBZCDhFk/hqdefault.jpg"
+        },
+        {
+            "video_id": "3441HgQwUs4",
+            "title": "Adrenaline",
+            "channel_name": "ATEEZ - Topic",
+            "category": "Music",
+            "duration": "3:40",
+            "view_count": "238738",
+            "thumbnail_url": "https://i.ytimg.com/vi/3441HgQwUs4/hqdefault.jpg"
+        },
+        {
+            "video_id": "dI-MOa8IODM",
+            "title": "고물상 아저씨",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "22:13",
+            "view_count": "197569",
+            "thumbnail_url": "https://i.ytimg.com/vi/dI-MOa8IODM/hqdefault.jpg"
+        },
+        {
+            "video_id": "nqBxJhNUdhw",
+            "title": "JAEMIN, JISUNG, EUNSEOK, WONBIN, SION 'Soda Pop' (Saja Boys) Cover Stage @SMTOWN LIVE 2025-26",
+            "channel_name": "NCT",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "559142",
+            "thumbnail_url": "https://i.ytimg.com/vi/nqBxJhNUdhw/hqdefault.jpg"
+        },
+        {
+            "video_id": "4FmJ9AxZBwQ",
+            "title": "왔나? 대쌀철이의 시대",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "16:47",
+            "view_count": "141617",
+            "thumbnail_url": "https://i.ytimg.com/vi/4FmJ9AxZBwQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "9nEp9eeGaJk",
+            "title": "ILLIT (아일릿) 'NOT ME’ Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "2:36",
+            "view_count": "910501",
+            "thumbnail_url": "https://i.ytimg.com/vi/9nEp9eeGaJk/hqdefault.jpg"
         },
         {
             "video_id": "Q_SYCLeyzjA",
@@ -146,31 +200,13 @@
             "thumbnail_url": "https://i.ytimg.com/vi/Q_SYCLeyzjA/hqdefault.jpg"
         },
         {
-            "video_id": "3441HgQwUs4",
-            "title": "Adrenaline",
-            "channel_name": "ATEEZ - Topic",
+            "video_id": "SzYvYNQQ1VU",
+            "title": "Marry Me",
+            "channel_name": "Gu Yoon Hoe - Topic",
             "category": "Music",
-            "duration": "3:40",
-            "view_count": "221891",
-            "thumbnail_url": "https://i.ytimg.com/vi/3441HgQwUs4/hqdefault.jpg"
-        },
-        {
-            "video_id": "dI-MOa8IODM",
-            "title": "고물상 아저씨",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "22:13",
-            "view_count": "186851",
-            "thumbnail_url": "https://i.ytimg.com/vi/dI-MOa8IODM/hqdefault.jpg"
-        },
-        {
-            "video_id": "nqBxJhNUdhw",
-            "title": "JAEMIN, JISUNG, EUNSEOK, WONBIN, SION 'Soda Pop' (Saja Boys) Cover Stage @SMTOWN LIVE 2025-26",
-            "channel_name": "NCT",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "536411",
-            "thumbnail_url": "https://i.ytimg.com/vi/nqBxJhNUdhw/hqdefault.jpg"
+            "duration": "4:22",
+            "view_count": "34586",
+            "thumbnail_url": "https://i.ytimg.com/vi/SzYvYNQQ1VU/hqdefault.jpg"
         },
         {
             "video_id": "gUWe5rmV5ek",
@@ -178,44 +214,8 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "8:01",
-            "view_count": "558702",
+            "view_count": "567421",
             "thumbnail_url": "https://i.ytimg.com/vi/gUWe5rmV5ek/hqdefault.jpg"
-        },
-        {
-            "video_id": "9nEp9eeGaJk",
-            "title": "ILLIT (아일릿) 'NOT ME’ Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "2:36",
-            "view_count": "806983",
-            "thumbnail_url": "https://i.ytimg.com/vi/9nEp9eeGaJk/hqdefault.jpg"
-        },
-        {
-            "video_id": "4FmJ9AxZBwQ",
-            "title": "왔나? 대쌀철이의 시대",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "16:47",
-            "view_count": "128624",
-            "thumbnail_url": "https://i.ytimg.com/vi/4FmJ9AxZBwQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "SzYvYNQQ1VU",
-            "title": "Marry Me",
-            "channel_name": "Gu Yoon Hoe - Topic",
-            "category": "Music",
-            "duration": "4:22",
-            "view_count": "31720",
-            "thumbnail_url": "https://i.ytimg.com/vi/SzYvYNQQ1VU/hqdefault.jpg"
-        },
-        {
-            "video_id": "PCQ2ojh-Gmw",
-            "title": "새해 해 뜨기 전까지 금 2026개 모으기",
-            "channel_name": "쪼만",
-            "category": "People & Blogs",
-            "duration": "19:27",
-            "view_count": "157934",
-            "thumbnail_url": "https://i.ytimg.com/vi/PCQ2ojh-Gmw/hqdefault.jpg"
         },
         {
             "video_id": "h9UvH1utWb0",
@@ -223,62 +223,8 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "4:10",
-            "view_count": "87224",
+            "view_count": "94026",
             "thumbnail_url": "https://i.ytimg.com/vi/h9UvH1utWb0/hqdefault.jpg"
-        },
-        {
-            "video_id": "IIY8qk4c7g4",
-            "title": "원펀맨 사일러스",
-            "channel_name": "백크 Baekk",
-            "category": "Gaming",
-            "duration": "12:35",
-            "view_count": "149393",
-            "thumbnail_url": "https://i.ytimg.com/vi/IIY8qk4c7g4/hqdefault.jpg"
-        },
-        {
-            "video_id": "IxoCRq-v81I",
-            "title": "포레스텔라(Forestella) 'Etude' Lyric Video",
-            "channel_name": "포레스텔라 Forestella  ",
-            "category": "Entertainment",
-            "duration": "4:37",
-            "view_count": "29535",
-            "thumbnail_url": "https://i.ytimg.com/vi/IxoCRq-v81I/hqdefault.jpg"
-        },
-        {
-            "video_id": "tYjOlczZ47c",
-            "title": "새해 전까지 빵 2026개 모으기",
-            "channel_name": "파이브",
-            "category": "Gaming",
-            "duration": "12:26",
-            "view_count": "195244",
-            "thumbnail_url": "https://i.ytimg.com/vi/tYjOlczZ47c/hqdefault.jpg"
-        },
-        {
-            "video_id": "IFEM-w47RKU",
-            "title": "LIE LIE LIE",
-            "channel_name": "Han Dong Geun - Topic",
-            "category": "Music",
-            "duration": "3:34",
-            "view_count": "84655",
-            "thumbnail_url": "https://i.ytimg.com/vi/IFEM-w47RKU/hqdefault.jpg"
-        },
-        {
-            "video_id": "H8V40Zn3jnA",
-            "title": "붙어서 써봤습니다 예... 욕은 하지 말아주세요",
-            "channel_name": "유봉훈",
-            "category": "Gaming",
-            "duration": "12:38",
-            "view_count": "139242",
-            "thumbnail_url": "https://i.ytimg.com/vi/H8V40Zn3jnA/hqdefault.jpg"
-        },
-        {
-            "video_id": "GlFI5VmsCRE",
-            "title": "[최신가요 실시간 인기차트] 🃏💗 2026년 2월 6일 1주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
-            "channel_name": "Yeo Doll",
-            "category": "Music",
-            "duration": "12:54:10",
-            "view_count": "16079",
-            "thumbnail_url": "https://i.ytimg.com/vi/GlFI5VmsCRE/hqdefault.jpg"
         },
         {
             "video_id": "9KADI9FNi-0",
@@ -286,17 +232,71 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "24:01",
-            "view_count": "100567",
+            "view_count": "116466",
             "thumbnail_url": "https://i.ytimg.com/vi/9KADI9FNi-0/hqdefault.jpg"
         },
         {
-            "video_id": "D6cFGYxpFEw",
-            "title": "Crazy Fool",
-            "channel_name": "Lim Chang-jung - Topic",
+            "video_id": "IxoCRq-v81I",
+            "title": "포레스텔라(Forestella) 'Etude' Lyric Video",
+            "channel_name": "포레스텔라 Forestella  ",
+            "category": "Entertainment",
+            "duration": "4:37",
+            "view_count": "31347",
+            "thumbnail_url": "https://i.ytimg.com/vi/IxoCRq-v81I/hqdefault.jpg"
+        },
+        {
+            "video_id": "PCQ2ojh-Gmw",
+            "title": "새해 해 뜨기 전까지 금 2026개 모으기",
+            "channel_name": "쪼만",
+            "category": "People & Blogs",
+            "duration": "19:27",
+            "view_count": "163643",
+            "thumbnail_url": "https://i.ytimg.com/vi/PCQ2ojh-Gmw/hqdefault.jpg"
+        },
+        {
+            "video_id": "IFEM-w47RKU",
+            "title": "LIE LIE LIE",
+            "channel_name": "Han Dong Geun - Topic",
             "category": "Music",
-            "duration": "4:06",
-            "view_count": "55996",
-            "thumbnail_url": "https://i.ytimg.com/vi/D6cFGYxpFEw/hqdefault.jpg"
+            "duration": "3:34",
+            "view_count": "92816",
+            "thumbnail_url": "https://i.ytimg.com/vi/IFEM-w47RKU/hqdefault.jpg"
+        },
+        {
+            "video_id": "tYjOlczZ47c",
+            "title": "새해 전까지 빵 2026개 모으기",
+            "channel_name": "파이브",
+            "category": "Gaming",
+            "duration": "12:26",
+            "view_count": "205473",
+            "thumbnail_url": "https://i.ytimg.com/vi/tYjOlczZ47c/hqdefault.jpg"
+        },
+        {
+            "video_id": "GlFI5VmsCRE",
+            "title": "[최신가요 실시간 인기차트] 🃏💗 2026년 2월 6일 1주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
+            "channel_name": "Yeo Doll",
+            "category": "Music",
+            "duration": "12:54:10",
+            "view_count": "18732",
+            "thumbnail_url": "https://i.ytimg.com/vi/GlFI5VmsCRE/hqdefault.jpg"
+        },
+        {
+            "video_id": "H8V40Zn3jnA",
+            "title": "붙어서 써봤습니다 예... 욕은 하지 말아주세요",
+            "channel_name": "유봉훈",
+            "category": "Gaming",
+            "duration": "12:38",
+            "view_count": "153706",
+            "thumbnail_url": "https://i.ytimg.com/vi/H8V40Zn3jnA/hqdefault.jpg"
+        },
+        {
+            "video_id": "QT2a9A9bhw0",
+            "title": "sarang..",
+            "channel_name": "Han Yo-han - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "13067",
+            "thumbnail_url": "https://i.ytimg.com/vi/QT2a9A9bhw0/hqdefault.jpg"
         },
         {
             "video_id": "v5aE0Ng8QJs",
@@ -304,7 +304,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "18:30",
-            "view_count": "114835",
+            "view_count": "121931",
             "thumbnail_url": "https://i.ytimg.com/vi/v5aE0Ng8QJs/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "MONSTA X - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "27146",
+            "view_count": "29446",
             "thumbnail_url": "https://i.ytimg.com/vi/VPwM2jScX5w/hqdefault.jpg"
         },
         {
@@ -322,17 +322,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "32:39",
-            "view_count": "95321",
+            "view_count": "104788",
             "thumbnail_url": "https://i.ytimg.com/vi/9zftRJKcuWM/hqdefault.jpg"
         },
         {
-            "video_id": "jkdx9PaVKe0",
-            "title": "Seasonal Crime",
-            "channel_name": "Younha - Topic",
+            "video_id": "D6cFGYxpFEw",
+            "title": "Crazy Fool",
+            "channel_name": "Lim Chang-jung - Topic",
             "category": "Music",
-            "duration": "3:43",
-            "view_count": "548329",
-            "thumbnail_url": "https://i.ytimg.com/vi/jkdx9PaVKe0/hqdefault.jpg"
+            "duration": "4:06",
+            "view_count": "59095",
+            "thumbnail_url": "https://i.ytimg.com/vi/D6cFGYxpFEw/hqdefault.jpg"
         },
         {
             "video_id": "1ZS5Cz5dRZ0",
@@ -340,26 +340,8 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "21:18",
-            "view_count": "115455",
+            "view_count": "122048",
             "thumbnail_url": "https://i.ytimg.com/vi/1ZS5Cz5dRZ0/hqdefault.jpg"
-        },
-        {
-            "video_id": "QT2a9A9bhw0",
-            "title": "sarang..",
-            "channel_name": "Han Yo-han - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "10948",
-            "thumbnail_url": "https://i.ytimg.com/vi/QT2a9A9bhw0/hqdefault.jpg"
-        },
-        {
-            "video_id": "BZ1gDytFkFA",
-            "title": "광고에 ㅈㄴ 뜨던 게임, 개빡쳐서 깔아봤습니다",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "17:13",
-            "view_count": "983815",
-            "thumbnail_url": "https://i.ytimg.com/vi/BZ1gDytFkFA/hqdefault.jpg"
         },
         {
             "video_id": "yvhNPc8C4Ug",
@@ -367,7 +349,7 @@
             "channel_name": "필(Fil) - Topic",
             "category": "Music",
             "duration": "4:02",
-            "view_count": "11992",
+            "view_count": "13271",
             "thumbnail_url": "https://i.ytimg.com/vi/yvhNPc8C4Ug/hqdefault.jpg"
         },
         {
@@ -376,8 +358,26 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "15:20",
-            "view_count": "126357",
+            "view_count": "135617",
             "thumbnail_url": "https://i.ytimg.com/vi/P5n2jC0Ln0U/hqdefault.jpg"
+        },
+        {
+            "video_id": "jkdx9PaVKe0",
+            "title": "Seasonal Crime",
+            "channel_name": "Younha - Topic",
+            "category": "Music",
+            "duration": "3:43",
+            "view_count": "565403",
+            "thumbnail_url": "https://i.ytimg.com/vi/jkdx9PaVKe0/hqdefault.jpg"
+        },
+        {
+            "video_id": "Aa6Im7diA78",
+            "title": "KT 롤스터 시즌 2호 1만 골드 클럽 가입했다고? 덕담 피터 오늘 친정팀 상대로 도파민 터진다 ㄷㄷ",
+            "channel_name": "붐바야",
+            "category": "Gaming",
+            "duration": "8:43",
+            "view_count": "147301",
+            "thumbnail_url": "https://i.ytimg.com/vi/Aa6Im7diA78/hqdefault.jpg"
         }
     ]
 }
