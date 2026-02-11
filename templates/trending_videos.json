@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-11 08:40:13",
+    "scraped_time": "2026-02-11 11:38:45",
     "videos": [
         {
             "video_id": "9qkpcLK422o",
@@ -7,7 +7,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "6812010",
+            "view_count": "6906730",
             "thumbnail_url": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "3:01",
-            "view_count": "38007",
+            "view_count": "54281",
             "thumbnail_url": "https://i.ytimg.com/vi/s5erUUzQ2Rc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "8:01:22",
-            "view_count": "519948",
+            "view_count": "535141",
             "thumbnail_url": "https://i.ytimg.com/vi/BHtftZopweE/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "490291",
+            "view_count": "564436",
             "thumbnail_url": "https://i.ytimg.com/vi/IrTJnvqnXPY/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "쇼박스 SHOWBOX",
             "category": "Film & Animation",
             "duration": "0:37",
-            "view_count": "67725",
+            "view_count": "72179",
             "thumbnail_url": "https://i.ytimg.com/vi/P_9TtIX3f3Q/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "1:59:26",
-            "view_count": "289186",
+            "view_count": "293343",
             "thumbnail_url": "https://i.ytimg.com/vi/6Vj6MObAT2k/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "TWS - Topic",
             "category": "Music",
             "duration": "2:27",
-            "view_count": "231808",
+            "view_count": "252024",
             "thumbnail_url": "https://i.ytimg.com/vi/oZ3WDJw0VBo/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "정씨네",
             "category": "Film & Animation",
             "duration": "9:33",
-            "view_count": "296737",
+            "view_count": "297937",
             "thumbnail_url": "https://i.ytimg.com/vi/C_nzB-xll9A/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "37:11",
-            "view_count": "783017",
+            "view_count": "792414",
             "thumbnail_url": "https://i.ytimg.com/vi/0tMSIU7UsPg/hqdefault.jpg"
-        },
-        {
-            "video_id": "0CSY4uM7GU8",
-            "title": "My Everything (No tail to tell : Original Television Soundtrack)",
-            "channel_name": "WENDY - Topic",
-            "category": "Music",
-            "duration": "4:36",
-            "view_count": "180638",
-            "thumbnail_url": "https://i.ytimg.com/vi/0CSY4uM7GU8/hqdefault.jpg"
-        },
-        {
-            "video_id": "6eTIGpl7aA8",
-            "title": "[ 2. 10 live ] 리니지 클래식 : 9크로 오늘 띄우고 만다.",
-            "channel_name": "수삼티비",
-            "category": "Gaming",
-            "duration": "2:39:41",
-            "view_count": "260919",
-            "thumbnail_url": "https://i.ytimg.com/vi/6eTIGpl7aA8/hqdefault.jpg"
         },
         {
             "video_id": "2_dg7EVawrU",
@@ -106,8 +88,26 @@
             "channel_name": "Onestar - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "16099",
+            "view_count": "23672",
             "thumbnail_url": "https://i.ytimg.com/vi/2_dg7EVawrU/hqdefault.jpg"
+        },
+        {
+            "video_id": "6eTIGpl7aA8",
+            "title": "[ 2. 10 live ] 리니지 클래식 : 9크로 오늘 띄우고 만다.",
+            "channel_name": "수삼티비",
+            "category": "Gaming",
+            "duration": "2:39:41",
+            "view_count": "263918",
+            "thumbnail_url": "https://i.ytimg.com/vi/6eTIGpl7aA8/hqdefault.jpg"
+        },
+        {
+            "video_id": "0CSY4uM7GU8",
+            "title": "My Everything (No tail to tell : Original Television Soundtrack)",
+            "channel_name": "WENDY - Topic",
+            "category": "Music",
+            "duration": "4:36",
+            "view_count": "185631",
+            "thumbnail_url": "https://i.ytimg.com/vi/0CSY4uM7GU8/hqdefault.jpg"
         },
         {
             "video_id": "rYWyDQOGzU0",
@@ -115,7 +115,7 @@
             "channel_name": "AION2",
             "category": "Gaming",
             "duration": "1:35:01",
-            "view_count": "219733",
+            "view_count": "222249",
             "thumbnail_url": "https://i.ytimg.com/vi/rYWyDQOGzU0/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "35709",
+            "view_count": "41163",
             "thumbnail_url": "https://i.ytimg.com/vi/8FGnyNgpC3c/hqdefault.jpg"
         },
         {
@@ -133,44 +133,8 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "1:16:39",
-            "view_count": "294703",
+            "view_count": "309354",
             "thumbnail_url": "https://i.ytimg.com/vi/JLl3DZ-4Cyw/hqdefault.jpg"
-        },
-        {
-            "video_id": "hHjwqDkzVyo",
-            "title": "Fade Away",
-            "channel_name": "YANG YO SEOP - Topic",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "35801",
-            "thumbnail_url": "https://i.ytimg.com/vi/hHjwqDkzVyo/hqdefault.jpg"
-        },
-        {
-            "video_id": "CZWR6NUQwFk",
-            "title": "배리어 나르",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "23:11",
-            "view_count": "272304",
-            "thumbnail_url": "https://i.ytimg.com/vi/CZWR6NUQwFk/hqdefault.jpg"
-        },
-        {
-            "video_id": "TaUkKrX2yQI",
-            "title": "All of You",
-            "channel_name": "RIIZE - Topic",
-            "category": "Music",
-            "duration": "2:39",
-            "view_count": "78924",
-            "thumbnail_url": "https://i.ytimg.com/vi/TaUkKrX2yQI/hqdefault.jpg"
-        },
-        {
-            "video_id": "L1n699tFU4c",
-            "title": "긴급 라이브🔴설마 젤 무한생성?? \"리니지 클래식\" | 2월 10일",
-            "channel_name": "태산군주 TV",
-            "category": "Gaming",
-            "duration": "11:32:18",
-            "view_count": "462635",
-            "thumbnail_url": "https://i.ytimg.com/vi/L1n699tFU4c/hqdefault.jpg"
         },
         {
             "video_id": "NCPq_y8qHvQ",
@@ -178,8 +142,44 @@
             "channel_name": "Kai - Topic",
             "category": "Music",
             "duration": "4:07",
-            "view_count": "13006",
+            "view_count": "15694",
             "thumbnail_url": "https://i.ytimg.com/vi/NCPq_y8qHvQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "CZWR6NUQwFk",
+            "title": "배리어 나르",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "23:11",
+            "view_count": "286864",
+            "thumbnail_url": "https://i.ytimg.com/vi/CZWR6NUQwFk/hqdefault.jpg"
+        },
+        {
+            "video_id": "hHjwqDkzVyo",
+            "title": "Fade Away",
+            "channel_name": "YANG YO SEOP - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "40778",
+            "thumbnail_url": "https://i.ytimg.com/vi/hHjwqDkzVyo/hqdefault.jpg"
+        },
+        {
+            "video_id": "L1n699tFU4c",
+            "title": "긴급 라이브🔴설마 젤 무한생성?? \"리니지 클래식\" | 2월 10일",
+            "channel_name": "태산군주 TV",
+            "category": "Gaming",
+            "duration": "11:32:18",
+            "view_count": "463626",
+            "thumbnail_url": "https://i.ytimg.com/vi/L1n699tFU4c/hqdefault.jpg"
+        },
+        {
+            "video_id": "TaUkKrX2yQI",
+            "title": "All of You",
+            "channel_name": "RIIZE - Topic",
+            "category": "Music",
+            "duration": "2:39",
+            "view_count": "82461",
+            "thumbnail_url": "https://i.ytimg.com/vi/TaUkKrX2yQI/hqdefault.jpg"
         },
         {
             "video_id": "qV4AFOioY6w",
@@ -187,7 +187,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "16:05",
-            "view_count": "178049",
+            "view_count": "190833",
             "thumbnail_url": "https://i.ytimg.com/vi/qV4AFOioY6w/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "Monday Kiz - Topic",
             "category": "Music",
             "duration": "5:24",
-            "view_count": "89612",
+            "view_count": "97142",
             "thumbnail_url": "https://i.ytimg.com/vi/2RwGSYo43tY/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "1:05:05",
-            "view_count": "193213",
+            "view_count": "199436",
             "thumbnail_url": "https://i.ytimg.com/vi/p-pyXFQRX_I/hqdefault.jpg"
         },
         {
@@ -214,17 +214,17 @@
             "channel_name": "정동원(JD1)",
             "category": "Entertainment",
             "duration": "3:47",
-            "view_count": "46053",
+            "view_count": "49416",
             "thumbnail_url": "https://i.ytimg.com/vi/4Iy33-TPbTE/hqdefault.jpg"
         },
         {
-            "video_id": "z9kviEOqv8M",
-            "title": "또 이러신다.. 마크 서버 종료했대요 [마크 하드코어 EP.8]",
-            "channel_name": "말왕TV",
+            "video_id": "CtlqHMJYWHg",
+            "title": "2년 넘게 발로 스트리머들 방플 저격으로 괴롭혀온 한 유저... 드디어 처음 만나서 얘기해봤습니다",
+            "channel_name": "김된모",
             "category": "Gaming",
-            "duration": "39:29",
-            "view_count": "407486",
-            "thumbnail_url": "https://i.ytimg.com/vi/z9kviEOqv8M/hqdefault.jpg"
+            "duration": "39:56",
+            "view_count": "147280",
+            "thumbnail_url": "https://i.ytimg.com/vi/CtlqHMJYWHg/hqdefault.jpg"
         },
         {
             "video_id": "zlLhL2Lgc-8",
@@ -232,8 +232,26 @@
             "channel_name": "NMIXX",
             "category": "Entertainment",
             "duration": "3:44",
-            "view_count": "139065",
+            "view_count": "150673",
             "thumbnail_url": "https://i.ytimg.com/vi/zlLhL2Lgc-8/hqdefault.jpg"
+        },
+        {
+            "video_id": "z9kviEOqv8M",
+            "title": "또 이러신다.. 마크 서버 종료했대요 [마크 하드코어 EP.8]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "39:29",
+            "view_count": "410420",
+            "thumbnail_url": "https://i.ytimg.com/vi/z9kviEOqv8M/hqdefault.jpg"
+        },
+        {
+            "video_id": "vJYWz7gvKzM",
+            "title": "'Wish You Were Here - Pink Floyd' Covered by FIFTY FIFTY",
+            "channel_name": "FIFTY FIFTY Official",
+            "category": "Music",
+            "duration": "3:23",
+            "view_count": "283107",
+            "thumbnail_url": "https://i.ytimg.com/vi/vJYWz7gvKzM/hqdefault.jpg"
         },
         {
             "video_id": "GXOmS4f3JJM",
@@ -241,7 +259,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:31",
-            "view_count": "204761",
+            "view_count": "210486",
             "thumbnail_url": "https://i.ytimg.com/vi/GXOmS4f3JJM/hqdefault.jpg"
         },
         {
@@ -250,7 +268,7 @@
             "channel_name": "Song I Han - Topic",
             "category": "Music",
             "duration": "4:23",
-            "view_count": "34123",
+            "view_count": "36439",
             "thumbnail_url": "https://i.ytimg.com/vi/Br3hBSddepc/hqdefault.jpg"
         },
         {
@@ -259,26 +277,8 @@
             "channel_name": "센터로드TV",
             "category": "Gaming",
             "duration": "8:29",
-            "view_count": "163675",
+            "view_count": "168927",
             "thumbnail_url": "https://i.ytimg.com/vi/UOzmA2OwyTo/hqdefault.jpg"
-        },
-        {
-            "video_id": "vJYWz7gvKzM",
-            "title": "'Wish You Were Here - Pink Floyd' Covered by FIFTY FIFTY",
-            "channel_name": "FIFTY FIFTY Official",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "226992",
-            "thumbnail_url": "https://i.ytimg.com/vi/vJYWz7gvKzM/hqdefault.jpg"
-        },
-        {
-            "video_id": "CtlqHMJYWHg",
-            "title": "2년 넘게 발로 스트리머들 방플 저격으로 괴롭혀온 한 유저... 드디어 처음 만나서 얘기해봤습니다",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "39:56",
-            "view_count": "130434",
-            "thumbnail_url": "https://i.ytimg.com/vi/CtlqHMJYWHg/hqdefault.jpg"
         },
         {
             "video_id": "Ix5tNMJ-eXo",
@@ -286,7 +286,7 @@
             "channel_name": "Kassy - Topic",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "62059",
+            "view_count": "65857",
             "thumbnail_url": "https://i.ytimg.com/vi/Ix5tNMJ-eXo/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "코인왕 알트",
             "category": "Gaming",
             "duration": "1:56:33",
-            "view_count": "214772",
+            "view_count": "218722",
             "thumbnail_url": "https://i.ytimg.com/vi/8ClS7lAc_jI/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "Mackelli - Topic",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "19629",
+            "view_count": "21351",
             "thumbnail_url": "https://i.ytimg.com/vi/_9802adN58w/hqdefault.jpg"
         },
         {
@@ -313,8 +313,44 @@
             "channel_name": "스트리머 사또 live-streamer satto",
             "category": "Gaming",
             "duration": "8:32",
-            "view_count": "90277",
+            "view_count": "98978",
             "thumbnail_url": "https://i.ytimg.com/vi/oJ7EXq7_z88/hqdefault.jpg"
+        },
+        {
+            "video_id": "gW9gwguPHko",
+            "title": "HYPNOTIZE",
+            "channel_name": "XG - Topic",
+            "category": "Music",
+            "duration": "2:53",
+            "view_count": "131730",
+            "thumbnail_url": "https://i.ytimg.com/vi/gW9gwguPHko/hqdefault.jpg"
+        },
+        {
+            "video_id": "XisVAs-91Fk",
+            "title": "티어 올릴 수 있는 꿀팁 대공개【넛상종 EP1】",
+            "channel_name": "피넛",
+            "category": "Gaming",
+            "duration": "27:20",
+            "view_count": "111843",
+            "thumbnail_url": "https://i.ytimg.com/vi/XisVAs-91Fk/hqdefault.jpg"
+        },
+        {
+            "video_id": "6gUJcYTUkto",
+            "title": "Amnesia",
+            "channel_name": "Evan Pak - Topic",
+            "category": "Music",
+            "duration": "3:12",
+            "view_count": "157999",
+            "thumbnail_url": "https://i.ytimg.com/vi/6gUJcYTUkto/hqdefault.jpg"
+        },
+        {
+            "video_id": "IbffUROnMkI",
+            "title": "졸업 카이사 등장",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "12:51",
+            "view_count": "149623",
+            "thumbnail_url": "https://i.ytimg.com/vi/IbffUROnMkI/hqdefault.jpg"
         },
         {
             "video_id": "9uDVag6HP8g",
@@ -322,7 +358,7 @@
             "channel_name": "ENHYPEN",
             "category": "Entertainment",
             "duration": "3:30",
-            "view_count": "548285",
+            "view_count": "553777",
             "thumbnail_url": "https://i.ytimg.com/vi/9uDVag6HP8g/hqdefault.jpg"
         },
         {
@@ -331,26 +367,8 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "25:25",
-            "view_count": "109747",
+            "view_count": "116784",
             "thumbnail_url": "https://i.ytimg.com/vi/jwPSUWkHxiA/hqdefault.jpg"
-        },
-        {
-            "video_id": "dL_2ISLS0Ow",
-            "title": "Save me",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "31383",
-            "thumbnail_url": "https://i.ytimg.com/vi/dL_2ISLS0Ow/hqdefault.jpg"
-        },
-        {
-            "video_id": "IbffUROnMkI",
-            "title": "졸업 카이사 등장",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "12:51",
-            "view_count": "138559",
-            "thumbnail_url": "https://i.ytimg.com/vi/IbffUROnMkI/hqdefault.jpg"
         },
         {
             "video_id": "KwaJ1dQrk3E",
@@ -358,26 +376,8 @@
             "channel_name": "GIFTED",
             "category": "Music",
             "duration": "5:56",
-            "view_count": "22240",
+            "view_count": "23309",
             "thumbnail_url": "https://i.ytimg.com/vi/KwaJ1dQrk3E/hqdefault.jpg"
-        },
-        {
-            "video_id": "IDMOzS5yI8A",
-            "title": "원큐 리니지클래식 데포섭 진출 아덴이든 뭐든 다삽니다.   #원큐 #dnjszb #oneq #리니지 2026/02/10",
-            "channel_name": "원큐",
-            "category": "Gaming",
-            "duration": "11:55:00",
-            "view_count": "264967",
-            "thumbnail_url": "https://i.ytimg.com/vi/IDMOzS5yI8A/hqdefault.jpg"
-        },
-        {
-            "video_id": "AhTNkZ0Hjsg",
-            "title": "LOST",
-            "channel_name": "THAMA - Topic",
-            "category": "Music",
-            "duration": "4:17",
-            "view_count": "27023",
-            "thumbnail_url": "https://i.ytimg.com/vi/AhTNkZ0Hjsg/hqdefault.jpg"
         }
     ]
 }
