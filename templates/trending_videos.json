@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-15 06:27:58",
+    "scraped_time": "2026-02-15 07:27:17",
     "videos": [
         {
             "video_id": "_dW6Bd5K0Z4",
@@ -7,7 +7,7 @@
             "channel_name": "WOODZ - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "418000",
+            "view_count": "419320",
             "thumbnail_url": "https://i.ytimg.com/vi/_dW6Bd5K0Z4/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:51",
-            "view_count": "160022",
+            "view_count": "160978",
             "thumbnail_url": "https://i.ytimg.com/vi/I5gkVKl8W7o/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "6:02:50",
-            "view_count": "417658",
+            "view_count": "420828",
             "thumbnail_url": "https://i.ytimg.com/vi/UvGKVtxw_dY/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Tei - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "444435",
+            "view_count": "446271",
             "thumbnail_url": "https://i.ytimg.com/vi/iNRoCGpEwww/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "시온",
             "category": "Gaming",
             "duration": "2:50",
-            "view_count": "203516",
+            "view_count": "204734",
             "thumbnail_url": "https://i.ytimg.com/vi/lM8603lKyHA/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "3:25:36",
-            "view_count": "159445",
+            "view_count": "161270",
             "thumbnail_url": "https://i.ytimg.com/vi/5a45n7-gUJ0/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "2323602",
+            "view_count": "2326128",
             "thumbnail_url": "https://i.ytimg.com/vi/IrTJnvqnXPY/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "이종범의 스토리캠프",
             "category": "Education",
             "duration": "20:28",
-            "view_count": "172970",
+            "view_count": "173353",
             "thumbnail_url": "https://i.ytimg.com/vi/5MGfRhd0QIs/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "17:48",
-            "view_count": "355195",
+            "view_count": "355951",
             "thumbnail_url": "https://i.ytimg.com/vi/BLYsyG4oxRI/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "Sungtae (Postmen) - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "69464",
+            "view_count": "70402",
             "thumbnail_url": "https://i.ytimg.com/vi/MWHtUeY3y34/hqdefault.jpg"
-        },
-        {
-            "video_id": "-NlvDmrftag",
-            "title": "GEN vs DK | 2026 LCK CUP Playoffs",
-            "channel_name": "LCK Global",
-            "category": "Gaming",
-            "duration": "4:42:21",
-            "view_count": "1067899",
-            "thumbnail_url": "https://i.ytimg.com/vi/-NlvDmrftag/hqdefault.jpg"
-        },
-        {
-            "video_id": "azpgrmSeCas",
-            "title": "Propose",
-            "channel_name": "natori - Topic",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "68297",
-            "thumbnail_url": "https://i.ytimg.com/vi/azpgrmSeCas/hqdefault.jpg"
         },
         {
             "video_id": "wllcTokMLT4",
@@ -115,8 +97,26 @@
             "channel_name": "겜케이",
             "category": "Gaming",
             "duration": "8:45",
-            "view_count": "111629",
+            "view_count": "114709",
             "thumbnail_url": "https://i.ytimg.com/vi/wllcTokMLT4/hqdefault.jpg"
+        },
+        {
+            "video_id": "azpgrmSeCas",
+            "title": "Propose",
+            "channel_name": "natori - Topic",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "69209",
+            "thumbnail_url": "https://i.ytimg.com/vi/azpgrmSeCas/hqdefault.jpg"
+        },
+        {
+            "video_id": "-NlvDmrftag",
+            "title": "GEN vs DK | 2026 LCK CUP Playoffs",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "4:42:21",
+            "view_count": "1070160",
+            "thumbnail_url": "https://i.ytimg.com/vi/-NlvDmrftag/hqdefault.jpg"
         },
         {
             "video_id": "wCApUewsa7g",
@@ -124,7 +124,7 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "35247",
+            "view_count": "35738",
             "thumbnail_url": "https://i.ytimg.com/vi/wCApUewsa7g/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "카라",
             "category": "Gaming",
             "duration": "13:42",
-            "view_count": "117558",
+            "view_count": "118316",
             "thumbnail_url": "https://i.ytimg.com/vi/Iw0IDKQV6oE/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "TRAP CHICK 트랩칙",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "103195",
+            "view_count": "107796",
             "thumbnail_url": "https://i.ytimg.com/vi/YcxhmHEykPg/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "18:44",
-            "view_count": "360028",
+            "view_count": "361120",
             "thumbnail_url": "https://i.ytimg.com/vi/EUXmw6kli7Y/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "10014889",
+            "view_count": "10029620",
             "thumbnail_url": "https://i.ytimg.com/vi/9qkpcLK422o/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "21:08",
-            "view_count": "374989",
+            "view_count": "376535",
             "thumbnail_url": "https://i.ytimg.com/vi/guP_dVULI24/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "DECO*27",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "488301",
+            "view_count": "505953",
             "thumbnail_url": "https://i.ytimg.com/vi/hK82hfN_ymQ/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "35:47",
-            "view_count": "156387",
+            "view_count": "159704",
             "thumbnail_url": "https://i.ytimg.com/vi/spA3H9e3zlo/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "4:37",
-            "view_count": "179009",
+            "view_count": "180053",
             "thumbnail_url": "https://i.ytimg.com/vi/OYxT_fDN4jA/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "19:12",
-            "view_count": "117614",
+            "view_count": "120825",
             "thumbnail_url": "https://i.ytimg.com/vi/HEuJNha32ek/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:29",
-            "view_count": "711999",
+            "view_count": "712996",
             "thumbnail_url": "https://i.ytimg.com/vi/w7oZ9zoBemM/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
             "duration": "6:11:41",
-            "view_count": "242589",
+            "view_count": "242938",
             "thumbnail_url": "https://i.ytimg.com/vi/8uT5Bpm2Bt0/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "ENHYPEN",
             "category": "Entertainment",
             "duration": "2:59",
-            "view_count": "217881",
+            "view_count": "235083",
             "thumbnail_url": "https://i.ytimg.com/vi/Mds7WAYiAck/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "15:26",
-            "view_count": "105124",
+            "view_count": "108116",
             "thumbnail_url": "https://i.ytimg.com/vi/Qoct4vJIbxA/hqdefault.jpg"
         },
         {
@@ -250,44 +250,8 @@
             "channel_name": "Woody - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "23885",
+            "view_count": "23975",
             "thumbnail_url": "https://i.ytimg.com/vi/GNoI-uZHOIk/hqdefault.jpg"
-        },
-        {
-            "video_id": "fNnfYkQ6ytg",
-            "title": "👩‍🦳할머니와 99밤 하드모드를 한다면 생존 할 수 있을까?! (어그로 아님)",
-            "channel_name": "멜로우TV",
-            "category": "Gaming",
-            "duration": "18:31",
-            "view_count": "184519",
-            "thumbnail_url": "https://i.ytimg.com/vi/fNnfYkQ6ytg/hqdefault.jpg"
-        },
-        {
-            "video_id": "Apm-1ef2Fgo",
-            "title": "Diary",
-            "channel_name": "SHAUN - Topic",
-            "category": "Music",
-            "duration": "3:30",
-            "view_count": "106911",
-            "thumbnail_url": "https://i.ytimg.com/vi/Apm-1ef2Fgo/hqdefault.jpg"
-        },
-        {
-            "video_id": "I4YUVFPiJfY",
-            "title": "이번 라이벌 패치로 \"이 설정\" 꼭 끄셔야합니다..!! 발렌타인 업데이트 총 정리!!",
-            "channel_name": "소멸",
-            "category": "Gaming",
-            "duration": "12:55",
-            "view_count": "149855",
-            "thumbnail_url": "https://i.ytimg.com/vi/I4YUVFPiJfY/hqdefault.jpg"
-        },
-        {
-            "video_id": "xBJM7JdlBr0",
-            "title": "RUDE! (Preview)",
-            "channel_name": "Hearts2Hearts - Topic",
-            "category": "Music",
-            "duration": "0:17",
-            "view_count": "90737",
-            "thumbnail_url": "https://i.ytimg.com/vi/xBJM7JdlBr0/hqdefault.jpg"
         },
         {
             "video_id": "h15o0AuSMeY",
@@ -295,8 +259,44 @@
             "channel_name": "수삼티비",
             "category": "Gaming",
             "duration": "13:21",
-            "view_count": "97228",
+            "view_count": "103414",
             "thumbnail_url": "https://i.ytimg.com/vi/h15o0AuSMeY/hqdefault.jpg"
+        },
+        {
+            "video_id": "Apm-1ef2Fgo",
+            "title": "Diary",
+            "channel_name": "SHAUN - Topic",
+            "category": "Music",
+            "duration": "3:30",
+            "view_count": "107185",
+            "thumbnail_url": "https://i.ytimg.com/vi/Apm-1ef2Fgo/hqdefault.jpg"
+        },
+        {
+            "video_id": "fNnfYkQ6ytg",
+            "title": "👩‍🦳할머니와 99밤 하드모드를 한다면 생존 할 수 있을까?! (어그로 아님)",
+            "channel_name": "멜로우TV",
+            "category": "Gaming",
+            "duration": "18:31",
+            "view_count": "184751",
+            "thumbnail_url": "https://i.ytimg.com/vi/fNnfYkQ6ytg/hqdefault.jpg"
+        },
+        {
+            "video_id": "xBJM7JdlBr0",
+            "title": "RUDE! (Preview)",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "0:17",
+            "view_count": "91218",
+            "thumbnail_url": "https://i.ytimg.com/vi/xBJM7JdlBr0/hqdefault.jpg"
+        },
+        {
+            "video_id": "I4YUVFPiJfY",
+            "title": "이번 라이벌 패치로 \"이 설정\" 꼭 끄셔야합니다..!! 발렌타인 업데이트 총 정리!!",
+            "channel_name": "소멸",
+            "category": "Gaming",
+            "duration": "12:55",
+            "view_count": "150163",
+            "thumbnail_url": "https://i.ytimg.com/vi/I4YUVFPiJfY/hqdefault.jpg"
         },
         {
             "video_id": "zK7sm2dvCWI",
@@ -304,7 +304,7 @@
             "channel_name": "Raon",
             "category": "Music",
             "duration": "2:30",
-            "view_count": "121474",
+            "view_count": "123049",
             "thumbnail_url": "https://i.ytimg.com/vi/zK7sm2dvCWI/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "26:32",
-            "view_count": "136728",
+            "view_count": "142411",
             "thumbnail_url": "https://i.ytimg.com/vi/WQtRelms8xU/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "TWS - Topic",
             "category": "Music",
             "duration": "2:27",
-            "view_count": "759142",
+            "view_count": "760140",
             "thumbnail_url": "https://i.ytimg.com/vi/oZ3WDJw0VBo/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "영래기",
             "category": "Gaming",
             "duration": "12:58",
-            "view_count": "253619",
+            "view_count": "254334",
             "thumbnail_url": "https://i.ytimg.com/vi/BOw0EmZG7W4/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "4:15",
-            "view_count": "200807",
+            "view_count": "201222",
             "thumbnail_url": "https://i.ytimg.com/vi/LYm5M9fWy-4/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "31:02",
-            "view_count": "124651",
+            "view_count": "125579",
             "thumbnail_url": "https://i.ytimg.com/vi/jPmcg7ROd24/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "Onestar - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "173940",
+            "view_count": "174306",
             "thumbnail_url": "https://i.ytimg.com/vi/2_dg7EVawrU/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "피넛",
             "category": "Gaming",
             "duration": "33:15",
-            "view_count": "151211",
+            "view_count": "151556",
             "thumbnail_url": "https://i.ytimg.com/vi/8UChl5cwEoE/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "23:50",
-            "view_count": "120369",
+            "view_count": "120502",
             "thumbnail_url": "https://i.ytimg.com/vi/_7vO2wyeb_U/hqdefault.jpg"
         }
     ]
