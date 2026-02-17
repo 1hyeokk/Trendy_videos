@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-18 05:41:00",
+    "scraped_time": "2026-02-18 06:38:55",
     "videos": [
         {
             "video_id": "yfKBI5l81-A",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "112787",
+            "view_count": "117748",
             "thumbnail_url": "https://i.ytimg.com/vi/yfKBI5l81-A/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "36:55",
-            "view_count": "56705",
+            "view_count": "57113",
             "thumbnail_url": "https://i.ytimg.com/vi/Hw3MKYMUlA0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "4:21:25",
-            "view_count": "321047",
+            "view_count": "323752",
             "thumbnail_url": "https://i.ytimg.com/vi/dCQDcoaDcFw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Sungtae (Postmen) - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "332652",
+            "view_count": "333621",
             "thumbnail_url": "https://i.ytimg.com/vi/MWHtUeY3y34/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "IVE",
             "category": "Entertainment",
             "duration": "18:32",
-            "view_count": "57202",
+            "view_count": "58137",
             "thumbnail_url": "https://i.ytimg.com/vi/ZgkL6m63F-I/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "29:42",
-            "view_count": "766498",
+            "view_count": "768950",
             "thumbnail_url": "https://i.ytimg.com/vi/sqNE6ZWoGaA/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "KARD",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "207596",
+            "view_count": "208217",
             "thumbnail_url": "https://i.ytimg.com/vi/LPL1fozVrIw/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "2:12:51",
-            "view_count": "218413",
+            "view_count": "219637",
             "thumbnail_url": "https://i.ytimg.com/vi/bleL191Z8MI/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "TRAP CHICK 트랩칙",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "586779",
+            "view_count": "590538",
             "thumbnail_url": "https://i.ytimg.com/vi/YcxhmHEykPg/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "42:40",
-            "view_count": "245365",
+            "view_count": "248074",
             "thumbnail_url": "https://i.ytimg.com/vi/F41rlfsAlVM/hqdefault.jpg"
-        },
-        {
-            "video_id": "tVJBWoof09Q",
-            "title": "ATEEZ(에이티즈) - 'NASA' Performance Video",
-            "channel_name": "KQ ENTERTAINMENT",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "6278545",
-            "thumbnail_url": "https://i.ytimg.com/vi/tVJBWoof09Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "xwb1BydMIkY",
-            "title": "[빅보스 2. 16 ] 리니지 클래식 : 졸라 열린다 싹느!! (이문주 소환)",
-            "channel_name": "빅보스",
-            "category": "Gaming",
-            "duration": "4:58:41",
-            "view_count": "353376",
-            "thumbnail_url": "https://i.ytimg.com/vi/xwb1BydMIkY/hqdefault.jpg"
         },
         {
             "video_id": "_dW6Bd5K0Z4",
@@ -115,8 +97,26 @@
             "channel_name": "WOODZ - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "741743",
+            "view_count": "742791",
             "thumbnail_url": "https://i.ytimg.com/vi/_dW6Bd5K0Z4/hqdefault.jpg"
+        },
+        {
+            "video_id": "xwb1BydMIkY",
+            "title": "[빅보스 2. 16 ] 리니지 클래식 : 졸라 열린다 싹느!! (이문주 소환)",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "4:58:41",
+            "view_count": "353423",
+            "thumbnail_url": "https://i.ytimg.com/vi/xwb1BydMIkY/hqdefault.jpg"
+        },
+        {
+            "video_id": "tVJBWoof09Q",
+            "title": "ATEEZ(에이티즈) - 'NASA' Performance Video",
+            "channel_name": "KQ ENTERTAINMENT",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "6289033",
+            "thumbnail_url": "https://i.ytimg.com/vi/tVJBWoof09Q/hqdefault.jpg"
         },
         {
             "video_id": "I3Y-l54rA7Y",
@@ -124,7 +124,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "48:50",
-            "view_count": "945975",
+            "view_count": "948226",
             "thumbnail_url": "https://i.ytimg.com/vi/I3Y-l54rA7Y/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "RIIZE - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "6837",
+            "view_count": "7103",
             "thumbnail_url": "https://i.ytimg.com/vi/aVJwmhuzF4w/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:21",
-            "view_count": "143032",
+            "view_count": "147341",
             "thumbnail_url": "https://i.ytimg.com/vi/Y51SG76Pb94/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "Tei - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "1070635",
+            "view_count": "1071979",
             "thumbnail_url": "https://i.ytimg.com/vi/iNRoCGpEwww/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "25:20",
-            "view_count": "247687",
+            "view_count": "248331",
             "thumbnail_url": "https://i.ytimg.com/vi/2EvajyWzz9Y/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "DECO*27",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "1792048",
+            "view_count": "1794732",
             "thumbnail_url": "https://i.ytimg.com/vi/hK82hfN_ymQ/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "21:57",
-            "view_count": "135046",
+            "view_count": "136846",
             "thumbnail_url": "https://i.ytimg.com/vi/jus2UsP1uUM/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "125506",
+            "view_count": "125638",
             "thumbnail_url": "https://i.ytimg.com/vi/wCApUewsa7g/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "원큐",
             "category": "Gaming",
             "duration": "13:04",
-            "view_count": "95072",
+            "view_count": "97884",
             "thumbnail_url": "https://i.ytimg.com/vi/tsgdTc_luQg/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "TimeFeveR - Topic",
             "category": "Music",
             "duration": "2:55",
-            "view_count": "12085",
+            "view_count": "12250",
             "thumbnail_url": "https://i.ytimg.com/vi/_bF8oCG0x2c/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "58:59",
-            "view_count": "161117",
+            "view_count": "162532",
             "thumbnail_url": "https://i.ytimg.com/vi/s4HzpESgz1s/hqdefault.jpg"
         },
         {
@@ -223,26 +223,8 @@
             "channel_name": "Mili",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "160304",
+            "view_count": "166013",
             "thumbnail_url": "https://i.ytimg.com/vi/R1Ch963iuek/hqdefault.jpg"
-        },
-        {
-            "video_id": "ztbcIylfd1k",
-            "title": "[ 리니지클래식 재범군주 ] 9일본도 9양검 힘기사 삼도류    #리니지클래식   #불도그 #빅보스 #수삼티비",
-            "channel_name": "재범군주",
-            "category": "Gaming",
-            "duration": "4:48:26",
-            "view_count": "76740",
-            "thumbnail_url": "https://i.ytimg.com/vi/ztbcIylfd1k/hqdefault.jpg"
-        },
-        {
-            "video_id": "NW6olUR350I",
-            "title": "you",
-            "channel_name": "문수진 Moon Sujin - Topic",
-            "category": "Music",
-            "duration": "2:50",
-            "view_count": "30237",
-            "thumbnail_url": "https://i.ytimg.com/vi/NW6olUR350I/hqdefault.jpg"
         },
         {
             "video_id": "a3Ois43PLk4",
@@ -250,8 +232,26 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "22:37",
-            "view_count": "106154",
+            "view_count": "109320",
             "thumbnail_url": "https://i.ytimg.com/vi/a3Ois43PLk4/hqdefault.jpg"
+        },
+        {
+            "video_id": "NW6olUR350I",
+            "title": "you",
+            "channel_name": "문수진 Moon Sujin - Topic",
+            "category": "Music",
+            "duration": "2:50",
+            "view_count": "30374",
+            "thumbnail_url": "https://i.ytimg.com/vi/NW6olUR350I/hqdefault.jpg"
+        },
+        {
+            "video_id": "ztbcIylfd1k",
+            "title": "[ 리니지클래식 재범군주 ] 9일본도 9양검 힘기사 삼도류    #리니지클래식   #불도그 #빅보스 #수삼티비",
+            "channel_name": "재범군주",
+            "category": "Gaming",
+            "duration": "4:48:26",
+            "view_count": "76866",
+            "thumbnail_url": "https://i.ytimg.com/vi/ztbcIylfd1k/hqdefault.jpg"
         },
         {
             "video_id": "azpgrmSeCas",
@@ -259,7 +259,7 @@
             "channel_name": "natori - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "176385",
+            "view_count": "177003",
             "thumbnail_url": "https://i.ytimg.com/vi/azpgrmSeCas/hqdefault.jpg"
         },
         {
@@ -268,17 +268,8 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "15:15",
-            "view_count": "109871",
+            "view_count": "112024",
             "thumbnail_url": "https://i.ytimg.com/vi/cvZIz1MWTP4/hqdefault.jpg"
-        },
-        {
-            "video_id": "HT_iwDZYUy8",
-            "title": "잡을 건 많은 타입 : 독타입 하트골드【포켓몬 모든타입 깨기】#1",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "30:19",
-            "view_count": "222649",
-            "thumbnail_url": "https://i.ytimg.com/vi/HT_iwDZYUy8/hqdefault.jpg"
         },
         {
             "video_id": "_Cb5Zs0q1DI",
@@ -286,8 +277,17 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "1:15:42",
-            "view_count": "156807",
+            "view_count": "160079",
             "thumbnail_url": "https://i.ytimg.com/vi/_Cb5Zs0q1DI/hqdefault.jpg"
+        },
+        {
+            "video_id": "HT_iwDZYUy8",
+            "title": "잡을 건 많은 타입 : 독타입 하트골드【포켓몬 모든타입 깨기】#1",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "30:19",
+            "view_count": "223598",
+            "thumbnail_url": "https://i.ytimg.com/vi/HT_iwDZYUy8/hqdefault.jpg"
         },
         {
             "video_id": "ojkwl39aOj0",
@@ -295,7 +295,7 @@
             "channel_name": "태산군주 TV",
             "category": "Gaming",
             "duration": "10:17",
-            "view_count": "144655",
+            "view_count": "145927",
             "thumbnail_url": "https://i.ytimg.com/vi/ojkwl39aOj0/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "집사TV",
             "category": "Gaming",
             "duration": "13:26",
-            "view_count": "123718",
+            "view_count": "123881",
             "thumbnail_url": "https://i.ytimg.com/vi/zH9HS1aUPSk/hqdefault.jpg"
         },
         {
@@ -313,17 +313,8 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "16:06",
-            "view_count": "254974",
+            "view_count": "255110",
             "thumbnail_url": "https://i.ytimg.com/vi/pS180YhursA/hqdefault.jpg"
-        },
-        {
-            "video_id": "F6rIRlpxbhU",
-            "title": "여정의 끝",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "26:18",
-            "view_count": "219131",
-            "thumbnail_url": "https://i.ytimg.com/vi/F6rIRlpxbhU/hqdefault.jpg"
         },
         {
             "video_id": "_nlNFx-zfQM",
@@ -331,8 +322,17 @@
             "channel_name": "이루의 마인크래프트",
             "category": "Gaming",
             "duration": "22:52",
-            "view_count": "79865",
+            "view_count": "81679",
             "thumbnail_url": "https://i.ytimg.com/vi/_nlNFx-zfQM/hqdefault.jpg"
+        },
+        {
+            "video_id": "F6rIRlpxbhU",
+            "title": "여정의 끝",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "26:18",
+            "view_count": "220425",
+            "thumbnail_url": "https://i.ytimg.com/vi/F6rIRlpxbhU/hqdefault.jpg"
         },
         {
             "video_id": "_ch0HICxCDA",
@@ -340,7 +340,7 @@
             "channel_name": "GCL 지씨엘",
             "category": "Gaming",
             "duration": "34:00",
-            "view_count": "281155",
+            "view_count": "283381",
             "thumbnail_url": "https://i.ytimg.com/vi/_ch0HICxCDA/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "마쟈TV",
             "category": "Gaming",
             "duration": "13:24",
-            "view_count": "74634",
+            "view_count": "74764",
             "thumbnail_url": "https://i.ytimg.com/vi/asuBLXV78mc/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "17:24",
-            "view_count": "199827",
+            "view_count": "200304",
             "thumbnail_url": "https://i.ytimg.com/vi/JfNtL7YJMLc/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "1:01:08",
-            "view_count": "208799",
+            "view_count": "209603",
             "thumbnail_url": "https://i.ytimg.com/vi/TMnKIEaLulE/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "20:07",
-            "view_count": "201917",
+            "view_count": "202650",
             "thumbnail_url": "https://i.ytimg.com/vi/0kKaCNT9WPQ/hqdefault.jpg"
         }
     ]
