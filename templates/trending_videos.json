@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-17 11:27:38",
+    "scraped_time": "2026-02-17 13:54:27",
     "videos": [
         {
             "video_id": "MWHtUeY3y34",
@@ -7,7 +7,7 @@
             "channel_name": "Sungtae (Postmen) - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "247110",
+            "view_count": "257671",
             "thumbnail_url": "https://i.ytimg.com/vi/MWHtUeY3y34/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:51",
-            "view_count": "228673",
+            "view_count": "229773",
             "thumbnail_url": "https://i.ytimg.com/vi/I5gkVKl8W7o/hqdefault.jpg"
         },
         {
@@ -25,44 +25,8 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "29:42",
-            "view_count": "544236",
+            "view_count": "586786",
             "thumbnail_url": "https://i.ytimg.com/vi/sqNE6ZWoGaA/hqdefault.jpg"
-        },
-        {
-            "video_id": "YcxhmHEykPg",
-            "title": "처형박수 (Execution Clap) / 카사네 테토",
-            "channel_name": "TRAP CHICK 트랩칙",
-            "category": "Music",
-            "duration": "3:14",
-            "view_count": "462943",
-            "thumbnail_url": "https://i.ytimg.com/vi/YcxhmHEykPg/hqdefault.jpg"
-        },
-        {
-            "video_id": "xwb1BydMIkY",
-            "title": "[빅보스 2. 16 ] 리니지 클래식 : 졸라 열린다 싹느!! (이문주 소환)",
-            "channel_name": "빅보스",
-            "category": "Gaming",
-            "duration": "4:58:41",
-            "view_count": "334954",
-            "thumbnail_url": "https://i.ytimg.com/vi/xwb1BydMIkY/hqdefault.jpg"
-        },
-        {
-            "video_id": "_dW6Bd5K0Z4",
-            "title": "CINEMA",
-            "channel_name": "WOODZ - Topic",
-            "category": "Music",
-            "duration": "3:58",
-            "view_count": "646235",
-            "thumbnail_url": "https://i.ytimg.com/vi/_dW6Bd5K0Z4/hqdefault.jpg"
-        },
-        {
-            "video_id": "I3Y-l54rA7Y",
-            "title": "☀️설날 특집☀️2026년 새해 첫 혜안져스 덕몽어스!!!",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "48:50",
-            "view_count": "760730",
-            "thumbnail_url": "https://i.ytimg.com/vi/I3Y-l54rA7Y/hqdefault.jpg"
         },
         {
             "video_id": "LPL1fozVrIw",
@@ -70,8 +34,53 @@
             "channel_name": "KARD",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "177640",
+            "view_count": "181773",
             "thumbnail_url": "https://i.ytimg.com/vi/LPL1fozVrIw/hqdefault.jpg"
+        },
+        {
+            "video_id": "Hw3MKYMUlA0",
+            "title": "≪어벤져스: 둠스데이≫ 모든 티저 예고편 몰아보기 떡밥 분석 총정리",
+            "channel_name": "무비띵크_Movie Think",
+            "category": "Film & Animation",
+            "duration": "36:55",
+            "view_count": "16911",
+            "thumbnail_url": "https://i.ytimg.com/vi/Hw3MKYMUlA0/hqdefault.jpg"
+        },
+        {
+            "video_id": "xwb1BydMIkY",
+            "title": "[빅보스 2. 16 ] 리니지 클래식 : 졸라 열린다 싹느!! (이문주 소환)",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "4:58:41",
+            "view_count": "342855",
+            "thumbnail_url": "https://i.ytimg.com/vi/xwb1BydMIkY/hqdefault.jpg"
+        },
+        {
+            "video_id": "YcxhmHEykPg",
+            "title": "처형박수 (Execution Clap) / 카사네 테토",
+            "channel_name": "TRAP CHICK 트랩칙",
+            "category": "Music",
+            "duration": "3:14",
+            "view_count": "477994",
+            "thumbnail_url": "https://i.ytimg.com/vi/YcxhmHEykPg/hqdefault.jpg"
+        },
+        {
+            "video_id": "I3Y-l54rA7Y",
+            "title": "☀️설날 특집☀️2026년 새해 첫 혜안져스 덕몽어스!!!",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "48:50",
+            "view_count": "783292",
+            "thumbnail_url": "https://i.ytimg.com/vi/I3Y-l54rA7Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "_dW6Bd5K0Z4",
+            "title": "CINEMA",
+            "channel_name": "WOODZ - Topic",
+            "category": "Music",
+            "duration": "3:58",
+            "view_count": "661002",
+            "thumbnail_url": "https://i.ytimg.com/vi/_dW6Bd5K0Z4/hqdefault.jpg"
         },
         {
             "video_id": "l0MbScNRdUs",
@@ -79,26 +88,8 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "5:52:29",
-            "view_count": "548417",
+            "view_count": "551019",
             "thumbnail_url": "https://i.ytimg.com/vi/l0MbScNRdUs/hqdefault.jpg"
-        },
-        {
-            "video_id": "iNRoCGpEwww",
-            "title": "Last Love",
-            "channel_name": "Tei - Topic",
-            "category": "Music",
-            "duration": "4:15",
-            "view_count": "844744",
-            "thumbnail_url": "https://i.ytimg.com/vi/iNRoCGpEwww/hqdefault.jpg"
-        },
-        {
-            "video_id": "2EvajyWzz9Y",
-            "title": "\"왜 딜량이 항상 꼴찌에요? Lck 우승보다 더 힘든 이상호 교육에 결국 포기해버린 피넛..!",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "25:20",
-            "view_count": "178465",
-            "thumbnail_url": "https://i.ytimg.com/vi/2EvajyWzz9Y/hqdefault.jpg"
         },
         {
             "video_id": "tVJBWoof09Q",
@@ -106,8 +97,26 @@
             "channel_name": "KQ ENTERTAINMENT",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "4892951",
+            "view_count": "4937209",
             "thumbnail_url": "https://i.ytimg.com/vi/tVJBWoof09Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "2EvajyWzz9Y",
+            "title": "\"왜 딜량이 항상 꼴찌에요? Lck 우승보다 더 힘든 이상호 교육에 결국 포기해버린 피넛..!",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "25:20",
+            "view_count": "195659",
+            "thumbnail_url": "https://i.ytimg.com/vi/2EvajyWzz9Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "iNRoCGpEwww",
+            "title": "Last Love",
+            "channel_name": "Tei - Topic",
+            "category": "Music",
+            "duration": "4:15",
+            "view_count": "873709",
+            "thumbnail_url": "https://i.ytimg.com/vi/iNRoCGpEwww/hqdefault.jpg"
         },
         {
             "video_id": "HT_iwDZYUy8",
@@ -115,7 +124,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "30:19",
-            "view_count": "161089",
+            "view_count": "172928",
             "thumbnail_url": "https://i.ytimg.com/vi/HT_iwDZYUy8/hqdefault.jpg"
         },
         {
@@ -124,7 +133,7 @@
             "channel_name": "DECO*27",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "1614532",
+            "view_count": "1632412",
             "thumbnail_url": "https://i.ytimg.com/vi/hK82hfN_ymQ/hqdefault.jpg"
         },
         {
@@ -133,7 +142,7 @@
             "channel_name": "원큐",
             "category": "Gaming",
             "duration": "9:23",
-            "view_count": "97778",
+            "view_count": "110418",
             "thumbnail_url": "https://i.ytimg.com/vi/DP_12lqcwwA/hqdefault.jpg"
         },
         {
@@ -142,26 +151,8 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "102705",
+            "view_count": "106446",
             "thumbnail_url": "https://i.ytimg.com/vi/wCApUewsa7g/hqdefault.jpg"
-        },
-        {
-            "video_id": "sU0_as232wk",
-            "title": "[리니지클래식] 리니지의 꽃 데스나이트 갑니다! #너의바램",
-            "channel_name": "카라",
-            "category": "Gaming",
-            "duration": "11:19",
-            "view_count": "127671",
-            "thumbnail_url": "https://i.ytimg.com/vi/sU0_as232wk/hqdefault.jpg"
-        },
-        {
-            "video_id": "azpgrmSeCas",
-            "title": "Propose",
-            "channel_name": "natori - Topic",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "147436",
-            "thumbnail_url": "https://i.ytimg.com/vi/azpgrmSeCas/hqdefault.jpg"
         },
         {
             "video_id": "pS180YhursA",
@@ -169,7 +160,7 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "16:06",
-            "view_count": "150766",
+            "view_count": "170965",
             "thumbnail_url": "https://i.ytimg.com/vi/pS180YhursA/hqdefault.jpg"
         },
         {
@@ -178,8 +169,26 @@
             "channel_name": "不破 湊 / Fuwa Minato【にじさんじ】",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "999822",
+            "view_count": "1072205",
             "thumbnail_url": "https://i.ytimg.com/vi/lncv9G8VYrw/hqdefault.jpg"
+        },
+        {
+            "video_id": "F6rIRlpxbhU",
+            "title": "여정의 끝",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "26:18",
+            "view_count": "162790",
+            "thumbnail_url": "https://i.ytimg.com/vi/F6rIRlpxbhU/hqdefault.jpg"
+        },
+        {
+            "video_id": "azpgrmSeCas",
+            "title": "Propose",
+            "channel_name": "natori - Topic",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "151147",
+            "thumbnail_url": "https://i.ytimg.com/vi/azpgrmSeCas/hqdefault.jpg"
         },
         {
             "video_id": "JfNtL7YJMLc",
@@ -187,7 +196,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "17:24",
-            "view_count": "160267",
+            "view_count": "170365",
             "thumbnail_url": "https://i.ytimg.com/vi/JfNtL7YJMLc/hqdefault.jpg"
         },
         {
@@ -196,17 +205,17 @@
             "channel_name": "Woody - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "77026",
+            "view_count": "80644",
             "thumbnail_url": "https://i.ytimg.com/vi/GNoI-uZHOIk/hqdefault.jpg"
         },
         {
-            "video_id": "F6rIRlpxbhU",
-            "title": "여정의 끝",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "sU0_as232wk",
+            "title": "[리니지클래식] 리니지의 꽃 데스나이트 갑니다! #너의바램",
+            "channel_name": "카라",
             "category": "Gaming",
-            "duration": "26:18",
-            "view_count": "149317",
-            "thumbnail_url": "https://i.ytimg.com/vi/F6rIRlpxbhU/hqdefault.jpg"
+            "duration": "11:19",
+            "view_count": "131007",
+            "thumbnail_url": "https://i.ytimg.com/vi/sU0_as232wk/hqdefault.jpg"
         },
         {
             "video_id": "IrTJnvqnXPY",
@@ -214,7 +223,7 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "3206145",
+            "view_count": "3267075",
             "thumbnail_url": "https://i.ytimg.com/vi/IrTJnvqnXPY/hqdefault.jpg"
         },
         {
@@ -223,7 +232,7 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "1:01:08",
-            "view_count": "170229",
+            "view_count": "175088",
             "thumbnail_url": "https://i.ytimg.com/vi/TMnKIEaLulE/hqdefault.jpg"
         },
         {
@@ -232,7 +241,7 @@
             "channel_name": "BD Media Music",
             "category": "Music",
             "duration": "1:09:50",
-            "view_count": "1627382",
+            "view_count": "1729815",
             "thumbnail_url": "https://i.ytimg.com/vi/n8l_j0UKT3Y/hqdefault.jpg"
         },
         {
@@ -241,7 +250,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "20:07",
-            "view_count": "151848",
+            "view_count": "160159",
             "thumbnail_url": "https://i.ytimg.com/vi/0kKaCNT9WPQ/hqdefault.jpg"
         },
         {
@@ -250,7 +259,7 @@
             "channel_name": "Wavey 물결 🌊",
             "category": "Music",
             "duration": "4:31:13",
-            "view_count": "8390",
+            "view_count": "9574",
             "thumbnail_url": "https://i.ytimg.com/vi/Nfxuus-aOI0/hqdefault.jpg"
         },
         {
@@ -259,7 +268,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "18:25",
-            "view_count": "119755",
+            "view_count": "128558",
             "thumbnail_url": "https://i.ytimg.com/vi/YT7b8I1sFuo/hqdefault.jpg"
         },
         {
@@ -268,7 +277,7 @@
             "channel_name": "GIFTED",
             "category": "Music",
             "duration": "7:49",
-            "view_count": "7584",
+            "view_count": "8562",
             "thumbnail_url": "https://i.ytimg.com/vi/-Ld-b-gT1Xg/hqdefault.jpg"
         },
         {
@@ -277,26 +286,8 @@
             "channel_name": "GCL 지씨엘",
             "category": "Gaming",
             "duration": "34:00",
-            "view_count": "170512",
+            "view_count": "189802",
             "thumbnail_url": "https://i.ytimg.com/vi/_ch0HICxCDA/hqdefault.jpg"
-        },
-        {
-            "video_id": "rrkpi1_JPn0",
-            "title": "What Is This Feeling? (with BANG YEDAM)",
-            "channel_name": "Suen - Topic",
-            "category": "Music",
-            "duration": "2:20",
-            "view_count": "24001",
-            "thumbnail_url": "https://i.ytimg.com/vi/rrkpi1_JPn0/hqdefault.jpg"
-        },
-        {
-            "video_id": "Q1akMicD9oQ",
-            "title": "대박🔥\"드디어 첫 득템\" 감사합니다! [리니지 클래식]",
-            "channel_name": "태산군주 TV",
-            "category": "Gaming",
-            "duration": "11:34",
-            "view_count": "174123",
-            "thumbnail_url": "https://i.ytimg.com/vi/Q1akMicD9oQ/hqdefault.jpg"
         },
         {
             "video_id": "dJ97WiXhEnk",
@@ -304,17 +295,8 @@
             "channel_name": "피넛",
             "category": "Gaming",
             "duration": "28:07",
-            "view_count": "79881",
+            "view_count": "89359",
             "thumbnail_url": "https://i.ytimg.com/vi/dJ97WiXhEnk/hqdefault.jpg"
-        },
-        {
-            "video_id": "MBJV0vG5Q5g",
-            "title": "26.02.16(월) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
-            "channel_name": "인피쉰",
-            "category": "Gaming",
-            "duration": "6:01:38",
-            "view_count": "111042",
-            "thumbnail_url": "https://i.ytimg.com/vi/MBJV0vG5Q5g/hqdefault.jpg"
         },
         {
             "video_id": "XY2Shm_SpgQ",
@@ -322,8 +304,35 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:36",
-            "view_count": "110905",
+            "view_count": "119672",
             "thumbnail_url": "https://i.ytimg.com/vi/XY2Shm_SpgQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Q1akMicD9oQ",
+            "title": "대박🔥\"드디어 첫 득템\" 감사합니다! [리니지 클래식]",
+            "channel_name": "태산군주 TV",
+            "category": "Gaming",
+            "duration": "11:34",
+            "view_count": "179330",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q1akMicD9oQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "F41rlfsAlVM",
+            "title": "1200만원 미션으로 서열이 바뀐 칸과 김민교",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "42:40",
+            "view_count": "47344",
+            "thumbnail_url": "https://i.ytimg.com/vi/F41rlfsAlVM/hqdefault.jpg"
+        },
+        {
+            "video_id": "MBJV0vG5Q5g",
+            "title": "26.02.16(월) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
+            "category": "Gaming",
+            "duration": "6:01:38",
+            "view_count": "112149",
+            "thumbnail_url": "https://i.ytimg.com/vi/MBJV0vG5Q5g/hqdefault.jpg"
         },
         {
             "video_id": "SNcN_gUSwa8",
@@ -331,7 +340,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "3:32:28",
-            "view_count": "304469",
+            "view_count": "308474",
             "thumbnail_url": "https://i.ytimg.com/vi/SNcN_gUSwa8/hqdefault.jpg"
         },
         {
@@ -340,7 +349,7 @@
             "channel_name": "쌈용",
             "category": "Gaming",
             "duration": "6:18",
-            "view_count": "137323",
+            "view_count": "141287",
             "thumbnail_url": "https://i.ytimg.com/vi/VyGA3QMXqoQ/hqdefault.jpg"
         },
         {
@@ -349,7 +358,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "10:48",
-            "view_count": "80188",
+            "view_count": "84852",
             "thumbnail_url": "https://i.ytimg.com/vi/4AULG0VL98Y/hqdefault.jpg"
         },
         {
@@ -358,7 +367,7 @@
             "channel_name": "악동 김블루",
             "category": "Gaming",
             "duration": "13:37",
-            "view_count": "99351",
+            "view_count": "109881",
             "thumbnail_url": "https://i.ytimg.com/vi/KCEz5nwF9ek/hqdefault.jpg"
         },
         {
@@ -367,17 +376,8 @@
             "channel_name": "로트키",
             "category": "Gaming",
             "duration": "11:56",
-            "view_count": "72771",
+            "view_count": "84245",
             "thumbnail_url": "https://i.ytimg.com/vi/L_HHPYbfYjQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "QEJU0uIRi1w",
-            "title": "[ 리니지클래식 재범군주 ] 데포르쥬 9양검  힘20기사 파글 완력 삽니다     #리니지클래식   #불도그 #빅보스 #수삼티비",
-            "channel_name": "재범군주",
-            "category": "Gaming",
-            "duration": "3:04:44",
-            "view_count": "62983",
-            "thumbnail_url": "https://i.ytimg.com/vi/QEJU0uIRi1w/hqdefault.jpg"
         }
     ]
 }
