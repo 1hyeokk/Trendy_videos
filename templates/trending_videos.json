@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-18 16:52:05",
+    "scraped_time": "2026-02-18 17:50:57",
     "videos": [
         {
             "video_id": "yfKBI5l81-A",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "226662",
+            "view_count": "235645",
             "thumbnail_url": "https://i.ytimg.com/vi/yfKBI5l81-A/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "36:55",
-            "view_count": "66724",
+            "view_count": "68323",
             "thumbnail_url": "https://i.ytimg.com/vi/Hw3MKYMUlA0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "4:21:25",
-            "view_count": "362986",
+            "view_count": "365247",
             "thumbnail_url": "https://i.ytimg.com/vi/dCQDcoaDcFw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "KARD",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "228085",
+            "view_count": "229712",
             "thumbnail_url": "https://i.ytimg.com/vi/LPL1fozVrIw/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Star Wars Korea",
             "category": "Film & Animation",
             "duration": "2:12",
-            "view_count": "61626",
+            "view_count": "63861",
             "thumbnail_url": "https://i.ytimg.com/vi/3GN7DfLqUKM/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "10:04:08",
-            "view_count": "392305",
+            "view_count": "393195",
             "thumbnail_url": "https://i.ytimg.com/vi/gYIluFiB9RQ/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "RIIZE - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "18313",
+            "view_count": "20194",
             "thumbnail_url": "https://i.ytimg.com/vi/aVJwmhuzF4w/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "29:42",
-            "view_count": "822401",
+            "view_count": "828182",
             "thumbnail_url": "https://i.ytimg.com/vi/sqNE6ZWoGaA/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "Sungtae (Postmen) - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "352041",
+            "view_count": "354649",
             "thumbnail_url": "https://i.ytimg.com/vi/MWHtUeY3y34/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "42:40",
-            "view_count": "284912",
+            "view_count": "288431",
             "thumbnail_url": "https://i.ytimg.com/vi/F41rlfsAlVM/hqdefault.jpg"
-        },
-        {
-            "video_id": "YcxhmHEykPg",
-            "title": "처형박수 (Execution Clap) / 카사네 테토",
-            "channel_name": "TRAP CHICK 트랩칙",
-            "category": "Music",
-            "duration": "3:14",
-            "view_count": "647241",
-            "thumbnail_url": "https://i.ytimg.com/vi/YcxhmHEykPg/hqdefault.jpg"
-        },
-        {
-            "video_id": "bleL191Z8MI",
-            "title": "[ 불도그 LIVE 생방송 2/17 ] 2부 리니지 아덴 , 젤 , 기사장비 싹 다 삽니다.",
-            "channel_name": "불도그",
-            "category": "Gaming",
-            "duration": "2:12:51",
-            "view_count": "234260",
-            "thumbnail_url": "https://i.ytimg.com/vi/bleL191Z8MI/hqdefault.jpg"
         },
         {
             "video_id": "6mEYBf5rWPg",
@@ -115,8 +97,26 @@
             "channel_name": "Twenty One Pilots - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "139834",
+            "view_count": "155299",
             "thumbnail_url": "https://i.ytimg.com/vi/6mEYBf5rWPg/hqdefault.jpg"
+        },
+        {
+            "video_id": "bleL191Z8MI",
+            "title": "[ 불도그 LIVE 생방송 2/17 ] 2부 리니지 아덴 , 젤 , 기사장비 싹 다 삽니다.",
+            "channel_name": "불도그",
+            "category": "Gaming",
+            "duration": "2:12:51",
+            "view_count": "234848",
+            "thumbnail_url": "https://i.ytimg.com/vi/bleL191Z8MI/hqdefault.jpg"
+        },
+        {
+            "video_id": "YcxhmHEykPg",
+            "title": "처형박수 (Execution Clap) / 카사네 테토",
+            "channel_name": "TRAP CHICK 트랩칙",
+            "category": "Music",
+            "duration": "3:14",
+            "view_count": "654284",
+            "thumbnail_url": "https://i.ytimg.com/vi/YcxhmHEykPg/hqdefault.jpg"
         },
         {
             "video_id": "I3Y-l54rA7Y",
@@ -124,7 +124,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "48:50",
-            "view_count": "1021150",
+            "view_count": "1032984",
             "thumbnail_url": "https://i.ytimg.com/vi/I3Y-l54rA7Y/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "문수진 Moon Sujin - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "38101",
+            "view_count": "39364",
             "thumbnail_url": "https://i.ytimg.com/vi/NW6olUR350I/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:21",
-            "view_count": "202697",
+            "view_count": "207942",
             "thumbnail_url": "https://i.ytimg.com/vi/Y51SG76Pb94/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "TimeFeveR - Topic",
             "category": "Music",
             "duration": "2:55",
-            "view_count": "16698",
+            "view_count": "17388",
             "thumbnail_url": "https://i.ytimg.com/vi/_bF8oCG0x2c/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "원큐",
             "category": "Gaming",
             "duration": "13:04",
-            "view_count": "146160",
+            "view_count": "150482",
             "thumbnail_url": "https://i.ytimg.com/vi/tsgdTc_luQg/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "WOODZ - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "785274",
+            "view_count": "791583",
             "thumbnail_url": "https://i.ytimg.com/vi/_dW6Bd5K0Z4/hqdefault.jpg"
         },
         {
@@ -178,8 +178,26 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "21:57",
-            "view_count": "168968",
+            "view_count": "171452",
             "thumbnail_url": "https://i.ytimg.com/vi/jus2UsP1uUM/hqdefault.jpg"
+        },
+        {
+            "video_id": "n_acCl1wGwI",
+            "title": "Vivarium",
+            "channel_name": "Ado - Topic",
+            "category": "Music",
+            "duration": "4:04",
+            "view_count": "202114",
+            "thumbnail_url": "https://i.ytimg.com/vi/n_acCl1wGwI/hqdefault.jpg"
+        },
+        {
+            "video_id": "4X9PrOixKLo",
+            "title": "[ 리니지클래식 재범군주 ] 블러드 투 소울 득템 강해지는 호형호제    #리니지클래식   #불도그 #빅보스 #수삼티비",
+            "channel_name": "재범군주",
+            "category": "Gaming",
+            "duration": "4:03:30",
+            "view_count": "52885",
+            "thumbnail_url": "https://i.ytimg.com/vi/4X9PrOixKLo/hqdefault.jpg"
         },
         {
             "video_id": "tVJBWoof09Q",
@@ -187,7 +205,7 @@
             "channel_name": "KQ ENTERTAINMENT",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "6753639",
+            "view_count": "6780063",
             "thumbnail_url": "https://i.ytimg.com/vi/tVJBWoof09Q/hqdefault.jpg"
         },
         {
@@ -196,26 +214,8 @@
             "channel_name": "집사TV",
             "category": "Gaming",
             "duration": "13:26",
-            "view_count": "175854",
+            "view_count": "180913",
             "thumbnail_url": "https://i.ytimg.com/vi/zH9HS1aUPSk/hqdefault.jpg"
-        },
-        {
-            "video_id": "n_acCl1wGwI",
-            "title": "Vivarium",
-            "channel_name": "Ado - Topic",
-            "category": "Music",
-            "duration": "4:04",
-            "view_count": "193104",
-            "thumbnail_url": "https://i.ytimg.com/vi/n_acCl1wGwI/hqdefault.jpg"
-        },
-        {
-            "video_id": "a3Ois43PLk4",
-            "title": "바이는 이제부터 탑챔프입니다. 버프로 떡상해버린 미친 딜뽕 \"탑 극딜 바이 전략\" 🥊💥",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "22:37",
-            "view_count": "139115",
-            "thumbnail_url": "https://i.ytimg.com/vi/a3Ois43PLk4/hqdefault.jpg"
         },
         {
             "video_id": "iNRoCGpEwww",
@@ -223,26 +223,8 @@
             "channel_name": "Tei - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "1153244",
+            "view_count": "1167538",
             "thumbnail_url": "https://i.ytimg.com/vi/iNRoCGpEwww/hqdefault.jpg"
-        },
-        {
-            "video_id": "_Cb5Zs0q1DI",
-            "title": "몰입감 200% 죽느냐 사느냐 선택지 게임",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "1:15:42",
-            "view_count": "202568",
-            "thumbnail_url": "https://i.ytimg.com/vi/_Cb5Zs0q1DI/hqdefault.jpg"
-        },
-        {
-            "video_id": "Rh2eyozpQiQ",
-            "title": "After Losing You",
-            "channel_name": "J-Cera - Topic",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "11035",
-            "thumbnail_url": "https://i.ytimg.com/vi/Rh2eyozpQiQ/hqdefault.jpg"
         },
         {
             "video_id": "_nlNFx-zfQM",
@@ -250,17 +232,35 @@
             "channel_name": "이루의 마인크래프트",
             "category": "Gaming",
             "duration": "22:52",
-            "view_count": "124663",
+            "view_count": "129868",
             "thumbnail_url": "https://i.ytimg.com/vi/_nlNFx-zfQM/hqdefault.jpg"
         },
         {
-            "video_id": "2EvajyWzz9Y",
-            "title": "\"왜 딜량이 항상 꼴찌에요? Lck 우승보다 더 힘든 이상호 교육에 결국 포기해버린 피넛..!",
-            "channel_name": "이상호",
+            "video_id": "Rh2eyozpQiQ",
+            "title": "After Losing You",
+            "channel_name": "J-Cera - Topic",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "11646",
+            "thumbnail_url": "https://i.ytimg.com/vi/Rh2eyozpQiQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "_Cb5Zs0q1DI",
+            "title": "몰입감 200% 죽느냐 사느냐 선택지 게임",
+            "channel_name": "우주하마",
             "category": "Gaming",
-            "duration": "25:20",
-            "view_count": "265118",
-            "thumbnail_url": "https://i.ytimg.com/vi/2EvajyWzz9Y/hqdefault.jpg"
+            "duration": "1:15:42",
+            "view_count": "207179",
+            "thumbnail_url": "https://i.ytimg.com/vi/_Cb5Zs0q1DI/hqdefault.jpg"
+        },
+        {
+            "video_id": "a3Ois43PLk4",
+            "title": "바이는 이제부터 탑챔프입니다. 버프로 떡상해버린 미친 딜뽕 \"탑 극딜 바이 전략\" 🥊💥",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "22:37",
+            "view_count": "141769",
+            "thumbnail_url": "https://i.ytimg.com/vi/a3Ois43PLk4/hqdefault.jpg"
         },
         {
             "video_id": "cvZIz1MWTP4",
@@ -268,8 +268,17 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "15:15",
-            "view_count": "140202",
+            "view_count": "142852",
             "thumbnail_url": "https://i.ytimg.com/vi/cvZIz1MWTP4/hqdefault.jpg"
+        },
+        {
+            "video_id": "2EvajyWzz9Y",
+            "title": "\"왜 딜량이 항상 꼴찌에요? Lck 우승보다 더 힘든 이상호 교육에 결국 포기해버린 피넛..!",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "25:20",
+            "view_count": "267054",
+            "thumbnail_url": "https://i.ytimg.com/vi/2EvajyWzz9Y/hqdefault.jpg"
         },
         {
             "video_id": "s4HzpESgz1s",
@@ -277,7 +286,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "58:59",
-            "view_count": "190070",
+            "view_count": "192750",
             "thumbnail_url": "https://i.ytimg.com/vi/s4HzpESgz1s/hqdefault.jpg"
         },
         {
@@ -286,7 +295,7 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "15:19",
-            "view_count": "86628",
+            "view_count": "93901",
             "thumbnail_url": "https://i.ytimg.com/vi/EIFNpxUtqMg/hqdefault.jpg"
         },
         {
@@ -295,8 +304,17 @@
             "channel_name": "태산군주 TV",
             "category": "Gaming",
             "duration": "10:17",
-            "view_count": "164457",
+            "view_count": "165281",
             "thumbnail_url": "https://i.ytimg.com/vi/ojkwl39aOj0/hqdefault.jpg"
+        },
+        {
+            "video_id": "P3s2H1I7Bvc",
+            "title": "포기 하지 말 것",
+            "channel_name": "Official dopa",
+            "category": "Gaming",
+            "duration": "41:03",
+            "view_count": "63602",
+            "thumbnail_url": "https://i.ytimg.com/vi/P3s2H1I7Bvc/hqdefault.jpg"
         },
         {
             "video_id": "HT_iwDZYUy8",
@@ -304,17 +322,8 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "30:19",
-            "view_count": "238027",
+            "view_count": "239738",
             "thumbnail_url": "https://i.ytimg.com/vi/HT_iwDZYUy8/hqdefault.jpg"
-        },
-        {
-            "video_id": "7Ym55E7XkvE",
-            "title": "[리니지클래식 LIVE] 수삼킹 9크로,9장궁 2도류 6셋 지존요정 ㄷㄷ",
-            "channel_name": "은범",
-            "category": "Gaming",
-            "duration": "2:42:55",
-            "view_count": "47825",
-            "thumbnail_url": "https://i.ytimg.com/vi/7Ym55E7XkvE/hqdefault.jpg"
         },
         {
             "video_id": "UoMGYQAVN6k",
@@ -322,17 +331,17 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "29:23",
-            "view_count": "108163",
+            "view_count": "111429",
             "thumbnail_url": "https://i.ytimg.com/vi/UoMGYQAVN6k/hqdefault.jpg"
         },
         {
-            "video_id": "ztbcIylfd1k",
-            "title": "[ 리니지클래식 재범군주 ] 9일본도 9양검 힘기사 삼도류    #리니지클래식   #불도그 #빅보스 #수삼티비",
-            "channel_name": "재범군주",
+            "video_id": "7Ym55E7XkvE",
+            "title": "[리니지클래식 LIVE] 수삼킹 9크로,9장궁 2도류 6셋 지존요정 ㄷㄷ",
+            "channel_name": "은범",
             "category": "Gaming",
-            "duration": "4:48:26",
-            "view_count": "78285",
-            "thumbnail_url": "https://i.ytimg.com/vi/ztbcIylfd1k/hqdefault.jpg"
+            "duration": "2:42:55",
+            "view_count": "48232",
+            "thumbnail_url": "https://i.ytimg.com/vi/7Ym55E7XkvE/hqdefault.jpg"
         },
         {
             "video_id": "icTDcWEAxmA",
@@ -340,8 +349,26 @@
             "channel_name": "피넛",
             "category": "Gaming",
             "duration": "17:04",
-            "view_count": "98441",
+            "view_count": "103805",
             "thumbnail_url": "https://i.ytimg.com/vi/icTDcWEAxmA/hqdefault.jpg"
+        },
+        {
+            "video_id": "bbofXaxQtWo",
+            "title": "타곤의 신이 강림한 역대급 레전드 사기판",
+            "channel_name": "전쓰트의 게임 채널 Junsst",
+            "category": "Gaming",
+            "duration": "15:19",
+            "view_count": "57897",
+            "thumbnail_url": "https://i.ytimg.com/vi/bbofXaxQtWo/hqdefault.jpg"
+        },
+        {
+            "video_id": "2Y-ofsqaNH4",
+            "title": "소과금 숏창이 드디어 멤버십 역대급 강화보호권 인생역전ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "15:13",
+            "view_count": "52701",
+            "thumbnail_url": "https://i.ytimg.com/vi/2Y-ofsqaNH4/hqdefault.jpg"
         },
         {
             "video_id": "pS180YhursA",
@@ -349,35 +376,8 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "16:06",
-            "view_count": "280271",
+            "view_count": "283922",
             "thumbnail_url": "https://i.ytimg.com/vi/pS180YhursA/hqdefault.jpg"
-        },
-        {
-            "video_id": "asuBLXV78mc",
-            "title": "설날 기념 미친 방법으로 스튜 2026개 만들기! (로블록스 99나이트인더포레스트)",
-            "channel_name": "마쟈TV",
-            "category": "Gaming",
-            "duration": "13:24",
-            "view_count": "91576",
-            "thumbnail_url": "https://i.ytimg.com/vi/asuBLXV78mc/hqdefault.jpg"
-        },
-        {
-            "video_id": "F6rIRlpxbhU",
-            "title": "여정의 끝",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "26:18",
-            "view_count": "240048",
-            "thumbnail_url": "https://i.ytimg.com/vi/F6rIRlpxbhU/hqdefault.jpg"
-        },
-        {
-            "video_id": "2atVLAVS6i4",
-            "title": "초깜찍 북극여우의 나만의 집짓기 챌린지",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "27:36",
-            "view_count": "136288",
-            "thumbnail_url": "https://i.ytimg.com/vi/2atVLAVS6i4/hqdefault.jpg"
         }
     ]
 }
