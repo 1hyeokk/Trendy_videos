@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-19 18:51:45",
+    "scraped_time": "2026-02-19 19:48:51",
     "videos": [
         {
             "video_id": "yfKBI5l81-A",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "378274",
+            "view_count": "382366",
             "thumbnail_url": "https://i.ytimg.com/vi/yfKBI5l81-A/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:48",
-            "view_count": "129726",
+            "view_count": "138018",
             "thumbnail_url": "https://i.ytimg.com/vi/ZnS0sRSWPuc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "스트리머 사또 live-streamer satto",
             "category": "Gaming",
             "duration": "5:05:38",
-            "view_count": "238959",
+            "view_count": "239695",
             "thumbnail_url": "https://i.ytimg.com/vi/H7-RjSPO_dg/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "RIIZE - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "43356",
+            "view_count": "44436",
             "thumbnail_url": "https://i.ytimg.com/vi/aVJwmhuzF4w/hqdefault.jpg"
         },
         {
@@ -43,26 +43,8 @@
             "channel_name": "Star Wars Korea",
             "category": "Film & Animation",
             "duration": "2:12",
-            "view_count": "150810",
+            "view_count": "156630",
             "thumbnail_url": "https://i.ytimg.com/vi/3GN7DfLqUKM/hqdefault.jpg"
-        },
-        {
-            "video_id": "0_lnbmaC7xo",
-            "title": "리니지 클래식 데포 9요방없는 기사입니다.",
-            "channel_name": "누리형",
-            "category": "Gaming",
-            "duration": "4:20:53",
-            "view_count": "194810",
-            "thumbnail_url": "https://i.ytimg.com/vi/0_lnbmaC7xo/hqdefault.jpg"
-        },
-        {
-            "video_id": "LPL1fozVrIw",
-            "title": "전지우 - 'Home Sweet Home' MV",
-            "channel_name": "KARD",
-            "category": "Music",
-            "duration": "3:13",
-            "view_count": "268861",
-            "thumbnail_url": "https://i.ytimg.com/vi/LPL1fozVrIw/hqdefault.jpg"
         },
         {
             "video_id": "BARH2icwCOg",
@@ -70,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:19",
-            "view_count": "384664",
+            "view_count": "392707",
             "thumbnail_url": "https://i.ytimg.com/vi/BARH2icwCOg/hqdefault.jpg"
         },
         {
@@ -79,17 +61,35 @@
             "channel_name": "NCT",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "158470",
+            "view_count": "161628",
             "thumbnail_url": "https://i.ytimg.com/vi/ta5V2k8lf8s/hqdefault.jpg"
         },
         {
-            "video_id": "0xdmftwzE3I",
-            "title": "겜방출근🔴리니지 라인의기본, 전투전술의 이해 10시에 디코 모여라 리니지클래식 데포로쥬🎈겜방 자리 많습니다",
-            "channel_name": "만만",
+            "video_id": "mCUAe-UI0tk",
+            "title": "허기워기 추격씬이 다시 돌아왔다고..?[파피 플레이 타임 5]",
+            "channel_name": "김왼팔",
             "category": "Gaming",
-            "duration": "2:54:27",
-            "view_count": "310268",
-            "thumbnail_url": "https://i.ytimg.com/vi/0xdmftwzE3I/hqdefault.jpg"
+            "duration": "48:13",
+            "view_count": "134564",
+            "thumbnail_url": "https://i.ytimg.com/vi/mCUAe-UI0tk/hqdefault.jpg"
+        },
+        {
+            "video_id": "LPL1fozVrIw",
+            "title": "전지우 - 'Home Sweet Home' MV",
+            "channel_name": "KARD",
+            "category": "Music",
+            "duration": "3:13",
+            "view_count": "270179",
+            "thumbnail_url": "https://i.ytimg.com/vi/LPL1fozVrIw/hqdefault.jpg"
+        },
+        {
+            "video_id": "0_lnbmaC7xo",
+            "title": "리니지 클래식 데포 9요방없는 기사입니다.",
+            "channel_name": "누리형",
+            "category": "Gaming",
+            "duration": "4:20:53",
+            "view_count": "195341",
+            "thumbnail_url": "https://i.ytimg.com/vi/0_lnbmaC7xo/hqdefault.jpg"
         },
         {
             "video_id": "5px5x_HZjd0",
@@ -97,7 +97,7 @@
             "channel_name": "TOMORROW X TOGETHER OFFICIAL",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "146522",
+            "view_count": "149054",
             "thumbnail_url": "https://i.ytimg.com/vi/5px5x_HZjd0/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "푸린",
             "category": "Gaming",
             "duration": "3:23:39",
-            "view_count": "147861",
+            "view_count": "173570",
             "thumbnail_url": "https://i.ytimg.com/vi/Gt5idmC6tp0/hqdefault.jpg"
         },
         {
@@ -115,17 +115,17 @@
             "channel_name": "KCM - Topic",
             "category": "Music",
             "duration": "4:58",
-            "view_count": "9537",
+            "view_count": "9982",
             "thumbnail_url": "https://i.ytimg.com/vi/nOhn3dnCYsw/hqdefault.jpg"
         },
         {
-            "video_id": "mCUAe-UI0tk",
-            "title": "허기워기 추격씬이 다시 돌아왔다고..?[파피 플레이 타임 5]",
-            "channel_name": "김왼팔",
+            "video_id": "0xdmftwzE3I",
+            "title": "겜방출근🔴리니지 라인의기본, 전투전술의 이해 10시에 디코 모여라 리니지클래식 데포로쥬🎈겜방 자리 많습니다",
+            "channel_name": "만만",
             "category": "Gaming",
-            "duration": "48:13",
-            "view_count": "119863",
-            "thumbnail_url": "https://i.ytimg.com/vi/mCUAe-UI0tk/hqdefault.jpg"
+            "duration": "2:54:27",
+            "view_count": "311486",
+            "thumbnail_url": "https://i.ytimg.com/vi/0xdmftwzE3I/hqdefault.jpg"
         },
         {
             "video_id": "KyHXIccVgS8",
@@ -133,7 +133,7 @@
             "channel_name": "순순희",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "42042",
+            "view_count": "42648",
             "thumbnail_url": "https://i.ytimg.com/vi/KyHXIccVgS8/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "대타맨",
             "category": "Gaming",
             "duration": "7:05:59",
-            "view_count": "262023",
+            "view_count": "267218",
             "thumbnail_url": "https://i.ytimg.com/vi/x0xGYpwCE0k/hqdefault.jpg"
         },
         {
@@ -151,8 +151,26 @@
             "channel_name": "Sungtae (Postmen) - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "405789",
+            "view_count": "408138",
             "thumbnail_url": "https://i.ytimg.com/vi/MWHtUeY3y34/hqdefault.jpg"
+        },
+        {
+            "video_id": "kdd35HjQYwM",
+            "title": "리니지 클래식 100킬 지옥? 이게 뭡니까! 하기 싫어지네요... 원큐 활피단이 돌아왔다 3부 #원큐 #리니지클래식 #oneq #dnjszb",
+            "channel_name": "원큐",
+            "category": "Gaming",
+            "duration": "9:30",
+            "view_count": "156604",
+            "thumbnail_url": "https://i.ytimg.com/vi/kdd35HjQYwM/hqdefault.jpg"
+        },
+        {
+            "video_id": "849QAMVWkvM",
+            "title": "STAY on FIRE (feat. DEAN)",
+            "channel_name": "Sik-K - Topic",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "4085",
+            "thumbnail_url": "https://i.ytimg.com/vi/849QAMVWkvM/hqdefault.jpg"
         },
         {
             "video_id": "Te-hyereiSw",
@@ -160,7 +178,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "16:44",
-            "view_count": "307229",
+            "view_count": "308834",
             "thumbnail_url": "https://i.ytimg.com/vi/Te-hyereiSw/hqdefault.jpg"
         },
         {
@@ -169,26 +187,8 @@
             "channel_name": "J-Cera - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "21749",
+            "view_count": "22469",
             "thumbnail_url": "https://i.ytimg.com/vi/Rh2eyozpQiQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "kdd35HjQYwM",
-            "title": "리니지 클래식 100킬 지옥? 이게 뭡니까! 하기 싫어지네요... 원큐 활피단이 돌아왔다 3부 #원큐 #리니지클래식 #oneq #dnjszb",
-            "channel_name": "원큐",
-            "category": "Gaming",
-            "duration": "9:30",
-            "view_count": "154663",
-            "thumbnail_url": "https://i.ytimg.com/vi/kdd35HjQYwM/hqdefault.jpg"
-        },
-        {
-            "video_id": "Tu_Zvj-TRFA",
-            "title": "tuki. 『コトノハ - Kotonoha』Official Music Video",
-            "channel_name": "tuki.(16)",
-            "category": "Music",
-            "duration": "4:00",
-            "view_count": "115262",
-            "thumbnail_url": "https://i.ytimg.com/vi/Tu_Zvj-TRFA/hqdefault.jpg"
         },
         {
             "video_id": "9zR71FrYwnM",
@@ -196,17 +196,17 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "42:24",
-            "view_count": "159553",
+            "view_count": "164056",
             "thumbnail_url": "https://i.ytimg.com/vi/9zR71FrYwnM/hqdefault.jpg"
         },
         {
-            "video_id": "_bF8oCG0x2c",
-            "title": "I thought it was all about money (feat. Gist)",
-            "channel_name": "TimeFeveR - Topic",
+            "video_id": "Tu_Zvj-TRFA",
+            "title": "tuki. 『コトノハ - Kotonoha』Official Music Video",
+            "channel_name": "tuki.(16)",
             "category": "Music",
-            "duration": "2:55",
-            "view_count": "31022",
-            "thumbnail_url": "https://i.ytimg.com/vi/_bF8oCG0x2c/hqdefault.jpg"
+            "duration": "4:00",
+            "view_count": "119161",
+            "thumbnail_url": "https://i.ytimg.com/vi/Tu_Zvj-TRFA/hqdefault.jpg"
         },
         {
             "video_id": "JnhdXNdlTPs",
@@ -214,17 +214,17 @@
             "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
             "duration": "15:04",
-            "view_count": "216547",
+            "view_count": "219299",
             "thumbnail_url": "https://i.ytimg.com/vi/JnhdXNdlTPs/hqdefault.jpg"
         },
         {
-            "video_id": "NW6olUR350I",
-            "title": "you",
-            "channel_name": "문수진 Moon Sujin - Topic",
+            "video_id": "_bF8oCG0x2c",
+            "title": "I thought it was all about money (feat. Gist)",
+            "channel_name": "TimeFeveR - Topic",
             "category": "Music",
-            "duration": "2:50",
-            "view_count": "56424",
-            "thumbnail_url": "https://i.ytimg.com/vi/NW6olUR350I/hqdefault.jpg"
+            "duration": "2:55",
+            "view_count": "32065",
+            "thumbnail_url": "https://i.ytimg.com/vi/_bF8oCG0x2c/hqdefault.jpg"
         },
         {
             "video_id": "2TASDg_s3hQ",
@@ -232,26 +232,17 @@
             "channel_name": "피넛",
             "category": "Gaming",
             "duration": "27:44",
-            "view_count": "135394",
+            "view_count": "137611",
             "thumbnail_url": "https://i.ytimg.com/vi/2TASDg_s3hQ/hqdefault.jpg"
         },
         {
-            "video_id": "Gc4dBFrjidg",
-            "title": "[최신가요 실시간 인기차트] 🔥👠 2026년 2월 18일 3주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
-            "channel_name": "Yeo Doll",
+            "video_id": "NW6olUR350I",
+            "title": "you",
+            "channel_name": "문수진 Moon Sujin - Topic",
             "category": "Music",
-            "duration": "12:16:43",
-            "view_count": "6566",
-            "thumbnail_url": "https://i.ytimg.com/vi/Gc4dBFrjidg/hqdefault.jpg"
-        },
-        {
-            "video_id": "vhD2rv_P8WE",
-            "title": "[ 2. 18 live ] 리니지 클래식 : 9장궁, 소울 요정, 활피단 혈원모집! 도그형 6강부 감사해요~알라뷰!",
-            "channel_name": "수삼티비",
-            "category": "Gaming",
-            "duration": "3:18:18",
-            "view_count": "197973",
-            "thumbnail_url": "https://i.ytimg.com/vi/vhD2rv_P8WE/hqdefault.jpg"
+            "duration": "2:50",
+            "view_count": "57566",
+            "thumbnail_url": "https://i.ytimg.com/vi/NW6olUR350I/hqdefault.jpg"
         },
         {
             "video_id": "NUudM_s0F58",
@@ -259,8 +250,17 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "21:04",
-            "view_count": "170977",
+            "view_count": "172935",
             "thumbnail_url": "https://i.ytimg.com/vi/NUudM_s0F58/hqdefault.jpg"
+        },
+        {
+            "video_id": "Gc4dBFrjidg",
+            "title": "[최신가요 실시간 인기차트] 🔥👠 2026년 2월 18일 3주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
+            "channel_name": "Yeo Doll",
+            "category": "Music",
+            "duration": "12:16:43",
+            "view_count": "7891",
+            "thumbnail_url": "https://i.ytimg.com/vi/Gc4dBFrjidg/hqdefault.jpg"
         },
         {
             "video_id": "lgytOGxVls0",
@@ -268,7 +268,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "40:14",
-            "view_count": "201822",
+            "view_count": "205563",
             "thumbnail_url": "https://i.ytimg.com/vi/lgytOGxVls0/hqdefault.jpg"
         },
         {
@@ -277,8 +277,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "37:59",
-            "view_count": "168352",
+            "view_count": "171642",
             "thumbnail_url": "https://i.ytimg.com/vi/aLJ0F1HXwH8/hqdefault.jpg"
+        },
+        {
+            "video_id": "vhD2rv_P8WE",
+            "title": "[ 2. 18 live ] 리니지 클래식 : 9장궁, 소울 요정, 활피단 혈원모집! 도그형 6강부 감사해요~알라뷰!",
+            "channel_name": "수삼티비",
+            "category": "Gaming",
+            "duration": "3:18:18",
+            "view_count": "198345",
+            "thumbnail_url": "https://i.ytimg.com/vi/vhD2rv_P8WE/hqdefault.jpg"
+        },
+        {
+            "video_id": "PWRcFSN2rZQ",
+            "title": "선넘는 변x 잼민이 여장해서 참교육 해봤습니다ㅋㅋㅋ (라이벌)",
+            "channel_name": "싸모스",
+            "category": "Gaming",
+            "duration": "15:24",
+            "view_count": "83813",
+            "thumbnail_url": "https://i.ytimg.com/vi/PWRcFSN2rZQ/hqdefault.jpg"
         },
         {
             "video_id": "gYIluFiB9RQ",
@@ -286,7 +304,7 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "10:04:08",
-            "view_count": "389113",
+            "view_count": "389210",
             "thumbnail_url": "https://i.ytimg.com/vi/gYIluFiB9RQ/hqdefault.jpg"
         },
         {
@@ -295,7 +313,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "29:42",
-            "view_count": "905638",
+            "view_count": "907683",
             "thumbnail_url": "https://i.ytimg.com/vi/sqNE6ZWoGaA/hqdefault.jpg"
         },
         {
@@ -304,17 +322,8 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "11:04",
-            "view_count": "180871",
+            "view_count": "182446",
             "thumbnail_url": "https://i.ytimg.com/vi/EVMFrzP9rLY/hqdefault.jpg"
-        },
-        {
-            "video_id": "PWRcFSN2rZQ",
-            "title": "선넘는 변x 잼민이 여장해서 참교육 해봤습니다ㅋㅋㅋ (라이벌)",
-            "channel_name": "싸모스",
-            "category": "Gaming",
-            "duration": "15:24",
-            "view_count": "74868",
-            "thumbnail_url": "https://i.ytimg.com/vi/PWRcFSN2rZQ/hqdefault.jpg"
         },
         {
             "video_id": "03_rLHcPRbo",
@@ -322,7 +331,7 @@
             "channel_name": "쏴비TV",
             "category": "Gaming",
             "duration": "2:59:52",
-            "view_count": "101771",
+            "view_count": "103195",
             "thumbnail_url": "https://i.ytimg.com/vi/03_rLHcPRbo/hqdefault.jpg"
         },
         {
@@ -331,7 +340,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "42:40",
-            "view_count": "331356",
+            "view_count": "332847",
             "thumbnail_url": "https://i.ytimg.com/vi/F41rlfsAlVM/hqdefault.jpg"
         },
         {
@@ -340,7 +349,7 @@
             "channel_name": "영래기",
             "category": "Gaming",
             "duration": "36:17",
-            "view_count": "191837",
+            "view_count": "194854",
             "thumbnail_url": "https://i.ytimg.com/vi/4gt4bBnQJKE/hqdefault.jpg"
         },
         {
@@ -349,17 +358,8 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "15:53",
-            "view_count": "144947",
+            "view_count": "146268",
             "thumbnail_url": "https://i.ytimg.com/vi/t16CE0U73KU/hqdefault.jpg"
-        },
-        {
-            "video_id": "WV1m4jL-s64",
-            "title": "별풍선 200만개, 역대급 펀딩에 모두 진심모드 발동한 레전드 CK..",
-            "channel_name": "게임대장봉준",
-            "category": "Gaming",
-            "duration": "46:25",
-            "view_count": "132295",
-            "thumbnail_url": "https://i.ytimg.com/vi/WV1m4jL-s64/hqdefault.jpg"
         },
         {
             "video_id": "G5xiL5S5ICc",
@@ -367,17 +367,17 @@
             "channel_name": "지존조세",
             "category": "Gaming",
             "duration": "8:07",
-            "view_count": "221995",
+            "view_count": "224749",
             "thumbnail_url": "https://i.ytimg.com/vi/G5xiL5S5ICc/hqdefault.jpg"
         },
         {
-            "video_id": "_Qkr-EasgNM",
-            "title": "다들 레벨 좀 귀엽네?ㅋㅋ 추억의 좀비게임을 유튜버 16명과 해봤습니다 [카스온라인]",
-            "channel_name": "악동 김블루",
+            "video_id": "zmzikAPIZ7Y",
+            "title": "상체 vs 하체",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "15:24",
-            "view_count": "191983",
-            "thumbnail_url": "https://i.ytimg.com/vi/_Qkr-EasgNM/hqdefault.jpg"
+            "duration": "23:53",
+            "view_count": "68026",
+            "thumbnail_url": "https://i.ytimg.com/vi/zmzikAPIZ7Y/hqdefault.jpg"
         }
     ]
 }
