@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-20 02:53:47",
+    "scraped_time": "2026-02-20 03:55:03",
     "videos": [
         {
             "video_id": "aq08y9ebFQs",
@@ -7,7 +7,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:57",
-            "view_count": "302018",
+            "view_count": "334865",
             "thumbnail_url": "https://i.ytimg.com/vi/aq08y9ebFQs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:48",
-            "view_count": "196939",
+            "view_count": "202444",
             "thumbnail_url": "https://i.ytimg.com/vi/ZnS0sRSWPuc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "2:08:54",
-            "view_count": "289771",
+            "view_count": "296127",
             "thumbnail_url": "https://i.ytimg.com/vi/-_VrFzYylj4/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Sik-K - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "20952",
+            "view_count": "21976",
             "thumbnail_url": "https://i.ytimg.com/vi/849QAMVWkvM/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "1:53:39",
-            "view_count": "192429",
+            "view_count": "195808",
             "thumbnail_url": "https://i.ytimg.com/vi/2rg2kp7vu7U/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "427551",
+            "view_count": "431108",
             "thumbnail_url": "https://i.ytimg.com/vi/yfKBI5l81-A/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:53",
-            "view_count": "239517",
+            "view_count": "257563",
             "thumbnail_url": "https://i.ytimg.com/vi/zmzikAPIZ7Y/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "RIIZE - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "50337",
+            "view_count": "50731",
             "thumbnail_url": "https://i.ytimg.com/vi/aVJwmhuzF4w/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "김왼팔",
             "category": "Gaming",
             "duration": "48:13",
-            "view_count": "225345",
+            "view_count": "230383",
             "thumbnail_url": "https://i.ytimg.com/vi/mCUAe-UI0tk/hqdefault.jpg"
-        },
-        {
-            "video_id": "ta5V2k8lf8s",
-            "title": "NCT JNJM 엔시티 제노재민 'BOTH SIDES' Trailer",
-            "channel_name": "NCT",
-            "category": "Music",
-            "duration": "3:37",
-            "view_count": "190739",
-            "thumbnail_url": "https://i.ytimg.com/vi/ta5V2k8lf8s/hqdefault.jpg"
-        },
-        {
-            "video_id": "Gt5idmC6tp0",
-            "title": "파피 플레이타임 챕터5 드디어 '프로토타입' 정체가 밝혀졌습니다 ㄷㄷ",
-            "channel_name": "푸린",
-            "category": "Gaming",
-            "duration": "3:23:39",
-            "view_count": "313362",
-            "thumbnail_url": "https://i.ytimg.com/vi/Gt5idmC6tp0/hqdefault.jpg"
         },
         {
             "video_id": "nOhn3dnCYsw",
@@ -106,7 +88,7 @@
             "channel_name": "KCM - Topic",
             "category": "Music",
             "duration": "4:58",
-            "view_count": "13946",
+            "view_count": "14306",
             "thumbnail_url": "https://i.ytimg.com/vi/nOhn3dnCYsw/hqdefault.jpg"
         },
         {
@@ -115,8 +97,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:06",
-            "view_count": "139980",
+            "view_count": "166558",
             "thumbnail_url": "https://i.ytimg.com/vi/-71ncWgsIIw/hqdefault.jpg"
+        },
+        {
+            "video_id": "ta5V2k8lf8s",
+            "title": "NCT JNJM 엔시티 제노재민 'BOTH SIDES' Trailer",
+            "channel_name": "NCT",
+            "category": "Music",
+            "duration": "3:37",
+            "view_count": "192936",
+            "thumbnail_url": "https://i.ytimg.com/vi/ta5V2k8lf8s/hqdefault.jpg"
+        },
+        {
+            "video_id": "Gt5idmC6tp0",
+            "title": "파피 플레이타임 챕터5 드디어 '프로토타입' 정체가 밝혀졌습니다 ㄷㄷ",
+            "channel_name": "푸린",
+            "category": "Gaming",
+            "duration": "3:23:39",
+            "view_count": "323777",
+            "thumbnail_url": "https://i.ytimg.com/vi/Gt5idmC6tp0/hqdefault.jpg"
         },
         {
             "video_id": "LPL1fozVrIw",
@@ -124,7 +124,7 @@
             "channel_name": "KARD",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "275736",
+            "view_count": "276313",
             "thumbnail_url": "https://i.ytimg.com/vi/LPL1fozVrIw/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "1:36:10",
-            "view_count": "227147",
+            "view_count": "265258",
             "thumbnail_url": "https://i.ytimg.com/vi/05NHwP6JmGg/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "SORAN - Topic",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "5201",
+            "view_count": "5328",
             "thumbnail_url": "https://i.ytimg.com/vi/TzvtWF_pGnk/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "스트리머 사또 live-streamer satto",
             "category": "Gaming",
             "duration": "5:05:38",
-            "view_count": "243976",
+            "view_count": "240101",
             "thumbnail_url": "https://i.ytimg.com/vi/H7-RjSPO_dg/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "순순희",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "46729",
+            "view_count": "46935",
             "thumbnail_url": "https://i.ytimg.com/vi/KyHXIccVgS8/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "2:52:18",
-            "view_count": "174014",
+            "view_count": "174405",
             "thumbnail_url": "https://i.ytimg.com/vi/mmX3zAUVfmc/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "TOMORROW X TOGETHER OFFICIAL",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "169997",
+            "view_count": "171562",
             "thumbnail_url": "https://i.ytimg.com/vi/5px5x_HZjd0/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "2:54:27",
-            "view_count": "315576",
+            "view_count": "316059",
             "thumbnail_url": "https://i.ytimg.com/vi/0xdmftwzE3I/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "0:27",
-            "view_count": "18991",
+            "view_count": "19949",
             "thumbnail_url": "https://i.ytimg.com/vi/4LHIzbAQYXg/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "누리형",
             "category": "Gaming",
             "duration": "4:20:53",
-            "view_count": "193953",
+            "view_count": "194165",
             "thumbnail_url": "https://i.ytimg.com/vi/0_lnbmaC7xo/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "PRODUCE 101 JAPAN 新世界",
             "category": "Entertainment",
             "duration": "7:24",
-            "view_count": "407087",
+            "view_count": "420942",
             "thumbnail_url": "https://i.ytimg.com/vi/pXsM6tNT-2U/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "대타맨",
             "category": "Gaming",
             "duration": "7:05:59",
-            "view_count": "292979",
+            "view_count": "294958",
             "thumbnail_url": "https://i.ytimg.com/vi/x0xGYpwCE0k/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "J.Tajor - Topic",
             "category": "Music",
             "duration": "2:25",
-            "view_count": "56722",
+            "view_count": "57971",
             "thumbnail_url": "https://i.ytimg.com/vi/NcnGdzOBWkw/hqdefault.jpg"
         },
         {
@@ -241,71 +241,17 @@
             "channel_name": "쉐어TV",
             "category": "Gaming",
             "duration": "42:24",
-            "view_count": "192635",
+            "view_count": "193302",
             "thumbnail_url": "https://i.ytimg.com/vi/9zR71FrYwnM/hqdefault.jpg"
         },
         {
-            "video_id": "MWHtUeY3y34",
-            "title": "Drinking Alone",
-            "channel_name": "Sungtae (Postmen) - Topic",
+            "video_id": "rqG7tQeW06o",
+            "title": "[MV] ABM - 'Mis-Take RPG' 初音ミク & 重音テト",
+            "channel_name": "AnythingBecomeMoe",
             "category": "Music",
-            "duration": "3:56",
-            "view_count": "420367",
-            "thumbnail_url": "https://i.ytimg.com/vi/MWHtUeY3y34/hqdefault.jpg"
-        },
-        {
-            "video_id": "kdd35HjQYwM",
-            "title": "리니지 클래식 100킬 지옥? 이게 뭡니까! 하기 싫어지네요... 원큐 활피단이 돌아왔다 3부 #원큐 #리니지클래식 #oneq #dnjszb",
-            "channel_name": "원큐",
-            "category": "Gaming",
-            "duration": "9:30",
-            "view_count": "166660",
-            "thumbnail_url": "https://i.ytimg.com/vi/kdd35HjQYwM/hqdefault.jpg"
-        },
-        {
-            "video_id": "imy-14lNijA",
-            "title": "우리 애들이 참 잘해요",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "29:14",
-            "view_count": "119881",
-            "thumbnail_url": "https://i.ytimg.com/vi/imy-14lNijA/hqdefault.jpg"
-        },
-        {
-            "video_id": "G7UP7U661t8",
-            "title": "잘 키운 요들 하나 10요들 부럽지 않다",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "14:36",
-            "view_count": "91485",
-            "thumbnail_url": "https://i.ytimg.com/vi/G7UP7U661t8/hqdefault.jpg"
-        },
-        {
-            "video_id": "hmLgKC-RcSo",
-            "title": "26.02.19(목) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
-            "channel_name": "인피쉰",
-            "category": "Gaming",
-            "duration": "5:14:40",
-            "view_count": "101811",
-            "thumbnail_url": "https://i.ytimg.com/vi/hmLgKC-RcSo/hqdefault.jpg"
-        },
-        {
-            "video_id": "rBkXYSg-tCY",
-            "title": "\"공격력 900, 20레벨 문도 발생💀\" 새시즌 탑 퀘스트로 신이 되어버린 \"탑 거드라 극딜 문도\" 😎💼",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "32:52",
-            "view_count": "90773",
-            "thumbnail_url": "https://i.ytimg.com/vi/rBkXYSg-tCY/hqdefault.jpg"
-        },
-        {
-            "video_id": "PWRcFSN2rZQ",
-            "title": "선넘는 변x 잼민이 여장해서 참교육 해봤습니다ㅋㅋㅋ (라이벌)",
-            "channel_name": "싸모스",
-            "category": "Gaming",
-            "duration": "15:24",
-            "view_count": "123894",
-            "thumbnail_url": "https://i.ytimg.com/vi/PWRcFSN2rZQ/hqdefault.jpg"
+            "duration": "2:32",
+            "view_count": "55852",
+            "thumbnail_url": "https://i.ytimg.com/vi/rqG7tQeW06o/hqdefault.jpg"
         },
         {
             "video_id": "g8HSb_egQ9Y",
@@ -313,8 +259,62 @@
             "channel_name": "수탉",
             "category": "Gaming",
             "duration": "4:46:31",
-            "view_count": "78767",
+            "view_count": "102165",
             "thumbnail_url": "https://i.ytimg.com/vi/g8HSb_egQ9Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "MWHtUeY3y34",
+            "title": "Drinking Alone",
+            "channel_name": "Sungtae (Postmen) - Topic",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "420967",
+            "thumbnail_url": "https://i.ytimg.com/vi/MWHtUeY3y34/hqdefault.jpg"
+        },
+        {
+            "video_id": "imy-14lNijA",
+            "title": "우리 애들이 참 잘해요",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "29:14",
+            "view_count": "127431",
+            "thumbnail_url": "https://i.ytimg.com/vi/imy-14lNijA/hqdefault.jpg"
+        },
+        {
+            "video_id": "rBkXYSg-tCY",
+            "title": "\"공격력 900, 20레벨 문도 발생💀\" 새시즌 탑 퀘스트로 신이 되어버린 \"탑 거드라 극딜 문도\" 😎💼",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "32:52",
+            "view_count": "101756",
+            "thumbnail_url": "https://i.ytimg.com/vi/rBkXYSg-tCY/hqdefault.jpg"
+        },
+        {
+            "video_id": "G7UP7U661t8",
+            "title": "잘 키운 요들 하나 10요들 부럽지 않다",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "14:36",
+            "view_count": "101474",
+            "thumbnail_url": "https://i.ytimg.com/vi/G7UP7U661t8/hqdefault.jpg"
+        },
+        {
+            "video_id": "kdd35HjQYwM",
+            "title": "리니지 클래식 100킬 지옥? 이게 뭡니까! 하기 싫어지네요... 원큐 활피단이 돌아왔다 3부 #원큐 #리니지클래식 #oneq #dnjszb",
+            "channel_name": "원큐",
+            "category": "Gaming",
+            "duration": "9:30",
+            "view_count": "167495",
+            "thumbnail_url": "https://i.ytimg.com/vi/kdd35HjQYwM/hqdefault.jpg"
+        },
+        {
+            "video_id": "hmLgKC-RcSo",
+            "title": "26.02.19(목) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
+            "category": "Gaming",
+            "duration": "5:14:40",
+            "view_count": "110889",
+            "thumbnail_url": "https://i.ytimg.com/vi/hmLgKC-RcSo/hqdefault.jpg"
         },
         {
             "video_id": "synkL9_Unh4",
@@ -322,8 +322,17 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "20:27",
-            "view_count": "79053",
+            "view_count": "87861",
             "thumbnail_url": "https://i.ytimg.com/vi/synkL9_Unh4/hqdefault.jpg"
+        },
+        {
+            "video_id": "PWRcFSN2rZQ",
+            "title": "선넘는 변x 잼민이 여장해서 참교육 해봤습니다ㅋㅋㅋ (라이벌)",
+            "channel_name": "싸모스",
+            "category": "Gaming",
+            "duration": "15:24",
+            "view_count": "124248",
+            "thumbnail_url": "https://i.ytimg.com/vi/PWRcFSN2rZQ/hqdefault.jpg"
         },
         {
             "video_id": "NAL-M4_QKN8",
@@ -331,7 +340,7 @@
             "channel_name": "겜케이",
             "category": "Gaming",
             "duration": "10:42",
-            "view_count": "77475",
+            "view_count": "86628",
             "thumbnail_url": "https://i.ytimg.com/vi/NAL-M4_QKN8/hqdefault.jpg"
         },
         {
@@ -340,8 +349,17 @@
             "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
             "duration": "15:04",
-            "view_count": "237800",
+            "view_count": "237858",
             "thumbnail_url": "https://i.ytimg.com/vi/JnhdXNdlTPs/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZpE4ukkuYqY",
+            "title": "【 탬탬버린 】 - 그냥 동의만 하면 되는 게임인데 왜 동의 안 누르세요 탬탬버린님??",
+            "channel_name": "탬탬버린",
+            "category": "Gaming",
+            "duration": "27:41",
+            "view_count": "119739",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZpE4ukkuYqY/hqdefault.jpg"
         },
         {
             "video_id": "aLJ0F1HXwH8",
@@ -349,7 +367,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "37:59",
-            "view_count": "192141",
+            "view_count": "193647",
             "thumbnail_url": "https://i.ytimg.com/vi/aLJ0F1HXwH8/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "40:14",
-            "view_count": "228509",
+            "view_count": "230007",
             "thumbnail_url": "https://i.ytimg.com/vi/lgytOGxVls0/hqdefault.jpg"
-        },
-        {
-            "video_id": "2TASDg_s3hQ",
-            "title": "비교체험 더 맛있는 신짜오는?",
-            "channel_name": "피넛",
-            "category": "Gaming",
-            "duration": "27:44",
-            "view_count": "147948",
-            "thumbnail_url": "https://i.ytimg.com/vi/2TASDg_s3hQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZpE4ukkuYqY",
-            "title": "【 탬탬버린 】 - 그냥 동의만 하면 되는 게임인데 왜 동의 안 누르세요 탬탬버린님??",
-            "channel_name": "탬탬버린",
-            "category": "Gaming",
-            "duration": "27:41",
-            "view_count": "114779",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZpE4ukkuYqY/hqdefault.jpg"
         }
     ]
 }
