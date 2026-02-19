@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-20 04:39:59",
+    "scraped_time": "2026-02-20 05:36:25",
     "videos": [
         {
             "video_id": "aq08y9ebFQs",
@@ -7,7 +7,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:57",
-            "view_count": "351624",
+            "view_count": "366448",
             "thumbnail_url": "https://i.ytimg.com/vi/aq08y9ebFQs/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:48",
-            "view_count": "205189",
+            "view_count": "208177",
             "thumbnail_url": "https://i.ytimg.com/vi/ZnS0sRSWPuc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "2:08:54",
-            "view_count": "299685",
+            "view_count": "302361",
             "thumbnail_url": "https://i.ytimg.com/vi/-_VrFzYylj4/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Sik-K - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "22497",
+            "view_count": "23146",
             "thumbnail_url": "https://i.ytimg.com/vi/849QAMVWkvM/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "1:53:39",
-            "view_count": "197720",
+            "view_count": "199384",
             "thumbnail_url": "https://i.ytimg.com/vi/2rg2kp7vu7U/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "432815",
+            "view_count": "433926",
             "thumbnail_url": "https://i.ytimg.com/vi/yfKBI5l81-A/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:53",
-            "view_count": "267076",
+            "view_count": "275187",
             "thumbnail_url": "https://i.ytimg.com/vi/zmzikAPIZ7Y/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "RIIZE - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "50886",
+            "view_count": "51064",
             "thumbnail_url": "https://i.ytimg.com/vi/aVJwmhuzF4w/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:06",
-            "view_count": "180060",
+            "view_count": "194279",
             "thumbnail_url": "https://i.ytimg.com/vi/-71ncWgsIIw/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "KCM - Topic",
             "category": "Music",
             "duration": "4:58",
-            "view_count": "14475",
+            "view_count": "14701",
             "thumbnail_url": "https://i.ytimg.com/vi/nOhn3dnCYsw/hqdefault.jpg"
-        },
-        {
-            "video_id": "mCUAe-UI0tk",
-            "title": "허기워기 추격씬이 다시 돌아왔다고..?[파피 플레이 타임 5]",
-            "channel_name": "김왼팔",
-            "category": "Gaming",
-            "duration": "48:13",
-            "view_count": "232433",
-            "thumbnail_url": "https://i.ytimg.com/vi/mCUAe-UI0tk/hqdefault.jpg"
-        },
-        {
-            "video_id": "ta5V2k8lf8s",
-            "title": "NCT JNJM 엔시티 제노재민 'BOTH SIDES' Trailer",
-            "channel_name": "NCT",
-            "category": "Music",
-            "duration": "3:37",
-            "view_count": "194073",
-            "thumbnail_url": "https://i.ytimg.com/vi/ta5V2k8lf8s/hqdefault.jpg"
         },
         {
             "video_id": "05NHwP6JmGg",
@@ -115,8 +97,26 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "1:36:10",
-            "view_count": "289374",
+            "view_count": "310682",
             "thumbnail_url": "https://i.ytimg.com/vi/05NHwP6JmGg/hqdefault.jpg"
+        },
+        {
+            "video_id": "ta5V2k8lf8s",
+            "title": "NCT JNJM 엔시티 제노재민 'BOTH SIDES' Trailer",
+            "channel_name": "NCT",
+            "category": "Music",
+            "duration": "3:37",
+            "view_count": "195132",
+            "thumbnail_url": "https://i.ytimg.com/vi/ta5V2k8lf8s/hqdefault.jpg"
+        },
+        {
+            "video_id": "mCUAe-UI0tk",
+            "title": "허기워기 추격씬이 다시 돌아왔다고..?[파피 플레이 타임 5]",
+            "channel_name": "김왼팔",
+            "category": "Gaming",
+            "duration": "48:13",
+            "view_count": "234543",
+            "thumbnail_url": "https://i.ytimg.com/vi/mCUAe-UI0tk/hqdefault.jpg"
         },
         {
             "video_id": "LPL1fozVrIw",
@@ -124,7 +124,7 @@
             "channel_name": "KARD",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "276611",
+            "view_count": "276889",
             "thumbnail_url": "https://i.ytimg.com/vi/LPL1fozVrIw/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "푸린",
             "category": "Gaming",
             "duration": "3:23:39",
-            "view_count": "329958",
+            "view_count": "335108",
             "thumbnail_url": "https://i.ytimg.com/vi/Gt5idmC6tp0/hqdefault.jpg"
         },
         {
@@ -142,17 +142,17 @@
             "channel_name": "SORAN - Topic",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "5418",
+            "view_count": "5452",
             "thumbnail_url": "https://i.ytimg.com/vi/TzvtWF_pGnk/hqdefault.jpg"
         },
         {
-            "video_id": "MhiycmU2C44",
-            "title": "[리니지 클래식] 리니지 클래식 역사상 레전드 러쉬를 보시려면 클릭하십시오",
-            "channel_name": "스트리머 사또 live-streamer satto",
+            "video_id": "Hv41k3W-aHA",
+            "title": "리니지클래식 지옥이 있어 행복 합니다.  #뱀피르 #SOL #조선협객전클래식 #원큐 #dnjszb #oneq #리니지 2026/02/19",
+            "channel_name": "원큐",
             "category": "Gaming",
-            "duration": "12:36",
-            "view_count": "71576",
-            "thumbnail_url": "https://i.ytimg.com/vi/MhiycmU2C44/hqdefault.jpg"
+            "duration": "11:51:20",
+            "view_count": "215282",
+            "thumbnail_url": "https://i.ytimg.com/vi/Hv41k3W-aHA/hqdefault.jpg"
         },
         {
             "video_id": "KyHXIccVgS8",
@@ -160,17 +160,17 @@
             "channel_name": "순순희",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "47091",
+            "view_count": "47265",
             "thumbnail_url": "https://i.ytimg.com/vi/KyHXIccVgS8/hqdefault.jpg"
         },
         {
-            "video_id": "mmX3zAUVfmc",
-            "title": "[빅보스 2. 19 ] 리니지 클래식 : 6방어구 250만원 구매 (댕 1.3 싸그리 사요)",
-            "channel_name": "빅보스",
+            "video_id": "MhiycmU2C44",
+            "title": "[리니지 클래식] 리니지 클래식 역사상 레전드 러쉬를 보시려면 클릭하십시오",
+            "channel_name": "스트리머 사또 live-streamer satto",
             "category": "Gaming",
-            "duration": "2:52:18",
-            "view_count": "174008",
-            "thumbnail_url": "https://i.ytimg.com/vi/mmX3zAUVfmc/hqdefault.jpg"
+            "duration": "12:36",
+            "view_count": "74258",
+            "thumbnail_url": "https://i.ytimg.com/vi/MhiycmU2C44/hqdefault.jpg"
         },
         {
             "video_id": "5px5x_HZjd0",
@@ -178,17 +178,17 @@
             "channel_name": "TOMORROW X TOGETHER OFFICIAL",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "172405",
+            "view_count": "173165",
             "thumbnail_url": "https://i.ytimg.com/vi/5px5x_HZjd0/hqdefault.jpg"
         },
         {
-            "video_id": "0xdmftwzE3I",
-            "title": "겜방출근🔴리니지 라인의기본, 전투전술의 이해 10시에 디코 모여라 리니지클래식 데포로쥬🎈겜방 자리 많습니다",
-            "channel_name": "만만",
+            "video_id": "mmX3zAUVfmc",
+            "title": "[빅보스 2. 19 ] 리니지 클래식 : 6방어구 250만원 구매 (댕 1.3 싸그리 사요)",
+            "channel_name": "빅보스",
             "category": "Gaming",
-            "duration": "2:54:27",
-            "view_count": "316285",
-            "thumbnail_url": "https://i.ytimg.com/vi/0xdmftwzE3I/hqdefault.jpg"
+            "duration": "2:52:18",
+            "view_count": "174130",
+            "thumbnail_url": "https://i.ytimg.com/vi/mmX3zAUVfmc/hqdefault.jpg"
         },
         {
             "video_id": "4LHIzbAQYXg",
@@ -196,44 +196,8 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "0:27",
-            "view_count": "20400",
+            "view_count": "20783",
             "thumbnail_url": "https://i.ytimg.com/vi/4LHIzbAQYXg/hqdefault.jpg"
-        },
-        {
-            "video_id": "0_lnbmaC7xo",
-            "title": "리니지 클래식 데포 9요방없는 기사입니다.",
-            "channel_name": "누리형",
-            "category": "Gaming",
-            "duration": "4:20:53",
-            "view_count": "194310",
-            "thumbnail_url": "https://i.ytimg.com/vi/0_lnbmaC7xo/hqdefault.jpg"
-        },
-        {
-            "video_id": "pXsM6tNT-2U",
-            "title": "新世界 (SHINSEKAI) | PRODUCE 101 JAPAN 新世界",
-            "channel_name": "PRODUCE 101 JAPAN 新世界",
-            "category": "Entertainment",
-            "duration": "7:24",
-            "view_count": "427102",
-            "thumbnail_url": "https://i.ytimg.com/vi/pXsM6tNT-2U/hqdefault.jpg"
-        },
-        {
-            "video_id": "x0xGYpwCE0k",
-            "title": "와 드디어 나온 파피 플레이타임 챕터 5...",
-            "channel_name": "대타맨",
-            "category": "Gaming",
-            "duration": "7:05:59",
-            "view_count": "296114",
-            "thumbnail_url": "https://i.ytimg.com/vi/x0xGYpwCE0k/hqdefault.jpg"
-        },
-        {
-            "video_id": "rqG7tQeW06o",
-            "title": "[MV] ABM - 'Mis-Take RPG' 初音ミク & 重音テト",
-            "channel_name": "AnythingBecomeMoe",
-            "category": "Music",
-            "duration": "2:32",
-            "view_count": "60623",
-            "thumbnail_url": "https://i.ytimg.com/vi/rqG7tQeW06o/hqdefault.jpg"
         },
         {
             "video_id": "g8HSb_egQ9Y",
@@ -241,8 +205,44 @@
             "channel_name": "수탉",
             "category": "Gaming",
             "duration": "4:46:31",
-            "view_count": "114269",
+            "view_count": "125425",
             "thumbnail_url": "https://i.ytimg.com/vi/g8HSb_egQ9Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "pXsM6tNT-2U",
+            "title": "新世界 (SHINSEKAI) | PRODUCE 101 JAPAN 新世界",
+            "channel_name": "PRODUCE 101 JAPAN 新世界",
+            "category": "Entertainment",
+            "duration": "7:24",
+            "view_count": "432382",
+            "thumbnail_url": "https://i.ytimg.com/vi/pXsM6tNT-2U/hqdefault.jpg"
+        },
+        {
+            "video_id": "0xdmftwzE3I",
+            "title": "겜방출근🔴리니지 라인의기본, 전투전술의 이해 10시에 디코 모여라 리니지클래식 데포로쥬🎈겜방 자리 많습니다",
+            "channel_name": "만만",
+            "category": "Gaming",
+            "duration": "2:54:27",
+            "view_count": "316512",
+            "thumbnail_url": "https://i.ytimg.com/vi/0xdmftwzE3I/hqdefault.jpg"
+        },
+        {
+            "video_id": "rqG7tQeW06o",
+            "title": "[MV] ABM - 'Mis-Take RPG' 初音ミク & 重音テト",
+            "channel_name": "AnythingBecomeMoe",
+            "category": "Music",
+            "duration": "2:32",
+            "view_count": "66543",
+            "thumbnail_url": "https://i.ytimg.com/vi/rqG7tQeW06o/hqdefault.jpg"
+        },
+        {
+            "video_id": "0_lnbmaC7xo",
+            "title": "리니지 클래식 데포 9요방없는 기사입니다.",
+            "channel_name": "누리형",
+            "category": "Gaming",
+            "duration": "4:20:53",
+            "view_count": "194466",
+            "thumbnail_url": "https://i.ytimg.com/vi/0_lnbmaC7xo/hqdefault.jpg"
         },
         {
             "video_id": "NcnGdzOBWkw",
@@ -250,8 +250,17 @@
             "channel_name": "J.Tajor - Topic",
             "category": "Music",
             "duration": "2:25",
-            "view_count": "58763",
+            "view_count": "59371",
             "thumbnail_url": "https://i.ytimg.com/vi/NcnGdzOBWkw/hqdefault.jpg"
+        },
+        {
+            "video_id": "x0xGYpwCE0k",
+            "title": "와 드디어 나온 파피 플레이타임 챕터 5...",
+            "channel_name": "대타맨",
+            "category": "Gaming",
+            "duration": "7:05:59",
+            "view_count": "295549",
+            "thumbnail_url": "https://i.ytimg.com/vi/x0xGYpwCE0k/hqdefault.jpg"
         },
         {
             "video_id": "rBkXYSg-tCY",
@@ -259,26 +268,8 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "32:52",
-            "view_count": "108022",
+            "view_count": "113409",
             "thumbnail_url": "https://i.ytimg.com/vi/rBkXYSg-tCY/hqdefault.jpg"
-        },
-        {
-            "video_id": "MWHtUeY3y34",
-            "title": "Drinking Alone",
-            "channel_name": "Sungtae (Postmen) - Topic",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "421404",
-            "thumbnail_url": "https://i.ytimg.com/vi/MWHtUeY3y34/hqdefault.jpg"
-        },
-        {
-            "video_id": "9zR71FrYwnM",
-            "title": "드디어 직접 등장한 프로토타입과 폭주한 허기워기!!? 새로운 인형들 대거등장!! (파피플레이타임 챕터5 1화)",
-            "channel_name": "쉐어TV",
-            "category": "Gaming",
-            "duration": "42:24",
-            "view_count": "193551",
-            "thumbnail_url": "https://i.ytimg.com/vi/9zR71FrYwnM/hqdefault.jpg"
         },
         {
             "video_id": "G7UP7U661t8",
@@ -286,8 +277,17 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:36",
-            "view_count": "107651",
+            "view_count": "112207",
             "thumbnail_url": "https://i.ytimg.com/vi/G7UP7U661t8/hqdefault.jpg"
+        },
+        {
+            "video_id": "9zR71FrYwnM",
+            "title": "드디어 직접 등장한 프로토타입과 폭주한 허기워기!!? 새로운 인형들 대거등장!! (파피플레이타임 챕터5 1화)",
+            "channel_name": "쉐어TV",
+            "category": "Gaming",
+            "duration": "42:24",
+            "view_count": "193719",
+            "thumbnail_url": "https://i.ytimg.com/vi/9zR71FrYwnM/hqdefault.jpg"
         },
         {
             "video_id": "imy-14lNijA",
@@ -295,26 +295,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "29:14",
-            "view_count": "131972",
+            "view_count": "135350",
             "thumbnail_url": "https://i.ytimg.com/vi/imy-14lNijA/hqdefault.jpg"
-        },
-        {
-            "video_id": "kdd35HjQYwM",
-            "title": "리니지 클래식 100킬 지옥? 이게 뭡니까! 하기 싫어지네요... 원큐 활피단이 돌아왔다 3부 #원큐 #리니지클래식 #oneq #dnjszb",
-            "channel_name": "원큐",
-            "category": "Gaming",
-            "duration": "9:30",
-            "view_count": "166676",
-            "thumbnail_url": "https://i.ytimg.com/vi/kdd35HjQYwM/hqdefault.jpg"
-        },
-        {
-            "video_id": "synkL9_Unh4",
-            "title": "세배해서 돈 버는 맵 또 나옴 ㅋㅋㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "20:27",
-            "view_count": "93020",
-            "thumbnail_url": "https://i.ytimg.com/vi/synkL9_Unh4/hqdefault.jpg"
         },
         {
             "video_id": "NAL-M4_QKN8",
@@ -322,8 +304,17 @@
             "channel_name": "겜케이",
             "category": "Gaming",
             "duration": "10:42",
-            "view_count": "91515",
+            "view_count": "95486",
             "thumbnail_url": "https://i.ytimg.com/vi/NAL-M4_QKN8/hqdefault.jpg"
+        },
+        {
+            "video_id": "synkL9_Unh4",
+            "title": "세배해서 돈 버는 맵 또 나옴 ㅋㅋㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "20:27",
+            "view_count": "96588",
+            "thumbnail_url": "https://i.ytimg.com/vi/synkL9_Unh4/hqdefault.jpg"
         },
         {
             "video_id": "hmLgKC-RcSo",
@@ -331,7 +322,7 @@
             "channel_name": "인피쉰",
             "category": "Gaming",
             "duration": "5:14:40",
-            "view_count": "112080",
+            "view_count": "112968",
             "thumbnail_url": "https://i.ytimg.com/vi/hmLgKC-RcSo/hqdefault.jpg"
         },
         {
@@ -340,7 +331,7 @@
             "channel_name": "싸모스",
             "category": "Gaming",
             "duration": "15:24",
-            "view_count": "124552",
+            "view_count": "124744",
             "thumbnail_url": "https://i.ytimg.com/vi/PWRcFSN2rZQ/hqdefault.jpg"
         },
         {
@@ -349,7 +340,7 @@
             "channel_name": "탬탬버린",
             "category": "Gaming",
             "duration": "27:41",
-            "view_count": "122335",
+            "view_count": "124664",
             "thumbnail_url": "https://i.ytimg.com/vi/ZpE4ukkuYqY/hqdefault.jpg"
         },
         {
@@ -358,7 +349,7 @@
             "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
             "duration": "15:04",
-            "view_count": "238571",
+            "view_count": "239279",
             "thumbnail_url": "https://i.ytimg.com/vi/JnhdXNdlTPs/hqdefault.jpg"
         },
         {
@@ -367,7 +358,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "37:59",
-            "view_count": "194358",
+            "view_count": "195386",
             "thumbnail_url": "https://i.ytimg.com/vi/aLJ0F1HXwH8/hqdefault.jpg"
         },
         {
@@ -376,8 +367,17 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "40:14",
-            "view_count": "230345",
+            "view_count": "231104",
             "thumbnail_url": "https://i.ytimg.com/vi/lgytOGxVls0/hqdefault.jpg"
+        },
+        {
+            "video_id": "2TASDg_s3hQ",
+            "title": "비교체험 더 맛있는 신짜오는?",
+            "channel_name": "피넛",
+            "category": "Gaming",
+            "duration": "27:44",
+            "view_count": "149553",
+            "thumbnail_url": "https://i.ytimg.com/vi/2TASDg_s3hQ/hqdefault.jpg"
         }
     ]
 }
