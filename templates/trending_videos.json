@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-21 01:43:40",
+    "scraped_time": "2026-02-21 02:39:38",
     "videos": [
         {
             "video_id": "F7sGJVUrkjQ",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "3421780",
+            "view_count": "4084011",
             "thumbnail_url": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:48",
-            "view_count": "336177",
+            "view_count": "341455",
             "thumbnail_url": "https://i.ytimg.com/vi/ZnS0sRSWPuc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "대타맨",
             "category": "Gaming",
             "duration": "47:24",
-            "view_count": "286011",
+            "view_count": "313225",
             "thumbnail_url": "https://i.ytimg.com/vi/GhVAFs_sQP8/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:57",
-            "view_count": "964634",
+            "view_count": "1011124",
             "thumbnail_url": "https://i.ytimg.com/vi/aq08y9ebFQs/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Mega Crit",
             "category": "Gaming",
             "duration": "2:23",
-            "view_count": "790947",
+            "view_count": "806558",
             "thumbnail_url": "https://i.ytimg.com/vi/PW22jwFNxU8/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "24:13",
-            "view_count": "327942",
+            "view_count": "336037",
             "thumbnail_url": "https://i.ytimg.com/vi/rQ8egM15jbo/hqdefault.jpg"
         },
         {
@@ -61,44 +61,8 @@
             "channel_name": "Hearts2Hearts - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "173186",
+            "view_count": "192723",
             "thumbnail_url": "https://i.ytimg.com/vi/Q4AE3ub4nBM/hqdefault.jpg"
-        },
-        {
-            "video_id": "05NHwP6JmGg",
-            "title": "이용약관을 잘 읽읍시다",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "1:36:10",
-            "view_count": "587528",
-            "thumbnail_url": "https://i.ytimg.com/vi/05NHwP6JmGg/hqdefault.jpg"
-        },
-        {
-            "video_id": "849QAMVWkvM",
-            "title": "STAY on FIRE (feat. DEAN)",
-            "channel_name": "Sik-K - Topic",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "67803",
-            "thumbnail_url": "https://i.ytimg.com/vi/849QAMVWkvM/hqdefault.jpg"
-        },
-        {
-            "video_id": "-_VrFzYylj4",
-            "title": "리니지클래식 이실로테 레이피어60자루 러쉬 내가 왜 이문주인지 오늘보여줄게",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "2:08:54",
-            "view_count": "337607",
-            "thumbnail_url": "https://i.ytimg.com/vi/-_VrFzYylj4/hqdefault.jpg"
-        },
-        {
-            "video_id": "TzvtWF_pGnk",
-            "title": "Drawing an apple",
-            "channel_name": "SORAN - Topic",
-            "category": "Music",
-            "duration": "2:54",
-            "view_count": "23905",
-            "thumbnail_url": "https://i.ytimg.com/vi/TzvtWF_pGnk/hqdefault.jpg"
         },
         {
             "video_id": "0ssjkUhzqIQ",
@@ -106,8 +70,44 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "2:56:34",
-            "view_count": "188381",
+            "view_count": "225234",
             "thumbnail_url": "https://i.ytimg.com/vi/0ssjkUhzqIQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "849QAMVWkvM",
+            "title": "STAY on FIRE (feat. DEAN)",
+            "channel_name": "Sik-K - Topic",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "69601",
+            "thumbnail_url": "https://i.ytimg.com/vi/849QAMVWkvM/hqdefault.jpg"
+        },
+        {
+            "video_id": "05NHwP6JmGg",
+            "title": "이용약관을 잘 읽읍시다",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "1:36:10",
+            "view_count": "596794",
+            "thumbnail_url": "https://i.ytimg.com/vi/05NHwP6JmGg/hqdefault.jpg"
+        },
+        {
+            "video_id": "TzvtWF_pGnk",
+            "title": "Drawing an apple",
+            "channel_name": "SORAN - Topic",
+            "category": "Music",
+            "duration": "2:54",
+            "view_count": "24478",
+            "thumbnail_url": "https://i.ytimg.com/vi/TzvtWF_pGnk/hqdefault.jpg"
+        },
+        {
+            "video_id": "DN94cteL_yo",
+            "title": "함께라서 행복합니다 [마크 하드코어 EP.10]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "29:19",
+            "view_count": "166831",
+            "thumbnail_url": "https://i.ytimg.com/vi/DN94cteL_yo/hqdefault.jpg"
         },
         {
             "video_id": "7wHqkJO6yZs",
@@ -115,8 +115,26 @@
             "channel_name": "Hwang In Wook - Topic",
             "category": "Music",
             "duration": "4:08",
-            "view_count": "31398",
+            "view_count": "32422",
             "thumbnail_url": "https://i.ytimg.com/vi/7wHqkJO6yZs/hqdefault.jpg"
+        },
+        {
+            "video_id": "-_VrFzYylj4",
+            "title": "리니지클래식 이실로테 레이피어60자루 러쉬 내가 왜 이문주인지 오늘보여줄게",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "2:08:54",
+            "view_count": "337847",
+            "thumbnail_url": "https://i.ytimg.com/vi/-_VrFzYylj4/hqdefault.jpg"
+        },
+        {
+            "video_id": "aD7Qj8N_0DE",
+            "title": "[TWS:TUDIO] 'Polaroid Love - ENHYPEN' l Covered by TWS HANJIN",
+            "channel_name": "TWS",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "97934",
+            "thumbnail_url": "https://i.ytimg.com/vi/aD7Qj8N_0DE/hqdefault.jpg"
         },
         {
             "video_id": "g8HSb_egQ9Y",
@@ -124,7 +142,7 @@
             "channel_name": "수탉",
             "category": "Gaming",
             "duration": "4:46:31",
-            "view_count": "337073",
+            "view_count": "348240",
             "thumbnail_url": "https://i.ytimg.com/vi/g8HSb_egQ9Y/hqdefault.jpg"
         },
         {
@@ -133,26 +151,8 @@
             "channel_name": "KCM - Topic",
             "category": "Music",
             "duration": "4:58",
-            "view_count": "35873",
+            "view_count": "36376",
             "thumbnail_url": "https://i.ytimg.com/vi/nOhn3dnCYsw/hqdefault.jpg"
-        },
-        {
-            "video_id": "DN94cteL_yo",
-            "title": "함께라서 행복합니다 [마크 하드코어 EP.10]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "29:19",
-            "view_count": "145082",
-            "thumbnail_url": "https://i.ytimg.com/vi/DN94cteL_yo/hqdefault.jpg"
-        },
-        {
-            "video_id": "aD7Qj8N_0DE",
-            "title": "[TWS:TUDIO] 'Polaroid Love - ENHYPEN' l Covered by TWS HANJIN",
-            "channel_name": "TWS",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "87109",
-            "thumbnail_url": "https://i.ytimg.com/vi/aD7Qj8N_0DE/hqdefault.jpg"
         },
         {
             "video_id": "-71ncWgsIIw",
@@ -160,7 +160,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:06",
-            "view_count": "367885",
+            "view_count": "371917",
             "thumbnail_url": "https://i.ytimg.com/vi/-71ncWgsIIw/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "ROSÉ",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "728260",
+            "view_count": "750931",
             "thumbnail_url": "https://i.ytimg.com/vi/Dw3JSLBNf04/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:53",
-            "view_count": "374781",
+            "view_count": "378474",
             "thumbnail_url": "https://i.ytimg.com/vi/zmzikAPIZ7Y/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "AnythingBecomeMoe",
             "category": "Music",
             "duration": "2:32",
-            "view_count": "168390",
+            "view_count": "173443",
             "thumbnail_url": "https://i.ytimg.com/vi/rqG7tQeW06o/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "푸린",
             "category": "Gaming",
             "duration": "3:23:39",
-            "view_count": "459677",
+            "view_count": "462979",
             "thumbnail_url": "https://i.ytimg.com/vi/Gt5idmC6tp0/hqdefault.jpg"
         },
         {
@@ -205,26 +205,8 @@
             "channel_name": "순순희",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "59131",
+            "view_count": "59572",
             "thumbnail_url": "https://i.ytimg.com/vi/KyHXIccVgS8/hqdefault.jpg"
-        },
-        {
-            "video_id": "mCUAe-UI0tk",
-            "title": "허기워기 추격씬이 다시 돌아왔다고..?[파피 플레이 타임 5]",
-            "channel_name": "김왼팔",
-            "category": "Gaming",
-            "duration": "48:13",
-            "view_count": "321432",
-            "thumbnail_url": "https://i.ytimg.com/vi/mCUAe-UI0tk/hqdefault.jpg"
-        },
-        {
-            "video_id": "ISMfYstLvmE",
-            "title": "Call It Love",
-            "channel_name": "IHWAK - Topic",
-            "category": "Music",
-            "duration": "3:34",
-            "view_count": "13563",
-            "thumbnail_url": "https://i.ytimg.com/vi/ISMfYstLvmE/hqdefault.jpg"
         },
         {
             "video_id": "UgFX1wuSdd4",
@@ -232,8 +214,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "1:07:38",
-            "view_count": "131781",
+            "view_count": "141351",
             "thumbnail_url": "https://i.ytimg.com/vi/UgFX1wuSdd4/hqdefault.jpg"
+        },
+        {
+            "video_id": "ISMfYstLvmE",
+            "title": "Call It Love",
+            "channel_name": "IHWAK - Topic",
+            "category": "Music",
+            "duration": "3:34",
+            "view_count": "13993",
+            "thumbnail_url": "https://i.ytimg.com/vi/ISMfYstLvmE/hqdefault.jpg"
+        },
+        {
+            "video_id": "mCUAe-UI0tk",
+            "title": "허기워기 추격씬이 다시 돌아왔다고..?[파피 플레이 타임 5]",
+            "channel_name": "김왼팔",
+            "category": "Gaming",
+            "duration": "48:13",
+            "view_count": "323006",
+            "thumbnail_url": "https://i.ytimg.com/vi/mCUAe-UI0tk/hqdefault.jpg"
         },
         {
             "video_id": "aVJwmhuzF4w",
@@ -241,80 +241,8 @@
             "channel_name": "RIIZE - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "71125",
+            "view_count": "71552",
             "thumbnail_url": "https://i.ytimg.com/vi/aVJwmhuzF4w/hqdefault.jpg"
-        },
-        {
-            "video_id": "MhiycmU2C44",
-            "title": "[리니지 클래식] 리니지 클래식 역사상 레전드 러쉬를 보시려면 클릭하십시오",
-            "channel_name": "스트리머 사또 live-streamer satto",
-            "category": "Gaming",
-            "duration": "12:36",
-            "view_count": "129902",
-            "thumbnail_url": "https://i.ytimg.com/vi/MhiycmU2C44/hqdefault.jpg"
-        },
-        {
-            "video_id": "KHUYBLmRNJk",
-            "title": "[최신가요연속듣기 2026] KPOP 노동요 플레이리스트 🖤 2026년 2월 20일 3주차, 멜론차트 X, 종합차트 노래모음",
-            "channel_name": "Yeo Doll",
-            "category": "Music",
-            "duration": "12:36:16",
-            "view_count": "8732",
-            "thumbnail_url": "https://i.ytimg.com/vi/KHUYBLmRNJk/hqdefault.jpg"
-        },
-        {
-            "video_id": "ALBRk8HJGPQ",
-            "title": "[리니지 클래식] 요정들 다 접고 난리난 이유ㄷㄷ계정 매물 넘친다",
-            "channel_name": "센터로드TV",
-            "category": "Gaming",
-            "duration": "8:55",
-            "view_count": "111111",
-            "thumbnail_url": "https://i.ytimg.com/vi/ALBRk8HJGPQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "pXsM6tNT-2U",
-            "title": "新世界 (SHINSEKAI) | PRODUCE 101 JAPAN 新世界",
-            "channel_name": "PRODUCE 101 JAPAN 新世界",
-            "category": "Entertainment",
-            "duration": "7:24",
-            "view_count": "690449",
-            "thumbnail_url": "https://i.ytimg.com/vi/pXsM6tNT-2U/hqdefault.jpg"
-        },
-        {
-            "video_id": "FOItXOqNgcg",
-            "title": "이번 샤타포스... 뭔가 이상한 것 같습니다 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "14:37",
-            "view_count": "119150",
-            "thumbnail_url": "https://i.ytimg.com/vi/FOItXOqNgcg/hqdefault.jpg"
-        },
-        {
-            "video_id": "RsP3ycsFzZ0",
-            "title": "[2026 DREAM WEEK] TXT (투모로우바이투게더) 'OUR FIRST PAGE'",
-            "channel_name": "TOMORROW X TOGETHER OFFICIAL",
-            "category": "Music",
-            "duration": "2:01",
-            "view_count": "65112",
-            "thumbnail_url": "https://i.ytimg.com/vi/RsP3ycsFzZ0/hqdefault.jpg"
-        },
-        {
-            "video_id": "9lM726af0sY",
-            "title": "챔스 신규팩 떴다! 녹아웃팩 개사기 본캐 500만원 확률검증;;",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "42:23",
-            "view_count": "96892",
-            "thumbnail_url": "https://i.ytimg.com/vi/9lM726af0sY/hqdefault.jpg"
-        },
-        {
-            "video_id": "LPL1fozVrIw",
-            "title": "전지우 - 'Home Sweet Home' MV",
-            "channel_name": "KARD",
-            "category": "Music",
-            "duration": "3:13",
-            "view_count": "299639",
-            "thumbnail_url": "https://i.ytimg.com/vi/LPL1fozVrIw/hqdefault.jpg"
         },
         {
             "video_id": "SUyx53dp6dI",
@@ -322,26 +250,62 @@
             "channel_name": "고스트햄",
             "category": "Gaming",
             "duration": "18:56",
-            "view_count": "89673",
+            "view_count": "107714",
             "thumbnail_url": "https://i.ytimg.com/vi/SUyx53dp6dI/hqdefault.jpg"
         },
         {
-            "video_id": "TlViqhBA1Jo",
-            "title": "DK vs DNS | 2026 LCK CUP Playoffs",
-            "channel_name": "LCK Global",
-            "category": "Gaming",
-            "duration": "4:24:31",
-            "view_count": "610928",
-            "thumbnail_url": "https://i.ytimg.com/vi/TlViqhBA1Jo/hqdefault.jpg"
+            "video_id": "KHUYBLmRNJk",
+            "title": "[최신가요연속듣기 2026] KPOP 노동요 플레이리스트 🖤 2026년 2월 20일 3주차, 멜론차트 X, 종합차트 노래모음",
+            "channel_name": "Yeo Doll",
+            "category": "Music",
+            "duration": "12:36:16",
+            "view_count": "8946",
+            "thumbnail_url": "https://i.ytimg.com/vi/KHUYBLmRNJk/hqdefault.jpg"
         },
         {
-            "video_id": "NtL4DTmbVDg",
-            "title": "[리니지 클래식] 9검 7셋 용사! 방어구 -70방 기사 인사 드립니다! (ft.사또)",
-            "channel_name": "누리형",
+            "video_id": "FOItXOqNgcg",
+            "title": "이번 샤타포스... 뭔가 이상한 것 같습니다 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "11:11",
-            "view_count": "90063",
-            "thumbnail_url": "https://i.ytimg.com/vi/NtL4DTmbVDg/hqdefault.jpg"
+            "duration": "14:37",
+            "view_count": "127698",
+            "thumbnail_url": "https://i.ytimg.com/vi/FOItXOqNgcg/hqdefault.jpg"
+        },
+        {
+            "video_id": "ALBRk8HJGPQ",
+            "title": "[리니지 클래식] 요정들 다 접고 난리난 이유ㄷㄷ계정 매물 넘친다",
+            "channel_name": "센터로드TV",
+            "category": "Gaming",
+            "duration": "8:55",
+            "view_count": "114141",
+            "thumbnail_url": "https://i.ytimg.com/vi/ALBRk8HJGPQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "MhiycmU2C44",
+            "title": "[리니지 클래식] 리니지 클래식 역사상 레전드 러쉬를 보시려면 클릭하십시오",
+            "channel_name": "스트리머 사또 live-streamer satto",
+            "category": "Gaming",
+            "duration": "12:36",
+            "view_count": "131071",
+            "thumbnail_url": "https://i.ytimg.com/vi/MhiycmU2C44/hqdefault.jpg"
+        },
+        {
+            "video_id": "9lM726af0sY",
+            "title": "챔스 신규팩 떴다! 녹아웃팩 개사기 본캐 500만원 확률검증;;",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "42:23",
+            "view_count": "99866",
+            "thumbnail_url": "https://i.ytimg.com/vi/9lM726af0sY/hqdefault.jpg"
+        },
+        {
+            "video_id": "TJTpb0JO6cg",
+            "title": "26.02.20(금) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
+            "category": "Gaming",
+            "duration": "5:46:06",
+            "view_count": "91666",
+            "thumbnail_url": "https://i.ytimg.com/vi/TJTpb0JO6cg/hqdefault.jpg"
         },
         {
             "video_id": "G2hI-fFsu4A",
@@ -349,17 +313,17 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "39:24",
-            "view_count": "89078",
+            "view_count": "98898",
             "thumbnail_url": "https://i.ytimg.com/vi/G2hI-fFsu4A/hqdefault.jpg"
         },
         {
-            "video_id": "FK6zxYj-FY4",
-            "title": "【 탬탬버린 】 - 모든 씹덕들을 다 긁어버린 전설의 그 사건",
-            "channel_name": "탬탬버린",
+            "video_id": "NtL4DTmbVDg",
+            "title": "[리니지 클래식] 9검 7셋 용사! 방어구 -70방 기사 인사 드립니다! (ft.사또)",
+            "channel_name": "누리형",
             "category": "Gaming",
-            "duration": "40:01",
-            "view_count": "178113",
-            "thumbnail_url": "https://i.ytimg.com/vi/FK6zxYj-FY4/hqdefault.jpg"
+            "duration": "11:11",
+            "view_count": "98051",
+            "thumbnail_url": "https://i.ytimg.com/vi/NtL4DTmbVDg/hqdefault.jpg"
         },
         {
             "video_id": "ytZ_O41xVJg",
@@ -367,8 +331,35 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "16:46",
-            "view_count": "128145",
+            "view_count": "138653",
             "thumbnail_url": "https://i.ytimg.com/vi/ytZ_O41xVJg/hqdefault.jpg"
+        },
+        {
+            "video_id": "TlViqhBA1Jo",
+            "title": "DK vs DNS | 2026 LCK CUP Playoffs",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "4:24:31",
+            "view_count": "614125",
+            "thumbnail_url": "https://i.ytimg.com/vi/TlViqhBA1Jo/hqdefault.jpg"
+        },
+        {
+            "video_id": "FK6zxYj-FY4",
+            "title": "【 탬탬버린 】 - 모든 씹덕들을 다 긁어버린 전설의 그 사건",
+            "channel_name": "탬탬버린",
+            "category": "Gaming",
+            "duration": "40:01",
+            "view_count": "186919",
+            "thumbnail_url": "https://i.ytimg.com/vi/FK6zxYj-FY4/hqdefault.jpg"
+        },
+        {
+            "video_id": "R7ivtlnpVbE",
+            "title": "바이 그렇게 쓸 거면 하지 마세요",
+            "channel_name": "피넛",
+            "category": "Gaming",
+            "duration": "16:35",
+            "view_count": "88303",
+            "thumbnail_url": "https://i.ytimg.com/vi/R7ivtlnpVbE/hqdefault.jpg"
         },
         {
             "video_id": "HQn2SSpAAVc",
@@ -376,8 +367,17 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "3:16:16",
-            "view_count": "135943",
+            "view_count": "137097",
             "thumbnail_url": "https://i.ytimg.com/vi/HQn2SSpAAVc/hqdefault.jpg"
+        },
+        {
+            "video_id": "synkL9_Unh4",
+            "title": "세배해서 돈 버는 맵 또 나옴 ㅋㅋㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "20:27",
+            "view_count": "180742",
+            "thumbnail_url": "https://i.ytimg.com/vi/synkL9_Unh4/hqdefault.jpg"
         }
     ]
 }
