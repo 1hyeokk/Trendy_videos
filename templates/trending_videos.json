@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-22 22:47:41",
+    "scraped_time": "2026-02-22 23:29:20",
     "videos": [
         {
             "video_id": "F7sGJVUrkjQ",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "12686872",
+            "view_count": "12872125",
             "thumbnail_url": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:48",
-            "view_count": "442848",
+            "view_count": "443788",
             "thumbnail_url": "https://i.ytimg.com/vi/ZnS0sRSWPuc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "AION2",
             "category": "Gaming",
             "duration": "1:10:18",
-            "view_count": "104009",
+            "view_count": "129292",
             "thumbnail_url": "https://i.ytimg.com/vi/fHPxlKnZf6k/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Hearts2Hearts - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "967632",
+            "view_count": "979429",
             "thumbnail_url": "https://i.ytimg.com/vi/Q4AE3ub4nBM/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "2:07:21",
-            "view_count": "185611",
+            "view_count": "188748",
             "thumbnail_url": "https://i.ytimg.com/vi/AGfhcoYSsyM/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:57",
-            "view_count": "1727104",
+            "view_count": "1739950",
             "thumbnail_url": "https://i.ytimg.com/vi/aq08y9ebFQs/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "2:56:34",
-            "view_count": "868740",
+            "view_count": "875748",
             "thumbnail_url": "https://i.ytimg.com/vi/0ssjkUhzqIQ/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "Choi Yu Ree - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "9434",
+            "view_count": "10830",
             "thumbnail_url": "https://i.ytimg.com/vi/wpFFNMTO9dM/hqdefault.jpg"
-        },
-        {
-            "video_id": "YQRv-exhvEk",
-            "title": "피갑옷 제이스",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "20:54",
-            "view_count": "383469",
-            "thumbnail_url": "https://i.ytimg.com/vi/YQRv-exhvEk/hqdefault.jpg"
-        },
-        {
-            "video_id": "7wHqkJO6yZs",
-            "title": "For You",
-            "channel_name": "Hwang In Wook - Topic",
-            "category": "Music",
-            "duration": "4:08",
-            "view_count": "86280",
-            "thumbnail_url": "https://i.ytimg.com/vi/7wHqkJO6yZs/hqdefault.jpg"
         },
         {
             "video_id": "7H787_DXmD0",
@@ -97,8 +79,26 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "2:54:29",
-            "view_count": "194636",
+            "view_count": "203610",
             "thumbnail_url": "https://i.ytimg.com/vi/7H787_DXmD0/hqdefault.jpg"
+        },
+        {
+            "video_id": "7wHqkJO6yZs",
+            "title": "For You",
+            "channel_name": "Hwang In Wook - Topic",
+            "category": "Music",
+            "duration": "4:08",
+            "view_count": "87078",
+            "thumbnail_url": "https://i.ytimg.com/vi/7wHqkJO6yZs/hqdefault.jpg"
+        },
+        {
+            "video_id": "YQRv-exhvEk",
+            "title": "피갑옷 제이스",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "20:54",
+            "view_count": "385570",
+            "thumbnail_url": "https://i.ytimg.com/vi/YQRv-exhvEk/hqdefault.jpg"
         },
         {
             "video_id": "849QAMVWkvM",
@@ -106,7 +106,7 @@
             "channel_name": "Sik-K - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "140385",
+            "view_count": "141425",
             "thumbnail_url": "https://i.ytimg.com/vi/849QAMVWkvM/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "대타맨",
             "category": "Gaming",
             "duration": "15:40",
-            "view_count": "207601",
+            "view_count": "213223",
             "thumbnail_url": "https://i.ytimg.com/vi/vU9S4etl5Rw/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "Monstafluff Music",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "287603",
+            "view_count": "293176",
             "thumbnail_url": "https://i.ytimg.com/vi/6GGBpOn0r-4/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "36:04",
-            "view_count": "167432",
+            "view_count": "171787",
             "thumbnail_url": "https://i.ytimg.com/vi/J6ZXnM1tMX4/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "IHWAK - Topic",
             "category": "Music",
             "duration": "3:34",
-            "view_count": "57273",
+            "view_count": "57892",
             "thumbnail_url": "https://i.ytimg.com/vi/ISMfYstLvmE/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "3:29:07",
-            "view_count": "323311",
+            "view_count": "323597",
             "thumbnail_url": "https://i.ytimg.com/vi/rmwMLOey_z0/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "Kim Sung Kyu - Topic",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "15979",
+            "view_count": "16511",
             "thumbnail_url": "https://i.ytimg.com/vi/3eSG8kH_vCk/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "13:04",
-            "view_count": "308910",
+            "view_count": "311221",
             "thumbnail_url": "https://i.ytimg.com/vi/97c1D5KghWY/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "SORAN - Topic",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "51689",
+            "view_count": "52191",
             "thumbnail_url": "https://i.ytimg.com/vi/TzvtWF_pGnk/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "7:04",
-            "view_count": "86667",
+            "view_count": "92443",
             "thumbnail_url": "https://i.ytimg.com/vi/25yJ6mWt85Y/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "Euphoric.",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "903897",
+            "view_count": "913275",
             "thumbnail_url": "https://i.ytimg.com/vi/C_YnL6kCdUM/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "25:39",
-            "view_count": "345605",
+            "view_count": "348960",
             "thumbnail_url": "https://i.ytimg.com/vi/kU_efMUJS08/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "NMIXX",
             "category": "Entertainment",
             "duration": "2:54",
-            "view_count": "36484",
+            "view_count": "40884",
             "thumbnail_url": "https://i.ytimg.com/vi/GrrMUB9D12g/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "겜케이",
             "category": "Gaming",
             "duration": "11:21",
-            "view_count": "163572",
+            "view_count": "164963",
             "thumbnail_url": "https://i.ytimg.com/vi/BGtwvUbduUo/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "THUNDERZ",
             "category": "Music",
             "duration": "4:27",
-            "view_count": "134149",
+            "view_count": "157843",
             "thumbnail_url": "https://i.ytimg.com/vi/VkajLZ-JdK8/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "프뚜",
             "category": "Gaming",
             "duration": "35:54",
-            "view_count": "276999",
+            "view_count": "279775",
             "thumbnail_url": "https://i.ytimg.com/vi/6Ro_QH2F8w4/hqdefault.jpg"
         },
         {
@@ -250,17 +250,8 @@
             "channel_name": "ROSÉ",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "1552957",
+            "view_count": "1565566",
             "thumbnail_url": "https://i.ytimg.com/vi/Dw3JSLBNf04/hqdefault.jpg"
-        },
-        {
-            "video_id": "YPGpI9ltjbM",
-            "title": "가챠 기계에 갇힌 잠뜰 TV 멤버들의 오합지졸 탈출기",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "44:55",
-            "view_count": "206885",
-            "thumbnail_url": "https://i.ytimg.com/vi/YPGpI9ltjbM/hqdefault.jpg"
         },
         {
             "video_id": "aE4l3FoLBAk",
@@ -268,8 +259,17 @@
             "channel_name": "누리형",
             "category": "Gaming",
             "duration": "2:38:17",
-            "view_count": "124530",
+            "view_count": "125176",
             "thumbnail_url": "https://i.ytimg.com/vi/aE4l3FoLBAk/hqdefault.jpg"
+        },
+        {
+            "video_id": "YPGpI9ltjbM",
+            "title": "가챠 기계에 갇힌 잠뜰 TV 멤버들의 오합지졸 탈출기",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "44:55",
+            "view_count": "209266",
+            "thumbnail_url": "https://i.ytimg.com/vi/YPGpI9ltjbM/hqdefault.jpg"
         },
         {
             "video_id": "yoRtZwP2eLU",
@@ -277,17 +277,8 @@
             "channel_name": "홀릿 Youtube Holit",
             "category": "Gaming",
             "duration": "36:38",
-            "view_count": "125820",
+            "view_count": "129096",
             "thumbnail_url": "https://i.ytimg.com/vi/yoRtZwP2eLU/hqdefault.jpg"
-        },
-        {
-            "video_id": "7dYLa8M-et0",
-            "title": "세배로 돈 겁나 많이 버는 맵 ㅋㅋㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "29:34",
-            "view_count": "166708",
-            "thumbnail_url": "https://i.ytimg.com/vi/7dYLa8M-et0/hqdefault.jpg"
         },
         {
             "video_id": "c1WptDJdpeg",
@@ -295,8 +286,17 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "22:01",
-            "view_count": "83661",
+            "view_count": "94410",
             "thumbnail_url": "https://i.ytimg.com/vi/c1WptDJdpeg/hqdefault.jpg"
+        },
+        {
+            "video_id": "7dYLa8M-et0",
+            "title": "세배로 돈 겁나 많이 버는 맵 ㅋㅋㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "29:34",
+            "view_count": "168557",
+            "thumbnail_url": "https://i.ytimg.com/vi/7dYLa8M-et0/hqdefault.jpg"
         },
         {
             "video_id": "DN94cteL_yo",
@@ -304,7 +304,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "29:19",
-            "view_count": "364273",
+            "view_count": "365459",
             "thumbnail_url": "https://i.ytimg.com/vi/DN94cteL_yo/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "36:38",
-            "view_count": "95249",
+            "view_count": "99930",
             "thumbnail_url": "https://i.ytimg.com/vi/aG2XcaioN8k/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "수삼티비",
             "category": "Gaming",
             "duration": "12:51",
-            "view_count": "142204",
+            "view_count": "143063",
             "thumbnail_url": "https://i.ytimg.com/vi/FLi5nfLP3DU/hqdefault.jpg"
         },
         {
@@ -331,8 +331,17 @@
             "channel_name": "원큐",
             "category": "Gaming",
             "duration": "6:23",
-            "view_count": "254756",
+            "view_count": "255627",
             "thumbnail_url": "https://i.ytimg.com/vi/TWOTyXU8pJQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "qsqfpuKRyss",
+            "title": "릴리는 누구였나? 플레이타임코 직원의 최후ㅣ파피플레이타임 챕터5 분석",
+            "channel_name": "고스트햄",
+            "category": "Gaming",
+            "duration": "15:03",
+            "view_count": "72860",
+            "thumbnail_url": "https://i.ytimg.com/vi/qsqfpuKRyss/hqdefault.jpg"
         },
         {
             "video_id": "VWLl18skl7Y",
@@ -340,7 +349,7 @@
             "channel_name": "Brawl Stars",
             "category": "Gaming",
             "duration": "14:03",
-            "view_count": "7276441",
+            "view_count": "7380855",
             "thumbnail_url": "https://i.ytimg.com/vi/VWLl18skl7Y/hqdefault.jpg"
         },
         {
@@ -349,7 +358,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "56:47",
-            "view_count": "142239",
+            "view_count": "142967",
             "thumbnail_url": "https://i.ytimg.com/vi/xTtss8xpfHA/hqdefault.jpg"
         },
         {
@@ -358,26 +367,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:27",
-            "view_count": "444758",
+            "view_count": "446081",
             "thumbnail_url": "https://i.ytimg.com/vi/ZLJWVNeF1Fs/hqdefault.jpg"
         },
         {
-            "video_id": "SUyx53dp6dI",
-            "title": "와....프로토타입과 파피는 남매였다? 충격적인 스토리 | 파피플레이타임 챕터5 엔딩 해석",
-            "channel_name": "고스트햄",
+            "video_id": "36NhxVcbf28",
+            "title": "우주 최초! 보면서도 어이가 없는 미친 뉴메타를 만들었습니다 ㅋㅋㅋ",
+            "channel_name": "전쓰트의 게임 채널 Junsst",
             "category": "Gaming",
-            "duration": "18:56",
-            "view_count": "342286",
-            "thumbnail_url": "https://i.ytimg.com/vi/SUyx53dp6dI/hqdefault.jpg"
-        },
-        {
-            "video_id": "1_58r_ZdjE8",
-            "title": "발로란트 레디언트를 만났는데 꽁승시켜준다고 하네요. 반전 주의..",
-            "channel_name": "재능충 아재",
-            "category": "Gaming",
-            "duration": "2:42",
-            "view_count": "55151",
-            "thumbnail_url": "https://i.ytimg.com/vi/1_58r_ZdjE8/hqdefault.jpg"
+            "duration": "16:25",
+            "view_count": "79928",
+            "thumbnail_url": "https://i.ytimg.com/vi/36NhxVcbf28/hqdefault.jpg"
         }
     ]
 }
