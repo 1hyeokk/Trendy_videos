@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-23 16:56:31",
+    "scraped_time": "2026-02-23 17:58:05",
     "videos": [
         {
             "video_id": "Q4AE3ub4nBM",
@@ -7,7 +7,7 @@
             "channel_name": "Hearts2Hearts - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "1328446",
+            "view_count": "1355114",
             "thumbnail_url": "https://i.ytimg.com/vi/Q4AE3ub4nBM/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Disney Korea",
             "category": "Entertainment",
             "duration": "2:34",
-            "view_count": "693618",
+            "view_count": "697181",
             "thumbnail_url": "https://i.ytimg.com/vi/xZmN1QPwE9s/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK Global",
             "category": "Gaming",
             "duration": "5:39:36",
-            "view_count": "2040040",
+            "view_count": "2042604",
             "thumbnail_url": "https://i.ytimg.com/vi/mjUEh3hI9IE/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "15598175",
+            "view_count": "15868271",
             "thumbnail_url": "https://i.ytimg.com/vi/F7sGJVUrkjQ/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "20:49",
-            "view_count": "347546",
+            "view_count": "352463",
             "thumbnail_url": "https://i.ytimg.com/vi/EN2s-IApsL8/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "Choi Yu Ree - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "51442",
+            "view_count": "53806",
             "thumbnail_url": "https://i.ytimg.com/vi/wpFFNMTO9dM/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "23:17",
-            "view_count": "331177",
+            "view_count": "338538",
             "thumbnail_url": "https://i.ytimg.com/vi/KCjxcbwPYzc/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:57",
-            "view_count": "1925421",
+            "view_count": "1937285",
             "thumbnail_url": "https://i.ytimg.com/vi/aq08y9ebFQs/hqdefault.jpg"
         },
         {
@@ -79,44 +79,8 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "2:54:29",
-            "view_count": "333095",
+            "view_count": "341183",
             "thumbnail_url": "https://i.ytimg.com/vi/7H787_DXmD0/hqdefault.jpg"
-        },
-        {
-            "video_id": "VkajLZ-JdK8",
-            "title": "ThunderZ - Tengri: MONGOL (Official Music Video)",
-            "channel_name": "THUNDERZ",
-            "category": "Music",
-            "duration": "4:27",
-            "view_count": "420417",
-            "thumbnail_url": "https://i.ytimg.com/vi/VkajLZ-JdK8/hqdefault.jpg"
-        },
-        {
-            "video_id": "_a6WALv6W0k",
-            "title": "리니지클래식 오랫만에 뵙습니다. 개떨리네?",
-            "channel_name": "카즈야",
-            "category": "Gaming",
-            "duration": "2:38:16",
-            "view_count": "191152",
-            "thumbnail_url": "https://i.ytimg.com/vi/_a6WALv6W0k/hqdefault.jpg"
-        },
-        {
-            "video_id": "7wHqkJO6yZs",
-            "title": "For You",
-            "channel_name": "Hwang In Wook - Topic",
-            "category": "Music",
-            "duration": "4:08",
-            "view_count": "111528",
-            "thumbnail_url": "https://i.ytimg.com/vi/7wHqkJO6yZs/hqdefault.jpg"
-        },
-        {
-            "video_id": "fHPxlKnZf6k",
-            "title": "[LIVE] 2월 22일 아이온2 업데이트 프리뷰 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "1:10:18",
-            "view_count": "163965",
-            "thumbnail_url": "https://i.ytimg.com/vi/fHPxlKnZf6k/hqdefault.jpg"
         },
         {
             "video_id": "bybgHKnJEzQ",
@@ -124,8 +88,44 @@
             "channel_name": "TRADE L - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "18098",
+            "view_count": "18770",
             "thumbnail_url": "https://i.ytimg.com/vi/bybgHKnJEzQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "_a6WALv6W0k",
+            "title": "리니지클래식 오랫만에 뵙습니다. 개떨리네?",
+            "channel_name": "카즈야",
+            "category": "Gaming",
+            "duration": "2:38:16",
+            "view_count": "191735",
+            "thumbnail_url": "https://i.ytimg.com/vi/_a6WALv6W0k/hqdefault.jpg"
+        },
+        {
+            "video_id": "VkajLZ-JdK8",
+            "title": "ThunderZ - Tengri: MONGOL (Official Music Video)",
+            "channel_name": "THUNDERZ",
+            "category": "Music",
+            "duration": "4:27",
+            "view_count": "438119",
+            "thumbnail_url": "https://i.ytimg.com/vi/VkajLZ-JdK8/hqdefault.jpg"
+        },
+        {
+            "video_id": "fHPxlKnZf6k",
+            "title": "[LIVE] 2월 22일 아이온2 업데이트 프리뷰 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "1:10:18",
+            "view_count": "164431",
+            "thumbnail_url": "https://i.ytimg.com/vi/fHPxlKnZf6k/hqdefault.jpg"
+        },
+        {
+            "video_id": "7wHqkJO6yZs",
+            "title": "For You",
+            "channel_name": "Hwang In Wook - Topic",
+            "category": "Music",
+            "duration": "4:08",
+            "view_count": "113836",
+            "thumbnail_url": "https://i.ytimg.com/vi/7wHqkJO6yZs/hqdefault.jpg"
         },
         {
             "video_id": "25yJ6mWt85Y",
@@ -133,44 +133,8 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "7:04",
-            "view_count": "170285",
+            "view_count": "172593",
             "thumbnail_url": "https://i.ytimg.com/vi/25yJ6mWt85Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "3eSG8kH_vCk",
-            "title": "Over It",
-            "channel_name": "Kim Sung Kyu - Topic",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "30745",
-            "thumbnail_url": "https://i.ytimg.com/vi/3eSG8kH_vCk/hqdefault.jpg"
-        },
-        {
-            "video_id": "vU9S4etl5Rw",
-            "title": "프로토타입은 엘리엇의 아들이었다? | 파피 챕터 5 추가 해석",
-            "channel_name": "대타맨",
-            "category": "Gaming",
-            "duration": "15:40",
-            "view_count": "292674",
-            "thumbnail_url": "https://i.ytimg.com/vi/vU9S4etl5Rw/hqdefault.jpg"
-        },
-        {
-            "video_id": "6GGBpOn0r-4",
-            "title": "Simon & Garfunkel - The Sound Of Silence (Lyrics)",
-            "channel_name": "Monstafluff Music",
-            "category": "Music",
-            "duration": "3:04",
-            "view_count": "434315",
-            "thumbnail_url": "https://i.ytimg.com/vi/6GGBpOn0r-4/hqdefault.jpg"
-        },
-        {
-            "video_id": "hYw0BDFM1wY",
-            "title": "리니지 클래식 / 지금까지 쓴 금액 공개... 그리고 초대박 터짐",
-            "channel_name": "빅보스",
-            "category": "Gaming",
-            "duration": "8:18",
-            "view_count": "197069",
-            "thumbnail_url": "https://i.ytimg.com/vi/hYw0BDFM1wY/hqdefault.jpg"
         },
         {
             "video_id": "RWKlWyjpOzU",
@@ -178,8 +142,44 @@
             "channel_name": "BEN - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "15610",
+            "view_count": "16359",
             "thumbnail_url": "https://i.ytimg.com/vi/RWKlWyjpOzU/hqdefault.jpg"
+        },
+        {
+            "video_id": "vU9S4etl5Rw",
+            "title": "프로토타입은 엘리엇의 아들이었다? | 파피 챕터 5 추가 해석",
+            "channel_name": "대타맨",
+            "category": "Gaming",
+            "duration": "15:40",
+            "view_count": "296145",
+            "thumbnail_url": "https://i.ytimg.com/vi/vU9S4etl5Rw/hqdefault.jpg"
+        },
+        {
+            "video_id": "3eSG8kH_vCk",
+            "title": "Over It",
+            "channel_name": "Kim Sung Kyu - Topic",
+            "category": "Music",
+            "duration": "3:31",
+            "view_count": "32536",
+            "thumbnail_url": "https://i.ytimg.com/vi/3eSG8kH_vCk/hqdefault.jpg"
+        },
+        {
+            "video_id": "hYw0BDFM1wY",
+            "title": "리니지 클래식 / 지금까지 쓴 금액 공개... 그리고 초대박 터짐",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "8:18",
+            "view_count": "200686",
+            "thumbnail_url": "https://i.ytimg.com/vi/hYw0BDFM1wY/hqdefault.jpg"
+        },
+        {
+            "video_id": "6GGBpOn0r-4",
+            "title": "Simon & Garfunkel - The Sound Of Silence (Lyrics)",
+            "channel_name": "Monstafluff Music",
+            "category": "Music",
+            "duration": "3:04",
+            "view_count": "441070",
+            "thumbnail_url": "https://i.ytimg.com/vi/6GGBpOn0r-4/hqdefault.jpg"
         },
         {
             "video_id": "J6ZXnM1tMX4",
@@ -187,7 +187,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "36:04",
-            "view_count": "234134",
+            "view_count": "236002",
             "thumbnail_url": "https://i.ytimg.com/vi/J6ZXnM1tMX4/hqdefault.jpg"
         },
         {
@@ -196,26 +196,8 @@
             "channel_name": "Sik-K - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "172794",
+            "view_count": "175345",
             "thumbnail_url": "https://i.ytimg.com/vi/849QAMVWkvM/hqdefault.jpg"
-        },
-        {
-            "video_id": "EsqoIrjnstE",
-            "title": "리니지클래식 원큐자폭단 다모여라 싸이치러 가자 #뱀피르 #SOL #원큐 #dnjszb #oneq #리니지 2026/02/22",
-            "channel_name": "원큐",
-            "category": "Gaming",
-            "duration": "8:15:18",
-            "view_count": "165242",
-            "thumbnail_url": "https://i.ytimg.com/vi/EsqoIrjnstE/hqdefault.jpg"
-        },
-        {
-            "video_id": "8xb_P7ureNU",
-            "title": "XG - ROCK THE BOAT (Official Music Video)",
-            "channel_name": "XG",
-            "category": "Music",
-            "duration": "3:11",
-            "view_count": "921086",
-            "thumbnail_url": "https://i.ytimg.com/vi/8xb_P7ureNU/hqdefault.jpg"
         },
         {
             "video_id": "3Z5hz4WGE7M",
@@ -223,8 +205,26 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "15:11",
-            "view_count": "161648",
+            "view_count": "164398",
             "thumbnail_url": "https://i.ytimg.com/vi/3Z5hz4WGE7M/hqdefault.jpg"
+        },
+        {
+            "video_id": "8xb_P7ureNU",
+            "title": "XG - ROCK THE BOAT (Official Music Video)",
+            "channel_name": "XG",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "953364",
+            "thumbnail_url": "https://i.ytimg.com/vi/8xb_P7ureNU/hqdefault.jpg"
+        },
+        {
+            "video_id": "EsqoIrjnstE",
+            "title": "리니지클래식 원큐자폭단 다모여라 싸이치러 가자 #뱀피르 #SOL #원큐 #dnjszb #oneq #리니지 2026/02/22",
+            "channel_name": "원큐",
+            "category": "Gaming",
+            "duration": "8:15:18",
+            "view_count": "165457",
+            "thumbnail_url": "https://i.ytimg.com/vi/EsqoIrjnstE/hqdefault.jpg"
         },
         {
             "video_id": "ISMfYstLvmE",
@@ -232,7 +232,7 @@
             "channel_name": "IHWAK - Topic",
             "category": "Music",
             "duration": "3:34",
-            "view_count": "78899",
+            "view_count": "80717",
             "thumbnail_url": "https://i.ytimg.com/vi/ISMfYstLvmE/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "인피쉰",
             "category": "Gaming",
             "duration": "6:07:44",
-            "view_count": "204313",
+            "view_count": "204566",
             "thumbnail_url": "https://i.ytimg.com/vi/rX6sPAPOKlE/hqdefault.jpg"
         },
         {
@@ -250,26 +250,8 @@
             "channel_name": "Hayoung Song - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "26861",
+            "view_count": "27343",
             "thumbnail_url": "https://i.ytimg.com/vi/I6v0RqjQYDc/hqdefault.jpg"
-        },
-        {
-            "video_id": "0ssjkUhzqIQ",
-            "title": "큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "2:56:34",
-            "view_count": "984863",
-            "thumbnail_url": "https://i.ytimg.com/vi/0ssjkUhzqIQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "TzvtWF_pGnk",
-            "title": "Drawing an apple",
-            "channel_name": "SORAN - Topic",
-            "category": "Music",
-            "duration": "2:54",
-            "view_count": "70541",
-            "thumbnail_url": "https://i.ytimg.com/vi/TzvtWF_pGnk/hqdefault.jpg"
         },
         {
             "video_id": "Ihfhm4_fh9M",
@@ -277,8 +259,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "29:46",
-            "view_count": "157678",
+            "view_count": "165610",
             "thumbnail_url": "https://i.ytimg.com/vi/Ihfhm4_fh9M/hqdefault.jpg"
+        },
+        {
+            "video_id": "TzvtWF_pGnk",
+            "title": "Drawing an apple",
+            "channel_name": "SORAN - Topic",
+            "category": "Music",
+            "duration": "2:54",
+            "view_count": "72102",
+            "thumbnail_url": "https://i.ytimg.com/vi/TzvtWF_pGnk/hqdefault.jpg"
+        },
+        {
+            "video_id": "0ssjkUhzqIQ",
+            "title": "큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다 큰 거 왔다",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "2:56:34",
+            "view_count": "992967",
+            "thumbnail_url": "https://i.ytimg.com/vi/0ssjkUhzqIQ/hqdefault.jpg"
         },
         {
             "video_id": "YQRv-exhvEk",
@@ -286,7 +286,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "20:54",
-            "view_count": "427093",
+            "view_count": "428751",
             "thumbnail_url": "https://i.ytimg.com/vi/YQRv-exhvEk/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "22:01",
-            "view_count": "193601",
+            "view_count": "196154",
             "thumbnail_url": "https://i.ytimg.com/vi/c1WptDJdpeg/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "고스트햄",
             "category": "Gaming",
             "duration": "15:03",
-            "view_count": "198555",
+            "view_count": "203039",
             "thumbnail_url": "https://i.ytimg.com/vi/qsqfpuKRyss/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:56",
-            "view_count": "140085",
+            "view_count": "143462",
             "thumbnail_url": "https://i.ytimg.com/vi/d_Asur3vVBs/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "25:19",
-            "view_count": "112322",
+            "view_count": "114726",
             "thumbnail_url": "https://i.ytimg.com/vi/Yl88itC-xCc/hqdefault.jpg"
         },
         {
@@ -331,8 +331,17 @@
             "channel_name": "백크 Baekk",
             "category": "Gaming",
             "duration": "16:54",
-            "view_count": "142732",
+            "view_count": "147354",
             "thumbnail_url": "https://i.ytimg.com/vi/CXI-k3GtNyc/hqdefault.jpg"
+        },
+        {
+            "video_id": "WKKSTTKjEN8",
+            "title": "이럽피 시작합니다.｜리니지 클래식",
+            "channel_name": "닌쟁이",
+            "category": "Gaming",
+            "duration": "21:06",
+            "view_count": "44615",
+            "thumbnail_url": "https://i.ytimg.com/vi/WKKSTTKjEN8/hqdefault.jpg"
         },
         {
             "video_id": "bokx1JXhwCw",
@@ -340,7 +349,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "16:16",
-            "view_count": "151471",
+            "view_count": "153113",
             "thumbnail_url": "https://i.ytimg.com/vi/bokx1JXhwCw/hqdefault.jpg"
         },
         {
@@ -349,17 +358,8 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "36:38",
-            "view_count": "154932",
+            "view_count": "156440",
             "thumbnail_url": "https://i.ytimg.com/vi/aG2XcaioN8k/hqdefault.jpg"
-        },
-        {
-            "video_id": "BGtwvUbduUo",
-            "title": "리니지 클래식.. 현존 최강 무기!! 드디어 만들었습니다 ㅠㅠㅠ",
-            "channel_name": "겜케이",
-            "category": "Gaming",
-            "duration": "11:21",
-            "view_count": "187408",
-            "thumbnail_url": "https://i.ytimg.com/vi/BGtwvUbduUo/hqdefault.jpg"
         },
         {
             "video_id": "Jpr6P0Ug-po",
@@ -367,17 +367,17 @@
             "channel_name": "홀릿 Youtube Holit",
             "category": "Gaming",
             "duration": "22:32",
-            "view_count": "100204",
+            "view_count": "104494",
             "thumbnail_url": "https://i.ytimg.com/vi/Jpr6P0Ug-po/hqdefault.jpg"
         },
         {
-            "video_id": "YPGpI9ltjbM",
-            "title": "가챠 기계에 갇힌 잠뜰 TV 멤버들의 오합지졸 탈출기",
-            "channel_name": "잠뜰 TV",
+            "video_id": "BGtwvUbduUo",
+            "title": "리니지 클래식.. 현존 최강 무기!! 드디어 만들었습니다 ㅠㅠㅠ",
+            "channel_name": "겜케이",
             "category": "Gaming",
-            "duration": "44:55",
-            "view_count": "245218",
-            "thumbnail_url": "https://i.ytimg.com/vi/YPGpI9ltjbM/hqdefault.jpg"
+            "duration": "11:21",
+            "view_count": "188607",
+            "thumbnail_url": "https://i.ytimg.com/vi/BGtwvUbduUo/hqdefault.jpg"
         }
     ]
 }
