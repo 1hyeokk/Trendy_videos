@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-25 20:47:18",
+    "scraped_time": "2026-02-25 22:12:20",
     "videos": [
         {
             "video_id": "1Lmy7qwmSMc",
@@ -7,7 +7,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "4982288",
+            "view_count": "5027232",
             "thumbnail_url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "0:55",
-            "view_count": "154600",
+            "view_count": "157850",
             "thumbnail_url": "https://i.ytimg.com/vi/PFt4ETh8648/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "34:47",
-            "view_count": "630750",
+            "view_count": "653959",
             "thumbnail_url": "https://i.ytimg.com/vi/ceDXOxvvY3A/hqdefault.jpg"
         },
         {
@@ -34,17 +34,8 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "613012",
+            "view_count": "639336",
             "thumbnail_url": "https://i.ytimg.com/vi/YfiJDJKt3fE/hqdefault.jpg"
-        },
-        {
-            "video_id": "9ryVkW-XkwM",
-            "title": "새로운 스파이더맨이 왔습니다 ㄷㄷ ≪스파이더 누아르≫ 공식 예고편 떡밥 총정리",
-            "channel_name": "무비띵크_Movie Think",
-            "category": "Film & Animation",
-            "duration": "10:15",
-            "view_count": "178956",
-            "thumbnail_url": "https://i.ytimg.com/vi/9ryVkW-XkwM/hqdefault.jpg"
         },
         {
             "video_id": "IlKnG5YComU",
@@ -52,7 +43,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "7:58:28",
-            "view_count": "389012",
+            "view_count": "391008",
             "thumbnail_url": "https://i.ytimg.com/vi/IlKnG5YComU/hqdefault.jpg"
         },
         {
@@ -61,26 +52,8 @@
             "channel_name": "Huh Gak - Topic",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "31890",
+            "view_count": "34555",
             "thumbnail_url": "https://i.ytimg.com/vi/4KMuB02kL1g/hqdefault.jpg"
-        },
-        {
-            "video_id": "vwrQ-4oyU7A",
-            "title": "까란다면 까겠어요",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "20:59",
-            "view_count": "332228",
-            "thumbnail_url": "https://i.ytimg.com/vi/vwrQ-4oyU7A/hqdefault.jpg"
-        },
-        {
-            "video_id": "QWFIz75ad6I",
-            "title": "NCT JNJM 엔시티 제노재민 'BOTH SIDES' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "3:17",
-            "view_count": "1791220",
-            "thumbnail_url": "https://i.ytimg.com/vi/QWFIz75ad6I/hqdefault.jpg"
         },
         {
             "video_id": "Ia1TM50jcFI",
@@ -88,7 +61,7 @@
             "channel_name": "푸린",
             "category": "Gaming",
             "duration": "36:25",
-            "view_count": "420875",
+            "view_count": "437481",
             "thumbnail_url": "https://i.ytimg.com/vi/Ia1TM50jcFI/hqdefault.jpg"
         },
         {
@@ -97,8 +70,26 @@
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "77656",
+            "view_count": "83733",
             "thumbnail_url": "https://i.ytimg.com/vi/bVp6tXFoCVs/hqdefault.jpg"
+        },
+        {
+            "video_id": "vwrQ-4oyU7A",
+            "title": "까란다면 까겠어요",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "20:59",
+            "view_count": "338985",
+            "thumbnail_url": "https://i.ytimg.com/vi/vwrQ-4oyU7A/hqdefault.jpg"
+        },
+        {
+            "video_id": "x6peEfIQVGE",
+            "title": "[MV] Parc Jae Jung(박재정), SULLYOON (NMIXX)(설윤 (NMIXX)) _ Always(지금 이대로만)",
+            "channel_name": "1theK (원더케이)",
+            "category": "Music",
+            "duration": "3:37",
+            "view_count": "162870",
+            "thumbnail_url": "https://i.ytimg.com/vi/x6peEfIQVGE/hqdefault.jpg"
         },
         {
             "video_id": "E2DJtEH8QrI",
@@ -106,8 +97,26 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "15:28",
-            "view_count": "266947",
+            "view_count": "271542",
             "thumbnail_url": "https://i.ytimg.com/vi/E2DJtEH8QrI/hqdefault.jpg"
+        },
+        {
+            "video_id": "QWFIz75ad6I",
+            "title": "NCT JNJM 엔시티 제노재민 'BOTH SIDES' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "3:17",
+            "view_count": "1820067",
+            "thumbnail_url": "https://i.ytimg.com/vi/QWFIz75ad6I/hqdefault.jpg"
+        },
+        {
+            "video_id": "tjOUsAtZ-ao",
+            "title": "[ 파피 플레이타임 챕터 5: 모든 실험체들 정리 ]",
+            "channel_name": "대타맨",
+            "category": "Gaming",
+            "duration": "21:18",
+            "view_count": "176530",
+            "thumbnail_url": "https://i.ytimg.com/vi/tjOUsAtZ-ao/hqdefault.jpg"
         },
         {
             "video_id": "Q4AE3ub4nBM",
@@ -115,7 +124,7 @@
             "channel_name": "Hearts2Hearts - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "2551531",
+            "view_count": "2603994",
             "thumbnail_url": "https://i.ytimg.com/vi/Q4AE3ub4nBM/hqdefault.jpg"
         },
         {
@@ -124,44 +133,8 @@
             "channel_name": "센터로드TV",
             "category": "Gaming",
             "duration": "8:32",
-            "view_count": "94634",
+            "view_count": "106201",
             "thumbnail_url": "https://i.ytimg.com/vi/fEzrP12ohjg/hqdefault.jpg"
-        },
-        {
-            "video_id": "x6peEfIQVGE",
-            "title": "[MV] Parc Jae Jung(박재정), SULLYOON (NMIXX)(설윤 (NMIXX)) _ Always(지금 이대로만)",
-            "channel_name": "1theK (원더케이)",
-            "category": "Music",
-            "duration": "3:37",
-            "view_count": "158394",
-            "thumbnail_url": "https://i.ytimg.com/vi/x6peEfIQVGE/hqdefault.jpg"
-        },
-        {
-            "video_id": "tjOUsAtZ-ao",
-            "title": "[ 파피 플레이타임 챕터 5: 모든 실험체들 정리 ]",
-            "channel_name": "대타맨",
-            "category": "Gaming",
-            "duration": "21:18",
-            "view_count": "154297",
-            "thumbnail_url": "https://i.ytimg.com/vi/tjOUsAtZ-ao/hqdefault.jpg"
-        },
-        {
-            "video_id": "wpFFNMTO9dM",
-            "title": "Early Spring",
-            "channel_name": "Choi Yu Ree - Topic",
-            "category": "Music",
-            "duration": "3:13",
-            "view_count": "151395",
-            "thumbnail_url": "https://i.ytimg.com/vi/wpFFNMTO9dM/hqdefault.jpg"
-        },
-        {
-            "video_id": "Cr92ET2hjno",
-            "title": "첫 수업에 손절당할 뻔 했습니다 [마크 하드코어 EP.11]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "34:44",
-            "view_count": "398324",
-            "thumbnail_url": "https://i.ytimg.com/vi/Cr92ET2hjno/hqdefault.jpg"
         },
         {
             "video_id": "8qgukCf1DV0",
@@ -169,62 +142,8 @@
             "channel_name": "Laufey - Topic",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "41408",
+            "view_count": "48286",
             "thumbnail_url": "https://i.ytimg.com/vi/8qgukCf1DV0/hqdefault.jpg"
-        },
-        {
-            "video_id": "SLc_rb431eA",
-            "title": "리니지 클래식 / 이런 러쉬는 없었다 4천만원치 러쉬했더니 미친 결과가 ㅋㅋㅋㅋ",
-            "channel_name": "빅보스",
-            "category": "Gaming",
-            "duration": "10:35",
-            "view_count": "187887",
-            "thumbnail_url": "https://i.ytimg.com/vi/SLc_rb431eA/hqdefault.jpg"
-        },
-        {
-            "video_id": "kjsqqLtv6NA",
-            "title": "안녕이란 슬픈 말",
-            "channel_name": "박지현 - Topic",
-            "category": "Music",
-            "duration": "3:59",
-            "view_count": "46230",
-            "thumbnail_url": "https://i.ytimg.com/vi/kjsqqLtv6NA/hqdefault.jpg"
-        },
-        {
-            "video_id": "qy58KIYZl_I",
-            "title": "리니지클래식 데포로쥬 중립기사 ...아덴시세왜이래요?",
-            "channel_name": "누리형",
-            "category": "Gaming",
-            "duration": "3:04:14",
-            "view_count": "126391",
-            "thumbnail_url": "https://i.ytimg.com/vi/qy58KIYZl_I/hqdefault.jpg"
-        },
-        {
-            "video_id": "pIuQ_us5W4Y",
-            "title": "[MV] TAK - ‘MTMTM’ feat. 初音ミク",
-            "channel_name": "TAK / DORIDORI",
-            "category": "Music",
-            "duration": "2:13",
-            "view_count": "153729",
-            "thumbnail_url": "https://i.ytimg.com/vi/pIuQ_us5W4Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "LU5zvFYDtmk",
-            "title": "\"여기선 내가 페이커보다 비싸\" 정미니스트 저라뎃의 처절한 활동｜멸망전 전야제",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "1:01:08",
-            "view_count": "87210",
-            "thumbnail_url": "https://i.ytimg.com/vi/LU5zvFYDtmk/hqdefault.jpg"
-        },
-        {
-            "video_id": "wfIGKdBJM9Q",
-            "title": "BOTH SIDES",
-            "channel_name": "NCT JNJM - Topic",
-            "category": "Music",
-            "duration": "2:52",
-            "view_count": "162378",
-            "thumbnail_url": "https://i.ytimg.com/vi/wfIGKdBJM9Q/hqdefault.jpg"
         },
         {
             "video_id": "7iJWmIXCZM4",
@@ -232,98 +151,8 @@
             "channel_name": "김성회의 G식백과",
             "category": "Gaming",
             "duration": "10:12",
-            "view_count": "199009",
+            "view_count": "236389",
             "thumbnail_url": "https://i.ytimg.com/vi/7iJWmIXCZM4/hqdefault.jpg"
-        },
-        {
-            "video_id": "sWkLpvCHx_w",
-            "title": "NMIXX(엔믹스) “TIC TIC (Feat. Pabllo Vittar)” | Brazil Carnival🇧🇷 | Stage Recap",
-            "channel_name": "NMIXX",
-            "category": "Entertainment",
-            "duration": "2:31",
-            "view_count": "478066",
-            "thumbnail_url": "https://i.ytimg.com/vi/sWkLpvCHx_w/hqdefault.jpg"
-        },
-        {
-            "video_id": "AAnbYzp7Foc",
-            "title": "탑 람머스 앞에서 4AD를 해? 잘먹겠습니다 😋🍴",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "32:07",
-            "view_count": "153104",
-            "thumbnail_url": "https://i.ytimg.com/vi/AAnbYzp7Foc/hqdefault.jpg"
-        },
-        {
-            "video_id": "aCX2F0R5q9w",
-            "title": "real mc",
-            "channel_name": "Bassagong - Topic",
-            "category": "Music",
-            "duration": "3:16",
-            "view_count": "6835",
-            "thumbnail_url": "https://i.ytimg.com/vi/aCX2F0R5q9w/hqdefault.jpg"
-        },
-        {
-            "video_id": "9P6iYf6L_9k",
-            "title": "모양몬 하드모드 99번 한죽마!? 죽으면 처음부터 다시라고?",
-            "channel_name": "백앤아",
-            "category": "Gaming",
-            "duration": "17:28",
-            "view_count": "174483",
-            "thumbnail_url": "https://i.ytimg.com/vi/9P6iYf6L_9k/hqdefault.jpg"
-        },
-        {
-            "video_id": "Geh1ZEjkaeM",
-            "title": "ITZY \"THAT'S A NO NO\" (FULL CAM VER.) @ 'TUNNEL VISION' in SEOUL",
-            "channel_name": "ITZY",
-            "category": "Entertainment",
-            "duration": "2:20",
-            "view_count": "647354",
-            "thumbnail_url": "https://i.ytimg.com/vi/Geh1ZEjkaeM/hqdefault.jpg"
-        },
-        {
-            "video_id": "rxDseFQJf6A",
-            "title": "리니지 클래식.. 서버 먹으러 왔습니다. 혈맹원들 최초 공개",
-            "channel_name": "겜케이",
-            "category": "Gaming",
-            "duration": "8:31",
-            "view_count": "128213",
-            "thumbnail_url": "https://i.ytimg.com/vi/rxDseFQJf6A/hqdefault.jpg"
-        },
-        {
-            "video_id": "RfA28EhGOgM",
-            "title": "When the Moon Rises, I Think of You",
-            "channel_name": "doyouka - Topic",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "38105",
-            "thumbnail_url": "https://i.ytimg.com/vi/RfA28EhGOgM/hqdefault.jpg"
-        },
-        {
-            "video_id": "UKTYva1d49w",
-            "title": "리아누나한테 차이고 상호형 만났습니다...",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "44:15",
-            "view_count": "136218",
-            "thumbnail_url": "https://i.ytimg.com/vi/UKTYva1d49w/hqdefault.jpg"
-        },
-        {
-            "video_id": "8Hsb8Iq7dM0",
-            "title": "Like an Aurora",
-            "channel_name": "Dept - Topic",
-            "category": "Music",
-            "duration": "2:54",
-            "view_count": "44443",
-            "thumbnail_url": "https://i.ytimg.com/vi/8Hsb8Iq7dM0/hqdefault.jpg"
-        },
-        {
-            "video_id": "9Wo0wbPWUek",
-            "title": "리니지 클래식 / 오늘 꿀잠 잘 수 있도록.. 시청자형님들께 바치는 영상 (좋아요라도..)",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "21:58",
-            "view_count": "132000",
-            "thumbnail_url": "https://i.ytimg.com/vi/9Wo0wbPWUek/hqdefault.jpg"
         },
         {
             "video_id": "lju9zsUAHTs",
@@ -331,35 +160,71 @@
             "channel_name": "순순희",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "4020",
+            "view_count": "7066",
             "thumbnail_url": "https://i.ytimg.com/vi/lju9zsUAHTs/hqdefault.jpg"
         },
         {
-            "video_id": "VoPr-N20pHA",
-            "title": "주유소에서 마감 업무를 하는 게임 (Before Exit: Gas Station)",
-            "channel_name": "수탉",
+            "video_id": "LU5zvFYDtmk",
+            "title": "\"여기선 내가 페이커보다 비싸\" 정미니스트 저라뎃의 처절한 활동｜멸망전 전야제",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "2:38:52",
-            "view_count": "126669",
-            "thumbnail_url": "https://i.ytimg.com/vi/VoPr-N20pHA/hqdefault.jpg"
+            "duration": "1:01:08",
+            "view_count": "103866",
+            "thumbnail_url": "https://i.ytimg.com/vi/LU5zvFYDtmk/hqdefault.jpg"
         },
         {
-            "video_id": "aq08y9ebFQs",
-            "title": "요네즈 켄시&우타다 히카루 - JANE DOE 🎵\"저 가수입니다🎤\" by강남 (with. IVE 리즈)",
-            "channel_name": "동네친구 강나미 [Kangnami]",
-            "category": "Entertainment",
-            "duration": "3:57",
-            "view_count": "2425596",
-            "thumbnail_url": "https://i.ytimg.com/vi/aq08y9ebFQs/hqdefault.jpg"
+            "video_id": "wpFFNMTO9dM",
+            "title": "Early Spring",
+            "channel_name": "Choi Yu Ree - Topic",
+            "category": "Music",
+            "duration": "3:13",
+            "view_count": "155916",
+            "thumbnail_url": "https://i.ytimg.com/vi/wpFFNMTO9dM/hqdefault.jpg"
         },
         {
-            "video_id": "0BbOKPJLNgM",
-            "title": "우노를 끝내지 않는 인간의 악의",
-            "channel_name": "왈도쿤",
+            "video_id": "qy58KIYZl_I",
+            "title": "리니지클래식 데포로쥬 중립기사 ...아덴시세왜이래요?",
+            "channel_name": "누리형",
             "category": "Gaming",
-            "duration": "11:08",
-            "view_count": "143999",
-            "thumbnail_url": "https://i.ytimg.com/vi/0BbOKPJLNgM/hqdefault.jpg"
+            "duration": "3:04:14",
+            "view_count": "132253",
+            "thumbnail_url": "https://i.ytimg.com/vi/qy58KIYZl_I/hqdefault.jpg"
+        },
+        {
+            "video_id": "kjsqqLtv6NA",
+            "title": "안녕이란 슬픈 말",
+            "channel_name": "박지현 - Topic",
+            "category": "Music",
+            "duration": "3:59",
+            "view_count": "47777",
+            "thumbnail_url": "https://i.ytimg.com/vi/kjsqqLtv6NA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Cr92ET2hjno",
+            "title": "첫 수업에 손절당할 뻔 했습니다 [마크 하드코어 EP.11]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "34:44",
+            "view_count": "403310",
+            "thumbnail_url": "https://i.ytimg.com/vi/Cr92ET2hjno/hqdefault.jpg"
+        },
+        {
+            "video_id": "pIuQ_us5W4Y",
+            "title": "[MV] TAK - ‘MTMTM’ feat. 初音ミク",
+            "channel_name": "TAK / DORIDORI",
+            "category": "Music",
+            "duration": "2:13",
+            "view_count": "159899",
+            "thumbnail_url": "https://i.ytimg.com/vi/pIuQ_us5W4Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "SLc_rb431eA",
+            "title": "리니지 클래식 / 이런 러쉬는 없었다 4천만원치 러쉬했더니 미친 결과가 ㅋㅋㅋㅋ",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "10:35",
+            "view_count": "192125",
+            "thumbnail_url": "https://i.ytimg.com/vi/SLc_rb431eA/hqdefault.jpg"
         },
         {
             "video_id": "S1IkEoKyODE",
@@ -367,17 +232,152 @@
             "channel_name": "Parc Jae Jung - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "3164",
+            "view_count": "5636",
             "thumbnail_url": "https://i.ytimg.com/vi/S1IkEoKyODE/hqdefault.jpg"
         },
         {
-            "video_id": "WGrREed6pL8",
-            "title": "CK 전패중인 김민교 구하러 온 최강 라인업",
-            "channel_name": "튜브김민교",
+            "video_id": "AAnbYzp7Foc",
+            "title": "탑 람머스 앞에서 4AD를 해? 잘먹겠습니다 😋🍴",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "43:21",
-            "view_count": "229591",
-            "thumbnail_url": "https://i.ytimg.com/vi/WGrREed6pL8/hqdefault.jpg"
+            "duration": "32:07",
+            "view_count": "156355",
+            "thumbnail_url": "https://i.ytimg.com/vi/AAnbYzp7Foc/hqdefault.jpg"
+        },
+        {
+            "video_id": "wfIGKdBJM9Q",
+            "title": "BOTH SIDES",
+            "channel_name": "NCT JNJM - Topic",
+            "category": "Music",
+            "duration": "2:52",
+            "view_count": "165996",
+            "thumbnail_url": "https://i.ytimg.com/vi/wfIGKdBJM9Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "9P6iYf6L_9k",
+            "title": "모양몬 하드모드 99번 한죽마!? 죽으면 처음부터 다시라고?",
+            "channel_name": "백앤아",
+            "category": "Gaming",
+            "duration": "17:28",
+            "view_count": "180740",
+            "thumbnail_url": "https://i.ytimg.com/vi/9P6iYf6L_9k/hqdefault.jpg"
+        },
+        {
+            "video_id": "aCX2F0R5q9w",
+            "title": "real mc",
+            "channel_name": "Bassagong - Topic",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "8242",
+            "thumbnail_url": "https://i.ytimg.com/vi/aCX2F0R5q9w/hqdefault.jpg"
+        },
+        {
+            "video_id": "rxDseFQJf6A",
+            "title": "리니지 클래식.. 서버 먹으러 왔습니다. 혈맹원들 최초 공개",
+            "channel_name": "겜케이",
+            "category": "Gaming",
+            "duration": "8:31",
+            "view_count": "132145",
+            "thumbnail_url": "https://i.ytimg.com/vi/rxDseFQJf6A/hqdefault.jpg"
+        },
+        {
+            "video_id": "sWkLpvCHx_w",
+            "title": "NMIXX(엔믹스) “TIC TIC (Feat. Pabllo Vittar)” | Brazil Carnival🇧🇷 | Stage Recap",
+            "channel_name": "NMIXX",
+            "category": "Entertainment",
+            "duration": "2:31",
+            "view_count": "489990",
+            "thumbnail_url": "https://i.ytimg.com/vi/sWkLpvCHx_w/hqdefault.jpg"
+        },
+        {
+            "video_id": "UKTYva1d49w",
+            "title": "리아누나한테 차이고 상호형 만났습니다...",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "44:15",
+            "view_count": "144764",
+            "thumbnail_url": "https://i.ytimg.com/vi/UKTYva1d49w/hqdefault.jpg"
+        },
+        {
+            "video_id": "YsfsxpJaYSw",
+            "title": "2AM in ITW",
+            "channel_name": "Sik-K - Topic",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "9142",
+            "thumbnail_url": "https://i.ytimg.com/vi/YsfsxpJaYSw/hqdefault.jpg"
+        },
+        {
+            "video_id": "9Wo0wbPWUek",
+            "title": "리니지 클래식 / 오늘 꿀잠 잘 수 있도록.. 시청자형님들께 바치는 영상 (좋아요라도..)",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "21:58",
+            "view_count": "135292",
+            "thumbnail_url": "https://i.ytimg.com/vi/9Wo0wbPWUek/hqdefault.jpg"
+        },
+        {
+            "video_id": "Geh1ZEjkaeM",
+            "title": "ITZY \"THAT'S A NO NO\" (FULL CAM VER.) @ 'TUNNEL VISION' in SEOUL",
+            "channel_name": "ITZY",
+            "category": "Entertainment",
+            "duration": "2:20",
+            "view_count": "668282",
+            "thumbnail_url": "https://i.ytimg.com/vi/Geh1ZEjkaeM/hqdefault.jpg"
+        },
+        {
+            "video_id": "VoPr-N20pHA",
+            "title": "주유소에서 마감 업무를 하는 게임 (Before Exit: Gas Station)",
+            "channel_name": "수탉",
+            "category": "Gaming",
+            "duration": "2:38:52",
+            "view_count": "133522",
+            "thumbnail_url": "https://i.ytimg.com/vi/VoPr-N20pHA/hqdefault.jpg"
+        },
+        {
+            "video_id": "RfA28EhGOgM",
+            "title": "When the Moon Rises, I Think of You",
+            "channel_name": "doyouka - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "43473",
+            "thumbnail_url": "https://i.ytimg.com/vi/RfA28EhGOgM/hqdefault.jpg"
+        },
+        {
+            "video_id": "UCDpU8gOG_M",
+            "title": "[렌즈티비 2/25 LIVE] 리니지클래식 세얼간이 인생걸고 9검러쉬 도전 데포서버",
+            "channel_name": "렌즈티비",
+            "category": "Gaming",
+            "duration": "2:44:47",
+            "view_count": "46862",
+            "thumbnail_url": "https://i.ytimg.com/vi/UCDpU8gOG_M/hqdefault.jpg"
+        },
+        {
+            "video_id": "p8mnigkHhtI",
+            "title": "NCT JNJM _ BOTH SIDES | 1theKILLPO | 원더킬포 | 퍼포먼스 | Performance | 4K",
+            "channel_name": "1theK Originals - 원더케이 오리지널",
+            "category": "Entertainment",
+            "duration": "3:08",
+            "view_count": "48469",
+            "thumbnail_url": "https://i.ytimg.com/vi/p8mnigkHhtI/hqdefault.jpg"
+        },
+        {
+            "video_id": "0BbOKPJLNgM",
+            "title": "우노를 끝내지 않는 인간의 악의",
+            "channel_name": "왈도쿤",
+            "category": "Gaming",
+            "duration": "11:08",
+            "view_count": "148255",
+            "thumbnail_url": "https://i.ytimg.com/vi/0BbOKPJLNgM/hqdefault.jpg"
+        },
+        {
+            "video_id": "CpWOIjkLl4M",
+            "title": "[화산귀환] 지는 법은 배운 적이 없으니까 (도겸) MV",
+            "channel_name": "네이버웹툰",
+            "category": "Film & Animation",
+            "duration": "2:28",
+            "view_count": "185067",
+            "thumbnail_url": "https://i.ytimg.com/vi/CpWOIjkLl4M/hqdefault.jpg"
         }
     ]
 }
