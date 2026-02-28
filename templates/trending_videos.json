@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-28 08:27:59",
+    "scraped_time": "2026-02-28 11:07:08",
     "videos": [
         {
             "video_id": "2GJfWMYCWY0",
@@ -7,7 +7,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "19239058",
+            "view_count": "20140201",
             "thumbnail_url": "https://i.ytimg.com/vi/2GJfWMYCWY0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "24:22",
-            "view_count": "285975",
+            "view_count": "300698",
             "thumbnail_url": "https://i.ytimg.com/vi/V96IbPspVrU/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "NMIXX - Topic",
             "category": "Music",
             "duration": "2:13",
-            "view_count": "341531",
+            "view_count": "354403",
             "thumbnail_url": "https://i.ytimg.com/vi/VF5KiYpH-Pg/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:29",
-            "view_count": "315993",
+            "view_count": "328069",
             "thumbnail_url": "https://i.ytimg.com/vi/gsYDwTE2sAc/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "1261124",
+            "view_count": "1283496",
             "thumbnail_url": "https://i.ytimg.com/vi/YfiJDJKt3fE/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "4:29:25",
-            "view_count": "269708",
+            "view_count": "272804",
             "thumbnail_url": "https://i.ytimg.com/vi/2ZNJSHsaX1k/hqdefault.jpg"
         },
         {
@@ -61,26 +61,8 @@
             "channel_name": "순순희",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "114551",
+            "view_count": "117962",
             "thumbnail_url": "https://i.ytimg.com/vi/lju9zsUAHTs/hqdefault.jpg"
-        },
-        {
-            "video_id": "LgyuMDAGxlM",
-            "title": "[공식]Pokémon Presents 2026.2.27",
-            "channel_name": "포켓몬 공식 채널 Pokémon Korea, Inc.",
-            "category": "Gaming",
-            "duration": "24:43",
-            "view_count": "143305",
-            "thumbnail_url": "https://i.ytimg.com/vi/LgyuMDAGxlM/hqdefault.jpg"
-        },
-        {
-            "video_id": "1Lmy7qwmSMc",
-            "title": "IVE 아이브 'BLACKHOLE' MV",
-            "channel_name": "STARSHIP",
-            "category": "Music",
-            "duration": "3:24",
-            "view_count": "8027627",
-            "thumbnail_url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg"
         },
         {
             "video_id": "dhWRZrwPP7E",
@@ -88,7 +70,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:21",
-            "view_count": "202421",
+            "view_count": "224287",
             "thumbnail_url": "https://i.ytimg.com/vi/dhWRZrwPP7E/hqdefault.jpg"
         },
         {
@@ -97,8 +79,26 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "61069",
+            "view_count": "64356",
             "thumbnail_url": "https://i.ytimg.com/vi/ten6JjjGcH4/hqdefault.jpg"
+        },
+        {
+            "video_id": "LgyuMDAGxlM",
+            "title": "[공식]Pokémon Presents 2026.2.27",
+            "channel_name": "포켓몬 공식 채널 Pokémon Korea, Inc.",
+            "category": "Gaming",
+            "duration": "24:43",
+            "view_count": "150736",
+            "thumbnail_url": "https://i.ytimg.com/vi/LgyuMDAGxlM/hqdefault.jpg"
+        },
+        {
+            "video_id": "1Lmy7qwmSMc",
+            "title": "IVE 아이브 'BLACKHOLE' MV",
+            "channel_name": "STARSHIP",
+            "category": "Music",
+            "duration": "3:24",
+            "view_count": "8056154",
+            "thumbnail_url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg"
         },
         {
             "video_id": "9mSBnhQW5zU",
@@ -106,17 +106,17 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "4:43:00",
-            "view_count": "150700",
+            "view_count": "154703",
             "thumbnail_url": "https://i.ytimg.com/vi/9mSBnhQW5zU/hqdefault.jpg"
         },
         {
-            "video_id": "lY5V4hSLWY8",
-            "title": "Bruno Mars - Risk It All [Official Music Video]",
-            "channel_name": "Bruno Mars",
+            "video_id": "BF2_ipR1OI0",
+            "title": "Risk It All",
+            "channel_name": "Bruno Mars - Topic",
             "category": "Music",
-            "duration": "3:31",
-            "view_count": "3070467",
-            "thumbnail_url": "https://i.ytimg.com/vi/lY5V4hSLWY8/hqdefault.jpg"
+            "duration": "3:25",
+            "view_count": "589266",
+            "thumbnail_url": "https://i.ytimg.com/vi/BF2_ipR1OI0/hqdefault.jpg"
         },
         {
             "video_id": "xY0huveZiUs",
@@ -124,7 +124,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "27:15",
-            "view_count": "150562",
+            "view_count": "154042",
             "thumbnail_url": "https://i.ytimg.com/vi/xY0huveZiUs/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "Parc Jae Jung - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "108122",
+            "view_count": "111830",
             "thumbnail_url": "https://i.ytimg.com/vi/S1IkEoKyODE/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "44:24",
-            "view_count": "243106",
+            "view_count": "245348",
             "thumbnail_url": "https://i.ytimg.com/vi/GDvMxw-6JSM/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "18407",
+            "view_count": "19975",
             "thumbnail_url": "https://i.ytimg.com/vi/Ud44639XwDI/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "3:36:46",
-            "view_count": "226135",
+            "view_count": "227907",
             "thumbnail_url": "https://i.ytimg.com/vi/vd6W0W3SgLw/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "WJSN - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "135344",
+            "view_count": "137430",
             "thumbnail_url": "https://i.ytimg.com/vi/McynaplE44Q/hqdefault.jpg"
         },
         {
@@ -178,26 +178,8 @@
             "channel_name": "원큐",
             "category": "Gaming",
             "duration": "8:03",
-            "view_count": "211550",
+            "view_count": "217670",
             "thumbnail_url": "https://i.ytimg.com/vi/q4Xg-S6TfjY/hqdefault.jpg"
-        },
-        {
-            "video_id": "4KMuB02kL1g",
-            "title": "Crazy Love Song",
-            "channel_name": "Huh Gak - Topic",
-            "category": "Music",
-            "duration": "4:17",
-            "view_count": "153316",
-            "thumbnail_url": "https://i.ytimg.com/vi/4KMuB02kL1g/hqdefault.jpg"
-        },
-        {
-            "video_id": "I2gtZ09hZpg",
-            "title": "스크림 16연승 염보성과 유사 3챌 팀ㅋㅋㅋ｜멸망전 EP.02",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "27:04",
-            "view_count": "173009",
-            "thumbnail_url": "https://i.ytimg.com/vi/I2gtZ09hZpg/hqdefault.jpg"
         },
         {
             "video_id": "ToNZ_AZeubE",
@@ -205,8 +187,26 @@
             "channel_name": "월간 윤종신",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "17708",
+            "view_count": "19411",
             "thumbnail_url": "https://i.ytimg.com/vi/ToNZ_AZeubE/hqdefault.jpg"
+        },
+        {
+            "video_id": "I2gtZ09hZpg",
+            "title": "스크림 16연승 염보성과 유사 3챌 팀ㅋㅋㅋ｜멸망전 EP.02",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "27:04",
+            "view_count": "178106",
+            "thumbnail_url": "https://i.ytimg.com/vi/I2gtZ09hZpg/hqdefault.jpg"
+        },
+        {
+            "video_id": "4KMuB02kL1g",
+            "title": "Crazy Love Song",
+            "channel_name": "Huh Gak - Topic",
+            "category": "Music",
+            "duration": "4:17",
+            "view_count": "157359",
+            "thumbnail_url": "https://i.ytimg.com/vi/4KMuB02kL1g/hqdefault.jpg"
         },
         {
             "video_id": "i7uXpviKVIQ",
@@ -214,7 +214,7 @@
             "channel_name": "ProjectMoon Official",
             "category": "Gaming",
             "duration": "2:17:11",
-            "view_count": "465183",
+            "view_count": "471707",
             "thumbnail_url": "https://i.ytimg.com/vi/i7uXpviKVIQ/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "94709",
+            "view_count": "100780",
             "thumbnail_url": "https://i.ytimg.com/vi/ZEbmZ18UHbo/hqdefault.jpg"
         },
         {
@@ -232,8 +232,26 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "7:03:37",
-            "view_count": "298978",
+            "view_count": "299147",
             "thumbnail_url": "https://i.ytimg.com/vi/W9nUK_bEh4g/hqdefault.jpg"
+        },
+        {
+            "video_id": "H81NsniDjTk",
+            "title": "Tiny Light",
+            "channel_name": "SEVENTEEN - Topic",
+            "category": "Music",
+            "duration": "3:28",
+            "view_count": "101492",
+            "thumbnail_url": "https://i.ytimg.com/vi/H81NsniDjTk/hqdefault.jpg"
+        },
+        {
+            "video_id": "o68BFXcFrQ0",
+            "title": "\"이거 멸망전 팀 맞나요?\" 드디어 시작된 멸망전! 웃음 후보인 줄 알았던 팀이 알고 보니 우승 후보?!【2026 멸망전 Ep.01】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "37:42",
+            "view_count": "115213",
+            "thumbnail_url": "https://i.ytimg.com/vi/o68BFXcFrQ0/hqdefault.jpg"
         },
         {
             "video_id": "bVp6tXFoCVs",
@@ -241,7 +259,7 @@
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "279810",
+            "view_count": "283935",
             "thumbnail_url": "https://i.ytimg.com/vi/bVp6tXFoCVs/hqdefault.jpg"
         },
         {
@@ -250,26 +268,8 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "20:46",
-            "view_count": "150791",
+            "view_count": "157256",
             "thumbnail_url": "https://i.ytimg.com/vi/6xRSXIF8A8M/hqdefault.jpg"
-        },
-        {
-            "video_id": "H81NsniDjTk",
-            "title": "Tiny Light",
-            "channel_name": "SEVENTEEN - Topic",
-            "category": "Music",
-            "duration": "3:28",
-            "view_count": "92441",
-            "thumbnail_url": "https://i.ytimg.com/vi/H81NsniDjTk/hqdefault.jpg"
-        },
-        {
-            "video_id": "OZ1V95dKph0",
-            "title": "리니지 클래식.. 2억 1천쓰고 방어구 풀셋 하루만에 다 맞췄습니다 ㅋㅋㅋㅋ",
-            "channel_name": "겜케이",
-            "category": "Gaming",
-            "duration": "20:05",
-            "view_count": "195545",
-            "thumbnail_url": "https://i.ytimg.com/vi/OZ1V95dKph0/hqdefault.jpg"
         },
         {
             "video_id": "3D2WPA9ZN30",
@@ -277,26 +277,8 @@
             "channel_name": "Alex Warren - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "828415",
+            "view_count": "894566",
             "thumbnail_url": "https://i.ytimg.com/vi/3D2WPA9ZN30/hqdefault.jpg"
-        },
-        {
-            "video_id": "in6rDZS-4e4",
-            "title": "감스트 GTA5 기차막기 세계 최초로 성공했습니다!!",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "13:54",
-            "view_count": "465247",
-            "thumbnail_url": "https://i.ytimg.com/vi/in6rDZS-4e4/hqdefault.jpg"
-        },
-        {
-            "video_id": "2TC3ob-l5SI",
-            "title": "Lemon Tree",
-            "channel_name": "YEWON - Topic",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "26406",
-            "thumbnail_url": "https://i.ytimg.com/vi/2TC3ob-l5SI/hqdefault.jpg"
         },
         {
             "video_id": "JhO_1U6xO4I",
@@ -304,7 +286,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "29:44",
-            "view_count": "189160",
+            "view_count": "207358",
             "thumbnail_url": "https://i.ytimg.com/vi/JhO_1U6xO4I/hqdefault.jpg"
         },
         {
@@ -313,26 +295,8 @@
             "channel_name": "노래는? 허각!",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "53059",
+            "view_count": "54090",
             "thumbnail_url": "https://i.ytimg.com/vi/o8lYw-bzN38/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ciya-Hq135Y",
-            "title": "공포의 파피5",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "26:27",
-            "view_count": "327773",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ciya-Hq135Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "mPTq6M_jA4w",
-            "title": "[Live Clip] Parc Jae Jung(박재정), SULLYOON (NMIXX)(설윤 (NMIXX)) _ Always(지금 이대로만)",
-            "channel_name": "1theK (원더케이)",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "74096",
-            "thumbnail_url": "https://i.ytimg.com/vi/mPTq6M_jA4w/hqdefault.jpg"
         },
         {
             "video_id": "ai8CDvzGM1g",
@@ -340,26 +304,26 @@
             "channel_name": "아오니 AONI",
             "category": "Gaming",
             "duration": "31:49",
-            "view_count": "133071",
+            "view_count": "142991",
             "thumbnail_url": "https://i.ytimg.com/vi/ai8CDvzGM1g/hqdefault.jpg"
         },
         {
-            "video_id": "qO8_ncZ5CJs",
-            "title": "PLAYER (feat. Crush)",
-            "channel_name": "Sik-K - Topic",
+            "video_id": "2TC3ob-l5SI",
+            "title": "Lemon Tree",
+            "channel_name": "YEWON - Topic",
             "category": "Music",
-            "duration": "3:06",
-            "view_count": "52350",
-            "thumbnail_url": "https://i.ytimg.com/vi/qO8_ncZ5CJs/hqdefault.jpg"
+            "duration": "3:31",
+            "view_count": "27073",
+            "thumbnail_url": "https://i.ytimg.com/vi/2TC3ob-l5SI/hqdefault.jpg"
         },
         {
-            "video_id": "3pZAaUtOEvo",
-            "title": "리니지 클래식 / 수삼이 개 빡침! 리니지 역사상 이런 러쉬 보신 분ㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "수삼티비",
+            "video_id": "OZ1V95dKph0",
+            "title": "리니지 클래식.. 2억 1천쓰고 방어구 풀셋 하루만에 다 맞췄습니다 ㅋㅋㅋㅋ",
+            "channel_name": "겜케이",
             "category": "Gaming",
-            "duration": "11:56",
-            "view_count": "130541",
-            "thumbnail_url": "https://i.ytimg.com/vi/3pZAaUtOEvo/hqdefault.jpg"
+            "duration": "20:05",
+            "view_count": "198357",
+            "thumbnail_url": "https://i.ytimg.com/vi/OZ1V95dKph0/hqdefault.jpg"
         },
         {
             "video_id": "MnVVJRkcA-8",
@@ -367,8 +331,26 @@
             "channel_name": "Lauv - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "38761",
+            "view_count": "42497",
             "thumbnail_url": "https://i.ytimg.com/vi/MnVVJRkcA-8/hqdefault.jpg"
+        },
+        {
+            "video_id": "in6rDZS-4e4",
+            "title": "감스트 GTA5 기차막기 세계 최초로 성공했습니다!!",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "13:54",
+            "view_count": "470941",
+            "thumbnail_url": "https://i.ytimg.com/vi/in6rDZS-4e4/hqdefault.jpg"
+        },
+        {
+            "video_id": "mPTq6M_jA4w",
+            "title": "[Live Clip] Parc Jae Jung(박재정), SULLYOON (NMIXX)(설윤 (NMIXX)) _ Always(지금 이대로만)",
+            "channel_name": "1theK (원더케이)",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "75061",
+            "thumbnail_url": "https://i.ytimg.com/vi/mPTq6M_jA4w/hqdefault.jpg"
         },
         {
             "video_id": "2nI3exVEQmE",
@@ -376,8 +358,26 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "17:27",
-            "view_count": "139687",
+            "view_count": "152929",
             "thumbnail_url": "https://i.ytimg.com/vi/2nI3exVEQmE/hqdefault.jpg"
+        },
+        {
+            "video_id": "qO8_ncZ5CJs",
+            "title": "PLAYER (feat. Crush)",
+            "channel_name": "Sik-K - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "53205",
+            "thumbnail_url": "https://i.ytimg.com/vi/qO8_ncZ5CJs/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ciya-Hq135Y",
+            "title": "공포의 파피5",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "26:27",
+            "view_count": "330091",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ciya-Hq135Y/hqdefault.jpg"
         }
     ]
 }
