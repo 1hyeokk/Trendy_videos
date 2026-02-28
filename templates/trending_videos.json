@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-02-28 21:52:15",
+    "scraped_time": "2026-02-28 22:38:18",
     "videos": [
         {
             "video_id": "2GJfWMYCWY0",
@@ -7,7 +7,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "23795244",
+            "view_count": "23996721",
             "thumbnail_url": "https://i.ytimg.com/vi/2GJfWMYCWY0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "24:22",
-            "view_count": "379365",
+            "view_count": "381943",
             "thumbnail_url": "https://i.ytimg.com/vi/V96IbPspVrU/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이영지",
             "category": "Music",
             "duration": "5:18",
-            "view_count": "126808",
+            "view_count": "172995",
             "thumbnail_url": "https://i.ytimg.com/vi/dnL8tAmkZaU/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "15:15",
-            "view_count": "205568",
+            "view_count": "212619",
             "thumbnail_url": "https://i.ytimg.com/vi/RjBW-Hxh9ZI/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "NMIXX - Topic",
             "category": "Music",
             "duration": "2:13",
-            "view_count": "421597",
+            "view_count": "424404",
             "thumbnail_url": "https://i.ytimg.com/vi/VF5KiYpH-Pg/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:29",
-            "view_count": "415239",
+            "view_count": "419083",
             "thumbnail_url": "https://i.ytimg.com/vi/gsYDwTE2sAc/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Bruno Mars",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "5865019",
+            "view_count": "5956493",
             "thumbnail_url": "https://i.ytimg.com/vi/lY5V4hSLWY8/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "흔한남매",
             "category": "Entertainment",
             "duration": "49:08",
-            "view_count": "174289",
+            "view_count": "189022",
             "thumbnail_url": "https://i.ytimg.com/vi/FvGnwlGu0gI/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "1478225",
+            "view_count": "1485181",
             "thumbnail_url": "https://i.ytimg.com/vi/YfiJDJKt3fE/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:21",
-            "view_count": "323920",
+            "view_count": "327518",
             "thumbnail_url": "https://i.ytimg.com/vi/dhWRZrwPP7E/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "88715",
+            "view_count": "89544",
             "thumbnail_url": "https://i.ytimg.com/vi/ten6JjjGcH4/hqdefault.jpg"
-        },
-        {
-            "video_id": "1LZE3kTWVBQ",
-            "title": "눈치 보여서 스크림 못하겠다는 해기｜멸망전 EP.03",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "30:22",
-            "view_count": "139231",
-            "thumbnail_url": "https://i.ytimg.com/vi/1LZE3kTWVBQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "lju9zsUAHTs",
-            "title": "[풀버전M/V] 순순희(지환) - 눈을 감아도(2026)",
-            "channel_name": "순순희",
-            "category": "Music",
-            "duration": "4:18",
-            "view_count": "144615",
-            "thumbnail_url": "https://i.ytimg.com/vi/lju9zsUAHTs/hqdefault.jpg"
         },
         {
             "video_id": "jKnn4vQM9ok",
@@ -124,7 +106,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "49:59",
-            "view_count": "125932",
+            "view_count": "131170",
             "thumbnail_url": "https://i.ytimg.com/vi/jKnn4vQM9ok/hqdefault.jpg"
         },
         {
@@ -133,8 +115,26 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "31468",
+            "view_count": "32134",
             "thumbnail_url": "https://i.ytimg.com/vi/Ud44639XwDI/hqdefault.jpg"
+        },
+        {
+            "video_id": "1LZE3kTWVBQ",
+            "title": "눈치 보여서 스크림 못하겠다는 해기｜멸망전 EP.03",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "30:22",
+            "view_count": "143952",
+            "thumbnail_url": "https://i.ytimg.com/vi/1LZE3kTWVBQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "lju9zsUAHTs",
+            "title": "[풀버전M/V] 순순희(지환) - 눈을 감아도(2026)",
+            "channel_name": "순순희",
+            "category": "Music",
+            "duration": "4:18",
+            "view_count": "146027",
+            "thumbnail_url": "https://i.ytimg.com/vi/lju9zsUAHTs/hqdefault.jpg"
         },
         {
             "video_id": "BvkGpa7zpho",
@@ -142,7 +142,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "18:55",
-            "view_count": "196687",
+            "view_count": "201971",
             "thumbnail_url": "https://i.ytimg.com/vi/BvkGpa7zpho/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "SEVENTEEN - Topic",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "169234",
+            "view_count": "172483",
             "thumbnail_url": "https://i.ytimg.com/vi/H81NsniDjTk/hqdefault.jpg"
         },
         {
@@ -160,17 +160,17 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "37:42",
-            "view_count": "185674",
+            "view_count": "187980",
             "thumbnail_url": "https://i.ytimg.com/vi/o68BFXcFrQ0/hqdefault.jpg"
         },
         {
-            "video_id": "1Lmy7qwmSMc",
-            "title": "IVE 아이브 'BLACKHOLE' MV",
-            "channel_name": "STARSHIP",
+            "video_id": "ToNZ_AZeubE",
+            "title": "[MV] 2026 월간 윤종신 2월호 - 녀석(with 이창섭)",
+            "channel_name": "월간 윤종신",
             "category": "Music",
-            "duration": "3:24",
-            "view_count": "8254691",
-            "thumbnail_url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg"
+            "duration": "3:23",
+            "view_count": "29855",
+            "thumbnail_url": "https://i.ytimg.com/vi/ToNZ_AZeubE/hqdefault.jpg"
         },
         {
             "video_id": "2ZNJSHsaX1k",
@@ -178,7 +178,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "4:29:25",
-            "view_count": "281650",
+            "view_count": "281728",
             "thumbnail_url": "https://i.ytimg.com/vi/2ZNJSHsaX1k/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "Parc Jae Jung - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "144269",
+            "view_count": "145695",
             "thumbnail_url": "https://i.ytimg.com/vi/S1IkEoKyODE/hqdefault.jpg"
         },
         {
@@ -196,17 +196,17 @@
             "channel_name": "LCK Global",
             "category": "Gaming",
             "duration": "3:53:20",
-            "view_count": "507610",
+            "view_count": "537849",
             "thumbnail_url": "https://i.ytimg.com/vi/s1c2L1Cyaco/hqdefault.jpg"
         },
         {
-            "video_id": "ToNZ_AZeubE",
-            "title": "[MV] 2026 월간 윤종신 2월호 - 녀석(with 이창섭)",
-            "channel_name": "월간 윤종신",
+            "video_id": "1Lmy7qwmSMc",
+            "title": "IVE 아이브 'BLACKHOLE' MV",
+            "channel_name": "STARSHIP",
             "category": "Music",
-            "duration": "3:23",
-            "view_count": "29138",
-            "thumbnail_url": "https://i.ytimg.com/vi/ToNZ_AZeubE/hqdefault.jpg"
+            "duration": "3:24",
+            "view_count": "8267083",
+            "thumbnail_url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg"
         },
         {
             "video_id": "LgyuMDAGxlM",
@@ -214,7 +214,7 @@
             "channel_name": "포켓몬 공식 채널 Pokémon Korea, Inc.",
             "category": "Gaming",
             "duration": "24:43",
-            "view_count": "165447",
+            "view_count": "166011",
             "thumbnail_url": "https://i.ytimg.com/vi/LgyuMDAGxlM/hqdefault.jpg"
         },
         {
@@ -223,35 +223,17 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "136462",
+            "view_count": "138664",
             "thumbnail_url": "https://i.ytimg.com/vi/ZEbmZ18UHbo/hqdefault.jpg"
         },
         {
-            "video_id": "xY0huveZiUs",
-            "title": "탑 챌팀을 이기고 싶은 자.. \"마검을 뽑아라\"｜멸망전ep.02",
+            "video_id": "l4hSuqSjtrA",
+            "title": "내 가슴은 스맵 너인데..｜멸망전ep.03",
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "27:15",
-            "view_count": "172366",
-            "thumbnail_url": "https://i.ytimg.com/vi/xY0huveZiUs/hqdefault.jpg"
-        },
-        {
-            "video_id": "9AGez62OHUQ",
-            "title": "[최신가요 실시간 인기차트] 🏆🍉2026년 2월 28 일 4 주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
-            "channel_name": "chocobeat",
-            "category": "Music",
-            "duration": "12:23:17",
-            "view_count": "10887",
-            "thumbnail_url": "https://i.ytimg.com/vi/9AGez62OHUQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "9mSBnhQW5zU",
-            "title": "[빅보스 2. 27 ] 리니지 클래식 : 그러니까",
-            "channel_name": "빅보스",
-            "category": "Gaming",
-            "duration": "4:43:00",
-            "view_count": "162626",
-            "thumbnail_url": "https://i.ytimg.com/vi/9mSBnhQW5zU/hqdefault.jpg"
+            "duration": "39:16",
+            "view_count": "161120",
+            "thumbnail_url": "https://i.ytimg.com/vi/l4hSuqSjtrA/hqdefault.jpg"
         },
         {
             "video_id": "3D2WPA9ZN30",
@@ -259,8 +241,26 @@
             "channel_name": "Alex Warren - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "1082971",
+            "view_count": "1096420",
             "thumbnail_url": "https://i.ytimg.com/vi/3D2WPA9ZN30/hqdefault.jpg"
+        },
+        {
+            "video_id": "9mSBnhQW5zU",
+            "title": "[빅보스 2. 27 ] 리니지 클래식 : 그러니까",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "4:43:00",
+            "view_count": "163039",
+            "thumbnail_url": "https://i.ytimg.com/vi/9mSBnhQW5zU/hqdefault.jpg"
+        },
+        {
+            "video_id": "9AGez62OHUQ",
+            "title": "[최신가요 실시간 인기차트] 🏆🍉2026년 2월 28 일 4 주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
+            "channel_name": "chocobeat",
+            "category": "Music",
+            "duration": "12:23:17",
+            "view_count": "11356",
+            "thumbnail_url": "https://i.ytimg.com/vi/9AGez62OHUQ/hqdefault.jpg"
         },
         {
             "video_id": "JhO_1U6xO4I",
@@ -268,7 +268,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "29:44",
-            "view_count": "336617",
+            "view_count": "341506",
             "thumbnail_url": "https://i.ytimg.com/vi/JhO_1U6xO4I/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "박서진",
             "category": "Entertainment",
             "duration": "2:01",
-            "view_count": "11556",
+            "view_count": "12972",
             "thumbnail_url": "https://i.ytimg.com/vi/T2PxMT7Aq6I/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "아오니 AONI",
             "category": "Gaming",
             "duration": "31:49",
-            "view_count": "206054",
+            "view_count": "208619",
             "thumbnail_url": "https://i.ytimg.com/vi/ai8CDvzGM1g/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "WJSN - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "155736",
+            "view_count": "156404",
             "thumbnail_url": "https://i.ytimg.com/vi/McynaplE44Q/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "원큐",
             "category": "Gaming",
             "duration": "8:03",
-            "view_count": "236816",
+            "view_count": "237788",
             "thumbnail_url": "https://i.ytimg.com/vi/q4Xg-S6TfjY/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "Huh Gak - Topic",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "189812",
+            "view_count": "191137",
             "thumbnail_url": "https://i.ytimg.com/vi/4KMuB02kL1g/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "21:11",
-            "view_count": "164789",
+            "view_count": "167252",
             "thumbnail_url": "https://i.ytimg.com/vi/qetLUG6riMs/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "Lauv - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "64522",
+            "view_count": "65045",
             "thumbnail_url": "https://i.ytimg.com/vi/MnVVJRkcA-8/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "17:27",
-            "view_count": "219587",
+            "view_count": "222508",
             "thumbnail_url": "https://i.ytimg.com/vi/2nI3exVEQmE/hqdefault.jpg"
         },
         {
@@ -349,17 +349,17 @@
             "channel_name": "DAZBEE official",
             "category": "Music",
             "duration": "4:16",
-            "view_count": "115132",
+            "view_count": "117366",
             "thumbnail_url": "https://i.ytimg.com/vi/2PYbCSkkHKQ/hqdefault.jpg"
         },
         {
-            "video_id": "ztHssmHjsiY",
-            "title": "리니지 클래식 / 아!! 이정도면 확률 조작 아니냐 이거!!!",
-            "channel_name": "이문주",
+            "video_id": "nfhgRLjHxVg",
+            "title": "감스트 피파 본캐 2000만원 현질!! 초대박 떴습니다!!",
+            "channel_name": "감스트GAMST",
             "category": "Gaming",
-            "duration": "17:13",
-            "view_count": "127586",
-            "thumbnail_url": "https://i.ytimg.com/vi/ztHssmHjsiY/hqdefault.jpg"
+            "duration": "20:36",
+            "view_count": "68347",
+            "thumbnail_url": "https://i.ytimg.com/vi/nfhgRLjHxVg/hqdefault.jpg"
         },
         {
             "video_id": "bVp6tXFoCVs",
@@ -367,17 +367,17 @@
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "320696",
+            "view_count": "322998",
             "thumbnail_url": "https://i.ytimg.com/vi/bVp6tXFoCVs/hqdefault.jpg"
         },
         {
-            "video_id": "i7uXpviKVIQ",
-            "title": "림버스 컴퍼니 3주년 기념 및 로드맵 발표 방송/リンバス・カンパニー3周年記念・ロードマップ発表放送/Limbus Company 3rd Anniv. & Roadmap Livestream",
-            "channel_name": "ProjectMoon Official",
+            "video_id": "ztHssmHjsiY",
+            "title": "리니지 클래식 / 아!! 이정도면 확률 조작 아니냐 이거!!!",
+            "channel_name": "이문주",
             "category": "Gaming",
-            "duration": "2:17:11",
-            "view_count": "494958",
-            "thumbnail_url": "https://i.ytimg.com/vi/i7uXpviKVIQ/hqdefault.jpg"
+            "duration": "17:13",
+            "view_count": "128622",
+            "thumbnail_url": "https://i.ytimg.com/vi/ztHssmHjsiY/hqdefault.jpg"
         }
     ]
 }
