@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-01 16:34:47",
+    "scraped_time": "2026-03-01 17:35:37",
     "videos": [
         {
             "video_id": "2GJfWMYCWY0",
@@ -7,7 +7,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "28137292",
+            "view_count": "28339266",
             "thumbnail_url": "https://i.ytimg.com/vi/2GJfWMYCWY0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:57",
-            "view_count": "110695",
+            "view_count": "121622",
             "thumbnail_url": "https://i.ytimg.com/vi/_OONVfbksxw/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "20:36",
-            "view_count": "356801",
+            "view_count": "367994",
             "thumbnail_url": "https://i.ytimg.com/vi/nfhgRLjHxVg/hqdefault.jpg"
         },
         {
@@ -34,26 +34,8 @@
             "channel_name": "이영지",
             "category": "Music",
             "duration": "5:18",
-            "view_count": "649610",
+            "view_count": "671542",
             "thumbnail_url": "https://i.ytimg.com/vi/dnL8tAmkZaU/hqdefault.jpg"
-        },
-        {
-            "video_id": "W8XLrV_YGxU",
-            "title": "그걸 반사하면?",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "20:43",
-            "view_count": "324766",
-            "thumbnail_url": "https://i.ytimg.com/vi/W8XLrV_YGxU/hqdefault.jpg"
-        },
-        {
-            "video_id": "VF5KiYpH-Pg",
-            "title": "TIC TIC (feat. Pabllo Vittar)",
-            "channel_name": "NMIXX - Topic",
-            "category": "Music",
-            "duration": "2:13",
-            "view_count": "499811",
-            "thumbnail_url": "https://i.ytimg.com/vi/VF5KiYpH-Pg/hqdefault.jpg"
         },
         {
             "video_id": "2ru09OhV7Gc",
@@ -61,7 +43,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "33:09",
-            "view_count": "215810",
+            "view_count": "226059",
             "thumbnail_url": "https://i.ytimg.com/vi/2ru09OhV7Gc/hqdefault.jpg"
         },
         {
@@ -70,8 +52,26 @@
             "channel_name": "Ado",
             "category": "Music",
             "duration": "4:32",
-            "view_count": "2292739",
+            "view_count": "2427451",
             "thumbnail_url": "https://i.ytimg.com/vi/YvYii6dluM8/hqdefault.jpg"
+        },
+        {
+            "video_id": "W8XLrV_YGxU",
+            "title": "그걸 반사하면?",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "20:43",
+            "view_count": "334187",
+            "thumbnail_url": "https://i.ytimg.com/vi/W8XLrV_YGxU/hqdefault.jpg"
+        },
+        {
+            "video_id": "VF5KiYpH-Pg",
+            "title": "TIC TIC (feat. Pabllo Vittar)",
+            "channel_name": "NMIXX - Topic",
+            "category": "Music",
+            "duration": "2:13",
+            "view_count": "504868",
+            "thumbnail_url": "https://i.ytimg.com/vi/VF5KiYpH-Pg/hqdefault.jpg"
         },
         {
             "video_id": "o3E0YBG8xN4",
@@ -79,7 +79,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "5:26:12",
-            "view_count": "310201",
+            "view_count": "311144",
             "thumbnail_url": "https://i.ytimg.com/vi/o3E0YBG8xN4/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "Bruno Mars",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "9185079",
+            "view_count": "9301483",
             "thumbnail_url": "https://i.ytimg.com/vi/lY5V4hSLWY8/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "흔한남매",
             "category": "Entertainment",
             "duration": "49:08",
-            "view_count": "335592",
+            "view_count": "344371",
             "thumbnail_url": "https://i.ytimg.com/vi/FvGnwlGu0gI/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "IVE",
             "category": "Entertainment",
             "duration": "3:15",
-            "view_count": "133799",
+            "view_count": "138794",
             "thumbnail_url": "https://i.ytimg.com/vi/TNDF5Qr6ayo/hqdefault.jpg"
         },
         {
@@ -115,17 +115,17 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "28:04",
-            "view_count": "94582",
+            "view_count": "100889",
             "thumbnail_url": "https://i.ytimg.com/vi/gPEHCTM88EE/hqdefault.jpg"
         },
         {
-            "video_id": "Ud44639XwDI",
-            "title": "Same Sky",
-            "channel_name": "NCT WISH - Topic",
+            "video_id": "ZDjb_waM_5Y",
+            "title": "PC Room",
+            "channel_name": "Jang Beom June - Topic",
             "category": "Music",
-            "duration": "3:04",
-            "view_count": "43529",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ud44639XwDI/hqdefault.jpg"
+            "duration": "3:14",
+            "view_count": "28540",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZDjb_waM_5Y/hqdefault.jpg"
         },
         {
             "video_id": "RjBW-Hxh9ZI",
@@ -133,7 +133,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "15:15",
-            "view_count": "301737",
+            "view_count": "304147",
             "thumbnail_url": "https://i.ytimg.com/vi/RjBW-Hxh9ZI/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "105989",
+            "view_count": "108290",
             "thumbnail_url": "https://i.ytimg.com/vi/ten6JjjGcH4/hqdefault.jpg"
         },
         {
@@ -151,17 +151,17 @@
             "channel_name": "스트리머 사또 live-streamer satto",
             "category": "Gaming",
             "duration": "6:54:31",
-            "view_count": "132381",
+            "view_count": "133510",
             "thumbnail_url": "https://i.ytimg.com/vi/gTZa_Lt8-r8/hqdefault.jpg"
         },
         {
-            "video_id": "ZDjb_waM_5Y",
-            "title": "PC Room",
-            "channel_name": "Jang Beom June - Topic",
+            "video_id": "Ud44639XwDI",
+            "title": "Same Sky",
+            "channel_name": "NCT WISH - Topic",
             "category": "Music",
-            "duration": "3:14",
-            "view_count": "25784",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZDjb_waM_5Y/hqdefault.jpg"
+            "duration": "3:04",
+            "view_count": "44496",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ud44639XwDI/hqdefault.jpg"
         },
         {
             "video_id": "2c69Y2ewJfc",
@@ -169,7 +169,7 @@
             "channel_name": "아오니 AONI",
             "category": "Gaming",
             "duration": "22:50",
-            "view_count": "238801",
+            "view_count": "249699",
             "thumbnail_url": "https://i.ytimg.com/vi/2c69Y2ewJfc/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "SEVENTEEN - Topic",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "225295",
+            "view_count": "228381",
             "thumbnail_url": "https://i.ytimg.com/vi/H81NsniDjTk/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "24:22",
-            "view_count": "425502",
+            "view_count": "427764",
             "thumbnail_url": "https://i.ytimg.com/vi/V96IbPspVrU/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "순순희",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "169268",
+            "view_count": "171661",
             "thumbnail_url": "https://i.ytimg.com/vi/lju9zsUAHTs/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:29",
-            "view_count": "473033",
+            "view_count": "476033",
             "thumbnail_url": "https://i.ytimg.com/vi/gsYDwTE2sAc/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "월간 윤종신",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "40869",
+            "view_count": "41581",
             "thumbnail_url": "https://i.ytimg.com/vi/ToNZ_AZeubE/hqdefault.jpg"
         },
         {
@@ -223,26 +223,8 @@
             "channel_name": "겜케이",
             "category": "Gaming",
             "duration": "13:27",
-            "view_count": "176354",
+            "view_count": "178568",
             "thumbnail_url": "https://i.ytimg.com/vi/4G3hlmo2AIM/hqdefault.jpg"
-        },
-        {
-            "video_id": "S1IkEoKyODE",
-            "title": "Always",
-            "channel_name": "Parc Jae Jung - Topic",
-            "category": "Music",
-            "duration": "3:35",
-            "view_count": "176081",
-            "thumbnail_url": "https://i.ytimg.com/vi/S1IkEoKyODE/hqdefault.jpg"
-        },
-        {
-            "video_id": "jabR4SnbArE",
-            "title": "\"멸망전 3승 9패 정글러 데려가실 분?\" 심상치 않은 폼의 승률 25% 정글러 이상호..!【2026 멸망전 Ep.02】",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "39:46",
-            "view_count": "125984",
-            "thumbnail_url": "https://i.ytimg.com/vi/jabR4SnbArE/hqdefault.jpg"
         },
         {
             "video_id": "9AGez62OHUQ",
@@ -250,8 +232,26 @@
             "channel_name": "chocobeat",
             "category": "Music",
             "duration": "12:23:17",
-            "view_count": "18758",
+            "view_count": "19449",
             "thumbnail_url": "https://i.ytimg.com/vi/9AGez62OHUQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "jabR4SnbArE",
+            "title": "\"멸망전 3승 9패 정글러 데려가실 분?\" 심상치 않은 폼의 승률 25% 정글러 이상호..!【2026 멸망전 Ep.02】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "39:46",
+            "view_count": "130183",
+            "thumbnail_url": "https://i.ytimg.com/vi/jabR4SnbArE/hqdefault.jpg"
+        },
+        {
+            "video_id": "S1IkEoKyODE",
+            "title": "Always",
+            "channel_name": "Parc Jae Jung - Topic",
+            "category": "Music",
+            "duration": "3:35",
+            "view_count": "179921",
+            "thumbnail_url": "https://i.ytimg.com/vi/S1IkEoKyODE/hqdefault.jpg"
         },
         {
             "video_id": "BvkGpa7zpho",
@@ -259,7 +259,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "18:55",
-            "view_count": "273320",
+            "view_count": "276391",
             "thumbnail_url": "https://i.ytimg.com/vi/BvkGpa7zpho/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "175354",
+            "view_count": "177474",
             "thumbnail_url": "https://i.ytimg.com/vi/ZEbmZ18UHbo/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "정개철TV",
             "category": "Gaming",
             "duration": "6:43:00",
-            "view_count": "112372",
+            "view_count": "112402",
             "thumbnail_url": "https://i.ytimg.com/vi/ggXSHDHL-Ys/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "박서진",
             "category": "Entertainment",
             "duration": "2:01",
-            "view_count": "29652",
+            "view_count": "30476",
             "thumbnail_url": "https://i.ytimg.com/vi/T2PxMT7Aq6I/hqdefault.jpg"
         },
         {
@@ -295,26 +295,8 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "25:35",
-            "view_count": "98965",
+            "view_count": "101688",
             "thumbnail_url": "https://i.ytimg.com/vi/qOSRciYzrr0/hqdefault.jpg"
-        },
-        {
-            "video_id": "1Lmy7qwmSMc",
-            "title": "IVE 아이브 'BLACKHOLE' MV",
-            "channel_name": "STARSHIP",
-            "category": "Music",
-            "duration": "3:24",
-            "view_count": "8492366",
-            "thumbnail_url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg"
-        },
-        {
-            "video_id": "j7n4TStN0qY",
-            "title": "증바람에서 빅토르하기",
-            "channel_name": "Official dopa",
-            "category": "Gaming",
-            "duration": "25:54",
-            "view_count": "103097",
-            "thumbnail_url": "https://i.ytimg.com/vi/j7n4TStN0qY/hqdefault.jpg"
         },
         {
             "video_id": "q4tL9ZryUJg",
@@ -322,8 +304,26 @@
             "channel_name": "JKC - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "4759",
+            "view_count": "5924",
             "thumbnail_url": "https://i.ytimg.com/vi/q4tL9ZryUJg/hqdefault.jpg"
+        },
+        {
+            "video_id": "j7n4TStN0qY",
+            "title": "증바람에서 빅토르하기",
+            "channel_name": "Official dopa",
+            "category": "Gaming",
+            "duration": "25:54",
+            "view_count": "106778",
+            "thumbnail_url": "https://i.ytimg.com/vi/j7n4TStN0qY/hqdefault.jpg"
+        },
+        {
+            "video_id": "1Lmy7qwmSMc",
+            "title": "IVE 아이브 'BLACKHOLE' MV",
+            "channel_name": "STARSHIP",
+            "category": "Music",
+            "duration": "3:24",
+            "view_count": "8507328",
+            "thumbnail_url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg"
         },
         {
             "video_id": "2kdwesE_xXM",
@@ -331,44 +331,8 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "29:04",
-            "view_count": "115240",
+            "view_count": "117500",
             "thumbnail_url": "https://i.ytimg.com/vi/2kdwesE_xXM/hqdefault.jpg"
-        },
-        {
-            "video_id": "OwIG6N1-nuQ",
-            "title": "2026 Monthly Yoon February - Dude (with LEECHANGSUB)",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:18",
-            "view_count": "16225",
-            "thumbnail_url": "https://i.ytimg.com/vi/OwIG6N1-nuQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "aKDEBoijLW0",
-            "title": "현금 값어치만 300 이상..? 전서버에 1개 있다는 희귀템을 찾았습니다",
-            "channel_name": "글자네",
-            "category": "Gaming",
-            "duration": "14:34",
-            "view_count": "116447",
-            "thumbnail_url": "https://i.ytimg.com/vi/aKDEBoijLW0/hqdefault.jpg"
-        },
-        {
-            "video_id": "3D2WPA9ZN30",
-            "title": "FEVER DREAM",
-            "channel_name": "Alex Warren - Topic",
-            "category": "Music",
-            "duration": "2:34",
-            "view_count": "1379120",
-            "thumbnail_url": "https://i.ytimg.com/vi/3D2WPA9ZN30/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ny9b54bOkjc",
-            "title": "지는 사람이 VCT 스킨&신스킨 세트 사주는 죽음의 내기 시작ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "18:24",
-            "view_count": "119798",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ny9b54bOkjc/hqdefault.jpg"
         },
         {
             "video_id": "IXlKhqmx4Tk",
@@ -376,8 +340,44 @@
             "channel_name": "여한 - Topic",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "83281",
+            "view_count": "84394",
             "thumbnail_url": "https://i.ytimg.com/vi/IXlKhqmx4Tk/hqdefault.jpg"
+        },
+        {
+            "video_id": "aKDEBoijLW0",
+            "title": "현금 값어치만 300 이상..? 전서버에 1개 있다는 희귀템을 찾았습니다",
+            "channel_name": "글자네",
+            "category": "Gaming",
+            "duration": "14:34",
+            "view_count": "118715",
+            "thumbnail_url": "https://i.ytimg.com/vi/aKDEBoijLW0/hqdefault.jpg"
+        },
+        {
+            "video_id": "OwIG6N1-nuQ",
+            "title": "2026 Monthly Yoon February - Dude (with LEECHANGSUB)",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "16625",
+            "thumbnail_url": "https://i.ytimg.com/vi/OwIG6N1-nuQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "9QKhh3sOkN0",
+            "title": "스맵은 완전히 멘탈이 나가버렸습니다 【롤 멸망전 EP.07】",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "36:27",
+            "view_count": "54625",
+            "thumbnail_url": "https://i.ytimg.com/vi/9QKhh3sOkN0/hqdefault.jpg"
+        },
+        {
+            "video_id": "AK9ank665gE",
+            "title": "[최신가요연속듣기 2026] KPOP 노동요 플레이리스트 🥇 2026년 2월 28일 4주차, 멜론차트 X, 종합차트 노래모음",
+            "channel_name": "Yeo Doll",
+            "category": "Music",
+            "duration": "12:35:06",
+            "view_count": "11730",
+            "thumbnail_url": "https://i.ytimg.com/vi/AK9ank665gE/hqdefault.jpg"
         }
     ]
 }
