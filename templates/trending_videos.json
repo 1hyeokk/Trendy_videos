@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-01 23:27:15",
+    "scraped_time": "2026-03-02 00:27:21",
     "videos": [
         {
             "video_id": "2GJfWMYCWY0",
@@ -7,7 +7,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "29495479",
+            "view_count": "29664680",
             "thumbnail_url": "https://i.ytimg.com/vi/2GJfWMYCWY0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:57",
-            "view_count": "197326",
+            "view_count": "209524",
             "thumbnail_url": "https://i.ytimg.com/vi/_OONVfbksxw/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "20:36",
-            "view_count": "419949",
+            "view_count": "425807",
             "thumbnail_url": "https://i.ytimg.com/vi/nfhgRLjHxVg/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "이영지",
             "category": "Music",
             "duration": "5:18",
-            "view_count": "799870",
+            "view_count": "819997",
             "thumbnail_url": "https://i.ytimg.com/vi/dnL8tAmkZaU/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "1:34:53",
-            "view_count": "139822",
+            "view_count": "143809",
             "thumbnail_url": "https://i.ytimg.com/vi/Rkk_Y8F90Us/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "Ado",
             "category": "Music",
             "duration": "4:32",
-            "view_count": "3409972",
+            "view_count": "3585489",
             "thumbnail_url": "https://i.ytimg.com/vi/YvYii6dluM8/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "33:09",
-            "view_count": "261884",
+            "view_count": "265152",
             "thumbnail_url": "https://i.ytimg.com/vi/2ru09OhV7Gc/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "IVE",
             "category": "Entertainment",
             "duration": "3:15",
-            "view_count": "166398",
+            "view_count": "170790",
             "thumbnail_url": "https://i.ytimg.com/vi/TNDF5Qr6ayo/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:43",
-            "view_count": "372099",
+            "view_count": "375710",
             "thumbnail_url": "https://i.ytimg.com/vi/W8XLrV_YGxU/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "Jang Beom June - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "41855",
+            "view_count": "43045",
             "thumbnail_url": "https://i.ytimg.com/vi/ZDjb_waM_5Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "OpdFLBc0HEc",
-            "title": "GEN vs BFX | Woori Bank 2026 LCK CUP FINALS",
-            "channel_name": "LCK Global",
-            "category": "Gaming",
-            "duration": "3:58:01",
-            "view_count": "823712",
-            "thumbnail_url": "https://i.ytimg.com/vi/OpdFLBc0HEc/hqdefault.jpg"
-        },
-        {
-            "video_id": "VF5KiYpH-Pg",
-            "title": "TIC TIC (feat. Pabllo Vittar)",
-            "channel_name": "NMIXX - Topic",
-            "category": "Music",
-            "duration": "2:13",
-            "view_count": "534133",
-            "thumbnail_url": "https://i.ytimg.com/vi/VF5KiYpH-Pg/hqdefault.jpg"
         },
         {
             "video_id": "Ey8Ddcn3QYc",
@@ -115,7 +97,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "54:56",
-            "view_count": "127287",
+            "view_count": "133388",
             "thumbnail_url": "https://i.ytimg.com/vi/Ey8Ddcn3QYc/hqdefault.jpg"
         },
         {
@@ -124,8 +106,26 @@
             "channel_name": "Bruno Mars - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "1293138",
+            "view_count": "1310441",
             "thumbnail_url": "https://i.ytimg.com/vi/BF2_ipR1OI0/hqdefault.jpg"
+        },
+        {
+            "video_id": "OpdFLBc0HEc",
+            "title": "GEN vs BFX | Woori Bank 2026 LCK CUP FINALS",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "3:58:01",
+            "view_count": "831366",
+            "thumbnail_url": "https://i.ytimg.com/vi/OpdFLBc0HEc/hqdefault.jpg"
+        },
+        {
+            "video_id": "VF5KiYpH-Pg",
+            "title": "TIC TIC (feat. Pabllo Vittar)",
+            "channel_name": "NMIXX - Topic",
+            "category": "Music",
+            "duration": "2:13",
+            "view_count": "539112",
+            "thumbnail_url": "https://i.ytimg.com/vi/VF5KiYpH-Pg/hqdefault.jpg"
         },
         {
             "video_id": "FvGnwlGu0gI",
@@ -133,26 +133,8 @@
             "channel_name": "흔한남매",
             "category": "Entertainment",
             "duration": "49:08",
-            "view_count": "387234",
+            "view_count": "390331",
             "thumbnail_url": "https://i.ytimg.com/vi/FvGnwlGu0gI/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ud44639XwDI",
-            "title": "Same Sky",
-            "channel_name": "NCT WISH - Topic",
-            "category": "Music",
-            "duration": "3:04",
-            "view_count": "49347",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ud44639XwDI/hqdefault.jpg"
-        },
-        {
-            "video_id": "SiNvt888Frk",
-            "title": "역대급으로 팀짜기 난이도 높은 이번 멸망전ㅋㅋㅋㅋ｜멸망전ep.04",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "51:27",
-            "view_count": "98011",
-            "thumbnail_url": "https://i.ytimg.com/vi/SiNvt888Frk/hqdefault.jpg"
         },
         {
             "video_id": "ten6JjjGcH4",
@@ -160,44 +142,26 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "120955",
+            "view_count": "122610",
             "thumbnail_url": "https://i.ytimg.com/vi/ten6JjjGcH4/hqdefault.jpg"
         },
         {
-            "video_id": "2c69Y2ewJfc",
-            "title": "동숲 썩은물의 꿈섬 5X5 꾸미기 대결, 진짜 레전드입니다",
-            "channel_name": "아오니 AONI",
+            "video_id": "SiNvt888Frk",
+            "title": "역대급으로 팀짜기 난이도 높은 이번 멸망전ㅋㅋㅋㅋ｜멸망전ep.04",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "22:50",
-            "view_count": "303080",
-            "thumbnail_url": "https://i.ytimg.com/vi/2c69Y2ewJfc/hqdefault.jpg"
+            "duration": "51:27",
+            "view_count": "103747",
+            "thumbnail_url": "https://i.ytimg.com/vi/SiNvt888Frk/hqdefault.jpg"
         },
         {
-            "video_id": "IXlKhqmx4Tk",
-            "title": "이제는 어떻게 사랑을 하나요",
-            "channel_name": "여한 - Topic",
+            "video_id": "Ud44639XwDI",
+            "title": "Same Sky",
+            "channel_name": "NCT WISH - Topic",
             "category": "Music",
-            "duration": "3:48",
-            "view_count": "91916",
-            "thumbnail_url": "https://i.ytimg.com/vi/IXlKhqmx4Tk/hqdefault.jpg"
-        },
-        {
-            "video_id": "RjBW-Hxh9ZI",
-            "title": "[리니지클래식] 11화. Again 3.3% (ft.10검 도전!)",
-            "channel_name": "불도그",
-            "category": "Gaming",
-            "duration": "15:15",
-            "view_count": "315855",
-            "thumbnail_url": "https://i.ytimg.com/vi/RjBW-Hxh9ZI/hqdefault.jpg"
-        },
-        {
-            "video_id": "H81NsniDjTk",
-            "title": "Tiny Light",
-            "channel_name": "SEVENTEEN - Topic",
-            "category": "Music",
-            "duration": "3:28",
-            "view_count": "247441",
-            "thumbnail_url": "https://i.ytimg.com/vi/H81NsniDjTk/hqdefault.jpg"
+            "duration": "3:04",
+            "view_count": "49943",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ud44639XwDI/hqdefault.jpg"
         },
         {
             "video_id": "Z2MlbOWeeN4",
@@ -205,8 +169,44 @@
             "channel_name": "수삼티비",
             "category": "Gaming",
             "duration": "13:05",
-            "view_count": "85401",
+            "view_count": "97118",
             "thumbnail_url": "https://i.ytimg.com/vi/Z2MlbOWeeN4/hqdefault.jpg"
+        },
+        {
+            "video_id": "IXlKhqmx4Tk",
+            "title": "이제는 어떻게 사랑을 하나요",
+            "channel_name": "여한 - Topic",
+            "category": "Music",
+            "duration": "3:48",
+            "view_count": "92806",
+            "thumbnail_url": "https://i.ytimg.com/vi/IXlKhqmx4Tk/hqdefault.jpg"
+        },
+        {
+            "video_id": "6hbSx5I7Aek",
+            "title": "[원재]리니지클래식 3.1 데포로쥬 여포형 관련 트리플 관련 할말좀 하고 겜 할게요 天堂W 宙斯 伊娃 리니지M 리니지W 리니지클래식 리니지",
+            "channel_name": "원재TV",
+            "category": "Gaming",
+            "duration": "7:58:27",
+            "view_count": "88602",
+            "thumbnail_url": "https://i.ytimg.com/vi/6hbSx5I7Aek/hqdefault.jpg"
+        },
+        {
+            "video_id": "H81NsniDjTk",
+            "title": "Tiny Light",
+            "channel_name": "SEVENTEEN - Topic",
+            "category": "Music",
+            "duration": "3:28",
+            "view_count": "250841",
+            "thumbnail_url": "https://i.ytimg.com/vi/H81NsniDjTk/hqdefault.jpg"
+        },
+        {
+            "video_id": "2c69Y2ewJfc",
+            "title": "동숲 썩은물의 꿈섬 5X5 꾸미기 대결, 진짜 레전드입니다",
+            "channel_name": "아오니 AONI",
+            "category": "Gaming",
+            "duration": "22:50",
+            "view_count": "308356",
+            "thumbnail_url": "https://i.ytimg.com/vi/2c69Y2ewJfc/hqdefault.jpg"
         },
         {
             "video_id": "lju9zsUAHTs",
@@ -214,17 +214,17 @@
             "channel_name": "순순희",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "184216",
+            "view_count": "185687",
             "thumbnail_url": "https://i.ytimg.com/vi/lju9zsUAHTs/hqdefault.jpg"
         },
         {
-            "video_id": "IXLF8Xgayng",
-            "title": "[ 리니지클래식 재범군주 ] 적 거대 연합 결성 위기의 데포로쥬      #불도그 #빅보스 #수삼티비 #이문주",
-            "channel_name": "재범군주",
+            "video_id": "RjBW-Hxh9ZI",
+            "title": "[리니지클래식] 11화. Again 3.3% (ft.10검 도전!)",
+            "channel_name": "불도그",
             "category": "Gaming",
-            "duration": "5:25:11",
-            "view_count": "88266",
-            "thumbnail_url": "https://i.ytimg.com/vi/IXLF8Xgayng/hqdefault.jpg"
+            "duration": "15:15",
+            "view_count": "317371",
+            "thumbnail_url": "https://i.ytimg.com/vi/RjBW-Hxh9ZI/hqdefault.jpg"
         },
         {
             "video_id": "ToNZ_AZeubE",
@@ -232,98 +232,8 @@
             "channel_name": "월간 윤종신",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "45089",
+            "view_count": "45746",
             "thumbnail_url": "https://i.ytimg.com/vi/ToNZ_AZeubE/hqdefault.jpg"
-        },
-        {
-            "video_id": "gTZa_Lt8-r8",
-            "title": "3/1녹) 리니지클래식 사또 데포로쥬 서버 먹을때까지 달립시다",
-            "channel_name": "스트리머 사또 live-streamer satto",
-            "category": "Gaming",
-            "duration": "6:54:31",
-            "view_count": "137639",
-            "thumbnail_url": "https://i.ytimg.com/vi/gTZa_Lt8-r8/hqdefault.jpg"
-        },
-        {
-            "video_id": "q4tL9ZryUJg",
-            "title": "Debris",
-            "channel_name": "JKC - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "9683",
-            "thumbnail_url": "https://i.ytimg.com/vi/q4tL9ZryUJg/hqdefault.jpg"
-        },
-        {
-            "video_id": "4G3hlmo2AIM",
-            "title": "리니지 클래식.. 오늘 템 종결 짓겠습니다. 요판 방어구 러쉬 레전드",
-            "channel_name": "겜케이",
-            "category": "Gaming",
-            "duration": "13:27",
-            "view_count": "190406",
-            "thumbnail_url": "https://i.ytimg.com/vi/4G3hlmo2AIM/hqdefault.jpg"
-        },
-        {
-            "video_id": "S1IkEoKyODE",
-            "title": "Always",
-            "channel_name": "Parc Jae Jung - Topic",
-            "category": "Music",
-            "duration": "3:35",
-            "view_count": "199973",
-            "thumbnail_url": "https://i.ytimg.com/vi/S1IkEoKyODE/hqdefault.jpg"
-        },
-        {
-            "video_id": "jabR4SnbArE",
-            "title": "\"멸망전 3승 9패 정글러 데려가실 분?\" 심상치 않은 폼의 승률 25% 정글러 이상호..!【2026 멸망전 Ep.02】",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "39:46",
-            "view_count": "144915",
-            "thumbnail_url": "https://i.ytimg.com/vi/jabR4SnbArE/hqdefault.jpg"
-        },
-        {
-            "video_id": "9AGez62OHUQ",
-            "title": "[최신가요 실시간 인기차트] 🏆🍉2026년 2월 28 일 4 주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
-            "channel_name": "chocobeat",
-            "category": "Music",
-            "duration": "12:23:17",
-            "view_count": "22414",
-            "thumbnail_url": "https://i.ytimg.com/vi/9AGez62OHUQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "V96IbPspVrU",
-            "title": "톤즈 오브 데미지",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "24:22",
-            "view_count": "438060",
-            "thumbnail_url": "https://i.ytimg.com/vi/V96IbPspVrU/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZEbmZ18UHbo",
-            "title": "Keychain (FROM THE FILM K-POPS!)",
-            "channel_name": "aespa - Topic",
-            "category": "Music",
-            "duration": "2:51",
-            "view_count": "190927",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZEbmZ18UHbo/hqdefault.jpg"
-        },
-        {
-            "video_id": "gsYDwTE2sAc",
-            "title": "악어는 완전히 멘탈이 나가버렸습니다 [마크 하드코어 EP.12]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "31:29",
-            "view_count": "490468",
-            "thumbnail_url": "https://i.ytimg.com/vi/gsYDwTE2sAc/hqdefault.jpg"
-        },
-        {
-            "video_id": "6kKKFKlDbtc",
-            "title": "ROBOT",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:30",
-            "view_count": "15105",
-            "thumbnail_url": "https://i.ytimg.com/vi/6kKKFKlDbtc/hqdefault.jpg"
         },
         {
             "video_id": "W6wzCcQXsus",
@@ -331,8 +241,98 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "1:42:07",
-            "view_count": "109346",
+            "view_count": "134180",
             "thumbnail_url": "https://i.ytimg.com/vi/W6wzCcQXsus/hqdefault.jpg"
+        },
+        {
+            "video_id": "q4tL9ZryUJg",
+            "title": "Debris",
+            "channel_name": "JKC - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "9768",
+            "thumbnail_url": "https://i.ytimg.com/vi/q4tL9ZryUJg/hqdefault.jpg"
+        },
+        {
+            "video_id": "IXLF8Xgayng",
+            "title": "[ 리니지클래식 재범군주 ] 적 거대 연합 결성 위기의 데포로쥬      #불도그 #빅보스 #수삼티비 #이문주",
+            "channel_name": "재범군주",
+            "category": "Gaming",
+            "duration": "5:25:11",
+            "view_count": "88441",
+            "thumbnail_url": "https://i.ytimg.com/vi/IXLF8Xgayng/hqdefault.jpg"
+        },
+        {
+            "video_id": "S1IkEoKyODE",
+            "title": "Always",
+            "channel_name": "Parc Jae Jung - Topic",
+            "category": "Music",
+            "duration": "3:35",
+            "view_count": "202157",
+            "thumbnail_url": "https://i.ytimg.com/vi/S1IkEoKyODE/hqdefault.jpg"
+        },
+        {
+            "video_id": "gTZa_Lt8-r8",
+            "title": "3/1녹) 리니지클래식 사또 데포로쥬 서버 먹을때까지 달립시다",
+            "channel_name": "스트리머 사또 live-streamer satto",
+            "category": "Gaming",
+            "duration": "6:54:31",
+            "view_count": "138016",
+            "thumbnail_url": "https://i.ytimg.com/vi/gTZa_Lt8-r8/hqdefault.jpg"
+        },
+        {
+            "video_id": "9AGez62OHUQ",
+            "title": "[최신가요 실시간 인기차트] 🏆🍉2026년 2월 28 일 4 주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트",
+            "channel_name": "chocobeat",
+            "category": "Music",
+            "duration": "12:23:17",
+            "view_count": "22614",
+            "thumbnail_url": "https://i.ytimg.com/vi/9AGez62OHUQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "4G3hlmo2AIM",
+            "title": "리니지 클래식.. 오늘 템 종결 짓겠습니다. 요판 방어구 러쉬 레전드",
+            "channel_name": "겜케이",
+            "category": "Gaming",
+            "duration": "13:27",
+            "view_count": "190100",
+            "thumbnail_url": "https://i.ytimg.com/vi/4G3hlmo2AIM/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZEbmZ18UHbo",
+            "title": "Keychain (FROM THE FILM K-POPS!)",
+            "channel_name": "aespa - Topic",
+            "category": "Music",
+            "duration": "2:51",
+            "view_count": "192905",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZEbmZ18UHbo/hqdefault.jpg"
+        },
+        {
+            "video_id": "jiHNvYWr4HA",
+            "title": "\"부부 동반 멸망전 출전..?\" 스크림 전승으로 다 패고 다니는 이상호x애교용 부부!【2026 멸망전 Ep.03】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "36:23",
+            "view_count": "71298",
+            "thumbnail_url": "https://i.ytimg.com/vi/jiHNvYWr4HA/hqdefault.jpg"
+        },
+        {
+            "video_id": "6kKKFKlDbtc",
+            "title": "ROBOT",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:30",
+            "view_count": "15827",
+            "thumbnail_url": "https://i.ytimg.com/vi/6kKKFKlDbtc/hqdefault.jpg"
+        },
+        {
+            "video_id": "8udmjpv6EQs",
+            "title": "리니지 클래식 / 시즌1종료!! 본 장비까지 다 러쉬하고 떠나는 이유 ft 똘끼형",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "12:15",
+            "view_count": "22978",
+            "thumbnail_url": "https://i.ytimg.com/vi/8udmjpv6EQs/hqdefault.jpg"
         },
         {
             "video_id": "T2PxMT7Aq6I",
@@ -340,17 +340,17 @@
             "channel_name": "박서진",
             "category": "Entertainment",
             "duration": "2:01",
-            "view_count": "36870",
+            "view_count": "37525",
             "thumbnail_url": "https://i.ytimg.com/vi/T2PxMT7Aq6I/hqdefault.jpg"
         },
         {
-            "video_id": "Cd9W_XBnp_k",
-            "title": "[타이슨장기] 여기가 소문난 묘수전문 맛집!",
-            "channel_name": "타이슨장기",
+            "video_id": "V96IbPspVrU",
+            "title": "톤즈 오브 데미지",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "3:07:35",
-            "view_count": "36273",
-            "thumbnail_url": "https://i.ytimg.com/vi/Cd9W_XBnp_k/hqdefault.jpg"
+            "duration": "24:22",
+            "view_count": "439287",
+            "thumbnail_url": "https://i.ytimg.com/vi/V96IbPspVrU/hqdefault.jpg"
         },
         {
             "video_id": "1Lmy7qwmSMc",
@@ -358,17 +358,17 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "8601295",
+            "view_count": "8614780",
             "thumbnail_url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg"
         },
         {
-            "video_id": "9QKhh3sOkN0",
-            "title": "스맵은 완전히 멘탈이 나가버렸습니다 【롤 멸망전 EP.07】",
-            "channel_name": "스맵",
+            "video_id": "gsYDwTE2sAc",
+            "title": "악어는 완전히 멘탈이 나가버렸습니다 [마크 하드코어 EP.12]",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "36:27",
-            "view_count": "72618",
-            "thumbnail_url": "https://i.ytimg.com/vi/9QKhh3sOkN0/hqdefault.jpg"
+            "duration": "31:29",
+            "view_count": "492681",
+            "thumbnail_url": "https://i.ytimg.com/vi/gsYDwTE2sAc/hqdefault.jpg"
         },
         {
             "video_id": "2TC3ob-l5SI",
@@ -376,7 +376,7 @@
             "channel_name": "YEWON - Topic",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "68664",
+            "view_count": "70163",
             "thumbnail_url": "https://i.ytimg.com/vi/2TC3ob-l5SI/hqdefault.jpg"
         }
     ]
