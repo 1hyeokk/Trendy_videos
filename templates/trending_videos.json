@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-01 19:28:36",
+    "scraped_time": "2026-03-01 20:23:27",
     "videos": [
         {
             "video_id": "2GJfWMYCWY0",
@@ -7,7 +7,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "28706982",
+            "view_count": "28898738",
             "thumbnail_url": "https://i.ytimg.com/vi/2GJfWMYCWY0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:57",
-            "view_count": "139706",
+            "view_count": "148468",
             "thumbnail_url": "https://i.ytimg.com/vi/_OONVfbksxw/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "20:36",
-            "view_count": "386486",
+            "view_count": "395729",
             "thumbnail_url": "https://i.ytimg.com/vi/nfhgRLjHxVg/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "이영지",
             "category": "Music",
             "duration": "5:18",
-            "view_count": "712316",
+            "view_count": "731566",
             "thumbnail_url": "https://i.ytimg.com/vi/dnL8tAmkZaU/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "33:09",
-            "view_count": "241414",
+            "view_count": "247051",
             "thumbnail_url": "https://i.ytimg.com/vi/2ru09OhV7Gc/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "Ado",
             "category": "Music",
             "duration": "4:32",
-            "view_count": "2705220",
+            "view_count": "2877461",
             "thumbnail_url": "https://i.ytimg.com/vi/YvYii6dluM8/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:43",
-            "view_count": "348924",
+            "view_count": "355753",
             "thumbnail_url": "https://i.ytimg.com/vi/W8XLrV_YGxU/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "NMIXX - Topic",
             "category": "Music",
             "duration": "2:13",
-            "view_count": "513407",
+            "view_count": "518274",
             "thumbnail_url": "https://i.ytimg.com/vi/VF5KiYpH-Pg/hqdefault.jpg"
-        },
-        {
-            "video_id": "o3E0YBG8xN4",
-            "title": "24시간 풀전투🔴여기서 밀리면 끝이다 리니지클래식 데포로쥬🎈겜방 입니다",
-            "channel_name": "만만",
-            "category": "Gaming",
-            "duration": "5:26:12",
-            "view_count": "312482",
-            "thumbnail_url": "https://i.ytimg.com/vi/o3E0YBG8xN4/hqdefault.jpg"
-        },
-        {
-            "video_id": "lY5V4hSLWY8",
-            "title": "Bruno Mars - Risk It All [Official Music Video]",
-            "channel_name": "Bruno Mars",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "9489448",
-            "thumbnail_url": "https://i.ytimg.com/vi/lY5V4hSLWY8/hqdefault.jpg"
         },
         {
             "video_id": "FvGnwlGu0gI",
@@ -97,7 +79,7 @@
             "channel_name": "흔한남매",
             "category": "Entertainment",
             "duration": "49:08",
-            "view_count": "360136",
+            "view_count": "367667",
             "thumbnail_url": "https://i.ytimg.com/vi/FvGnwlGu0gI/hqdefault.jpg"
         },
         {
@@ -106,8 +88,26 @@
             "channel_name": "IVE",
             "category": "Entertainment",
             "duration": "3:15",
-            "view_count": "147816",
+            "view_count": "152138",
             "thumbnail_url": "https://i.ytimg.com/vi/TNDF5Qr6ayo/hqdefault.jpg"
+        },
+        {
+            "video_id": "o3E0YBG8xN4",
+            "title": "24시간 풀전투🔴여기서 밀리면 끝이다 리니지클래식 데포로쥬🎈겜방 입니다",
+            "channel_name": "만만",
+            "category": "Gaming",
+            "duration": "5:26:12",
+            "view_count": "313147",
+            "thumbnail_url": "https://i.ytimg.com/vi/o3E0YBG8xN4/hqdefault.jpg"
+        },
+        {
+            "video_id": "BF2_ipR1OI0",
+            "title": "Risk It All",
+            "channel_name": "Bruno Mars - Topic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "1239483",
+            "thumbnail_url": "https://i.ytimg.com/vi/BF2_ipR1OI0/hqdefault.jpg"
         },
         {
             "video_id": "gPEHCTM88EE",
@@ -115,7 +115,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "28:04",
-            "view_count": "108404",
+            "view_count": "111363",
             "thumbnail_url": "https://i.ytimg.com/vi/gPEHCTM88EE/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "Jang Beom June - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "33880",
+            "view_count": "36221",
             "thumbnail_url": "https://i.ytimg.com/vi/ZDjb_waM_5Y/hqdefault.jpg"
         },
         {
@@ -133,26 +133,8 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "15:15",
-            "view_count": "308422",
+            "view_count": "310356",
             "thumbnail_url": "https://i.ytimg.com/vi/RjBW-Hxh9ZI/hqdefault.jpg"
-        },
-        {
-            "video_id": "ten6JjjGcH4",
-            "title": "안녕",
-            "channel_name": "BIG Naughty - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "112589",
-            "thumbnail_url": "https://i.ytimg.com/vi/ten6JjjGcH4/hqdefault.jpg"
-        },
-        {
-            "video_id": "2c69Y2ewJfc",
-            "title": "동숲 썩은물의 꿈섬 5X5 꾸미기 대결, 진짜 레전드입니다",
-            "channel_name": "아오니 AONI",
-            "category": "Gaming",
-            "duration": "22:50",
-            "view_count": "268518",
-            "thumbnail_url": "https://i.ytimg.com/vi/2c69Y2ewJfc/hqdefault.jpg"
         },
         {
             "video_id": "Ud44639XwDI",
@@ -160,17 +142,35 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "46080",
+            "view_count": "46892",
             "thumbnail_url": "https://i.ytimg.com/vi/Ud44639XwDI/hqdefault.jpg"
         },
         {
-            "video_id": "gTZa_Lt8-r8",
-            "title": "3/1녹) 리니지클래식 사또 데포로쥬 서버 먹을때까지 달립시다",
-            "channel_name": "스트리머 사또 live-streamer satto",
+            "video_id": "2c69Y2ewJfc",
+            "title": "동숲 썩은물의 꿈섬 5X5 꾸미기 대결, 진짜 레전드입니다",
+            "channel_name": "아오니 AONI",
             "category": "Gaming",
-            "duration": "6:54:31",
-            "view_count": "135298",
-            "thumbnail_url": "https://i.ytimg.com/vi/gTZa_Lt8-r8/hqdefault.jpg"
+            "duration": "22:50",
+            "view_count": "278220",
+            "thumbnail_url": "https://i.ytimg.com/vi/2c69Y2ewJfc/hqdefault.jpg"
+        },
+        {
+            "video_id": "ten6JjjGcH4",
+            "title": "안녕",
+            "channel_name": "BIG Naughty - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "114659",
+            "thumbnail_url": "https://i.ytimg.com/vi/ten6JjjGcH4/hqdefault.jpg"
+        },
+        {
+            "video_id": "IXLF8Xgayng",
+            "title": "[ 리니지클래식 재범군주 ] 적 거대 연합 결성 위기의 데포로쥬      #불도그 #빅보스 #수삼티비 #이문주",
+            "channel_name": "재범군주",
+            "category": "Gaming",
+            "duration": "5:25:11",
+            "view_count": "81763",
+            "thumbnail_url": "https://i.ytimg.com/vi/IXLF8Xgayng/hqdefault.jpg"
         },
         {
             "video_id": "H81NsniDjTk",
@@ -178,17 +178,35 @@
             "channel_name": "SEVENTEEN - Topic",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "234282",
+            "view_count": "237274",
             "thumbnail_url": "https://i.ytimg.com/vi/H81NsniDjTk/hqdefault.jpg"
         },
         {
-            "video_id": "V96IbPspVrU",
-            "title": "톤즈 오브 데미지",
-            "channel_name": "PAKA",
+            "video_id": "gTZa_Lt8-r8",
+            "title": "3/1녹) 리니지클래식 사또 데포로쥬 서버 먹을때까지 달립시다",
+            "channel_name": "스트리머 사또 live-streamer satto",
             "category": "Gaming",
-            "duration": "24:22",
-            "view_count": "431746",
-            "thumbnail_url": "https://i.ytimg.com/vi/V96IbPspVrU/hqdefault.jpg"
+            "duration": "6:54:31",
+            "view_count": "136130",
+            "thumbnail_url": "https://i.ytimg.com/vi/gTZa_Lt8-r8/hqdefault.jpg"
+        },
+        {
+            "video_id": "IXlKhqmx4Tk",
+            "title": "이제는 어떻게 사랑을 하나요",
+            "channel_name": "여한 - Topic",
+            "category": "Music",
+            "duration": "3:48",
+            "view_count": "88146",
+            "thumbnail_url": "https://i.ytimg.com/vi/IXlKhqmx4Tk/hqdefault.jpg"
+        },
+        {
+            "video_id": "SiNvt888Frk",
+            "title": "역대급으로 팀짜기 난이도 높은 이번 멸망전ㅋㅋㅋㅋ｜멸망전ep.04",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "51:27",
+            "view_count": "72016",
+            "thumbnail_url": "https://i.ytimg.com/vi/SiNvt888Frk/hqdefault.jpg"
         },
         {
             "video_id": "lju9zsUAHTs",
@@ -196,8 +214,26 @@
             "channel_name": "순순희",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "176003",
+            "view_count": "178322",
             "thumbnail_url": "https://i.ytimg.com/vi/lju9zsUAHTs/hqdefault.jpg"
+        },
+        {
+            "video_id": "V96IbPspVrU",
+            "title": "톤즈 오브 데미지",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "24:22",
+            "view_count": "433519",
+            "thumbnail_url": "https://i.ytimg.com/vi/V96IbPspVrU/hqdefault.jpg"
+        },
+        {
+            "video_id": "q4tL9ZryUJg",
+            "title": "Debris",
+            "channel_name": "JKC - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "8423",
+            "thumbnail_url": "https://i.ytimg.com/vi/q4tL9ZryUJg/hqdefault.jpg"
         },
         {
             "video_id": "4G3hlmo2AIM",
@@ -205,7 +241,7 @@
             "channel_name": "겜케이",
             "category": "Gaming",
             "duration": "13:27",
-            "view_count": "182811",
+            "view_count": "184919",
             "thumbnail_url": "https://i.ytimg.com/vi/4G3hlmo2AIM/hqdefault.jpg"
         },
         {
@@ -214,7 +250,7 @@
             "channel_name": "월간 윤종신",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "42497",
+            "view_count": "43049",
             "thumbnail_url": "https://i.ytimg.com/vi/ToNZ_AZeubE/hqdefault.jpg"
         },
         {
@@ -223,44 +259,8 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:29",
-            "view_count": "480667",
+            "view_count": "483064",
             "thumbnail_url": "https://i.ytimg.com/vi/gsYDwTE2sAc/hqdefault.jpg"
-        },
-        {
-            "video_id": "IXlKhqmx4Tk",
-            "title": "이제는 어떻게 사랑을 하나요",
-            "channel_name": "여한 - Topic",
-            "category": "Music",
-            "duration": "3:48",
-            "view_count": "86849",
-            "thumbnail_url": "https://i.ytimg.com/vi/IXlKhqmx4Tk/hqdefault.jpg"
-        },
-        {
-            "video_id": "jabR4SnbArE",
-            "title": "\"멸망전 3승 9패 정글러 데려가실 분?\" 심상치 않은 폼의 승률 25% 정글러 이상호..!【2026 멸망전 Ep.02】",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "39:46",
-            "view_count": "135980",
-            "thumbnail_url": "https://i.ytimg.com/vi/jabR4SnbArE/hqdefault.jpg"
-        },
-        {
-            "video_id": "q4tL9ZryUJg",
-            "title": "Debris",
-            "channel_name": "JKC - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "7576",
-            "thumbnail_url": "https://i.ytimg.com/vi/q4tL9ZryUJg/hqdefault.jpg"
-        },
-        {
-            "video_id": "SiNvt888Frk",
-            "title": "역대급으로 팀짜기 난이도 높은 이번 멸망전ㅋㅋㅋㅋ｜멸망전ep.04",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "51:27",
-            "view_count": "61692",
-            "thumbnail_url": "https://i.ytimg.com/vi/SiNvt888Frk/hqdefault.jpg"
         },
         {
             "video_id": "9AGez62OHUQ",
@@ -268,17 +268,17 @@
             "channel_name": "chocobeat",
             "category": "Music",
             "duration": "12:23:17",
-            "view_count": "20687",
+            "view_count": "21265",
             "thumbnail_url": "https://i.ytimg.com/vi/9AGez62OHUQ/hqdefault.jpg"
         },
         {
-            "video_id": "BvkGpa7zpho",
-            "title": "마침내 나온다 10세대 윈드·웨이브 [포켓몬 프레젠트]",
-            "channel_name": "근가놈",
+            "video_id": "jabR4SnbArE",
+            "title": "\"멸망전 3승 9패 정글러 데려가실 분?\" 심상치 않은 폼의 승률 25% 정글러 이상호..!【2026 멸망전 Ep.02】",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "18:55",
-            "view_count": "281391",
-            "thumbnail_url": "https://i.ytimg.com/vi/BvkGpa7zpho/hqdefault.jpg"
+            "duration": "39:46",
+            "view_count": "138509",
+            "thumbnail_url": "https://i.ytimg.com/vi/jabR4SnbArE/hqdefault.jpg"
         },
         {
             "video_id": "S1IkEoKyODE",
@@ -286,17 +286,17 @@
             "channel_name": "Parc Jae Jung - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "186940",
+            "view_count": "190585",
             "thumbnail_url": "https://i.ytimg.com/vi/S1IkEoKyODE/hqdefault.jpg"
         },
         {
-            "video_id": "ggXSHDHL-Ys",
-            "title": "리니지클래식 정개철 우리가누군지보여주자 26년전문가  天堂經典版#조선협객전클래식#게임#노래#음악#모바일#리니지클래식#nc##리니지m#血統#리니지",
-            "channel_name": "정개철TV",
+            "video_id": "BvkGpa7zpho",
+            "title": "마침내 나온다 10세대 윈드·웨이브 [포켓몬 프레젠트]",
+            "channel_name": "근가놈",
             "category": "Gaming",
-            "duration": "6:43:00",
-            "view_count": "112456",
-            "thumbnail_url": "https://i.ytimg.com/vi/ggXSHDHL-Ys/hqdefault.jpg"
+            "duration": "18:55",
+            "view_count": "283789",
+            "thumbnail_url": "https://i.ytimg.com/vi/BvkGpa7zpho/hqdefault.jpg"
         },
         {
             "video_id": "ZEbmZ18UHbo",
@@ -304,44 +304,8 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "181850",
+            "view_count": "184154",
             "thumbnail_url": "https://i.ytimg.com/vi/ZEbmZ18UHbo/hqdefault.jpg"
-        },
-        {
-            "video_id": "qOSRciYzrr0",
-            "title": "12시 땡 하고 신규팩 떴다! NEW금고부터 올림픽팩까지;;",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "25:35",
-            "view_count": "106134",
-            "thumbnail_url": "https://i.ytimg.com/vi/qOSRciYzrr0/hqdefault.jpg"
-        },
-        {
-            "video_id": "T2PxMT7Aq6I",
-            "title": "[박서진] MY NAME IS SEO JIN",
-            "channel_name": "박서진",
-            "category": "Entertainment",
-            "duration": "2:01",
-            "view_count": "32534",
-            "thumbnail_url": "https://i.ytimg.com/vi/T2PxMT7Aq6I/hqdefault.jpg"
-        },
-        {
-            "video_id": "j7n4TStN0qY",
-            "title": "증바람에서 빅토르하기",
-            "channel_name": "Official dopa",
-            "category": "Gaming",
-            "duration": "25:54",
-            "view_count": "112141",
-            "thumbnail_url": "https://i.ytimg.com/vi/j7n4TStN0qY/hqdefault.jpg"
-        },
-        {
-            "video_id": "1Lmy7qwmSMc",
-            "title": "IVE 아이브 'BLACKHOLE' MV",
-            "channel_name": "STARSHIP",
-            "category": "Music",
-            "duration": "3:24",
-            "view_count": "8536374",
-            "thumbnail_url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg"
         },
         {
             "video_id": "9QKhh3sOkN0",
@@ -349,8 +313,62 @@
             "channel_name": "스맵",
             "category": "Gaming",
             "duration": "36:27",
-            "view_count": "63692",
+            "view_count": "66421",
             "thumbnail_url": "https://i.ytimg.com/vi/9QKhh3sOkN0/hqdefault.jpg"
+        },
+        {
+            "video_id": "T2PxMT7Aq6I",
+            "title": "[박서진] MY NAME IS SEO JIN",
+            "channel_name": "박서진",
+            "category": "Entertainment",
+            "duration": "2:01",
+            "view_count": "33493",
+            "thumbnail_url": "https://i.ytimg.com/vi/T2PxMT7Aq6I/hqdefault.jpg"
+        },
+        {
+            "video_id": "qOSRciYzrr0",
+            "title": "12시 땡 하고 신규팩 떴다! NEW금고부터 올림픽팩까지;;",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "25:35",
+            "view_count": "108047",
+            "thumbnail_url": "https://i.ytimg.com/vi/qOSRciYzrr0/hqdefault.jpg"
+        },
+        {
+            "video_id": "1Lmy7qwmSMc",
+            "title": "IVE 아이브 'BLACKHOLE' MV",
+            "channel_name": "STARSHIP",
+            "category": "Music",
+            "duration": "3:24",
+            "view_count": "8552161",
+            "thumbnail_url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg"
+        },
+        {
+            "video_id": "j7n4TStN0qY",
+            "title": "증바람에서 빅토르하기",
+            "channel_name": "Official dopa",
+            "category": "Gaming",
+            "duration": "25:54",
+            "view_count": "114537",
+            "thumbnail_url": "https://i.ytimg.com/vi/j7n4TStN0qY/hqdefault.jpg"
+        },
+        {
+            "video_id": "6kKKFKlDbtc",
+            "title": "ROBOT",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:30",
+            "view_count": "11915",
+            "thumbnail_url": "https://i.ytimg.com/vi/6kKKFKlDbtc/hqdefault.jpg"
+        },
+        {
+            "video_id": "ggXSHDHL-Ys",
+            "title": "리니지클래식 정개철 우리가누군지보여주자 26년전문가  天堂經典版#조선협객전클래식#게임#노래#음악#모바일#리니지클래식#nc##리니지m#血統#리니지",
+            "channel_name": "정개철TV",
+            "category": "Gaming",
+            "duration": "6:43:00",
+            "view_count": "112501",
+            "thumbnail_url": "https://i.ytimg.com/vi/ggXSHDHL-Ys/hqdefault.jpg"
         },
         {
             "video_id": "AK9ank665gE",
@@ -358,26 +376,8 @@
             "channel_name": "Yeo Doll",
             "category": "Music",
             "duration": "12:35:06",
-            "view_count": "13269",
+            "view_count": "14121",
             "thumbnail_url": "https://i.ytimg.com/vi/AK9ank665gE/hqdefault.jpg"
-        },
-        {
-            "video_id": "2kdwesE_xXM",
-            "title": "그라가스가 돌아왔습니다!🤩 새 룬트리로 부활한 미친 딜뽕 \"탑 양피지 극딜 그라가스 전략\" 🍺",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "29:04",
-            "view_count": "121203",
-            "thumbnail_url": "https://i.ytimg.com/vi/2kdwesE_xXM/hqdefault.jpg"
-        },
-        {
-            "video_id": "OwIG6N1-nuQ",
-            "title": "2026 Monthly Yoon February - Dude (with LEECHANGSUB)",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:18",
-            "view_count": "17201",
-            "thumbnail_url": "https://i.ytimg.com/vi/OwIG6N1-nuQ/hqdefault.jpg"
         }
     ]
 }
