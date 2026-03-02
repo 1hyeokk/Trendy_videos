@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-03 00:44:40",
+    "scraped_time": "2026-03-03 01:53:42",
     "videos": [
         {
             "video_id": "2GJfWMYCWY0",
@@ -7,7 +7,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "33042465",
+            "view_count": "33233894",
             "thumbnail_url": "https://i.ytimg.com/vi/2GJfWMYCWY0/hqdefault.jpg"
         },
         {
@@ -16,17 +16,17 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "1:07",
-            "view_count": "382536",
+            "view_count": "396890",
             "thumbnail_url": "https://i.ytimg.com/vi/vPJ2LQ0exUM/hqdefault.jpg"
         },
         {
-            "video_id": "mkpRPsErFQY",
-            "title": "[빅보스 3. 2 ]  리니지 클래식 : 조우섭 확정 월령 형님과 한판 해보겠습니다.",
-            "channel_name": "빅보스",
+            "video_id": "Gj2eJWa4yqU",
+            "title": "[리니지클래식] 12화. 호형호제 (ft.방송최초)",
+            "channel_name": "불도그",
             "category": "Gaming",
-            "duration": "2:24:55",
-            "view_count": "143288",
-            "thumbnail_url": "https://i.ytimg.com/vi/mkpRPsErFQY/hqdefault.jpg"
+            "duration": "13:11",
+            "view_count": "250024",
+            "thumbnail_url": "https://i.ytimg.com/vi/Gj2eJWa4yqU/hqdefault.jpg"
         },
         {
             "video_id": "dnL8tAmkZaU",
@@ -34,7 +34,7 @@
             "channel_name": "이영지",
             "category": "Music",
             "duration": "5:18",
-            "view_count": "1141923",
+            "view_count": "1160733",
             "thumbnail_url": "https://i.ytimg.com/vi/dnL8tAmkZaU/hqdefault.jpg"
         },
         {
@@ -43,17 +43,17 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:57",
-            "view_count": "854901",
+            "view_count": "885876",
             "thumbnail_url": "https://i.ytimg.com/vi/_OONVfbksxw/hqdefault.jpg"
         },
         {
-            "video_id": "Gj2eJWa4yqU",
-            "title": "[리니지클래식] 12화. 호형호제 (ft.방송최초)",
-            "channel_name": "불도그",
+            "video_id": "93gZg4nKvCw",
+            "title": "\"최종 팀 확정\" 마검 뽑았습니다 | 멸망전 EP.9",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "13:11",
-            "view_count": "240640",
-            "thumbnail_url": "https://i.ytimg.com/vi/Gj2eJWa4yqU/hqdefault.jpg"
+            "duration": "44:18",
+            "view_count": "181656",
+            "thumbnail_url": "https://i.ytimg.com/vi/93gZg4nKvCw/hqdefault.jpg"
         },
         {
             "video_id": "zGm3fajoUEA",
@@ -61,7 +61,7 @@
             "channel_name": "성시경 SUNG SI KYUNG",
             "category": "Entertainment",
             "duration": "6:20",
-            "view_count": "104196",
+            "view_count": "119080",
             "thumbnail_url": "https://i.ytimg.com/vi/zGm3fajoUEA/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "원재TV",
             "category": "Gaming",
             "duration": "11:33:36",
-            "view_count": "231270",
+            "view_count": "232632",
             "thumbnail_url": "https://i.ytimg.com/vi/OFZbNaqGU1Q/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "Jang Beom June - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "90711",
+            "view_count": "92388",
             "thumbnail_url": "https://i.ytimg.com/vi/ZDjb_waM_5Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "93gZg4nKvCw",
-            "title": "\"최종 팀 확정\" 마검 뽑았습니다 | 멸망전 EP.9",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "44:18",
-            "view_count": "166913",
-            "thumbnail_url": "https://i.ytimg.com/vi/93gZg4nKvCw/hqdefault.jpg"
-        },
-        {
-            "video_id": "IXlKhqmx4Tk",
-            "title": "이제는 어떻게 사랑을 하나요",
-            "channel_name": "여한 - Topic",
-            "category": "Music",
-            "duration": "3:48",
-            "view_count": "115084",
-            "thumbnail_url": "https://i.ytimg.com/vi/IXlKhqmx4Tk/hqdefault.jpg"
         },
         {
             "video_id": "WFP_FqNlOgM",
@@ -106,17 +88,17 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "20:53",
-            "view_count": "185990",
+            "view_count": "212579",
             "thumbnail_url": "https://i.ytimg.com/vi/WFP_FqNlOgM/hqdefault.jpg"
         },
         {
-            "video_id": "-F662FzayNY",
-            "title": "When I think about you",
-            "channel_name": "Kim Sung Kyu - Topic",
+            "video_id": "IXlKhqmx4Tk",
+            "title": "이제는 어떻게 사랑을 하나요",
+            "channel_name": "여한 - Topic",
             "category": "Music",
-            "duration": "4:34",
-            "view_count": "11478",
-            "thumbnail_url": "https://i.ytimg.com/vi/-F662FzayNY/hqdefault.jpg"
+            "duration": "3:48",
+            "view_count": "116223",
+            "thumbnail_url": "https://i.ytimg.com/vi/IXlKhqmx4Tk/hqdefault.jpg"
         },
         {
             "video_id": "7YPruW2iGuo",
@@ -124,8 +106,26 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "31:12",
-            "view_count": "122106",
+            "view_count": "161365",
             "thumbnail_url": "https://i.ytimg.com/vi/7YPruW2iGuo/hqdefault.jpg"
+        },
+        {
+            "video_id": "-F662FzayNY",
+            "title": "When I think about you",
+            "channel_name": "Kim Sung Kyu - Topic",
+            "category": "Music",
+            "duration": "4:34",
+            "view_count": "13577",
+            "thumbnail_url": "https://i.ytimg.com/vi/-F662FzayNY/hqdefault.jpg"
+        },
+        {
+            "video_id": "8udmjpv6EQs",
+            "title": "리니지 클래식 / 시즌1종료!! 본 장비까지 다 러쉬하고 떠나는 이유 ft 똘끼형",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "12:15",
+            "view_count": "284432",
+            "thumbnail_url": "https://i.ytimg.com/vi/8udmjpv6EQs/hqdefault.jpg"
         },
         {
             "video_id": "TNDF5Qr6ayo",
@@ -133,7 +133,7 @@
             "channel_name": "IVE",
             "category": "Entertainment",
             "duration": "3:15",
-            "view_count": "228262",
+            "view_count": "231800",
             "thumbnail_url": "https://i.ytimg.com/vi/TNDF5Qr6ayo/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "1:42:07",
-            "view_count": "458416",
+            "view_count": "470437",
             "thumbnail_url": "https://i.ytimg.com/vi/W6wzCcQXsus/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "35364",
+            "view_count": "36732",
             "thumbnail_url": "https://i.ytimg.com/vi/6kKKFKlDbtc/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:09",
-            "view_count": "378357",
+            "view_count": "387455",
             "thumbnail_url": "https://i.ytimg.com/vi/uGa84TD717c/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "Ado",
             "category": "Music",
             "duration": "4:32",
-            "view_count": "5150204",
+            "view_count": "5228535",
             "thumbnail_url": "https://i.ytimg.com/vi/YvYii6dluM8/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "3:14:29",
-            "view_count": "249976",
+            "view_count": "251235",
             "thumbnail_url": "https://i.ytimg.com/vi/gGIdJk6Wv3M/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "Bruno Mars - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "2140405",
+            "view_count": "2197022",
             "thumbnail_url": "https://i.ytimg.com/vi/BF2_ipR1OI0/hqdefault.jpg"
         },
         {
@@ -196,26 +196,8 @@
             "channel_name": "수탉",
             "category": "Gaming",
             "duration": "9:52:30",
-            "view_count": "240694",
+            "view_count": "256174",
             "thumbnail_url": "https://i.ytimg.com/vi/rJbG1oq1It8/hqdefault.jpg"
-        },
-        {
-            "video_id": "VF5KiYpH-Pg",
-            "title": "TIC TIC (feat. Pabllo Vittar)",
-            "channel_name": "NMIXX - Topic",
-            "category": "Music",
-            "duration": "2:13",
-            "view_count": "694205",
-            "thumbnail_url": "https://i.ytimg.com/vi/VF5KiYpH-Pg/hqdefault.jpg"
-        },
-        {
-            "video_id": "Nj9zfMqQtuw",
-            "title": "[리니지 클래식] 본 장비 다 날리고 마지막 +9 메일 러쉬.. 결과는?!",
-            "channel_name": "스트리머 사또 live-streamer satto",
-            "category": "Gaming",
-            "duration": "15:36",
-            "view_count": "109881",
-            "thumbnail_url": "https://i.ytimg.com/vi/Nj9zfMqQtuw/hqdefault.jpg"
         },
         {
             "video_id": "7fyufPkXLbs",
@@ -223,8 +205,26 @@
             "channel_name": "RosaliaVEVO",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "2654592",
+            "view_count": "2735964",
             "thumbnail_url": "https://i.ytimg.com/vi/7fyufPkXLbs/hqdefault.jpg"
+        },
+        {
+            "video_id": "Nj9zfMqQtuw",
+            "title": "[리니지 클래식] 본 장비 다 날리고 마지막 +9 메일 러쉬.. 결과는?!",
+            "channel_name": "스트리머 사또 live-streamer satto",
+            "category": "Gaming",
+            "duration": "15:36",
+            "view_count": "117648",
+            "thumbnail_url": "https://i.ytimg.com/vi/Nj9zfMqQtuw/hqdefault.jpg"
+        },
+        {
+            "video_id": "VF5KiYpH-Pg",
+            "title": "TIC TIC (feat. Pabllo Vittar)",
+            "channel_name": "NMIXX - Topic",
+            "category": "Music",
+            "duration": "2:13",
+            "view_count": "701867",
+            "thumbnail_url": "https://i.ytimg.com/vi/VF5KiYpH-Pg/hqdefault.jpg"
         },
         {
             "video_id": "zMCZorTd6mY",
@@ -232,7 +232,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "26:32",
-            "view_count": "123542",
+            "view_count": "131393",
             "thumbnail_url": "https://i.ytimg.com/vi/zMCZorTd6mY/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "161683",
+            "view_count": "163128",
             "thumbnail_url": "https://i.ytimg.com/vi/ten6JjjGcH4/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "재범군주",
             "category": "Gaming",
             "duration": "3:59:18",
-            "view_count": "86641",
+            "view_count": "87303",
             "thumbnail_url": "https://i.ytimg.com/vi/cFYgDebsDfQ/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "65548",
+            "view_count": "66180",
             "thumbnail_url": "https://i.ytimg.com/vi/Ud44639XwDI/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "Wall Su",
             "category": "Gaming",
             "duration": "22:56",
-            "view_count": "99826",
+            "view_count": "106839",
             "thumbnail_url": "https://i.ytimg.com/vi/CrerJZepOXs/hqdefault.jpg"
         },
         {
@@ -277,8 +277,17 @@
             "channel_name": "SEVENTEEN - Topic",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "355989",
+            "view_count": "360019",
             "thumbnail_url": "https://i.ytimg.com/vi/H81NsniDjTk/hqdefault.jpg"
+        },
+        {
+            "video_id": "wMIL16_5pbI",
+            "title": "지방권력급 자헨 등장 ㄷㄷ",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "15:14",
+            "view_count": "97240",
+            "thumbnail_url": "https://i.ytimg.com/vi/wMIL16_5pbI/hqdefault.jpg"
         },
         {
             "video_id": "Z2MlbOWeeN4",
@@ -286,8 +295,17 @@
             "channel_name": "수삼티비",
             "category": "Gaming",
             "duration": "13:05",
-            "view_count": "214582",
+            "view_count": "216712",
             "thumbnail_url": "https://i.ytimg.com/vi/Z2MlbOWeeN4/hqdefault.jpg"
+        },
+        {
+            "video_id": "IRKqCWL8AVA",
+            "title": "이 여자분이랑 커피 마시러 갑니다❤️",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "16:02",
+            "view_count": "89257",
+            "thumbnail_url": "https://i.ytimg.com/vi/IRKqCWL8AVA/hqdefault.jpg"
         },
         {
             "video_id": "nfhgRLjHxVg",
@@ -295,7 +313,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "20:36",
-            "view_count": "529589",
+            "view_count": "534293",
             "thumbnail_url": "https://i.ytimg.com/vi/nfhgRLjHxVg/hqdefault.jpg"
         },
         {
@@ -304,35 +322,8 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "30:19",
-            "view_count": "157002",
+            "view_count": "162473",
             "thumbnail_url": "https://i.ytimg.com/vi/iZ2HRZmJ6cs/hqdefault.jpg"
-        },
-        {
-            "video_id": "wMIL16_5pbI",
-            "title": "지방권력급 자헨 등장 ㄷㄷ",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "15:14",
-            "view_count": "77148",
-            "thumbnail_url": "https://i.ytimg.com/vi/wMIL16_5pbI/hqdefault.jpg"
-        },
-        {
-            "video_id": "0yo9talDVOk",
-            "title": "[타이슨장기] 여기가 소문난 묘수전문 맛집!",
-            "channel_name": "타이슨장기",
-            "category": "Gaming",
-            "duration": "3:26:23",
-            "view_count": "0",
-            "thumbnail_url": "https://i.ytimg.com/vi/0yo9talDVOk/hqdefault.jpg"
-        },
-        {
-            "video_id": "IRKqCWL8AVA",
-            "title": "이 여자분이랑 커피 마시러 갑니다❤️",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "16:02",
-            "view_count": "73218",
-            "thumbnail_url": "https://i.ytimg.com/vi/IRKqCWL8AVA/hqdefault.jpg"
         },
         {
             "video_id": "XNXaPMtoQZg",
@@ -340,8 +331,26 @@
             "channel_name": "아이템의 인벤토리",
             "category": "Education",
             "duration": "11:01",
-            "view_count": "119312",
+            "view_count": "136613",
             "thumbnail_url": "https://i.ytimg.com/vi/XNXaPMtoQZg/hqdefault.jpg"
+        },
+        {
+            "video_id": "0LBU5kBcCYc",
+            "title": "26.03.02(월) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
+            "category": "Gaming",
+            "duration": "4:31:55",
+            "view_count": "83932",
+            "thumbnail_url": "https://i.ytimg.com/vi/0LBU5kBcCYc/hqdefault.jpg"
+        },
+        {
+            "video_id": "Wq1E8L9ezKU",
+            "title": "리니지 클래식.. 서버 1등 기사 템 최초 공개합니다 ㄷㄷ",
+            "channel_name": "겜케이",
+            "category": "Gaming",
+            "duration": "16:36",
+            "view_count": "46843",
+            "thumbnail_url": "https://i.ytimg.com/vi/Wq1E8L9ezKU/hqdefault.jpg"
         },
         {
             "video_id": "8CdRjKRFgMA",
@@ -349,26 +358,8 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "11:39",
-            "view_count": "106168",
+            "view_count": "118561",
             "thumbnail_url": "https://i.ytimg.com/vi/8CdRjKRFgMA/hqdefault.jpg"
-        },
-        {
-            "video_id": "e0YajlPc3Z8",
-            "title": "멸망전 첫 완전체 스크림부터 음지 행동하는 친구들ㅋㅋㅋ 【롤 멸망전 EP.09】",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "27:48",
-            "view_count": "73939",
-            "thumbnail_url": "https://i.ytimg.com/vi/e0YajlPc3Z8/hqdefault.jpg"
-        },
-        {
-            "video_id": "IQU9Lb5-13I",
-            "title": "같은 크루 멤버이름도 까먹어버리는 💦이름맞추기 잼못타 2💦 가 돌아왔다고!?",
-            "channel_name": "꼬예유의 로블록스 저장소",
-            "category": "Gaming",
-            "duration": "24:32",
-            "view_count": "66745",
-            "thumbnail_url": "https://i.ytimg.com/vi/IQU9Lb5-13I/hqdefault.jpg"
         },
         {
             "video_id": "VfjXiNceYIo",
@@ -376,8 +367,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "32:14",
-            "view_count": "76609",
+            "view_count": "81390",
             "thumbnail_url": "https://i.ytimg.com/vi/VfjXiNceYIo/hqdefault.jpg"
+        },
+        {
+            "video_id": "e0YajlPc3Z8",
+            "title": "멸망전 첫 완전체 스크림부터 음지 행동하는 친구들ㅋㅋㅋ 【롤 멸망전 EP.09】",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "27:48",
+            "view_count": "75622",
+            "thumbnail_url": "https://i.ytimg.com/vi/e0YajlPc3Z8/hqdefault.jpg"
         }
     ]
 }
