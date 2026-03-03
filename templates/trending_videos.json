@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-04 00:50:35",
+    "scraped_time": "2026-03-04 01:53:40",
     "videos": [
         {
             "video_id": "2GJfWMYCWY0",
@@ -7,7 +7,7 @@
             "channel_name": "BLACKPINK",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "35529915",
+            "view_count": "35654303",
             "thumbnail_url": "https://i.ytimg.com/vi/2GJfWMYCWY0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Paramount Pictures",
             "category": "Film & Animation",
             "duration": "2:05",
-            "view_count": "2227143",
+            "view_count": "2271133",
             "thumbnail_url": "https://i.ytimg.com/vi/0fZ58S-7QP0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "23:57",
-            "view_count": "231845",
+            "view_count": "261947",
             "thumbnail_url": "https://i.ytimg.com/vi/lmUYJxyyMEA/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "성시경 SUNG SI KYUNG",
             "category": "Entertainment",
             "duration": "6:20",
-            "view_count": "256637",
+            "view_count": "267225",
             "thumbnail_url": "https://i.ytimg.com/vi/zGm3fajoUEA/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "1:07",
-            "view_count": "514476",
+            "view_count": "520440",
             "thumbnail_url": "https://i.ytimg.com/vi/vPJ2LQ0exUM/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "28:03",
-            "view_count": "164331",
+            "view_count": "193462",
             "thumbnail_url": "https://i.ytimg.com/vi/C6z0mv9yD5g/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "가비엔제이 Gavy NJ official",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "21832",
+            "view_count": "24935",
             "thumbnail_url": "https://i.ytimg.com/vi/rtKaiHVBlhM/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "긴펄",
             "category": "Gaming",
             "duration": "1:28:00",
-            "view_count": "14331",
+            "view_count": "14734",
             "thumbnail_url": "https://i.ytimg.com/vi/I5laSO2nQS8/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "15:15",
-            "view_count": "193858",
+            "view_count": "235539",
             "thumbnail_url": "https://i.ytimg.com/vi/wfwaLcbc-9I/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "이영지",
             "category": "Music",
             "duration": "5:18",
-            "view_count": "1345902",
+            "view_count": "1356244",
             "thumbnail_url": "https://i.ytimg.com/vi/dnL8tAmkZaU/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:44",
-            "view_count": "27997",
+            "view_count": "30071",
             "thumbnail_url": "https://i.ytimg.com/vi/48T9evsBrrU/hqdefault.jpg"
-        },
-        {
-            "video_id": "PGrVm9cSPDM",
-            "title": "[LIVE] 3월 3일 아이온2 업데이트 프리뷰 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "1:03:50",
-            "view_count": "140668",
-            "thumbnail_url": "https://i.ytimg.com/vi/PGrVm9cSPDM/hqdefault.jpg"
-        },
-        {
-            "video_id": "-F662FzayNY",
-            "title": "When I think about you",
-            "channel_name": "Kim Sung Kyu - Topic",
-            "category": "Music",
-            "duration": "4:34",
-            "view_count": "42769",
-            "thumbnail_url": "https://i.ytimg.com/vi/-F662FzayNY/hqdefault.jpg"
         },
         {
             "video_id": "vs55swJ2SUs",
@@ -124,8 +106,26 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "32:33",
-            "view_count": "219592",
+            "view_count": "228477",
             "thumbnail_url": "https://i.ytimg.com/vi/vs55swJ2SUs/hqdefault.jpg"
+        },
+        {
+            "video_id": "-F662FzayNY",
+            "title": "When I think about you",
+            "channel_name": "Kim Sung Kyu - Topic",
+            "category": "Music",
+            "duration": "4:34",
+            "view_count": "43303",
+            "thumbnail_url": "https://i.ytimg.com/vi/-F662FzayNY/hqdefault.jpg"
+        },
+        {
+            "video_id": "PGrVm9cSPDM",
+            "title": "[LIVE] 3월 3일 아이온2 업데이트 프리뷰 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "1:03:50",
+            "view_count": "144521",
+            "thumbnail_url": "https://i.ytimg.com/vi/PGrVm9cSPDM/hqdefault.jpg"
         },
         {
             "video_id": "6kKKFKlDbtc",
@@ -133,7 +133,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "67441",
+            "view_count": "68376",
             "thumbnail_url": "https://i.ytimg.com/vi/6kKKFKlDbtc/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "19:21",
-            "view_count": "153500",
+            "view_count": "163469",
             "thumbnail_url": "https://i.ytimg.com/vi/2bbvWZUUaRw/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "여한 - Topic",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "137266",
+            "view_count": "137660",
             "thumbnail_url": "https://i.ytimg.com/vi/IXlKhqmx4Tk/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "20:53",
-            "view_count": "346457",
+            "view_count": "349744",
             "thumbnail_url": "https://i.ytimg.com/vi/WFP_FqNlOgM/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "RESCENE - Topic",
             "category": "Music",
             "duration": "2:30",
-            "view_count": "65698",
+            "view_count": "66180",
             "thumbnail_url": "https://i.ytimg.com/vi/c70TkZH7fr0/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "겜케이",
             "category": "Gaming",
             "duration": "16:36",
-            "view_count": "221077",
+            "view_count": "223521",
             "thumbnail_url": "https://i.ytimg.com/vi/Wq1E8L9ezKU/hqdefault.jpg"
         },
         {
@@ -187,44 +187,8 @@
             "channel_name": "Jang Beom June - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "145083",
+            "view_count": "145872",
             "thumbnail_url": "https://i.ytimg.com/vi/ZDjb_waM_5Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "93gZg4nKvCw",
-            "title": "\"최종 팀 확정\" 마검 뽑았습니다 | 멸망전 EP.9",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "44:18",
-            "view_count": "250278",
-            "thumbnail_url": "https://i.ytimg.com/vi/93gZg4nKvCw/hqdefault.jpg"
-        },
-        {
-            "video_id": "Hx4FS4JPTmY",
-            "title": "Deep Inside",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "4:01",
-            "view_count": "15888",
-            "thumbnail_url": "https://i.ytimg.com/vi/Hx4FS4JPTmY/hqdefault.jpg"
-        },
-        {
-            "video_id": "3Hco10BNVhs",
-            "title": "[원재]리니지클래식 3.3 데포로쥬 소울 먹었습니다!!!트리+소울 가즈아!!!  天堂W 宙斯 伊娃 리니지M 리니지W 리니지클래식 리니지",
-            "channel_name": "원재TV",
-            "category": "Gaming",
-            "duration": "7:03:33",
-            "view_count": "138475",
-            "thumbnail_url": "https://i.ytimg.com/vi/3Hco10BNVhs/hqdefault.jpg"
-        },
-        {
-            "video_id": "TNDF5Qr6ayo",
-            "title": "IVE 아이브 'BLACKHOLE' DANCE PRACTICE",
-            "channel_name": "IVE",
-            "category": "Entertainment",
-            "duration": "3:15",
-            "view_count": "262688",
-            "thumbnail_url": "https://i.ytimg.com/vi/TNDF5Qr6ayo/hqdefault.jpg"
         },
         {
             "video_id": "NGPn8A3Nq3s",
@@ -232,35 +196,17 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "19:10",
-            "view_count": "118383",
+            "view_count": "122230",
             "thumbnail_url": "https://i.ytimg.com/vi/NGPn8A3Nq3s/hqdefault.jpg"
         },
         {
-            "video_id": "BF2_ipR1OI0",
-            "title": "Risk It All",
-            "channel_name": "Bruno Mars - Topic",
+            "video_id": "Hx4FS4JPTmY",
+            "title": "Deep Inside",
+            "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "3:25",
-            "view_count": "3023146",
-            "thumbnail_url": "https://i.ytimg.com/vi/BF2_ipR1OI0/hqdefault.jpg"
-        },
-        {
-            "video_id": "9r1_Uu2FHxM",
-            "title": "리니지클래식 조우섭 가즈아 데포섭9크로싸게 팝니다   #조선협객전 #SOL #원큐 #oneq #리니지 2026/03/02",
-            "channel_name": "원큐",
-            "category": "Gaming",
-            "duration": "9:08:07",
-            "view_count": "226772",
-            "thumbnail_url": "https://i.ytimg.com/vi/9r1_Uu2FHxM/hqdefault.jpg"
-        },
-        {
-            "video_id": "7fyufPkXLbs",
-            "title": "ROSALÍA - Berghain (Live at The BRIT Awards 2026) ft. Björk",
-            "channel_name": "RosaliaVEVO",
-            "category": "Music",
-            "duration": "4:06",
-            "view_count": "3926729",
-            "thumbnail_url": "https://i.ytimg.com/vi/7fyufPkXLbs/hqdefault.jpg"
+            "duration": "4:01",
+            "view_count": "16405",
+            "thumbnail_url": "https://i.ytimg.com/vi/Hx4FS4JPTmY/hqdefault.jpg"
         },
         {
             "video_id": "5a3M54YuAP8",
@@ -268,17 +214,62 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "33:36",
-            "view_count": "182351",
+            "view_count": "203612",
             "thumbnail_url": "https://i.ytimg.com/vi/5a3M54YuAP8/hqdefault.jpg"
         },
         {
-            "video_id": "73aCtRa0wWg",
-            "title": "🔴이레소울트리플 요정🔫🔫 벌써 끝인가요?🙇리니지클래식 데포로쥬",
-            "channel_name": "만만",
+            "video_id": "TNDF5Qr6ayo",
+            "title": "IVE 아이브 'BLACKHOLE' DANCE PRACTICE",
+            "channel_name": "IVE",
+            "category": "Entertainment",
+            "duration": "3:15",
+            "view_count": "264299",
+            "thumbnail_url": "https://i.ytimg.com/vi/TNDF5Qr6ayo/hqdefault.jpg"
+        },
+        {
+            "video_id": "93gZg4nKvCw",
+            "title": "\"최종 팀 확정\" 마검 뽑았습니다 | 멸망전 EP.9",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "4:44:40",
-            "view_count": "209038",
-            "thumbnail_url": "https://i.ytimg.com/vi/73aCtRa0wWg/hqdefault.jpg"
+            "duration": "44:18",
+            "view_count": "251568",
+            "thumbnail_url": "https://i.ytimg.com/vi/93gZg4nKvCw/hqdefault.jpg"
+        },
+        {
+            "video_id": "BF2_ipR1OI0",
+            "title": "Risk It All",
+            "channel_name": "Bruno Mars - Topic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "3069533",
+            "thumbnail_url": "https://i.ytimg.com/vi/BF2_ipR1OI0/hqdefault.jpg"
+        },
+        {
+            "video_id": "3Hco10BNVhs",
+            "title": "[원재]리니지클래식 3.3 데포로쥬 소울 먹었습니다!!!트리+소울 가즈아!!!  天堂W 宙斯 伊娃 리니지M 리니지W 리니지클래식 리니지",
+            "channel_name": "원재TV",
+            "category": "Gaming",
+            "duration": "7:03:33",
+            "view_count": "139058",
+            "thumbnail_url": "https://i.ytimg.com/vi/3Hco10BNVhs/hqdefault.jpg"
+        },
+        {
+            "video_id": "7fyufPkXLbs",
+            "title": "ROSALÍA - Berghain (Live at The BRIT Awards 2026) ft. Björk",
+            "channel_name": "RosaliaVEVO",
+            "category": "Music",
+            "duration": "4:06",
+            "view_count": "3971565",
+            "thumbnail_url": "https://i.ytimg.com/vi/7fyufPkXLbs/hqdefault.jpg"
+        },
+        {
+            "video_id": "9r1_Uu2FHxM",
+            "title": "리니지클래식 조우섭 가즈아 데포섭9크로싸게 팝니다   #조선협객전 #SOL #원큐 #oneq #리니지 2026/03/02",
+            "channel_name": "원큐",
+            "category": "Gaming",
+            "duration": "9:08:07",
+            "view_count": "227094",
+            "thumbnail_url": "https://i.ytimg.com/vi/9r1_Uu2FHxM/hqdefault.jpg"
         },
         {
             "video_id": "jR_0uI8LTWY",
@@ -286,8 +277,17 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "30:01",
-            "view_count": "142634",
+            "view_count": "159099",
             "thumbnail_url": "https://i.ytimg.com/vi/jR_0uI8LTWY/hqdefault.jpg"
+        },
+        {
+            "video_id": "73aCtRa0wWg",
+            "title": "🔴이레소울트리플 요정🔫🔫 벌써 끝인가요?🙇리니지클래식 데포로쥬",
+            "channel_name": "만만",
+            "category": "Gaming",
+            "duration": "4:44:40",
+            "view_count": "211007",
+            "thumbnail_url": "https://i.ytimg.com/vi/73aCtRa0wWg/hqdefault.jpg"
         },
         {
             "video_id": "Gj2eJWa4yqU",
@@ -295,7 +295,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "13:11",
-            "view_count": "294316",
+            "view_count": "296180",
             "thumbnail_url": "https://i.ytimg.com/vi/Gj2eJWa4yqU/hqdefault.jpg"
         },
         {
@@ -304,44 +304,8 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "41:33",
-            "view_count": "143819",
+            "view_count": "147414",
             "thumbnail_url": "https://i.ytimg.com/vi/FD1A9qIn6a4/hqdefault.jpg"
-        },
-        {
-            "video_id": "rJbG1oq1It8",
-            "title": "바이오하자드9 레퀴엠 정식 출시 풀버전 (BIOHAZARD requiem)",
-            "channel_name": "수탉",
-            "category": "Gaming",
-            "duration": "9:52:30",
-            "view_count": "372495",
-            "thumbnail_url": "https://i.ytimg.com/vi/rJbG1oq1It8/hqdefault.jpg"
-        },
-        {
-            "video_id": "W6wzCcQXsus",
-            "title": "단 한번만 맞추면 이기는 게임",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "1:42:07",
-            "view_count": "556424",
-            "thumbnail_url": "https://i.ytimg.com/vi/W6wzCcQXsus/hqdefault.jpg"
-        },
-        {
-            "video_id": "TyyhksA-psE",
-            "title": "여동생 운전 가르치기",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "30:25",
-            "view_count": "171101",
-            "thumbnail_url": "https://i.ytimg.com/vi/TyyhksA-psE/hqdefault.jpg"
-        },
-        {
-            "video_id": "jPp7Rw4NVsw",
-            "title": "리니지 클래식 / 요정 지존 방어구?! 최소2천만원이야.. 그리고 1600만원에 아이템 구매까지 ft이문주 누리",
-            "channel_name": "수삼티비",
-            "category": "Gaming",
-            "duration": "14:48",
-            "view_count": "178432",
-            "thumbnail_url": "https://i.ytimg.com/vi/jPp7Rw4NVsw/hqdefault.jpg"
         },
         {
             "video_id": "fQOd9zh4EmQ",
@@ -349,17 +313,35 @@
             "channel_name": "푸린",
             "category": "Gaming",
             "duration": "35:38",
-            "view_count": "67734",
+            "view_count": "83002",
             "thumbnail_url": "https://i.ytimg.com/vi/fQOd9zh4EmQ/hqdefault.jpg"
         },
         {
-            "video_id": "CrerJZepOXs",
-            "title": "『과목배틀』 완전판",
-            "channel_name": "Wall Su",
+            "video_id": "rJbG1oq1It8",
+            "title": "바이오하자드9 레퀴엠 정식 출시 풀버전 (BIOHAZARD requiem)",
+            "channel_name": "수탉",
             "category": "Gaming",
-            "duration": "22:56",
-            "view_count": "179989",
-            "thumbnail_url": "https://i.ytimg.com/vi/CrerJZepOXs/hqdefault.jpg"
+            "duration": "9:52:30",
+            "view_count": "380790",
+            "thumbnail_url": "https://i.ytimg.com/vi/rJbG1oq1It8/hqdefault.jpg"
+        },
+        {
+            "video_id": "TyyhksA-psE",
+            "title": "여동생 운전 가르치기",
+            "channel_name": "우주하마",
+            "category": "Gaming",
+            "duration": "30:25",
+            "view_count": "184513",
+            "thumbnail_url": "https://i.ytimg.com/vi/TyyhksA-psE/hqdefault.jpg"
+        },
+        {
+            "video_id": "r_jpxm_yr-0",
+            "title": "\"방어력 1000\" 오직 람머스만 가능한 레전드 역전극 발생🤯🤯",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "23:57",
+            "view_count": "64035",
+            "thumbnail_url": "https://i.ytimg.com/vi/r_jpxm_yr-0/hqdefault.jpg"
         },
         {
             "video_id": "3Bp36Lo37h8",
@@ -367,17 +349,35 @@
             "channel_name": "글자네",
             "category": "Gaming",
             "duration": "21:06",
-            "view_count": "70048",
+            "view_count": "83502",
             "thumbnail_url": "https://i.ytimg.com/vi/3Bp36Lo37h8/hqdefault.jpg"
         },
         {
-            "video_id": "uGa84TD717c",
-            "title": "꿀통 챔프로 역전하기 도전",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "W6wzCcQXsus",
+            "title": "단 한번만 맞추면 이기는 게임",
+            "channel_name": "랄로",
             "category": "Gaming",
-            "duration": "21:09",
-            "view_count": "442152",
-            "thumbnail_url": "https://i.ytimg.com/vi/uGa84TD717c/hqdefault.jpg"
+            "duration": "1:42:07",
+            "view_count": "560601",
+            "thumbnail_url": "https://i.ytimg.com/vi/W6wzCcQXsus/hqdefault.jpg"
+        },
+        {
+            "video_id": "jPp7Rw4NVsw",
+            "title": "리니지 클래식 / 요정 지존 방어구?! 최소2천만원이야.. 그리고 1600만원에 아이템 구매까지 ft이문주 누리",
+            "channel_name": "수삼티비",
+            "category": "Gaming",
+            "duration": "14:48",
+            "view_count": "180649",
+            "thumbnail_url": "https://i.ytimg.com/vi/jPp7Rw4NVsw/hqdefault.jpg"
+        },
+        {
+            "video_id": "nH1jHxcHNQA",
+            "title": "리롤 단 한 번에 벌어진 일 ㄷㄷ",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "11:36",
+            "view_count": "81019",
+            "thumbnail_url": "https://i.ytimg.com/vi/nH1jHxcHNQA/hqdefault.jpg"
         }
     ]
 }
