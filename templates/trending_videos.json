@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-06 08:52:56",
+    "scraped_time": "2026-03-06 11:23:49",
     "videos": [
         {
             "video_id": "kRe_4LcaaAM",
@@ -7,7 +7,7 @@
             "channel_name": "SUPER SOUND Bugs!",
             "category": "Music",
             "duration": "3:51",
-            "view_count": "84045",
+            "view_count": "91095",
             "thumbnail_url": "https://i.ytimg.com/vi/kRe_4LcaaAM/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:32",
-            "view_count": "102299",
+            "view_count": "111720",
             "thumbnail_url": "https://i.ytimg.com/vi/psaLVyz6bjQ/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:39",
-            "view_count": "228020",
+            "view_count": "240738",
             "thumbnail_url": "https://i.ytimg.com/vi/5jd4RHgLVt4/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "WOODZ - Topic",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "115442",
+            "view_count": "124203",
             "thumbnail_url": "https://i.ytimg.com/vi/-9eZdqb_0Y8/hqdefault.jpg"
         },
         {
@@ -43,53 +43,8 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "11:12",
-            "view_count": "65394",
+            "view_count": "70081",
             "thumbnail_url": "https://i.ytimg.com/vi/7ZvTfNLsJs0/hqdefault.jpg"
-        },
-        {
-            "video_id": "m0Cguzry1wg",
-            "title": "리니지 클래식 몸80%회복 마지막장비2개 오늘로서 끝내볼가?",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "3:31:11",
-            "view_count": "200807",
-            "thumbnail_url": "https://i.ytimg.com/vi/m0Cguzry1wg/hqdefault.jpg"
-        },
-        {
-            "video_id": "rtKaiHVBlhM",
-            "title": "가비엔제이 (Gavy NJ) '해바라기 (2026)' Official MV",
-            "channel_name": "가비엔제이 Gavy NJ official",
-            "category": "Music",
-            "duration": "4:13",
-            "view_count": "154820",
-            "thumbnail_url": "https://i.ytimg.com/vi/rtKaiHVBlhM/hqdefault.jpg"
-        },
-        {
-            "video_id": "smccDcwWhY0",
-            "title": "넷플릭스 'BTS 컴백 예고편' 전세계 동시 공개되자, 전세계에서 벌어지고 있는 충격적 상황!",
-            "channel_name": "바이스톰 코리아",
-            "category": "People & Blogs",
-            "duration": "10:46",
-            "view_count": "70239",
-            "thumbnail_url": "https://i.ytimg.com/vi/smccDcwWhY0/hqdefault.jpg"
-        },
-        {
-            "video_id": "zuJOtkeL2n0",
-            "title": "복구해야 되는 남자",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "20:59",
-            "view_count": "217570",
-            "thumbnail_url": "https://i.ytimg.com/vi/zuJOtkeL2n0/hqdefault.jpg"
-        },
-        {
-            "video_id": "iiwS47UnbPc",
-            "title": "How Can Love Be Like That",
-            "channel_name": "Jung Joon-Il - Topic",
-            "category": "Music",
-            "duration": "6:30",
-            "view_count": "39797",
-            "thumbnail_url": "https://i.ytimg.com/vi/iiwS47UnbPc/hqdefault.jpg"
         },
         {
             "video_id": "hmMS2DyZ0Rk",
@@ -97,7 +52,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "46:53",
-            "view_count": "154561",
+            "view_count": "189262",
             "thumbnail_url": "https://i.ytimg.com/vi/hmMS2DyZ0Rk/hqdefault.jpg"
         },
         {
@@ -106,8 +61,53 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "10818",
+            "view_count": "31923",
             "thumbnail_url": "https://i.ytimg.com/vi/CxweSleGHXw/hqdefault.jpg"
+        },
+        {
+            "video_id": "smccDcwWhY0",
+            "title": "넷플릭스 'BTS 컴백 예고편' 전세계 동시 공개되자, 전세계에서 벌어지고 있는 충격적 상황!",
+            "channel_name": "바이스톰 코리아",
+            "category": "People & Blogs",
+            "duration": "10:46",
+            "view_count": "80861",
+            "thumbnail_url": "https://i.ytimg.com/vi/smccDcwWhY0/hqdefault.jpg"
+        },
+        {
+            "video_id": "zuJOtkeL2n0",
+            "title": "복구해야 되는 남자",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "20:59",
+            "view_count": "242305",
+            "thumbnail_url": "https://i.ytimg.com/vi/zuJOtkeL2n0/hqdefault.jpg"
+        },
+        {
+            "video_id": "rtKaiHVBlhM",
+            "title": "가비엔제이 (Gavy NJ) '해바라기 (2026)' Official MV",
+            "channel_name": "가비엔제이 Gavy NJ official",
+            "category": "Music",
+            "duration": "4:13",
+            "view_count": "162372",
+            "thumbnail_url": "https://i.ytimg.com/vi/rtKaiHVBlhM/hqdefault.jpg"
+        },
+        {
+            "video_id": "m0Cguzry1wg",
+            "title": "리니지 클래식 몸80%회복 마지막장비2개 오늘로서 끝내볼가?",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "3:31:11",
+            "view_count": "205832",
+            "thumbnail_url": "https://i.ytimg.com/vi/m0Cguzry1wg/hqdefault.jpg"
+        },
+        {
+            "video_id": "iiwS47UnbPc",
+            "title": "How Can Love Be Like That",
+            "channel_name": "Jung Joon-Il - Topic",
+            "category": "Music",
+            "duration": "6:30",
+            "view_count": "44371",
+            "thumbnail_url": "https://i.ytimg.com/vi/iiwS47UnbPc/hqdefault.jpg"
         },
         {
             "video_id": "lKY_2dyG5V8",
@@ -115,26 +115,8 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "10:20",
-            "view_count": "123531",
+            "view_count": "146171",
             "thumbnail_url": "https://i.ytimg.com/vi/lKY_2dyG5V8/hqdefault.jpg"
-        },
-        {
-            "video_id": "PXkHAlskFAM",
-            "title": "Sunny",
-            "channel_name": "Yorushika - Topic",
-            "category": "Music",
-            "duration": "4:33",
-            "view_count": "260636",
-            "thumbnail_url": "https://i.ytimg.com/vi/PXkHAlskFAM/hqdefault.jpg"
-        },
-        {
-            "video_id": "oKMvF64h17Y",
-            "title": "한남 저라뎃의 무지성 효딤 몰아가기 정치 시작?! 클로몬의 최종 판결 | 멸망전 EP.13",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "1:03:15",
-            "view_count": "164075",
-            "thumbnail_url": "https://i.ytimg.com/vi/oKMvF64h17Y/hqdefault.jpg"
         },
         {
             "video_id": "P_nEdat7Vmk",
@@ -142,8 +124,44 @@
             "channel_name": "H1-KEY - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "19086",
+            "view_count": "28153",
             "thumbnail_url": "https://i.ytimg.com/vi/P_nEdat7Vmk/hqdefault.jpg"
+        },
+        {
+            "video_id": "oKMvF64h17Y",
+            "title": "한남 저라뎃의 무지성 효딤 몰아가기 정치 시작?! 클로몬의 최종 판결 | 멸망전 EP.13",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "1:03:15",
+            "view_count": "165485",
+            "thumbnail_url": "https://i.ytimg.com/vi/oKMvF64h17Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "PXkHAlskFAM",
+            "title": "Sunny",
+            "channel_name": "Yorushika - Topic",
+            "category": "Music",
+            "duration": "4:33",
+            "view_count": "274457",
+            "thumbnail_url": "https://i.ytimg.com/vi/PXkHAlskFAM/hqdefault.jpg"
+        },
+        {
+            "video_id": "44BV4RCmS1M",
+            "title": "리니지 클래식.. 적 혈맹에서 우리쪽으로 넘어온다는 유명 스트리머 ㄷㄷ",
+            "channel_name": "겜케이",
+            "category": "Gaming",
+            "duration": "11:34",
+            "view_count": "134792",
+            "thumbnail_url": "https://i.ytimg.com/vi/44BV4RCmS1M/hqdefault.jpg"
+        },
+        {
+            "video_id": "x4-5KqI2o28",
+            "title": "칸예보다 너 (Feat. Gist)",
+            "channel_name": "Chan - Topic",
+            "category": "Music",
+            "duration": "2:48",
+            "view_count": "11337",
+            "thumbnail_url": "https://i.ytimg.com/vi/x4-5KqI2o28/hqdefault.jpg"
         },
         {
             "video_id": "3nNTq-Rfp8Y",
@@ -151,7 +169,7 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "17:03",
-            "view_count": "141614",
+            "view_count": "157250",
             "thumbnail_url": "https://i.ytimg.com/vi/3nNTq-Rfp8Y/hqdefault.jpg"
         },
         {
@@ -160,26 +178,8 @@
             "channel_name": "YOUNHA OFFICIAL",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "177935",
+            "view_count": "184047",
             "thumbnail_url": "https://i.ytimg.com/vi/ASTsT6wXJmI/hqdefault.jpg"
-        },
-        {
-            "video_id": "44BV4RCmS1M",
-            "title": "리니지 클래식.. 적 혈맹에서 우리쪽으로 넘어온다는 유명 스트리머 ㄷㄷ",
-            "channel_name": "겜케이",
-            "category": "Gaming",
-            "duration": "11:34",
-            "view_count": "124316",
-            "thumbnail_url": "https://i.ytimg.com/vi/44BV4RCmS1M/hqdefault.jpg"
-        },
-        {
-            "video_id": "2GJfWMYCWY0",
-            "title": "BLACKPINK - ‘GO’ M/V",
-            "channel_name": "BLACKPINK",
-            "category": "Music",
-            "duration": "3:22",
-            "view_count": "40399868",
-            "thumbnail_url": "https://i.ytimg.com/vi/2GJfWMYCWY0/hqdefault.jpg"
         },
         {
             "video_id": "uXBEU8Atkc8",
@@ -187,44 +187,8 @@
             "channel_name": "원재TV",
             "category": "Gaming",
             "duration": "9:59:43",
-            "view_count": "167229",
+            "view_count": "167438",
             "thumbnail_url": "https://i.ytimg.com/vi/uXBEU8Atkc8/hqdefault.jpg"
-        },
-        {
-            "video_id": "zGm3fajoUEA",
-            "title": "[성시경 노래] 65. Reality l Sung Si Kyung Music",
-            "channel_name": "성시경 SUNG SI KYUNG",
-            "category": "Entertainment",
-            "duration": "6:20",
-            "view_count": "476858",
-            "thumbnail_url": "https://i.ytimg.com/vi/zGm3fajoUEA/hqdefault.jpg"
-        },
-        {
-            "video_id": "k2KXhqGNQMA",
-            "title": "[ 불도그 LIVE 생방송 3/4 ] 리니지 죄송하게됐습니다.",
-            "channel_name": "불도그",
-            "category": "Gaming",
-            "duration": "2:14:23",
-            "view_count": "237604",
-            "thumbnail_url": "https://i.ytimg.com/vi/k2KXhqGNQMA/hqdefault.jpg"
-        },
-        {
-            "video_id": "x4-5KqI2o28",
-            "title": "칸예보다 너 (Feat. Gist)",
-            "channel_name": "Chan - Topic",
-            "category": "Music",
-            "duration": "2:48",
-            "view_count": "8086",
-            "thumbnail_url": "https://i.ytimg.com/vi/x4-5KqI2o28/hqdefault.jpg"
-        },
-        {
-            "video_id": "dN077beY8Pc",
-            "title": "2-1에 베이가가 뜨면 벌어지는 일",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "15:48",
-            "view_count": "120037",
-            "thumbnail_url": "https://i.ytimg.com/vi/dN077beY8Pc/hqdefault.jpg"
         },
         {
             "video_id": "1DzBKtD3JzI",
@@ -232,26 +196,44 @@
             "channel_name": "ARASHI",
             "category": "Music",
             "duration": "4:27",
-            "view_count": "2142004",
+            "view_count": "2517929",
             "thumbnail_url": "https://i.ytimg.com/vi/1DzBKtD3JzI/hqdefault.jpg"
         },
         {
-            "video_id": "Okd1bX-fcI0",
-            "title": "리니지클래식 전 서버 최초 +10 검",
-            "channel_name": "코인왕 알트",
+            "video_id": "k2KXhqGNQMA",
+            "title": "[ 불도그 LIVE 생방송 3/4 ] 리니지 죄송하게됐습니다.",
+            "channel_name": "불도그",
             "category": "Gaming",
-            "duration": "3:34",
-            "view_count": "179421",
-            "thumbnail_url": "https://i.ytimg.com/vi/Okd1bX-fcI0/hqdefault.jpg"
+            "duration": "2:14:23",
+            "view_count": "238456",
+            "thumbnail_url": "https://i.ytimg.com/vi/k2KXhqGNQMA/hqdefault.jpg"
         },
         {
-            "video_id": "LkdXPLaLjM4",
-            "title": "PUBG x ALLDAY PROJECT 'I DON'T BARGAIN' M/V TEASER | PUBG 9th Anniversary",
-            "channel_name": "THEBLACKLABEL",
+            "video_id": "zGm3fajoUEA",
+            "title": "[성시경 노래] 65. Reality l Sung Si Kyung Music",
+            "channel_name": "성시경 SUNG SI KYUNG",
+            "category": "Entertainment",
+            "duration": "6:20",
+            "view_count": "482532",
+            "thumbnail_url": "https://i.ytimg.com/vi/zGm3fajoUEA/hqdefault.jpg"
+        },
+        {
+            "video_id": "dN077beY8Pc",
+            "title": "2-1에 베이가가 뜨면 벌어지는 일",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "15:48",
+            "view_count": "132057",
+            "thumbnail_url": "https://i.ytimg.com/vi/dN077beY8Pc/hqdefault.jpg"
+        },
+        {
+            "video_id": "2GJfWMYCWY0",
+            "title": "BLACKPINK - ‘GO’ M/V",
+            "channel_name": "BLACKPINK",
             "category": "Music",
-            "duration": "0:25",
-            "view_count": "301131",
-            "thumbnail_url": "https://i.ytimg.com/vi/LkdXPLaLjM4/hqdefault.jpg"
+            "duration": "3:22",
+            "view_count": "40555131",
+            "thumbnail_url": "https://i.ytimg.com/vi/2GJfWMYCWY0/hqdefault.jpg"
         },
         {
             "video_id": "kr-9-kQBADc",
@@ -259,7 +241,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "25:55",
-            "view_count": "99445",
+            "view_count": "105509",
             "thumbnail_url": "https://i.ytimg.com/vi/kr-9-kQBADc/hqdefault.jpg"
         },
         {
@@ -268,62 +250,26 @@
             "channel_name": "melodywalk - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "12636",
+            "view_count": "14531",
             "thumbnail_url": "https://i.ytimg.com/vi/KEMuAbtX6WE/hqdefault.jpg"
         },
         {
-            "video_id": "oEOPhPTwhVg",
-            "title": "결국 참다못한 멜로우는 유료결제를 해버렸습니다! 근데 아직도 업글 안된 ai가있음 ㅋㅋㅋ (로블록스 AI 99일 2편)",
-            "channel_name": "집사TV",
+            "video_id": "Okd1bX-fcI0",
+            "title": "리니지클래식 전 서버 최초 +10 검",
+            "channel_name": "코인왕 알트",
             "category": "Gaming",
-            "duration": "16:13",
-            "view_count": "123645",
-            "thumbnail_url": "https://i.ytimg.com/vi/oEOPhPTwhVg/hqdefault.jpg"
+            "duration": "3:34",
+            "view_count": "182874",
+            "thumbnail_url": "https://i.ytimg.com/vi/Okd1bX-fcI0/hqdefault.jpg"
         },
         {
-            "video_id": "eloq3SSHonA",
-            "title": "SAD 1ER CRU",
-            "channel_name": "KIMMUSEUM - Topic",
+            "video_id": "LkdXPLaLjM4",
+            "title": "PUBG x ALLDAY PROJECT 'I DON'T BARGAIN' M/V TEASER | PUBG 9th Anniversary",
+            "channel_name": "THEBLACKLABEL",
             "category": "Music",
-            "duration": "4:19",
-            "view_count": "12732",
-            "thumbnail_url": "https://i.ytimg.com/vi/eloq3SSHonA/hqdefault.jpg"
-        },
-        {
-            "video_id": "iqqI-T5eZDc",
-            "title": "벌처 단 1마리로 상대 멘탈 박살내기ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "51:34",
-            "view_count": "104119",
-            "thumbnail_url": "https://i.ytimg.com/vi/iqqI-T5eZDc/hqdefault.jpg"
-        },
-        {
-            "video_id": "1dINomJWA-I",
-            "title": "TO. 우주총동원에게 ㅣ 이등병의 편지",
-            "channel_name": "정동원(JD1)",
-            "category": "Entertainment",
-            "duration": "4:55",
-            "view_count": "24144",
-            "thumbnail_url": "https://i.ytimg.com/vi/1dINomJWA-I/hqdefault.jpg"
-        },
-        {
-            "video_id": "phoO0x3J7IU",
-            "title": "\"오열사태 발생\" 진정한 위례의 주인을 가리던 중 발생한 룰루 라이즈 궁 납치 사건..!【염상교레용 Ep.09】",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "32:17",
-            "view_count": "73138",
-            "thumbnail_url": "https://i.ytimg.com/vi/phoO0x3J7IU/hqdefault.jpg"
-        },
-        {
-            "video_id": "YzFAFqxdMeo",
-            "title": "결국 나와버린 잼포터ㅋㅋㅋㅋ｜멸망전 ep.10",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "36:28",
-            "view_count": "112990",
-            "thumbnail_url": "https://i.ytimg.com/vi/YzFAFqxdMeo/hqdefault.jpg"
+            "duration": "0:25",
+            "view_count": "303970",
+            "thumbnail_url": "https://i.ytimg.com/vi/LkdXPLaLjM4/hqdefault.jpg"
         },
         {
             "video_id": "EjmVhHmBquk",
@@ -331,8 +277,98 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "1:20:15",
-            "view_count": "111617",
+            "view_count": "139908",
             "thumbnail_url": "https://i.ytimg.com/vi/EjmVhHmBquk/hqdefault.jpg"
+        },
+        {
+            "video_id": "eloq3SSHonA",
+            "title": "SAD 1ER CRU",
+            "channel_name": "KIMMUSEUM - Topic",
+            "category": "Music",
+            "duration": "4:19",
+            "view_count": "14484",
+            "thumbnail_url": "https://i.ytimg.com/vi/eloq3SSHonA/hqdefault.jpg"
+        },
+        {
+            "video_id": "oEOPhPTwhVg",
+            "title": "결국 참다못한 멜로우는 유료결제를 해버렸습니다! 근데 아직도 업글 안된 ai가있음 ㅋㅋㅋ (로블록스 AI 99일 2편)",
+            "channel_name": "집사TV",
+            "category": "Gaming",
+            "duration": "16:13",
+            "view_count": "132596",
+            "thumbnail_url": "https://i.ytimg.com/vi/oEOPhPTwhVg/hqdefault.jpg"
+        },
+        {
+            "video_id": "XRRZ1pBEYCU",
+            "title": "Tweak",
+            "channel_name": "GIRLSET - Topic",
+            "category": "Music",
+            "duration": "2:29",
+            "view_count": "38001",
+            "thumbnail_url": "https://i.ytimg.com/vi/XRRZ1pBEYCU/hqdefault.jpg"
+        },
+        {
+            "video_id": "phoO0x3J7IU",
+            "title": "\"오열사태 발생\" 진정한 위례의 주인을 가리던 중 발생한 룰루 라이즈 궁 납치 사건..!【염상교레용 Ep.09】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "32:17",
+            "view_count": "81117",
+            "thumbnail_url": "https://i.ytimg.com/vi/phoO0x3J7IU/hqdefault.jpg"
+        },
+        {
+            "video_id": "rsjaFk0Z5es",
+            "title": "ずっと真夜中でいいのに。『よもすがら』MV (ZUTOMAYO - yomosugara)",
+            "channel_name": "ずっと真夜中でいいのに。 ZUTOMAYO",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "191002",
+            "thumbnail_url": "https://i.ytimg.com/vi/rsjaFk0Z5es/hqdefault.jpg"
+        },
+        {
+            "video_id": "q3wuyvQsO_M",
+            "title": "요즘 개나 소나 김성현 유튜브 보고 개념 없이 따라 한다며 개초보 취급하는 상대....",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "26:47",
+            "view_count": "127912",
+            "thumbnail_url": "https://i.ytimg.com/vi/q3wuyvQsO_M/hqdefault.jpg"
+        },
+        {
+            "video_id": "1dINomJWA-I",
+            "title": "TO. 우주총동원에게 ㅣ 이등병의 편지",
+            "channel_name": "정동원(JD1)",
+            "category": "Entertainment",
+            "duration": "4:55",
+            "view_count": "25284",
+            "thumbnail_url": "https://i.ytimg.com/vi/1dINomJWA-I/hqdefault.jpg"
+        },
+        {
+            "video_id": "YzFAFqxdMeo",
+            "title": "결국 나와버린 잼포터ㅋㅋㅋㅋ｜멸망전 ep.10",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "36:28",
+            "view_count": "113853",
+            "thumbnail_url": "https://i.ytimg.com/vi/YzFAFqxdMeo/hqdefault.jpg"
+        },
+        {
+            "video_id": "i8xkC9ZuzLI",
+            "title": "광야를 지나며 / THROUGH THE WILDERNESS - 피아워십",
+            "channel_name": "F.I.A",
+            "category": "Music",
+            "duration": "4:37",
+            "view_count": "11953",
+            "thumbnail_url": "https://i.ytimg.com/vi/i8xkC9ZuzLI/hqdefault.jpg"
+        },
+        {
+            "video_id": "SHyyaNZxDWU",
+            "title": "돈 탈탈 털어서 또 스펙업 성공했습니다!!!【무자본 나로 10일차】",
+            "channel_name": "수찬 Suchan",
+            "category": "Gaming",
+            "duration": "21:10",
+            "view_count": "81763",
+            "thumbnail_url": "https://i.ytimg.com/vi/SHyyaNZxDWU/hqdefault.jpg"
         },
         {
             "video_id": "lmUYJxyyMEA",
@@ -340,44 +376,8 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "23:57",
-            "view_count": "520295",
+            "view_count": "523758",
             "thumbnail_url": "https://i.ytimg.com/vi/lmUYJxyyMEA/hqdefault.jpg"
-        },
-        {
-            "video_id": "ztUuqJjCBRo",
-            "title": "상상을 300% 뛰어넘는 광고게임",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "32:57",
-            "view_count": "210248",
-            "thumbnail_url": "https://i.ytimg.com/vi/ztUuqJjCBRo/hqdefault.jpg"
-        },
-        {
-            "video_id": "rVpGOqEK_P8",
-            "title": "지슈스 적응 2일차... 시시해져버렸다 이 발로란트라는 게임이ㅋ",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "20:13",
-            "view_count": "92518",
-            "thumbnail_url": "https://i.ytimg.com/vi/rVpGOqEK_P8/hqdefault.jpg"
-        },
-        {
-            "video_id": "AWfEYSZQEpM",
-            "title": "[리니지 클래식] 나 좀 먹어달라고!!!",
-            "channel_name": "스트리머 사또 live-streamer satto",
-            "category": "Gaming",
-            "duration": "11:07",
-            "view_count": "91082",
-            "thumbnail_url": "https://i.ytimg.com/vi/AWfEYSZQEpM/hqdefault.jpg"
-        },
-        {
-            "video_id": "bqeSbB5vZGU",
-            "title": "[ 3. 5 live ] 리니지 클래식 : 트리플 없는 깡깡이, 게임마다 고난이...SOL: enchant 사전 등록 스타트!",
-            "channel_name": "수삼티비",
-            "category": "Gaming",
-            "duration": "2:53:05",
-            "view_count": "142702",
-            "thumbnail_url": "https://i.ytimg.com/vi/bqeSbB5vZGU/hqdefault.jpg"
         }
     ]
 }
