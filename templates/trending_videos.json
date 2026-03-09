@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-09 08:28:03",
+    "scraped_time": "2026-03-09 11:29:31",
     "videos": [
         {
             "video_id": "HLTQoCRBfxc",
@@ -7,7 +7,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "617583",
+            "view_count": "662393",
             "thumbnail_url": "https://i.ytimg.com/vi/HLTQoCRBfxc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "GLITCH",
             "category": "Film & Animation",
             "duration": "1:07",
-            "view_count": "6979646",
+            "view_count": "7105517",
             "thumbnail_url": "https://i.ytimg.com/vi/4lFnIlH06Sw/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "3:15:18",
-            "view_count": "198302",
+            "view_count": "201982",
             "thumbnail_url": "https://i.ytimg.com/vi/YMALhvQswRs/hqdefault.jpg"
         },
         {
@@ -34,26 +34,8 @@
             "channel_name": "nowimyoung - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "518918",
+            "view_count": "548945",
             "thumbnail_url": "https://i.ytimg.com/vi/TCPU7L7Qymg/hqdefault.jpg"
-        },
-        {
-            "video_id": "8bJiJQr-fT4",
-            "title": "버텨야 한다",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "20:09",
-            "view_count": "411159",
-            "thumbnail_url": "https://i.ytimg.com/vi/8bJiJQr-fT4/hqdefault.jpg"
-        },
-        {
-            "video_id": "DhfitPakxV8",
-            "title": "No Manners (Prod. by Lil Moshpit)",
-            "channel_name": "Lil Moshpit - Topic",
-            "category": "Music",
-            "duration": "3:58",
-            "view_count": "320595",
-            "thumbnail_url": "https://i.ytimg.com/vi/DhfitPakxV8/hqdefault.jpg"
         },
         {
             "video_id": "AA_RpyFjX_M",
@@ -61,8 +43,44 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "32:09",
-            "view_count": "202875",
+            "view_count": "221303",
             "thumbnail_url": "https://i.ytimg.com/vi/AA_RpyFjX_M/hqdefault.jpg"
+        },
+        {
+            "video_id": "DhfitPakxV8",
+            "title": "No Manners (Prod. by Lil Moshpit)",
+            "channel_name": "Lil Moshpit - Topic",
+            "category": "Music",
+            "duration": "3:58",
+            "view_count": "339591",
+            "thumbnail_url": "https://i.ytimg.com/vi/DhfitPakxV8/hqdefault.jpg"
+        },
+        {
+            "video_id": "8bJiJQr-fT4",
+            "title": "버텨야 한다",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "20:09",
+            "view_count": "417003",
+            "thumbnail_url": "https://i.ytimg.com/vi/8bJiJQr-fT4/hqdefault.jpg"
+        },
+        {
+            "video_id": "D0VQCE4J_Jg",
+            "title": "If We",
+            "channel_name": "Oh yeonha - Topic",
+            "category": "Music",
+            "duration": "3:53",
+            "view_count": "139938",
+            "thumbnail_url": "https://i.ytimg.com/vi/D0VQCE4J_Jg/hqdefault.jpg"
+        },
+        {
+            "video_id": "mjS2hgO9sZI",
+            "title": "\"김민교는 다 알고있다\" 180도 달라진 대회의 김민교 ｜멸망전 EP.14",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "33:11",
+            "view_count": "258012",
+            "thumbnail_url": "https://i.ytimg.com/vi/mjS2hgO9sZI/hqdefault.jpg"
         },
         {
             "video_id": "JJWE0trXnLM",
@@ -70,7 +88,7 @@
             "channel_name": "JENNIE - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "116953",
+            "view_count": "121736",
             "thumbnail_url": "https://i.ytimg.com/vi/JJWE0trXnLM/hqdefault.jpg"
         },
         {
@@ -79,26 +97,8 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "2:12:37",
-            "view_count": "350737",
+            "view_count": "356529",
             "thumbnail_url": "https://i.ytimg.com/vi/P_VUB_UkP-s/hqdefault.jpg"
-        },
-        {
-            "video_id": "D0VQCE4J_Jg",
-            "title": "If We",
-            "channel_name": "Oh yeonha - Topic",
-            "category": "Music",
-            "duration": "3:53",
-            "view_count": "129002",
-            "thumbnail_url": "https://i.ytimg.com/vi/D0VQCE4J_Jg/hqdefault.jpg"
-        },
-        {
-            "video_id": "sH9SvVdkmiA",
-            "title": "기러기 부부",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "25:39",
-            "view_count": "346076",
-            "thumbnail_url": "https://i.ytimg.com/vi/sH9SvVdkmiA/hqdefault.jpg"
         },
         {
             "video_id": "Htrz-h2RGyA",
@@ -106,8 +106,26 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "2:31",
-            "view_count": "150807",
+            "view_count": "154575",
             "thumbnail_url": "https://i.ytimg.com/vi/Htrz-h2RGyA/hqdefault.jpg"
+        },
+        {
+            "video_id": "sH9SvVdkmiA",
+            "title": "기러기 부부",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "25:39",
+            "view_count": "351432",
+            "thumbnail_url": "https://i.ytimg.com/vi/sH9SvVdkmiA/hqdefault.jpg"
+        },
+        {
+            "video_id": "9ag5WKx3F8w",
+            "title": "a letter in spring (feat. RYUMINHEE)",
+            "channel_name": "SUNNYSIDEMJ - Topic",
+            "category": "Music",
+            "duration": "4:18",
+            "view_count": "20449",
+            "thumbnail_url": "https://i.ytimg.com/vi/9ag5WKx3F8w/hqdefault.jpg"
         },
         {
             "video_id": "kfr3KscVlFE",
@@ -115,26 +133,8 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "4:06:09",
-            "view_count": "184719",
+            "view_count": "186399",
             "thumbnail_url": "https://i.ytimg.com/vi/kfr3KscVlFE/hqdefault.jpg"
-        },
-        {
-            "video_id": "4TRS7y4qdWs",
-            "title": "윤하(YOUNHA) - Sub Character M/V",
-            "channel_name": "YOUNHA OFFICIAL",
-            "category": "Music",
-            "duration": "4:19",
-            "view_count": "225343",
-            "thumbnail_url": "https://i.ytimg.com/vi/4TRS7y4qdWs/hqdefault.jpg"
-        },
-        {
-            "video_id": "mjS2hgO9sZI",
-            "title": "\"김민교는 다 알고있다\" 180도 달라진 대회의 김민교 ｜멸망전 EP.14",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "33:11",
-            "view_count": "240178",
-            "thumbnail_url": "https://i.ytimg.com/vi/mjS2hgO9sZI/hqdefault.jpg"
         },
         {
             "video_id": "ePn0sC60PxA",
@@ -142,7 +142,7 @@
             "channel_name": "SLAY - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "119053",
+            "view_count": "122290",
             "thumbnail_url": "https://i.ytimg.com/vi/ePn0sC60PxA/hqdefault.jpg"
         },
         {
@@ -151,17 +151,17 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:03",
-            "view_count": "420764",
+            "view_count": "423960",
             "thumbnail_url": "https://i.ytimg.com/vi/u6hkPgbWa3Y/hqdefault.jpg"
         },
         {
-            "video_id": "CxweSleGHXw",
-            "title": "ATTITUDE",
-            "channel_name": "aespa - Topic",
+            "video_id": "z3U24UYdm5Q",
+            "title": "CODE",
+            "channel_name": "EVERGLOW - Topic",
             "category": "Music",
-            "duration": "3:05",
-            "view_count": "135150",
-            "thumbnail_url": "https://i.ytimg.com/vi/CxweSleGHXw/hqdefault.jpg"
+            "duration": "2:35",
+            "view_count": "71982",
+            "thumbnail_url": "https://i.ytimg.com/vi/z3U24UYdm5Q/hqdefault.jpg"
         },
         {
             "video_id": "PXrjclQqMYA",
@@ -169,17 +169,17 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "6:57:54",
-            "view_count": "295971",
+            "view_count": "298161",
             "thumbnail_url": "https://i.ytimg.com/vi/PXrjclQqMYA/hqdefault.jpg"
         },
         {
-            "video_id": "bSZL3ZZC8EE",
-            "title": "I.N \"행복 뭐 별거 없네요(The Little Things)\" | [Stray Kids : SKZ-RECORD]",
-            "channel_name": "Stray Kids",
+            "video_id": "4TRS7y4qdWs",
+            "title": "윤하(YOUNHA) - Sub Character M/V",
+            "channel_name": "YOUNHA OFFICIAL",
             "category": "Music",
-            "duration": "2:54",
-            "view_count": "564887",
-            "thumbnail_url": "https://i.ytimg.com/vi/bSZL3ZZC8EE/hqdefault.jpg"
+            "duration": "4:19",
+            "view_count": "231447",
+            "thumbnail_url": "https://i.ytimg.com/vi/4TRS7y4qdWs/hqdefault.jpg"
         },
         {
             "video_id": "qPa2BWMKpgQ",
@@ -187,17 +187,17 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "11:23",
-            "view_count": "137983",
+            "view_count": "143972",
             "thumbnail_url": "https://i.ytimg.com/vi/qPa2BWMKpgQ/hqdefault.jpg"
         },
         {
-            "video_id": "EIM-T8kP5EY",
-            "title": "[최신가요 실시간 인기차트] 🎀✨ 2026년 3월 6일 1주차, 멜론차트 100, 종합차트, 노래모음 KPOP 플레이리스트",
-            "channel_name": "Yeo Doll",
+            "video_id": "CxweSleGHXw",
+            "title": "ATTITUDE",
+            "channel_name": "aespa - Topic",
             "category": "Music",
-            "duration": "12:15:49",
-            "view_count": "64108",
-            "thumbnail_url": "https://i.ytimg.com/vi/EIM-T8kP5EY/hqdefault.jpg"
+            "duration": "3:05",
+            "view_count": "139965",
+            "thumbnail_url": "https://i.ytimg.com/vi/CxweSleGHXw/hqdefault.jpg"
         },
         {
             "video_id": "dFUv9SWdybg",
@@ -205,53 +205,17 @@
             "channel_name": "주복이",
             "category": "Gaming",
             "duration": "11:51:28",
-            "view_count": "97440",
+            "view_count": "98015",
             "thumbnail_url": "https://i.ytimg.com/vi/dFUv9SWdybg/hqdefault.jpg"
         },
         {
-            "video_id": "WsT4KXGUhwE",
-            "title": "Even If the World Tricks You",
-            "channel_name": "Kim Na-young - Topic",
+            "video_id": "4RfYAEZo8xM",
+            "title": "LOVE AGAIN (2026 FEMALE Version)",
+            "channel_name": "ASHATREE - Topic",
             "category": "Music",
-            "duration": "4:17",
-            "view_count": "33968",
-            "thumbnail_url": "https://i.ytimg.com/vi/WsT4KXGUhwE/hqdefault.jpg"
-        },
-        {
-            "video_id": "ARYu1LGdTHA",
-            "title": "물컹물컹한 신발 드디어 출시 ㅋㅋㅋㅋㅋ",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "21:57",
-            "view_count": "151454",
-            "thumbnail_url": "https://i.ytimg.com/vi/ARYu1LGdTHA/hqdefault.jpg"
-        },
-        {
-            "video_id": "o6jQo3-iCao",
-            "title": "Harry Styles - American Girls (Official Video)",
-            "channel_name": "HarryStylesVEVO",
-            "category": "Music",
-            "duration": "3:48",
-            "view_count": "4739316",
-            "thumbnail_url": "https://i.ytimg.com/vi/o6jQo3-iCao/hqdefault.jpg"
-        },
-        {
-            "video_id": "wWYLuDaxDRk",
-            "title": "역대급 버프로 신이 되어버린 \"탑 하이브리드 볼리베어 전략\" 🐻‍❄️⚡이거 지금 못막습니다",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "20:00",
-            "view_count": "96900",
-            "thumbnail_url": "https://i.ytimg.com/vi/wWYLuDaxDRk/hqdefault.jpg"
-        },
-        {
-            "video_id": "ygoduPu_5PQ",
-            "title": "50대이상이 들으면 기분좋아지는 7080노래모음💛7080년대 가장 좋아하는 노래🌿추억으로 떠나는 7080 노래여행",
-            "channel_name": "7080 마음의 선율",
-            "category": "Music",
-            "duration": "1:40:27",
-            "view_count": "22032",
-            "thumbnail_url": "https://i.ytimg.com/vi/ygoduPu_5PQ/hqdefault.jpg"
+            "duration": "4:16",
+            "view_count": "8624",
+            "thumbnail_url": "https://i.ytimg.com/vi/4RfYAEZo8xM/hqdefault.jpg"
         },
         {
             "video_id": "7aohiYMEziQ",
@@ -259,35 +223,53 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "49:25",
-            "view_count": "114242",
+            "view_count": "120935",
             "thumbnail_url": "https://i.ytimg.com/vi/7aohiYMEziQ/hqdefault.jpg"
         },
         {
-            "video_id": "-9eZdqb_0Y8",
-            "title": "Human Extinction",
-            "channel_name": "WOODZ - Topic",
+            "video_id": "bSZL3ZZC8EE",
+            "title": "I.N \"행복 뭐 별거 없네요(The Little Things)\" | [Stray Kids : SKZ-RECORD]",
+            "channel_name": "Stray Kids",
             "category": "Music",
-            "duration": "3:26",
-            "view_count": "231484",
-            "thumbnail_url": "https://i.ytimg.com/vi/-9eZdqb_0Y8/hqdefault.jpg"
+            "duration": "2:54",
+            "view_count": "580110",
+            "thumbnail_url": "https://i.ytimg.com/vi/bSZL3ZZC8EE/hqdefault.jpg"
         },
         {
-            "video_id": "y_ixfD5nGZM",
-            "title": "자기보다 잘하는 요루 만나서 하루종일 삐져있는 영상",
-            "channel_name": "김된모",
+            "video_id": "ARYu1LGdTHA",
+            "title": "물컹물컹한 신발 드디어 출시 ㅋㅋㅋㅋㅋ",
+            "channel_name": "레고77",
             "category": "Gaming",
-            "duration": "16:48",
-            "view_count": "92265",
-            "thumbnail_url": "https://i.ytimg.com/vi/y_ixfD5nGZM/hqdefault.jpg"
+            "duration": "21:57",
+            "view_count": "155360",
+            "thumbnail_url": "https://i.ytimg.com/vi/ARYu1LGdTHA/hqdefault.jpg"
         },
         {
-            "video_id": "Guy4BRfBg6U",
-            "title": "Starry Night",
-            "channel_name": "SOOSOJIN - Topic",
+            "video_id": "EIM-T8kP5EY",
+            "title": "[최신가요 실시간 인기차트] 🎀✨ 2026년 3월 6일 1주차, 멜론차트 100, 종합차트, 노래모음 KPOP 플레이리스트",
+            "channel_name": "Yeo Doll",
             "category": "Music",
-            "duration": "3:24",
-            "view_count": "77045",
-            "thumbnail_url": "https://i.ytimg.com/vi/Guy4BRfBg6U/hqdefault.jpg"
+            "duration": "12:15:49",
+            "view_count": "66980",
+            "thumbnail_url": "https://i.ytimg.com/vi/EIM-T8kP5EY/hqdefault.jpg"
+        },
+        {
+            "video_id": "wWYLuDaxDRk",
+            "title": "역대급 버프로 신이 되어버린 \"탑 하이브리드 볼리베어 전략\" 🐻‍❄️⚡이거 지금 못막습니다",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "20:00",
+            "view_count": "103509",
+            "thumbnail_url": "https://i.ytimg.com/vi/wWYLuDaxDRk/hqdefault.jpg"
+        },
+        {
+            "video_id": "WsT4KXGUhwE",
+            "title": "Even If the World Tricks You",
+            "channel_name": "Kim Na-young - Topic",
+            "category": "Music",
+            "duration": "4:17",
+            "view_count": "36610",
+            "thumbnail_url": "https://i.ytimg.com/vi/WsT4KXGUhwE/hqdefault.jpg"
         },
         {
             "video_id": "A_tPfaFJV9c",
@@ -295,17 +277,35 @@
             "channel_name": "글자네",
             "category": "Gaming",
             "duration": "16:49",
-            "view_count": "125352",
+            "view_count": "133848",
             "thumbnail_url": "https://i.ytimg.com/vi/A_tPfaFJV9c/hqdefault.jpg"
         },
         {
-            "video_id": "XRRZ1pBEYCU",
-            "title": "Tweak",
-            "channel_name": "GIRLSET - Topic",
+            "video_id": "Guy4BRfBg6U",
+            "title": "Starry Night",
+            "channel_name": "SOOSOJIN - Topic",
             "category": "Music",
-            "duration": "2:29",
-            "view_count": "414004",
-            "thumbnail_url": "https://i.ytimg.com/vi/XRRZ1pBEYCU/hqdefault.jpg"
+            "duration": "3:24",
+            "view_count": "79452",
+            "thumbnail_url": "https://i.ytimg.com/vi/Guy4BRfBg6U/hqdefault.jpg"
+        },
+        {
+            "video_id": "y_ixfD5nGZM",
+            "title": "자기보다 잘하는 요루 만나서 하루종일 삐져있는 영상",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "16:48",
+            "view_count": "99098",
+            "thumbnail_url": "https://i.ytimg.com/vi/y_ixfD5nGZM/hqdefault.jpg"
+        },
+        {
+            "video_id": "ygoduPu_5PQ",
+            "title": "50대이상이 들으면 기분좋아지는 7080노래모음💛7080년대 가장 좋아하는 노래🌿추억으로 떠나는 7080 노래여행",
+            "channel_name": "7080 마음의 선율",
+            "category": "Music",
+            "duration": "1:40:27",
+            "view_count": "25241",
+            "thumbnail_url": "https://i.ytimg.com/vi/ygoduPu_5PQ/hqdefault.jpg"
         },
         {
             "video_id": "QzQHjIJHQpU",
@@ -313,17 +313,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "36:54",
-            "view_count": "147682",
+            "view_count": "153807",
             "thumbnail_url": "https://i.ytimg.com/vi/QzQHjIJHQpU/hqdefault.jpg"
         },
         {
-            "video_id": "P_nEdat7Vmk",
-            "title": "To. My First Love",
-            "channel_name": "H1-KEY - Topic",
+            "video_id": "o6jQo3-iCao",
+            "title": "Harry Styles - American Girls (Official Video)",
+            "channel_name": "HarryStylesVEVO",
             "category": "Music",
-            "duration": "3:30",
-            "view_count": "96776",
-            "thumbnail_url": "https://i.ytimg.com/vi/P_nEdat7Vmk/hqdefault.jpg"
+            "duration": "3:48",
+            "view_count": "4863463",
+            "thumbnail_url": "https://i.ytimg.com/vi/o6jQo3-iCao/hqdefault.jpg"
         },
         {
             "video_id": "0RtPzwanwu4",
@@ -331,17 +331,17 @@
             "channel_name": "유봉훈",
             "category": "Gaming",
             "duration": "10:18",
-            "view_count": "117782",
+            "view_count": "128072",
             "thumbnail_url": "https://i.ytimg.com/vi/0RtPzwanwu4/hqdefault.jpg"
         },
         {
-            "video_id": "FUohAqytEXo",
-            "title": "리니지클래식 활피단  #뱀피르 #SOL #원큐 #oneq #리니지 2026/03/08",
-            "channel_name": "원큐",
-            "category": "Gaming",
-            "duration": "8:13:50",
-            "view_count": "71680",
-            "thumbnail_url": "https://i.ytimg.com/vi/FUohAqytEXo/hqdefault.jpg"
+            "video_id": "-9eZdqb_0Y8",
+            "title": "Human Extinction",
+            "channel_name": "WOODZ - Topic",
+            "category": "Music",
+            "duration": "3:26",
+            "view_count": "240479",
+            "thumbnail_url": "https://i.ytimg.com/vi/-9eZdqb_0Y8/hqdefault.jpg"
         },
         {
             "video_id": "wojao4MEQYs",
@@ -349,8 +349,17 @@
             "channel_name": "백크 Baekk",
             "category": "Gaming",
             "duration": "12:09",
-            "view_count": "95920",
+            "view_count": "103434",
             "thumbnail_url": "https://i.ytimg.com/vi/wojao4MEQYs/hqdefault.jpg"
+        },
+        {
+            "video_id": "P_nEdat7Vmk",
+            "title": "To. My First Love",
+            "channel_name": "H1-KEY - Topic",
+            "category": "Music",
+            "duration": "3:30",
+            "view_count": "103989",
+            "thumbnail_url": "https://i.ytimg.com/vi/P_nEdat7Vmk/hqdefault.jpg"
         },
         {
             "video_id": "nT5gowT7vcA",
@@ -358,26 +367,17 @@
             "channel_name": "GCL 지씨엘",
             "category": "Gaming",
             "duration": "1:53:30",
-            "view_count": "263737",
+            "view_count": "269422",
             "thumbnail_url": "https://i.ytimg.com/vi/nT5gowT7vcA/hqdefault.jpg"
         },
         {
-            "video_id": "rS-weST1HsM",
-            "title": "여동생 운전 알려주기",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "15:05",
-            "view_count": "247181",
-            "thumbnail_url": "https://i.ytimg.com/vi/rS-weST1HsM/hqdefault.jpg"
-        },
-        {
-            "video_id": "j-XORg9ZdE4",
-            "title": "배그 숨막히는 비켄디 자기장",
-            "channel_name": "주키니TV",
-            "category": "Gaming",
-            "duration": "18:02",
-            "view_count": "77990",
-            "thumbnail_url": "https://i.ytimg.com/vi/j-XORg9ZdE4/hqdefault.jpg"
+            "video_id": "XRRZ1pBEYCU",
+            "title": "Tweak",
+            "channel_name": "GIRLSET - Topic",
+            "category": "Music",
+            "duration": "2:29",
+            "view_count": "421436",
+            "thumbnail_url": "https://i.ytimg.com/vi/XRRZ1pBEYCU/hqdefault.jpg"
         }
     ]
 }
