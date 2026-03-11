@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-12 05:36:59",
+    "scraped_time": "2026-03-12 06:36:06",
     "videos": [
         {
             "video_id": "ItSKahBISg0",
@@ -7,7 +7,7 @@
             "channel_name": "YENA(최예나)",
             "category": "Entertainment",
             "duration": "3:09",
-            "view_count": "576799",
+            "view_count": "597241",
             "thumbnail_url": "https://i.ytimg.com/vi/ItSKahBISg0/hqdefault.jpg"
         },
         {
@@ -16,17 +16,17 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "2:24",
-            "view_count": "320028",
+            "view_count": "326432",
             "thumbnail_url": "https://i.ytimg.com/vi/K4BZpoafQqA/hqdefault.jpg"
         },
         {
-            "video_id": "T6XsdRQu9MI",
-            "title": "괴롭힘을 견디지 못한 남자",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "AaoJ7PLoqjc",
+            "title": "리니지 클래식 샤르나 변신 좋습니다 열심히 고고",
+            "channel_name": "이문주",
             "category": "Gaming",
-            "duration": "19:31",
-            "view_count": "210517",
-            "thumbnail_url": "https://i.ytimg.com/vi/T6XsdRQu9MI/hqdefault.jpg"
+            "duration": "6:10:11",
+            "view_count": "198169",
+            "thumbnail_url": "https://i.ytimg.com/vi/AaoJ7PLoqjc/hqdefault.jpg"
         },
         {
             "video_id": "7KpcojYwabc",
@@ -34,8 +34,35 @@
             "channel_name": "Younha - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "208539",
+            "view_count": "208999",
             "thumbnail_url": "https://i.ytimg.com/vi/7KpcojYwabc/hqdefault.jpg"
+        },
+        {
+            "video_id": "wHvmXs2wBSU",
+            "title": "이서진의 달라달라 | 공식 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "1:45",
+            "view_count": "102676",
+            "thumbnail_url": "https://i.ytimg.com/vi/wHvmXs2wBSU/hqdefault.jpg"
+        },
+        {
+            "video_id": "T6XsdRQu9MI",
+            "title": "괴롭힘을 견디지 못한 남자",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "19:31",
+            "view_count": "219388",
+            "thumbnail_url": "https://i.ytimg.com/vi/T6XsdRQu9MI/hqdefault.jpg"
+        },
+        {
+            "video_id": "y55WCDiIBSg",
+            "title": "I DON'T BARGAIN",
+            "channel_name": "ALLDAY PROJECT - Topic",
+            "category": "Music",
+            "duration": "2:51",
+            "view_count": "140575",
+            "thumbnail_url": "https://i.ytimg.com/vi/y55WCDiIBSg/hqdefault.jpg"
         },
         {
             "video_id": "WIt8kL2omjU",
@@ -43,7 +70,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "10:46",
-            "view_count": "178997",
+            "view_count": "179098",
             "thumbnail_url": "https://i.ytimg.com/vi/WIt8kL2omjU/hqdefault.jpg"
         },
         {
@@ -52,35 +79,8 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "5:22:27",
-            "view_count": "216225",
+            "view_count": "216589",
             "thumbnail_url": "https://i.ytimg.com/vi/vOwc5opDlTE/hqdefault.jpg"
-        },
-        {
-            "video_id": "y55WCDiIBSg",
-            "title": "I DON'T BARGAIN",
-            "channel_name": "ALLDAY PROJECT - Topic",
-            "category": "Music",
-            "duration": "2:51",
-            "view_count": "140439",
-            "thumbnail_url": "https://i.ytimg.com/vi/y55WCDiIBSg/hqdefault.jpg"
-        },
-        {
-            "video_id": "wHvmXs2wBSU",
-            "title": "이서진의 달라달라 | 공식 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "1:45",
-            "view_count": "102260",
-            "thumbnail_url": "https://i.ytimg.com/vi/wHvmXs2wBSU/hqdefault.jpg"
-        },
-        {
-            "video_id": "MxT5MtFZtnU",
-            "title": "[ 불도그 LIVE 생방송 3/10 ] 리니지 마을밖을 나가보려합니다...",
-            "channel_name": "불도그",
-            "category": "Gaming",
-            "duration": "5:13:04",
-            "view_count": "293047",
-            "thumbnail_url": "https://i.ytimg.com/vi/MxT5MtFZtnU/hqdefault.jpg"
         },
         {
             "video_id": "LHUMzyMq084",
@@ -88,17 +88,17 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "1368047",
+            "view_count": "1373387",
             "thumbnail_url": "https://i.ytimg.com/vi/LHUMzyMq084/hqdefault.jpg"
         },
         {
-            "video_id": "IQnVns79ZWQ",
-            "title": "최고의 수문장",
-            "channel_name": "PAKA",
+            "video_id": "MxT5MtFZtnU",
+            "title": "[ 불도그 LIVE 생방송 3/10 ] 리니지 마을밖을 나가보려합니다...",
+            "channel_name": "불도그",
             "category": "Gaming",
-            "duration": "22:04",
-            "view_count": "359273",
-            "thumbnail_url": "https://i.ytimg.com/vi/IQnVns79ZWQ/hqdefault.jpg"
+            "duration": "5:13:04",
+            "view_count": "293100",
+            "thumbnail_url": "https://i.ytimg.com/vi/MxT5MtFZtnU/hqdefault.jpg"
         },
         {
             "video_id": "W0YGYFE4_bg",
@@ -106,17 +106,17 @@
             "channel_name": "CAMO - Topic",
             "category": "Music",
             "duration": "2:24",
-            "view_count": "39020",
+            "view_count": "39274",
             "thumbnail_url": "https://i.ytimg.com/vi/W0YGYFE4_bg/hqdefault.jpg"
         },
         {
-            "video_id": "BXzRUo2PawY",
-            "title": "1위 크완 직작에 성공한 대머리;;",
-            "channel_name": "레고77",
+            "video_id": "IQnVns79ZWQ",
+            "title": "최고의 수문장",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "18:16",
-            "view_count": "151754",
-            "thumbnail_url": "https://i.ytimg.com/vi/BXzRUo2PawY/hqdefault.jpg"
+            "duration": "22:04",
+            "view_count": "360293",
+            "thumbnail_url": "https://i.ytimg.com/vi/IQnVns79ZWQ/hqdefault.jpg"
         },
         {
             "video_id": "HLTQoCRBfxc",
@@ -124,17 +124,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "1439005",
+            "view_count": "1440799",
             "thumbnail_url": "https://i.ytimg.com/vi/HLTQoCRBfxc/hqdefault.jpg"
         },
         {
-            "video_id": "SH2xONxNdfI",
-            "title": "감스트 동의게임 하다가 개빡쳐서 책상 뿌셨습니다..",
-            "channel_name": "감스트GAMST",
+            "video_id": "BXzRUo2PawY",
+            "title": "1위 크완 직작에 성공한 대머리;;",
+            "channel_name": "레고77",
             "category": "Gaming",
-            "duration": "23:35",
-            "view_count": "138249",
-            "thumbnail_url": "https://i.ytimg.com/vi/SH2xONxNdfI/hqdefault.jpg"
+            "duration": "18:16",
+            "view_count": "153750",
+            "thumbnail_url": "https://i.ytimg.com/vi/BXzRUo2PawY/hqdefault.jpg"
         },
         {
             "video_id": "Mnu5-meFyfI",
@@ -142,17 +142,17 @@
             "channel_name": "Aaron Smith - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "713166",
+            "view_count": "725667",
             "thumbnail_url": "https://i.ytimg.com/vi/Mnu5-meFyfI/hqdefault.jpg"
         },
         {
-            "video_id": "Z2SIsIqpEcU",
-            "title": "리니지 클래식 / 서버최초 지존 장비를 선물 받고 지존 스킬 먹었습니다!! (ft 망구랑)",
-            "channel_name": "빅보스",
+            "video_id": "SH2xONxNdfI",
+            "title": "감스트 동의게임 하다가 개빡쳐서 책상 뿌셨습니다..",
+            "channel_name": "감스트GAMST",
             "category": "Gaming",
-            "duration": "18:35",
-            "view_count": "287271",
-            "thumbnail_url": "https://i.ytimg.com/vi/Z2SIsIqpEcU/hqdefault.jpg"
+            "duration": "23:35",
+            "view_count": "141315",
+            "thumbnail_url": "https://i.ytimg.com/vi/SH2xONxNdfI/hqdefault.jpg"
         },
         {
             "video_id": "WwIkEUAEHXo",
@@ -160,17 +160,17 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "3:57",
-            "view_count": "70307",
+            "view_count": "71351",
             "thumbnail_url": "https://i.ytimg.com/vi/WwIkEUAEHXo/hqdefault.jpg"
         },
         {
-            "video_id": "GBEgL9w0EjQ",
-            "title": "황금 수저로 태어나면 벌어지는 일",
-            "channel_name": "잡상싱",
+            "video_id": "tlbMs9spb0s",
+            "title": "[리니지 클래식] 하이네 신서버 오픈런🔥마을 대학살",
+            "channel_name": "닌쟁이",
             "category": "Gaming",
-            "duration": "13:16",
-            "view_count": "123700",
-            "thumbnail_url": "https://i.ytimg.com/vi/GBEgL9w0EjQ/hqdefault.jpg"
+            "duration": "8:55:22",
+            "view_count": "127582",
+            "thumbnail_url": "https://i.ytimg.com/vi/tlbMs9spb0s/hqdefault.jpg"
         },
         {
             "video_id": "kkWTd89DWnU",
@@ -178,17 +178,17 @@
             "channel_name": "KickFlip - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "92610",
+            "view_count": "92889",
             "thumbnail_url": "https://i.ytimg.com/vi/kkWTd89DWnU/hqdefault.jpg"
         },
         {
-            "video_id": "RhawP90SyZo",
-            "title": "전세계 1등 선생님 모셨습니다. [마크 하드코어 EP.15]",
-            "channel_name": "말왕TV",
+            "video_id": "Z2SIsIqpEcU",
+            "title": "리니지 클래식 / 서버최초 지존 장비를 선물 받고 지존 스킬 먹었습니다!! (ft 망구랑)",
+            "channel_name": "빅보스",
             "category": "Gaming",
-            "duration": "30:19",
-            "view_count": "306872",
-            "thumbnail_url": "https://i.ytimg.com/vi/RhawP90SyZo/hqdefault.jpg"
+            "duration": "18:35",
+            "view_count": "287770",
+            "thumbnail_url": "https://i.ytimg.com/vi/Z2SIsIqpEcU/hqdefault.jpg"
         },
         {
             "video_id": "rDC8iWG3564",
@@ -196,17 +196,17 @@
             "channel_name": "TJ노래방 공식 유튜브채널",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "11700",
+            "view_count": "11802",
             "thumbnail_url": "https://i.ytimg.com/vi/rDC8iWG3564/hqdefault.jpg"
         },
         {
-            "video_id": "jY2RaI8_8W0",
-            "title": "\"포탑 피해량 25000\" 여자 트런들로 다시 태어난 \"탑 황새 다이애나 전략\" 🌜🌚",
-            "channel_name": "전략적죽음",
+            "video_id": "GBEgL9w0EjQ",
+            "title": "황금 수저로 태어나면 벌어지는 일",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "25:39",
-            "view_count": "91957",
-            "thumbnail_url": "https://i.ytimg.com/vi/jY2RaI8_8W0/hqdefault.jpg"
+            "duration": "13:16",
+            "view_count": "126147",
+            "thumbnail_url": "https://i.ytimg.com/vi/GBEgL9w0EjQ/hqdefault.jpg"
         },
         {
             "video_id": "ejbFkYmX7kg",
@@ -214,17 +214,17 @@
             "channel_name": "Baby DONT Cry",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "233519",
+            "view_count": "264581",
             "thumbnail_url": "https://i.ytimg.com/vi/ejbFkYmX7kg/hqdefault.jpg"
         },
         {
-            "video_id": "T2rnLoDHgbk",
-            "title": "여태 가지고 놀았던 거라고???",
-            "channel_name": "왈도쿤",
+            "video_id": "RhawP90SyZo",
+            "title": "전세계 1등 선생님 모셨습니다. [마크 하드코어 EP.15]",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "11:12",
-            "view_count": "131881",
-            "thumbnail_url": "https://i.ytimg.com/vi/T2rnLoDHgbk/hqdefault.jpg"
+            "duration": "30:19",
+            "view_count": "307499",
+            "thumbnail_url": "https://i.ytimg.com/vi/RhawP90SyZo/hqdefault.jpg"
         },
         {
             "video_id": "TCPU7L7Qymg",
@@ -232,17 +232,17 @@
             "channel_name": "nowimyoung - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "967828",
+            "view_count": "968551",
             "thumbnail_url": "https://i.ytimg.com/vi/TCPU7L7Qymg/hqdefault.jpg"
         },
         {
-            "video_id": "h2I23WoII2Y",
-            "title": "멸망전 사상 초유의 재경기 사건.. 탈락 위기의 염상교?｜멸망전 EP.17",
-            "channel_name": "튜브김민교",
+            "video_id": "jY2RaI8_8W0",
+            "title": "\"포탑 피해량 25000\" 여자 트런들로 다시 태어난 \"탑 황새 다이애나 전략\" 🌜🌚",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "44:02",
-            "view_count": "337259",
-            "thumbnail_url": "https://i.ytimg.com/vi/h2I23WoII2Y/hqdefault.jpg"
+            "duration": "25:39",
+            "view_count": "94261",
+            "thumbnail_url": "https://i.ytimg.com/vi/jY2RaI8_8W0/hqdefault.jpg"
         },
         {
             "video_id": "lz60G0_VC7w",
@@ -250,17 +250,17 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "4:24",
-            "view_count": "49205",
+            "view_count": "49330",
             "thumbnail_url": "https://i.ytimg.com/vi/lz60G0_VC7w/hqdefault.jpg"
         },
         {
-            "video_id": "teVzL45DPrw",
-            "title": "긴급🔥미쳤다 엔씨 \"이걸 캐쉬템으로 팔아 버리네\" [리니지 클래식]",
-            "channel_name": "태산군주 TV",
+            "video_id": "T2rnLoDHgbk",
+            "title": "여태 가지고 놀았던 거라고???",
+            "channel_name": "왈도쿤",
             "category": "Gaming",
-            "duration": "10:14",
-            "view_count": "101859",
-            "thumbnail_url": "https://i.ytimg.com/vi/teVzL45DPrw/hqdefault.jpg"
+            "duration": "11:12",
+            "view_count": "134077",
+            "thumbnail_url": "https://i.ytimg.com/vi/T2rnLoDHgbk/hqdefault.jpg"
         },
         {
             "video_id": "Gt0wRAFpwvg",
@@ -268,17 +268,17 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "4:07",
-            "view_count": "899667",
+            "view_count": "901893",
             "thumbnail_url": "https://i.ytimg.com/vi/Gt0wRAFpwvg/hqdefault.jpg"
         },
         {
-            "video_id": "up-VP7PHM-o",
-            "title": "트페 예술가",
-            "channel_name": "Official dopa",
+            "video_id": "h2I23WoII2Y",
+            "title": "멸망전 사상 초유의 재경기 사건.. 탈락 위기의 염상교?｜멸망전 EP.17",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "32:36",
-            "view_count": "86778",
-            "thumbnail_url": "https://i.ytimg.com/vi/up-VP7PHM-o/hqdefault.jpg"
+            "duration": "44:02",
+            "view_count": "337560",
+            "thumbnail_url": "https://i.ytimg.com/vi/h2I23WoII2Y/hqdefault.jpg"
         },
         {
             "video_id": "krAxKCQm3BY",
@@ -286,17 +286,17 @@
             "channel_name": "GIRLSET - Topic",
             "category": "Music",
             "duration": "2:26",
-            "view_count": "71902",
+            "view_count": "72114",
             "thumbnail_url": "https://i.ytimg.com/vi/krAxKCQm3BY/hqdefault.jpg"
         },
         {
-            "video_id": "ZdTVNZhP0uA",
-            "title": "일부러 누른 거 아닙니다【올라라! 포켓몬 타워! 익스트림】#6",
-            "channel_name": "근가놈",
+            "video_id": "teVzL45DPrw",
+            "title": "긴급🔥미쳤다 엔씨 \"이걸 캐쉬템으로 팔아 버리네\" [리니지 클래식]",
+            "channel_name": "태산군주 TV",
             "category": "Gaming",
-            "duration": "15:01",
-            "view_count": "101587",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZdTVNZhP0uA/hqdefault.jpg"
+            "duration": "10:14",
+            "view_count": "103293",
+            "thumbnail_url": "https://i.ytimg.com/vi/teVzL45DPrw/hqdefault.jpg"
         },
         {
             "video_id": "mfXeqUR2RJ4",
@@ -304,17 +304,17 @@
             "channel_name": "ATEEZ - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "186112",
+            "view_count": "187999",
             "thumbnail_url": "https://i.ytimg.com/vi/mfXeqUR2RJ4/hqdefault.jpg"
         },
         {
-            "video_id": "yCQMOfuZ7Vs",
-            "title": "샤르나 변신 주문서 난리났다ㅋㅋ무한구매, 거래 가능! 에바 패치 리뷰 [리니지 클래식]",
-            "channel_name": "센터로드TV",
+            "video_id": "up-VP7PHM-o",
+            "title": "트페 예술가",
+            "channel_name": "Official dopa",
             "category": "Gaming",
-            "duration": "9:38",
-            "view_count": "85230",
-            "thumbnail_url": "https://i.ytimg.com/vi/yCQMOfuZ7Vs/hqdefault.jpg"
+            "duration": "32:36",
+            "view_count": "89752",
+            "thumbnail_url": "https://i.ytimg.com/vi/up-VP7PHM-o/hqdefault.jpg"
         },
         {
             "video_id": "SIwfXPESJ8k",
@@ -322,17 +322,17 @@
             "channel_name": "ヨルシカ / n-buna Official",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "262721",
+            "view_count": "267245",
             "thumbnail_url": "https://i.ytimg.com/vi/SIwfXPESJ8k/hqdefault.jpg"
         },
         {
-            "video_id": "d3FhhFeEWc0",
-            "title": "☁️비행선 스카이블록☁️ 연료 1개로 버틴 우리의 최후는?",
-            "channel_name": "잠뜰 TV",
+            "video_id": "ZdTVNZhP0uA",
+            "title": "일부러 누른 거 아닙니다【올라라! 포켓몬 타워! 익스트림】#6",
+            "channel_name": "근가놈",
             "category": "Gaming",
-            "duration": "38:28",
-            "view_count": "113982",
-            "thumbnail_url": "https://i.ytimg.com/vi/d3FhhFeEWc0/hqdefault.jpg"
+            "duration": "15:01",
+            "view_count": "103160",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZdTVNZhP0uA/hqdefault.jpg"
         },
         {
             "video_id": "AUYzWspjnbY",
@@ -340,26 +340,8 @@
             "channel_name": "Charlie Puth - Topic",
             "category": "Music",
             "duration": "3:45",
-            "view_count": "228864",
+            "view_count": "230682",
             "thumbnail_url": "https://i.ytimg.com/vi/AUYzWspjnbY/hqdefault.jpg"
-        },
-        {
-            "video_id": "RpGeOgHNxN0",
-            "title": "WB 호나우두 11카 끼고 어디로 갈까용 ^.^",
-            "channel_name": "유봉훈",
-            "category": "Gaming",
-            "duration": "8:19",
-            "view_count": "96527",
-            "thumbnail_url": "https://i.ytimg.com/vi/RpGeOgHNxN0/hqdefault.jpg"
-        },
-        {
-            "video_id": "tn0vTtZgRb4",
-            "title": "Rainism",
-            "channel_name": "RAIN - Topic",
-            "category": "Music",
-            "duration": "3:38",
-            "view_count": "89163",
-            "thumbnail_url": "https://i.ytimg.com/vi/tn0vTtZgRb4/hqdefault.jpg"
         },
         {
             "video_id": "fTbApw97MrY",
@@ -367,8 +349,26 @@
             "channel_name": "치랜",
             "category": "Gaming",
             "duration": "55:12",
-            "view_count": "90206",
+            "view_count": "94448",
             "thumbnail_url": "https://i.ytimg.com/vi/fTbApw97MrY/hqdefault.jpg"
+        },
+        {
+            "video_id": "tn0vTtZgRb4",
+            "title": "Rainism",
+            "channel_name": "RAIN - Topic",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "89687",
+            "thumbnail_url": "https://i.ytimg.com/vi/tn0vTtZgRb4/hqdefault.jpg"
+        },
+        {
+            "video_id": "yCQMOfuZ7Vs",
+            "title": "샤르나 변신 주문서 난리났다ㅋㅋ무한구매, 거래 가능! 에바 패치 리뷰 [리니지 클래식]",
+            "channel_name": "센터로드TV",
+            "category": "Gaming",
+            "duration": "9:38",
+            "view_count": "86363",
+            "thumbnail_url": "https://i.ytimg.com/vi/yCQMOfuZ7Vs/hqdefault.jpg"
         },
         {
             "video_id": "BaiWSy4l1mk",
@@ -376,7 +376,7 @@
             "channel_name": "NMIXX",
             "category": "Entertainment",
             "duration": "6:12",
-            "view_count": "50700",
+            "view_count": "52341",
             "thumbnail_url": "https://i.ytimg.com/vi/BaiWSy4l1mk/hqdefault.jpg"
         }
     ]
