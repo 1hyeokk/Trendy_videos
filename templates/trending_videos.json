@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-11 19:42:50",
+    "scraped_time": "2026-03-11 20:35:09",
     "videos": [
         {
             "video_id": "7KpcojYwabc",
@@ -7,7 +7,7 @@
             "channel_name": "Younha - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "181146",
+            "view_count": "186836",
             "thumbnail_url": "https://i.ytimg.com/vi/7KpcojYwabc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "10:46",
-            "view_count": "175087",
+            "view_count": "175522",
             "thumbnail_url": "https://i.ytimg.com/vi/WIt8kL2omjU/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "5:13:04",
-            "view_count": "294463",
+            "view_count": "295140",
             "thumbnail_url": "https://i.ytimg.com/vi/MxT5MtFZtnU/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "ALLDAY PROJECT - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "120985",
+            "view_count": "125624",
             "thumbnail_url": "https://i.ytimg.com/vi/y55WCDiIBSg/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "2:24",
-            "view_count": "245327",
+            "view_count": "249873",
             "thumbnail_url": "https://i.ytimg.com/vi/K4BZpoafQqA/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "5:22:27",
-            "view_count": "205030",
+            "view_count": "206999",
             "thumbnail_url": "https://i.ytimg.com/vi/vOwc5opDlTE/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "1087306",
+            "view_count": "1118424",
             "thumbnail_url": "https://i.ytimg.com/vi/LHUMzyMq084/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:45",
-            "view_count": "86929",
+            "view_count": "89653",
             "thumbnail_url": "https://i.ytimg.com/vi/wHvmXs2wBSU/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:04",
-            "view_count": "325373",
+            "view_count": "329889",
             "thumbnail_url": "https://i.ytimg.com/vi/IQnVns79ZWQ/hqdefault.jpg"
         },
         {
@@ -88,17 +88,8 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "1324449",
+            "view_count": "1345672",
             "thumbnail_url": "https://i.ytimg.com/vi/HLTQoCRBfxc/hqdefault.jpg"
-        },
-        {
-            "video_id": "gerr85PEcy0",
-            "title": "[살목지] 2차 예고편",
-            "channel_name": "쇼박스 SHOWBOX",
-            "category": "Film & Animation",
-            "duration": "1:18",
-            "view_count": "97452",
-            "thumbnail_url": "https://i.ytimg.com/vi/gerr85PEcy0/hqdefault.jpg"
         },
         {
             "video_id": "Z2SIsIqpEcU",
@@ -106,26 +97,8 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "18:35",
-            "view_count": "262646",
+            "view_count": "266890",
             "thumbnail_url": "https://i.ytimg.com/vi/Z2SIsIqpEcU/hqdefault.jpg"
-        },
-        {
-            "video_id": "Mnu5-meFyfI",
-            "title": "Dancin (Krono Remix)",
-            "channel_name": "Aaron Smith - Topic",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "558583",
-            "thumbnail_url": "https://i.ytimg.com/vi/Mnu5-meFyfI/hqdefault.jpg"
-        },
-        {
-            "video_id": "h2I23WoII2Y",
-            "title": "멸망전 사상 초유의 재경기 사건.. 탈락 위기의 염상교?｜멸망전 EP.17",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "44:02",
-            "view_count": "324709",
-            "thumbnail_url": "https://i.ytimg.com/vi/h2I23WoII2Y/hqdefault.jpg"
         },
         {
             "video_id": "W0YGYFE4_bg",
@@ -133,8 +106,26 @@
             "channel_name": "CAMO - Topic",
             "category": "Music",
             "duration": "2:24",
-            "view_count": "28192",
+            "view_count": "29863",
             "thumbnail_url": "https://i.ytimg.com/vi/W0YGYFE4_bg/hqdefault.jpg"
+        },
+        {
+            "video_id": "h2I23WoII2Y",
+            "title": "멸망전 사상 초유의 재경기 사건.. 탈락 위기의 염상교?｜멸망전 EP.17",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "44:02",
+            "view_count": "326299",
+            "thumbnail_url": "https://i.ytimg.com/vi/h2I23WoII2Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "Mnu5-meFyfI",
+            "title": "Dancin (Krono Remix)",
+            "channel_name": "Aaron Smith - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "573681",
+            "thumbnail_url": "https://i.ytimg.com/vi/Mnu5-meFyfI/hqdefault.jpg"
         },
         {
             "video_id": "wwjSdfrXR4Y",
@@ -142,80 +133,8 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "16:16",
-            "view_count": "186762",
+            "view_count": "190837",
             "thumbnail_url": "https://i.ytimg.com/vi/wwjSdfrXR4Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "kkWTd89DWnU",
-            "title": "Twenty",
-            "channel_name": "KickFlip - Topic",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "83288",
-            "thumbnail_url": "https://i.ytimg.com/vi/kkWTd89DWnU/hqdefault.jpg"
-        },
-        {
-            "video_id": "loUKHNsiOMI",
-            "title": "[LIVE] 3월 10일 아이온2 업데이트 프리뷰 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "1:02:23",
-            "view_count": "153756",
-            "thumbnail_url": "https://i.ytimg.com/vi/loUKHNsiOMI/hqdefault.jpg"
-        },
-        {
-            "video_id": "TCPU7L7Qymg",
-            "title": "Money Checks (Prod. by Hukky Shibaseki)",
-            "channel_name": "nowimyoung - Topic",
-            "category": "Music",
-            "duration": "4:30",
-            "view_count": "913824",
-            "thumbnail_url": "https://i.ytimg.com/vi/TCPU7L7Qymg/hqdefault.jpg"
-        },
-        {
-            "video_id": "RhawP90SyZo",
-            "title": "전세계 1등 선생님 모셨습니다. [마크 하드코어 EP.15]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "30:19",
-            "view_count": "249233",
-            "thumbnail_url": "https://i.ytimg.com/vi/RhawP90SyZo/hqdefault.jpg"
-        },
-        {
-            "video_id": "krAxKCQm3BY",
-            "title": "Tweak (Acapella)",
-            "channel_name": "GIRLSET - Topic",
-            "category": "Music",
-            "duration": "2:26",
-            "view_count": "59118",
-            "thumbnail_url": "https://i.ytimg.com/vi/krAxKCQm3BY/hqdefault.jpg"
-        },
-        {
-            "video_id": "CiVYIjTl8l4",
-            "title": "아이온2 신규패치 성역 퍼클런 도전",
-            "channel_name": "코인왕 알트",
-            "category": "Gaming",
-            "duration": "3:36:23",
-            "view_count": "67722",
-            "thumbnail_url": "https://i.ytimg.com/vi/CiVYIjTl8l4/hqdefault.jpg"
-        },
-        {
-            "video_id": "lz60G0_VC7w",
-            "title": "함께해요 (황영웅 with 파라다이스)",
-            "channel_name": "황영웅 Tv",
-            "category": "Music",
-            "duration": "4:24",
-            "view_count": "45406",
-            "thumbnail_url": "https://i.ytimg.com/vi/lz60G0_VC7w/hqdefault.jpg"
-        },
-        {
-            "video_id": "IRc9wQHBkGg",
-            "title": "던전앤파이터 디렉터 라이브 방송 ON-AIR",
-            "channel_name": "던파TV(던전앤파이터)",
-            "category": "Gaming",
-            "duration": "2:30:34",
-            "view_count": "114225",
-            "thumbnail_url": "https://i.ytimg.com/vi/IRc9wQHBkGg/hqdefault.jpg"
         },
         {
             "video_id": "ItSKahBISg0",
@@ -223,8 +142,80 @@
             "channel_name": "YENA(최예나)",
             "category": "Entertainment",
             "duration": "3:09",
-            "view_count": "12375",
+            "view_count": "49881",
             "thumbnail_url": "https://i.ytimg.com/vi/ItSKahBISg0/hqdefault.jpg"
+        },
+        {
+            "video_id": "loUKHNsiOMI",
+            "title": "[LIVE] 3월 10일 아이온2 업데이트 프리뷰 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "1:02:23",
+            "view_count": "153957",
+            "thumbnail_url": "https://i.ytimg.com/vi/loUKHNsiOMI/hqdefault.jpg"
+        },
+        {
+            "video_id": "kkWTd89DWnU",
+            "title": "Twenty",
+            "channel_name": "KickFlip - Topic",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "84945",
+            "thumbnail_url": "https://i.ytimg.com/vi/kkWTd89DWnU/hqdefault.jpg"
+        },
+        {
+            "video_id": "RhawP90SyZo",
+            "title": "전세계 1등 선생님 모셨습니다. [마크 하드코어 EP.15]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "30:19",
+            "view_count": "257937",
+            "thumbnail_url": "https://i.ytimg.com/vi/RhawP90SyZo/hqdefault.jpg"
+        },
+        {
+            "video_id": "TCPU7L7Qymg",
+            "title": "Money Checks (Prod. by Hukky Shibaseki)",
+            "channel_name": "nowimyoung - Topic",
+            "category": "Music",
+            "duration": "4:30",
+            "view_count": "923994",
+            "thumbnail_url": "https://i.ytimg.com/vi/TCPU7L7Qymg/hqdefault.jpg"
+        },
+        {
+            "video_id": "CiVYIjTl8l4",
+            "title": "아이온2 신규패치 성역 퍼클런 도전",
+            "channel_name": "코인왕 알트",
+            "category": "Gaming",
+            "duration": "3:36:23",
+            "view_count": "68616",
+            "thumbnail_url": "https://i.ytimg.com/vi/CiVYIjTl8l4/hqdefault.jpg"
+        },
+        {
+            "video_id": "krAxKCQm3BY",
+            "title": "Tweak (Acapella)",
+            "channel_name": "GIRLSET - Topic",
+            "category": "Music",
+            "duration": "2:26",
+            "view_count": "61871",
+            "thumbnail_url": "https://i.ytimg.com/vi/krAxKCQm3BY/hqdefault.jpg"
+        },
+        {
+            "video_id": "IRc9wQHBkGg",
+            "title": "던전앤파이터 디렉터 라이브 방송 ON-AIR",
+            "channel_name": "던파TV(던전앤파이터)",
+            "category": "Gaming",
+            "duration": "2:30:34",
+            "view_count": "114408",
+            "thumbnail_url": "https://i.ytimg.com/vi/IRc9wQHBkGg/hqdefault.jpg"
+        },
+        {
+            "video_id": "lz60G0_VC7w",
+            "title": "함께해요 (황영웅 with 파라다이스)",
+            "channel_name": "황영웅 Tv",
+            "category": "Music",
+            "duration": "4:24",
+            "view_count": "46024",
+            "thumbnail_url": "https://i.ytimg.com/vi/lz60G0_VC7w/hqdefault.jpg"
         },
         {
             "video_id": "1U8WcRuFCag",
@@ -232,26 +223,8 @@
             "channel_name": "우레",
             "category": "Gaming",
             "duration": "3:51:37",
-            "view_count": "49498",
+            "view_count": "50159",
             "thumbnail_url": "https://i.ytimg.com/vi/1U8WcRuFCag/hqdefault.jpg"
-        },
-        {
-            "video_id": "AUYzWspjnbY",
-            "title": "Home (feat. Hikaru Utada)",
-            "channel_name": "Charlie Puth - Topic",
-            "category": "Music",
-            "duration": "3:45",
-            "view_count": "188951",
-            "thumbnail_url": "https://i.ytimg.com/vi/AUYzWspjnbY/hqdefault.jpg"
-        },
-        {
-            "video_id": "GJ27pb5uWo0",
-            "title": "3/10녹) 리니지클래식 사또 데포로쥬 오도도도 트리플 요정 등장",
-            "channel_name": "스트리머 사또 live-streamer satto",
-            "category": "Gaming",
-            "duration": "3:36:30",
-            "view_count": "117923",
-            "thumbnail_url": "https://i.ytimg.com/vi/GJ27pb5uWo0/hqdefault.jpg"
         },
         {
             "video_id": "mfXeqUR2RJ4",
@@ -259,17 +232,35 @@
             "channel_name": "ATEEZ - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "155800",
+            "view_count": "159160",
             "thumbnail_url": "https://i.ytimg.com/vi/mfXeqUR2RJ4/hqdefault.jpg"
         },
         {
-            "video_id": "RxVyxCUsBXg",
-            "title": "패드립한 서폿이 알고보니 스트리머..? \"협곡의 1000원짜리 변호사\"",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "video_id": "GJ27pb5uWo0",
+            "title": "3/10녹) 리니지클래식 사또 데포로쥬 오도도도 트리플 요정 등장",
+            "channel_name": "스트리머 사또 live-streamer satto",
             "category": "Gaming",
-            "duration": "20:50",
-            "view_count": "156649",
-            "thumbnail_url": "https://i.ytimg.com/vi/RxVyxCUsBXg/hqdefault.jpg"
+            "duration": "3:36:30",
+            "view_count": "118056",
+            "thumbnail_url": "https://i.ytimg.com/vi/GJ27pb5uWo0/hqdefault.jpg"
+        },
+        {
+            "video_id": "AUYzWspjnbY",
+            "title": "Home (feat. Hikaru Utada)",
+            "channel_name": "Charlie Puth - Topic",
+            "category": "Music",
+            "duration": "3:45",
+            "view_count": "193425",
+            "thumbnail_url": "https://i.ytimg.com/vi/AUYzWspjnbY/hqdefault.jpg"
+        },
+        {
+            "video_id": "VJbDMKyjw_8",
+            "title": "[ 리니지클래식 재범군주 ] 데포로쥬 말던 2층 바포 전투 기사 명중 보정 호형호제 혈원 모집           #불도그 #빅보스 #수삼티비 #이문주",
+            "channel_name": "재범군주",
+            "category": "Gaming",
+            "duration": "3:55:54",
+            "view_count": "47094",
+            "thumbnail_url": "https://i.ytimg.com/vi/VJbDMKyjw_8/hqdefault.jpg"
         },
         {
             "video_id": "DhfitPakxV8",
@@ -277,17 +268,35 @@
             "channel_name": "Lil Moshpit - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "583189",
+            "view_count": "590345",
             "thumbnail_url": "https://i.ytimg.com/vi/DhfitPakxV8/hqdefault.jpg"
         },
         {
-            "video_id": "bMbZ63oWRJs",
-            "title": "하마의 움직이는 성 키우기 개재밌다",
-            "channel_name": "우주하마",
+            "video_id": "RxVyxCUsBXg",
+            "title": "패드립한 서폿이 알고보니 스트리머..? \"협곡의 1000원짜리 변호사\"",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "29:45",
-            "view_count": "214685",
-            "thumbnail_url": "https://i.ytimg.com/vi/bMbZ63oWRJs/hqdefault.jpg"
+            "duration": "20:50",
+            "view_count": "159543",
+            "thumbnail_url": "https://i.ytimg.com/vi/RxVyxCUsBXg/hqdefault.jpg"
+        },
+        {
+            "video_id": "tn0vTtZgRb4",
+            "title": "Rainism",
+            "channel_name": "RAIN - Topic",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "77052",
+            "thumbnail_url": "https://i.ytimg.com/vi/tn0vTtZgRb4/hqdefault.jpg"
+        },
+        {
+            "video_id": "BXzRUo2PawY",
+            "title": "1위 크완 직작에 성공한 대머리;;",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "18:16",
+            "view_count": "62537",
+            "thumbnail_url": "https://i.ytimg.com/vi/BXzRUo2PawY/hqdefault.jpg"
         },
         {
             "video_id": "YU9uGldSfSo",
@@ -295,7 +304,7 @@
             "channel_name": "kz-livetune",
             "category": "Music",
             "duration": "4:27",
-            "view_count": "842822",
+            "view_count": "852134",
             "thumbnail_url": "https://i.ytimg.com/vi/YU9uGldSfSo/hqdefault.jpg"
         },
         {
@@ -304,26 +313,8 @@
             "channel_name": "렌",
             "category": "Gaming",
             "duration": "9:04",
-            "view_count": "27768",
+            "view_count": "33400",
             "thumbnail_url": "https://i.ytimg.com/vi/9s062r-A4V0/hqdefault.jpg"
-        },
-        {
-            "video_id": "tn0vTtZgRb4",
-            "title": "Rainism",
-            "channel_name": "RAIN - Topic",
-            "category": "Music",
-            "duration": "3:38",
-            "view_count": "74530",
-            "thumbnail_url": "https://i.ytimg.com/vi/tn0vTtZgRb4/hqdefault.jpg"
-        },
-        {
-            "video_id": "qrWX5f6WDLg",
-            "title": "미친 설거지의 화신이 된 1위 불독",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "21:02",
-            "view_count": "185403",
-            "thumbnail_url": "https://i.ytimg.com/vi/qrWX5f6WDLg/hqdefault.jpg"
         },
         {
             "video_id": "9ag5WKx3F8w",
@@ -331,17 +322,17 @@
             "channel_name": "SUNNYSIDEMJ - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "54523",
+            "view_count": "55325",
             "thumbnail_url": "https://i.ytimg.com/vi/9ag5WKx3F8w/hqdefault.jpg"
         },
         {
-            "video_id": "J8PanPbcIMA",
-            "title": "리더 연합, 다섯번째 길드 개설했습니다 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
+            "video_id": "bMbZ63oWRJs",
+            "title": "하마의 움직이는 성 키우기 개재밌다",
+            "channel_name": "우주하마",
             "category": "Gaming",
-            "duration": "9:45",
-            "view_count": "138968",
-            "thumbnail_url": "https://i.ytimg.com/vi/J8PanPbcIMA/hqdefault.jpg"
+            "duration": "29:45",
+            "view_count": "218488",
+            "thumbnail_url": "https://i.ytimg.com/vi/bMbZ63oWRJs/hqdefault.jpg"
         },
         {
             "video_id": "ZPnVkYcwji0",
@@ -349,26 +340,26 @@
             "channel_name": "Yeo Doll",
             "category": "Music",
             "duration": "12:13:09",
-            "view_count": "33814",
+            "view_count": "34227",
             "thumbnail_url": "https://i.ytimg.com/vi/ZPnVkYcwji0/hqdefault.jpg"
         },
         {
-            "video_id": "TTNt1nXv8Dg",
-            "title": "1등 10만원이 걸린 판.. 워윅 신지드까지 아득바득 해금해서 견제하는 사람",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "J8PanPbcIMA",
+            "title": "리더 연합, 다섯번째 길드 개설했습니다 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "16:37",
-            "view_count": "114550",
-            "thumbnail_url": "https://i.ytimg.com/vi/TTNt1nXv8Dg/hqdefault.jpg"
+            "duration": "9:45",
+            "view_count": "140472",
+            "thumbnail_url": "https://i.ytimg.com/vi/J8PanPbcIMA/hqdefault.jpg"
         },
         {
-            "video_id": "TdMyagyBfsU",
-            "title": "\"또 하루를 살아내요\"",
-            "channel_name": "HELLOPING",
+            "video_id": "4RfYAEZo8xM",
+            "title": "LOVE AGAIN (2026 FEMALE Version)",
+            "channel_name": "ASHATREE - Topic",
             "category": "Music",
-            "duration": "4:00",
-            "view_count": "21969",
-            "thumbnail_url": "https://i.ytimg.com/vi/TdMyagyBfsU/hqdefault.jpg"
+            "duration": "4:16",
+            "view_count": "35531",
+            "thumbnail_url": "https://i.ytimg.com/vi/4RfYAEZo8xM/hqdefault.jpg"
         },
         {
             "video_id": "mqD2ahn0olw",
@@ -376,8 +367,17 @@
             "channel_name": "카라",
             "category": "Gaming",
             "duration": "10:28",
-            "view_count": "29248",
+            "view_count": "31358",
             "thumbnail_url": "https://i.ytimg.com/vi/mqD2ahn0olw/hqdefault.jpg"
+        },
+        {
+            "video_id": "ePn0sC60PxA",
+            "title": "Missing You",
+            "channel_name": "SLAY - Topic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "264534",
+            "thumbnail_url": "https://i.ytimg.com/vi/ePn0sC60PxA/hqdefault.jpg"
         }
     ]
 }
