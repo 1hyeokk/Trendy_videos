@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-13 05:38:56",
+    "scraped_time": "2026-03-13 06:36:03",
     "videos": [
         {
             "video_id": "sjtyqmA-pH4",
@@ -7,7 +7,7 @@
             "channel_name": "YENA - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "188825",
+            "view_count": "191603",
             "thumbnail_url": "https://i.ytimg.com/vi/sjtyqmA-pH4/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "30:48",
-            "view_count": "234602",
+            "view_count": "237440",
             "thumbnail_url": "https://i.ytimg.com/vi/Zyd4UtB0jyI/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Younha - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "287181",
+            "view_count": "287657",
             "thumbnail_url": "https://i.ytimg.com/vi/7KpcojYwabc/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "0:52",
-            "view_count": "66108",
+            "view_count": "66676",
             "thumbnail_url": "https://i.ytimg.com/vi/5JyfvxRDp9g/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "4:00:51",
-            "view_count": "158927",
+            "view_count": "159946",
             "thumbnail_url": "https://i.ytimg.com/vi/p9XWoY6RUOc/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "ALLDAY PROJECT - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "225962",
+            "view_count": "226257",
             "thumbnail_url": "https://i.ytimg.com/vi/y55WCDiIBSg/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "KADOKAWA映画",
             "category": "Film & Animation",
             "duration": "1:00",
-            "view_count": "54803",
+            "view_count": "55321",
             "thumbnail_url": "https://i.ytimg.com/vi/FWS3U3_X-yA/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:01",
-            "view_count": "222305",
+            "view_count": "231587",
             "thumbnail_url": "https://i.ytimg.com/vi/qCjL4mGsCzc/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "3:57",
-            "view_count": "124181",
+            "view_count": "124848",
             "thumbnail_url": "https://i.ytimg.com/vi/WwIkEUAEHXo/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "3:00:07",
-            "view_count": "151686",
+            "view_count": "152466",
             "thumbnail_url": "https://i.ytimg.com/vi/Ko17BNxODh8/hqdefault.jpg"
         },
         {
@@ -106,26 +106,8 @@
             "channel_name": "P1Harmony",
             "category": "Entertainment",
             "duration": "2:58",
-            "view_count": "1041742",
+            "view_count": "1088641",
             "thumbnail_url": "https://i.ytimg.com/vi/m18dRRu9-V4/hqdefault.jpg"
-        },
-        {
-            "video_id": "qqJuunScnRw",
-            "title": "[빅보스 3. 12 ] 리니지 클래식 : (조우) 오늘은!! 소울 / 선버 득 (트2 / 소2) 힘좀 내세요 적혈형들!",
-            "channel_name": "빅보스",
-            "category": "Gaming",
-            "duration": "7:54:43",
-            "view_count": "201063",
-            "thumbnail_url": "https://i.ytimg.com/vi/qqJuunScnRw/hqdefault.jpg"
-        },
-        {
-            "video_id": "W0YGYFE4_bg",
-            "title": "Tell Me",
-            "channel_name": "CAMO - Topic",
-            "category": "Music",
-            "duration": "2:24",
-            "view_count": "71763",
-            "thumbnail_url": "https://i.ytimg.com/vi/W0YGYFE4_bg/hqdefault.jpg"
         },
         {
             "video_id": "Mr40oMPjOzk",
@@ -133,8 +115,26 @@
             "channel_name": "겜케이",
             "category": "Gaming",
             "duration": "8:36",
-            "view_count": "118784",
+            "view_count": "121787",
             "thumbnail_url": "https://i.ytimg.com/vi/Mr40oMPjOzk/hqdefault.jpg"
+        },
+        {
+            "video_id": "W0YGYFE4_bg",
+            "title": "Tell Me",
+            "channel_name": "CAMO - Topic",
+            "category": "Music",
+            "duration": "2:24",
+            "view_count": "71972",
+            "thumbnail_url": "https://i.ytimg.com/vi/W0YGYFE4_bg/hqdefault.jpg"
+        },
+        {
+            "video_id": "qqJuunScnRw",
+            "title": "[빅보스 3. 12 ] 리니지 클래식 : (조우) 오늘은!! 소울 / 선버 득 (트2 / 소2) 힘좀 내세요 적혈형들!",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "7:54:43",
+            "view_count": "201207",
+            "thumbnail_url": "https://i.ytimg.com/vi/qqJuunScnRw/hqdefault.jpg"
         },
         {
             "video_id": "LHUMzyMq084",
@@ -142,7 +142,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "1962312",
+            "view_count": "1968257",
             "thumbnail_url": "https://i.ytimg.com/vi/LHUMzyMq084/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "44:42",
-            "view_count": "102157",
+            "view_count": "106139",
             "thumbnail_url": "https://i.ytimg.com/vi/3ObTbJgsdXE/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "Baby DONT Cry - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "62114",
+            "view_count": "62405",
             "thumbnail_url": "https://i.ytimg.com/vi/L1kRWj-52Io/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:27",
-            "view_count": "127376",
+            "view_count": "129735",
             "thumbnail_url": "https://i.ytimg.com/vi/oEFjRWFIvfE/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "H1-KEY - Topic",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "41097",
+            "view_count": "41161",
             "thumbnail_url": "https://i.ytimg.com/vi/JhaiWyACKgg/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "23:35",
-            "view_count": "251829",
+            "view_count": "252457",
             "thumbnail_url": "https://i.ytimg.com/vi/SH2xONxNdfI/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "Aaron Smith - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "995877",
+            "view_count": "1014198",
             "thumbnail_url": "https://i.ytimg.com/vi/Mnu5-meFyfI/hqdefault.jpg"
         },
         {
@@ -205,8 +205,26 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "25:45",
-            "view_count": "83411",
+            "view_count": "86388",
             "thumbnail_url": "https://i.ytimg.com/vi/4r77SbYvU74/hqdefault.jpg"
+        },
+        {
+            "video_id": "HLTQoCRBfxc",
+            "title": "TICK TOCK (Prod. by ZICO, Crush)",
+            "channel_name": "HAON - Topic",
+            "category": "Music",
+            "duration": "3:50",
+            "view_count": "1757750",
+            "thumbnail_url": "https://i.ytimg.com/vi/HLTQoCRBfxc/hqdefault.jpg"
+        },
+        {
+            "video_id": "QiU7bJ9lYlc",
+            "title": "리니지클래식 아직 끝나지 않았다.",
+            "channel_name": "카즈야",
+            "category": "Gaming",
+            "duration": "3:53:04",
+            "view_count": "72077",
+            "thumbnail_url": "https://i.ytimg.com/vi/QiU7bJ9lYlc/hqdefault.jpg"
         },
         {
             "video_id": "iAhWq2jVRH4",
@@ -214,7 +232,7 @@
             "channel_name": "DOYOUNG - Topic",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "127327",
+            "view_count": "127776",
             "thumbnail_url": "https://i.ytimg.com/vi/iAhWq2jVRH4/hqdefault.jpg"
         },
         {
@@ -223,26 +241,8 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "16:29",
-            "view_count": "161341",
+            "view_count": "161589",
             "thumbnail_url": "https://i.ytimg.com/vi/a_3pcARFsHU/hqdefault.jpg"
-        },
-        {
-            "video_id": "HLTQoCRBfxc",
-            "title": "TICK TOCK (Prod. by ZICO, Crush)",
-            "channel_name": "HAON - Topic",
-            "category": "Music",
-            "duration": "3:50",
-            "view_count": "1755676",
-            "thumbnail_url": "https://i.ytimg.com/vi/HLTQoCRBfxc/hqdefault.jpg"
-        },
-        {
-            "video_id": "QEnWBCyS8YQ",
-            "title": "./w 어 오빠 톡톡이중",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "18:22",
-            "view_count": "101339",
-            "thumbnail_url": "https://i.ytimg.com/vi/QEnWBCyS8YQ/hqdefault.jpg"
         },
         {
             "video_id": "SIwfXPESJ8k",
@@ -250,17 +250,17 @@
             "channel_name": "ヨルシカ / n-buna Official",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "454272",
+            "view_count": "456452",
             "thumbnail_url": "https://i.ytimg.com/vi/SIwfXPESJ8k/hqdefault.jpg"
         },
         {
-            "video_id": "Z-Ie5wLsi-Q",
-            "title": "[원재]리니지클래식 3.12 데포로쥬 소울+트리 \"턱\" 더케이 天堂W 리니지M 리니지W 리니지클래식 리니지",
-            "channel_name": "원재TV",
+            "video_id": "QEnWBCyS8YQ",
+            "title": "./w 어 오빠 톡톡이중",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "9:00:29",
-            "view_count": "96292",
-            "thumbnail_url": "https://i.ytimg.com/vi/Z-Ie5wLsi-Q/hqdefault.jpg"
+            "duration": "18:22",
+            "view_count": "103609",
+            "thumbnail_url": "https://i.ytimg.com/vi/QEnWBCyS8YQ/hqdefault.jpg"
         },
         {
             "video_id": "kkWTd89DWnU",
@@ -268,53 +268,8 @@
             "channel_name": "KickFlip - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "123743",
+            "view_count": "124136",
             "thumbnail_url": "https://i.ytimg.com/vi/kkWTd89DWnU/hqdefault.jpg"
-        },
-        {
-            "video_id": "0OxOgWvPlxI",
-            "title": "점검 조기종료! 신규팩 떴다 No7 호날두 10카까지 뜬다고?",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "20:29",
-            "view_count": "81738",
-            "thumbnail_url": "https://i.ytimg.com/vi/0OxOgWvPlxI/hqdefault.jpg"
-        },
-        {
-            "video_id": "v5xlyaYO7lw",
-            "title": "[리니지 클래식] 캔슬 상향이라구요!? 테스트 ㄱㄱㄱㄱㄱ",
-            "channel_name": "박다솜",
-            "category": "Gaming",
-            "duration": "6:24:02",
-            "view_count": "80517",
-            "thumbnail_url": "https://i.ytimg.com/vi/v5xlyaYO7lw/hqdefault.jpg"
-        },
-        {
-            "video_id": "BXzRUo2PawY",
-            "title": "1위 크완 직작에 성공한 대머리;;",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "18:16",
-            "view_count": "192822",
-            "thumbnail_url": "https://i.ytimg.com/vi/BXzRUo2PawY/hqdefault.jpg"
-        },
-        {
-            "video_id": "fTbApw97MrY",
-            "title": "좀보이드 100일동안 수리기사가 되어 지하 17층으로 가는 여정",
-            "channel_name": "치랜",
-            "category": "Gaming",
-            "duration": "55:12",
-            "view_count": "187104",
-            "thumbnail_url": "https://i.ytimg.com/vi/fTbApw97MrY/hqdefault.jpg"
-        },
-        {
-            "video_id": "YN5ywGUHhdc",
-            "title": "작업장 다 찢어버리는 역대급 성능 \"도펠 군단\"",
-            "channel_name": "린친놈",
-            "category": "People & Blogs",
-            "duration": "12:48",
-            "view_count": "182252",
-            "thumbnail_url": "https://i.ytimg.com/vi/YN5ywGUHhdc/hqdefault.jpg"
         },
         {
             "video_id": "Lo4vlXNSY84",
@@ -322,8 +277,62 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "33:30",
-            "view_count": "53278",
+            "view_count": "56678",
             "thumbnail_url": "https://i.ytimg.com/vi/Lo4vlXNSY84/hqdefault.jpg"
+        },
+        {
+            "video_id": "0OxOgWvPlxI",
+            "title": "점검 조기종료! 신규팩 떴다 No7 호날두 10카까지 뜬다고?",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "20:29",
+            "view_count": "82119",
+            "thumbnail_url": "https://i.ytimg.com/vi/0OxOgWvPlxI/hqdefault.jpg"
+        },
+        {
+            "video_id": "Z-Ie5wLsi-Q",
+            "title": "[원재]리니지클래식 3.12 데포로쥬 소울+트리 \"턱\" 더케이 天堂W 리니지M 리니지W 리니지클래식 리니지",
+            "channel_name": "원재TV",
+            "category": "Gaming",
+            "duration": "9:00:29",
+            "view_count": "96351",
+            "thumbnail_url": "https://i.ytimg.com/vi/Z-Ie5wLsi-Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "fTbApw97MrY",
+            "title": "좀보이드 100일동안 수리기사가 되어 지하 17층으로 가는 여정",
+            "channel_name": "치랜",
+            "category": "Gaming",
+            "duration": "55:12",
+            "view_count": "189852",
+            "thumbnail_url": "https://i.ytimg.com/vi/fTbApw97MrY/hqdefault.jpg"
+        },
+        {
+            "video_id": "v5xlyaYO7lw",
+            "title": "[리니지 클래식] 캔슬 상향이라구요!? 테스트 ㄱㄱㄱㄱㄱ",
+            "channel_name": "박다솜",
+            "category": "Gaming",
+            "duration": "6:24:02",
+            "view_count": "80829",
+            "thumbnail_url": "https://i.ytimg.com/vi/v5xlyaYO7lw/hqdefault.jpg"
+        },
+        {
+            "video_id": "YN5ywGUHhdc",
+            "title": "작업장 다 찢어버리는 역대급 성능 \"도펠 군단\"",
+            "channel_name": "린친놈",
+            "category": "People & Blogs",
+            "duration": "12:48",
+            "view_count": "183606",
+            "thumbnail_url": "https://i.ytimg.com/vi/YN5ywGUHhdc/hqdefault.jpg"
+        },
+        {
+            "video_id": "BXzRUo2PawY",
+            "title": "1위 크완 직작에 성공한 대머리;;",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "18:16",
+            "view_count": "193137",
+            "thumbnail_url": "https://i.ytimg.com/vi/BXzRUo2PawY/hqdefault.jpg"
         },
         {
             "video_id": "cy-jWyU4RtI",
@@ -331,7 +340,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "1:06:36",
-            "view_count": "154161",
+            "view_count": "154833",
             "thumbnail_url": "https://i.ytimg.com/vi/cy-jWyU4RtI/hqdefault.jpg"
         },
         {
@@ -340,7 +349,7 @@
             "channel_name": "글자네",
             "category": "Gaming",
             "duration": "18:48",
-            "view_count": "92305",
+            "view_count": "93667",
             "thumbnail_url": "https://i.ytimg.com/vi/HrYAvIHOpAA/hqdefault.jpg"
         },
         {
@@ -349,7 +358,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:04",
-            "view_count": "390669",
+            "view_count": "391249",
             "thumbnail_url": "https://i.ytimg.com/vi/IQnVns79ZWQ/hqdefault.jpg"
         },
         {
@@ -358,7 +367,7 @@
             "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
             "duration": "16:38",
-            "view_count": "70694",
+            "view_count": "72507",
             "thumbnail_url": "https://i.ytimg.com/vi/xPUNcDBhK88/hqdefault.jpg"
         },
         {
@@ -367,17 +376,8 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "32:36",
-            "view_count": "138119",
+            "view_count": "138852",
             "thumbnail_url": "https://i.ytimg.com/vi/up-VP7PHM-o/hqdefault.jpg"
-        },
-        {
-            "video_id": "wTnNfsN0Xa4",
-            "title": "사회력은 ZERO지만 멸망전 대회만 되면 180도 달라지는 숲최탑 애디...[멸망전 4강]",
-            "channel_name": "게임대장봉준",
-            "category": "Gaming",
-            "duration": "1:03:59",
-            "view_count": "51533",
-            "thumbnail_url": "https://i.ytimg.com/vi/wTnNfsN0Xa4/hqdefault.jpg"
         }
     ]
 }
