@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-12 18:48:46",
+    "scraped_time": "2026-03-12 19:42:03",
     "videos": [
         {
             "video_id": "sjtyqmA-pH4",
@@ -7,7 +7,7 @@
             "channel_name": "YENA - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "123007",
+            "view_count": "129463",
             "thumbnail_url": "https://i.ytimg.com/vi/sjtyqmA-pH4/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "0:52",
-            "view_count": "32748",
+            "view_count": "36248",
             "thumbnail_url": "https://i.ytimg.com/vi/5JyfvxRDp9g/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "19:31",
-            "view_count": "334383",
+            "view_count": "340537",
             "thumbnail_url": "https://i.ytimg.com/vi/T6XsdRQu9MI/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Younha - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "257778",
+            "view_count": "262209",
             "thumbnail_url": "https://i.ytimg.com/vi/7KpcojYwabc/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "6:10:11",
-            "view_count": "218896",
+            "view_count": "219622",
             "thumbnail_url": "https://i.ytimg.com/vi/AaoJ7PLoqjc/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "ALLDAY PROJECT - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "190669",
+            "view_count": "195989",
             "thumbnail_url": "https://i.ytimg.com/vi/y55WCDiIBSg/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "16:29",
-            "view_count": "150624",
+            "view_count": "152093",
             "thumbnail_url": "https://i.ytimg.com/vi/a_3pcARFsHU/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "CAMO - Topic",
             "category": "Music",
             "duration": "2:24",
-            "view_count": "59705",
+            "view_count": "61467",
             "thumbnail_url": "https://i.ytimg.com/vi/W0YGYFE4_bg/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "23:35",
-            "view_count": "206887",
+            "view_count": "212676",
             "thumbnail_url": "https://i.ytimg.com/vi/SH2xONxNdfI/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "1641437",
+            "view_count": "1670241",
             "thumbnail_url": "https://i.ytimg.com/vi/LHUMzyMq084/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "5:22:27",
-            "view_count": "221451",
+            "view_count": "221694",
             "thumbnail_url": "https://i.ytimg.com/vi/vOwc5opDlTE/hqdefault.jpg"
-        },
-        {
-            "video_id": "WwIkEUAEHXo",
-            "title": "[조각집🎨] '심연' IU Live Clip (With WOODZ)",
-            "channel_name": "이지금 [IU Official]",
-            "category": "Entertainment",
-            "duration": "3:57",
-            "view_count": "93114",
-            "thumbnail_url": "https://i.ytimg.com/vi/WwIkEUAEHXo/hqdefault.jpg"
-        },
-        {
-            "video_id": "PB4KZpFxpbM",
-            "title": "리니지 클래식 / 한번 해보자는거야? 그래 나도 끝까지간다 (ft 1일 1망구랑)",
-            "channel_name": "빅보스",
-            "category": "Gaming",
-            "duration": "9:46",
-            "view_count": "165369",
-            "thumbnail_url": "https://i.ytimg.com/vi/PB4KZpFxpbM/hqdefault.jpg"
         },
         {
             "video_id": "L1kRWj-52Io",
@@ -124,8 +106,26 @@
             "channel_name": "Baby DONT Cry - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "47375",
+            "view_count": "49888",
             "thumbnail_url": "https://i.ytimg.com/vi/L1kRWj-52Io/hqdefault.jpg"
+        },
+        {
+            "video_id": "PB4KZpFxpbM",
+            "title": "리니지 클래식 / 한번 해보자는거야? 그래 나도 끝까지간다 (ft 1일 1망구랑)",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "9:46",
+            "view_count": "167788",
+            "thumbnail_url": "https://i.ytimg.com/vi/PB4KZpFxpbM/hqdefault.jpg"
+        },
+        {
+            "video_id": "WwIkEUAEHXo",
+            "title": "[조각집🎨] '심연' IU Live Clip (With WOODZ)",
+            "channel_name": "이지금 [IU Official]",
+            "category": "Entertainment",
+            "duration": "3:57",
+            "view_count": "95025",
+            "thumbnail_url": "https://i.ytimg.com/vi/WwIkEUAEHXo/hqdefault.jpg"
         },
         {
             "video_id": "GBEgL9w0EjQ",
@@ -133,26 +133,8 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:16",
-            "view_count": "177003",
+            "view_count": "181237",
             "thumbnail_url": "https://i.ytimg.com/vi/GBEgL9w0EjQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "iAhWq2jVRH4",
-            "title": "What A Love",
-            "channel_name": "DOYOUNG - Topic",
-            "category": "Music",
-            "duration": "3:18",
-            "view_count": "111381",
-            "thumbnail_url": "https://i.ytimg.com/vi/iAhWq2jVRH4/hqdefault.jpg"
-        },
-        {
-            "video_id": "BXzRUo2PawY",
-            "title": "1위 크완 직작에 성공한 대머리;;",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "18:16",
-            "view_count": "179301",
-            "thumbnail_url": "https://i.ytimg.com/vi/BXzRUo2PawY/hqdefault.jpg"
         },
         {
             "video_id": "JhaiWyACKgg",
@@ -160,8 +142,26 @@
             "channel_name": "H1-KEY - Topic",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "36550",
+            "view_count": "37333",
             "thumbnail_url": "https://i.ytimg.com/vi/JhaiWyACKgg/hqdefault.jpg"
+        },
+        {
+            "video_id": "BXzRUo2PawY",
+            "title": "1위 크완 직작에 성공한 대머리;;",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "18:16",
+            "view_count": "180226",
+            "thumbnail_url": "https://i.ytimg.com/vi/BXzRUo2PawY/hqdefault.jpg"
+        },
+        {
+            "video_id": "iAhWq2jVRH4",
+            "title": "What A Love",
+            "channel_name": "DOYOUNG - Topic",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "113838",
+            "thumbnail_url": "https://i.ytimg.com/vi/iAhWq2jVRH4/hqdefault.jpg"
         },
         {
             "video_id": "IQnVns79ZWQ",
@@ -169,7 +169,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:04",
-            "view_count": "375014",
+            "view_count": "376264",
             "thumbnail_url": "https://i.ytimg.com/vi/IQnVns79ZWQ/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "Aaron Smith - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "846808",
+            "view_count": "854163",
             "thumbnail_url": "https://i.ytimg.com/vi/Mnu5-meFyfI/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "1:06:36",
-            "view_count": "124983",
+            "view_count": "127529",
             "thumbnail_url": "https://i.ytimg.com/vi/cy-jWyU4RtI/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "HAON - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "1611499",
+            "view_count": "1630838",
             "thumbnail_url": "https://i.ytimg.com/vi/HLTQoCRBfxc/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "닌쟁이",
             "category": "Gaming",
             "duration": "8:55:22",
-            "view_count": "132664",
+            "view_count": "132865",
             "thumbnail_url": "https://i.ytimg.com/vi/tlbMs9spb0s/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "ヨルシカ / n-buna Official",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "366269",
+            "view_count": "373754",
             "thumbnail_url": "https://i.ytimg.com/vi/SIwfXPESJ8k/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "25:39",
-            "view_count": "118453",
+            "view_count": "119901",
             "thumbnail_url": "https://i.ytimg.com/vi/jY2RaI8_8W0/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "KickFlip - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "111040",
+            "view_count": "112587",
             "thumbnail_url": "https://i.ytimg.com/vi/kkWTd89DWnU/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "30:19",
-            "view_count": "327390",
+            "view_count": "331168",
             "thumbnail_url": "https://i.ytimg.com/vi/RhawP90SyZo/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "ATEEZ - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "220821",
+            "view_count": "223077",
             "thumbnail_url": "https://i.ytimg.com/vi/mfXeqUR2RJ4/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "11:12",
-            "view_count": "175219",
+            "view_count": "178314",
             "thumbnail_url": "https://i.ytimg.com/vi/T2rnLoDHgbk/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "트로트 옛노래",
             "category": "Music",
             "duration": "1:18:53",
-            "view_count": "9194",
+            "view_count": "9427",
             "thumbnail_url": "https://i.ytimg.com/vi/Ypt_0NxVtbY/hqdefault.jpg"
         },
         {
@@ -277,8 +277,26 @@
             "channel_name": "치랜",
             "category": "Gaming",
             "duration": "55:12",
-            "view_count": "132459",
+            "view_count": "135571",
             "thumbnail_url": "https://i.ytimg.com/vi/fTbApw97MrY/hqdefault.jpg"
+        },
+        {
+            "video_id": "AUYzWspjnbY",
+            "title": "Home (feat. Hikaru Utada)",
+            "channel_name": "Charlie Puth - Topic",
+            "category": "Music",
+            "duration": "3:45",
+            "view_count": "300860",
+            "thumbnail_url": "https://i.ytimg.com/vi/AUYzWspjnbY/hqdefault.jpg"
+        },
+        {
+            "video_id": "0OxOgWvPlxI",
+            "title": "점검 조기종료! 신규팩 떴다 No7 호날두 10카까지 뜬다고?",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "20:29",
+            "view_count": "56194",
+            "thumbnail_url": "https://i.ytimg.com/vi/0OxOgWvPlxI/hqdefault.jpg"
         },
         {
             "video_id": "lz60G0_VC7w",
@@ -286,7 +304,7 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "4:24",
-            "view_count": "55642",
+            "view_count": "56204",
             "thumbnail_url": "https://i.ytimg.com/vi/lz60G0_VC7w/hqdefault.jpg"
         },
         {
@@ -295,26 +313,8 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "32:36",
-            "view_count": "118851",
+            "view_count": "120125",
             "thumbnail_url": "https://i.ytimg.com/vi/up-VP7PHM-o/hqdefault.jpg"
-        },
-        {
-            "video_id": "AUYzWspjnbY",
-            "title": "Home (feat. Hikaru Utada)",
-            "channel_name": "Charlie Puth - Topic",
-            "category": "Music",
-            "duration": "3:45",
-            "view_count": "295760",
-            "thumbnail_url": "https://i.ytimg.com/vi/AUYzWspjnbY/hqdefault.jpg"
-        },
-        {
-            "video_id": "s_VPp28uBNg",
-            "title": "【 탬탬버린 】 - 아무도 안오는 서버를 살리기 위해 발로뛰며 치킨을 뿌리는 나",
-            "channel_name": "탬탬버린",
-            "category": "Gaming",
-            "duration": "30:10",
-            "view_count": "146285",
-            "thumbnail_url": "https://i.ytimg.com/vi/s_VPp28uBNg/hqdefault.jpg"
         },
         {
             "video_id": "BaiWSy4l1mk",
@@ -322,17 +322,17 @@
             "channel_name": "NMIXX",
             "category": "Entertainment",
             "duration": "6:12",
-            "view_count": "101884",
+            "view_count": "106989",
             "thumbnail_url": "https://i.ytimg.com/vi/BaiWSy4l1mk/hqdefault.jpg"
         },
         {
-            "video_id": "0OxOgWvPlxI",
-            "title": "점검 조기종료! 신규팩 떴다 No7 호날두 10카까지 뜬다고?",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "20:29",
-            "view_count": "51174",
-            "thumbnail_url": "https://i.ytimg.com/vi/0OxOgWvPlxI/hqdefault.jpg"
+            "video_id": "YN5ywGUHhdc",
+            "title": "작업장 다 찢어버리는 역대급 성능 \"도펠 군단\"",
+            "channel_name": "린친놈",
+            "category": "People & Blogs",
+            "duration": "12:48",
+            "view_count": "122562",
+            "thumbnail_url": "https://i.ytimg.com/vi/YN5ywGUHhdc/hqdefault.jpg"
         },
         {
             "video_id": "TCPU7L7Qymg",
@@ -340,7 +340,7 @@
             "channel_name": "nowimyoung - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "1040763",
+            "view_count": "1048206",
             "thumbnail_url": "https://i.ytimg.com/vi/TCPU7L7Qymg/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "수찬 Suchan",
             "category": "Gaming",
             "duration": "19:55",
-            "view_count": "95525",
+            "view_count": "96551",
             "thumbnail_url": "https://i.ytimg.com/vi/lLuoG91zE44/hqdefault.jpg"
         },
         {
@@ -358,17 +358,17 @@
             "channel_name": "TJ노래방 공식 유튜브채널",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "14604",
+            "view_count": "15073",
             "thumbnail_url": "https://i.ytimg.com/vi/rDC8iWG3564/hqdefault.jpg"
         },
         {
-            "video_id": "YN5ywGUHhdc",
-            "title": "작업장 다 찢어버리는 역대급 성능 \"도펠 군단\"",
-            "channel_name": "린친놈",
-            "category": "People & Blogs",
-            "duration": "12:48",
-            "view_count": "114706",
-            "thumbnail_url": "https://i.ytimg.com/vi/YN5ywGUHhdc/hqdefault.jpg"
+            "video_id": "s_VPp28uBNg",
+            "title": "【 탬탬버린 】 - 아무도 안오는 서버를 살리기 위해 발로뛰며 치킨을 뿌리는 나",
+            "channel_name": "탬탬버린",
+            "category": "Gaming",
+            "duration": "30:10",
+            "view_count": "148896",
+            "thumbnail_url": "https://i.ytimg.com/vi/s_VPp28uBNg/hqdefault.jpg"
         },
         {
             "video_id": "bjjs-14horc",
@@ -376,7 +376,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:31",
-            "view_count": "1197755",
+            "view_count": "1208437",
             "thumbnail_url": "https://i.ytimg.com/vi/bjjs-14horc/hqdefault.jpg"
         }
     ]
