@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-15 00:31:18",
+    "scraped_time": "2026-03-15 01:35:58",
     "videos": [
         {
             "video_id": "hX-yGLHSulE",
@@ -7,7 +7,7 @@
             "channel_name": "ITZY",
             "category": "Entertainment",
             "duration": "2:13",
-            "view_count": "203064",
+            "view_count": "237638",
             "thumbnail_url": "https://i.ytimg.com/vi/hX-yGLHSulE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "1:04",
-            "view_count": "3015852",
+            "view_count": "3053743",
             "thumbnail_url": "https://i.ytimg.com/vi/Exukk6JO9i0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:52",
-            "view_count": "269773",
+            "view_count": "289788",
             "thumbnail_url": "https://i.ytimg.com/vi/S1FFxe6JCpk/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Stray Kids - Topic",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "667764",
+            "view_count": "681970",
             "thumbnail_url": "https://i.ytimg.com/vi/F-QSLxAyFes/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Crimson Desert",
             "category": "Gaming",
             "duration": "1:44",
-            "view_count": "262027",
+            "view_count": "266754",
             "thumbnail_url": "https://i.ytimg.com/vi/FLdy3yc0Nfw/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "26:18",
-            "view_count": "464726",
+            "view_count": "472141",
             "thumbnail_url": "https://i.ytimg.com/vi/v2cTtkK38EM/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "YENA - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "544679",
+            "view_count": "553862",
             "thumbnail_url": "https://i.ytimg.com/vi/sjtyqmA-pH4/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "0:52",
-            "view_count": "121982",
+            "view_count": "123639",
             "thumbnail_url": "https://i.ytimg.com/vi/5JyfvxRDp9g/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "메이플스토리",
             "category": "Gaming",
             "duration": "3:07:51",
-            "view_count": "188774",
+            "view_count": "191711",
             "thumbnail_url": "https://i.ytimg.com/vi/lRThIrUwv08/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "HYNN - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "45499",
+            "view_count": "46412",
             "thumbnail_url": "https://i.ytimg.com/vi/YGkggaCfgtQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "7EnKrV_SVi8",
-            "title": "통과시키면 인류 멸망 VS 처형시키면 살인",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "54:22",
-            "view_count": "141865",
-            "thumbnail_url": "https://i.ytimg.com/vi/7EnKrV_SVi8/hqdefault.jpg"
-        },
-        {
-            "video_id": "GHD1baqmjdE",
-            "title": "You Are My Everything",
-            "channel_name": "JD1 - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "7332",
-            "thumbnail_url": "https://i.ytimg.com/vi/GHD1baqmjdE/hqdefault.jpg"
         },
         {
             "video_id": "vxDUcItfzgE",
@@ -115,8 +97,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "24:15",
-            "view_count": "153312",
+            "view_count": "175419",
             "thumbnail_url": "https://i.ytimg.com/vi/vxDUcItfzgE/hqdefault.jpg"
+        },
+        {
+            "video_id": "GHD1baqmjdE",
+            "title": "You Are My Everything",
+            "channel_name": "JD1 - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "8489",
+            "thumbnail_url": "https://i.ytimg.com/vi/GHD1baqmjdE/hqdefault.jpg"
+        },
+        {
+            "video_id": "7EnKrV_SVi8",
+            "title": "통과시키면 인류 멸망 VS 처형시키면 살인",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "54:22",
+            "view_count": "157450",
+            "thumbnail_url": "https://i.ytimg.com/vi/7EnKrV_SVi8/hqdefault.jpg"
         },
         {
             "video_id": "uKFlZmn4eQk",
@@ -124,7 +124,7 @@
             "channel_name": "TOMORROW X TOGETHER OFFICIAL",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "65791",
+            "view_count": "76073",
             "thumbnail_url": "https://i.ytimg.com/vi/uKFlZmn4eQk/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:22",
-            "view_count": "429397",
+            "view_count": "434369",
             "thumbnail_url": "https://i.ytimg.com/vi/qp6dZCAGQCk/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "SIENNA SPIRO - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "468180",
+            "view_count": "478984",
             "thumbnail_url": "https://i.ytimg.com/vi/ou4WJs80B1Y/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "29:59",
-            "view_count": "109009",
+            "view_count": "124374",
             "thumbnail_url": "https://i.ytimg.com/vi/WHW1ruQIPHY/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "JennieRubyJaneVEVO",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "452809",
+            "view_count": "461443",
             "thumbnail_url": "https://i.ytimg.com/vi/9xq3BYnGPwo/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "마주 - 로블록스",
             "category": "Gaming",
             "duration": "17:27",
-            "view_count": "141127",
+            "view_count": "145016",
             "thumbnail_url": "https://i.ytimg.com/vi/AZLdegxBILE/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "&TEAM - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "122697",
+            "view_count": "127271",
             "thumbnail_url": "https://i.ytimg.com/vi/F4WyHE88Zuk/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "악동 김블루",
             "category": "Gaming",
             "duration": "13:40",
-            "view_count": "94440",
+            "view_count": "111264",
             "thumbnail_url": "https://i.ytimg.com/vi/l6DyhbyPNpY/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "Beabadoobee - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "224267",
+            "view_count": "226465",
             "thumbnail_url": "https://i.ytimg.com/vi/lJOpjWnSnqg/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "12:52",
-            "view_count": "80671",
+            "view_count": "83502",
             "thumbnail_url": "https://i.ytimg.com/vi/STaHaiKEAPs/hqdefault.jpg"
         },
         {
@@ -214,44 +214,8 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:31",
-            "view_count": "216850",
+            "view_count": "238359",
             "thumbnail_url": "https://i.ytimg.com/vi/ScdULYbnjOs/hqdefault.jpg"
-        },
-        {
-            "video_id": "_w-kceO6zss",
-            "title": "[ 불도그 LIVE 생방송 3/13 ] 1부 리니지클래식 / 2부 뱀피르 글로벌서버",
-            "channel_name": "불도그",
-            "category": "Gaming",
-            "duration": "5:02:24",
-            "view_count": "196905",
-            "thumbnail_url": "https://i.ytimg.com/vi/_w-kceO6zss/hqdefault.jpg"
-        },
-        {
-            "video_id": "rkpY81VFckg",
-            "title": "Trees",
-            "channel_name": "Dept - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "104082",
-            "thumbnail_url": "https://i.ytimg.com/vi/rkpY81VFckg/hqdefault.jpg"
-        },
-        {
-            "video_id": "-ET2yAeWLcA",
-            "title": "전섭 최초 환산 14만 달성?'?? [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "10:50",
-            "view_count": "180012",
-            "thumbnail_url": "https://i.ytimg.com/vi/-ET2yAeWLcA/hqdefault.jpg"
-        },
-        {
-            "video_id": "9moTCYPmBMY",
-            "title": "UNIQUE",
-            "channel_name": "P1Harmony - Topic",
-            "category": "Music",
-            "duration": "2:52",
-            "view_count": "181875",
-            "thumbnail_url": "https://i.ytimg.com/vi/9moTCYPmBMY/hqdefault.jpg"
         },
         {
             "video_id": "1yy_ih8fCzY",
@@ -259,17 +223,35 @@
             "channel_name": "소멸",
             "category": "Gaming",
             "duration": "11:24",
-            "view_count": "124659",
+            "view_count": "128260",
             "thumbnail_url": "https://i.ytimg.com/vi/1yy_ih8fCzY/hqdefault.jpg"
         },
         {
-            "video_id": "7KpcojYwabc",
-            "title": "Sub Character",
-            "channel_name": "Younha - Topic",
+            "video_id": "rkpY81VFckg",
+            "title": "Trees",
+            "channel_name": "Dept - Topic",
             "category": "Music",
-            "duration": "3:38",
-            "view_count": "425994",
-            "thumbnail_url": "https://i.ytimg.com/vi/7KpcojYwabc/hqdefault.jpg"
+            "duration": "3:06",
+            "view_count": "106413",
+            "thumbnail_url": "https://i.ytimg.com/vi/rkpY81VFckg/hqdefault.jpg"
+        },
+        {
+            "video_id": "_w-kceO6zss",
+            "title": "[ 불도그 LIVE 생방송 3/13 ] 1부 리니지클래식 / 2부 뱀피르 글로벌서버",
+            "channel_name": "불도그",
+            "category": "Gaming",
+            "duration": "5:02:24",
+            "view_count": "193398",
+            "thumbnail_url": "https://i.ytimg.com/vi/_w-kceO6zss/hqdefault.jpg"
+        },
+        {
+            "video_id": "9moTCYPmBMY",
+            "title": "UNIQUE",
+            "channel_name": "P1Harmony - Topic",
+            "category": "Music",
+            "duration": "2:52",
+            "view_count": "184106",
+            "thumbnail_url": "https://i.ytimg.com/vi/9moTCYPmBMY/hqdefault.jpg"
         },
         {
             "video_id": "WqsRwyb5Ffc",
@@ -277,8 +259,26 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "21:53",
-            "view_count": "97643",
+            "view_count": "99773",
             "thumbnail_url": "https://i.ytimg.com/vi/WqsRwyb5Ffc/hqdefault.jpg"
+        },
+        {
+            "video_id": "7KpcojYwabc",
+            "title": "Sub Character",
+            "channel_name": "Younha - Topic",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "428355",
+            "thumbnail_url": "https://i.ytimg.com/vi/7KpcojYwabc/hqdefault.jpg"
+        },
+        {
+            "video_id": "-ET2yAeWLcA",
+            "title": "전섭 최초 환산 14만 달성?'?? [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "10:50",
+            "view_count": "181884",
+            "thumbnail_url": "https://i.ytimg.com/vi/-ET2yAeWLcA/hqdefault.jpg"
         },
         {
             "video_id": "WwIkEUAEHXo",
@@ -286,26 +286,8 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "3:57",
-            "view_count": "171864",
+            "view_count": "173235",
             "thumbnail_url": "https://i.ytimg.com/vi/WwIkEUAEHXo/hqdefault.jpg"
-        },
-        {
-            "video_id": "P349BEgBeVU",
-            "title": "사람인척 하는 좀비들 잡아내기! 못잡으면 인류 멸망ㅠㅜㅠㅜ",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "29:20",
-            "view_count": "216279",
-            "thumbnail_url": "https://i.ytimg.com/vi/P349BEgBeVU/hqdefault.jpg"
-        },
-        {
-            "video_id": "y55WCDiIBSg",
-            "title": "I DON'T BARGAIN",
-            "channel_name": "ALLDAY PROJECT - Topic",
-            "category": "Music",
-            "duration": "2:51",
-            "view_count": "365110",
-            "thumbnail_url": "https://i.ytimg.com/vi/y55WCDiIBSg/hqdefault.jpg"
         },
         {
             "video_id": "v2b07g7G9bM",
@@ -313,8 +295,26 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "12:06",
-            "view_count": "56696",
+            "view_count": "84949",
             "thumbnail_url": "https://i.ytimg.com/vi/v2b07g7G9bM/hqdefault.jpg"
+        },
+        {
+            "video_id": "y55WCDiIBSg",
+            "title": "I DON'T BARGAIN",
+            "channel_name": "ALLDAY PROJECT - Topic",
+            "category": "Music",
+            "duration": "2:51",
+            "view_count": "367195",
+            "thumbnail_url": "https://i.ytimg.com/vi/y55WCDiIBSg/hqdefault.jpg"
+        },
+        {
+            "video_id": "P349BEgBeVU",
+            "title": "사람인척 하는 좀비들 잡아내기! 못잡으면 인류 멸망ㅠㅜㅠㅜ",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "29:20",
+            "view_count": "218363",
+            "thumbnail_url": "https://i.ytimg.com/vi/P349BEgBeVU/hqdefault.jpg"
         },
         {
             "video_id": "X7nuzRiU8g0",
@@ -322,7 +322,7 @@
             "channel_name": "ONSEEON - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "26995",
+            "view_count": "27484",
             "thumbnail_url": "https://i.ytimg.com/vi/X7nuzRiU8g0/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "27:35",
-            "view_count": "264135",
+            "view_count": "268108",
             "thumbnail_url": "https://i.ytimg.com/vi/eRmiS0d5gvo/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "CAMO - Topic",
             "category": "Music",
             "duration": "2:24",
-            "view_count": "144506",
+            "view_count": "146231",
             "thumbnail_url": "https://i.ytimg.com/vi/W0YGYFE4_bg/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "21:30",
-            "view_count": "88160",
+            "view_count": "91363",
             "thumbnail_url": "https://i.ytimg.com/vi/gu1Rp_IoIcM/hqdefault.jpg"
         },
         {
@@ -358,17 +358,8 @@
             "channel_name": "HANZ",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "49385",
+            "view_count": "50802",
             "thumbnail_url": "https://i.ytimg.com/vi/-MWCKArqeRU/hqdefault.jpg"
-        },
-        {
-            "video_id": "nuNV5wMKMp8",
-            "title": "[원재]리니지클래식 3.14 데포로쥬 소울+트리 요정  \"턱\" 더케이 天堂W 리니지M 리니지W 리니지클래식 리니지",
-            "channel_name": "원재TV",
-            "category": "Gaming",
-            "duration": "6:42:53",
-            "view_count": "81742",
-            "thumbnail_url": "https://i.ytimg.com/vi/nuNV5wMKMp8/hqdefault.jpg"
         },
         {
             "video_id": "ucWM1r8dMtk",
@@ -376,8 +367,17 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:48",
-            "view_count": "60920",
+            "view_count": "73863",
             "thumbnail_url": "https://i.ytimg.com/vi/ucWM1r8dMtk/hqdefault.jpg"
+        },
+        {
+            "video_id": "nuNV5wMKMp8",
+            "title": "[원재]리니지클래식 3.14 데포로쥬 소울+트리 요정  \"턱\" 더케이 天堂W 리니지M 리니지W 리니지클래식 리니지",
+            "channel_name": "원재TV",
+            "category": "Gaming",
+            "duration": "6:42:53",
+            "view_count": "80653",
+            "thumbnail_url": "https://i.ytimg.com/vi/nuNV5wMKMp8/hqdefault.jpg"
         }
     ]
 }
