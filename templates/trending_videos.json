@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-16 01:35:49",
+    "scraped_time": "2026-03-16 02:30:57",
     "videos": [
         {
             "video_id": "hX-yGLHSulE",
@@ -7,7 +7,7 @@
             "channel_name": "ITZY",
             "category": "Entertainment",
             "duration": "2:13",
-            "view_count": "624504",
+            "view_count": "645743",
             "thumbnail_url": "https://i.ytimg.com/vi/hX-yGLHSulE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "1:04",
-            "view_count": "3511877",
+            "view_count": "3532755",
             "thumbnail_url": "https://i.ytimg.com/vi/Exukk6JO9i0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "7:47:53",
-            "view_count": "315620",
+            "view_count": "309569",
             "thumbnail_url": "https://i.ytimg.com/vi/ZbcLqw3RTpo/hqdefault.jpg"
         },
         {
@@ -34,17 +34,17 @@
             "channel_name": "JD1 - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "20121",
+            "view_count": "20645",
             "thumbnail_url": "https://i.ytimg.com/vi/GHD1baqmjdE/hqdefault.jpg"
         },
         {
-            "video_id": "FLdy3yc0Nfw",
-            "title": "공식 출시 트레일러 (한국어 더빙) | 붉은사막",
-            "channel_name": "Crimson Desert",
-            "category": "Gaming",
-            "duration": "1:44",
-            "view_count": "342814",
-            "thumbnail_url": "https://i.ytimg.com/vi/FLdy3yc0Nfw/hqdefault.jpg"
+            "video_id": "3yt19MnUc3I",
+            "title": "KickFlip(킥플립) “My First Kick” Trailer",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "2:59",
+            "view_count": "19303",
+            "thumbnail_url": "https://i.ytimg.com/vi/3yt19MnUc3I/hqdefault.jpg"
         },
         {
             "video_id": "S1FFxe6JCpk",
@@ -52,7 +52,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:52",
-            "view_count": "429514",
+            "view_count": "433296",
             "thumbnail_url": "https://i.ytimg.com/vi/S1FFxe6JCpk/hqdefault.jpg"
         },
         {
@@ -61,8 +61,17 @@
             "channel_name": "YENA - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "779539",
+            "view_count": "787823",
             "thumbnail_url": "https://i.ytimg.com/vi/sjtyqmA-pH4/hqdefault.jpg"
+        },
+        {
+            "video_id": "FLdy3yc0Nfw",
+            "title": "공식 출시 트레일러 (한국어 더빙) | 붉은사막",
+            "channel_name": "Crimson Desert",
+            "category": "Gaming",
+            "duration": "1:44",
+            "view_count": "345832",
+            "thumbnail_url": "https://i.ytimg.com/vi/FLdy3yc0Nfw/hqdefault.jpg"
         },
         {
             "video_id": "vxDUcItfzgE",
@@ -70,26 +79,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "24:15",
-            "view_count": "364609",
+            "view_count": "369610",
             "thumbnail_url": "https://i.ytimg.com/vi/vxDUcItfzgE/hqdefault.jpg"
         },
         {
-            "video_id": "F-QSLxAyFes",
-            "title": "Endless Sun",
-            "channel_name": "Stray Kids - Topic",
+            "video_id": "bDbzZ_Dx4Ks",
+            "title": "Seungmin - 달리기 (윤상 Cover) | [SONG by 2] S#1",
+            "channel_name": "Stray Kids",
             "category": "Music",
-            "duration": "2:38",
-            "view_count": "866857",
-            "thumbnail_url": "https://i.ytimg.com/vi/F-QSLxAyFes/hqdefault.jpg"
+            "duration": "3:56",
+            "view_count": "238670",
+            "thumbnail_url": "https://i.ytimg.com/vi/bDbzZ_Dx4Ks/hqdefault.jpg"
         },
         {
-            "video_id": "7EnKrV_SVi8",
-            "title": "통과시키면 인류 멸망 VS 처형시키면 살인",
-            "channel_name": "잠뜰 TV",
+            "video_id": "btVDk32_qOk",
+            "title": "낙원의 모범시민",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "54:22",
-            "view_count": "311248",
-            "thumbnail_url": "https://i.ytimg.com/vi/7EnKrV_SVi8/hqdefault.jpg"
+            "duration": "30:01",
+            "view_count": "132434",
+            "thumbnail_url": "https://i.ytimg.com/vi/btVDk32_qOk/hqdefault.jpg"
         },
         {
             "video_id": "pWhZYfgc0IM",
@@ -97,8 +106,26 @@
             "channel_name": "SOLE - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "20543",
+            "view_count": "20910",
             "thumbnail_url": "https://i.ytimg.com/vi/pWhZYfgc0IM/hqdefault.jpg"
+        },
+        {
+            "video_id": "7EnKrV_SVi8",
+            "title": "통과시키면 인류 멸망 VS 처형시키면 살인",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "54:22",
+            "view_count": "314250",
+            "thumbnail_url": "https://i.ytimg.com/vi/7EnKrV_SVi8/hqdefault.jpg"
+        },
+        {
+            "video_id": "CgxOQjYBmss",
+            "title": "ダダダダダル / 雨良 feat.初音ミクVS重音テト(Dadadadadaru / Amala ft.Miku VS Teto)",
+            "channel_name": "雨良 Amala",
+            "category": "Music",
+            "duration": "2:39",
+            "view_count": "333236",
+            "thumbnail_url": "https://i.ytimg.com/vi/CgxOQjYBmss/hqdefault.jpg"
         },
         {
             "video_id": "e3zpGucyuu0",
@@ -106,7 +133,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "4:23:02",
-            "view_count": "164526",
+            "view_count": "163901",
             "thumbnail_url": "https://i.ytimg.com/vi/e3zpGucyuu0/hqdefault.jpg"
         },
         {
@@ -115,80 +142,8 @@
             "channel_name": "HYNN - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "53774",
+            "view_count": "53811",
             "thumbnail_url": "https://i.ytimg.com/vi/YGkggaCfgtQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "v2cTtkK38EM",
-            "title": "감스트 피파4 벌써 구단가치 1등? 2천만원 현질 초대박 떴습니다!!",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "26:18",
-            "view_count": "557347",
-            "thumbnail_url": "https://i.ytimg.com/vi/v2cTtkK38EM/hqdefault.jpg"
-        },
-        {
-            "video_id": "CgxOQjYBmss",
-            "title": "ダダダダダル / 雨良 feat.初音ミクVS重音テト(Dadadadadaru / Amala ft.Miku VS Teto)",
-            "channel_name": "雨良 Amala",
-            "category": "Music",
-            "duration": "2:39",
-            "view_count": "319629",
-            "thumbnail_url": "https://i.ytimg.com/vi/CgxOQjYBmss/hqdefault.jpg"
-        },
-        {
-            "video_id": "ImlOJxBwc5U",
-            "title": "미스터 비스트 영상에 한국 대표로 참가했습니다",
-            "channel_name": "블루맥스",
-            "category": "Gaming",
-            "duration": "23:04",
-            "view_count": "309346",
-            "thumbnail_url": "https://i.ytimg.com/vi/ImlOJxBwc5U/hqdefault.jpg"
-        },
-        {
-            "video_id": "uKFlZmn4eQk",
-            "title": "'내일에서 기다릴게 (I'll See You There Tomorrow)' Dance Practice (Part Switch ver.) | TXT (투모로우바이투게더)️",
-            "channel_name": "TOMORROW X TOGETHER OFFICIAL",
-            "category": "Music",
-            "duration": "3:37",
-            "view_count": "162875",
-            "thumbnail_url": "https://i.ytimg.com/vi/uKFlZmn4eQk/hqdefault.jpg"
-        },
-        {
-            "video_id": "v2b07g7G9bM",
-            "title": "리니지 클래식 / 또 열렸다.. 본 장비까지 다 질렀습니다 그리고 망구랑이 120키로라고..?",
-            "channel_name": "빅보스",
-            "category": "Gaming",
-            "duration": "12:06",
-            "view_count": "236656",
-            "thumbnail_url": "https://i.ytimg.com/vi/v2b07g7G9bM/hqdefault.jpg"
-        },
-        {
-            "video_id": "3xlT0ggVA24",
-            "title": "right next to me",
-            "channel_name": "Kim Pureum - Topic",
-            "category": "Music",
-            "duration": "4:15",
-            "view_count": "28081",
-            "thumbnail_url": "https://i.ytimg.com/vi/3xlT0ggVA24/hqdefault.jpg"
-        },
-        {
-            "video_id": "qt9OWKU7WeE",
-            "title": "게임에 현질하다가 인생 파산한 친구들끼리 무과금으로 게임 대결하면 생기는 일ㅋㅋㅋㅋㅋ",
-            "channel_name": "돌잼",
-            "category": "Gaming",
-            "duration": "14:43",
-            "view_count": "97331",
-            "thumbnail_url": "https://i.ytimg.com/vi/qt9OWKU7WeE/hqdefault.jpg"
-        },
-        {
-            "video_id": "aAY2J15nSYA",
-            "title": "[최신가요연속듣기 2026] KPOP 노동요 플레이리스트 💃💅🏻 2026년 3월 14일 2주차, 멜론차트 100, 종합차트 노래모음",
-            "channel_name": "Yeo Doll",
-            "category": "Music",
-            "duration": "12:21:47",
-            "view_count": "13768",
-            "thumbnail_url": "https://i.ytimg.com/vi/aAY2J15nSYA/hqdefault.jpg"
         },
         {
             "video_id": "sNWa4T9n7hE",
@@ -196,26 +151,62 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "11:58",
-            "view_count": "117017",
+            "view_count": "135059",
             "thumbnail_url": "https://i.ytimg.com/vi/sNWa4T9n7hE/hqdefault.jpg"
         },
         {
-            "video_id": "-RUZUakN4nI",
-            "title": "Please Love Her(Please Love Him)",
-            "channel_name": "Zia - Topic",
+            "video_id": "uKFlZmn4eQk",
+            "title": "'내일에서 기다릴게 (I'll See You There Tomorrow)' Dance Practice (Part Switch ver.) | TXT (투모로우바이투게더)️",
+            "channel_name": "TOMORROW X TOGETHER OFFICIAL",
             "category": "Music",
-            "duration": "4:00",
-            "view_count": "4400",
-            "thumbnail_url": "https://i.ytimg.com/vi/-RUZUakN4nI/hqdefault.jpg"
+            "duration": "3:37",
+            "view_count": "165760",
+            "thumbnail_url": "https://i.ytimg.com/vi/uKFlZmn4eQk/hqdefault.jpg"
         },
         {
-            "video_id": "btVDk32_qOk",
-            "title": "낙원의 모범시민",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "ImlOJxBwc5U",
+            "title": "미스터 비스트 영상에 한국 대표로 참가했습니다",
+            "channel_name": "블루맥스",
             "category": "Gaming",
-            "duration": "30:01",
-            "view_count": "107364",
-            "thumbnail_url": "https://i.ytimg.com/vi/btVDk32_qOk/hqdefault.jpg"
+            "duration": "23:04",
+            "view_count": "321243",
+            "thumbnail_url": "https://i.ytimg.com/vi/ImlOJxBwc5U/hqdefault.jpg"
+        },
+        {
+            "video_id": "3xlT0ggVA24",
+            "title": "right next to me",
+            "channel_name": "Kim Pureum - Topic",
+            "category": "Music",
+            "duration": "4:15",
+            "view_count": "28530",
+            "thumbnail_url": "https://i.ytimg.com/vi/3xlT0ggVA24/hqdefault.jpg"
+        },
+        {
+            "video_id": "v2cTtkK38EM",
+            "title": "감스트 피파4 벌써 구단가치 1등? 2천만원 현질 초대박 떴습니다!!",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "26:18",
+            "view_count": "560521",
+            "thumbnail_url": "https://i.ytimg.com/vi/v2cTtkK38EM/hqdefault.jpg"
+        },
+        {
+            "video_id": "aAY2J15nSYA",
+            "title": "[최신가요연속듣기 2026] KPOP 노동요 플레이리스트 💃💅🏻 2026년 3월 14일 2주차, 멜론차트 100, 종합차트 노래모음",
+            "channel_name": "Yeo Doll",
+            "category": "Music",
+            "duration": "12:21:47",
+            "view_count": "13853",
+            "thumbnail_url": "https://i.ytimg.com/vi/aAY2J15nSYA/hqdefault.jpg"
+        },
+        {
+            "video_id": "qt9OWKU7WeE",
+            "title": "게임에 현질하다가 인생 파산한 친구들끼리 무과금으로 게임 대결하면 생기는 일ㅋㅋㅋㅋㅋ",
+            "channel_name": "돌잼",
+            "category": "Gaming",
+            "duration": "14:43",
+            "view_count": "102345",
+            "thumbnail_url": "https://i.ytimg.com/vi/qt9OWKU7WeE/hqdefault.jpg"
         },
         {
             "video_id": "7-WMB9VJOl0",
@@ -223,17 +214,17 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "11:12",
-            "view_count": "135378",
+            "view_count": "145477",
             "thumbnail_url": "https://i.ytimg.com/vi/7-WMB9VJOl0/hqdefault.jpg"
         },
         {
-            "video_id": "WHW1ruQIPHY",
-            "title": "여러분 저 됐어요 샤갈 : 독타입 하트골드【포켓몬 모든타입 깨기】#5",
-            "channel_name": "근가놈",
+            "video_id": "v2b07g7G9bM",
+            "title": "리니지 클래식 / 또 열렸다.. 본 장비까지 다 질렀습니다 그리고 망구랑이 120키로라고..?",
+            "channel_name": "빅보스",
             "category": "Gaming",
-            "duration": "29:59",
-            "view_count": "233285",
-            "thumbnail_url": "https://i.ytimg.com/vi/WHW1ruQIPHY/hqdefault.jpg"
+            "duration": "12:06",
+            "view_count": "238017",
+            "thumbnail_url": "https://i.ytimg.com/vi/v2b07g7G9bM/hqdefault.jpg"
         },
         {
             "video_id": "nAcJo0mOL6Y",
@@ -241,8 +232,35 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "24:03",
-            "view_count": "83057",
+            "view_count": "89712",
             "thumbnail_url": "https://i.ytimg.com/vi/nAcJo0mOL6Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "WHW1ruQIPHY",
+            "title": "여러분 저 됐어요 샤갈 : 독타입 하트골드【포켓몬 모든타입 깨기】#5",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "29:59",
+            "view_count": "235751",
+            "thumbnail_url": "https://i.ytimg.com/vi/WHW1ruQIPHY/hqdefault.jpg"
+        },
+        {
+            "video_id": "zlzQT6xwnLU",
+            "title": "\"강심 1000스택\" 직장 동료에게 초대형 사이온을 보여드렸습니다 💀",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "20:21",
+            "view_count": "77292",
+            "thumbnail_url": "https://i.ytimg.com/vi/zlzQT6xwnLU/hqdefault.jpg"
+        },
+        {
+            "video_id": "rjmPFcixfgU",
+            "title": "주민 때리기 타이쿤 ㅋㅋㅋㅋㅋㅋㅋ (마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "20:50",
+            "view_count": "62985",
+            "thumbnail_url": "https://i.ytimg.com/vi/rjmPFcixfgU/hqdefault.jpg"
         },
         {
             "video_id": "lRThIrUwv08",
@@ -250,35 +268,8 @@
             "channel_name": "메이플스토리",
             "category": "Gaming",
             "duration": "3:07:51",
-            "view_count": "206337",
+            "view_count": "206048",
             "thumbnail_url": "https://i.ytimg.com/vi/lRThIrUwv08/hqdefault.jpg"
-        },
-        {
-            "video_id": "l6DyhbyPNpY",
-            "title": "김블루를 보고 방송을 시작한 SOOP 인기버튜버 ( 코렛트님 질투하지 마세요ㅋㅋㅋ )",
-            "channel_name": "악동 김블루",
-            "category": "Gaming",
-            "duration": "13:40",
-            "view_count": "230503",
-            "thumbnail_url": "https://i.ytimg.com/vi/l6DyhbyPNpY/hqdefault.jpg"
-        },
-        {
-            "video_id": "LALwPo_pyLw",
-            "title": "[원재]리니지클래식 3.15 데포로쥬 소울+트리 요정  \"턱\" 더케이 天堂W 리니지M 리니지W 리니지클래식 리니지",
-            "channel_name": "원재TV",
-            "category": "Gaming",
-            "duration": "9:39:04",
-            "view_count": "96683",
-            "thumbnail_url": "https://i.ytimg.com/vi/LALwPo_pyLw/hqdefault.jpg"
-        },
-        {
-            "video_id": "LZY81H-SDgo",
-            "title": "\"나 서폿일때 정글 왜 그렇게 했어...?\" 맞정글로 만난 저라뎃?! 참교육 드가자 ㅋㅋㅋ",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "23:25",
-            "view_count": "168274",
-            "thumbnail_url": "https://i.ytimg.com/vi/LZY81H-SDgo/hqdefault.jpg"
         },
         {
             "video_id": "I_8BiMVWg_8",
@@ -286,8 +277,62 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "58:45",
-            "view_count": "95782",
+            "view_count": "99315",
             "thumbnail_url": "https://i.ytimg.com/vi/I_8BiMVWg_8/hqdefault.jpg"
+        },
+        {
+            "video_id": "l6DyhbyPNpY",
+            "title": "김블루를 보고 방송을 시작한 SOOP 인기버튜버 ( 코렛트님 질투하지 마세요ㅋㅋㅋ )",
+            "channel_name": "악동 김블루",
+            "category": "Gaming",
+            "duration": "13:40",
+            "view_count": "232254",
+            "thumbnail_url": "https://i.ytimg.com/vi/l6DyhbyPNpY/hqdefault.jpg"
+        },
+        {
+            "video_id": "R--Kz1lv6D0",
+            "title": "33살에 14층 챌린저...? \"나여 저라뎃\"",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "37:50",
+            "view_count": "89840",
+            "thumbnail_url": "https://i.ytimg.com/vi/R--Kz1lv6D0/hqdefault.jpg"
+        },
+        {
+            "video_id": "ShojF-Nlm7c",
+            "title": "해명하겠습니다.",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "28:30",
+            "view_count": "115306",
+            "thumbnail_url": "https://i.ytimg.com/vi/ShojF-Nlm7c/hqdefault.jpg"
+        },
+        {
+            "video_id": "LZY81H-SDgo",
+            "title": "\"나 서폿일때 정글 왜 그렇게 했어...?\" 맞정글로 만난 저라뎃?! 참교육 드가자 ㅋㅋㅋ",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "23:25",
+            "view_count": "170108",
+            "thumbnail_url": "https://i.ytimg.com/vi/LZY81H-SDgo/hqdefault.jpg"
+        },
+        {
+            "video_id": "6UZ7XsDCoqs",
+            "title": "리니지 클래식 / 고경만 카다 ㅋㅋㅋㅋ 이걸죽네",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "13:50",
+            "view_count": "61434",
+            "thumbnail_url": "https://i.ytimg.com/vi/6UZ7XsDCoqs/hqdefault.jpg"
+        },
+        {
+            "video_id": "LALwPo_pyLw",
+            "title": "[원재]리니지클래식 3.15 데포로쥬 소울+트리 요정  \"턱\" 더케이 天堂W 리니지M 리니지W 리니지클래식 리니지",
+            "channel_name": "원재TV",
+            "category": "Gaming",
+            "duration": "9:39:04",
+            "view_count": "96800",
+            "thumbnail_url": "https://i.ytimg.com/vi/LALwPo_pyLw/hqdefault.jpg"
         },
         {
             "video_id": "szR0KUKFT5Q",
@@ -295,7 +340,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "1:18:23",
-            "view_count": "117493",
+            "view_count": "120523",
             "thumbnail_url": "https://i.ytimg.com/vi/szR0KUKFT5Q/hqdefault.jpg"
         },
         {
@@ -304,62 +349,8 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "24:28",
-            "view_count": "114418",
+            "view_count": "120394",
             "thumbnail_url": "https://i.ytimg.com/vi/6V15vNlPQ-M/hqdefault.jpg"
-        },
-        {
-            "video_id": "rjmPFcixfgU",
-            "title": "주민 때리기 타이쿤 ㅋㅋㅋㅋㅋㅋㅋ (마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "20:50",
-            "view_count": "53377",
-            "thumbnail_url": "https://i.ytimg.com/vi/rjmPFcixfgU/hqdefault.jpg"
-        },
-        {
-            "video_id": "ShojF-Nlm7c",
-            "title": "해명하겠습니다.",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "28:30",
-            "view_count": "105147",
-            "thumbnail_url": "https://i.ytimg.com/vi/ShojF-Nlm7c/hqdefault.jpg"
-        },
-        {
-            "video_id": "2bMGODGDhxM",
-            "title": "리니지 클래식 삥바리의 삶",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "7:06:42",
-            "view_count": "146808",
-            "thumbnail_url": "https://i.ytimg.com/vi/2bMGODGDhxM/hqdefault.jpg"
-        },
-        {
-            "video_id": "Jovl1BiR4jI",
-            "title": "[타이슨장기] 여기가 소문난 묘수전문 맛집!",
-            "channel_name": "타이슨장기",
-            "category": "Gaming",
-            "duration": "3:26:37",
-            "view_count": "0",
-            "thumbnail_url": "https://i.ytimg.com/vi/Jovl1BiR4jI/hqdefault.jpg"
-        },
-        {
-            "video_id": "R--Kz1lv6D0",
-            "title": "33살에 14층 챌린저...? \"나여 저라뎃\"",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "37:50",
-            "view_count": "80421",
-            "thumbnail_url": "https://i.ytimg.com/vi/R--Kz1lv6D0/hqdefault.jpg"
-        },
-        {
-            "video_id": "zlzQT6xwnLU",
-            "title": "\"강심 1000스택\" 직장 동료에게 초대형 사이온을 보여드렸습니다 💀",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "20:21",
-            "view_count": "60386",
-            "thumbnail_url": "https://i.ytimg.com/vi/zlzQT6xwnLU/hqdefault.jpg"
         },
         {
             "video_id": "BWtVwHyzVEY",
@@ -367,8 +358,17 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "3:21:07",
-            "view_count": "345960",
+            "view_count": "352687",
             "thumbnail_url": "https://i.ytimg.com/vi/BWtVwHyzVEY/hqdefault.jpg"
+        },
+        {
+            "video_id": "g8bxt6WTYE4",
+            "title": "26.03.15(일) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
+            "category": "Gaming",
+            "duration": "4:56:11",
+            "view_count": "79800",
+            "thumbnail_url": "https://i.ytimg.com/vi/g8bxt6WTYE4/hqdefault.jpg"
         },
         {
             "video_id": "98q6Y8tuvhI",
@@ -376,7 +376,7 @@
             "channel_name": "아오니 AONI",
             "category": "Gaming",
             "duration": "15:19",
-            "view_count": "168591",
+            "view_count": "170571",
             "thumbnail_url": "https://i.ytimg.com/vi/98q6Y8tuvhI/hqdefault.jpg"
         }
     ]
