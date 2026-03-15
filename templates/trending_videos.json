@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-15 17:40:18",
+    "scraped_time": "2026-03-15 18:38:01",
     "videos": [
         {
             "video_id": "hX-yGLHSulE",
@@ -7,7 +7,7 @@
             "channel_name": "ITZY",
             "category": "Entertainment",
             "duration": "2:13",
-            "view_count": "484015",
+            "view_count": "495732",
             "thumbnail_url": "https://i.ytimg.com/vi/hX-yGLHSulE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "1:04",
-            "view_count": "3358117",
+            "view_count": "3373674",
             "thumbnail_url": "https://i.ytimg.com/vi/Exukk6JO9i0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "7:47:53",
-            "view_count": "292352",
+            "view_count": "296136",
             "thumbnail_url": "https://i.ytimg.com/vi/ZbcLqw3RTpo/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "YENA - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "689298",
+            "view_count": "700632",
             "thumbnail_url": "https://i.ytimg.com/vi/sjtyqmA-pH4/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Crimson Desert",
             "category": "Gaming",
             "duration": "1:44",
-            "view_count": "315447",
+            "view_count": "321213",
             "thumbnail_url": "https://i.ytimg.com/vi/FLdy3yc0Nfw/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "31:52",
-            "view_count": "392094",
+            "view_count": "397159",
             "thumbnail_url": "https://i.ytimg.com/vi/S1FFxe6JCpk/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Stray Kids - Topic",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "822202",
+            "view_count": "826132",
             "thumbnail_url": "https://i.ytimg.com/vi/F-QSLxAyFes/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "0:52",
-            "view_count": "132970",
+            "view_count": "133615",
             "thumbnail_url": "https://i.ytimg.com/vi/5JyfvxRDp9g/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "24:15",
-            "view_count": "324760",
+            "view_count": "330682",
             "thumbnail_url": "https://i.ytimg.com/vi/vxDUcItfzgE/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "JD1 - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "15083",
+            "view_count": "15444",
             "thumbnail_url": "https://i.ytimg.com/vi/GHD1baqmjdE/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "54:22",
-            "view_count": "263115",
+            "view_count": "271597",
             "thumbnail_url": "https://i.ytimg.com/vi/7EnKrV_SVi8/hqdefault.jpg"
-        },
-        {
-            "video_id": "YGkggaCfgtQ",
-            "title": "It’s Okay, That’s Love Change Street Version (괜찮아 사랑이야 Change Street Version)",
-            "channel_name": "HYNN - Topic",
-            "category": "Music",
-            "duration": "4:15",
-            "view_count": "51795",
-            "thumbnail_url": "https://i.ytimg.com/vi/YGkggaCfgtQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "v2cTtkK38EM",
-            "title": "감스트 피파4 벌써 구단가치 1등? 2천만원 현질 초대박 떴습니다!!",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "26:18",
-            "view_count": "527520",
-            "thumbnail_url": "https://i.ytimg.com/vi/v2cTtkK38EM/hqdefault.jpg"
         },
         {
             "video_id": "pWhZYfgc0IM",
@@ -124,8 +106,26 @@
             "channel_name": "SOLE - Topic",
             "category": "Music",
             "duration": "4:19",
-            "view_count": "15855",
+            "view_count": "16552",
             "thumbnail_url": "https://i.ytimg.com/vi/pWhZYfgc0IM/hqdefault.jpg"
+        },
+        {
+            "video_id": "v2cTtkK38EM",
+            "title": "감스트 피파4 벌써 구단가치 1등? 2천만원 현질 초대박 떴습니다!!",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "26:18",
+            "view_count": "531314",
+            "thumbnail_url": "https://i.ytimg.com/vi/v2cTtkK38EM/hqdefault.jpg"
+        },
+        {
+            "video_id": "YGkggaCfgtQ",
+            "title": "It’s Okay, That’s Love Change Street Version (괜찮아 사랑이야 Change Street Version)",
+            "channel_name": "HYNN - Topic",
+            "category": "Music",
+            "duration": "4:15",
+            "view_count": "52097",
+            "thumbnail_url": "https://i.ytimg.com/vi/YGkggaCfgtQ/hqdefault.jpg"
         },
         {
             "video_id": "v2b07g7G9bM",
@@ -133,7 +133,7 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "12:06",
-            "view_count": "211187",
+            "view_count": "215089",
             "thumbnail_url": "https://i.ytimg.com/vi/v2b07g7G9bM/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "TOMORROW X TOGETHER OFFICIAL",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "136059",
+            "view_count": "139116",
             "thumbnail_url": "https://i.ytimg.com/vi/uKFlZmn4eQk/hqdefault.jpg"
         },
         {
@@ -151,44 +151,8 @@
             "channel_name": "메이플스토리",
             "category": "Gaming",
             "duration": "3:07:51",
-            "view_count": "202730",
+            "view_count": "203224",
             "thumbnail_url": "https://i.ytimg.com/vi/lRThIrUwv08/hqdefault.jpg"
-        },
-        {
-            "video_id": "9xq3BYnGPwo",
-            "title": "JENNIE - like JENNIE (Extended Remix - Official Audio)",
-            "channel_name": "JennieRubyJaneVEVO",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "545289",
-            "thumbnail_url": "https://i.ytimg.com/vi/9xq3BYnGPwo/hqdefault.jpg"
-        },
-        {
-            "video_id": "WHW1ruQIPHY",
-            "title": "여러분 저 됐어요 샤갈 : 독타입 하트골드【포켓몬 모든타입 깨기】#5",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "29:59",
-            "view_count": "210716",
-            "thumbnail_url": "https://i.ytimg.com/vi/WHW1ruQIPHY/hqdefault.jpg"
-        },
-        {
-            "video_id": "ou4WJs80B1Y",
-            "title": "The Visitor",
-            "channel_name": "SIENNA SPIRO - Topic",
-            "category": "Music",
-            "duration": "3:49",
-            "view_count": "601671",
-            "thumbnail_url": "https://i.ytimg.com/vi/ou4WJs80B1Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "l6DyhbyPNpY",
-            "title": "김블루를 보고 방송을 시작한 SOOP 인기버튜버 ( 코렛트님 질투하지 마세요ㅋㅋㅋ )",
-            "channel_name": "악동 김블루",
-            "category": "Gaming",
-            "duration": "13:40",
-            "view_count": "205239",
-            "thumbnail_url": "https://i.ytimg.com/vi/l6DyhbyPNpY/hqdefault.jpg"
         },
         {
             "video_id": "3xlT0ggVA24",
@@ -196,8 +160,44 @@
             "channel_name": "Kim Pureum - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "21033",
+            "view_count": "22070",
             "thumbnail_url": "https://i.ytimg.com/vi/3xlT0ggVA24/hqdefault.jpg"
+        },
+        {
+            "video_id": "WHW1ruQIPHY",
+            "title": "여러분 저 됐어요 샤갈 : 독타입 하트골드【포켓몬 모든타입 깨기】#5",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "29:59",
+            "view_count": "213955",
+            "thumbnail_url": "https://i.ytimg.com/vi/WHW1ruQIPHY/hqdefault.jpg"
+        },
+        {
+            "video_id": "CgxOQjYBmss",
+            "title": "ダダダダダル / 雨良 feat.初音ミクVS重音テト(Dadadadadaru / Amala ft.Miku VS Teto)",
+            "channel_name": "雨良 Amala",
+            "category": "Music",
+            "duration": "2:39",
+            "view_count": "166245",
+            "thumbnail_url": "https://i.ytimg.com/vi/CgxOQjYBmss/hqdefault.jpg"
+        },
+        {
+            "video_id": "l6DyhbyPNpY",
+            "title": "김블루를 보고 방송을 시작한 SOOP 인기버튜버 ( 코렛트님 질투하지 마세요ㅋㅋㅋ )",
+            "channel_name": "악동 김블루",
+            "category": "Gaming",
+            "duration": "13:40",
+            "view_count": "208454",
+            "thumbnail_url": "https://i.ytimg.com/vi/l6DyhbyPNpY/hqdefault.jpg"
+        },
+        {
+            "video_id": "9xq3BYnGPwo",
+            "title": "JENNIE - like JENNIE (Extended Remix - Official Audio)",
+            "channel_name": "JennieRubyJaneVEVO",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "550098",
+            "thumbnail_url": "https://i.ytimg.com/vi/9xq3BYnGPwo/hqdefault.jpg"
         },
         {
             "video_id": "LZY81H-SDgo",
@@ -205,8 +205,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "23:25",
-            "view_count": "146457",
+            "view_count": "150707",
             "thumbnail_url": "https://i.ytimg.com/vi/LZY81H-SDgo/hqdefault.jpg"
+        },
+        {
+            "video_id": "ou4WJs80B1Y",
+            "title": "The Visitor",
+            "channel_name": "SIENNA SPIRO - Topic",
+            "category": "Music",
+            "duration": "3:49",
+            "view_count": "606465",
+            "thumbnail_url": "https://i.ytimg.com/vi/ou4WJs80B1Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "bPKY2xbtKOg",
+            "title": "이제는 잠자면서 강화를 할 수 있습니다. 테섭체험.ㄷㄷㄷㄷ [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "49:57",
+            "view_count": "156316",
+            "thumbnail_url": "https://i.ytimg.com/vi/bPKY2xbtKOg/hqdefault.jpg"
         },
         {
             "video_id": "F4WyHE88Zuk",
@@ -214,7 +232,7 @@
             "channel_name": "&TEAM - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "160786",
+            "view_count": "163348",
             "thumbnail_url": "https://i.ytimg.com/vi/F4WyHE88Zuk/hqdefault.jpg"
         },
         {
@@ -223,53 +241,17 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:48",
-            "view_count": "167691",
+            "view_count": "171870",
             "thumbnail_url": "https://i.ytimg.com/vi/ucWM1r8dMtk/hqdefault.jpg"
         },
         {
-            "video_id": "CgxOQjYBmss",
-            "title": "ダダダダダル / 雨良 feat.初音ミクVS重音テト(Dadadadadaru / Amala ft.Miku VS Teto)",
-            "channel_name": "雨良 Amala",
+            "video_id": "Yes5i7n4Cs0",
+            "title": "ONSEEON(온시온) - 37.5도 (feat. CHAD BURGER, Vahn)",
+            "channel_name": " 온시온 ONSEEON",
             "category": "Music",
-            "duration": "2:39",
-            "view_count": "145212",
-            "thumbnail_url": "https://i.ytimg.com/vi/CgxOQjYBmss/hqdefault.jpg"
-        },
-        {
-            "video_id": "qp6dZCAGQCk",
-            "title": "들어올려진 남자",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "20:22",
-            "view_count": "480562",
-            "thumbnail_url": "https://i.ytimg.com/vi/qp6dZCAGQCk/hqdefault.jpg"
-        },
-        {
-            "video_id": "rkpY81VFckg",
-            "title": "Trees",
-            "channel_name": "Dept - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "135169",
-            "thumbnail_url": "https://i.ytimg.com/vi/rkpY81VFckg/hqdefault.jpg"
-        },
-        {
-            "video_id": "bPKY2xbtKOg",
-            "title": "이제는 잠자면서 강화를 할 수 있습니다. 테섭체험.ㄷㄷㄷㄷ [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "49:57",
-            "view_count": "151990",
-            "thumbnail_url": "https://i.ytimg.com/vi/bPKY2xbtKOg/hqdefault.jpg"
-        },
-        {
-            "video_id": "lJOpjWnSnqg",
-            "title": "All I Did Was Dream of You",
-            "channel_name": "Beabadoobee - Topic",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "253667",
-            "thumbnail_url": "https://i.ytimg.com/vi/lJOpjWnSnqg/hqdefault.jpg"
+            "duration": "3:12",
+            "view_count": "17054",
+            "thumbnail_url": "https://i.ytimg.com/vi/Yes5i7n4Cs0/hqdefault.jpg"
         },
         {
             "video_id": "2bMGODGDhxM",
@@ -277,17 +259,35 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "7:06:42",
-            "view_count": "144242",
+            "view_count": "145556",
             "thumbnail_url": "https://i.ytimg.com/vi/2bMGODGDhxM/hqdefault.jpg"
         },
         {
-            "video_id": "ScdULYbnjOs",
-            "title": "호시 (HOSHI) '아기자기' Official MV",
-            "channel_name": "HYBE LABELS",
+            "video_id": "rkpY81VFckg",
+            "title": "Trees",
+            "channel_name": "Dept - Topic",
             "category": "Music",
-            "duration": "2:31",
-            "view_count": "342493",
-            "thumbnail_url": "https://i.ytimg.com/vi/ScdULYbnjOs/hqdefault.jpg"
+            "duration": "3:06",
+            "view_count": "136612",
+            "thumbnail_url": "https://i.ytimg.com/vi/rkpY81VFckg/hqdefault.jpg"
+        },
+        {
+            "video_id": "qp6dZCAGQCk",
+            "title": "들어올려진 남자",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "20:22",
+            "view_count": "483228",
+            "thumbnail_url": "https://i.ytimg.com/vi/qp6dZCAGQCk/hqdefault.jpg"
+        },
+        {
+            "video_id": "lJOpjWnSnqg",
+            "title": "All I Did Was Dream of You",
+            "channel_name": "Beabadoobee - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "254841",
+            "thumbnail_url": "https://i.ytimg.com/vi/lJOpjWnSnqg/hqdefault.jpg"
         },
         {
             "video_id": "zRO_KoEPX80",
@@ -295,17 +295,8 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "53:32",
-            "view_count": "129236",
+            "view_count": "131747",
             "thumbnail_url": "https://i.ytimg.com/vi/zRO_KoEPX80/hqdefault.jpg"
-        },
-        {
-            "video_id": "9moTCYPmBMY",
-            "title": "UNIQUE",
-            "channel_name": "P1Harmony - Topic",
-            "category": "Music",
-            "duration": "2:52",
-            "view_count": "216143",
-            "thumbnail_url": "https://i.ytimg.com/vi/9moTCYPmBMY/hqdefault.jpg"
         },
         {
             "video_id": "C36kflHNx44",
@@ -313,53 +304,8 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "21:09",
-            "view_count": "129225",
+            "view_count": "131723",
             "thumbnail_url": "https://i.ytimg.com/vi/C36kflHNx44/hqdefault.jpg"
-        },
-        {
-            "video_id": "98q6Y8tuvhI",
-            "title": "개고퀄... 동숲에 고인물이 모여 한국 영화관의 정석을 만들었습니다",
-            "channel_name": "아오니 AONI",
-            "category": "Gaming",
-            "duration": "15:19",
-            "view_count": "141222",
-            "thumbnail_url": "https://i.ytimg.com/vi/98q6Y8tuvhI/hqdefault.jpg"
-        },
-        {
-            "video_id": "AZLdegxBILE",
-            "title": "라이벌 운영자도 모르는 비밀공간 찾았습니다",
-            "channel_name": "마주 - 로블록스",
-            "category": "Gaming",
-            "duration": "17:27",
-            "view_count": "175608",
-            "thumbnail_url": "https://i.ytimg.com/vi/AZLdegxBILE/hqdefault.jpg"
-        },
-        {
-            "video_id": "r_uXVHkZhag",
-            "title": "불독1위 VS 파이터1위 카니발",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "15:11",
-            "view_count": "156553",
-            "thumbnail_url": "https://i.ytimg.com/vi/r_uXVHkZhag/hqdefault.jpg"
-        },
-        {
-            "video_id": "BWtVwHyzVEY",
-            "title": "기계 세상에서 살아남기",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "3:21:07",
-            "view_count": "293010",
-            "thumbnail_url": "https://i.ytimg.com/vi/BWtVwHyzVEY/hqdefault.jpg"
-        },
-        {
-            "video_id": "szR0KUKFT5Q",
-            "title": "시간 초과로 패배 직전 누구도 예상못한 찡의 도박 플레이ㅋㅋㅋㅋㅋㅋㅋㅋ [PRX vs NRG]",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "1:18:23",
-            "view_count": "86514",
-            "thumbnail_url": "https://i.ytimg.com/vi/szR0KUKFT5Q/hqdefault.jpg"
         },
         {
             "video_id": "ImlOJxBwc5U",
@@ -367,8 +313,53 @@
             "channel_name": "블루맥스",
             "category": "Gaming",
             "duration": "23:04",
-            "view_count": "143077",
+            "view_count": "162816",
             "thumbnail_url": "https://i.ytimg.com/vi/ImlOJxBwc5U/hqdefault.jpg"
+        },
+        {
+            "video_id": "98q6Y8tuvhI",
+            "title": "개고퀄... 동숲에 고인물이 모여 한국 영화관의 정석을 만들었습니다",
+            "channel_name": "아오니 AONI",
+            "category": "Gaming",
+            "duration": "15:19",
+            "view_count": "145165",
+            "thumbnail_url": "https://i.ytimg.com/vi/98q6Y8tuvhI/hqdefault.jpg"
+        },
+        {
+            "video_id": "szR0KUKFT5Q",
+            "title": "시간 초과로 패배 직전 누구도 예상못한 찡의 도박 플레이ㅋㅋㅋㅋㅋㅋㅋㅋ [PRX vs NRG]",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "1:18:23",
+            "view_count": "91093",
+            "thumbnail_url": "https://i.ytimg.com/vi/szR0KUKFT5Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "AZLdegxBILE",
+            "title": "라이벌 운영자도 모르는 비밀공간 찾았습니다",
+            "channel_name": "마주 - 로블록스",
+            "category": "Gaming",
+            "duration": "17:27",
+            "view_count": "178264",
+            "thumbnail_url": "https://i.ytimg.com/vi/AZLdegxBILE/hqdefault.jpg"
+        },
+        {
+            "video_id": "BWtVwHyzVEY",
+            "title": "기계 세상에서 살아남기",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "3:21:07",
+            "view_count": "299829",
+            "thumbnail_url": "https://i.ytimg.com/vi/BWtVwHyzVEY/hqdefault.jpg"
+        },
+        {
+            "video_id": "r_uXVHkZhag",
+            "title": "불독1위 VS 파이터1위 카니발",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "15:11",
+            "view_count": "158786",
+            "thumbnail_url": "https://i.ytimg.com/vi/r_uXVHkZhag/hqdefault.jpg"
         },
         {
             "video_id": "YRhBHr5Z-Dk",
@@ -376,8 +367,17 @@
             "channel_name": "메이플스토리맑음",
             "category": "Gaming",
             "duration": "12:48",
-            "view_count": "98372",
+            "view_count": "100503",
             "thumbnail_url": "https://i.ytimg.com/vi/YRhBHr5Z-Dk/hqdefault.jpg"
+        },
+        {
+            "video_id": "STaHaiKEAPs",
+            "title": "본캐 6년만에 새팀 짭니다 40경 제대로 갑니다",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "12:52",
+            "view_count": "109056",
+            "thumbnail_url": "https://i.ytimg.com/vi/STaHaiKEAPs/hqdefault.jpg"
         }
     ]
 }
