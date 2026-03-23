@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-24 01:05:13",
+    "scraped_time": "2026-03-24 02:52:45",
     "videos": [
         {
             "video_id": "b4iVv91Z6lY",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "56461759",
+            "view_count": "56979301",
             "thumbnail_url": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "20:29",
-            "view_count": "411017",
+            "view_count": "413243",
             "thumbnail_url": "https://i.ytimg.com/vi/g2JyVfUHQ-0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "4:59:16",
-            "view_count": "1049561",
+            "view_count": "1050327",
             "thumbnail_url": "https://i.ytimg.com/vi/SsQMbxUULv4/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "BTS - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "14050891",
+            "view_count": "14316668",
             "thumbnail_url": "https://i.ytimg.com/vi/RBaSiVjtKR4/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "2:33",
-            "view_count": "3655659",
+            "view_count": "3689814",
             "thumbnail_url": "https://i.ytimg.com/vi/1DgO-xiLfss/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:55",
-            "view_count": "392357",
+            "view_count": "405511",
             "thumbnail_url": "https://i.ytimg.com/vi/28dR-1YSLB8/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "890471",
+            "view_count": "1195663",
             "thumbnail_url": "https://i.ytimg.com/vi/x0FwbTiD3iA/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "20:18",
-            "view_count": "313457",
+            "view_count": "321949",
             "thumbnail_url": "https://i.ytimg.com/vi/g-mHv5-2818/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "OSUN - Topic",
             "category": "Music",
             "duration": "5:02",
-            "view_count": "799072",
+            "view_count": "809703",
             "thumbnail_url": "https://i.ytimg.com/vi/Zttst60ceLI/hqdefault.jpg"
-        },
-        {
-            "video_id": "zTKbrtsmBOI",
-            "title": "가장 필요한 순간 솔랭에서 만난 특급 구조대 칸..",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "28:49",
-            "view_count": "263865",
-            "thumbnail_url": "https://i.ytimg.com/vi/zTKbrtsmBOI/hqdefault.jpg"
-        },
-        {
-            "video_id": "8rMARLBfd3U",
-            "title": "KISS KISS KISS (Prod. by Hukky Shibaseki)",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "869576",
-            "thumbnail_url": "https://i.ytimg.com/vi/8rMARLBfd3U/hqdefault.jpg"
         },
         {
             "video_id": "2hjnSchZz9o",
@@ -106,7 +88,7 @@
             "channel_name": "스트리머 사또 live-streamer satto",
             "category": "Gaming",
             "duration": "3:54:39",
-            "view_count": "106339",
+            "view_count": "109029",
             "thumbnail_url": "https://i.ytimg.com/vi/2hjnSchZz9o/hqdefault.jpg"
         },
         {
@@ -115,8 +97,26 @@
             "channel_name": "LOUIS of LNGSHOT - Topic",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "58412",
+            "view_count": "74944",
             "thumbnail_url": "https://i.ytimg.com/vi/HalheGAp29s/hqdefault.jpg"
+        },
+        {
+            "video_id": "zTKbrtsmBOI",
+            "title": "가장 필요한 순간 솔랭에서 만난 특급 구조대 칸..",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "28:49",
+            "view_count": "271400",
+            "thumbnail_url": "https://i.ytimg.com/vi/zTKbrtsmBOI/hqdefault.jpg"
+        },
+        {
+            "video_id": "8rMARLBfd3U",
+            "title": "KISS KISS KISS (Prod. by Hukky Shibaseki)",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "882663",
+            "thumbnail_url": "https://i.ytimg.com/vi/8rMARLBfd3U/hqdefault.jpg"
         },
         {
             "video_id": "mpQ5-EHBHtU",
@@ -124,7 +124,7 @@
             "channel_name": "메이플스토리",
             "category": "Gaming",
             "duration": "20:13",
-            "view_count": "361818",
+            "view_count": "387391",
             "thumbnail_url": "https://i.ytimg.com/vi/mpQ5-EHBHtU/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트) - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "59593",
+            "view_count": "61516",
             "thumbnail_url": "https://i.ytimg.com/vi/GK4miplbOjY/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "5:58:13",
-            "view_count": "224812",
+            "view_count": "226778",
             "thumbnail_url": "https://i.ytimg.com/vi/-rEoaIr8p8c/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "SEOUL MUSIC / 서울뮤직",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "42868",
+            "view_count": "44687",
             "thumbnail_url": "https://i.ytimg.com/vi/Sx76p89zqk0/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "19:44",
-            "view_count": "124379",
+            "view_count": "143052",
             "thumbnail_url": "https://i.ytimg.com/vi/cSLpK7xkr0o/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "Lil Moshpit - Topic",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "403311",
+            "view_count": "408077",
             "thumbnail_url": "https://i.ytimg.com/vi/tW4xm5Ll6Hk/hqdefault.jpg"
         },
         {
@@ -178,8 +178,26 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "57:22",
-            "view_count": "96471",
+            "view_count": "107866",
             "thumbnail_url": "https://i.ytimg.com/vi/sClr8Kqc28Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "hl0pCMHttB4",
+            "title": "Late Night",
+            "channel_name": "노을Noel - Topic",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "46748",
+            "thumbnail_url": "https://i.ytimg.com/vi/hl0pCMHttB4/hqdefault.jpg"
+        },
+        {
+            "video_id": "152iWcWeaos",
+            "title": "고대의 슈리마를 뵙습니다",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "13:17",
+            "view_count": "108992",
+            "thumbnail_url": "https://i.ytimg.com/vi/152iWcWeaos/hqdefault.jpg"
         },
         {
             "video_id": "0D1dr5Pz6Zo",
@@ -187,7 +205,7 @@
             "channel_name": "HAON - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "333988",
+            "view_count": "337193",
             "thumbnail_url": "https://i.ytimg.com/vi/0D1dr5Pz6Zo/hqdefault.jpg"
         },
         {
@@ -196,7 +214,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "13:26",
-            "view_count": "206306",
+            "view_count": "208867",
             "thumbnail_url": "https://i.ytimg.com/vi/nvWCEvDihM8/hqdefault.jpg"
         },
         {
@@ -205,26 +223,8 @@
             "channel_name": "BTOB - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "115253",
+            "view_count": "117586",
             "thumbnail_url": "https://i.ytimg.com/vi/QAkOvOFy5xI/hqdefault.jpg"
-        },
-        {
-            "video_id": "152iWcWeaos",
-            "title": "고대의 슈리마를 뵙습니다",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "13:17",
-            "view_count": "84011",
-            "thumbnail_url": "https://i.ytimg.com/vi/152iWcWeaos/hqdefault.jpg"
-        },
-        {
-            "video_id": "6kx8t5Xfa0o",
-            "title": "새빛 - 겨울아이(Snowborn) Official Visualizer",
-            "channel_name": "새빛 (Saebit)",
-            "category": "Music",
-            "duration": "3:37",
-            "view_count": "77421",
-            "thumbnail_url": "https://i.ytimg.com/vi/6kx8t5Xfa0o/hqdefault.jpg"
         },
         {
             "video_id": "z2Eou5ZNblM",
@@ -232,26 +232,8 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:00",
-            "view_count": "24942",
+            "view_count": "33967",
             "thumbnail_url": "https://i.ytimg.com/vi/z2Eou5ZNblM/hqdefault.jpg"
-        },
-        {
-            "video_id": "2eNtRhy2efk",
-            "title": "Boo Thang",
-            "channel_name": "WOOJIN of LNGSHOT - Topic",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "28606",
-            "thumbnail_url": "https://i.ytimg.com/vi/2eNtRhy2efk/hqdefault.jpg"
-        },
-        {
-            "video_id": "PMiwlSK8AjY",
-            "title": "[리니지클래식] 16화. 고장난 남자..",
-            "channel_name": "불도그",
-            "category": "Gaming",
-            "duration": "13:37",
-            "view_count": "123432",
-            "thumbnail_url": "https://i.ytimg.com/vi/PMiwlSK8AjY/hqdefault.jpg"
         },
         {
             "video_id": "was7cPFLhuQ",
@@ -259,26 +241,8 @@
             "channel_name": "LNGSHOT - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "38670",
+            "view_count": "51479",
             "thumbnail_url": "https://i.ytimg.com/vi/was7cPFLhuQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "lnfolC4FTaw",
-            "title": "\"현재 폼 절정입니다\" 모두가 불가능하다던 500점을 기어코 또 뚫어버린 이상호..!",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "25:36",
-            "view_count": "177789",
-            "thumbnail_url": "https://i.ytimg.com/vi/lnfolC4FTaw/hqdefault.jpg"
-        },
-        {
-            "video_id": "KZMXPai_Gbs",
-            "title": "AEIOU (Prod. by GRAY)",
-            "channel_name": "MILLI - Topic",
-            "category": "Music",
-            "duration": "4:29",
-            "view_count": "284842",
-            "thumbnail_url": "https://i.ytimg.com/vi/KZMXPai_Gbs/hqdefault.jpg"
         },
         {
             "video_id": "knJW5Vzce2I",
@@ -286,35 +250,17 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "12:00",
-            "view_count": "122546",
+            "view_count": "128175",
             "thumbnail_url": "https://i.ytimg.com/vi/knJW5Vzce2I/hqdefault.jpg"
         },
         {
-            "video_id": "bhBMcnYxwdo",
-            "title": "Strangers",
-            "channel_name": "An Jae Woo - Topic",
+            "video_id": "2eNtRhy2efk",
+            "title": "Boo Thang",
+            "channel_name": "WOOJIN of LNGSHOT - Topic",
             "category": "Music",
-            "duration": "3:22",
-            "view_count": "75640",
-            "thumbnail_url": "https://i.ytimg.com/vi/bhBMcnYxwdo/hqdefault.jpg"
-        },
-        {
-            "video_id": "MRjWRi2SeKw",
-            "title": "요즘 발로판이 심각해지는 순간 또 만나버린 \"일환이 어뷰징 사건\", 도대체 나한테 왜 이러는 건데??????",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "22:32",
-            "view_count": "149090",
-            "thumbnail_url": "https://i.ytimg.com/vi/MRjWRi2SeKw/hqdefault.jpg"
-        },
-        {
-            "video_id": "fJeF4IMESqw",
-            "title": "Summer Eyes",
-            "channel_name": "OHYUL of LNGSHOT - Topic",
-            "category": "Music",
-            "duration": "3:21",
-            "view_count": "32067",
-            "thumbnail_url": "https://i.ytimg.com/vi/fJeF4IMESqw/hqdefault.jpg"
+            "duration": "3:03",
+            "view_count": "37413",
+            "thumbnail_url": "https://i.ytimg.com/vi/2eNtRhy2efk/hqdefault.jpg"
         },
         {
             "video_id": "K-OmvzQO8xk",
@@ -322,17 +268,71 @@
             "channel_name": "YouTube지누",
             "category": "Gaming",
             "duration": "24:49",
-            "view_count": "106642",
+            "view_count": "116678",
             "thumbnail_url": "https://i.ytimg.com/vi/K-OmvzQO8xk/hqdefault.jpg"
         },
         {
-            "video_id": "mQzB4c_9MrQ",
-            "title": "Lalala",
-            "channel_name": "Mighty Mouth - Topic",
+            "video_id": "6kx8t5Xfa0o",
+            "title": "새빛 - 겨울아이(Snowborn) Official Visualizer",
+            "channel_name": "새빛 (Saebit)",
             "category": "Music",
-            "duration": "3:48",
-            "view_count": "201973",
-            "thumbnail_url": "https://i.ytimg.com/vi/mQzB4c_9MrQ/hqdefault.jpg"
+            "duration": "3:37",
+            "view_count": "78986",
+            "thumbnail_url": "https://i.ytimg.com/vi/6kx8t5Xfa0o/hqdefault.jpg"
+        },
+        {
+            "video_id": "PMiwlSK8AjY",
+            "title": "[리니지클래식] 16화. 고장난 남자..",
+            "channel_name": "불도그",
+            "category": "Gaming",
+            "duration": "13:37",
+            "view_count": "126287",
+            "thumbnail_url": "https://i.ytimg.com/vi/PMiwlSK8AjY/hqdefault.jpg"
+        },
+        {
+            "video_id": "KZMXPai_Gbs",
+            "title": "AEIOU (Prod. by GRAY)",
+            "channel_name": "MILLI - Topic",
+            "category": "Music",
+            "duration": "4:29",
+            "view_count": "288107",
+            "thumbnail_url": "https://i.ytimg.com/vi/KZMXPai_Gbs/hqdefault.jpg"
+        },
+        {
+            "video_id": "lnfolC4FTaw",
+            "title": "\"현재 폼 절정입니다\" 모두가 불가능하다던 500점을 기어코 또 뚫어버린 이상호..!",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "25:36",
+            "view_count": "181808",
+            "thumbnail_url": "https://i.ytimg.com/vi/lnfolC4FTaw/hqdefault.jpg"
+        },
+        {
+            "video_id": "bhBMcnYxwdo",
+            "title": "Strangers",
+            "channel_name": "An Jae Woo - Topic",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "77045",
+            "thumbnail_url": "https://i.ytimg.com/vi/bhBMcnYxwdo/hqdefault.jpg"
+        },
+        {
+            "video_id": "QIfeZVIo9_Q",
+            "title": "네온도 따라잡는 신조합 \"믹클\" 더블 이속버프, 이러면 나 어떻게 잡을래???ㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "19:51",
+            "view_count": "96722",
+            "thumbnail_url": "https://i.ytimg.com/vi/QIfeZVIo9_Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "fJeF4IMESqw",
+            "title": "Summer Eyes",
+            "channel_name": "OHYUL of LNGSHOT - Topic",
+            "category": "Music",
+            "duration": "3:21",
+            "view_count": "43311",
+            "thumbnail_url": "https://i.ytimg.com/vi/fJeF4IMESqw/hqdefault.jpg"
         },
         {
             "video_id": "G7aGAqfqk5k",
@@ -340,8 +340,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "32:21",
-            "view_count": "186182",
+            "view_count": "192998",
             "thumbnail_url": "https://i.ytimg.com/vi/G7aGAqfqk5k/hqdefault.jpg"
+        },
+        {
+            "video_id": "mQzB4c_9MrQ",
+            "title": "Lalala",
+            "channel_name": "Mighty Mouth - Topic",
+            "category": "Music",
+            "duration": "3:48",
+            "view_count": "204200",
+            "thumbnail_url": "https://i.ytimg.com/vi/mQzB4c_9MrQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "e3GJqRU9ihU",
+            "title": "배그 AR 중 탄속이 가장 빠른 총",
+            "channel_name": "주키니TV",
+            "category": "Gaming",
+            "duration": "21:14",
+            "view_count": "75635",
+            "thumbnail_url": "https://i.ytimg.com/vi/e3GJqRU9ihU/hqdefault.jpg"
         },
         {
             "video_id": "UlM18pRWfxs",
@@ -349,26 +367,8 @@
             "channel_name": "Jung Seung Hwan - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "20818",
+            "view_count": "21518",
             "thumbnail_url": "https://i.ytimg.com/vi/UlM18pRWfxs/hqdefault.jpg"
-        },
-        {
-            "video_id": "y4y6W3FSkLo",
-            "title": "리니지 클래식 감옥시스템 경고 재제관련 개선이 필요합니다 A4용지 들기직전",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "4:02:12",
-            "view_count": "135754",
-            "thumbnail_url": "https://i.ytimg.com/vi/y4y6W3FSkLo/hqdefault.jpg"
-        },
-        {
-            "video_id": "-kwwqHwlO2M",
-            "title": "BLOOMING (feat. WOOZI)",
-            "channel_name": "Xion - Topic",
-            "category": "Music",
-            "duration": "2:54",
-            "view_count": "34895",
-            "thumbnail_url": "https://i.ytimg.com/vi/-kwwqHwlO2M/hqdefault.jpg"
         },
         {
             "video_id": "vh52UFWgdQ0",
@@ -376,7 +376,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "32:51",
-            "view_count": "159323",
+            "view_count": "162850",
             "thumbnail_url": "https://i.ytimg.com/vi/vh52UFWgdQ0/hqdefault.jpg"
         }
     ]
