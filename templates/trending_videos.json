@@ -1,14 +1,14 @@
 {
-    "scraped_time": "2026-03-29 14:13:28",
+    "scraped_time": "2026-03-29 16:08:06",
     "videos": [
         {
-            "video_id": "wYERwcjPczc",
-            "title": "ON to the next (Prod. by Crush, ZICO)",
-            "channel_name": "HAON - Topic",
+            "video_id": "afHuuTrFBwc",
+            "title": "PAJAMA (Prod. by ZICO, Crush)",
+            "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "4:34",
-            "view_count": "441764",
-            "thumbnail_url": "https://i.ytimg.com/vi/wYERwcjPczc/hqdefault.jpg"
+            "duration": "4:18",
+            "view_count": "383717",
+            "thumbnail_url": "https://i.ytimg.com/vi/afHuuTrFBwc/hqdefault.jpg"
         },
         {
             "video_id": "Avooz2bcM1Y",
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:08",
-            "view_count": "76282",
+            "view_count": "78011",
             "thumbnail_url": "https://i.ytimg.com/vi/Avooz2bcM1Y/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "8:42:37",
-            "view_count": "303666",
+            "view_count": "306960",
             "thumbnail_url": "https://i.ytimg.com/vi/UIrNoyNdPBg/hqdefault.jpg"
         },
         {
-            "video_id": "afHuuTrFBwc",
-            "title": "PAJAMA (Prod. by ZICO, Crush)",
-            "channel_name": "Release - Topic",
+            "video_id": "wYERwcjPczc",
+            "title": "ON to the next (Prod. by Crush, ZICO)",
+            "channel_name": "HAON - Topic",
             "category": "Music",
-            "duration": "4:18",
-            "view_count": "362213",
-            "thumbnail_url": "https://i.ytimg.com/vi/afHuuTrFBwc/hqdefault.jpg"
+            "duration": "4:34",
+            "view_count": "464067",
+            "thumbnail_url": "https://i.ytimg.com/vi/wYERwcjPczc/hqdefault.jpg"
         },
         {
             "video_id": "NpBf4E5WR2g",
@@ -43,7 +43,7 @@
             "channel_name": "마리와곰",
             "category": "Film & Animation",
             "duration": "2:10",
-            "view_count": "437393",
+            "view_count": "441010",
             "thumbnail_url": "https://i.ytimg.com/vi/NpBf4E5WR2g/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "27:24",
-            "view_count": "200031",
+            "view_count": "208508",
             "thumbnail_url": "https://i.ytimg.com/vi/h53kGdyj--A/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "nowimyoung - Topic",
             "category": "Music",
             "duration": "4:44",
-            "view_count": "426126",
+            "view_count": "442787",
             "thumbnail_url": "https://i.ytimg.com/vi/MTrCWblImDQ/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "LOCUS Animation Studios",
             "category": "Film & Animation",
             "duration": "1:13",
-            "view_count": "127345",
+            "view_count": "130562",
             "thumbnail_url": "https://i.ytimg.com/vi/tVuDR6DTePc/hqdefault.jpg"
-        },
-        {
-            "video_id": "7E1LnJfODYI",
-            "title": "너무나도 달콤한 꿈을 꾸었습니다..[마크 하드코어 EP.19]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "43:21",
-            "view_count": "409656",
-            "thumbnail_url": "https://i.ytimg.com/vi/7E1LnJfODYI/hqdefault.jpg"
-        },
-        {
-            "video_id": "VSAx72oNyqM",
-            "title": "W.I.N. (Prod. by GRAY)",
-            "channel_name": "OSUN - Topic",
-            "category": "Music",
-            "duration": "5:07",
-            "view_count": "287115",
-            "thumbnail_url": "https://i.ytimg.com/vi/VSAx72oNyqM/hqdefault.jpg"
         },
         {
             "video_id": "iilCc2mndjM",
@@ -97,8 +79,26 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "18:29",
-            "view_count": "94199",
+            "view_count": "128705",
             "thumbnail_url": "https://i.ytimg.com/vi/iilCc2mndjM/hqdefault.jpg"
+        },
+        {
+            "video_id": "VSAx72oNyqM",
+            "title": "W.I.N. (Prod. by GRAY)",
+            "channel_name": "OSUN - Topic",
+            "category": "Music",
+            "duration": "5:07",
+            "view_count": "299209",
+            "thumbnail_url": "https://i.ytimg.com/vi/VSAx72oNyqM/hqdefault.jpg"
+        },
+        {
+            "video_id": "7E1LnJfODYI",
+            "title": "너무나도 달콤한 꿈을 꾸었습니다..[마크 하드코어 EP.19]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "43:21",
+            "view_count": "417209",
+            "thumbnail_url": "https://i.ytimg.com/vi/7E1LnJfODYI/hqdefault.jpg"
         },
         {
             "video_id": "qb20ctf6LoY",
@@ -106,7 +106,7 @@
             "channel_name": "ZENE THE ZILLA - Topic",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "266961",
+            "view_count": "278937",
             "thumbnail_url": "https://i.ytimg.com/vi/qb20ctf6LoY/hqdefault.jpg"
         },
         {
@@ -115,26 +115,8 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "26:53",
-            "view_count": "147413",
+            "view_count": "156337",
             "thumbnail_url": "https://i.ytimg.com/vi/wlvlyx9KnrY/hqdefault.jpg"
-        },
-        {
-            "video_id": "HttxcynVU48",
-            "title": "RUDE!",
-            "channel_name": "Hearts2Hearts - Topic",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "268836",
-            "thumbnail_url": "https://i.ytimg.com/vi/HttxcynVU48/hqdefault.jpg"
-        },
-        {
-            "video_id": "gF4qLcdB_FU",
-            "title": "미진이로 삼행시 해보겠습니다 : 독타입 하트골드【포켓몬 모든타입 깨기】#7",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "16:38",
-            "view_count": "165158",
-            "thumbnail_url": "https://i.ytimg.com/vi/gF4qLcdB_FU/hqdefault.jpg"
         },
         {
             "video_id": "Ztbv7ChTQRM",
@@ -142,8 +124,26 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "1611167",
+            "view_count": "1738481",
             "thumbnail_url": "https://i.ytimg.com/vi/Ztbv7ChTQRM/hqdefault.jpg"
+        },
+        {
+            "video_id": "gF4qLcdB_FU",
+            "title": "미진이로 삼행시 해보겠습니다 : 독타입 하트골드【포켓몬 모든타입 깨기】#7",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "16:38",
+            "view_count": "172664",
+            "thumbnail_url": "https://i.ytimg.com/vi/gF4qLcdB_FU/hqdefault.jpg"
+        },
+        {
+            "video_id": "HttxcynVU48",
+            "title": "RUDE!",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "287769",
+            "thumbnail_url": "https://i.ytimg.com/vi/HttxcynVU48/hqdefault.jpg"
         },
         {
             "video_id": "BxqYz11IwWM",
@@ -151,7 +151,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "24:55",
-            "view_count": "176800",
+            "view_count": "188205",
             "thumbnail_url": "https://i.ytimg.com/vi/BxqYz11IwWM/hqdefault.jpg"
         },
         {
@@ -160,62 +160,8 @@
             "channel_name": "DOK2 - Topic",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "90688",
+            "view_count": "101151",
             "thumbnail_url": "https://i.ytimg.com/vi/vYCZ4xYvsac/hqdefault.jpg"
-        },
-        {
-            "video_id": "BlUpeNEgqe4",
-            "title": "확정복구 무서운 기능이네 ....여러분 조심하세요 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "11:02",
-            "view_count": "144410",
-            "thumbnail_url": "https://i.ytimg.com/vi/BlUpeNEgqe4/hqdefault.jpg"
-        },
-        {
-            "video_id": "p9zRtZUhd1k",
-            "title": "NEVER (Prod. by GRAY)",
-            "channel_name": "MILLI - Topic",
-            "category": "Music",
-            "duration": "4:44",
-            "view_count": "181303",
-            "thumbnail_url": "https://i.ytimg.com/vi/p9zRtZUhd1k/hqdefault.jpg"
-        },
-        {
-            "video_id": "aN9FeYw6PhE",
-            "title": "웃통 까고 홀란 뜨고 맨시티 GET IT",
-            "channel_name": "유봉훈",
-            "category": "Gaming",
-            "duration": "14:37",
-            "view_count": "130698",
-            "thumbnail_url": "https://i.ytimg.com/vi/aN9FeYw6PhE/hqdefault.jpg"
-        },
-        {
-            "video_id": "Kukbxe1W-K4",
-            "title": "[MV] 새빛 - 달빛잔상 (Official Music Video)",
-            "channel_name": "새빛 (Saebit)",
-            "category": "Music",
-            "duration": "2:47",
-            "view_count": "88314",
-            "thumbnail_url": "https://i.ytimg.com/vi/Kukbxe1W-K4/hqdefault.jpg"
-        },
-        {
-            "video_id": "bxAfWfEm-qc",
-            "title": "오버워치2 맛보기",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "21:37",
-            "view_count": "371564",
-            "thumbnail_url": "https://i.ytimg.com/vi/bxAfWfEm-qc/hqdefault.jpg"
-        },
-        {
-            "video_id": "unypqeWmyNI",
-            "title": "FATHER (feat. Travis Scott)",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "2:50",
-            "view_count": "592791",
-            "thumbnail_url": "https://i.ytimg.com/vi/unypqeWmyNI/hqdefault.jpg"
         },
         {
             "video_id": "tQGMAw4l0BM",
@@ -223,17 +169,53 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:23",
-            "view_count": "274179",
+            "view_count": "299109",
             "thumbnail_url": "https://i.ytimg.com/vi/tQGMAw4l0BM/hqdefault.jpg"
         },
         {
-            "video_id": "XpjIzY23xOM",
-            "title": "BAOW (Prod. by Lil Moshpit)",
-            "channel_name": "Tray B - Topic",
+            "video_id": "p9zRtZUhd1k",
+            "title": "NEVER (Prod. by GRAY)",
+            "channel_name": "MILLI - Topic",
             "category": "Music",
-            "duration": "4:03",
-            "view_count": "105534",
-            "thumbnail_url": "https://i.ytimg.com/vi/XpjIzY23xOM/hqdefault.jpg"
+            "duration": "4:44",
+            "view_count": "188837",
+            "thumbnail_url": "https://i.ytimg.com/vi/p9zRtZUhd1k/hqdefault.jpg"
+        },
+        {
+            "video_id": "BlUpeNEgqe4",
+            "title": "확정복구 무서운 기능이네 ....여러분 조심하세요 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "11:02",
+            "view_count": "151321",
+            "thumbnail_url": "https://i.ytimg.com/vi/BlUpeNEgqe4/hqdefault.jpg"
+        },
+        {
+            "video_id": "Kukbxe1W-K4",
+            "title": "[MV] 새빛 - 달빛잔상 (Official Music Video)",
+            "channel_name": "새빛 (Saebit)",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "92961",
+            "thumbnail_url": "https://i.ytimg.com/vi/Kukbxe1W-K4/hqdefault.jpg"
+        },
+        {
+            "video_id": "aN9FeYw6PhE",
+            "title": "웃통 까고 홀란 뜨고 맨시티 GET IT",
+            "channel_name": "유봉훈",
+            "category": "Gaming",
+            "duration": "14:37",
+            "view_count": "139779",
+            "thumbnail_url": "https://i.ytimg.com/vi/aN9FeYw6PhE/hqdefault.jpg"
+        },
+        {
+            "video_id": "unypqeWmyNI",
+            "title": "FATHER (feat. Travis Scott)",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "2:50",
+            "view_count": "613120",
+            "thumbnail_url": "https://i.ytimg.com/vi/unypqeWmyNI/hqdefault.jpg"
         },
         {
             "video_id": "15zlEMtcpYc",
@@ -241,8 +223,26 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:06",
-            "view_count": "131480",
+            "view_count": "155930",
             "thumbnail_url": "https://i.ytimg.com/vi/15zlEMtcpYc/hqdefault.jpg"
+        },
+        {
+            "video_id": "XpjIzY23xOM",
+            "title": "BAOW (Prod. by Lil Moshpit)",
+            "channel_name": "Tray B - Topic",
+            "category": "Music",
+            "duration": "4:03",
+            "view_count": "109746",
+            "thumbnail_url": "https://i.ytimg.com/vi/XpjIzY23xOM/hqdefault.jpg"
+        },
+        {
+            "video_id": "bxAfWfEm-qc",
+            "title": "오버워치2 맛보기",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "21:37",
+            "view_count": "378381",
+            "thumbnail_url": "https://i.ytimg.com/vi/bxAfWfEm-qc/hqdefault.jpg"
         },
         {
             "video_id": "XmXy-4oN5Lc",
@@ -250,17 +250,17 @@
             "channel_name": "MASON HOME - Topic",
             "category": "Music",
             "duration": "4:45",
-            "view_count": "87842",
+            "view_count": "91043",
             "thumbnail_url": "https://i.ytimg.com/vi/XmXy-4oN5Lc/hqdefault.jpg"
         },
         {
-            "video_id": "9ugGndwEsKw",
-            "title": "우리 이제 친구 아니지??",
-            "channel_name": "Official dopa",
+            "video_id": "7apwGrfYSzc",
+            "title": "리니지 클래식 / 총 지출 X억 돌파.. 그리고 미친 지존장비가 떠버리네? 오늘 미쳤다",
+            "channel_name": "빅보스",
             "category": "Gaming",
-            "duration": "25:01",
-            "view_count": "108304",
-            "thumbnail_url": "https://i.ytimg.com/vi/9ugGndwEsKw/hqdefault.jpg"
+            "duration": "11:05",
+            "view_count": "73939",
+            "thumbnail_url": "https://i.ytimg.com/vi/7apwGrfYSzc/hqdefault.jpg"
         },
         {
             "video_id": "U2beixNMeWA",
@@ -268,7 +268,7 @@
             "channel_name": "Kanye West",
             "category": "People & Blogs",
             "duration": "3:50",
-            "view_count": "759292",
+            "view_count": "823509",
             "thumbnail_url": "https://i.ytimg.com/vi/U2beixNMeWA/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "31:22",
-            "view_count": "162847",
+            "view_count": "184790",
             "thumbnail_url": "https://i.ytimg.com/vi/FbOTxDxLB1w/hqdefault.jpg"
         },
         {
@@ -286,17 +286,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "12667049",
+            "view_count": "12783815",
             "thumbnail_url": "https://i.ytimg.com/vi/h-Y97xErGL8/hqdefault.jpg"
         },
         {
-            "video_id": "9Y7QDgffkZQ",
-            "title": "히어로 vs 빌런 vs 다크히어로, 최강의 능력자는 누구?",
-            "channel_name": "잠뜰 TV",
+            "video_id": "9ugGndwEsKw",
+            "title": "우리 이제 친구 아니지??",
+            "channel_name": "Official dopa",
             "category": "Gaming",
-            "duration": "36:11",
-            "view_count": "107683",
-            "thumbnail_url": "https://i.ytimg.com/vi/9Y7QDgffkZQ/hqdefault.jpg"
+            "duration": "25:01",
+            "view_count": "114355",
+            "thumbnail_url": "https://i.ytimg.com/vi/9ugGndwEsKw/hqdefault.jpg"
         },
         {
             "video_id": "Hq3y7vgAY6U",
@@ -304,17 +304,17 @@
             "channel_name": "전유진TV",
             "category": "Entertainment",
             "duration": "2:53",
-            "view_count": "108761",
+            "view_count": "109994",
             "thumbnail_url": "https://i.ytimg.com/vi/Hq3y7vgAY6U/hqdefault.jpg"
         },
         {
-            "video_id": "9CC3rRlcS7g",
-            "title": "적혈로 간다고 하니 군주님의 반응(with 케이, 이문주)⚔️리니지 클래식",
-            "channel_name": "김팥순",
-            "category": "People & Blogs",
-            "duration": "14:15",
-            "view_count": "85062",
-            "thumbnail_url": "https://i.ytimg.com/vi/9CC3rRlcS7g/hqdefault.jpg"
+            "video_id": "p06aVqZ2DTg",
+            "title": "👮99밤으로 경찰과 도둑하는데 서로 배신한다고?! ㅋㅋ대유잼 난장판 경도99밤🚨",
+            "channel_name": "멜로우TV",
+            "category": "Gaming",
+            "duration": "22:36",
+            "view_count": "57705",
+            "thumbnail_url": "https://i.ytimg.com/vi/p06aVqZ2DTg/hqdefault.jpg"
         },
         {
             "video_id": "ODJ3zIsiMlk",
@@ -322,17 +322,17 @@
             "channel_name": "Kid Milli - Topic",
             "category": "Music",
             "duration": "2:36",
-            "view_count": "37022",
+            "view_count": "38532",
             "thumbnail_url": "https://i.ytimg.com/vi/ODJ3zIsiMlk/hqdefault.jpg"
         },
         {
-            "video_id": "21bLgOGOA68",
-            "title": "커뮤니티에서 난리났습니다 1티어 캐릭이 되어버린 호영ㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "채널 명예훈장",
+            "video_id": "9Y7QDgffkZQ",
+            "title": "히어로 vs 빌런 vs 다크히어로, 최강의 능력자는 누구?",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "16:34",
-            "view_count": "83018",
-            "thumbnail_url": "https://i.ytimg.com/vi/21bLgOGOA68/hqdefault.jpg"
+            "duration": "36:11",
+            "view_count": "113954",
+            "thumbnail_url": "https://i.ytimg.com/vi/9Y7QDgffkZQ/hqdefault.jpg"
         },
         {
             "video_id": "8Tyc79-M7Hg",
@@ -340,17 +340,17 @@
             "channel_name": "Baby DONT Cry - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "747114",
+            "view_count": "765663",
             "thumbnail_url": "https://i.ytimg.com/vi/8Tyc79-M7Hg/hqdefault.jpg"
         },
         {
-            "video_id": "xpiC8LOTnOs",
-            "title": "리니지 클래식 / 와 이거 개사기인데? 이거 얼마냐? 이거 띄웠더니 몸빵이 말이 안되네?",
-            "channel_name": "빅보스",
+            "video_id": "21bLgOGOA68",
+            "title": "커뮤니티에서 난리났습니다 1티어 캐릭이 되어버린 호영ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "채널 명예훈장",
             "category": "Gaming",
-            "duration": "10:01",
-            "view_count": "204113",
-            "thumbnail_url": "https://i.ytimg.com/vi/xpiC8LOTnOs/hqdefault.jpg"
+            "duration": "16:34",
+            "view_count": "90072",
+            "thumbnail_url": "https://i.ytimg.com/vi/21bLgOGOA68/hqdefault.jpg"
         },
         {
             "video_id": "sN2GuEBA4LE",
@@ -358,17 +358,17 @@
             "channel_name": "OuiOui (위위) - Topic",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "31673",
+            "view_count": "33259",
             "thumbnail_url": "https://i.ytimg.com/vi/sN2GuEBA4LE/hqdefault.jpg"
         },
         {
-            "video_id": "LkOI-sf6p9c",
-            "title": "\"역대급 물로켓 시즌\" 가짜 챌린저들 리신으로 참교육 갈게요",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "34:53",
-            "view_count": "197592",
-            "thumbnail_url": "https://i.ytimg.com/vi/LkOI-sf6p9c/hqdefault.jpg"
+            "video_id": "9CC3rRlcS7g",
+            "title": "적혈로 간다고 하니 군주님의 반응(with 케이, 이문주)⚔️리니지 클래식",
+            "channel_name": "김팥순",
+            "category": "People & Blogs",
+            "duration": "14:15",
+            "view_count": "87907",
+            "thumbnail_url": "https://i.ytimg.com/vi/9CC3rRlcS7g/hqdefault.jpg"
         },
         {
             "video_id": "eZiCkuXnTRQ",
@@ -376,7 +376,7 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "403087",
+            "view_count": "416087",
             "thumbnail_url": "https://i.ytimg.com/vi/eZiCkuXnTRQ/hqdefault.jpg"
         }
     ]
