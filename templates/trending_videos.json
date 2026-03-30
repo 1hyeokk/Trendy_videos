@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-03-31 04:13:57",
+    "scraped_time": "2026-03-31 05:50:30",
     "videos": [
         {
             "video_id": "Gofn_ULNd5Q",
@@ -7,7 +7,7 @@
             "channel_name": "한로로 HANRORO",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "255801",
+            "view_count": "261075",
             "thumbnail_url": "https://i.ytimg.com/vi/Gofn_ULNd5Q/hqdefault.jpg"
         },
         {
@@ -16,17 +16,17 @@
             "channel_name": "Fantasoner(판타소너)",
             "category": "Entertainment",
             "duration": "1:48",
-            "view_count": "142126",
+            "view_count": "144688",
             "thumbnail_url": "https://i.ytimg.com/vi/ZLWKduivLfo/hqdefault.jpg"
         },
         {
-            "video_id": "zWaKToJuSLg",
-            "title": "?)_+{",
-            "channel_name": "PAKA",
+            "video_id": "80vUo4KEXPM",
+            "title": "협곡의 박지성",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "28:57",
-            "view_count": "443082",
-            "thumbnail_url": "https://i.ytimg.com/vi/zWaKToJuSLg/hqdefault.jpg"
+            "duration": "21:36",
+            "view_count": "246504",
+            "thumbnail_url": "https://i.ytimg.com/vi/80vUo4KEXPM/hqdefault.jpg"
         },
         {
             "video_id": "yiPTOpGWaeM",
@@ -34,7 +34,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "995675",
+            "view_count": "1011259",
             "thumbnail_url": "https://i.ytimg.com/vi/yiPTOpGWaeM/hqdefault.jpg"
         },
         {
@@ -43,17 +43,17 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:02",
-            "view_count": "35331",
+            "view_count": "36086",
             "thumbnail_url": "https://i.ytimg.com/vi/9kqEsCAO66U/hqdefault.jpg"
         },
         {
-            "video_id": "80vUo4KEXPM",
-            "title": "협곡의 박지성",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "zWaKToJuSLg",
+            "title": "?)_+{",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "21:36",
-            "view_count": "222389",
-            "thumbnail_url": "https://i.ytimg.com/vi/80vUo4KEXPM/hqdefault.jpg"
+            "duration": "28:57",
+            "view_count": "445936",
+            "thumbnail_url": "https://i.ytimg.com/vi/zWaKToJuSLg/hqdefault.jpg"
         },
         {
             "video_id": "Fe09I7Ru-e8",
@@ -61,7 +61,7 @@
             "channel_name": "Wonpil (DAY6) - Topic",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "62905",
+            "view_count": "67240",
             "thumbnail_url": "https://i.ytimg.com/vi/Fe09I7Ru-e8/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:51",
-            "view_count": "132704",
+            "view_count": "137685",
             "thumbnail_url": "https://i.ytimg.com/vi/hkQyp7V3D1k/hqdefault.jpg"
-        },
-        {
-            "video_id": "rz-nSeQvcXg",
-            "title": "인.간.시.대.의.끝.이.도.래.했.다",
-            "channel_name": "승상싱",
-            "category": "Gaming",
-            "duration": "12:46",
-            "view_count": "482287",
-            "thumbnail_url": "https://i.ytimg.com/vi/rz-nSeQvcXg/hqdefault.jpg"
-        },
-        {
-            "video_id": "x7wLlK9MMN4",
-            "title": "IRENE 아이린 'Biggest Fan' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "2:56",
-            "view_count": "578405",
-            "thumbnail_url": "https://i.ytimg.com/vi/x7wLlK9MMN4/hqdefault.jpg"
         },
         {
             "video_id": "89XoINvxX8w",
@@ -97,8 +79,26 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "9:15",
-            "view_count": "203371",
+            "view_count": "209984",
             "thumbnail_url": "https://i.ytimg.com/vi/89XoINvxX8w/hqdefault.jpg"
+        },
+        {
+            "video_id": "x7wLlK9MMN4",
+            "title": "IRENE 아이린 'Biggest Fan' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "2:56",
+            "view_count": "618982",
+            "thumbnail_url": "https://i.ytimg.com/vi/x7wLlK9MMN4/hqdefault.jpg"
+        },
+        {
+            "video_id": "rz-nSeQvcXg",
+            "title": "인.간.시.대.의.끝.이.도.래.했.다",
+            "channel_name": "승상싱",
+            "category": "Gaming",
+            "duration": "12:46",
+            "view_count": "484890",
+            "thumbnail_url": "https://i.ytimg.com/vi/rz-nSeQvcXg/hqdefault.jpg"
         },
         {
             "video_id": "BrtO8qRlNpc",
@@ -106,7 +106,7 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "2:17",
-            "view_count": "326330",
+            "view_count": "328521",
             "thumbnail_url": "https://i.ytimg.com/vi/BrtO8qRlNpc/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "8:54",
-            "view_count": "149279",
+            "view_count": "150798",
             "thumbnail_url": "https://i.ytimg.com/vi/Y2EuO0i0EZk/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "653746",
+            "view_count": "655706",
             "thumbnail_url": "https://i.ytimg.com/vi/afHuuTrFBwc/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "17:22",
-            "view_count": "88260",
+            "view_count": "94119",
             "thumbnail_url": "https://i.ytimg.com/vi/vnyJfObJ-zM/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "HAON - Topic",
             "category": "Music",
             "duration": "4:34",
-            "view_count": "745256",
+            "view_count": "747168",
             "thumbnail_url": "https://i.ytimg.com/vi/wYERwcjPczc/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "1:14:39",
-            "view_count": "104457",
+            "view_count": "108084",
             "thumbnail_url": "https://i.ytimg.com/vi/lDtEyraQO30/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "nowimyoung - Topic",
             "category": "Music",
             "duration": "4:44",
-            "view_count": "660954",
+            "view_count": "662394",
             "thumbnail_url": "https://i.ytimg.com/vi/MTrCWblImDQ/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "18:54",
-            "view_count": "251226",
+            "view_count": "252097",
             "thumbnail_url": "https://i.ytimg.com/vi/hj3ZG22_wqw/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "3094314",
+            "view_count": "3119890",
             "thumbnail_url": "https://i.ytimg.com/vi/Ztbv7ChTQRM/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "29:52",
-            "view_count": "179847",
+            "view_count": "180541",
             "thumbnail_url": "https://i.ytimg.com/vi/D02l09ZBTdo/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "DOK2 - Topic",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "222981",
+            "view_count": "223814",
             "thumbnail_url": "https://i.ytimg.com/vi/vYCZ4xYvsac/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
             "duration": "22:21",
-            "view_count": "289175",
+            "view_count": "291878",
             "thumbnail_url": "https://i.ytimg.com/vi/nHCVtlMg9RY/hqdefault.jpg"
         },
         {
@@ -214,26 +214,8 @@
             "channel_name": "OSUN - Topic",
             "category": "Music",
             "duration": "5:07",
-            "view_count": "454954",
+            "view_count": "456169",
             "thumbnail_url": "https://i.ytimg.com/vi/VSAx72oNyqM/hqdefault.jpg"
-        },
-        {
-            "video_id": "0YrUUbsXstw",
-            "title": "정신 나갈 것 같아 ≪여동생 운전 가르치는 게임≫",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "18:34",
-            "view_count": "306129",
-            "thumbnail_url": "https://i.ytimg.com/vi/0YrUUbsXstw/hqdefault.jpg"
-        },
-        {
-            "video_id": "HttxcynVU48",
-            "title": "RUDE!",
-            "channel_name": "Hearts2Hearts - Topic",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "593383",
-            "thumbnail_url": "https://i.ytimg.com/vi/HttxcynVU48/hqdefault.jpg"
         },
         {
             "video_id": "F_V96ZaKnew",
@@ -241,8 +223,26 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:00",
-            "view_count": "62804",
+            "view_count": "64454",
             "thumbnail_url": "https://i.ytimg.com/vi/F_V96ZaKnew/hqdefault.jpg"
+        },
+        {
+            "video_id": "HttxcynVU48",
+            "title": "RUDE!",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "599399",
+            "thumbnail_url": "https://i.ytimg.com/vi/HttxcynVU48/hqdefault.jpg"
+        },
+        {
+            "video_id": "0YrUUbsXstw",
+            "title": "정신 나갈 것 같아 ≪여동생 운전 가르치는 게임≫",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "18:34",
+            "view_count": "307384",
+            "thumbnail_url": "https://i.ytimg.com/vi/0YrUUbsXstw/hqdefault.jpg"
         },
         {
             "video_id": "qb20ctf6LoY",
@@ -250,26 +250,8 @@
             "channel_name": "ZENE THE ZILLA - Topic",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "433436",
+            "view_count": "434566",
             "thumbnail_url": "https://i.ytimg.com/vi/qb20ctf6LoY/hqdefault.jpg"
-        },
-        {
-            "video_id": "yU3e0D1d-u8",
-            "title": "[원재]리니지클래식 3.30 데포로쥬 월요일 출근  \"턱\" 더케이 天堂W 리니지M 리니지W 리니지클래식 리니지",
-            "channel_name": "원재TV",
-            "category": "Gaming",
-            "duration": "11:47:10",
-            "view_count": "97763",
-            "thumbnail_url": "https://i.ytimg.com/vi/yU3e0D1d-u8/hqdefault.jpg"
-        },
-        {
-            "video_id": "FE_98URWOUY",
-            "title": "WONPIL - Toxic Love (Official Audio)",
-            "channel_name": "DAY6",
-            "category": "People & Blogs",
-            "duration": "2:43",
-            "view_count": "22631",
-            "thumbnail_url": "https://i.ytimg.com/vi/FE_98URWOUY/hqdefault.jpg"
         },
         {
             "video_id": "sEFervITEXk",
@@ -277,8 +259,26 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "13:06",
-            "view_count": "92590",
+            "view_count": "96302",
             "thumbnail_url": "https://i.ytimg.com/vi/sEFervITEXk/hqdefault.jpg"
+        },
+        {
+            "video_id": "FE_98URWOUY",
+            "title": "WONPIL - Toxic Love (Official Audio)",
+            "channel_name": "DAY6",
+            "category": "People & Blogs",
+            "duration": "2:43",
+            "view_count": "23263",
+            "thumbnail_url": "https://i.ytimg.com/vi/FE_98URWOUY/hqdefault.jpg"
+        },
+        {
+            "video_id": "yU3e0D1d-u8",
+            "title": "[원재]리니지클래식 3.30 데포로쥬 월요일 출근  \"턱\" 더케이 天堂W 리니지M 리니지W 리니지클래식 리니지",
+            "channel_name": "원재TV",
+            "category": "Gaming",
+            "duration": "11:47:10",
+            "view_count": "97854",
+            "thumbnail_url": "https://i.ytimg.com/vi/yU3e0D1d-u8/hqdefault.jpg"
         },
         {
             "video_id": "H5jm8uQ6Fso",
@@ -286,7 +286,7 @@
             "channel_name": "jisokuryClub - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "49373",
+            "view_count": "50018",
             "thumbnail_url": "https://i.ytimg.com/vi/H5jm8uQ6Fso/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "31:13",
-            "view_count": "146062",
+            "view_count": "147509",
             "thumbnail_url": "https://i.ytimg.com/vi/SwtqzjElh_s/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "OFFICIAL HIGE DANDISM - Topic",
             "category": "Music",
             "duration": "4:46",
-            "view_count": "150266",
+            "view_count": "152804",
             "thumbnail_url": "https://i.ytimg.com/vi/F_mS1f-oKa0/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "36:19",
-            "view_count": "71315",
+            "view_count": "73979",
             "thumbnail_url": "https://i.ytimg.com/vi/G9mMiIK6he8/hqdefault.jpg"
         },
         {
@@ -322,26 +322,8 @@
             "channel_name": "Kanye West - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "1069262",
+            "view_count": "1104955",
             "thumbnail_url": "https://i.ytimg.com/vi/unypqeWmyNI/hqdefault.jpg"
-        },
-        {
-            "video_id": "Qoy7i6ZNNyo",
-            "title": "리니지 클래식 뎅시세 왜이러냐? 9은장삽니다6셋삼 2부 로드나인 보탐",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "3:08:59",
-            "view_count": "151190",
-            "thumbnail_url": "https://i.ytimg.com/vi/Qoy7i6ZNNyo/hqdefault.jpg"
-        },
-        {
-            "video_id": "8xO_3PDG-as",
-            "title": "PARK HYO SHIN (박효신) - '戀人 (연인)'  [2019 LOVERS CONCERT Special Clip]",
-            "channel_name": "박효신 PARK HYO SHIN",
-            "category": "Music",
-            "duration": "6:34",
-            "view_count": "81233",
-            "thumbnail_url": "https://i.ytimg.com/vi/8xO_3PDG-as/hqdefault.jpg"
         },
         {
             "video_id": "x9JedLlUVRk",
@@ -349,17 +331,17 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "8:16",
-            "view_count": "74058",
+            "view_count": "76372",
             "thumbnail_url": "https://i.ytimg.com/vi/x9JedLlUVRk/hqdefault.jpg"
         },
         {
-            "video_id": "Kukbxe1W-K4",
-            "title": "[MV] 새빛 - 달빛잔상 (Official Music Video)",
-            "channel_name": "새빛 (Saebit)",
+            "video_id": "8xO_3PDG-as",
+            "title": "PARK HYO SHIN (박효신) - '戀人 (연인)'  [2019 LOVERS CONCERT Special Clip]",
+            "channel_name": "박효신 PARK HYO SHIN",
             "category": "Music",
-            "duration": "2:47",
-            "view_count": "146887",
-            "thumbnail_url": "https://i.ytimg.com/vi/Kukbxe1W-K4/hqdefault.jpg"
+            "duration": "6:34",
+            "view_count": "82189",
+            "thumbnail_url": "https://i.ytimg.com/vi/8xO_3PDG-as/hqdefault.jpg"
         },
         {
             "video_id": "wuny3bznUEA",
@@ -367,8 +349,26 @@
             "channel_name": "무릎의 철권TV TekkenKnee",
             "category": "Gaming",
             "duration": "33:32",
-            "view_count": "108378",
+            "view_count": "111225",
             "thumbnail_url": "https://i.ytimg.com/vi/wuny3bznUEA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Kukbxe1W-K4",
+            "title": "[MV] 새빛 - 달빛잔상 (Official Music Video)",
+            "channel_name": "새빛 (Saebit)",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "147506",
+            "thumbnail_url": "https://i.ytimg.com/vi/Kukbxe1W-K4/hqdefault.jpg"
+        },
+        {
+            "video_id": "5qxg6HCB4j8",
+            "title": "키작은 이무지, 통깡만 맞지않는 갓필드 궁극기 ㅋㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "하우카우",
+            "category": "Gaming",
+            "duration": "20:22",
+            "view_count": "56104",
+            "thumbnail_url": "https://i.ytimg.com/vi/5qxg6HCB4j8/hqdefault.jpg"
         },
         {
             "video_id": "p9zRtZUhd1k",
@@ -376,7 +376,7 @@
             "channel_name": "MILLI - Topic",
             "category": "Music",
             "duration": "4:44",
-            "view_count": "295010",
+            "view_count": "296288",
             "thumbnail_url": "https://i.ytimg.com/vi/p9zRtZUhd1k/hqdefault.jpg"
         }
     ]
