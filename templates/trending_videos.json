@@ -1,14 +1,14 @@
 {
-    "scraped_time": "2026-04-03 16:14:02",
+    "scraped_time": "2026-04-03 17:58:26",
     "videos": [
         {
-            "video_id": "_gyultVTesk",
-            "title": "BTS (방탄소년단) '2.0' Official MV",
-            "channel_name": "HYBE LABELS",
+            "video_id": "D54StAZFUrc",
+            "title": "AKMU - '소문의 낙원 (Paradise of Rumors)' M/V",
+            "channel_name": "AKMU",
             "category": "Music",
-            "duration": "3:55",
-            "view_count": "17906419",
-            "thumbnail_url": "https://i.ytimg.com/vi/_gyultVTesk/hqdefault.jpg"
+            "duration": "3:38",
+            "view_count": "959475",
+            "thumbnail_url": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg"
         },
         {
             "video_id": "uK09QeHT2g0",
@@ -16,35 +16,8 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "12:31",
-            "view_count": "143757",
+            "view_count": "150283",
             "thumbnail_url": "https://i.ytimg.com/vi/uK09QeHT2g0/hqdefault.jpg"
-        },
-        {
-            "video_id": "n_M8_8wVOM4",
-            "title": "오랜만에 탑 출격했다가 골드 이렐리아한테 1렙부터 CS 통제 당하고 오열하는 이상호..!",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "22:30",
-            "view_count": "177099",
-            "thumbnail_url": "https://i.ytimg.com/vi/n_M8_8wVOM4/hqdefault.jpg"
-        },
-        {
-            "video_id": "D54StAZFUrc",
-            "title": "AKMU - '소문의 낙원 (Paradise of Rumors)' M/V",
-            "channel_name": "AKMU",
-            "category": "Music",
-            "duration": "3:38",
-            "view_count": "839583",
-            "thumbnail_url": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg"
-        },
-        {
-            "video_id": "Wg5SBEPER-4",
-            "title": "\"캬.. 이러면 재밌지💥\" ≪슈퍼걸≫ 2차 예고편 분석 리뷰",
-            "channel_name": "기묘한 케이지",
-            "category": "Film & Animation",
-            "duration": "11:14",
-            "view_count": "48697",
-            "thumbnail_url": "https://i.ytimg.com/vi/Wg5SBEPER-4/hqdefault.jpg"
         },
         {
             "video_id": "taZl_NyreGI",
@@ -52,8 +25,35 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "33:49",
-            "view_count": "129151",
+            "view_count": "140816",
             "thumbnail_url": "https://i.ytimg.com/vi/taZl_NyreGI/hqdefault.jpg"
+        },
+        {
+            "video_id": "_gyultVTesk",
+            "title": "BTS (방탄소년단) '2.0' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:55",
+            "view_count": "18211282",
+            "thumbnail_url": "https://i.ytimg.com/vi/_gyultVTesk/hqdefault.jpg"
+        },
+        {
+            "video_id": "Wg5SBEPER-4",
+            "title": "\"캬.. 이러면 재밌지💥\" ≪슈퍼걸≫ 2차 예고편 분석 리뷰",
+            "channel_name": "기묘한 케이지",
+            "category": "Film & Animation",
+            "duration": "11:14",
+            "view_count": "51073",
+            "thumbnail_url": "https://i.ytimg.com/vi/Wg5SBEPER-4/hqdefault.jpg"
+        },
+        {
+            "video_id": "n_M8_8wVOM4",
+            "title": "오랜만에 탑 출격했다가 골드 이렐리아한테 1렙부터 CS 통제 당하고 오열하는 이상호..!",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "22:30",
+            "view_count": "183342",
+            "thumbnail_url": "https://i.ytimg.com/vi/n_M8_8wVOM4/hqdefault.jpg"
         },
         {
             "video_id": "PYpOJyl3Sbg",
@@ -61,7 +61,7 @@
             "channel_name": "HANRORO - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "207234",
+            "view_count": "228183",
             "thumbnail_url": "https://i.ytimg.com/vi/PYpOJyl3Sbg/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Warner Bros. Korea",
             "category": "Film & Animation",
             "duration": "2:53",
-            "view_count": "488919",
+            "view_count": "499064",
             "thumbnail_url": "https://i.ytimg.com/vi/WZlvbRUSMjo/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:14",
-            "view_count": "348234",
+            "view_count": "351384",
             "thumbnail_url": "https://i.ytimg.com/vi/WPVwoittibQ/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "3:08",
-            "view_count": "1921188",
+            "view_count": "1983936",
             "thumbnail_url": "https://i.ytimg.com/vi/K-F7906Jq9U/hqdefault.jpg"
         },
         {
@@ -97,44 +97,8 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:20",
-            "view_count": "409177",
+            "view_count": "413497",
             "thumbnail_url": "https://i.ytimg.com/vi/4wzgO6Z-VKM/hqdefault.jpg"
-        },
-        {
-            "video_id": "om6HdemgTKQ",
-            "title": "BTS (방탄소년단) 'SWIM' Live Clip II. (Swimming Pool ver.)",
-            "channel_name": "BANGTANTV",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "6484502",
-            "thumbnail_url": "https://i.ytimg.com/vi/om6HdemgTKQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "3IeOTXpTMkI",
-            "title": "복구에 인생을 걸었습니다 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "14:27",
-            "view_count": "190624",
-            "thumbnail_url": "https://i.ytimg.com/vi/3IeOTXpTMkI/hqdefault.jpg"
-        },
-        {
-            "video_id": "e6CGI5JOZ7g",
-            "title": "임영웅 [이제 나만 믿어요] Jazz Ver. @IM HERO TOUR 2",
-            "channel_name": "임영웅",
-            "category": "Music",
-            "duration": "4:23",
-            "view_count": "233992",
-            "thumbnail_url": "https://i.ytimg.com/vi/e6CGI5JOZ7g/hqdefault.jpg"
-        },
-        {
-            "video_id": "77aqPZDaesI",
-            "title": "거 지옥 가기 딱 좋은 날씨네 [마크 하드코어 EP.20]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "36:06",
-            "view_count": "332575",
-            "thumbnail_url": "https://i.ytimg.com/vi/77aqPZDaesI/hqdefault.jpg"
         },
         {
             "video_id": "eMouvDpiEVU",
@@ -142,7 +106,7 @@
             "channel_name": "HAON - Topic",
             "category": "Music",
             "duration": "5:26",
-            "view_count": "28648",
+            "view_count": "52646",
             "thumbnail_url": "https://i.ytimg.com/vi/eMouvDpiEVU/hqdefault.jpg"
         },
         {
@@ -151,8 +115,44 @@
             "channel_name": "겜케이",
             "category": "Gaming",
             "duration": "12:51",
-            "view_count": "114195",
+            "view_count": "118730",
             "thumbnail_url": "https://i.ytimg.com/vi/JPimg6RWDDU/hqdefault.jpg"
+        },
+        {
+            "video_id": "om6HdemgTKQ",
+            "title": "BTS (방탄소년단) 'SWIM' Live Clip II. (Swimming Pool ver.)",
+            "channel_name": "BANGTANTV",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "6536405",
+            "thumbnail_url": "https://i.ytimg.com/vi/om6HdemgTKQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "3IeOTXpTMkI",
+            "title": "복구에 인생을 걸었습니다 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "14:27",
+            "view_count": "194344",
+            "thumbnail_url": "https://i.ytimg.com/vi/3IeOTXpTMkI/hqdefault.jpg"
+        },
+        {
+            "video_id": "e6CGI5JOZ7g",
+            "title": "임영웅 [이제 나만 믿어요] Jazz Ver. @IM HERO TOUR 2",
+            "channel_name": "임영웅",
+            "category": "Music",
+            "duration": "4:23",
+            "view_count": "241139",
+            "thumbnail_url": "https://i.ytimg.com/vi/e6CGI5JOZ7g/hqdefault.jpg"
+        },
+        {
+            "video_id": "77aqPZDaesI",
+            "title": "거 지옥 가기 딱 좋은 날씨네 [마크 하드코어 EP.20]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "36:06",
+            "view_count": "337306",
+            "thumbnail_url": "https://i.ytimg.com/vi/77aqPZDaesI/hqdefault.jpg"
         },
         {
             "video_id": "867l-aajV-M",
@@ -160,8 +160,26 @@
             "channel_name": "박효신 PARK HYO SHIN",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "55786",
+            "view_count": "62566",
             "thumbnail_url": "https://i.ytimg.com/vi/867l-aajV-M/hqdefault.jpg"
+        },
+        {
+            "video_id": "XmgBgtvMzYI",
+            "title": "예전이었으면 모를까.. 이젠 안할 것 같아요.. 리니지클래식 【 똘끼 】",
+            "channel_name": "똘끼100%",
+            "category": "Gaming",
+            "duration": "8:26",
+            "view_count": "83418",
+            "thumbnail_url": "https://i.ytimg.com/vi/XmgBgtvMzYI/hqdefault.jpg"
+        },
+        {
+            "video_id": "wZz73re_ITk",
+            "title": "NOW IM YOUNG (Prod. by Hukky Shibaseki)",
+            "channel_name": "nowimyoung - Topic",
+            "category": "Music",
+            "duration": "3:35",
+            "view_count": "28459",
+            "thumbnail_url": "https://i.ytimg.com/vi/wZz73re_ITk/hqdefault.jpg"
         },
         {
             "video_id": "_-4pCfVh65Q",
@@ -169,7 +187,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "19:16",
-            "view_count": "118597",
+            "view_count": "122021",
             "thumbnail_url": "https://i.ytimg.com/vi/_-4pCfVh65Q/hqdefault.jpg"
         },
         {
@@ -178,7 +196,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "155751",
+            "view_count": "160918",
             "thumbnail_url": "https://i.ytimg.com/vi/bhykDgIlX1Q/hqdefault.jpg"
         },
         {
@@ -187,7 +205,7 @@
             "channel_name": "YouTube지누",
             "category": "Gaming",
             "duration": "2:16:04",
-            "view_count": "142202",
+            "view_count": "147649",
             "thumbnail_url": "https://i.ytimg.com/vi/SRwKZmoDxCw/hqdefault.jpg"
         },
         {
@@ -196,62 +214,8 @@
             "channel_name": "ASH ISLAND - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "39305",
+            "view_count": "43526",
             "thumbnail_url": "https://i.ytimg.com/vi/mUjAsuRKIDI/hqdefault.jpg"
-        },
-        {
-            "video_id": "6eQjxYhjkEI",
-            "title": "탈출하고싶어요",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "1:41:18",
-            "view_count": "364957",
-            "thumbnail_url": "https://i.ytimg.com/vi/6eQjxYhjkEI/hqdefault.jpg"
-        },
-        {
-            "video_id": "g1JlVmMEebI",
-            "title": "SLAY (슬레이) '나타나 줘' Special Clip",
-            "channel_name": "SLAY 슬레이 ",
-            "category": "People & Blogs",
-            "duration": "3:06",
-            "view_count": "192945",
-            "thumbnail_url": "https://i.ytimg.com/vi/g1JlVmMEebI/hqdefault.jpg"
-        },
-        {
-            "video_id": "fMS-o4xIngY",
-            "title": "서로 존중하며 배려하는 게임을 하자면서... 사기맵 쓰는 뻔뻔한 상대 만남;;",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "44:36",
-            "view_count": "97637",
-            "thumbnail_url": "https://i.ytimg.com/vi/fMS-o4xIngY/hqdefault.jpg"
-        },
-        {
-            "video_id": "Fe09I7Ru-e8",
-            "title": "사랑병동 Highs and Lows",
-            "channel_name": "Wonpil (DAY6) - Topic",
-            "category": "Music",
-            "duration": "2:49",
-            "view_count": "481901",
-            "thumbnail_url": "https://i.ytimg.com/vi/Fe09I7Ru-e8/hqdefault.jpg"
-        },
-        {
-            "video_id": "mpUsZ0Evzhs",
-            "title": "거짓말이라고 해줘...🥹│T1 vs KT│2026 LCK│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "43:40",
-            "view_count": "107847",
-            "thumbnail_url": "https://i.ytimg.com/vi/mpUsZ0Evzhs/hqdefault.jpg"
-        },
-        {
-            "video_id": "wZz73re_ITk",
-            "title": "NOW IM YOUNG (Prod. by Hukky Shibaseki)",
-            "channel_name": "nowimyoung - Topic",
-            "category": "Music",
-            "duration": "3:35",
-            "view_count": "14651",
-            "thumbnail_url": "https://i.ytimg.com/vi/wZz73re_ITk/hqdefault.jpg"
         },
         {
             "video_id": "plBayfCW4Eg",
@@ -259,17 +223,53 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "11:28",
-            "view_count": "86916",
+            "view_count": "105065",
             "thumbnail_url": "https://i.ytimg.com/vi/plBayfCW4Eg/hqdefault.jpg"
         },
         {
-            "video_id": "w4VS--wZ1M0",
-            "title": "새빛 - 블리치! (ブリーチ!) (Official Live Clip) with COLORPICKER",
-            "channel_name": "새빛 (Saebit)",
+            "video_id": "g1JlVmMEebI",
+            "title": "SLAY (슬레이) '나타나 줘' Special Clip",
+            "channel_name": "SLAY 슬레이 ",
+            "category": "People & Blogs",
+            "duration": "3:06",
+            "view_count": "198088",
+            "thumbnail_url": "https://i.ytimg.com/vi/g1JlVmMEebI/hqdefault.jpg"
+        },
+        {
+            "video_id": "66Bt38Rek5w",
+            "title": "\"코가네, 룰 추가\" 패배 직전 결국 룰을 추가시킨 이상호의 외교 담판",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "55:30",
+            "view_count": "92431",
+            "thumbnail_url": "https://i.ytimg.com/vi/66Bt38Rek5w/hqdefault.jpg"
+        },
+        {
+            "video_id": "s0-m0gHYTjA",
+            "title": "New New (Prod. by GroovyRoom)",
+            "channel_name": "Tray B - Topic",
             "category": "Music",
-            "duration": "2:58",
-            "view_count": "52124",
-            "thumbnail_url": "https://i.ytimg.com/vi/w4VS--wZ1M0/hqdefault.jpg"
+            "duration": "3:43",
+            "view_count": "16291",
+            "thumbnail_url": "https://i.ytimg.com/vi/s0-m0gHYTjA/hqdefault.jpg"
+        },
+        {
+            "video_id": "6eQjxYhjkEI",
+            "title": "탈출하고싶어요",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "1:41:18",
+            "view_count": "372037",
+            "thumbnail_url": "https://i.ytimg.com/vi/6eQjxYhjkEI/hqdefault.jpg"
+        },
+        {
+            "video_id": "JunGeblTQ4E",
+            "title": "GR8EST (Prod. by APRO)",
+            "channel_name": "Untell - Topic",
+            "category": "Music",
+            "duration": "4:43",
+            "view_count": "18347",
+            "thumbnail_url": "https://i.ytimg.com/vi/JunGeblTQ4E/hqdefault.jpg"
         },
         {
             "video_id": "rS0gZCuF0Do",
@@ -277,7 +277,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "28:18",
-            "view_count": "80993",
+            "view_count": "86056",
             "thumbnail_url": "https://i.ytimg.com/vi/rS0gZCuF0Do/hqdefault.jpg"
         },
         {
@@ -286,8 +286,44 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "2:09",
-            "view_count": "106776",
+            "view_count": "125493",
             "thumbnail_url": "https://i.ytimg.com/vi/S1bfg8s4OV8/hqdefault.jpg"
+        },
+        {
+            "video_id": "mpUsZ0Evzhs",
+            "title": "거짓말이라고 해줘...🥹│T1 vs KT│2026 LCK│울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "43:40",
+            "view_count": "109429",
+            "thumbnail_url": "https://i.ytimg.com/vi/mpUsZ0Evzhs/hqdefault.jpg"
+        },
+        {
+            "video_id": "Fe09I7Ru-e8",
+            "title": "사랑병동 Highs and Lows",
+            "channel_name": "Wonpil (DAY6) - Topic",
+            "category": "Music",
+            "duration": "2:49",
+            "view_count": "491687",
+            "thumbnail_url": "https://i.ytimg.com/vi/Fe09I7Ru-e8/hqdefault.jpg"
+        },
+        {
+            "video_id": "fMS-o4xIngY",
+            "title": "서로 존중하며 배려하는 게임을 하자면서... 사기맵 쓰는 뻔뻔한 상대 만남;;",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "44:36",
+            "view_count": "98992",
+            "thumbnail_url": "https://i.ytimg.com/vi/fMS-o4xIngY/hqdefault.jpg"
+        },
+        {
+            "video_id": "w4VS--wZ1M0",
+            "title": "새빛 - 블리치! (ブリーチ!) (Official Live Clip) with COLORPICKER",
+            "channel_name": "새빛 (Saebit)",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "52139",
+            "thumbnail_url": "https://i.ytimg.com/vi/w4VS--wZ1M0/hqdefault.jpg"
         },
         {
             "video_id": "o-4n7NdQLzY",
@@ -295,7 +331,7 @@
             "channel_name": "대천사 김블루",
             "category": "Gaming",
             "duration": "14:45",
-            "view_count": "279640",
+            "view_count": "283942",
             "thumbnail_url": "https://i.ytimg.com/vi/o-4n7NdQLzY/hqdefault.jpg"
         },
         {
@@ -304,26 +340,8 @@
             "channel_name": "SOONIGROUP [수니그룹]",
             "category": "Entertainment",
             "duration": "3:38",
-            "view_count": "84027",
+            "view_count": "93185",
             "thumbnail_url": "https://i.ytimg.com/vi/FhGp3Q4ZXtk/hqdefault.jpg"
-        },
-        {
-            "video_id": "66Bt38Rek5w",
-            "title": "\"코가네, 룰 추가\" 패배 직전 결국 룰을 추가시킨 이상호의 외교 담판",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "55:30",
-            "view_count": "83329",
-            "thumbnail_url": "https://i.ytimg.com/vi/66Bt38Rek5w/hqdefault.jpg"
-        },
-        {
-            "video_id": "v1utLAHO5uY",
-            "title": "쿠모노서랍 (Art. 감다이) - Anonymous Artists (어나니머스 아티스트)",
-            "channel_name": "Anonymous Artists (어나니머스 아티스트)",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "131187",
-            "thumbnail_url": "https://i.ytimg.com/vi/v1utLAHO5uY/hqdefault.jpg"
         },
         {
             "video_id": "ebiNm3FOV9M",
@@ -331,35 +349,17 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "32:17",
-            "view_count": "219700",
+            "view_count": "222486",
             "thumbnail_url": "https://i.ytimg.com/vi/ebiNm3FOV9M/hqdefault.jpg"
         },
         {
-            "video_id": "s0-m0gHYTjA",
-            "title": "New New (Prod. by GroovyRoom)",
-            "channel_name": "Tray B - Topic",
+            "video_id": "v1utLAHO5uY",
+            "title": "쿠모노서랍 (Art. 감다이) - Anonymous Artists (어나니머스 아티스트)",
+            "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
-            "duration": "3:43",
-            "view_count": "8927",
-            "thumbnail_url": "https://i.ytimg.com/vi/s0-m0gHYTjA/hqdefault.jpg"
-        },
-        {
-            "video_id": "3iQUirCQ02w",
-            "title": "달라졌다는 상호 오빠와 대환장 킬내기",
-            "channel_name": "수피",
-            "category": "Gaming",
-            "duration": "25:26",
-            "view_count": "87427",
-            "thumbnail_url": "https://i.ytimg.com/vi/3iQUirCQ02w/hqdefault.jpg"
-        },
-        {
-            "video_id": "JunGeblTQ4E",
-            "title": "GR8EST (Prod. by APRO)",
-            "channel_name": "Untell - Topic",
-            "category": "Music",
-            "duration": "4:43",
-            "view_count": "9243",
-            "thumbnail_url": "https://i.ytimg.com/vi/JunGeblTQ4E/hqdefault.jpg"
+            "duration": "2:58",
+            "view_count": "131447",
+            "thumbnail_url": "https://i.ytimg.com/vi/v1utLAHO5uY/hqdefault.jpg"
         },
         {
             "video_id": "acKaiuTztlU",
@@ -367,7 +367,7 @@
             "channel_name": "주키니TV",
             "category": "Gaming",
             "duration": "22:00",
-            "view_count": "94857",
+            "view_count": "99570",
             "thumbnail_url": "https://i.ytimg.com/vi/acKaiuTztlU/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "정서불안 김햄찌 - Topic",
             "category": "Music",
             "duration": "1:01",
-            "view_count": "17066",
+            "view_count": "17900",
             "thumbnail_url": "https://i.ytimg.com/vi/7T3iExnuICM/hqdefault.jpg"
         }
     ]
