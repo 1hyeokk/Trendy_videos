@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-03 22:10:19",
+    "scraped_time": "2026-04-03 23:47:10",
     "videos": [
         {
             "video_id": "D54StAZFUrc",
@@ -7,7 +7,7 @@
             "channel_name": "AKMU",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "1232474",
+            "view_count": "1348749",
             "thumbnail_url": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "12:31",
-            "view_count": "164251",
+            "view_count": "168718",
             "thumbnail_url": "https://i.ytimg.com/vi/uK09QeHT2g0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "8:26",
-            "view_count": "152459",
+            "view_count": "167315",
             "thumbnail_url": "https://i.ytimg.com/vi/XmgBgtvMzYI/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "18938321",
+            "view_count": "19302079",
             "thumbnail_url": "https://i.ytimg.com/vi/_gyultVTesk/hqdefault.jpg"
         },
         {
@@ -43,17 +43,44 @@
             "channel_name": "기묘한 케이지",
             "category": "Film & Animation",
             "duration": "11:14",
-            "view_count": "56392",
+            "view_count": "58241",
             "thumbnail_url": "https://i.ytimg.com/vi/Wg5SBEPER-4/hqdefault.jpg"
         },
         {
-            "video_id": "taZl_NyreGI",
-            "title": "같은팀에 넣어놨더니 오더부터 밸붕 수준인 피넛&클리드",
-            "channel_name": "튜브김민교",
+            "video_id": "DsKnaCIAYNg",
+            "title": "GEN vs KT - BFX vs BRO | 2026 LCK",
+            "channel_name": "LCK Global",
             "category": "Gaming",
-            "duration": "33:49",
-            "view_count": "166756",
-            "thumbnail_url": "https://i.ytimg.com/vi/taZl_NyreGI/hqdefault.jpg"
+            "duration": "5:48:41",
+            "view_count": "429447",
+            "thumbnail_url": "https://i.ytimg.com/vi/DsKnaCIAYNg/hqdefault.jpg"
+        },
+        {
+            "video_id": "lh7yT1PF2Y4",
+            "title": "T.O.P - \"DESPERADO\" MV",
+            "channel_name": "T.O.P",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "443823",
+            "thumbnail_url": "https://i.ytimg.com/vi/lh7yT1PF2Y4/hqdefault.jpg"
+        },
+        {
+            "video_id": "4zm6hEr9LWc",
+            "title": "임영웅 출연 영화 예고편 전격 공개, 이 사람 등장에 깜짝??",
+            "channel_name": "젊은할배 59TV",
+            "category": "Entertainment",
+            "duration": "4:30",
+            "view_count": "5324",
+            "thumbnail_url": "https://i.ytimg.com/vi/4zm6hEr9LWc/hqdefault.jpg"
+        },
+        {
+            "video_id": "dynQbVp1g30",
+            "title": "GEN vs GE / T1 vs VL - VCT 퍼시픽 - 스테이지 1 - 그룹 스테이지 -  Day 1",
+            "channel_name": "발로란트 챔피언스 투어",
+            "category": "Gaming",
+            "duration": "5:21:27",
+            "view_count": "172886",
+            "thumbnail_url": "https://i.ytimg.com/vi/dynQbVp1g30/hqdefault.jpg"
         },
         {
             "video_id": "PYpOJyl3Sbg",
@@ -61,8 +88,35 @@
             "channel_name": "HANRORO - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "279198",
+            "view_count": "291468",
             "thumbnail_url": "https://i.ytimg.com/vi/PYpOJyl3Sbg/hqdefault.jpg"
+        },
+        {
+            "video_id": "oTbFkKDzstI",
+            "title": "“한국에게 완전히 지배당했다” 1위 일본영화 예고편 공개되자 방송중단 / “생각보다 훨씬 심각한 상황”",
+            "channel_name": "꿀튜브",
+            "category": "News & Politics",
+            "duration": "8:39",
+            "view_count": "18342",
+            "thumbnail_url": "https://i.ytimg.com/vi/oTbFkKDzstI/hqdefault.jpg"
+        },
+        {
+            "video_id": "taZl_NyreGI",
+            "title": "같은팀에 넣어놨더니 오더부터 밸붕 수준인 피넛&클리드",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "33:49",
+            "view_count": "173378",
+            "thumbnail_url": "https://i.ytimg.com/vi/taZl_NyreGI/hqdefault.jpg"
+        },
+        {
+            "video_id": "eMouvDpiEVU",
+            "title": "R.I.L + King′s gambit (Prod. by ZICO, Crush)",
+            "channel_name": "HAON - Topic",
+            "category": "Music",
+            "duration": "5:26",
+            "view_count": "129270",
+            "thumbnail_url": "https://i.ytimg.com/vi/eMouvDpiEVU/hqdefault.jpg"
         },
         {
             "video_id": "WZlvbRUSMjo",
@@ -70,7 +124,7 @@
             "channel_name": "Warner Bros. Korea",
             "category": "Film & Animation",
             "duration": "2:53",
-            "view_count": "502218",
+            "view_count": "503236",
             "thumbnail_url": "https://i.ytimg.com/vi/WZlvbRUSMjo/hqdefault.jpg"
         },
         {
@@ -79,71 +133,8 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "22:30",
-            "view_count": "192900",
+            "view_count": "194911",
             "thumbnail_url": "https://i.ytimg.com/vi/n_M8_8wVOM4/hqdefault.jpg"
-        },
-        {
-            "video_id": "eMouvDpiEVU",
-            "title": "R.I.L + King′s gambit (Prod. by ZICO, Crush)",
-            "channel_name": "HAON - Topic",
-            "category": "Music",
-            "duration": "5:26",
-            "view_count": "115870",
-            "thumbnail_url": "https://i.ytimg.com/vi/eMouvDpiEVU/hqdefault.jpg"
-        },
-        {
-            "video_id": "4zm6hEr9LWc",
-            "title": "임영웅 출연 영화 예고편 전격 공개, 이 사람 등장에 깜짝??",
-            "channel_name": "젊은할배 59TV",
-            "category": "Entertainment",
-            "duration": "4:30",
-            "view_count": "3390",
-            "thumbnail_url": "https://i.ytimg.com/vi/4zm6hEr9LWc/hqdefault.jpg"
-        },
-        {
-            "video_id": "JPimg6RWDDU",
-            "title": "리니지 클래식.. 서버 1등 데스나이트 먹었습니다 ㅎ",
-            "channel_name": "겜케이",
-            "category": "Gaming",
-            "duration": "12:51",
-            "view_count": "129179",
-            "thumbnail_url": "https://i.ytimg.com/vi/JPimg6RWDDU/hqdefault.jpg"
-        },
-        {
-            "video_id": "lh7yT1PF2Y4",
-            "title": "T.O.P - \"DESPERADO\" MV",
-            "channel_name": "T.O.P",
-            "category": "Music",
-            "duration": "3:38",
-            "view_count": "248194",
-            "thumbnail_url": "https://i.ytimg.com/vi/lh7yT1PF2Y4/hqdefault.jpg"
-        },
-        {
-            "video_id": "WPVwoittibQ",
-            "title": "더블 데이트",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "23:14",
-            "view_count": "358286",
-            "thumbnail_url": "https://i.ytimg.com/vi/WPVwoittibQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "K-F7906Jq9U",
-            "title": "PLAVE '흥흥흥 (feat. SOLE)' Special Video",
-            "channel_name": "PLAVE 플레이브",
-            "category": "Entertainment",
-            "duration": "3:08",
-            "view_count": "2258893",
-            "thumbnail_url": "https://i.ytimg.com/vi/K-F7906Jq9U/hqdefault.jpg"
-        },
-        {
-            "video_id": "4wzgO6Z-VKM",
-            "title": "오징어맨",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "20:20",
-            "view_count": "423624",
-            "thumbnail_url": "https://i.ytimg.com/vi/4wzgO6Z-VKM/hqdefault.jpg"
         },
         {
             "video_id": "_9g-EV3u-o8",
@@ -151,7 +142,7 @@
             "channel_name": "박효신 PARK HYO SHIN",
             "category": "Music",
             "duration": "5:23",
-            "view_count": "66641",
+            "view_count": "100952",
             "thumbnail_url": "https://i.ytimg.com/vi/_9g-EV3u-o8/hqdefault.jpg"
         },
         {
@@ -160,71 +151,17 @@
             "channel_name": "ProjectMoon Official",
             "category": "Gaming",
             "duration": "1:02",
-            "view_count": "179338",
+            "view_count": "222577",
             "thumbnail_url": "https://i.ytimg.com/vi/zH2MbqbmxaU/hqdefault.jpg"
         },
         {
-            "video_id": "wZz73re_ITk",
-            "title": "NOW IM YOUNG (Prod. by Hukky Shibaseki)",
-            "channel_name": "nowimyoung - Topic",
-            "category": "Music",
-            "duration": "3:35",
-            "view_count": "64046",
-            "thumbnail_url": "https://i.ytimg.com/vi/wZz73re_ITk/hqdefault.jpg"
-        },
-        {
-            "video_id": "3IeOTXpTMkI",
-            "title": "복구에 인생을 걸었습니다 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "14:27",
-            "view_count": "201148",
-            "thumbnail_url": "https://i.ytimg.com/vi/3IeOTXpTMkI/hqdefault.jpg"
-        },
-        {
-            "video_id": "om6HdemgTKQ",
-            "title": "BTS (방탄소년단) 'SWIM' Live Clip II. (Swimming Pool ver.)",
-            "channel_name": "BANGTANTV",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "6673633",
-            "thumbnail_url": "https://i.ytimg.com/vi/om6HdemgTKQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "77aqPZDaesI",
-            "title": "거 지옥 가기 딱 좋은 날씨네 [마크 하드코어 EP.20]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "36:06",
-            "view_count": "350972",
-            "thumbnail_url": "https://i.ytimg.com/vi/77aqPZDaesI/hqdefault.jpg"
-        },
-        {
-            "video_id": "e6CGI5JOZ7g",
-            "title": "임영웅 [이제 나만 믿어요] Jazz Ver. @IM HERO TOUR 2",
-            "channel_name": "임영웅",
-            "category": "Music",
-            "duration": "4:23",
-            "view_count": "258725",
-            "thumbnail_url": "https://i.ytimg.com/vi/e6CGI5JOZ7g/hqdefault.jpg"
-        },
-        {
-            "video_id": "plBayfCW4Eg",
-            "title": "장사꾼에게 팔려버린 1위 스타라이트",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "11:28",
-            "view_count": "138846",
-            "thumbnail_url": "https://i.ytimg.com/vi/plBayfCW4Eg/hqdefault.jpg"
-        },
-        {
-            "video_id": "s0-m0gHYTjA",
-            "title": "New New (Prod. by GroovyRoom)",
-            "channel_name": "Tray B - Topic",
-            "category": "Music",
-            "duration": "3:43",
-            "view_count": "36303",
-            "thumbnail_url": "https://i.ytimg.com/vi/s0-m0gHYTjA/hqdefault.jpg"
+            "video_id": "K-F7906Jq9U",
+            "title": "PLAVE '흥흥흥 (feat. SOLE)' Special Video",
+            "channel_name": "PLAVE 플레이브",
+            "category": "Entertainment",
+            "duration": "3:08",
+            "view_count": "2339750",
+            "thumbnail_url": "https://i.ytimg.com/vi/K-F7906Jq9U/hqdefault.jpg"
         },
         {
             "video_id": "8GU1Olt1lWk",
@@ -232,53 +169,53 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "40:06",
-            "view_count": "67197",
+            "view_count": "83224",
             "thumbnail_url": "https://i.ytimg.com/vi/8GU1Olt1lWk/hqdefault.jpg"
         },
         {
-            "video_id": "JunGeblTQ4E",
-            "title": "GR8EST (Prod. by APRO)",
-            "channel_name": "Untell - Topic",
+            "video_id": "wZz73re_ITk",
+            "title": "NOW IM YOUNG (Prod. by Hukky Shibaseki)",
+            "channel_name": "nowimyoung - Topic",
             "category": "Music",
-            "duration": "4:43",
-            "view_count": "41964",
-            "thumbnail_url": "https://i.ytimg.com/vi/JunGeblTQ4E/hqdefault.jpg"
+            "duration": "3:35",
+            "view_count": "72217",
+            "thumbnail_url": "https://i.ytimg.com/vi/wZz73re_ITk/hqdefault.jpg"
         },
         {
-            "video_id": "SRwKZmoDxCw",
-            "title": "인생 설계라는걸 해본적이 없는 사람들 모임",
-            "channel_name": "YouTube지누",
+            "video_id": "JPimg6RWDDU",
+            "title": "리니지 클래식.. 서버 1등 데스나이트 먹었습니다 ㅎ",
+            "channel_name": "겜케이",
             "category": "Gaming",
-            "duration": "2:16:04",
-            "view_count": "157504",
-            "thumbnail_url": "https://i.ytimg.com/vi/SRwKZmoDxCw/hqdefault.jpg"
+            "duration": "12:51",
+            "view_count": "131840",
+            "thumbnail_url": "https://i.ytimg.com/vi/JPimg6RWDDU/hqdefault.jpg"
         },
         {
-            "video_id": "g1JlVmMEebI",
-            "title": "SLAY (슬레이) '나타나 줘' Special Clip",
-            "channel_name": "SLAY 슬레이 ",
-            "category": "People & Blogs",
-            "duration": "3:06",
-            "view_count": "208133",
-            "thumbnail_url": "https://i.ytimg.com/vi/g1JlVmMEebI/hqdefault.jpg"
-        },
-        {
-            "video_id": "_-4pCfVh65Q",
-            "title": "\"평×3 = 삭제😱” 칼날비+극딜 트리로 터트리는 미친 딜뽕! “탑 칼날비 트린다미어 전략”🗡️",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "19:16",
-            "view_count": "129223",
-            "thumbnail_url": "https://i.ytimg.com/vi/_-4pCfVh65Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "bhykDgIlX1Q",
-            "title": "[스근한 발라드] ep.2 임가영(Im Ga Young)_그 밤 아래 우리 둘(Under the Same Night)",
-            "channel_name": "1theK (원더케이)",
+            "video_id": "om6HdemgTKQ",
+            "title": "BTS (방탄소년단) 'SWIM' Live Clip II. (Swimming Pool ver.)",
+            "channel_name": "BANGTANTV",
             "category": "Music",
-            "duration": "3:43",
-            "view_count": "174693",
-            "thumbnail_url": "https://i.ytimg.com/vi/bhykDgIlX1Q/hqdefault.jpg"
+            "duration": "3:07",
+            "view_count": "6743580",
+            "thumbnail_url": "https://i.ytimg.com/vi/om6HdemgTKQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "plBayfCW4Eg",
+            "title": "장사꾼에게 팔려버린 1위 스타라이트",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "11:28",
+            "view_count": "147406",
+            "thumbnail_url": "https://i.ytimg.com/vi/plBayfCW4Eg/hqdefault.jpg"
+        },
+        {
+            "video_id": "e6CGI5JOZ7g",
+            "title": "임영웅 [이제 나만 믿어요] Jazz Ver. @IM HERO TOUR 2",
+            "channel_name": "임영웅",
+            "category": "Music",
+            "duration": "4:23",
+            "view_count": "265569",
+            "thumbnail_url": "https://i.ytimg.com/vi/e6CGI5JOZ7g/hqdefault.jpg"
         },
         {
             "video_id": "oH1SFp-ZdlQ",
@@ -286,8 +223,80 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "15:02",
-            "view_count": "45002",
+            "view_count": "60095",
             "thumbnail_url": "https://i.ytimg.com/vi/oH1SFp-ZdlQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "s0-m0gHYTjA",
+            "title": "New New (Prod. by GroovyRoom)",
+            "channel_name": "Tray B - Topic",
+            "category": "Music",
+            "duration": "3:43",
+            "view_count": "41612",
+            "thumbnail_url": "https://i.ytimg.com/vi/s0-m0gHYTjA/hqdefault.jpg"
+        },
+        {
+            "video_id": "4wzgO6Z-VKM",
+            "title": "오징어맨",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "20:20",
+            "view_count": "427357",
+            "thumbnail_url": "https://i.ytimg.com/vi/4wzgO6Z-VKM/hqdefault.jpg"
+        },
+        {
+            "video_id": "JunGeblTQ4E",
+            "title": "GR8EST (Prod. by APRO)",
+            "channel_name": "Untell - Topic",
+            "category": "Music",
+            "duration": "4:43",
+            "view_count": "46979",
+            "thumbnail_url": "https://i.ytimg.com/vi/JunGeblTQ4E/hqdefault.jpg"
+        },
+        {
+            "video_id": "WPVwoittibQ",
+            "title": "더블 데이트",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "23:14",
+            "view_count": "360335",
+            "thumbnail_url": "https://i.ytimg.com/vi/WPVwoittibQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "g1JlVmMEebI",
+            "title": "SLAY (슬레이) '나타나 줘' Special Clip",
+            "channel_name": "SLAY 슬레이 ",
+            "category": "People & Blogs",
+            "duration": "3:06",
+            "view_count": "212503",
+            "thumbnail_url": "https://i.ytimg.com/vi/g1JlVmMEebI/hqdefault.jpg"
+        },
+        {
+            "video_id": "3IeOTXpTMkI",
+            "title": "복구에 인생을 걸었습니다 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "14:27",
+            "view_count": "202838",
+            "thumbnail_url": "https://i.ytimg.com/vi/3IeOTXpTMkI/hqdefault.jpg"
+        },
+        {
+            "video_id": "bhykDgIlX1Q",
+            "title": "[스근한 발라드] ep.2 임가영(Im Ga Young)_그 밤 아래 우리 둘(Under the Same Night)",
+            "channel_name": "1theK (원더케이)",
+            "category": "Music",
+            "duration": "3:43",
+            "view_count": "180701",
+            "thumbnail_url": "https://i.ytimg.com/vi/bhykDgIlX1Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "NQ9UTjBjB4c",
+            "title": "솔:인챈트 신권회담 같이보자 🔴넷마블의 대작",
+            "channel_name": "만만",
+            "category": "Gaming",
+            "duration": "6:06:24",
+            "view_count": "72823",
+            "thumbnail_url": "https://i.ytimg.com/vi/NQ9UTjBjB4c/hqdefault.jpg"
         },
         {
             "video_id": "mUjAsuRKIDI",
@@ -295,17 +304,17 @@
             "channel_name": "ASH ISLAND - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "54653",
+            "view_count": "57230",
             "thumbnail_url": "https://i.ytimg.com/vi/mUjAsuRKIDI/hqdefault.jpg"
         },
         {
-            "video_id": "66Bt38Rek5w",
-            "title": "\"코가네, 룰 추가\" 패배 직전 결국 룰을 추가시킨 이상호의 외교 담판",
-            "channel_name": "클리드",
+            "video_id": "77aqPZDaesI",
+            "title": "거 지옥 가기 딱 좋은 날씨네 [마크 하드코어 EP.20]",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "55:30",
-            "view_count": "107520",
-            "thumbnail_url": "https://i.ytimg.com/vi/66Bt38Rek5w/hqdefault.jpg"
+            "duration": "36:06",
+            "view_count": "355169",
+            "thumbnail_url": "https://i.ytimg.com/vi/77aqPZDaesI/hqdefault.jpg"
         },
         {
             "video_id": "S1bfg8s4OV8",
@@ -313,44 +322,8 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "2:09",
-            "view_count": "166491",
+            "view_count": "178044",
             "thumbnail_url": "https://i.ytimg.com/vi/S1bfg8s4OV8/hqdefault.jpg"
-        },
-        {
-            "video_id": "U2TZrkCXk1s",
-            "title": "겁내 비싸보이는 붕어빵을 파는 맵 ㅋㅋㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "32:42",
-            "view_count": "93965",
-            "thumbnail_url": "https://i.ytimg.com/vi/U2TZrkCXk1s/hqdefault.jpg"
-        },
-        {
-            "video_id": "pY4EbmZipsA",
-            "title": "OKA (Prod. by CODE KUNST)",
-            "channel_name": "MASON HOME - Topic",
-            "category": "Music",
-            "duration": "3:41",
-            "view_count": "20140",
-            "thumbnail_url": "https://i.ytimg.com/vi/pY4EbmZipsA/hqdefault.jpg"
-        },
-        {
-            "video_id": "rS0gZCuF0Do",
-            "title": "T1 vs KT | 매치 2 하이라이트 | 2026 LCK",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "28:18",
-            "view_count": "96343",
-            "thumbnail_url": "https://i.ytimg.com/vi/rS0gZCuF0Do/hqdefault.jpg"
-        },
-        {
-            "video_id": "wabwtySf8Xk",
-            "title": "MSG (Prod. by Spatchies, PapZilla, KIRWAV, Sawat)",
-            "channel_name": "MILLI - Topic",
-            "category": "Music",
-            "duration": "3:49",
-            "view_count": "28997",
-            "thumbnail_url": "https://i.ytimg.com/vi/wabwtySf8Xk/hqdefault.jpg"
         },
         {
             "video_id": "8dPbTMV591w",
@@ -358,8 +331,44 @@
             "channel_name": "프뚜",
             "category": "Gaming",
             "duration": "35:26",
-            "view_count": "47363",
+            "view_count": "65295",
             "thumbnail_url": "https://i.ytimg.com/vi/8dPbTMV591w/hqdefault.jpg"
+        },
+        {
+            "video_id": "pY4EbmZipsA",
+            "title": "OKA (Prod. by CODE KUNST)",
+            "channel_name": "MASON HOME - Topic",
+            "category": "Music",
+            "duration": "3:41",
+            "view_count": "22570",
+            "thumbnail_url": "https://i.ytimg.com/vi/pY4EbmZipsA/hqdefault.jpg"
+        },
+        {
+            "video_id": "9428g3DyE7A",
+            "title": "날 죽일 거면 목을 쳤어야지...",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "17:35",
+            "view_count": "63805",
+            "thumbnail_url": "https://i.ytimg.com/vi/9428g3DyE7A/hqdefault.jpg"
+        },
+        {
+            "video_id": "wabwtySf8Xk",
+            "title": "MSG (Prod. by Spatchies, PapZilla, KIRWAV, Sawat)",
+            "channel_name": "MILLI - Topic",
+            "category": "Music",
+            "duration": "3:49",
+            "view_count": "33551",
+            "thumbnail_url": "https://i.ytimg.com/vi/wabwtySf8Xk/hqdefault.jpg"
+        },
+        {
+            "video_id": "SRwKZmoDxCw",
+            "title": "인생 설계라는걸 해본적이 없는 사람들 모임",
+            "channel_name": "YouTube지누",
+            "category": "Gaming",
+            "duration": "2:16:04",
+            "view_count": "161008",
+            "thumbnail_url": "https://i.ytimg.com/vi/SRwKZmoDxCw/hqdefault.jpg"
         },
         {
             "video_id": "z6qyEfH2D-o",
@@ -367,17 +376,8 @@
             "channel_name": "DPR IAN - Topic",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "49794",
+            "view_count": "57237",
             "thumbnail_url": "https://i.ytimg.com/vi/z6qyEfH2D-o/hqdefault.jpg"
-        },
-        {
-            "video_id": "6eQjxYhjkEI",
-            "title": "탈출하고싶어요",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "1:41:18",
-            "view_count": "388492",
-            "thumbnail_url": "https://i.ytimg.com/vi/6eQjxYhjkEI/hqdefault.jpg"
         }
     ]
 }
