@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-05 01:39:16",
+    "scraped_time": "2026-04-05 02:34:36",
     "videos": [
         {
             "video_id": "D54StAZFUrc",
@@ -7,7 +7,7 @@
             "channel_name": "AKMU",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "2540115",
+            "view_count": "2573231",
             "thumbnail_url": "https://i.ytimg.com/vi/D54StAZFUrc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "12:31",
-            "view_count": "203888",
+            "view_count": "205123",
             "thumbnail_url": "https://i.ytimg.com/vi/uK09QeHT2g0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "28:23",
-            "view_count": "195963",
+            "view_count": "216023",
             "thumbnail_url": "https://i.ytimg.com/vi/_LfCDVQUjEc/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "23736561",
+            "view_count": "23909266",
             "thumbnail_url": "https://i.ytimg.com/vi/_gyultVTesk/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "24:31",
-            "view_count": "176907",
+            "view_count": "195759",
             "thumbnail_url": "https://i.ytimg.com/vi/hjwlHmlxnak/hqdefault.jpg"
         },
         {
@@ -52,26 +52,8 @@
             "channel_name": "T.O.P",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "1883170",
+            "view_count": "1919631",
             "thumbnail_url": "https://i.ytimg.com/vi/lh7yT1PF2Y4/hqdefault.jpg"
-        },
-        {
-            "video_id": "zlllDi3VplY",
-            "title": "T1 vs HLE - KRX vs DK | 2026 LCK",
-            "channel_name": "LCK Global",
-            "category": "Gaming",
-            "duration": "5:27:46",
-            "view_count": "717672",
-            "thumbnail_url": "https://i.ytimg.com/vi/zlllDi3VplY/hqdefault.jpg"
-        },
-        {
-            "video_id": "7kCDaxIjZFY",
-            "title": "AE",
-            "channel_name": "Park Hyo Shin - Topic",
-            "category": "Music",
-            "duration": "4:56",
-            "view_count": "200664",
-            "thumbnail_url": "https://i.ytimg.com/vi/7kCDaxIjZFY/hqdefault.jpg"
         },
         {
             "video_id": "J3c8r5LFibo",
@@ -79,8 +61,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:04",
-            "view_count": "97326",
+            "view_count": "119993",
             "thumbnail_url": "https://i.ytimg.com/vi/J3c8r5LFibo/hqdefault.jpg"
+        },
+        {
+            "video_id": "7kCDaxIjZFY",
+            "title": "AE",
+            "channel_name": "Park Hyo Shin - Topic",
+            "category": "Music",
+            "duration": "4:56",
+            "view_count": "204874",
+            "thumbnail_url": "https://i.ytimg.com/vi/7kCDaxIjZFY/hqdefault.jpg"
+        },
+        {
+            "video_id": "zlllDi3VplY",
+            "title": "T1 vs HLE - KRX vs DK | 2026 LCK",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "5:27:46",
+            "view_count": "723709",
+            "thumbnail_url": "https://i.ytimg.com/vi/zlllDi3VplY/hqdefault.jpg"
         },
         {
             "video_id": "eMouvDpiEVU",
@@ -88,26 +88,8 @@
             "channel_name": "HAON - Topic",
             "category": "Music",
             "duration": "5:26",
-            "view_count": "267899",
+            "view_count": "271122",
             "thumbnail_url": "https://i.ytimg.com/vi/eMouvDpiEVU/hqdefault.jpg"
-        },
-        {
-            "video_id": "Yp9IKCCvV1E",
-            "title": "[ 똘끼 리니지클래식 ep.11 ] 마법사 자동 그리고 대기열...",
-            "channel_name": "똘끼100%",
-            "category": "Gaming",
-            "duration": "6:44:41",
-            "view_count": "259085",
-            "thumbnail_url": "https://i.ytimg.com/vi/Yp9IKCCvV1E/hqdefault.jpg"
-        },
-        {
-            "video_id": "PYpOJyl3Sbg",
-            "title": "GAME OVER ?",
-            "channel_name": "HANRORO - Topic",
-            "category": "Music",
-            "duration": "3:17",
-            "view_count": "453893",
-            "thumbnail_url": "https://i.ytimg.com/vi/PYpOJyl3Sbg/hqdefault.jpg"
         },
         {
             "video_id": "NLgQjzQepaE",
@@ -115,8 +97,26 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "29:58",
-            "view_count": "119793",
+            "view_count": "130875",
             "thumbnail_url": "https://i.ytimg.com/vi/NLgQjzQepaE/hqdefault.jpg"
+        },
+        {
+            "video_id": "PYpOJyl3Sbg",
+            "title": "GAME OVER ?",
+            "channel_name": "HANRORO - Topic",
+            "category": "Music",
+            "duration": "3:17",
+            "view_count": "456792",
+            "thumbnail_url": "https://i.ytimg.com/vi/PYpOJyl3Sbg/hqdefault.jpg"
+        },
+        {
+            "video_id": "RWHRQqDyIYo",
+            "title": "경기력 제대로 살려서 온  T1 | T1 vs HLE | 2026 LCK",
+            "channel_name": "Untara",
+            "category": "Gaming",
+            "duration": "54:58",
+            "view_count": "72851",
+            "thumbnail_url": "https://i.ytimg.com/vi/RWHRQqDyIYo/hqdefault.jpg"
         },
         {
             "video_id": "wZz73re_ITk",
@@ -124,7 +124,7 @@
             "channel_name": "nowimyoung - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "152641",
+            "view_count": "154698",
             "thumbnail_url": "https://i.ytimg.com/vi/wZz73re_ITk/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "11:19",
-            "view_count": "131098",
+            "view_count": "140182",
             "thumbnail_url": "https://i.ytimg.com/vi/76BkWZxVljE/hqdefault.jpg"
         },
         {
@@ -142,17 +142,17 @@
             "channel_name": "Tray B - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "110948",
+            "view_count": "112784",
             "thumbnail_url": "https://i.ytimg.com/vi/s0-m0gHYTjA/hqdefault.jpg"
         },
         {
-            "video_id": "Rhv27aXxxXA",
-            "title": "라이벌에서 가장 희귀한 어드민 무기를 얻었습니다!?!",
-            "channel_name": "양세돌",
+            "video_id": "Yp9IKCCvV1E",
+            "title": "[ 똘끼 리니지클래식 ep.11 ] 마법사 자동 그리고 대기열...",
+            "channel_name": "똘끼100%",
             "category": "Gaming",
-            "duration": "14:33",
-            "view_count": "104057",
-            "thumbnail_url": "https://i.ytimg.com/vi/Rhv27aXxxXA/hqdefault.jpg"
+            "duration": "6:44:41",
+            "view_count": "255008",
+            "thumbnail_url": "https://i.ytimg.com/vi/Yp9IKCCvV1E/hqdefault.jpg"
         },
         {
             "video_id": "K-F7906Jq9U",
@@ -160,26 +160,8 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "3:08",
-            "view_count": "3684387",
+            "view_count": "3730440",
             "thumbnail_url": "https://i.ytimg.com/vi/K-F7906Jq9U/hqdefault.jpg"
-        },
-        {
-            "video_id": "RWHRQqDyIYo",
-            "title": "경기력 제대로 살려서 온  T1 | T1 vs HLE | 2026 LCK",
-            "channel_name": "Untara",
-            "category": "Gaming",
-            "duration": "54:58",
-            "view_count": "50683",
-            "thumbnail_url": "https://i.ytimg.com/vi/RWHRQqDyIYo/hqdefault.jpg"
-        },
-        {
-            "video_id": "JunGeblTQ4E",
-            "title": "GR8EST (Prod. by APRO)",
-            "channel_name": "Untell - Topic",
-            "category": "Music",
-            "duration": "4:43",
-            "view_count": "109018",
-            "thumbnail_url": "https://i.ytimg.com/vi/JunGeblTQ4E/hqdefault.jpg"
         },
         {
             "video_id": "jtNlIjfLi98",
@@ -187,8 +169,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "1:26:37",
-            "view_count": "142111",
+            "view_count": "145459",
             "thumbnail_url": "https://i.ytimg.com/vi/jtNlIjfLi98/hqdefault.jpg"
+        },
+        {
+            "video_id": "JunGeblTQ4E",
+            "title": "GR8EST (Prod. by APRO)",
+            "channel_name": "Untell - Topic",
+            "category": "Music",
+            "duration": "4:43",
+            "view_count": "110471",
+            "thumbnail_url": "https://i.ytimg.com/vi/JunGeblTQ4E/hqdefault.jpg"
+        },
+        {
+            "video_id": "Rhv27aXxxXA",
+            "title": "라이벌에서 가장 희귀한 어드민 무기를 얻었습니다!?!",
+            "channel_name": "양세돌",
+            "category": "Gaming",
+            "duration": "14:33",
+            "view_count": "105375",
+            "thumbnail_url": "https://i.ytimg.com/vi/Rhv27aXxxXA/hqdefault.jpg"
         },
         {
             "video_id": "nMPJznU4c60",
@@ -196,7 +196,7 @@
             "channel_name": "소니뮤직코리아 Sony Music Korea",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "58517",
+            "view_count": "59362",
             "thumbnail_url": "https://i.ytimg.com/vi/nMPJznU4c60/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "18:59",
-            "view_count": "85294",
+            "view_count": "96635",
             "thumbnail_url": "https://i.ytimg.com/vi/YeECHqAt4U0/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "SLAY 슬레이 ",
             "category": "People & Blogs",
             "duration": "3:06",
-            "view_count": "272382",
+            "view_count": "274098",
             "thumbnail_url": "https://i.ytimg.com/vi/g1JlVmMEebI/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "31:11",
-            "view_count": "109768",
+            "view_count": "115059",
             "thumbnail_url": "https://i.ytimg.com/vi/TapwsW9z4WQ/hqdefault.jpg"
         },
         {
@@ -232,26 +232,8 @@
             "channel_name": "임영웅",
             "category": "Music",
             "duration": "4:23",
-            "view_count": "326652",
+            "view_count": "328071",
             "thumbnail_url": "https://i.ytimg.com/vi/e6CGI5JOZ7g/hqdefault.jpg"
-        },
-        {
-            "video_id": "fueeod8-3Nc",
-            "title": "NS vs PRX / FS vs DFM - VCT 퍼시픽 - 스테이지 1 - 그룹 스테이지 -  Day 2",
-            "channel_name": "발로란트 챔피언스 투어",
-            "category": "Gaming",
-            "duration": "6:03:51",
-            "view_count": "164771",
-            "thumbnail_url": "https://i.ytimg.com/vi/fueeod8-3Nc/hqdefault.jpg"
-        },
-        {
-            "video_id": "om6HdemgTKQ",
-            "title": "BTS (방탄소년단) 'SWIM' Live Clip II. (Swimming Pool ver.)",
-            "channel_name": "BANGTANTV",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "7583717",
-            "thumbnail_url": "https://i.ytimg.com/vi/om6HdemgTKQ/hqdefault.jpg"
         },
         {
             "video_id": "8dPbTMV591w",
@@ -259,8 +241,26 @@
             "channel_name": "프뚜",
             "category": "Gaming",
             "duration": "35:26",
-            "view_count": "228234",
+            "view_count": "231183",
             "thumbnail_url": "https://i.ytimg.com/vi/8dPbTMV591w/hqdefault.jpg"
+        },
+        {
+            "video_id": "om6HdemgTKQ",
+            "title": "BTS (방탄소년단) 'SWIM' Live Clip II. (Swimming Pool ver.)",
+            "channel_name": "BANGTANTV",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "7620737",
+            "thumbnail_url": "https://i.ytimg.com/vi/om6HdemgTKQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "fueeod8-3Nc",
+            "title": "NS vs PRX / FS vs DFM - VCT 퍼시픽 - 스테이지 1 - 그룹 스테이지 -  Day 2",
+            "channel_name": "발로란트 챔피언스 투어",
+            "category": "Gaming",
+            "duration": "6:03:51",
+            "view_count": "166086",
+            "thumbnail_url": "https://i.ytimg.com/vi/fueeod8-3Nc/hqdefault.jpg"
         },
         {
             "video_id": "z6qyEfH2D-o",
@@ -268,7 +268,7 @@
             "channel_name": "DPR IAN - Topic",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "189485",
+            "view_count": "194878",
             "thumbnail_url": "https://i.ytimg.com/vi/z6qyEfH2D-o/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "12:34",
-            "view_count": "150566",
+            "view_count": "153357",
             "thumbnail_url": "https://i.ytimg.com/vi/vEq06uX-W28/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "IVE - Topic",
             "category": "Music",
             "duration": "2:09",
-            "view_count": "294266",
+            "view_count": "296092",
             "thumbnail_url": "https://i.ytimg.com/vi/S1bfg8s4OV8/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "17:38",
-            "view_count": "82039",
+            "view_count": "87638",
             "thumbnail_url": "https://i.ytimg.com/vi/faCSxquvS-c/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "ASH ISLAND - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "90585",
+            "view_count": "91190",
             "thumbnail_url": "https://i.ytimg.com/vi/mUjAsuRKIDI/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "4:07:03",
-            "view_count": "69221",
+            "view_count": "80268",
             "thumbnail_url": "https://i.ytimg.com/vi/oIuN1WbgVME/hqdefault.jpg"
         },
         {
@@ -322,26 +322,8 @@
             "channel_name": "MILLI - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "78412",
+            "view_count": "79865",
             "thumbnail_url": "https://i.ytimg.com/vi/wabwtySf8Xk/hqdefault.jpg"
-        },
-        {
-            "video_id": "DDNWi-a7e7k",
-            "title": "다크아칸으로 게임 끝날때까지 쉬지않고 상대 유닛 뺏어서 551 역대급 인구수 만들어버림ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "41:04",
-            "view_count": "85144",
-            "thumbnail_url": "https://i.ytimg.com/vi/DDNWi-a7e7k/hqdefault.jpg"
-        },
-        {
-            "video_id": "yf9DU3n6gMM",
-            "title": "[최신가요 실시간 인기차트] ☕️💫 2026년 4월 3일 1주차, 멜론차트 100, 종합차트, 노래모음 KPOP 플레이리스트",
-            "channel_name": "Yeo Doll",
-            "category": "Music",
-            "duration": "12:34:25",
-            "view_count": "42737",
-            "thumbnail_url": "https://i.ytimg.com/vi/yf9DU3n6gMM/hqdefault.jpg"
         },
         {
             "video_id": "876T7ScWQv4",
@@ -349,8 +331,26 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "33:37",
-            "view_count": "59089",
+            "view_count": "67255",
             "thumbnail_url": "https://i.ytimg.com/vi/876T7ScWQv4/hqdefault.jpg"
+        },
+        {
+            "video_id": "yf9DU3n6gMM",
+            "title": "[최신가요 실시간 인기차트] ☕️💫 2026년 4월 3일 1주차, 멜론차트 100, 종합차트, 노래모음 KPOP 플레이리스트",
+            "channel_name": "Yeo Doll",
+            "category": "Music",
+            "duration": "12:34:25",
+            "view_count": "43141",
+            "thumbnail_url": "https://i.ytimg.com/vi/yf9DU3n6gMM/hqdefault.jpg"
+        },
+        {
+            "video_id": "DDNWi-a7e7k",
+            "title": "다크아칸으로 게임 끝날때까지 쉬지않고 상대 유닛 뺏어서 551 역대급 인구수 만들어버림ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "41:04",
+            "view_count": "88616",
+            "thumbnail_url": "https://i.ytimg.com/vi/DDNWi-a7e7k/hqdefault.jpg"
         },
         {
             "video_id": "pY4EbmZipsA",
@@ -358,17 +358,17 @@
             "channel_name": "MASON HOME - Topic",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "48098",
+            "view_count": "48737",
             "thumbnail_url": "https://i.ytimg.com/vi/pY4EbmZipsA/hqdefault.jpg"
         },
         {
-            "video_id": "g6LET5tTfpA",
-            "title": "짝을 만드는 게임에서 나만이 웃을 수 있는 이유",
-            "channel_name": "YouTube지누",
+            "video_id": "YUZwmK1vnGk",
+            "title": "돌아온 95즈 킬내기 쓰레기통팀 ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "27:40",
-            "view_count": "93553",
-            "thumbnail_url": "https://i.ytimg.com/vi/g6LET5tTfpA/hqdefault.jpg"
+            "duration": "27:14",
+            "view_count": "52151",
+            "thumbnail_url": "https://i.ytimg.com/vi/YUZwmK1vnGk/hqdefault.jpg"
         },
         {
             "video_id": "bhykDgIlX1Q",
@@ -376,7 +376,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "232819",
+            "view_count": "233673",
             "thumbnail_url": "https://i.ytimg.com/vi/bhykDgIlX1Q/hqdefault.jpg"
         }
     ]
