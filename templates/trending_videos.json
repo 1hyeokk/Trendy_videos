@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-07 22:52:27",
+    "scraped_time": "2026-04-08 00:11:46",
     "videos": [
         {
             "video_id": "SNn_H_Q2moo",
@@ -7,7 +7,7 @@
             "channel_name": "AKMU",
             "category": "Music",
             "duration": "4:36",
-            "view_count": "385325",
+            "view_count": "508687",
             "thumbnail_url": "https://i.ytimg.com/vi/SNn_H_Q2moo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:24",
-            "view_count": "156455",
+            "view_count": "161295",
             "thumbnail_url": "https://i.ytimg.com/vi/tWEYZ5MBCGs/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "AION2",
             "category": "Gaming",
             "duration": "1:24:43",
-            "view_count": "130550",
+            "view_count": "153596",
             "thumbnail_url": "https://i.ytimg.com/vi/vVlXBH1Vhp8/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Sik-K - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "260103",
+            "view_count": "272533",
             "thumbnail_url": "https://i.ytimg.com/vi/C1cfxLAOmHc/hqdefault.jpg"
         },
         {
@@ -43,26 +43,8 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "2:03",
-            "view_count": "209551",
+            "view_count": "221413",
             "thumbnail_url": "https://i.ytimg.com/vi/rfMfnZPvzAY/hqdefault.jpg"
-        },
-        {
-            "video_id": "T9sJlgNthVU",
-            "title": "[ 똘끼 리니지클래식 ] 전쟁    (리린이대학 뒤로미룸)",
-            "channel_name": "똘끼100%",
-            "category": "Gaming",
-            "duration": "5:33:45",
-            "view_count": "285845",
-            "thumbnail_url": "https://i.ytimg.com/vi/T9sJlgNthVU/hqdefault.jpg"
-        },
-        {
-            "video_id": "A1nu9jg6ciY",
-            "title": "BTS '2.0' Dance Practice",
-            "channel_name": "BANGTANTV",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "3320358",
-            "thumbnail_url": "https://i.ytimg.com/vi/A1nu9jg6ciY/hqdefault.jpg"
         },
         {
             "video_id": "22no_fVl57c",
@@ -70,8 +52,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:28",
-            "view_count": "164942",
+            "view_count": "205531",
             "thumbnail_url": "https://i.ytimg.com/vi/22no_fVl57c/hqdefault.jpg"
+        },
+        {
+            "video_id": "A1nu9jg6ciY",
+            "title": "BTS '2.0' Dance Practice",
+            "channel_name": "BANGTANTV",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "3437933",
+            "thumbnail_url": "https://i.ytimg.com/vi/A1nu9jg6ciY/hqdefault.jpg"
+        },
+        {
+            "video_id": "T9sJlgNthVU",
+            "title": "[ 똘끼 리니지클래식 ] 전쟁    (리린이대학 뒤로미룸)",
+            "channel_name": "똘끼100%",
+            "category": "Gaming",
+            "duration": "5:33:45",
+            "view_count": "290001",
+            "thumbnail_url": "https://i.ytimg.com/vi/T9sJlgNthVU/hqdefault.jpg"
         },
         {
             "video_id": "Uz5zeFQzIL4",
@@ -79,7 +79,7 @@
             "channel_name": "KISS OF LIFE - Topic",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "298019",
+            "view_count": "315398",
             "thumbnail_url": "https://i.ytimg.com/vi/Uz5zeFQzIL4/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "38:15",
-            "view_count": "96990",
+            "view_count": "125865",
             "thumbnail_url": "https://i.ytimg.com/vi/56gsWO_r2Pg/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "KARD",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "318815",
+            "view_count": "324568",
             "thumbnail_url": "https://i.ytimg.com/vi/xP_nrIzsH-8/hqdefault.jpg"
-        },
-        {
-            "video_id": "NCLJqIU1ssw",
-            "title": "협곡의 방귀대장",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "21:26",
-            "view_count": "437056",
-            "thumbnail_url": "https://i.ytimg.com/vi/NCLJqIU1ssw/hqdefault.jpg"
-        },
-        {
-            "video_id": "01pEUMbf5Mw",
-            "title": "영파씨 (YOUNG POSSE) 'we don't go to bed tonight' MV",
-            "channel_name": "YOUNG POSSE • 영파씨",
-            "category": "Entertainment",
-            "duration": "3:13",
-            "view_count": "32414",
-            "thumbnail_url": "https://i.ytimg.com/vi/01pEUMbf5Mw/hqdefault.jpg"
         },
         {
             "video_id": "BUYRtve3QkY",
@@ -124,17 +106,17 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "11:20",
-            "view_count": "112079",
+            "view_count": "137374",
             "thumbnail_url": "https://i.ytimg.com/vi/BUYRtve3QkY/hqdefault.jpg"
         },
         {
-            "video_id": "iEfrH7IVZbo",
-            "title": "Twenty-Five",
-            "channel_name": "Song Ji Eun - Topic",
-            "category": "Music",
-            "duration": "3:26",
-            "view_count": "260457",
-            "thumbnail_url": "https://i.ytimg.com/vi/iEfrH7IVZbo/hqdefault.jpg"
+            "video_id": "01pEUMbf5Mw",
+            "title": "영파씨 (YOUNG POSSE) 'we don't go to bed tonight' MV",
+            "channel_name": "YOUNG POSSE • 영파씨",
+            "category": "Entertainment",
+            "duration": "3:13",
+            "view_count": "47501",
+            "thumbnail_url": "https://i.ytimg.com/vi/01pEUMbf5Mw/hqdefault.jpg"
         },
         {
             "video_id": "6tO6w7_mDcQ",
@@ -142,7 +124,7 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "16:46",
-            "view_count": "109078",
+            "view_count": "117673",
             "thumbnail_url": "https://i.ytimg.com/vi/6tO6w7_mDcQ/hqdefault.jpg"
         },
         {
@@ -151,8 +133,26 @@
             "channel_name": "민둥맨둥 주민주",
             "category": "Music",
             "duration": "3:53",
-            "view_count": "90028",
+            "view_count": "93844",
             "thumbnail_url": "https://i.ytimg.com/vi/9P4p97KOEGA/hqdefault.jpg"
+        },
+        {
+            "video_id": "NCLJqIU1ssw",
+            "title": "협곡의 방귀대장",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "21:26",
+            "view_count": "439838",
+            "thumbnail_url": "https://i.ytimg.com/vi/NCLJqIU1ssw/hqdefault.jpg"
+        },
+        {
+            "video_id": "iEfrH7IVZbo",
+            "title": "Twenty-Five",
+            "channel_name": "Song Ji Eun - Topic",
+            "category": "Music",
+            "duration": "3:26",
+            "view_count": "267293",
+            "thumbnail_url": "https://i.ytimg.com/vi/iEfrH7IVZbo/hqdefault.jpg"
         },
         {
             "video_id": "7eviaJrVujs",
@@ -160,7 +160,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "33:27",
-            "view_count": "148042",
+            "view_count": "151229",
             "thumbnail_url": "https://i.ytimg.com/vi/7eviaJrVujs/hqdefault.jpg"
         },
         {
@@ -169,26 +169,8 @@
             "channel_name": "KickFlip - Topic",
             "category": "Music",
             "duration": "2:42",
-            "view_count": "92247",
+            "view_count": "95841",
             "thumbnail_url": "https://i.ytimg.com/vi/8VIKNrphz1k/hqdefault.jpg"
-        },
-        {
-            "video_id": "wOKAXNdnGsc",
-            "title": "x신 게임",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "24:17",
-            "view_count": "191391",
-            "thumbnail_url": "https://i.ytimg.com/vi/wOKAXNdnGsc/hqdefault.jpg"
-        },
-        {
-            "video_id": "7kCDaxIjZFY",
-            "title": "AE",
-            "channel_name": "Park Hyo Shin - Topic",
-            "category": "Music",
-            "duration": "4:56",
-            "view_count": "634502",
-            "thumbnail_url": "https://i.ytimg.com/vi/7kCDaxIjZFY/hqdefault.jpg"
         },
         {
             "video_id": "SpovE9xPgbM",
@@ -196,8 +178,26 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "23:06",
-            "view_count": "74876",
+            "view_count": "86977",
             "thumbnail_url": "https://i.ytimg.com/vi/SpovE9xPgbM/hqdefault.jpg"
+        },
+        {
+            "video_id": "7kCDaxIjZFY",
+            "title": "AE",
+            "channel_name": "Park Hyo Shin - Topic",
+            "category": "Music",
+            "duration": "4:56",
+            "view_count": "644742",
+            "thumbnail_url": "https://i.ytimg.com/vi/7kCDaxIjZFY/hqdefault.jpg"
+        },
+        {
+            "video_id": "wOKAXNdnGsc",
+            "title": "x신 게임",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "24:17",
+            "view_count": "195452",
+            "thumbnail_url": "https://i.ytimg.com/vi/wOKAXNdnGsc/hqdefault.jpg"
         },
         {
             "video_id": "YpWNOH4Aads",
@@ -205,17 +205,17 @@
             "channel_name": "NOWZ 나우즈 (Official YouTube Channel)",
             "category": "Entertainment",
             "duration": "2:56",
-            "view_count": "34611",
+            "view_count": "36701",
             "thumbnail_url": "https://i.ytimg.com/vi/YpWNOH4Aads/hqdefault.jpg"
         },
         {
-            "video_id": "GEs4XilQ0C0",
-            "title": "자기가 이긴줄 착각하고 비웃으며 조롱하던 상대… 그리고 찾아온 비극적인 결말",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "ca6ZzsZbuVc",
+            "title": "엄마 몰래 석촌 호수에 벚꽃 구경간 거 해명해주세요 아빠",
+            "channel_name": "텐코 시부키 TENKO SHIBUKI",
             "category": "Gaming",
-            "duration": "26:45",
-            "view_count": "68161",
-            "thumbnail_url": "https://i.ytimg.com/vi/GEs4XilQ0C0/hqdefault.jpg"
+            "duration": "22:14",
+            "view_count": "104220",
+            "thumbnail_url": "https://i.ytimg.com/vi/ca6ZzsZbuVc/hqdefault.jpg"
         },
         {
             "video_id": "RHFm65qLdSo",
@@ -223,7 +223,7 @@
             "channel_name": "성시경 SUNG SI KYUNG",
             "category": "Entertainment",
             "duration": "6:33",
-            "view_count": "215457",
+            "view_count": "230898",
             "thumbnail_url": "https://i.ytimg.com/vi/RHFm65qLdSo/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "41:30",
-            "view_count": "61385",
+            "view_count": "74223",
             "thumbnail_url": "https://i.ytimg.com/vi/1VxwGeSFH_8/hqdefault.jpg"
         },
         {
@@ -241,17 +241,17 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "1596847",
+            "view_count": "1699433",
             "thumbnail_url": "https://i.ytimg.com/vi/i5S7DBQnqP0/hqdefault.jpg"
         },
         {
-            "video_id": "ca6ZzsZbuVc",
-            "title": "엄마 몰래 석촌 호수에 벚꽃 구경간 거 해명해주세요 아빠",
-            "channel_name": "텐코 시부키 TENKO SHIBUKI",
+            "video_id": "GEs4XilQ0C0",
+            "title": "자기가 이긴줄 착각하고 비웃으며 조롱하던 상대… 그리고 찾아온 비극적인 결말",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "22:14",
-            "view_count": "78593",
-            "thumbnail_url": "https://i.ytimg.com/vi/ca6ZzsZbuVc/hqdefault.jpg"
+            "duration": "26:45",
+            "view_count": "77051",
+            "thumbnail_url": "https://i.ytimg.com/vi/GEs4XilQ0C0/hqdefault.jpg"
         },
         {
             "video_id": "4y3FVFn2b6w",
@@ -259,17 +259,17 @@
             "channel_name": "Ha Hyun Sang - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "31854",
+            "view_count": "33208",
             "thumbnail_url": "https://i.ytimg.com/vi/4y3FVFn2b6w/hqdefault.jpg"
         },
         {
-            "video_id": "ue-_mhPgFyQ",
-            "title": "광고에 일부러 답답하게 만드는 게임, 싹 다 깔아봤습니다 아 속 시원해",
-            "channel_name": "혜안",
+            "video_id": "Sa-cNsjvI_U",
+            "title": "【 탬탬버린 】 - 진짜 새로운 인생을 살아보는 게임!!!!!!!!!! 개 재미있는 인생게임ㄷㄷ",
+            "channel_name": "탬탬버린",
             "category": "Gaming",
-            "duration": "20:28",
-            "view_count": "170082",
-            "thumbnail_url": "https://i.ytimg.com/vi/ue-_mhPgFyQ/hqdefault.jpg"
+            "duration": "1:05:06",
+            "view_count": "46707",
+            "thumbnail_url": "https://i.ytimg.com/vi/Sa-cNsjvI_U/hqdefault.jpg"
         },
         {
             "video_id": "6S-_nPxtTnY",
@@ -277,17 +277,17 @@
             "channel_name": "Hebi - Topic",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "44547",
+            "view_count": "46050",
             "thumbnail_url": "https://i.ytimg.com/vi/6S-_nPxtTnY/hqdefault.jpg"
         },
         {
-            "video_id": "F87YE7ZWYrs",
-            "title": "17시즌 도박 시너지 맛 좀 볼까?",
-            "channel_name": "잡상싱",
+            "video_id": "48MVj-uItJ8",
+            "title": "탱커 분쇄기가 돌아왔습니다!😈 미친 밸류 \"탑 오버파밍 케인 전략\" 😎",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "10:52",
-            "view_count": "155556",
-            "thumbnail_url": "https://i.ytimg.com/vi/F87YE7ZWYrs/hqdefault.jpg"
+            "duration": "25:58",
+            "view_count": "56808",
+            "thumbnail_url": "https://i.ytimg.com/vi/48MVj-uItJ8/hqdefault.jpg"
         },
         {
             "video_id": "lh7yT1PF2Y4",
@@ -295,7 +295,7 @@
             "channel_name": "T.O.P",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "3120297",
+            "view_count": "3140795",
             "thumbnail_url": "https://i.ytimg.com/vi/lh7yT1PF2Y4/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "21:26",
-            "view_count": "60550",
+            "view_count": "74406",
             "thumbnail_url": "https://i.ytimg.com/vi/Neq80YAq3L4/hqdefault.jpg"
         },
         {
@@ -313,17 +313,17 @@
             "channel_name": "Untouchable - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "55325",
+            "view_count": "57875",
             "thumbnail_url": "https://i.ytimg.com/vi/P8cQoCKkbKg/hqdefault.jpg"
         },
         {
-            "video_id": "Sa-cNsjvI_U",
-            "title": "【 탬탬버린 】 - 진짜 새로운 인생을 살아보는 게임!!!!!!!!!! 개 재미있는 인생게임ㄷㄷ",
-            "channel_name": "탬탬버린",
+            "video_id": "ue-_mhPgFyQ",
+            "title": "광고에 일부러 답답하게 만드는 게임, 싹 다 깔아봤습니다 아 속 시원해",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "1:05:06",
-            "view_count": "38263",
-            "thumbnail_url": "https://i.ytimg.com/vi/Sa-cNsjvI_U/hqdefault.jpg"
+            "duration": "20:28",
+            "view_count": "177417",
+            "thumbnail_url": "https://i.ytimg.com/vi/ue-_mhPgFyQ/hqdefault.jpg"
         },
         {
             "video_id": "eMouvDpiEVU",
@@ -331,35 +331,17 @@
             "channel_name": "HAON - Topic",
             "category": "Music",
             "duration": "5:26",
-            "view_count": "613021",
+            "view_count": "620451",
             "thumbnail_url": "https://i.ytimg.com/vi/eMouvDpiEVU/hqdefault.jpg"
         },
         {
-            "video_id": "aZhRkE5jQ2Q",
-            "title": "리니지 클래식 / 솔직히 할 말은 할 게요",
-            "channel_name": "빅보스",
+            "video_id": "F87YE7ZWYrs",
+            "title": "17시즌 도박 시너지 맛 좀 볼까?",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "8:09",
-            "view_count": "164219",
-            "thumbnail_url": "https://i.ytimg.com/vi/aZhRkE5jQ2Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "_gyultVTesk",
-            "title": "BTS (방탄소년단) '2.0' Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "3:55",
-            "view_count": "32507622",
-            "thumbnail_url": "https://i.ytimg.com/vi/_gyultVTesk/hqdefault.jpg"
-        },
-        {
-            "video_id": "48MVj-uItJ8",
-            "title": "탱커 분쇄기가 돌아왔습니다!😈 미친 밸류 \"탑 오버파밍 케인 전략\" 😎",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "25:58",
-            "view_count": "44156",
-            "thumbnail_url": "https://i.ytimg.com/vi/48MVj-uItJ8/hqdefault.jpg"
+            "duration": "10:52",
+            "view_count": "157783",
+            "thumbnail_url": "https://i.ytimg.com/vi/F87YE7ZWYrs/hqdefault.jpg"
         },
         {
             "video_id": "-tqin0lWu68",
@@ -367,17 +349,35 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "3:42",
-            "view_count": "21599",
+            "view_count": "28683",
             "thumbnail_url": "https://i.ytimg.com/vi/-tqin0lWu68/hqdefault.jpg"
         },
         {
-            "video_id": "V87KpGmEBbc",
-            "title": "[리니지 클래식] \"똘끼혈맹\" 생얼 이슈 ㅈㅅ",
-            "channel_name": "박다솜",
+            "video_id": "dYT9RqGlsBY",
+            "title": "[타이슨장기] 여기가 소문난 묘수전문 맛집!",
+            "channel_name": "타이슨장기",
             "category": "Gaming",
-            "duration": "4:34:16",
-            "view_count": "52832",
-            "thumbnail_url": "https://i.ytimg.com/vi/V87KpGmEBbc/hqdefault.jpg"
+            "duration": "3:15:32",
+            "view_count": "0",
+            "thumbnail_url": "https://i.ytimg.com/vi/dYT9RqGlsBY/hqdefault.jpg"
+        },
+        {
+            "video_id": "_gyultVTesk",
+            "title": "BTS (방탄소년단) '2.0' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:55",
+            "view_count": "32742726",
+            "thumbnail_url": "https://i.ytimg.com/vi/_gyultVTesk/hqdefault.jpg"
+        },
+        {
+            "video_id": "aZhRkE5jQ2Q",
+            "title": "리니지 클래식 / 솔직히 할 말은 할 게요",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "8:09",
+            "view_count": "166454",
+            "thumbnail_url": "https://i.ytimg.com/vi/aZhRkE5jQ2Q/hqdefault.jpg"
         }
     ]
 }
