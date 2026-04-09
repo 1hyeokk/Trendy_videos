@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-09 22:48:06",
+    "scraped_time": "2026-04-10 00:23:48",
     "videos": [
         {
             "video_id": "6Xa1VDLACPo",
@@ -7,7 +7,7 @@
             "channel_name": "AKMU - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "1185315",
+            "view_count": "1216835",
             "thumbnail_url": "https://i.ytimg.com/vi/6Xa1VDLACPo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:39",
-            "view_count": "85276",
+            "view_count": "93342",
             "thumbnail_url": "https://i.ytimg.com/vi/A3tAarrM87w/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "16:22",
-            "view_count": "225724",
+            "view_count": "261713",
             "thumbnail_url": "https://i.ytimg.com/vi/IaikwXMndvU/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "T.O.P",
             "category": "Music",
             "duration": "4:36",
-            "view_count": "1339365",
+            "view_count": "1420294",
             "thumbnail_url": "https://i.ytimg.com/vi/cfaybWG25D4/hqdefault.jpg"
         },
         {
@@ -43,17 +43,17 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "2:03",
-            "view_count": "604062",
+            "view_count": "625685",
             "thumbnail_url": "https://i.ytimg.com/vi/rfMfnZPvzAY/hqdefault.jpg"
         },
         {
-            "video_id": "-YdLhAdsDQs",
-            "title": "[ 똘끼 리니지클래식 ] 혈맹운영",
-            "channel_name": "똘끼100%",
+            "video_id": "C4w1jPpP7yw",
+            "title": "Maple Now | 김창섭 디렉터 (26.04.09)",
+            "channel_name": "메이플스토리",
             "category": "Gaming",
-            "duration": "5:56:49",
-            "view_count": "259643",
-            "thumbnail_url": "https://i.ytimg.com/vi/-YdLhAdsDQs/hqdefault.jpg"
+            "duration": "2:00:40",
+            "view_count": "136277",
+            "thumbnail_url": "https://i.ytimg.com/vi/C4w1jPpP7yw/hqdefault.jpg"
         },
         {
             "video_id": "diBO0gMuTXo",
@@ -61,7 +61,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "12111985",
+            "view_count": "12317717",
             "thumbnail_url": "https://i.ytimg.com/vi/diBO0gMuTXo/hqdefault.jpg"
         },
         {
@@ -70,17 +70,17 @@
             "channel_name": "드라마보이",
             "category": "People & Blogs",
             "duration": "9:29",
-            "view_count": "16361",
+            "view_count": "19546",
             "thumbnail_url": "https://i.ytimg.com/vi/9xd_Ss0WHDk/hqdefault.jpg"
         },
         {
-            "video_id": "C4w1jPpP7yw",
-            "title": "Maple Now | 김창섭 디렉터 (26.04.09)",
-            "channel_name": "메이플스토리",
+            "video_id": "-YdLhAdsDQs",
+            "title": "[ 똘끼 리니지클래식 ] 혈맹운영",
+            "channel_name": "똘끼100%",
             "category": "Gaming",
-            "duration": "2:00:40",
-            "view_count": "129952",
-            "thumbnail_url": "https://i.ytimg.com/vi/C4w1jPpP7yw/hqdefault.jpg"
+            "duration": "5:56:49",
+            "view_count": "261586",
+            "thumbnail_url": "https://i.ytimg.com/vi/-YdLhAdsDQs/hqdefault.jpg"
         },
         {
             "video_id": "C1cfxLAOmHc",
@@ -88,8 +88,26 @@
             "channel_name": "Sik-K - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "526667",
+            "view_count": "535977",
             "thumbnail_url": "https://i.ytimg.com/vi/C1cfxLAOmHc/hqdefault.jpg"
+        },
+        {
+            "video_id": "HqvDKxvQa2M",
+            "title": "\"THE ZD 너프\" 저 피파 접어야 하나요?",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "20:56",
+            "view_count": "156999",
+            "thumbnail_url": "https://i.ytimg.com/vi/HqvDKxvQa2M/hqdefault.jpg"
+        },
+        {
+            "video_id": "YEMBk076jGM",
+            "title": "화사 (HWASA) - 'So Cute' MV",
+            "channel_name": "HWASA",
+            "category": "Music",
+            "duration": "3:47",
+            "view_count": "289005",
+            "thumbnail_url": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg"
         },
         {
             "video_id": "HqPwD4KiEnc",
@@ -97,7 +115,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "1:00:41",
-            "view_count": "247485",
+            "view_count": "254201",
             "thumbnail_url": "https://i.ytimg.com/vi/HqPwD4KiEnc/hqdefault.jpg"
         },
         {
@@ -106,26 +124,8 @@
             "channel_name": "YOUNG POSSE • 영파씨",
             "category": "Entertainment",
             "duration": "3:13",
-            "view_count": "239103",
+            "view_count": "243522",
             "thumbnail_url": "https://i.ytimg.com/vi/01pEUMbf5Mw/hqdefault.jpg"
-        },
-        {
-            "video_id": "HqvDKxvQa2M",
-            "title": "\"THE ZD 너프\" 저 피파 접어야 하나요?",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "20:56",
-            "view_count": "144883",
-            "thumbnail_url": "https://i.ytimg.com/vi/HqvDKxvQa2M/hqdefault.jpg"
-        },
-        {
-            "video_id": "NM3tJNIOZRc",
-            "title": "What's a girl to do",
-            "channel_name": "DAYOUNG - Topic",
-            "category": "Music",
-            "duration": "2:10",
-            "view_count": "171405",
-            "thumbnail_url": "https://i.ytimg.com/vi/NM3tJNIOZRc/hqdefault.jpg"
         },
         {
             "video_id": "4OkKTyZNDNE",
@@ -133,8 +133,26 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "25:07",
-            "view_count": "203665",
+            "view_count": "208360",
             "thumbnail_url": "https://i.ytimg.com/vi/4OkKTyZNDNE/hqdefault.jpg"
+        },
+        {
+            "video_id": "NM3tJNIOZRc",
+            "title": "What's a girl to do",
+            "channel_name": "DAYOUNG - Topic",
+            "category": "Music",
+            "duration": "2:10",
+            "view_count": "178640",
+            "thumbnail_url": "https://i.ytimg.com/vi/NM3tJNIOZRc/hqdefault.jpg"
+        },
+        {
+            "video_id": "gmPuOqJ7c6c",
+            "title": "실시간 핵 해명 현장에 몰래 잠입해봤습니다 ㅋㅋㅋ 미쳐날뛰는 핵쟁이 1열 직관 | Nobody 2화 [로검사TV]",
+            "channel_name": "로자르",
+            "category": "Gaming",
+            "duration": "31:27",
+            "view_count": "98251",
+            "thumbnail_url": "https://i.ytimg.com/vi/gmPuOqJ7c6c/hqdefault.jpg"
         },
         {
             "video_id": "Uz5zeFQzIL4",
@@ -142,7 +160,7 @@
             "channel_name": "KISS OF LIFE - Topic",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "709560",
+            "view_count": "728365",
             "thumbnail_url": "https://i.ytimg.com/vi/Uz5zeFQzIL4/hqdefault.jpg"
         },
         {
@@ -151,26 +169,8 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:28",
-            "view_count": "477417",
+            "view_count": "480799",
             "thumbnail_url": "https://i.ytimg.com/vi/22no_fVl57c/hqdefault.jpg"
-        },
-        {
-            "video_id": "YEMBk076jGM",
-            "title": "화사 (HWASA) - 'So Cute' MV",
-            "channel_name": "HWASA",
-            "category": "Music",
-            "duration": "3:47",
-            "view_count": "175085",
-            "thumbnail_url": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg"
-        },
-        {
-            "video_id": "LPrvzJaOfFo",
-            "title": "리니지클래식 역사를 뒤바꿀 훅팀",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "11:14:22",
-            "view_count": "160847",
-            "thumbnail_url": "https://i.ytimg.com/vi/LPrvzJaOfFo/hqdefault.jpg"
         },
         {
             "video_id": "dKmPEhJ4wjY",
@@ -178,7 +178,7 @@
             "channel_name": "Anyma",
             "category": "Music",
             "duration": "2:30",
-            "view_count": "3015478",
+            "view_count": "3177139",
             "thumbnail_url": "https://i.ytimg.com/vi/dKmPEhJ4wjY/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "34:14",
-            "view_count": "210386",
+            "view_count": "213514",
             "thumbnail_url": "https://i.ytimg.com/vi/9nhwbXhD73s/hqdefault.jpg"
         },
         {
@@ -196,17 +196,17 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "4817656",
+            "view_count": "4861178",
             "thumbnail_url": "https://i.ytimg.com/vi/A1nu9jg6ciY/hqdefault.jpg"
         },
         {
-            "video_id": "gmPuOqJ7c6c",
-            "title": "실시간 핵 해명 현장에 몰래 잠입해봤습니다 ㅋㅋㅋ 미쳐날뛰는 핵쟁이 1열 직관 | Nobody 2화 [로검사TV]",
-            "channel_name": "로자르",
+            "video_id": "BtkHABiVGoM",
+            "title": "레벨격차 개무시하는 불독1위 ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "레고77",
             "category": "Gaming",
-            "duration": "31:27",
-            "view_count": "89700",
-            "thumbnail_url": "https://i.ytimg.com/vi/gmPuOqJ7c6c/hqdefault.jpg"
+            "duration": "13:54",
+            "view_count": "150871",
+            "thumbnail_url": "https://i.ytimg.com/vi/BtkHABiVGoM/hqdefault.jpg"
         },
         {
             "video_id": "op05giODUE0",
@@ -214,8 +214,26 @@
             "channel_name": "RESCENE - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "65623",
+            "view_count": "69233",
             "thumbnail_url": "https://i.ytimg.com/vi/op05giODUE0/hqdefault.jpg"
+        },
+        {
+            "video_id": "LPrvzJaOfFo",
+            "title": "리니지클래식 역사를 뒤바꿀 훅팀",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "11:14:22",
+            "view_count": "162158",
+            "thumbnail_url": "https://i.ytimg.com/vi/LPrvzJaOfFo/hqdefault.jpg"
+        },
+        {
+            "video_id": "LoGOyevxfCM",
+            "title": "Born Savage (Preview)",
+            "channel_name": "PLAVE - Topic",
+            "category": "Music",
+            "duration": "0:22",
+            "view_count": "24371",
+            "thumbnail_url": "https://i.ytimg.com/vi/LoGOyevxfCM/hqdefault.jpg"
         },
         {
             "video_id": "56gsWO_r2Pg",
@@ -223,7 +241,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "38:15",
-            "view_count": "359637",
+            "view_count": "364112",
             "thumbnail_url": "https://i.ytimg.com/vi/56gsWO_r2Pg/hqdefault.jpg"
         },
         {
@@ -232,26 +250,8 @@
             "channel_name": "KARD",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "433077",
+            "view_count": "436695",
             "thumbnail_url": "https://i.ytimg.com/vi/xP_nrIzsH-8/hqdefault.jpg"
-        },
-        {
-            "video_id": "BtkHABiVGoM",
-            "title": "레벨격차 개무시하는 불독1위 ㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "13:54",
-            "view_count": "136963",
-            "thumbnail_url": "https://i.ytimg.com/vi/BtkHABiVGoM/hqdefault.jpg"
-        },
-        {
-            "video_id": "LoGOyevxfCM",
-            "title": "Born Savage (Preview)",
-            "channel_name": "PLAVE - Topic",
-            "category": "Music",
-            "duration": "0:22",
-            "view_count": "20477",
-            "thumbnail_url": "https://i.ytimg.com/vi/LoGOyevxfCM/hqdefault.jpg"
         },
         {
             "video_id": "hHiSBrP8poY",
@@ -259,7 +259,7 @@
             "channel_name": "LCK Global",
             "category": "Gaming",
             "duration": "4:53:30",
-            "view_count": "977955",
+            "view_count": "979793",
             "thumbnail_url": "https://i.ytimg.com/vi/hHiSBrP8poY/hqdefault.jpg"
         },
         {
@@ -268,62 +268,26 @@
             "channel_name": "NOWZ 나우즈 (Official YouTube Channel)",
             "category": "Entertainment",
             "duration": "2:56",
-            "view_count": "82397",
+            "view_count": "84789",
             "thumbnail_url": "https://i.ytimg.com/vi/YpWNOH4Aads/hqdefault.jpg"
         },
         {
-            "video_id": "i4eD8n7xxNw",
-            "title": "[아이온2] 시즌3 신규 원정 \"환영의 회랑\" 공략법 - 이 영상 하나로 끝",
-            "channel_name": "쵸튜브[쵸피]",
+            "video_id": "Adm0I9l14O8",
+            "title": "이게 사람이냐? 핵이냐? 요즘 핵을 AI로 만든다는데 진짜 구분이 안 됩니다....",
+            "channel_name": "김된모",
             "category": "Gaming",
-            "duration": "10:49",
-            "view_count": "71799",
-            "thumbnail_url": "https://i.ytimg.com/vi/i4eD8n7xxNw/hqdefault.jpg"
+            "duration": "20:57",
+            "view_count": "47986",
+            "thumbnail_url": "https://i.ytimg.com/vi/Adm0I9l14O8/hqdefault.jpg"
         },
         {
-            "video_id": "qE5y9eh_PCA",
-            "title": "원필(WONPIL) \"어른이 되어 버렸다\" LIVE CLIP",
+            "video_id": "icr7AAejNig",
+            "title": "원필(WONPIL) \"피아노\" LIVE CLIP",
             "channel_name": "DAY6",
             "category": "People & Blogs",
-            "duration": "3:31",
-            "view_count": "41201",
-            "thumbnail_url": "https://i.ytimg.com/vi/qE5y9eh_PCA/hqdefault.jpg"
-        },
-        {
-            "video_id": "uVTQp0XlA-Q",
-            "title": "점검 조기종료! 1빠로 접속해서 신규팩 리뷰 소과금 꼭보세요!",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "14:10",
-            "view_count": "66478",
-            "thumbnail_url": "https://i.ytimg.com/vi/uVTQp0XlA-Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "f8Y1OP6wv3A",
-            "title": "정승환 ‘청혼’ Cover (원곡 : 이소라) | SeungTUDIO",
-            "channel_name": "정승환 Jung Seung Hwan",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "64707",
-            "thumbnail_url": "https://i.ytimg.com/vi/f8Y1OP6wv3A/hqdefault.jpg"
-        },
-        {
-            "video_id": "Kqylly9ZAwo",
-            "title": "분노하면 성장한다는 상대 앞에 나타난 분노 제조기 알파고, 그리고 상대는 엄청난 급성장을 하기 시작했다",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "1:03:51",
-            "view_count": "96274",
-            "thumbnail_url": "https://i.ytimg.com/vi/Kqylly9ZAwo/hqdefault.jpg"
-        },
-        {
-            "video_id": "8VIKNrphz1k",
-            "title": "눈에 거슬리고 싶어 (Eye-Poppin')",
-            "channel_name": "KickFlip - Topic",
-            "category": "Music",
-            "duration": "2:42",
-            "view_count": "165442",
-            "thumbnail_url": "https://i.ytimg.com/vi/8VIKNrphz1k/hqdefault.jpg"
+            "duration": "3:11",
+            "view_count": "17571",
+            "thumbnail_url": "https://i.ytimg.com/vi/icr7AAejNig/hqdefault.jpg"
         },
         {
             "video_id": "qZxt1ki0F4g",
@@ -331,8 +295,26 @@
             "channel_name": "김팥순",
             "category": "Gaming",
             "duration": "9:27",
-            "view_count": "50346",
+            "view_count": "57698",
             "thumbnail_url": "https://i.ytimg.com/vi/qZxt1ki0F4g/hqdefault.jpg"
+        },
+        {
+            "video_id": "f8Y1OP6wv3A",
+            "title": "정승환 ‘청혼’ Cover (원곡 : 이소라) | SeungTUDIO",
+            "channel_name": "정승환 Jung Seung Hwan",
+            "category": "Music",
+            "duration": "3:31",
+            "view_count": "67134",
+            "thumbnail_url": "https://i.ytimg.com/vi/f8Y1OP6wv3A/hqdefault.jpg"
+        },
+        {
+            "video_id": "tn2XYqZQMX4",
+            "title": "애니비아는 더이상 미드챔이 아닙니다. 뚜벅이들의 재앙 \"탑 착취 애니비아 전략\" 🧊🪽",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "28:44",
+            "view_count": "51296",
+            "thumbnail_url": "https://i.ytimg.com/vi/tn2XYqZQMX4/hqdefault.jpg"
         },
         {
             "video_id": "F0MkovTbbLA",
@@ -340,17 +322,35 @@
             "channel_name": "TOMORROW X TOGETHER - Topic",
             "category": "Music",
             "duration": "0:37",
-            "view_count": "86004",
+            "view_count": "91866",
             "thumbnail_url": "https://i.ytimg.com/vi/F0MkovTbbLA/hqdefault.jpg"
         },
         {
-            "video_id": "YLtddxwxC9w",
-            "title": "[원재]리니지클래식 4.9 데포로쥬 목요일 출근  \"턱\" 더케이 天堂W 리니지M 리니지W 리니지클래식 리니지",
-            "channel_name": "원재TV",
+            "video_id": "i4eD8n7xxNw",
+            "title": "[아이온2] 시즌3 신규 원정 \"환영의 회랑\" 공략법 - 이 영상 하나로 끝",
+            "channel_name": "쵸튜브[쵸피]",
             "category": "Gaming",
-            "duration": "8:21:25",
-            "view_count": "72151",
-            "thumbnail_url": "https://i.ytimg.com/vi/YLtddxwxC9w/hqdefault.jpg"
+            "duration": "10:49",
+            "view_count": "72521",
+            "thumbnail_url": "https://i.ytimg.com/vi/i4eD8n7xxNw/hqdefault.jpg"
+        },
+        {
+            "video_id": "8VIKNrphz1k",
+            "title": "눈에 거슬리고 싶어 (Eye-Poppin')",
+            "channel_name": "KickFlip - Topic",
+            "category": "Music",
+            "duration": "2:42",
+            "view_count": "167780",
+            "thumbnail_url": "https://i.ytimg.com/vi/8VIKNrphz1k/hqdefault.jpg"
+        },
+        {
+            "video_id": "uVTQp0XlA-Q",
+            "title": "점검 조기종료! 1빠로 접속해서 신규팩 리뷰 소과금 꼭보세요!",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "14:10",
+            "view_count": "70681",
+            "thumbnail_url": "https://i.ytimg.com/vi/uVTQp0XlA-Q/hqdefault.jpg"
         },
         {
             "video_id": "OTHsICcpUvg",
@@ -358,17 +358,17 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "6:24",
-            "view_count": "82094",
+            "view_count": "83541",
             "thumbnail_url": "https://i.ytimg.com/vi/OTHsICcpUvg/hqdefault.jpg"
         },
         {
-            "video_id": "vVlXBH1Vhp8",
-            "title": "[LIVE] 4월 7일 아이온2 업데이트 프리뷰 방송",
-            "channel_name": "AION2",
+            "video_id": "KgMm7ofo9CM",
+            "title": "【 탬탬버린 】 - 아 못참고 저질러버렸다 나는 진짜 경고했어",
+            "channel_name": "탬탬버린",
             "category": "Gaming",
-            "duration": "1:24:43",
-            "view_count": "186236",
-            "thumbnail_url": "https://i.ytimg.com/vi/vVlXBH1Vhp8/hqdefault.jpg"
+            "duration": "18:13",
+            "view_count": "59151",
+            "thumbnail_url": "https://i.ytimg.com/vi/KgMm7ofo9CM/hqdefault.jpg"
         },
         {
             "video_id": "9P4p97KOEGA",
@@ -376,7 +376,7 @@
             "channel_name": "민둥맨둥 주민주",
             "category": "Music",
             "duration": "3:53",
-            "view_count": "153199",
+            "view_count": "156990",
             "thumbnail_url": "https://i.ytimg.com/vi/9P4p97KOEGA/hqdefault.jpg"
         }
     ]
