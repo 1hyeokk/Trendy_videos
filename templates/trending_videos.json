@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-10 08:39:22",
+    "scraped_time": "2026-04-10 11:49:21",
     "videos": [
         {
             "video_id": "6Xa1VDLACPo",
@@ -7,7 +7,7 @@
             "channel_name": "AKMU - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "1280538",
+            "view_count": "1404196",
             "thumbnail_url": "https://i.ytimg.com/vi/6Xa1VDLACPo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:39",
-            "view_count": "104083",
+            "view_count": "116162",
             "thumbnail_url": "https://i.ytimg.com/vi/A3tAarrM87w/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:20",
-            "view_count": "238627",
+            "view_count": "273472",
             "thumbnail_url": "https://i.ytimg.com/vi/f1vcDQ0lEew/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "T.O.P",
             "category": "Music",
             "duration": "4:36",
-            "view_count": "1665780",
+            "view_count": "1747709",
             "thumbnail_url": "https://i.ytimg.com/vi/cfaybWG25D4/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "2:03",
-            "view_count": "656150",
+            "view_count": "670321",
             "thumbnail_url": "https://i.ytimg.com/vi/rfMfnZPvzAY/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "16:22",
-            "view_count": "333330",
+            "view_count": "353598",
             "thumbnail_url": "https://i.ytimg.com/vi/IaikwXMndvU/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "13199236",
+            "view_count": "13471246",
             "thumbnail_url": "https://i.ytimg.com/vi/diBO0gMuTXo/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "드라마보이",
             "category": "People & Blogs",
             "duration": "9:29",
-            "view_count": "28904",
+            "view_count": "35165",
             "thumbnail_url": "https://i.ytimg.com/vi/9xd_Ss0WHDk/hqdefault.jpg"
-        },
-        {
-            "video_id": "C4w1jPpP7yw",
-            "title": "Maple Now | 김창섭 디렉터 (26.04.09)",
-            "channel_name": "메이플스토리",
-            "category": "Gaming",
-            "duration": "2:00:40",
-            "view_count": "144121",
-            "thumbnail_url": "https://i.ytimg.com/vi/C4w1jPpP7yw/hqdefault.jpg"
-        },
-        {
-            "video_id": "YEMBk076jGM",
-            "title": "화사 (HWASA) - 'So Cute' MV",
-            "channel_name": "HWASA",
-            "category": "Music",
-            "duration": "3:47",
-            "view_count": "1172724",
-            "thumbnail_url": "https://i.ytimg.com/vi/YEMBk076jGM/hqdefault.jpg"
         },
         {
             "video_id": "HqvDKxvQa2M",
@@ -97,17 +79,35 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:56",
-            "view_count": "187328",
+            "view_count": "195816",
             "thumbnail_url": "https://i.ytimg.com/vi/HqvDKxvQa2M/hqdefault.jpg"
         },
         {
-            "video_id": "C1cfxLAOmHc",
-            "title": "PUBLIC ENEMIES",
-            "channel_name": "Sik-K - Topic",
+            "video_id": "1RtAeLJtRtE",
+            "title": "So Cute",
+            "channel_name": "HWASA - Topic",
             "category": "Music",
-            "duration": "4:03",
-            "view_count": "552274",
-            "thumbnail_url": "https://i.ytimg.com/vi/C1cfxLAOmHc/hqdefault.jpg"
+            "duration": "3:35",
+            "view_count": "106740",
+            "thumbnail_url": "https://i.ytimg.com/vi/1RtAeLJtRtE/hqdefault.jpg"
+        },
+        {
+            "video_id": "C4w1jPpP7yw",
+            "title": "Maple Now | 김창섭 디렉터 (26.04.09)",
+            "channel_name": "메이플스토리",
+            "category": "Gaming",
+            "duration": "2:00:40",
+            "view_count": "145535",
+            "thumbnail_url": "https://i.ytimg.com/vi/C4w1jPpP7yw/hqdefault.jpg"
+        },
+        {
+            "video_id": "o-N7lgayxPA",
+            "title": "귀엽기만 하면 안 되나요?",
+            "channel_name": "CUTIE STREET - Topic",
+            "category": "Music",
+            "duration": "4:11",
+            "view_count": "23559",
+            "thumbnail_url": "https://i.ytimg.com/vi/o-N7lgayxPA/hqdefault.jpg"
         },
         {
             "video_id": "-YdLhAdsDQs",
@@ -115,44 +115,8 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "5:56:49",
-            "view_count": "260209",
+            "view_count": "261158",
             "thumbnail_url": "https://i.ytimg.com/vi/-YdLhAdsDQs/hqdefault.jpg"
-        },
-        {
-            "video_id": "01pEUMbf5Mw",
-            "title": "영파씨 (YOUNG POSSE) 'we don't go to bed tonight' MV",
-            "channel_name": "YOUNG POSSE • 영파씨",
-            "category": "Entertainment",
-            "duration": "3:13",
-            "view_count": "254994",
-            "thumbnail_url": "https://i.ytimg.com/vi/01pEUMbf5Mw/hqdefault.jpg"
-        },
-        {
-            "video_id": "HqPwD4KiEnc",
-            "title": "실전에서 가장 사기 포켓몬은 누굴까?【실전 사기 포켓몬 월드컵】",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "1:00:41",
-            "view_count": "275231",
-            "thumbnail_url": "https://i.ytimg.com/vi/HqPwD4KiEnc/hqdefault.jpg"
-        },
-        {
-            "video_id": "NM3tJNIOZRc",
-            "title": "What's a girl to do",
-            "channel_name": "DAYOUNG - Topic",
-            "category": "Music",
-            "duration": "2:10",
-            "view_count": "198562",
-            "thumbnail_url": "https://i.ytimg.com/vi/NM3tJNIOZRc/hqdefault.jpg"
-        },
-        {
-            "video_id": "5ujA5pL633Q",
-            "title": "리니지클래식",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "5:28:04",
-            "view_count": "83902",
-            "thumbnail_url": "https://i.ytimg.com/vi/5ujA5pL633Q/hqdefault.jpg"
         },
         {
             "video_id": "TCT0ZcKObUQ",
@@ -160,7 +124,7 @@
             "channel_name": "소니뮤직코리아 Sony Music Korea",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "9250",
+            "view_count": "18429",
             "thumbnail_url": "https://i.ytimg.com/vi/TCT0ZcKObUQ/hqdefault.jpg"
         },
         {
@@ -169,17 +133,53 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "27:39",
-            "view_count": "100708",
+            "view_count": "125324",
             "thumbnail_url": "https://i.ytimg.com/vi/6iTVkebf3TA/hqdefault.jpg"
         },
         {
-            "video_id": "Uz5zeFQzIL4",
-            "title": "Who is she",
-            "channel_name": "KISS OF LIFE - Topic",
+            "video_id": "C1cfxLAOmHc",
+            "title": "PUBLIC ENEMIES",
+            "channel_name": "Sik-K - Topic",
             "category": "Music",
-            "duration": "2:39",
-            "view_count": "780609",
-            "thumbnail_url": "https://i.ytimg.com/vi/Uz5zeFQzIL4/hqdefault.jpg"
+            "duration": "4:03",
+            "view_count": "569461",
+            "thumbnail_url": "https://i.ytimg.com/vi/C1cfxLAOmHc/hqdefault.jpg"
+        },
+        {
+            "video_id": "5ujA5pL633Q",
+            "title": "리니지클래식",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "5:28:04",
+            "view_count": "92525",
+            "thumbnail_url": "https://i.ytimg.com/vi/5ujA5pL633Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "NM3tJNIOZRc",
+            "title": "What's a girl to do",
+            "channel_name": "DAYOUNG - Topic",
+            "category": "Music",
+            "duration": "2:10",
+            "view_count": "222181",
+            "thumbnail_url": "https://i.ytimg.com/vi/NM3tJNIOZRc/hqdefault.jpg"
+        },
+        {
+            "video_id": "HqPwD4KiEnc",
+            "title": "실전에서 가장 사기 포켓몬은 누굴까?【실전 사기 포켓몬 월드컵】",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "1:00:41",
+            "view_count": "279843",
+            "thumbnail_url": "https://i.ytimg.com/vi/HqPwD4KiEnc/hqdefault.jpg"
+        },
+        {
+            "video_id": "01pEUMbf5Mw",
+            "title": "영파씨 (YOUNG POSSE) 'we don't go to bed tonight' MV",
+            "channel_name": "YOUNG POSSE • 영파씨",
+            "category": "Entertainment",
+            "duration": "3:13",
+            "view_count": "261052",
+            "thumbnail_url": "https://i.ytimg.com/vi/01pEUMbf5Mw/hqdefault.jpg"
         },
         {
             "video_id": "tn2XYqZQMX4",
@@ -187,17 +187,17 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "28:44",
-            "view_count": "105965",
+            "view_count": "115588",
             "thumbnail_url": "https://i.ytimg.com/vi/tn2XYqZQMX4/hqdefault.jpg"
         },
         {
-            "video_id": "dKmPEhJ4wjY",
-            "title": "Anyma, LISA - Bad Angel (Official Music Video)",
-            "channel_name": "Anyma",
+            "video_id": "Uz5zeFQzIL4",
+            "title": "Who is she",
+            "channel_name": "KISS OF LIFE - Topic",
             "category": "Music",
-            "duration": "2:30",
-            "view_count": "3861347",
-            "thumbnail_url": "https://i.ytimg.com/vi/dKmPEhJ4wjY/hqdefault.jpg"
+            "duration": "2:39",
+            "view_count": "821560",
+            "thumbnail_url": "https://i.ytimg.com/vi/Uz5zeFQzIL4/hqdefault.jpg"
         },
         {
             "video_id": "gmPuOqJ7c6c",
@@ -205,35 +205,17 @@
             "channel_name": "로자르",
             "category": "Gaming",
             "duration": "31:27",
-            "view_count": "117303",
+            "view_count": "121511",
             "thumbnail_url": "https://i.ytimg.com/vi/gmPuOqJ7c6c/hqdefault.jpg"
         },
         {
-            "video_id": "o-N7lgayxPA",
-            "title": "귀엽기만 하면 안 되나요?",
-            "channel_name": "CUTIE STREET - Topic",
+            "video_id": "dKmPEhJ4wjY",
+            "title": "Anyma, LISA - Bad Angel (Official Music Video)",
+            "channel_name": "Anyma",
             "category": "Music",
-            "duration": "4:11",
-            "view_count": "9423",
-            "thumbnail_url": "https://i.ytimg.com/vi/o-N7lgayxPA/hqdefault.jpg"
-        },
-        {
-            "video_id": "rwNHACfx71A",
-            "title": "리니지클래식 데포로쥬  10크로 썰자 '알트요정'(대리) 입니다 #이문주 #카즈야 #불도그 #리니지클래식",
-            "channel_name": "헥사",
-            "category": "Gaming",
-            "duration": "11:55:00",
-            "view_count": "105822",
-            "thumbnail_url": "https://i.ytimg.com/vi/rwNHACfx71A/hqdefault.jpg"
-        },
-        {
-            "video_id": "op05giODUE0",
-            "title": "Runaway",
-            "channel_name": "RESCENE - Topic",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "77561",
-            "thumbnail_url": "https://i.ytimg.com/vi/op05giODUE0/hqdefault.jpg"
+            "duration": "2:30",
+            "view_count": "3998863",
+            "thumbnail_url": "https://i.ytimg.com/vi/dKmPEhJ4wjY/hqdefault.jpg"
         },
         {
             "video_id": "BtkHABiVGoM",
@@ -241,17 +223,17 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "13:54",
-            "view_count": "179923",
+            "view_count": "185917",
             "thumbnail_url": "https://i.ytimg.com/vi/BtkHABiVGoM/hqdefault.jpg"
         },
         {
-            "video_id": "A1nu9jg6ciY",
-            "title": "BTS '2.0' Dance Practice",
-            "channel_name": "BANGTANTV",
+            "video_id": "op05giODUE0",
+            "title": "Runaway",
+            "channel_name": "RESCENE - Topic",
             "category": "Music",
-            "duration": "2:58",
-            "view_count": "4997694",
-            "thumbnail_url": "https://i.ytimg.com/vi/A1nu9jg6ciY/hqdefault.jpg"
+            "duration": "3:02",
+            "view_count": "83973",
+            "thumbnail_url": "https://i.ytimg.com/vi/op05giODUE0/hqdefault.jpg"
         },
         {
             "video_id": "Adm0I9l14O8",
@@ -259,8 +241,26 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "20:57",
-            "view_count": "78775",
+            "view_count": "88083",
             "thumbnail_url": "https://i.ytimg.com/vi/Adm0I9l14O8/hqdefault.jpg"
+        },
+        {
+            "video_id": "A1nu9jg6ciY",
+            "title": "BTS '2.0' Dance Practice",
+            "channel_name": "BANGTANTV",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "5038893",
+            "thumbnail_url": "https://i.ytimg.com/vi/A1nu9jg6ciY/hqdefault.jpg"
+        },
+        {
+            "video_id": "rwNHACfx71A",
+            "title": "리니지클래식 데포로쥬  10크로 썰자 '알트요정'(대리) 입니다 #이문주 #카즈야 #불도그 #리니지클래식",
+            "channel_name": "헥사",
+            "category": "Gaming",
+            "duration": "11:55:00",
+            "view_count": "106601",
+            "thumbnail_url": "https://i.ytimg.com/vi/rwNHACfx71A/hqdefault.jpg"
         },
         {
             "video_id": "LoGOyevxfCM",
@@ -268,17 +268,17 @@
             "channel_name": "PLAVE - Topic",
             "category": "Music",
             "duration": "0:22",
-            "view_count": "31390",
+            "view_count": "33510",
             "thumbnail_url": "https://i.ytimg.com/vi/LoGOyevxfCM/hqdefault.jpg"
         },
         {
-            "video_id": "9nhwbXhD73s",
-            "title": "예상치 못한 충격적인 경기력.. 결국 참지못한 한마디 | T1 vs GEN | 하이라이트 | 04.08 | 2026 LCK",
-            "channel_name": "클리드",
+            "video_id": "KXE6QmJ0FNk",
+            "title": "상대 : 리버를 누가 그따위로 써 미친XX야",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "34:14",
-            "view_count": "221033",
-            "thumbnail_url": "https://i.ytimg.com/vi/9nhwbXhD73s/hqdefault.jpg"
+            "duration": "26:07",
+            "view_count": "105604",
+            "thumbnail_url": "https://i.ytimg.com/vi/KXE6QmJ0FNk/hqdefault.jpg"
         },
         {
             "video_id": "xP_nrIzsH-8",
@@ -286,8 +286,26 @@
             "channel_name": "KARD",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "450626",
+            "view_count": "458933",
             "thumbnail_url": "https://i.ytimg.com/vi/xP_nrIzsH-8/hqdefault.jpg"
+        },
+        {
+            "video_id": "9nhwbXhD73s",
+            "title": "예상치 못한 충격적인 경기력.. 결국 참지못한 한마디 | T1 vs GEN | 하이라이트 | 04.08 | 2026 LCK",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "34:14",
+            "view_count": "222708",
+            "thumbnail_url": "https://i.ytimg.com/vi/9nhwbXhD73s/hqdefault.jpg"
+        },
+        {
+            "video_id": "icr7AAejNig",
+            "title": "원필(WONPIL) \"피아노\" LIVE CLIP",
+            "channel_name": "DAY6",
+            "category": "People & Blogs",
+            "duration": "3:11",
+            "view_count": "25874",
+            "thumbnail_url": "https://i.ytimg.com/vi/icr7AAejNig/hqdefault.jpg"
         },
         {
             "video_id": "22no_fVl57c",
@@ -295,7 +313,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:28",
-            "view_count": "491561",
+            "view_count": "493735",
             "thumbnail_url": "https://i.ytimg.com/vi/22no_fVl57c/hqdefault.jpg"
         },
         {
@@ -304,44 +322,8 @@
             "channel_name": "NOWZ 나우즈 (Official YouTube Channel)",
             "category": "Entertainment",
             "duration": "2:56",
-            "view_count": "90468",
+            "view_count": "98596",
             "thumbnail_url": "https://i.ytimg.com/vi/YpWNOH4Aads/hqdefault.jpg"
-        },
-        {
-            "video_id": "KXE6QmJ0FNk",
-            "title": "상대 : 리버를 누가 그따위로 써 미친XX야",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "26:07",
-            "view_count": "96444",
-            "thumbnail_url": "https://i.ytimg.com/vi/KXE6QmJ0FNk/hqdefault.jpg"
-        },
-        {
-            "video_id": "icr7AAejNig",
-            "title": "원필(WONPIL) \"피아노\" LIVE CLIP",
-            "channel_name": "DAY6",
-            "category": "People & Blogs",
-            "duration": "3:11",
-            "view_count": "23690",
-            "thumbnail_url": "https://i.ytimg.com/vi/icr7AAejNig/hqdefault.jpg"
-        },
-        {
-            "video_id": "56gsWO_r2Pg",
-            "title": "IQ150 말갈량의 천재적인 작전 [마크 하드코어 EP.22]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "38:15",
-            "view_count": "373830",
-            "thumbnail_url": "https://i.ytimg.com/vi/56gsWO_r2Pg/hqdefault.jpg"
-        },
-        {
-            "video_id": "f8Y1OP6wv3A",
-            "title": "정승환 ‘청혼’ Cover (원곡 : 이소라) | SeungTUDIO",
-            "channel_name": "정승환 Jung Seung Hwan",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "72122",
-            "thumbnail_url": "https://i.ytimg.com/vi/f8Y1OP6wv3A/hqdefault.jpg"
         },
         {
             "video_id": "KgMm7ofo9CM",
@@ -349,17 +331,35 @@
             "channel_name": "탬탬버린",
             "category": "Gaming",
             "duration": "18:13",
-            "view_count": "89648",
+            "view_count": "100589",
             "thumbnail_url": "https://i.ytimg.com/vi/KgMm7ofo9CM/hqdefault.jpg"
         },
         {
-            "video_id": "F0MkovTbbLA",
-            "title": "하루에 하루만 더 (Stick With You) (Preview)",
-            "channel_name": "TOMORROW X TOGETHER - Topic",
+            "video_id": "f8Y1OP6wv3A",
+            "title": "정승환 ‘청혼’ Cover (원곡 : 이소라) | SeungTUDIO",
+            "channel_name": "정승환 Jung Seung Hwan",
             "category": "Music",
-            "duration": "0:37",
-            "view_count": "106992",
-            "thumbnail_url": "https://i.ytimg.com/vi/F0MkovTbbLA/hqdefault.jpg"
+            "duration": "3:31",
+            "view_count": "76152",
+            "thumbnail_url": "https://i.ytimg.com/vi/f8Y1OP6wv3A/hqdefault.jpg"
+        },
+        {
+            "video_id": "zQS32zG2MVs",
+            "title": "천재 딜러 저라뎃",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "28:56",
+            "view_count": "74938",
+            "thumbnail_url": "https://i.ytimg.com/vi/zQS32zG2MVs/hqdefault.jpg"
+        },
+        {
+            "video_id": "cJUCIvF5tsE",
+            "title": "거친 록커가 감정이 짙은 슬픈 트로트 곡들을 부르면 무슨 일이 벌어질까 (소름 주의 🎧) | AI 커버 #꽃길#고맙소#바람길#님이여#락발라드",
+            "channel_name": "옛날의 멜로디",
+            "category": "People & Blogs",
+            "duration": "1:10:45",
+            "view_count": "16818",
+            "thumbnail_url": "https://i.ytimg.com/vi/cJUCIvF5tsE/hqdefault.jpg"
         },
         {
             "video_id": "K1A1J5nyzWU",
@@ -367,7 +367,7 @@
             "channel_name": "대천사 김블루",
             "category": "Gaming",
             "duration": "12:34",
-            "view_count": "106439",
+            "view_count": "122341",
             "thumbnail_url": "https://i.ytimg.com/vi/K1A1J5nyzWU/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "KickFlip - Topic",
             "category": "Music",
             "duration": "2:42",
-            "view_count": "173771",
+            "view_count": "179973",
             "thumbnail_url": "https://i.ytimg.com/vi/8VIKNrphz1k/hqdefault.jpg"
         }
     ]
