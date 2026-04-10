@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-10 14:27:31",
+    "scraped_time": "2026-04-10 16:46:26",
     "videos": [
         {
             "video_id": "6Xa1VDLACPo",
@@ -7,7 +7,7 @@
             "channel_name": "AKMU - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "1480755",
+            "view_count": "1550362",
             "thumbnail_url": "https://i.ytimg.com/vi/6Xa1VDLACPo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:39",
-            "view_count": "129039",
+            "view_count": "137491",
             "thumbnail_url": "https://i.ytimg.com/vi/A3tAarrM87w/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:20",
-            "view_count": "305335",
+            "view_count": "329293",
             "thumbnail_url": "https://i.ytimg.com/vi/f1vcDQ0lEew/hqdefault.jpg"
         },
         {
@@ -34,17 +34,17 @@
             "channel_name": "T.O.P",
             "category": "Music",
             "duration": "4:36",
-            "view_count": "1820918",
+            "view_count": "1888764",
             "thumbnail_url": "https://i.ytimg.com/vi/cfaybWG25D4/hqdefault.jpg"
         },
         {
-            "video_id": "rfMfnZPvzAY",
-            "title": "[악마는 프라다를 입는다 2] 메인 예고편",
-            "channel_name": "20th Century Studios Korea",
+            "video_id": "RMh4qPh9c3k",
+            "title": "드디어 다음주에 옵니다.. ≪어벤져스: 둠스데이≫ 새로운 예고편 & 떡밥 루머 총정리",
+            "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
-            "duration": "2:03",
-            "view_count": "682698",
-            "thumbnail_url": "https://i.ytimg.com/vi/rfMfnZPvzAY/hqdefault.jpg"
+            "duration": "9:16",
+            "view_count": "25769",
+            "thumbnail_url": "https://i.ytimg.com/vi/RMh4qPh9c3k/hqdefault.jpg"
         },
         {
             "video_id": "IaikwXMndvU",
@@ -52,7 +52,7 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "16:22",
-            "view_count": "367882",
+            "view_count": "379847",
             "thumbnail_url": "https://i.ytimg.com/vi/IaikwXMndvU/hqdefault.jpg"
         },
         {
@@ -61,17 +61,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "13694361",
+            "view_count": "13857953",
             "thumbnail_url": "https://i.ytimg.com/vi/diBO0gMuTXo/hqdefault.jpg"
         },
         {
-            "video_id": "9xd_Ss0WHDk",
-            "title": "와...ㅁㅊ...25조원 명품 브랜드 수장이 됐다고....!?🔥미란다한테 갑질 시작한다고....!?🔥《악마는 프라다를 입는다2 최종 예고편 리뷰》🔥",
-            "channel_name": "드라마보이",
-            "category": "People & Blogs",
-            "duration": "9:29",
-            "view_count": "38668",
-            "thumbnail_url": "https://i.ytimg.com/vi/9xd_Ss0WHDk/hqdefault.jpg"
+            "video_id": "rfMfnZPvzAY",
+            "title": "[악마는 프라다를 입는다 2] 메인 예고편",
+            "channel_name": "20th Century Studios Korea",
+            "category": "Film & Animation",
+            "duration": "2:03",
+            "view_count": "693838",
+            "thumbnail_url": "https://i.ytimg.com/vi/rfMfnZPvzAY/hqdefault.jpg"
         },
         {
             "video_id": "6iTVkebf3TA",
@@ -79,7 +79,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "27:39",
-            "view_count": "147759",
+            "view_count": "163762",
             "thumbnail_url": "https://i.ytimg.com/vi/6iTVkebf3TA/hqdefault.jpg"
         },
         {
@@ -88,8 +88,17 @@
             "channel_name": "HWASA - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "129638",
+            "view_count": "147482",
             "thumbnail_url": "https://i.ytimg.com/vi/1RtAeLJtRtE/hqdefault.jpg"
+        },
+        {
+            "video_id": "9xd_Ss0WHDk",
+            "title": "와...ㅁㅊ...25조원 명품 브랜드 수장이 됐다고....!?🔥미란다한테 갑질 시작한다고....!?🔥《악마는 프라다를 입는다2 최종 예고편 리뷰》🔥",
+            "channel_name": "드라마보이",
+            "category": "People & Blogs",
+            "duration": "9:29",
+            "view_count": "41874",
+            "thumbnail_url": "https://i.ytimg.com/vi/9xd_Ss0WHDk/hqdefault.jpg"
         },
         {
             "video_id": "HqvDKxvQa2M",
@@ -97,7 +106,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:56",
-            "view_count": "203991",
+            "view_count": "210213",
             "thumbnail_url": "https://i.ytimg.com/vi/HqvDKxvQa2M/hqdefault.jpg"
         },
         {
@@ -106,8 +115,17 @@
             "channel_name": "CUTIE STREET - Topic",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "34260",
+            "view_count": "46693",
             "thumbnail_url": "https://i.ytimg.com/vi/o-N7lgayxPA/hqdefault.jpg"
+        },
+        {
+            "video_id": "oSeqs_xeqv4",
+            "title": "A Marvel Television Special Presentation: The Punisher: One Last Kill | Official Trailer",
+            "channel_name": "Marvel Entertainment",
+            "category": "Entertainment",
+            "duration": "1:42",
+            "view_count": "2519825",
+            "thumbnail_url": "https://i.ytimg.com/vi/oSeqs_xeqv4/hqdefault.jpg"
         },
         {
             "video_id": "C4w1jPpP7yw",
@@ -115,7 +133,7 @@
             "channel_name": "메이플스토리",
             "category": "Gaming",
             "duration": "2:00:40",
-            "view_count": "146879",
+            "view_count": "148075",
             "thumbnail_url": "https://i.ytimg.com/vi/C4w1jPpP7yw/hqdefault.jpg"
         },
         {
@@ -124,7 +142,7 @@
             "channel_name": "소니뮤직코리아 Sony Music Korea",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "23094",
+            "view_count": "27399",
             "thumbnail_url": "https://i.ytimg.com/vi/TCT0ZcKObUQ/hqdefault.jpg"
         },
         {
@@ -133,7 +151,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "5:56:49",
-            "view_count": "261749",
+            "view_count": "262050",
             "thumbnail_url": "https://i.ytimg.com/vi/-YdLhAdsDQs/hqdefault.jpg"
         },
         {
@@ -142,7 +160,7 @@
             "channel_name": "Sik-K - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "581815",
+            "view_count": "595188",
             "thumbnail_url": "https://i.ytimg.com/vi/C1cfxLAOmHc/hqdefault.jpg"
         },
         {
@@ -151,7 +169,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "5:28:04",
-            "view_count": "96894",
+            "view_count": "99411",
             "thumbnail_url": "https://i.ytimg.com/vi/5ujA5pL633Q/hqdefault.jpg"
         },
         {
@@ -160,7 +178,7 @@
             "channel_name": "DAYOUNG - Topic",
             "category": "Music",
             "duration": "2:10",
-            "view_count": "237135",
+            "view_count": "252223",
             "thumbnail_url": "https://i.ytimg.com/vi/NM3tJNIOZRc/hqdefault.jpg"
         },
         {
@@ -169,7 +187,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "28:44",
-            "view_count": "123806",
+            "view_count": "129161",
             "thumbnail_url": "https://i.ytimg.com/vi/tn2XYqZQMX4/hqdefault.jpg"
         },
         {
@@ -178,7 +196,7 @@
             "channel_name": "YOUNG POSSE • 영파씨",
             "category": "Entertainment",
             "duration": "3:13",
-            "view_count": "265469",
+            "view_count": "268857",
             "thumbnail_url": "https://i.ytimg.com/vi/01pEUMbf5Mw/hqdefault.jpg"
         },
         {
@@ -187,7 +205,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "1:00:41",
-            "view_count": "284497",
+            "view_count": "289248",
             "thumbnail_url": "https://i.ytimg.com/vi/HqPwD4KiEnc/hqdefault.jpg"
         },
         {
@@ -196,17 +214,17 @@
             "channel_name": "KISS OF LIFE - Topic",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "850417",
+            "view_count": "878458",
             "thumbnail_url": "https://i.ytimg.com/vi/Uz5zeFQzIL4/hqdefault.jpg"
         },
         {
-            "video_id": "gmPuOqJ7c6c",
-            "title": "실시간 핵 해명 현장에 몰래 잠입해봤습니다 ㅋㅋㅋ 미쳐날뛰는 핵쟁이 1열 직관 | Nobody 2화 [로검사TV]",
-            "channel_name": "로자르",
+            "video_id": "TPQ7so_-bw4",
+            "title": "급발진 100억 노란색 전설귀고리 직작 ㄷㄷ;;",
+            "channel_name": "레고77",
             "category": "Gaming",
-            "duration": "31:27",
-            "view_count": "125318",
-            "thumbnail_url": "https://i.ytimg.com/vi/gmPuOqJ7c6c/hqdefault.jpg"
+            "duration": "13:59",
+            "view_count": "112895",
+            "thumbnail_url": "https://i.ytimg.com/vi/TPQ7so_-bw4/hqdefault.jpg"
         },
         {
             "video_id": "dKmPEhJ4wjY",
@@ -214,17 +232,17 @@
             "channel_name": "Anyma",
             "category": "Music",
             "duration": "2:30",
-            "view_count": "4129832",
+            "view_count": "4253272",
             "thumbnail_url": "https://i.ytimg.com/vi/dKmPEhJ4wjY/hqdefault.jpg"
         },
         {
-            "video_id": "Adm0I9l14O8",
-            "title": "이게 사람이냐? 핵이냐? 요즘 핵을 AI로 만든다는데 진짜 구분이 안 됩니다....",
-            "channel_name": "김된모",
+            "video_id": "gmPuOqJ7c6c",
+            "title": "실시간 핵 해명 현장에 몰래 잠입해봤습니다 ㅋㅋㅋ 미쳐날뛰는 핵쟁이 1열 직관 | Nobody 2화 [로검사TV]",
+            "channel_name": "로자르",
             "category": "Gaming",
-            "duration": "20:57",
-            "view_count": "93040",
-            "thumbnail_url": "https://i.ytimg.com/vi/Adm0I9l14O8/hqdefault.jpg"
+            "duration": "31:27",
+            "view_count": "128542",
+            "thumbnail_url": "https://i.ytimg.com/vi/gmPuOqJ7c6c/hqdefault.jpg"
         },
         {
             "video_id": "op05giODUE0",
@@ -232,17 +250,17 @@
             "channel_name": "RESCENE - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "87961",
+            "view_count": "91576",
             "thumbnail_url": "https://i.ytimg.com/vi/op05giODUE0/hqdefault.jpg"
         },
         {
-            "video_id": "BtkHABiVGoM",
-            "title": "레벨격차 개무시하는 불독1위 ㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "레고77",
+            "video_id": "Adm0I9l14O8",
+            "title": "이게 사람이냐? 핵이냐? 요즘 핵을 AI로 만든다는데 진짜 구분이 안 됩니다....",
+            "channel_name": "김된모",
             "category": "Gaming",
-            "duration": "13:54",
-            "view_count": "189153",
-            "thumbnail_url": "https://i.ytimg.com/vi/BtkHABiVGoM/hqdefault.jpg"
+            "duration": "20:57",
+            "view_count": "97296",
+            "thumbnail_url": "https://i.ytimg.com/vi/Adm0I9l14O8/hqdefault.jpg"
         },
         {
             "video_id": "A1nu9jg6ciY",
@@ -250,26 +268,8 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "5074525",
+            "view_count": "5102814",
             "thumbnail_url": "https://i.ytimg.com/vi/A1nu9jg6ciY/hqdefault.jpg"
-        },
-        {
-            "video_id": "KXE6QmJ0FNk",
-            "title": "상대 : 리버를 누가 그따위로 써 미친XX야",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "26:07",
-            "view_count": "116068",
-            "thumbnail_url": "https://i.ytimg.com/vi/KXE6QmJ0FNk/hqdefault.jpg"
-        },
-        {
-            "video_id": "xP_nrIzsH-8",
-            "title": "전소민 (SOMIN of KARD) - 'Backseat' MV",
-            "channel_name": "KARD",
-            "category": "Music",
-            "duration": "2:46",
-            "view_count": "463733",
-            "thumbnail_url": "https://i.ytimg.com/vi/xP_nrIzsH-8/hqdefault.jpg"
         },
         {
             "video_id": "zQS32zG2MVs",
@@ -277,62 +277,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "28:56",
-            "view_count": "84424",
+            "view_count": "91634",
             "thumbnail_url": "https://i.ytimg.com/vi/zQS32zG2MVs/hqdefault.jpg"
         },
         {
-            "video_id": "LoGOyevxfCM",
-            "title": "Born Savage (Preview)",
-            "channel_name": "PLAVE - Topic",
+            "video_id": "xP_nrIzsH-8",
+            "title": "전소민 (SOMIN of KARD) - 'Backseat' MV",
+            "channel_name": "KARD",
             "category": "Music",
-            "duration": "0:22",
-            "view_count": "34686",
-            "thumbnail_url": "https://i.ytimg.com/vi/LoGOyevxfCM/hqdefault.jpg"
+            "duration": "2:46",
+            "view_count": "468010",
+            "thumbnail_url": "https://i.ytimg.com/vi/xP_nrIzsH-8/hqdefault.jpg"
         },
         {
-            "video_id": "rwNHACfx71A",
-            "title": "리니지클래식 데포로쥬  10크로 썰자 '알트요정'(대리) 입니다 #이문주 #카즈야 #불도그 #리니지클래식",
-            "channel_name": "헥사",
+            "video_id": "KXE6QmJ0FNk",
+            "title": "상대 : 리버를 누가 그따위로 써 미친XX야",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "11:55:00",
-            "view_count": "107047",
-            "thumbnail_url": "https://i.ytimg.com/vi/rwNHACfx71A/hqdefault.jpg"
-        },
-        {
-            "video_id": "icr7AAejNig",
-            "title": "원필(WONPIL) \"피아노\" LIVE CLIP",
-            "channel_name": "DAY6",
-            "category": "People & Blogs",
-            "duration": "3:11",
-            "view_count": "27537",
-            "thumbnail_url": "https://i.ytimg.com/vi/icr7AAejNig/hqdefault.jpg"
-        },
-        {
-            "video_id": "KgMm7ofo9CM",
-            "title": "【 탬탬버린 】 - 아 못참고 저질러버렸다 나는 진짜 경고했어",
-            "channel_name": "탬탬버린",
-            "category": "Gaming",
-            "duration": "18:13",
-            "view_count": "109903",
-            "thumbnail_url": "https://i.ytimg.com/vi/KgMm7ofo9CM/hqdefault.jpg"
-        },
-        {
-            "video_id": "YpWNOH4Aads",
-            "title": "NOWZ (나우즈) 'GET BUCK' Stage @ 2026 NOWZ FAN-CON [Run with me, NOW]",
-            "channel_name": "NOWZ 나우즈 (Official YouTube Channel)",
-            "category": "Entertainment",
-            "duration": "2:56",
-            "view_count": "102928",
-            "thumbnail_url": "https://i.ytimg.com/vi/YpWNOH4Aads/hqdefault.jpg"
-        },
-        {
-            "video_id": "K1A1J5nyzWU",
-            "title": "🔥배그 8년만에 반동을 삭제하는 손잡이 등장.. 모두가 초고수가 됩니다!! 수직 버려",
-            "channel_name": "대천사 김블루",
-            "category": "Gaming",
-            "duration": "12:34",
-            "view_count": "133131",
-            "thumbnail_url": "https://i.ytimg.com/vi/K1A1J5nyzWU/hqdefault.jpg"
+            "duration": "26:07",
+            "view_count": "123453",
+            "thumbnail_url": "https://i.ytimg.com/vi/KXE6QmJ0FNk/hqdefault.jpg"
         },
         {
             "video_id": "tcUdXrMbTJs",
@@ -340,35 +304,35 @@
             "channel_name": "KATSEYE - Topic",
             "category": "Music",
             "duration": "2:12",
-            "view_count": "488151",
+            "view_count": "539147",
             "thumbnail_url": "https://i.ytimg.com/vi/tcUdXrMbTJs/hqdefault.jpg"
         },
         {
-            "video_id": "zHYgdAWW0-U",
-            "title": "T1 vs GEN | 매치 12 하이라이트 | 2026 LCK",
-            "channel_name": "LCK",
+            "video_id": "KgMm7ofo9CM",
+            "title": "【 탬탬버린 】 - 아 못참고 저질러버렸다 나는 진짜 경고했어",
+            "channel_name": "탬탬버린",
             "category": "Gaming",
-            "duration": "24:09",
-            "view_count": "110498",
-            "thumbnail_url": "https://i.ytimg.com/vi/zHYgdAWW0-U/hqdefault.jpg"
+            "duration": "18:13",
+            "view_count": "117412",
+            "thumbnail_url": "https://i.ytimg.com/vi/KgMm7ofo9CM/hqdefault.jpg"
         },
         {
-            "video_id": "7RxWYPidN3Q",
-            "title": "SUPERSTAR",
-            "channel_name": "pH-1 - Topic",
+            "video_id": "LoGOyevxfCM",
+            "title": "Born Savage (Preview)",
+            "channel_name": "PLAVE - Topic",
             "category": "Music",
-            "duration": "2:41",
-            "view_count": "12905",
-            "thumbnail_url": "https://i.ytimg.com/vi/7RxWYPidN3Q/hqdefault.jpg"
+            "duration": "0:22",
+            "view_count": "35513",
+            "thumbnail_url": "https://i.ytimg.com/vi/LoGOyevxfCM/hqdefault.jpg"
         },
         {
-            "video_id": "OCMyWd60n0s",
-            "title": "[메이플스토리 맑음] 김창섭 디렉터 라이브 4월 핵심 요약 정리 / 신규 6차 스킬 출시 / 헤카테 외형 변경 출시 / 신규 이벤트 다수 / 역대급 확률 조사 운영자 사과 보상 등",
-            "channel_name": "메이플스토리맑음",
+            "video_id": "K1A1J5nyzWU",
+            "title": "🔥배그 8년만에 반동을 삭제하는 손잡이 등장.. 모두가 초고수가 됩니다!! 수직 버려",
+            "channel_name": "대천사 김블루",
             "category": "Gaming",
-            "duration": "9:32",
-            "view_count": "76569",
-            "thumbnail_url": "https://i.ytimg.com/vi/OCMyWd60n0s/hqdefault.jpg"
+            "duration": "12:34",
+            "view_count": "142612",
+            "thumbnail_url": "https://i.ytimg.com/vi/K1A1J5nyzWU/hqdefault.jpg"
         },
         {
             "video_id": "N2pFAltZSGs",
@@ -376,8 +340,44 @@
             "channel_name": "Lady Gaga - Topic",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "118024",
+            "view_count": "168366",
             "thumbnail_url": "https://i.ytimg.com/vi/N2pFAltZSGs/hqdefault.jpg"
+        },
+        {
+            "video_id": "zHYgdAWW0-U",
+            "title": "T1 vs GEN | 매치 12 하이라이트 | 2026 LCK",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "24:09",
+            "view_count": "117929",
+            "thumbnail_url": "https://i.ytimg.com/vi/zHYgdAWW0-U/hqdefault.jpg"
+        },
+        {
+            "video_id": "icr7AAejNig",
+            "title": "원필(WONPIL) \"피아노\" LIVE CLIP",
+            "channel_name": "DAY6",
+            "category": "People & Blogs",
+            "duration": "3:11",
+            "view_count": "28924",
+            "thumbnail_url": "https://i.ytimg.com/vi/icr7AAejNig/hqdefault.jpg"
+        },
+        {
+            "video_id": "IBGoJN_k_bM",
+            "title": "리니지M / 7년째 막피중인 말도 안되는 장비에 랭킹 1등 캐릭",
+            "channel_name": "수삼티비",
+            "category": "Gaming",
+            "duration": "13:02",
+            "view_count": "73678",
+            "thumbnail_url": "https://i.ytimg.com/vi/IBGoJN_k_bM/hqdefault.jpg"
+        },
+        {
+            "video_id": "7RxWYPidN3Q",
+            "title": "SUPERSTAR",
+            "channel_name": "pH-1 - Topic",
+            "category": "Music",
+            "duration": "2:41",
+            "view_count": "15489",
+            "thumbnail_url": "https://i.ytimg.com/vi/7RxWYPidN3Q/hqdefault.jpg"
         }
     ]
 }
