@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-11 18:43:18",
+    "scraped_time": "2026-04-11 19:38:02",
     "videos": [
         {
             "video_id": "6Xa1VDLACPo",
@@ -7,7 +7,7 @@
             "channel_name": "AKMU - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "2175246",
+            "view_count": "2203984",
             "thumbnail_url": "https://i.ytimg.com/vi/6Xa1VDLACPo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "GLITCH",
             "category": "Film & Animation",
             "duration": "1:10",
-            "view_count": "11806359",
+            "view_count": "12037183",
             "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "23:14",
-            "view_count": "677177",
+            "view_count": "686100",
             "thumbnail_url": "https://i.ytimg.com/vi/wHLo2TfGTVI/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "CUTIE STREET - Topic",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "173989",
+            "view_count": "180107",
             "thumbnail_url": "https://i.ytimg.com/vi/o-N7lgayxPA/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:16",
-            "view_count": "185561",
+            "view_count": "187097",
             "thumbnail_url": "https://i.ytimg.com/vi/RMh4qPh9c3k/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:51",
-            "view_count": "332348",
+            "view_count": "338089",
             "thumbnail_url": "https://i.ytimg.com/vi/4WTnHTOIDzQ/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "T.O.P",
             "category": "Music",
             "duration": "4:36",
-            "view_count": "2618437",
+            "view_count": "2639429",
             "thumbnail_url": "https://i.ytimg.com/vi/cfaybWG25D4/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "42:55",
-            "view_count": "129413",
+            "view_count": "153410",
             "thumbnail_url": "https://i.ytimg.com/vi/1em36cknzoI/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "HWASA - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "359269",
+            "view_count": "370188",
             "thumbnail_url": "https://i.ytimg.com/vi/1RtAeLJtRtE/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "17:32",
-            "view_count": "246166",
+            "view_count": "248620",
             "thumbnail_url": "https://i.ytimg.com/vi/HloveS_6f_Y/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "ZENE THE ZILLA - Topic",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "55068",
+            "view_count": "59342",
             "thumbnail_url": "https://i.ytimg.com/vi/c_JVytGDLqk/hqdefault.jpg"
-        },
-        {
-            "video_id": "OJaFY6Hnnw0",
-            "title": "불금을 화끈하게 책임져주는 T1 | T1 vs DNS | 2026 LCK",
-            "channel_name": "Untara",
-            "category": "Gaming",
-            "duration": "43:12",
-            "view_count": "170304",
-            "thumbnail_url": "https://i.ytimg.com/vi/OJaFY6Hnnw0/hqdefault.jpg"
-        },
-        {
-            "video_id": "TCT0ZcKObUQ",
-            "title": "[한글 가사] 첼시 조던 (Chelsea Jordan) - if i'm lucky",
-            "channel_name": "소니뮤직코리아 Sony Music Korea",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "80228",
-            "thumbnail_url": "https://i.ytimg.com/vi/TCT0ZcKObUQ/hqdefault.jpg"
         },
         {
             "video_id": "tffTg6NgCDQ",
@@ -124,8 +106,26 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "24:41",
-            "view_count": "144311",
+            "view_count": "152636",
             "thumbnail_url": "https://i.ytimg.com/vi/tffTg6NgCDQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "TCT0ZcKObUQ",
+            "title": "[한글 가사] 첼시 조던 (Chelsea Jordan) - if i'm lucky",
+            "channel_name": "소니뮤직코리아 Sony Music Korea",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "81768",
+            "thumbnail_url": "https://i.ytimg.com/vi/TCT0ZcKObUQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "OJaFY6Hnnw0",
+            "title": "불금을 화끈하게 책임져주는 T1 | T1 vs DNS | 2026 LCK",
+            "channel_name": "Untara",
+            "category": "Gaming",
+            "duration": "43:12",
+            "view_count": "172424",
+            "thumbnail_url": "https://i.ytimg.com/vi/OJaFY6Hnnw0/hqdefault.jpg"
         },
         {
             "video_id": "diBO0gMuTXo",
@@ -133,7 +133,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "15945841",
+            "view_count": "16005335",
             "thumbnail_url": "https://i.ytimg.com/vi/diBO0gMuTXo/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "유봉훈",
             "category": "Gaming",
             "duration": "24:39",
-            "view_count": "198593",
+            "view_count": "203018",
             "thumbnail_url": "https://i.ytimg.com/vi/xojj8C8Zirg/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "NELL - Topic",
             "category": "Music",
             "duration": "4:52",
-            "view_count": "36008",
+            "view_count": "40065",
             "thumbnail_url": "https://i.ytimg.com/vi/eRVGHurtZGA/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "36:38",
-            "view_count": "89400",
+            "view_count": "93342",
             "thumbnail_url": "https://i.ytimg.com/vi/_o3B7hV1qDo/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "pH-1 - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "68547",
+            "view_count": "71555",
             "thumbnail_url": "https://i.ytimg.com/vi/7RxWYPidN3Q/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "17:09",
-            "view_count": "136222",
+            "view_count": "139221",
             "thumbnail_url": "https://i.ytimg.com/vi/I6XaB7ets88/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "KATSEYE - Topic",
             "category": "Music",
             "duration": "2:12",
-            "view_count": "1355772",
+            "view_count": "1377333",
             "thumbnail_url": "https://i.ytimg.com/vi/tcUdXrMbTJs/hqdefault.jpg"
         },
         {
@@ -196,26 +196,8 @@
             "channel_name": "대천사 김블루",
             "category": "Gaming",
             "duration": "16:17",
-            "view_count": "203763",
+            "view_count": "206979",
             "thumbnail_url": "https://i.ytimg.com/vi/mieySXNm-Ks/hqdefault.jpg"
-        },
-        {
-            "video_id": "NM3tJNIOZRc",
-            "title": "What's a girl to do",
-            "channel_name": "DAYOUNG - Topic",
-            "category": "Music",
-            "duration": "2:10",
-            "view_count": "420794",
-            "thumbnail_url": "https://i.ytimg.com/vi/NM3tJNIOZRc/hqdefault.jpg"
-        },
-        {
-            "video_id": "mSx9F00nixs",
-            "title": "누나 말만 잘 들으면 너도 연애할 수 있어 알았지?",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "35:48",
-            "view_count": "171253",
-            "thumbnail_url": "https://i.ytimg.com/vi/mSx9F00nixs/hqdefault.jpg"
         },
         {
             "video_id": "VqBCvHnlNvc",
@@ -223,17 +205,35 @@
             "channel_name": "Gaho - Topic",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "33970",
+            "view_count": "35537",
             "thumbnail_url": "https://i.ytimg.com/vi/VqBCvHnlNvc/hqdefault.jpg"
         },
         {
-            "video_id": "AFF1Wl4R0-k",
-            "title": "리니지 클래식 / 적혈들아 똥줄 타겠다???? (훅팀 합류)",
-            "channel_name": "이문주",
+            "video_id": "mSx9F00nixs",
+            "title": "누나 말만 잘 들으면 너도 연애할 수 있어 알았지?",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "16:11",
-            "view_count": "128507",
-            "thumbnail_url": "https://i.ytimg.com/vi/AFF1Wl4R0-k/hqdefault.jpg"
+            "duration": "35:48",
+            "view_count": "173625",
+            "thumbnail_url": "https://i.ytimg.com/vi/mSx9F00nixs/hqdefault.jpg"
+        },
+        {
+            "video_id": "NM3tJNIOZRc",
+            "title": "What's a girl to do",
+            "channel_name": "DAYOUNG - Topic",
+            "category": "Music",
+            "duration": "2:10",
+            "view_count": "428783",
+            "thumbnail_url": "https://i.ytimg.com/vi/NM3tJNIOZRc/hqdefault.jpg"
+        },
+        {
+            "video_id": "Fsc0yx9jgOA",
+            "title": "라이벌 실제 핵쟁이가 쓰는 무기조합을 공개합니다",
+            "channel_name": "마주 - 로블록스",
+            "category": "Gaming",
+            "duration": "16:18",
+            "view_count": "76978",
+            "thumbnail_url": "https://i.ytimg.com/vi/Fsc0yx9jgOA/hqdefault.jpg"
         },
         {
             "video_id": "RZ37msm0zwY",
@@ -241,17 +241,17 @@
             "channel_name": "YIYA - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "30860",
+            "view_count": "31629",
             "thumbnail_url": "https://i.ytimg.com/vi/RZ37msm0zwY/hqdefault.jpg"
         },
         {
-            "video_id": "BDxQwWqiCx0",
-            "title": "메이플 확률 오류 | 유저에게 유리한 오류를 대하는 자세",
-            "channel_name": "김성회의 G식백과",
+            "video_id": "AFF1Wl4R0-k",
+            "title": "리니지 클래식 / 적혈들아 똥줄 타겠다???? (훅팀 합류)",
+            "channel_name": "이문주",
             "category": "Gaming",
-            "duration": "8:58",
-            "view_count": "211557",
-            "thumbnail_url": "https://i.ytimg.com/vi/BDxQwWqiCx0/hqdefault.jpg"
+            "duration": "16:11",
+            "view_count": "130389",
+            "thumbnail_url": "https://i.ytimg.com/vi/AFF1Wl4R0-k/hqdefault.jpg"
         },
         {
             "video_id": "cB068G7jseg",
@@ -259,8 +259,26 @@
             "channel_name": "Ambition Musik",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "59315",
+            "view_count": "60718",
             "thumbnail_url": "https://i.ytimg.com/vi/cB068G7jseg/hqdefault.jpg"
+        },
+        {
+            "video_id": "BDxQwWqiCx0",
+            "title": "메이플 확률 오류 | 유저에게 유리한 오류를 대하는 자세",
+            "channel_name": "김성회의 G식백과",
+            "category": "Gaming",
+            "duration": "8:58",
+            "view_count": "214400",
+            "thumbnail_url": "https://i.ytimg.com/vi/BDxQwWqiCx0/hqdefault.jpg"
+        },
+        {
+            "video_id": "kiCi4-plFUA",
+            "title": "My Pace",
+            "channel_name": "BIBI - Topic",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "37907",
+            "thumbnail_url": "https://i.ytimg.com/vi/kiCi4-plFUA/hqdefault.jpg"
         },
         {
             "video_id": "OkU6Exwgbeg",
@@ -268,7 +286,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "5:38",
-            "view_count": "120232",
+            "view_count": "122331",
             "thumbnail_url": "https://i.ytimg.com/vi/OkU6Exwgbeg/hqdefault.jpg"
         },
         {
@@ -277,26 +295,8 @@
             "channel_name": "Sik-K - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "731988",
+            "view_count": "739078",
             "thumbnail_url": "https://i.ytimg.com/vi/C1cfxLAOmHc/hqdefault.jpg"
-        },
-        {
-            "video_id": "Fsc0yx9jgOA",
-            "title": "라이벌 실제 핵쟁이가 쓰는 무기조합을 공개합니다",
-            "channel_name": "마주 - 로블록스",
-            "category": "Gaming",
-            "duration": "16:18",
-            "view_count": "72282",
-            "thumbnail_url": "https://i.ytimg.com/vi/Fsc0yx9jgOA/hqdefault.jpg"
-        },
-        {
-            "video_id": "N2pFAltZSGs",
-            "title": "RUNWAY",
-            "channel_name": "Lady Gaga - Topic",
-            "category": "Music",
-            "duration": "2:52",
-            "view_count": "571349",
-            "thumbnail_url": "https://i.ytimg.com/vi/N2pFAltZSGs/hqdefault.jpg"
         },
         {
             "video_id": "IaikwXMndvU",
@@ -304,17 +304,35 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "16:22",
-            "view_count": "464975",
+            "view_count": "466491",
             "thumbnail_url": "https://i.ytimg.com/vi/IaikwXMndvU/hqdefault.jpg"
         },
         {
-            "video_id": "kiCi4-plFUA",
-            "title": "My Pace",
-            "channel_name": "BIBI - Topic",
+            "video_id": "dCpCLRyZHXw",
+            "title": "산책 (Petal Walk)",
+            "channel_name": "제이엠진 JM jin - Topic",
             "category": "Music",
-            "duration": "2:38",
-            "view_count": "34705",
-            "thumbnail_url": "https://i.ytimg.com/vi/kiCi4-plFUA/hqdefault.jpg"
+            "duration": "2:37",
+            "view_count": "10497",
+            "thumbnail_url": "https://i.ytimg.com/vi/dCpCLRyZHXw/hqdefault.jpg"
+        },
+        {
+            "video_id": "7ekPW4OS2V0",
+            "title": "뉴비인 척 슈퍼 속도 상점으로 참교육하기..! ㅋㅋㅋ [쓰나미 브레인롯]",
+            "channel_name": "로트키",
+            "category": "Gaming",
+            "duration": "12:41",
+            "view_count": "98986",
+            "thumbnail_url": "https://i.ytimg.com/vi/7ekPW4OS2V0/hqdefault.jpg"
+        },
+        {
+            "video_id": "chYvAR2sfmM",
+            "title": "Madwoman",
+            "channel_name": "Laufey - Topic",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "97868",
+            "thumbnail_url": "https://i.ytimg.com/vi/chYvAR2sfmM/hqdefault.jpg"
         },
         {
             "video_id": "A-8OQtUn59s",
@@ -322,7 +340,7 @@
             "channel_name": "YouTube지누",
             "category": "Gaming",
             "duration": "1:38:50",
-            "view_count": "136711",
+            "view_count": "137996",
             "thumbnail_url": "https://i.ytimg.com/vi/A-8OQtUn59s/hqdefault.jpg"
         },
         {
@@ -331,26 +349,8 @@
             "channel_name": "RESCENE - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "152475",
+            "view_count": "155969",
             "thumbnail_url": "https://i.ytimg.com/vi/op05giODUE0/hqdefault.jpg"
-        },
-        {
-            "video_id": "7ekPW4OS2V0",
-            "title": "뉴비인 척 슈퍼 속도 상점으로 참교육하기..! ㅋㅋㅋ [쓰나미 브레인롯]",
-            "channel_name": "로트키",
-            "category": "Gaming",
-            "duration": "12:41",
-            "view_count": "96862",
-            "thumbnail_url": "https://i.ytimg.com/vi/7ekPW4OS2V0/hqdefault.jpg"
-        },
-        {
-            "video_id": "dCpCLRyZHXw",
-            "title": "산책 (Petal Walk)",
-            "channel_name": "제이엠진 JM jin - Topic",
-            "category": "Music",
-            "duration": "2:37",
-            "view_count": "9709",
-            "thumbnail_url": "https://i.ytimg.com/vi/dCpCLRyZHXw/hqdefault.jpg"
         },
         {
             "video_id": "aMt9CPDJ2Q0",
@@ -358,17 +358,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "36:04",
-            "view_count": "124589",
+            "view_count": "125891",
             "thumbnail_url": "https://i.ytimg.com/vi/aMt9CPDJ2Q0/hqdefault.jpg"
         },
         {
-            "video_id": "chYvAR2sfmM",
-            "title": "Madwoman",
-            "channel_name": "Laufey - Topic",
+            "video_id": "N2pFAltZSGs",
+            "title": "RUNWAY",
+            "channel_name": "Lady Gaga - Topic",
             "category": "Music",
-            "duration": "4:00",
-            "view_count": "94447",
-            "thumbnail_url": "https://i.ytimg.com/vi/chYvAR2sfmM/hqdefault.jpg"
+            "duration": "2:52",
+            "view_count": "577608",
+            "thumbnail_url": "https://i.ytimg.com/vi/N2pFAltZSGs/hqdefault.jpg"
         },
         {
             "video_id": "Dyz2s6GIKYE",
@@ -376,7 +376,7 @@
             "channel_name": "로빈",
             "category": "Gaming",
             "duration": "21:24",
-            "view_count": "90677",
+            "view_count": "93155",
             "thumbnail_url": "https://i.ytimg.com/vi/Dyz2s6GIKYE/hqdefault.jpg"
         }
     ]
