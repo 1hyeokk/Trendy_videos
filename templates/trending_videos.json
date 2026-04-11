@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-11 20:33:07",
+    "scraped_time": "2026-04-11 22:04:41",
     "videos": [
         {
             "video_id": "6Xa1VDLACPo",
@@ -7,7 +7,7 @@
             "channel_name": "AKMU - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "2228052",
+            "view_count": "2262886",
             "thumbnail_url": "https://i.ytimg.com/vi/6Xa1VDLACPo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "GLITCH",
             "category": "Film & Animation",
             "duration": "1:10",
-            "view_count": "12248130",
+            "view_count": "12605851",
             "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "23:14",
-            "view_count": "695847",
+            "view_count": "711673",
             "thumbnail_url": "https://i.ytimg.com/vi/wHLo2TfGTVI/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "CUTIE STREET - Topic",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "185357",
+            "view_count": "194566",
             "thumbnail_url": "https://i.ytimg.com/vi/o-N7lgayxPA/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:16",
-            "view_count": "188428",
+            "view_count": "190937",
             "thumbnail_url": "https://i.ytimg.com/vi/RMh4qPh9c3k/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "42:55",
-            "view_count": "175142",
+            "view_count": "207860",
             "thumbnail_url": "https://i.ytimg.com/vi/1em36cknzoI/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "T.O.P",
             "category": "Music",
             "duration": "4:36",
-            "view_count": "2663691",
+            "view_count": "2703964",
             "thumbnail_url": "https://i.ytimg.com/vi/cfaybWG25D4/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:51",
-            "view_count": "342898",
+            "view_count": "349762",
             "thumbnail_url": "https://i.ytimg.com/vi/4WTnHTOIDzQ/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "HWASA - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "379317",
+            "view_count": "393741",
             "thumbnail_url": "https://i.ytimg.com/vi/1RtAeLJtRtE/hqdefault.jpg"
-        },
-        {
-            "video_id": "HloveS_6f_Y",
-            "title": "메소가 생기면 못 참는 사람 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "17:32",
-            "view_count": "250626",
-            "thumbnail_url": "https://i.ytimg.com/vi/HloveS_6f_Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "c_JVytGDLqk",
-            "title": "130 Metronome",
-            "channel_name": "ZENE THE ZILLA - Topic",
-            "category": "Music",
-            "duration": "2:38",
-            "view_count": "63165",
-            "thumbnail_url": "https://i.ytimg.com/vi/c_JVytGDLqk/hqdefault.jpg"
         },
         {
             "video_id": "tffTg6NgCDQ",
@@ -106,8 +88,44 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "24:41",
-            "view_count": "160209",
+            "view_count": "170868",
             "thumbnail_url": "https://i.ytimg.com/vi/tffTg6NgCDQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "c_JVytGDLqk",
+            "title": "130 Metronome",
+            "channel_name": "ZENE THE ZILLA - Topic",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "68909",
+            "thumbnail_url": "https://i.ytimg.com/vi/c_JVytGDLqk/hqdefault.jpg"
+        },
+        {
+            "video_id": "HloveS_6f_Y",
+            "title": "메소가 생기면 못 참는 사람 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "17:32",
+            "view_count": "253178",
+            "thumbnail_url": "https://i.ytimg.com/vi/HloveS_6f_Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "eRVGHurtZGA",
+            "title": "Loss in Motion",
+            "channel_name": "NELL - Topic",
+            "category": "Music",
+            "duration": "4:52",
+            "view_count": "57300",
+            "thumbnail_url": "https://i.ytimg.com/vi/eRVGHurtZGA/hqdefault.jpg"
+        },
+        {
+            "video_id": "DX-smAIOKvE",
+            "title": "티모 아작나",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "23:50",
+            "view_count": "105953",
+            "thumbnail_url": "https://i.ytimg.com/vi/DX-smAIOKvE/hqdefault.jpg"
         },
         {
             "video_id": "TCT0ZcKObUQ",
@@ -115,7 +133,7 @@
             "channel_name": "소니뮤직코리아 Sony Music Korea",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "83364",
+            "view_count": "86361",
             "thumbnail_url": "https://i.ytimg.com/vi/TCT0ZcKObUQ/hqdefault.jpg"
         },
         {
@@ -124,26 +142,8 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "43:12",
-            "view_count": "174192",
+            "view_count": "176780",
             "thumbnail_url": "https://i.ytimg.com/vi/OJaFY6Hnnw0/hqdefault.jpg"
-        },
-        {
-            "video_id": "eRVGHurtZGA",
-            "title": "Loss in Motion",
-            "channel_name": "NELL - Topic",
-            "category": "Music",
-            "duration": "4:52",
-            "view_count": "47324",
-            "thumbnail_url": "https://i.ytimg.com/vi/eRVGHurtZGA/hqdefault.jpg"
-        },
-        {
-            "video_id": "xojj8C8Zirg",
-            "title": "이빨(ZD) 빠진 이상호 맛있게 패기ㅋㅋㅋ",
-            "channel_name": "유봉훈",
-            "category": "Gaming",
-            "duration": "24:39",
-            "view_count": "206488",
-            "thumbnail_url": "https://i.ytimg.com/vi/xojj8C8Zirg/hqdefault.jpg"
         },
         {
             "video_id": "diBO0gMuTXo",
@@ -151,17 +151,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "16058949",
+            "view_count": "16156302",
             "thumbnail_url": "https://i.ytimg.com/vi/diBO0gMuTXo/hqdefault.jpg"
         },
         {
-            "video_id": "_o3B7hV1qDo",
-            "title": "열차 출발합니다 뿌뿌📢│DNS vs T1│2026 LCK│울챔스 하이라이트",
-            "channel_name": "Wolf",
+            "video_id": "xojj8C8Zirg",
+            "title": "이빨(ZD) 빠진 이상호 맛있게 패기ㅋㅋㅋ",
+            "channel_name": "유봉훈",
             "category": "Gaming",
-            "duration": "36:38",
-            "view_count": "96820",
-            "thumbnail_url": "https://i.ytimg.com/vi/_o3B7hV1qDo/hqdefault.jpg"
+            "duration": "24:39",
+            "view_count": "212397",
+            "thumbnail_url": "https://i.ytimg.com/vi/xojj8C8Zirg/hqdefault.jpg"
         },
         {
             "video_id": "7RxWYPidN3Q",
@@ -169,17 +169,35 @@
             "channel_name": "pH-1 - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "73386",
+            "view_count": "76623",
             "thumbnail_url": "https://i.ytimg.com/vi/7RxWYPidN3Q/hqdefault.jpg"
         },
         {
-            "video_id": "I6XaB7ets88",
-            "title": "미로 찾기 타이쿤은 또 뭐임 ㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
+            "video_id": "_o3B7hV1qDo",
+            "title": "열차 출발합니다 뿌뿌📢│DNS vs T1│2026 LCK│울챔스 하이라이트",
+            "channel_name": "Wolf",
             "category": "Gaming",
-            "duration": "17:09",
-            "view_count": "142247",
-            "thumbnail_url": "https://i.ytimg.com/vi/I6XaB7ets88/hqdefault.jpg"
+            "duration": "36:38",
+            "view_count": "101858",
+            "thumbnail_url": "https://i.ytimg.com/vi/_o3B7hV1qDo/hqdefault.jpg"
+        },
+        {
+            "video_id": "n8v0KlN9Fxo",
+            "title": "이야 (YIYA) - 미쳤나봄ㅋㅋ (Feat. 안재우) (Crazy Spring (Feat. Jae Woo AN)) 【Official MV】",
+            "channel_name": "이야",
+            "category": "Music",
+            "duration": "3:29",
+            "view_count": "47705",
+            "thumbnail_url": "https://i.ytimg.com/vi/n8v0KlN9Fxo/hqdefault.jpg"
+        },
+        {
+            "video_id": "KKword4cs_U",
+            "title": "공포의 프레디2",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "20:39",
+            "view_count": "89965",
+            "thumbnail_url": "https://i.ytimg.com/vi/KKword4cs_U/hqdefault.jpg"
         },
         {
             "video_id": "tcUdXrMbTJs",
@@ -187,17 +205,35 @@
             "channel_name": "KATSEYE - Topic",
             "category": "Music",
             "duration": "2:12",
-            "view_count": "1398643",
+            "view_count": "1437395",
             "thumbnail_url": "https://i.ytimg.com/vi/tcUdXrMbTJs/hqdefault.jpg"
         },
         {
-            "video_id": "DX-smAIOKvE",
-            "title": "티모 아작나",
-            "channel_name": "PAKA",
+            "video_id": "I6XaB7ets88",
+            "title": "미로 찾기 타이쿤은 또 뭐임 ㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
-            "duration": "23:50",
-            "view_count": "73656",
-            "thumbnail_url": "https://i.ytimg.com/vi/DX-smAIOKvE/hqdefault.jpg"
+            "duration": "17:09",
+            "view_count": "147061",
+            "thumbnail_url": "https://i.ytimg.com/vi/I6XaB7ets88/hqdefault.jpg"
+        },
+        {
+            "video_id": "t_vgQwGzdAk",
+            "title": "Loose Lips",
+            "channel_name": "HanGroove - Topic",
+            "category": "Music",
+            "duration": "3:50",
+            "view_count": "14663",
+            "thumbnail_url": "https://i.ytimg.com/vi/t_vgQwGzdAk/hqdefault.jpg"
+        },
+        {
+            "video_id": "2glQJX3YYAs",
+            "title": "서로 묶인 추격자 3명 vs 잠뜰.. 역대급으로 숨 막히는 미션 추격전 ㄷㄷ",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "34:28",
+            "view_count": "69281",
+            "thumbnail_url": "https://i.ytimg.com/vi/2glQJX3YYAs/hqdefault.jpg"
         },
         {
             "video_id": "VqBCvHnlNvc",
@@ -205,7 +241,7 @@
             "channel_name": "Gaho - Topic",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "36865",
+            "view_count": "38560",
             "thumbnail_url": "https://i.ytimg.com/vi/VqBCvHnlNvc/hqdefault.jpg"
         },
         {
@@ -214,7 +250,7 @@
             "channel_name": "대천사 김블루",
             "category": "Gaming",
             "duration": "16:17",
-            "view_count": "210747",
+            "view_count": "216325",
             "thumbnail_url": "https://i.ytimg.com/vi/mieySXNm-Ks/hqdefault.jpg"
         },
         {
@@ -223,7 +259,7 @@
             "channel_name": "DAYOUNG - Topic",
             "category": "Music",
             "duration": "2:10",
-            "view_count": "434960",
+            "view_count": "446124",
             "thumbnail_url": "https://i.ytimg.com/vi/NM3tJNIOZRc/hqdefault.jpg"
         },
         {
@@ -232,26 +268,8 @@
             "channel_name": "마주 - 로블록스",
             "category": "Gaming",
             "duration": "16:18",
-            "view_count": "82285",
+            "view_count": "91226",
             "thumbnail_url": "https://i.ytimg.com/vi/Fsc0yx9jgOA/hqdefault.jpg"
-        },
-        {
-            "video_id": "RZ37msm0zwY",
-            "title": "Crazy Spring",
-            "channel_name": "YIYA - Topic",
-            "category": "Music",
-            "duration": "3:27",
-            "view_count": "32604",
-            "thumbnail_url": "https://i.ytimg.com/vi/RZ37msm0zwY/hqdefault.jpg"
-        },
-        {
-            "video_id": "mSx9F00nixs",
-            "title": "누나 말만 잘 들으면 너도 연애할 수 있어 알았지?",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "35:48",
-            "view_count": "175934",
-            "thumbnail_url": "https://i.ytimg.com/vi/mSx9F00nixs/hqdefault.jpg"
         },
         {
             "video_id": "kiCi4-plFUA",
@@ -259,26 +277,8 @@
             "channel_name": "BIBI - Topic",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "41206",
+            "view_count": "46801",
             "thumbnail_url": "https://i.ytimg.com/vi/kiCi4-plFUA/hqdefault.jpg"
-        },
-        {
-            "video_id": "KKword4cs_U",
-            "title": "공포의 프레디2",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "20:39",
-            "view_count": "64598",
-            "thumbnail_url": "https://i.ytimg.com/vi/KKword4cs_U/hqdefault.jpg"
-        },
-        {
-            "video_id": "t_vgQwGzdAk",
-            "title": "Loose Lips",
-            "channel_name": "HanGroove - Topic",
-            "category": "Music",
-            "duration": "3:50",
-            "view_count": "9414",
-            "thumbnail_url": "https://i.ytimg.com/vi/t_vgQwGzdAk/hqdefault.jpg"
         },
         {
             "video_id": "AFF1Wl4R0-k",
@@ -286,7 +286,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "16:11",
-            "view_count": "132176",
+            "view_count": "134665",
             "thumbnail_url": "https://i.ytimg.com/vi/AFF1Wl4R0-k/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "Ambition Musik",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "62312",
+            "view_count": "64751",
             "thumbnail_url": "https://i.ytimg.com/vi/cB068G7jseg/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "김성회의 G식백과",
             "category": "Gaming",
             "duration": "8:58",
-            "view_count": "217739",
+            "view_count": "222428",
             "thumbnail_url": "https://i.ytimg.com/vi/BDxQwWqiCx0/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "Sik-K - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "745299",
+            "view_count": "755098",
             "thumbnail_url": "https://i.ytimg.com/vi/C1cfxLAOmHc/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "5:38",
-            "view_count": "124225",
+            "view_count": "126941",
             "thumbnail_url": "https://i.ytimg.com/vi/OkU6Exwgbeg/hqdefault.jpg"
         },
         {
@@ -331,44 +331,8 @@
             "channel_name": "Laufey - Topic",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "100692",
+            "view_count": "105839",
             "thumbnail_url": "https://i.ytimg.com/vi/chYvAR2sfmM/hqdefault.jpg"
-        },
-        {
-            "video_id": "7ekPW4OS2V0",
-            "title": "뉴비인 척 슈퍼 속도 상점으로 참교육하기..! ㅋㅋㅋ [쓰나미 브레인롯]",
-            "channel_name": "로트키",
-            "category": "Gaming",
-            "duration": "12:41",
-            "view_count": "101225",
-            "thumbnail_url": "https://i.ytimg.com/vi/7ekPW4OS2V0/hqdefault.jpg"
-        },
-        {
-            "video_id": "dCpCLRyZHXw",
-            "title": "산책 (Petal Walk)",
-            "channel_name": "제이엠진 JM jin - Topic",
-            "category": "Music",
-            "duration": "2:37",
-            "view_count": "11303",
-            "thumbnail_url": "https://i.ytimg.com/vi/dCpCLRyZHXw/hqdefault.jpg"
-        },
-        {
-            "video_id": "IaikwXMndvU",
-            "title": "너 안그래도 요즘 거슬렸어",
-            "channel_name": "강 지",
-            "category": "Gaming",
-            "duration": "16:22",
-            "view_count": "467965",
-            "thumbnail_url": "https://i.ytimg.com/vi/IaikwXMndvU/hqdefault.jpg"
-        },
-        {
-            "video_id": "op05giODUE0",
-            "title": "Runaway",
-            "channel_name": "RESCENE - Topic",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "158937",
-            "thumbnail_url": "https://i.ytimg.com/vi/op05giODUE0/hqdefault.jpg"
         },
         {
             "video_id": "F2P6fJ0l1Ck",
@@ -376,8 +340,44 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "51:28",
-            "view_count": "76166",
+            "view_count": "84399",
             "thumbnail_url": "https://i.ytimg.com/vi/F2P6fJ0l1Ck/hqdefault.jpg"
+        },
+        {
+            "video_id": "dCpCLRyZHXw",
+            "title": "산책 (Petal Walk)",
+            "channel_name": "제이엠진 JM jin - Topic",
+            "category": "Music",
+            "duration": "2:37",
+            "view_count": "12434",
+            "thumbnail_url": "https://i.ytimg.com/vi/dCpCLRyZHXw/hqdefault.jpg"
+        },
+        {
+            "video_id": "7ekPW4OS2V0",
+            "title": "뉴비인 척 슈퍼 속도 상점으로 참교육하기..! ㅋㅋㅋ [쓰나미 브레인롯]",
+            "channel_name": "로트키",
+            "category": "Gaming",
+            "duration": "12:41",
+            "view_count": "105189",
+            "thumbnail_url": "https://i.ytimg.com/vi/7ekPW4OS2V0/hqdefault.jpg"
+        },
+        {
+            "video_id": "op05giODUE0",
+            "title": "Runaway",
+            "channel_name": "RESCENE - Topic",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "163648",
+            "thumbnail_url": "https://i.ytimg.com/vi/op05giODUE0/hqdefault.jpg"
+        },
+        {
+            "video_id": "UwhP2Ph6ocU",
+            "title": "10B 사칭이 나보다 라이벌을 잘한다고??",
+            "channel_name": "10B",
+            "category": "Gaming",
+            "duration": "12:11",
+            "view_count": "54124",
+            "thumbnail_url": "https://i.ytimg.com/vi/UwhP2Ph6ocU/hqdefault.jpg"
         }
     ]
 }
