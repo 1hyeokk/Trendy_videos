@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-13 01:42:29",
+    "scraped_time": "2026-04-13 02:37:24",
     "videos": [
         {
             "video_id": "Q120WlxVxdk",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "137150",
+            "view_count": "173267",
             "thumbnail_url": "https://i.ytimg.com/vi/Q120WlxVxdk/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "GLITCH",
             "category": "Film & Animation",
             "duration": "1:10",
-            "view_count": "16898693",
+            "view_count": "17012655",
             "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:45",
-            "view_count": "115219",
+            "view_count": "157157",
             "thumbnail_url": "https://i.ytimg.com/vi/9PNLGn6XQRk/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "이민혁",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "48184",
+            "view_count": "48845",
             "thumbnail_url": "https://i.ytimg.com/vi/N4e-iWgoAHM/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "EMK MUSICAL",
             "category": "Entertainment",
             "duration": "1:24",
-            "view_count": "16051",
+            "view_count": "16394",
             "thumbnail_url": "https://i.ytimg.com/vi/sVbPel-6Ihs/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:50",
-            "view_count": "363991",
+            "view_count": "369096",
             "thumbnail_url": "https://i.ytimg.com/vi/DX-smAIOKvE/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "2:47",
-            "view_count": "78995",
+            "view_count": "83609",
             "thumbnail_url": "https://i.ytimg.com/vi/98AAxRavQKg/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:16",
-            "view_count": "220016",
+            "view_count": "220833",
             "thumbnail_url": "https://i.ytimg.com/vi/RMh4qPh9c3k/hqdefault.jpg"
-        },
-        {
-            "video_id": "1em36cknzoI",
-            "title": "하드코어 드디어 종결 [마크 하드코어 EP.FIN]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "42:55",
-            "view_count": "405375",
-            "thumbnail_url": "https://i.ytimg.com/vi/1em36cknzoI/hqdefault.jpg"
-        },
-        {
-            "video_id": "6Xa1VDLACPo",
-            "title": "Paradise of Rumors",
-            "channel_name": "AKMU - Topic",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "2878600",
-            "thumbnail_url": "https://i.ytimg.com/vi/6Xa1VDLACPo/hqdefault.jpg"
         },
         {
             "video_id": "SP-gPTxeTvw",
@@ -97,8 +79,26 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "1:53:31",
-            "view_count": "226721",
+            "view_count": "233730",
             "thumbnail_url": "https://i.ytimg.com/vi/SP-gPTxeTvw/hqdefault.jpg"
+        },
+        {
+            "video_id": "6Xa1VDLACPo",
+            "title": "Paradise of Rumors",
+            "channel_name": "AKMU - Topic",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "2888168",
+            "thumbnail_url": "https://i.ytimg.com/vi/6Xa1VDLACPo/hqdefault.jpg"
+        },
+        {
+            "video_id": "1em36cknzoI",
+            "title": "하드코어 드디어 종결 [마크 하드코어 EP.FIN]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "42:55",
+            "view_count": "408351",
+            "thumbnail_url": "https://i.ytimg.com/vi/1em36cknzoI/hqdefault.jpg"
         },
         {
             "video_id": "JZCVN-t2RPA",
@@ -106,7 +106,7 @@
             "channel_name": "박효신 PARK HYO SHIN",
             "category": "Music",
             "duration": "4:58",
-            "view_count": "40763",
+            "view_count": "44093",
             "thumbnail_url": "https://i.ytimg.com/vi/JZCVN-t2RPA/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "4:19:35",
-            "view_count": "130227",
+            "view_count": "131743",
             "thumbnail_url": "https://i.ytimg.com/vi/G-3eF-n5jzo/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "CUTIE STREET - Topic",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "324367",
+            "view_count": "327699",
             "thumbnail_url": "https://i.ytimg.com/vi/o-N7lgayxPA/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "9:52",
-            "view_count": "136101",
+            "view_count": "146109",
             "thumbnail_url": "https://i.ytimg.com/vi/G7cdUdcUhZc/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "이야",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "73375",
+            "view_count": "73751",
             "thumbnail_url": "https://i.ytimg.com/vi/n8v0KlN9Fxo/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "36:35",
-            "view_count": "101849",
+            "view_count": "106750",
             "thumbnail_url": "https://i.ytimg.com/vi/RcdedNHBf8Q/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "ZENE THE ZILLA - Topic",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "135283",
+            "view_count": "136614",
             "thumbnail_url": "https://i.ytimg.com/vi/c_JVytGDLqk/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "49:02",
-            "view_count": "158846",
+            "view_count": "162362",
             "thumbnail_url": "https://i.ytimg.com/vi/4-F-aZQzvyw/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "HWASA - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "586790",
+            "view_count": "590955",
             "thumbnail_url": "https://i.ytimg.com/vi/1RtAeLJtRtE/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "NELL - Topic",
             "category": "Music",
             "duration": "4:52",
-            "view_count": "117030",
+            "view_count": "117530",
             "thumbnail_url": "https://i.ytimg.com/vi/eRVGHurtZGA/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "20:39",
-            "view_count": "294206",
+            "view_count": "297689",
             "thumbnail_url": "https://i.ytimg.com/vi/KKword4cs_U/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "T.O.P",
             "category": "Music",
             "duration": "4:36",
-            "view_count": "3306148",
+            "view_count": "3332315",
             "thumbnail_url": "https://i.ytimg.com/vi/cfaybWG25D4/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "23:14",
-            "view_count": "870747",
+            "view_count": "874119",
             "thumbnail_url": "https://i.ytimg.com/vi/wHLo2TfGTVI/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "Vaundy - Topic",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "284228",
+            "view_count": "294617",
             "thumbnail_url": "https://i.ytimg.com/vi/LVCwdZoUFQ8/hqdefault.jpg"
         },
         {
@@ -241,26 +241,8 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "30:39",
-            "view_count": "123538",
+            "view_count": "129808",
             "thumbnail_url": "https://i.ytimg.com/vi/7JR9VMYGl4o/hqdefault.jpg"
-        },
-        {
-            "video_id": "0PZ4fElBkS8",
-            "title": "Go On",
-            "channel_name": "KiiiKiii - Topic",
-            "category": "Music",
-            "duration": "2:48",
-            "view_count": "73248",
-            "thumbnail_url": "https://i.ytimg.com/vi/0PZ4fElBkS8/hqdefault.jpg"
-        },
-        {
-            "video_id": "Pkfmh_pOH3A",
-            "title": "과금러(?)들끼리 가장 비싼 선수 걸고 영혼의 방출빵 게임하기ㅋㅋㅋㅋㅋ",
-            "channel_name": "돌잼",
-            "category": "Comedy",
-            "duration": "13:01",
-            "view_count": "92053",
-            "thumbnail_url": "https://i.ytimg.com/vi/Pkfmh_pOH3A/hqdefault.jpg"
         },
         {
             "video_id": "8hU6P7MmRyk",
@@ -268,26 +250,26 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "101347",
+            "view_count": "173894",
             "thumbnail_url": "https://i.ytimg.com/vi/8hU6P7MmRyk/hqdefault.jpg"
         },
         {
-            "video_id": "UCocK8okz8w",
-            "title": "0.0025% 뚫어낸 미친 1위 배틀로드 직작 영상",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "12:41",
-            "view_count": "175667",
-            "thumbnail_url": "https://i.ytimg.com/vi/UCocK8okz8w/hqdefault.jpg"
+            "video_id": "Pkfmh_pOH3A",
+            "title": "과금러(?)들끼리 가장 비싼 선수 걸고 영혼의 방출빵 게임하기ㅋㅋㅋㅋㅋ",
+            "channel_name": "돌잼",
+            "category": "Comedy",
+            "duration": "13:01",
+            "view_count": "95864",
+            "thumbnail_url": "https://i.ytimg.com/vi/Pkfmh_pOH3A/hqdefault.jpg"
         },
         {
-            "video_id": "rcsV9Pb26GI",
-            "title": "Goodbye",
-            "channel_name": "노아주다 (noahjooda) - Topic",
+            "video_id": "0PZ4fElBkS8",
+            "title": "Go On",
+            "channel_name": "KiiiKiii - Topic",
             "category": "Music",
-            "duration": "2:49",
-            "view_count": "19483",
-            "thumbnail_url": "https://i.ytimg.com/vi/rcsV9Pb26GI/hqdefault.jpg"
+            "duration": "2:48",
+            "view_count": "74899",
+            "thumbnail_url": "https://i.ytimg.com/vi/0PZ4fElBkS8/hqdefault.jpg"
         },
         {
             "video_id": "ihqj1217Jh8",
@@ -295,8 +277,26 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "29:37",
-            "view_count": "182996",
+            "view_count": "189421",
             "thumbnail_url": "https://i.ytimg.com/vi/ihqj1217Jh8/hqdefault.jpg"
+        },
+        {
+            "video_id": "rcsV9Pb26GI",
+            "title": "Goodbye",
+            "channel_name": "노아주다 (noahjooda) - Topic",
+            "category": "Music",
+            "duration": "2:49",
+            "view_count": "20012",
+            "thumbnail_url": "https://i.ytimg.com/vi/rcsV9Pb26GI/hqdefault.jpg"
+        },
+        {
+            "video_id": "UCocK8okz8w",
+            "title": "0.0025% 뚫어낸 미친 1위 배틀로드 직작 영상",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "12:41",
+            "view_count": "179444",
+            "thumbnail_url": "https://i.ytimg.com/vi/UCocK8okz8w/hqdefault.jpg"
         },
         {
             "video_id": "TCT0ZcKObUQ",
@@ -304,7 +304,7 @@
             "channel_name": "소니뮤직코리아 Sony Music Korea",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "119161",
+            "view_count": "119536",
             "thumbnail_url": "https://i.ytimg.com/vi/TCT0ZcKObUQ/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "30:01",
-            "view_count": "190622",
+            "view_count": "192475",
             "thumbnail_url": "https://i.ytimg.com/vi/xlNMDJLJVZs/hqdefault.jpg"
         },
         {
@@ -322,8 +322,26 @@
             "channel_name": "HanGroove - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "44378",
+            "view_count": "44770",
             "thumbnail_url": "https://i.ytimg.com/vi/t_vgQwGzdAk/hqdefault.jpg"
+        },
+        {
+            "video_id": "II8u1PzYVvY",
+            "title": "믿고보세요. 이번 시즌 최고의 롤 한판! 🫡💯",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "26:18",
+            "view_count": "85576",
+            "thumbnail_url": "https://i.ytimg.com/vi/II8u1PzYVvY/hqdefault.jpg"
+        },
+        {
+            "video_id": "SbMyfYL5xHw",
+            "title": "TWS (투어스) '으르렁+시간을 달려서' Rehearsal Stage Cam @ 2ND FANMEETING 〈42:CLUB〉 IN JAPAN",
+            "channel_name": "TWS",
+            "category": "Music",
+            "duration": "5:09",
+            "view_count": "37288",
+            "thumbnail_url": "https://i.ytimg.com/vi/SbMyfYL5xHw/hqdefault.jpg"
         },
         {
             "video_id": "-ul8UQRO5rk",
@@ -331,7 +349,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "19:48",
-            "view_count": "84055",
+            "view_count": "84840",
             "thumbnail_url": "https://i.ytimg.com/vi/-ul8UQRO5rk/hqdefault.jpg"
         },
         {
@@ -340,26 +358,8 @@
             "channel_name": "pH-1 - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "124945",
+            "view_count": "126042",
             "thumbnail_url": "https://i.ytimg.com/vi/7RxWYPidN3Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "II8u1PzYVvY",
-            "title": "믿고보세요. 이번 시즌 최고의 롤 한판! 🫡💯",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "26:18",
-            "view_count": "75430",
-            "thumbnail_url": "https://i.ytimg.com/vi/II8u1PzYVvY/hqdefault.jpg"
-        },
-        {
-            "video_id": "yRqq-BZ2rTE",
-            "title": "SAY MY NAME",
-            "channel_name": "DIMO REX - Topic",
-            "category": "Music",
-            "duration": "2:28",
-            "view_count": "32662",
-            "thumbnail_url": "https://i.ytimg.com/vi/yRqq-BZ2rTE/hqdefault.jpg"
         },
         {
             "video_id": "Lg7XnzTbqJQ",
@@ -367,17 +367,17 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "28:02",
-            "view_count": "156356",
+            "view_count": "163943",
             "thumbnail_url": "https://i.ytimg.com/vi/Lg7XnzTbqJQ/hqdefault.jpg"
         },
         {
-            "video_id": "SbMyfYL5xHw",
-            "title": "TWS (투어스) '으르렁+시간을 달려서' Rehearsal Stage Cam @ 2ND FANMEETING 〈42:CLUB〉 IN JAPAN",
-            "channel_name": "TWS",
+            "video_id": "yRqq-BZ2rTE",
+            "title": "SAY MY NAME",
+            "channel_name": "DIMO REX - Topic",
             "category": "Music",
-            "duration": "5:09",
-            "view_count": "33925",
-            "thumbnail_url": "https://i.ytimg.com/vi/SbMyfYL5xHw/hqdefault.jpg"
+            "duration": "2:28",
+            "view_count": "33292",
+            "thumbnail_url": "https://i.ytimg.com/vi/yRqq-BZ2rTE/hqdefault.jpg"
         }
     ]
 }
