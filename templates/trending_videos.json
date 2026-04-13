@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-14 06:53:27",
+    "scraped_time": "2026-04-14 07:48:10",
     "videos": [
         {
             "video_id": "Q120WlxVxdk",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "895064",
+            "view_count": "899467",
             "thumbnail_url": "https://i.ytimg.com/vi/Q120WlxVxdk/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:27",
-            "view_count": "195440",
+            "view_count": "197175",
             "thumbnail_url": "https://i.ytimg.com/vi/L2c8jSGVCqs/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "31:49",
-            "view_count": "298936",
+            "view_count": "303065",
             "thumbnail_url": "https://i.ytimg.com/vi/iCxmJJ_jSCA/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "4:29",
-            "view_count": "948931",
+            "view_count": "959081",
             "thumbnail_url": "https://i.ytimg.com/vi/XukB7ZG8CDQ/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "GLITCH",
             "category": "Film & Animation",
             "duration": "1:10",
-            "view_count": "19123703",
+            "view_count": "19184459",
             "thumbnail_url": "https://i.ytimg.com/vi/AjFk1cY265I/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "대천사 김블루",
             "category": "Gaming",
             "duration": "19:57",
-            "view_count": "223512",
+            "view_count": "226280",
             "thumbnail_url": "https://i.ytimg.com/vi/KbYxSB9LPk8/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:38",
-            "view_count": "2840003",
+            "view_count": "2888032",
             "thumbnail_url": "https://i.ytimg.com/vi/jOnLqqDRfY4/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:45",
-            "view_count": "427560",
+            "view_count": "428548",
             "thumbnail_url": "https://i.ytimg.com/vi/9PNLGn6XQRk/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "TOMORROW X TOGETHER - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "312483",
+            "view_count": "325515",
             "thumbnail_url": "https://i.ytimg.com/vi/pD3WH15qTgc/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "8:44:48",
-            "view_count": "235850",
+            "view_count": "236435",
             "thumbnail_url": "https://i.ytimg.com/vi/sXJswj0AKnk/hqdefault.jpg"
-        },
-        {
-            "video_id": "gY3dDWCUiaQ",
-            "title": "Wind and Town",
-            "channel_name": "Mrs. GREEN APPLE - Topic",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "732746",
-            "thumbnail_url": "https://i.ytimg.com/vi/gY3dDWCUiaQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "3Ong7Fjl2Zs",
-            "title": "혈중 알콜농도 99% [ASL 시즌21 16강 A조 승자전 3경기]",
-            "channel_name": "도멘TV [DOTUBE]",
-            "category": "Gaming",
-            "duration": "9:01",
-            "view_count": "53182",
-            "thumbnail_url": "https://i.ytimg.com/vi/3Ong7Fjl2Zs/hqdefault.jpg"
         },
         {
             "video_id": "JCbgdJ3pX3M",
@@ -115,8 +97,26 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "55745",
+            "view_count": "56958",
             "thumbnail_url": "https://i.ytimg.com/vi/JCbgdJ3pX3M/hqdefault.jpg"
+        },
+        {
+            "video_id": "3Ong7Fjl2Zs",
+            "title": "혈중 알콜농도 99% [ASL 시즌21 16강 A조 승자전 3경기]",
+            "channel_name": "도멘TV [DOTUBE]",
+            "category": "Gaming",
+            "duration": "9:01",
+            "view_count": "54084",
+            "thumbnail_url": "https://i.ytimg.com/vi/3Ong7Fjl2Zs/hqdefault.jpg"
+        },
+        {
+            "video_id": "gY3dDWCUiaQ",
+            "title": "Wind and Town",
+            "channel_name": "Mrs. GREEN APPLE - Topic",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "736797",
+            "thumbnail_url": "https://i.ytimg.com/vi/gY3dDWCUiaQ/hqdefault.jpg"
         },
         {
             "video_id": "oJm1HmwKMXo",
@@ -124,7 +124,7 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "16:14",
-            "view_count": "187126",
+            "view_count": "187940",
             "thumbnail_url": "https://i.ytimg.com/vi/oJm1HmwKMXo/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "OFFICIAL HIGE DANDISM - Topic",
             "category": "Music",
             "duration": "4:49",
-            "view_count": "385598",
+            "view_count": "387740",
             "thumbnail_url": "https://i.ytimg.com/vi/vZuJfe-KhUA/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "로자르",
             "category": "Gaming",
             "duration": "31:37",
-            "view_count": "112313",
+            "view_count": "113350",
             "thumbnail_url": "https://i.ytimg.com/vi/j9KBKD7mZDw/hqdefault.jpg"
         },
         {
@@ -151,26 +151,8 @@
             "channel_name": "이민혁",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "87211",
+            "view_count": "87729",
             "thumbnail_url": "https://i.ytimg.com/vi/N4e-iWgoAHM/hqdefault.jpg"
-        },
-        {
-            "video_id": "qLswixCjbaI",
-            "title": "감히 따라 할 수 없는 학살 스승님의 겐지 교육",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "26:29",
-            "view_count": "79489",
-            "thumbnail_url": "https://i.ytimg.com/vi/qLswixCjbaI/hqdefault.jpg"
-        },
-        {
-            "video_id": "JZCVN-t2RPA",
-            "title": "PARK HYO SHIN (박효신) - ‘Any Love’ Official MV",
-            "channel_name": "박효신 PARK HYO SHIN",
-            "category": "Music",
-            "duration": "4:58",
-            "view_count": "72854",
-            "thumbnail_url": "https://i.ytimg.com/vi/JZCVN-t2RPA/hqdefault.jpg"
         },
         {
             "video_id": "3QNj68OdFik",
@@ -178,8 +160,26 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "10:49",
-            "view_count": "77492",
+            "view_count": "82778",
             "thumbnail_url": "https://i.ytimg.com/vi/3QNj68OdFik/hqdefault.jpg"
+        },
+        {
+            "video_id": "JZCVN-t2RPA",
+            "title": "PARK HYO SHIN (박효신) - ‘Any Love’ Official MV",
+            "channel_name": "박효신 PARK HYO SHIN",
+            "category": "Music",
+            "duration": "4:58",
+            "view_count": "73034",
+            "thumbnail_url": "https://i.ytimg.com/vi/JZCVN-t2RPA/hqdefault.jpg"
+        },
+        {
+            "video_id": "qLswixCjbaI",
+            "title": "감히 따라 할 수 없는 학살 스승님의 겐지 교육",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "26:29",
+            "view_count": "83380",
+            "thumbnail_url": "https://i.ytimg.com/vi/qLswixCjbaI/hqdefault.jpg"
         },
         {
             "video_id": "o-N7lgayxPA",
@@ -187,17 +187,17 @@
             "channel_name": "CUTIE STREET - Topic",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "483063",
+            "view_count": "483963",
             "thumbnail_url": "https://i.ytimg.com/vi/o-N7lgayxPA/hqdefault.jpg"
         },
         {
-            "video_id": "SP-gPTxeTvw",
-            "title": "컴까기만 하던 내가 포챔스에선 마스터볼급?【포켓몬 챔피언스】",
-            "channel_name": "근가놈",
+            "video_id": "3_FYYGfty1Q",
+            "title": "리니지클래식 커츠 멸 망 전!天堂經典版#조선협객전클래식#게임#노래#음악#모바일#리니지클래식#nc##리니지m#血統#리니지#데포",
+            "channel_name": "정개철TV",
             "category": "Gaming",
-            "duration": "1:53:31",
-            "view_count": "310431",
-            "thumbnail_url": "https://i.ytimg.com/vi/SP-gPTxeTvw/hqdefault.jpg"
+            "duration": "8:52:59",
+            "view_count": "77222",
+            "thumbnail_url": "https://i.ytimg.com/vi/3_FYYGfty1Q/hqdefault.jpg"
         },
         {
             "video_id": "LVCwdZoUFQ8",
@@ -205,7 +205,7 @@
             "channel_name": "Vaundy - Topic",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "525067",
+            "view_count": "527840",
             "thumbnail_url": "https://i.ytimg.com/vi/LVCwdZoUFQ8/hqdefault.jpg"
         },
         {
@@ -214,8 +214,26 @@
             "channel_name": "프로관전러 P.S",
             "category": "Gaming",
             "duration": "30:49",
-            "view_count": "181095",
+            "view_count": "181393",
             "thumbnail_url": "https://i.ytimg.com/vi/71EHQLi0S-w/hqdefault.jpg"
+        },
+        {
+            "video_id": "6Xa1VDLACPo",
+            "title": "Paradise of Rumors",
+            "channel_name": "AKMU - Topic",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "3547762",
+            "thumbnail_url": "https://i.ytimg.com/vi/6Xa1VDLACPo/hqdefault.jpg"
+        },
+        {
+            "video_id": "SP-gPTxeTvw",
+            "title": "컴까기만 하던 내가 포챔스에선 마스터볼급?【포켓몬 챔피언스】",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "1:53:31",
+            "view_count": "311008",
+            "thumbnail_url": "https://i.ytimg.com/vi/SP-gPTxeTvw/hqdefault.jpg"
         },
         {
             "video_id": "C6FXANyVACw",
@@ -223,7 +241,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "4:32",
-            "view_count": "59565",
+            "view_count": "60381",
             "thumbnail_url": "https://i.ytimg.com/vi/C6FXANyVACw/hqdefault.jpg"
         },
         {
@@ -232,26 +250,8 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "9:52",
-            "view_count": "211734",
+            "view_count": "212021",
             "thumbnail_url": "https://i.ytimg.com/vi/G7cdUdcUhZc/hqdefault.jpg"
-        },
-        {
-            "video_id": "6Xa1VDLACPo",
-            "title": "Paradise of Rumors",
-            "channel_name": "AKMU - Topic",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "3542261",
-            "thumbnail_url": "https://i.ytimg.com/vi/6Xa1VDLACPo/hqdefault.jpg"
-        },
-        {
-            "video_id": "3_FYYGfty1Q",
-            "title": "리니지클래식 커츠 멸 망 전!天堂經典版#조선협객전클래식#게임#노래#음악#모바일#리니지클래식#nc##리니지m#血統#리니지#데포",
-            "channel_name": "정개철TV",
-            "category": "Gaming",
-            "duration": "8:52:59",
-            "view_count": "74514",
-            "thumbnail_url": "https://i.ytimg.com/vi/3_FYYGfty1Q/hqdefault.jpg"
         },
         {
             "video_id": "n8v0KlN9Fxo",
@@ -259,62 +259,8 @@
             "channel_name": "이야",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "89717",
+            "view_count": "89805",
             "thumbnail_url": "https://i.ytimg.com/vi/n8v0KlN9Fxo/hqdefault.jpg"
-        },
-        {
-            "video_id": "U5mMN9Eg44c",
-            "title": "전프로, 오버워치 레전드도 감탄하는 저라뎃의 미친 에임ㄷㄷ",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "45:14",
-            "view_count": "156615",
-            "thumbnail_url": "https://i.ytimg.com/vi/U5mMN9Eg44c/hqdefault.jpg"
-        },
-        {
-            "video_id": "c_JVytGDLqk",
-            "title": "130 Metronome",
-            "channel_name": "ZENE THE ZILLA - Topic",
-            "category": "Music",
-            "duration": "2:38",
-            "view_count": "218784",
-            "thumbnail_url": "https://i.ytimg.com/vi/c_JVytGDLqk/hqdefault.jpg"
-        },
-        {
-            "video_id": "_OgOoaZfYPo",
-            "title": "⚔️리니지 클래식 데포로쥬 김팥순",
-            "channel_name": "김팥순",
-            "category": "Gaming",
-            "duration": "6:26:21",
-            "view_count": "79998",
-            "thumbnail_url": "https://i.ytimg.com/vi/_OgOoaZfYPo/hqdefault.jpg"
-        },
-        {
-            "video_id": "rcsV9Pb26GI",
-            "title": "Goodbye",
-            "channel_name": "노아주다 (noahjooda) - Topic",
-            "category": "Music",
-            "duration": "2:49",
-            "view_count": "47228",
-            "thumbnail_url": "https://i.ytimg.com/vi/rcsV9Pb26GI/hqdefault.jpg"
-        },
-        {
-            "video_id": "gqQT5IvYF-Y",
-            "title": "저 당분간 초호화 선수들 안쓸겁니다 여러분들 곁으로 다가갈게요",
-            "channel_name": "유봉훈",
-            "category": "Gaming",
-            "duration": "16:39",
-            "view_count": "73897",
-            "thumbnail_url": "https://i.ytimg.com/vi/gqQT5IvYF-Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "PLLlbIf7lw8",
-            "title": "HOTLINE",
-            "channel_name": "&TEAM - Topic",
-            "category": "Music",
-            "duration": "3:11",
-            "view_count": "109114",
-            "thumbnail_url": "https://i.ytimg.com/vi/PLLlbIf7lw8/hqdefault.jpg"
         },
         {
             "video_id": "oQTrtfMqg5w",
@@ -322,8 +268,62 @@
             "channel_name": "지존조세",
             "category": "Gaming",
             "duration": "9:37",
-            "view_count": "189015",
+            "view_count": "193389",
             "thumbnail_url": "https://i.ytimg.com/vi/oQTrtfMqg5w/hqdefault.jpg"
+        },
+        {
+            "video_id": "c_JVytGDLqk",
+            "title": "130 Metronome",
+            "channel_name": "ZENE THE ZILLA - Topic",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "219462",
+            "thumbnail_url": "https://i.ytimg.com/vi/c_JVytGDLqk/hqdefault.jpg"
+        },
+        {
+            "video_id": "U5mMN9Eg44c",
+            "title": "전프로, 오버워치 레전드도 감탄하는 저라뎃의 미친 에임ㄷㄷ",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "45:14",
+            "view_count": "156897",
+            "thumbnail_url": "https://i.ytimg.com/vi/U5mMN9Eg44c/hqdefault.jpg"
+        },
+        {
+            "video_id": "rcsV9Pb26GI",
+            "title": "Goodbye",
+            "channel_name": "노아주다 (noahjooda) - Topic",
+            "category": "Music",
+            "duration": "2:49",
+            "view_count": "47454",
+            "thumbnail_url": "https://i.ytimg.com/vi/rcsV9Pb26GI/hqdefault.jpg"
+        },
+        {
+            "video_id": "_OgOoaZfYPo",
+            "title": "⚔️리니지 클래식 데포로쥬 김팥순",
+            "channel_name": "김팥순",
+            "category": "Gaming",
+            "duration": "6:26:21",
+            "view_count": "80215",
+            "thumbnail_url": "https://i.ytimg.com/vi/_OgOoaZfYPo/hqdefault.jpg"
+        },
+        {
+            "video_id": "PLLlbIf7lw8",
+            "title": "HOTLINE",
+            "channel_name": "&TEAM - Topic",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "109627",
+            "thumbnail_url": "https://i.ytimg.com/vi/PLLlbIf7lw8/hqdefault.jpg"
+        },
+        {
+            "video_id": "gqQT5IvYF-Y",
+            "title": "저 당분간 초호화 선수들 안쓸겁니다 여러분들 곁으로 다가갈게요",
+            "channel_name": "유봉훈",
+            "category": "Gaming",
+            "duration": "16:39",
+            "view_count": "74823",
+            "thumbnail_url": "https://i.ytimg.com/vi/gqQT5IvYF-Y/hqdefault.jpg"
         },
         {
             "video_id": "1RtAeLJtRtE",
@@ -331,17 +331,17 @@
             "channel_name": "HWASA - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "792390",
+            "view_count": "794586",
             "thumbnail_url": "https://i.ytimg.com/vi/1RtAeLJtRtE/hqdefault.jpg"
         },
         {
-            "video_id": "DX-smAIOKvE",
-            "title": "티모 아작나",
-            "channel_name": "PAKA",
+            "video_id": "KRDx4XPsso4",
+            "title": "텍스쳐가 어제 경기에서 강해진 이유",
+            "channel_name": "김된모",
             "category": "Gaming",
-            "duration": "23:50",
-            "view_count": "427428",
-            "thumbnail_url": "https://i.ytimg.com/vi/DX-smAIOKvE/hqdefault.jpg"
+            "duration": "18:41",
+            "view_count": "82967",
+            "thumbnail_url": "https://i.ytimg.com/vi/KRDx4XPsso4/hqdefault.jpg"
         },
         {
             "video_id": "0PZ4fElBkS8",
@@ -349,7 +349,7 @@
             "channel_name": "KiiiKiii - Topic",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "136305",
+            "view_count": "136844",
             "thumbnail_url": "https://i.ytimg.com/vi/0PZ4fElBkS8/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "36:35",
-            "view_count": "157574",
+            "view_count": "157722",
             "thumbnail_url": "https://i.ytimg.com/vi/RcdedNHBf8Q/hqdefault.jpg"
         },
         {
@@ -367,17 +367,17 @@
             "channel_name": "Skinny Brown - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "28372",
+            "view_count": "28679",
             "thumbnail_url": "https://i.ytimg.com/vi/K1Pq_LETafQ/hqdefault.jpg"
         },
         {
-            "video_id": "KRDx4XPsso4",
-            "title": "텍스쳐가 어제 경기에서 강해진 이유",
-            "channel_name": "김된모",
+            "video_id": "DX-smAIOKvE",
+            "title": "티모 아작나",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "18:41",
-            "view_count": "82501",
-            "thumbnail_url": "https://i.ytimg.com/vi/KRDx4XPsso4/hqdefault.jpg"
+            "duration": "23:50",
+            "view_count": "427856",
+            "thumbnail_url": "https://i.ytimg.com/vi/DX-smAIOKvE/hqdefault.jpg"
         }
     ]
 }
