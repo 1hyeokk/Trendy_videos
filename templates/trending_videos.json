@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-15 14:26:53",
+    "scraped_time": "2026-04-15 16:52:36",
     "videos": [
         {
             "video_id": "Q120WlxVxdk",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "1319460",
+            "view_count": "1354407",
             "thumbnail_url": "https://i.ytimg.com/vi/Q120WlxVxdk/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "넷플릭스 뽕뽑기 [엘플릭스]",
             "category": "Film & Animation",
             "duration": "12:42",
-            "view_count": "220100",
+            "view_count": "238238",
             "thumbnail_url": "https://i.ytimg.com/vi/8L2rVYomheg/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:42",
-            "view_count": "319247",
+            "view_count": "332776",
             "thumbnail_url": "https://i.ytimg.com/vi/-j5s-apna4A/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "4:29",
-            "view_count": "1586989",
+            "view_count": "1639515",
             "thumbnail_url": "https://i.ytimg.com/vi/XukB7ZG8CDQ/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:27",
-            "view_count": "271485",
+            "view_count": "273561",
             "thumbnail_url": "https://i.ytimg.com/vi/L2c8jSGVCqs/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "11:54:59",
-            "view_count": "154193",
+            "view_count": "170138",
             "thumbnail_url": "https://i.ytimg.com/vi/22lseTIPRhI/hqdefault.jpg"
         },
         {
@@ -61,17 +61,17 @@
             "channel_name": "TOMORROW X TOGETHER - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "884953",
+            "view_count": "913451",
             "thumbnail_url": "https://i.ytimg.com/vi/pD3WH15qTgc/hqdefault.jpg"
         },
         {
-            "video_id": "Ja_sZRg593E",
-            "title": "[클라이맥스 10화 예고]자살 위장 살인까지 지시한 이양미, 방추 부부의 덫에 제대로 걸렸다!#클라이맥스 #주지훈 #하지원 #차주영 #오정세 #ENA",
-            "channel_name": "Dramatic Drama",
+            "video_id": "sfvEWaihvWQ",
+            "title": "[군체] 인터내셔널 예고편 | 5월 21일 극장 대개봉",
+            "channel_name": "쇼박스 SHOWBOX",
             "category": "Film & Animation",
-            "duration": "9:18",
-            "view_count": "31972",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ja_sZRg593E/hqdefault.jpg"
+            "duration": "1:04",
+            "view_count": "11976",
+            "thumbnail_url": "https://i.ytimg.com/vi/sfvEWaihvWQ/hqdefault.jpg"
         },
         {
             "video_id": "oDRyyAYb7pc",
@@ -79,7 +79,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "7:23:57",
-            "view_count": "258260",
+            "view_count": "259658",
             "thumbnail_url": "https://i.ytimg.com/vi/oDRyyAYb7pc/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:38",
-            "view_count": "6310975",
+            "view_count": "6670840",
             "thumbnail_url": "https://i.ytimg.com/vi/jOnLqqDRfY4/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "캡콤아시아",
             "category": "Gaming",
             "duration": "2:10",
-            "view_count": "17870",
+            "view_count": "26724",
             "thumbnail_url": "https://i.ytimg.com/vi/EIwJGmzfwz4/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "21:18",
-            "view_count": "191511",
+            "view_count": "204281",
             "thumbnail_url": "https://i.ytimg.com/vi/Rj8e0ulUrUk/hqdefault.jpg"
         },
         {
@@ -115,8 +115,17 @@
             "channel_name": "새빛 (Saebit)",
             "category": "Music",
             "duration": "4:36",
-            "view_count": "47977",
+            "view_count": "53939",
             "thumbnail_url": "https://i.ytimg.com/vi/PE41fNv7Z7Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ja_sZRg593E",
+            "title": "[클라이맥스 10화 예고]자살 위장 살인까지 지시한 이양미, 방추 부부의 덫에 제대로 걸렸다!#클라이맥스 #주지훈 #하지원 #차주영 #오정세 #ENA",
+            "channel_name": "Dramatic Drama",
+            "category": "Film & Animation",
+            "duration": "9:18",
+            "view_count": "32230",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ja_sZRg593E/hqdefault.jpg"
         },
         {
             "video_id": "VCb6k2pmTZc",
@@ -124,7 +133,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "50:35",
-            "view_count": "207268",
+            "view_count": "216950",
             "thumbnail_url": "https://i.ytimg.com/vi/VCb6k2pmTZc/hqdefault.jpg"
         },
         {
@@ -133,7 +142,7 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "1567853",
+            "view_count": "1675551",
             "thumbnail_url": "https://i.ytimg.com/vi/qWDNVP1pb48/hqdefault.jpg"
         },
         {
@@ -142,7 +151,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "31:49",
-            "view_count": "484004",
+            "view_count": "489466",
             "thumbnail_url": "https://i.ytimg.com/vi/iCxmJJ_jSCA/hqdefault.jpg"
         },
         {
@@ -151,7 +160,7 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "112645",
+            "view_count": "115579",
             "thumbnail_url": "https://i.ytimg.com/vi/JCbgdJ3pX3M/hqdefault.jpg"
         },
         {
@@ -160,7 +169,7 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "18:06",
-            "view_count": "237358",
+            "view_count": "246947",
             "thumbnail_url": "https://i.ytimg.com/vi/1uLjuNxSOnM/hqdefault.jpg"
         },
         {
@@ -169,16 +178,16 @@
             "channel_name": "OFFICIAL HIGE DANDISM - Topic",
             "category": "Music",
             "duration": "4:49",
-            "view_count": "665407",
+            "view_count": "685408",
             "thumbnail_url": "https://i.ytimg.com/vi/vZuJfe-KhUA/hqdefault.jpg"
         },
         {
             "video_id": "KbYxSB9LPk8",
             "title": "결국 와버린 연상킬러 김블루 ‘삼자대면 사건’",
-            "channel_name": "대천사 김블루",
+            "channel_name": "김블루",
             "category": "Gaming",
             "duration": "19:57",
-            "view_count": "378255",
+            "view_count": "381891",
             "thumbnail_url": "https://i.ytimg.com/vi/KbYxSB9LPk8/hqdefault.jpg"
         },
         {
@@ -187,7 +196,7 @@
             "channel_name": "Mrs. GREEN APPLE - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "1201277",
+            "view_count": "1231776",
             "thumbnail_url": "https://i.ytimg.com/vi/gY3dDWCUiaQ/hqdefault.jpg"
         },
         {
@@ -196,8 +205,26 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:01",
-            "view_count": "59189",
+            "view_count": "61743",
             "thumbnail_url": "https://i.ytimg.com/vi/RVNdRRnclKI/hqdefault.jpg"
+        },
+        {
+            "video_id": "GKu20OT657k",
+            "title": "If I Could Read Your Mind (2026 Ver.)",
+            "channel_name": "So Soo Bin - Topic",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "21984",
+            "thumbnail_url": "https://i.ytimg.com/vi/GKu20OT657k/hqdefault.jpg"
+        },
+        {
+            "video_id": "DDGOiotXUzI",
+            "title": "도란류 신템과 스태틱 리워크, 사상 첫 흡혈신까지 시즌 아이템 대격변",
+            "channel_name": "롤박사 해도리",
+            "category": "Gaming",
+            "duration": "8:06",
+            "view_count": "85544",
+            "thumbnail_url": "https://i.ytimg.com/vi/DDGOiotXUzI/hqdefault.jpg"
         },
         {
             "video_id": "ggp7A8fITmk",
@@ -205,7 +232,7 @@
             "channel_name": "도겸X승관 (SEVENTEEN) - Topic",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "74139",
+            "view_count": "80123",
             "thumbnail_url": "https://i.ytimg.com/vi/ggp7A8fITmk/hqdefault.jpg"
         },
         {
@@ -214,26 +241,8 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "47:53",
-            "view_count": "194791",
+            "view_count": "197890",
             "thumbnail_url": "https://i.ytimg.com/vi/WIz_cHmVjAo/hqdefault.jpg"
-        },
-        {
-            "video_id": "GKu20OT657k",
-            "title": "If I Could Read Your Mind (2026 Ver.)",
-            "channel_name": "So Soo Bin - Topic",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "18614",
-            "thumbnail_url": "https://i.ytimg.com/vi/GKu20OT657k/hqdefault.jpg"
-        },
-        {
-            "video_id": "fT_fCx4-eZM",
-            "title": "3591승 573패 승률 86%... 어마어마한 전적의 '초고수 실력자' 등장ㄷㄷ",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "41:43",
-            "view_count": "141524",
-            "thumbnail_url": "https://i.ytimg.com/vi/fT_fCx4-eZM/hqdefault.jpg"
         },
         {
             "video_id": "yNa8jP4zoJo",
@@ -241,44 +250,8 @@
             "channel_name": "Laufey",
             "category": "Music",
             "duration": "4:45",
-            "view_count": "4601372",
+            "view_count": "4730905",
             "thumbnail_url": "https://i.ytimg.com/vi/yNa8jP4zoJo/hqdefault.jpg"
-        },
-        {
-            "video_id": "oTh5dih6dzA",
-            "title": "이렇게 재밌는 조합은 처음입니다😹 미친 이속 \"질머스 조합\" ⚽️💨",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "30:16",
-            "view_count": "111513",
-            "thumbnail_url": "https://i.ytimg.com/vi/oTh5dih6dzA/hqdefault.jpg"
-        },
-        {
-            "video_id": "N4e-iWgoAHM",
-            "title": "[Lyrics Video] 이민혁 - 나의 모든 밤을 줄게",
-            "channel_name": "이민혁",
-            "category": "Music",
-            "duration": "3:43",
-            "view_count": "125918",
-            "thumbnail_url": "https://i.ytimg.com/vi/N4e-iWgoAHM/hqdefault.jpg"
-        },
-        {
-            "video_id": "Mp7fo1he4po",
-            "title": "리니지 클래식 40lv 스턴기사 리니지24년차 본실력 들어갑니다",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "2:20:49",
-            "view_count": "89364",
-            "thumbnail_url": "https://i.ytimg.com/vi/Mp7fo1he4po/hqdefault.jpg"
-        },
-        {
-            "video_id": "a18RIdo6HQY",
-            "title": "[최신가요 실시간 인기차트] 2026년 4월 13일 3주차, 멜론차트 X, 노래모음 KPOP 플레이리스트 종합차트",
-            "channel_name": "Her Track",
-            "category": "Music",
-            "duration": "3:10:20",
-            "view_count": "21893",
-            "thumbnail_url": "https://i.ytimg.com/vi/a18RIdo6HQY/hqdefault.jpg"
         },
         {
             "video_id": "0EAE7x3Qx7Q",
@@ -286,26 +259,8 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "6:43",
-            "view_count": "145081",
+            "view_count": "156061",
             "thumbnail_url": "https://i.ytimg.com/vi/0EAE7x3Qx7Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "JZCVN-t2RPA",
-            "title": "PARK HYO SHIN (박효신) - ‘Any Love’ Official MV",
-            "channel_name": "박효신 PARK HYO SHIN",
-            "category": "Music",
-            "duration": "4:58",
-            "view_count": "90253",
-            "thumbnail_url": "https://i.ytimg.com/vi/JZCVN-t2RPA/hqdefault.jpg"
-        },
-        {
-            "video_id": "qLswixCjbaI",
-            "title": "감히 따라 할 수 없는 학살 스승님의 겐지 교육",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "26:29",
-            "view_count": "227741",
-            "thumbnail_url": "https://i.ytimg.com/vi/qLswixCjbaI/hqdefault.jpg"
         },
         {
             "video_id": "A5NtwuBp6f4",
@@ -313,26 +268,62 @@
             "channel_name": "Woo - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "14397",
+            "view_count": "16289",
             "thumbnail_url": "https://i.ytimg.com/vi/A5NtwuBp6f4/hqdefault.jpg"
         },
         {
-            "video_id": "DDGOiotXUzI",
-            "title": "도란류 신템과 스태틱 리워크, 사상 첫 흡혈신까지 시즌 아이템 대격변",
-            "channel_name": "롤박사 해도리",
+            "video_id": "fT_fCx4-eZM",
+            "title": "3591승 573패 승률 86%... 어마어마한 전적의 '초고수 실력자' 등장ㄷㄷ",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "8:06",
-            "view_count": "60378",
-            "thumbnail_url": "https://i.ytimg.com/vi/DDGOiotXUzI/hqdefault.jpg"
+            "duration": "41:43",
+            "view_count": "144132",
+            "thumbnail_url": "https://i.ytimg.com/vi/fT_fCx4-eZM/hqdefault.jpg"
         },
         {
-            "video_id": "fYDVBJ20kWs",
-            "title": "Blue Moon",
-            "channel_name": "The Rose - Topic",
+            "video_id": "a18RIdo6HQY",
+            "title": "[최신가요 실시간 인기차트] 2026년 4월 13일 3주차, 멜론차트 X, 노래모음 KPOP 플레이리스트 종합차트",
+            "channel_name": "Her Track",
             "category": "Music",
-            "duration": "2:56",
-            "view_count": "97256",
-            "thumbnail_url": "https://i.ytimg.com/vi/fYDVBJ20kWs/hqdefault.jpg"
+            "duration": "3:10:20",
+            "view_count": "24108",
+            "thumbnail_url": "https://i.ytimg.com/vi/a18RIdo6HQY/hqdefault.jpg"
+        },
+        {
+            "video_id": "oTh5dih6dzA",
+            "title": "이렇게 재밌는 조합은 처음입니다😹 미친 이속 \"질머스 조합\" ⚽️💨",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "30:16",
+            "view_count": "116061",
+            "thumbnail_url": "https://i.ytimg.com/vi/oTh5dih6dzA/hqdefault.jpg"
+        },
+        {
+            "video_id": "q4JZi5vO3-g",
+            "title": "Don’t Call Me",
+            "channel_name": "Ji Yunho - Topic",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "11717",
+            "thumbnail_url": "https://i.ytimg.com/vi/q4JZi5vO3-g/hqdefault.jpg"
+        },
+        {
+            "video_id": "Mp7fo1he4po",
+            "title": "리니지 클래식 40lv 스턴기사 리니지24년차 본실력 들어갑니다",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "2:20:49",
+            "view_count": "90685",
+            "thumbnail_url": "https://i.ytimg.com/vi/Mp7fo1he4po/hqdefault.jpg"
+        },
+        {
+            "video_id": "N4e-iWgoAHM",
+            "title": "[Lyrics Video] 이민혁 - 나의 모든 밤을 줄게",
+            "channel_name": "이민혁",
+            "category": "Music",
+            "duration": "3:43",
+            "view_count": "129229",
+            "thumbnail_url": "https://i.ytimg.com/vi/N4e-iWgoAHM/hqdefault.jpg"
         },
         {
             "video_id": "2JtCHqDuXu0",
@@ -340,7 +331,7 @@
             "channel_name": "글자네",
             "category": "Gaming",
             "duration": "16:02",
-            "view_count": "101455",
+            "view_count": "105987",
             "thumbnail_url": "https://i.ytimg.com/vi/2JtCHqDuXu0/hqdefault.jpg"
         },
         {
@@ -349,8 +340,26 @@
             "channel_name": "J_ust - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "15933",
+            "view_count": "17496",
             "thumbnail_url": "https://i.ytimg.com/vi/11CwnVnB_Jo/hqdefault.jpg"
+        },
+        {
+            "video_id": "qLswixCjbaI",
+            "title": "감히 따라 할 수 없는 학살 스승님의 겐지 교육",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "26:29",
+            "view_count": "230833",
+            "thumbnail_url": "https://i.ytimg.com/vi/qLswixCjbaI/hqdefault.jpg"
+        },
+        {
+            "video_id": "JZCVN-t2RPA",
+            "title": "PARK HYO SHIN (박효신) - ‘Any Love’ Official MV",
+            "channel_name": "박효신 PARK HYO SHIN",
+            "category": "Music",
+            "duration": "4:58",
+            "view_count": "91904",
+            "thumbnail_url": "https://i.ytimg.com/vi/JZCVN-t2RPA/hqdefault.jpg"
         },
         {
             "video_id": "3QNj68OdFik",
@@ -358,26 +367,17 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "10:49",
-            "view_count": "200170",
+            "view_count": "202162",
             "thumbnail_url": "https://i.ytimg.com/vi/3QNj68OdFik/hqdefault.jpg"
         },
         {
-            "video_id": "LVCwdZoUFQ8",
-            "title": "飛ぶ時",
-            "channel_name": "Vaundy - Topic",
+            "video_id": "fYDVBJ20kWs",
+            "title": "Blue Moon",
+            "channel_name": "The Rose - Topic",
             "category": "Music",
-            "duration": "4:13",
-            "view_count": "800590",
-            "thumbnail_url": "https://i.ytimg.com/vi/LVCwdZoUFQ8/hqdefault.jpg"
-        },
-        {
-            "video_id": "BdrSBmGBGDs",
-            "title": "혼테일 올먹 1트로 10억 버는 사람 ㄷㄷㄷㄷ",
-            "channel_name": "수찬 Suchan",
-            "category": "Gaming",
-            "duration": "10:54",
-            "view_count": "71778",
-            "thumbnail_url": "https://i.ytimg.com/vi/BdrSBmGBGDs/hqdefault.jpg"
+            "duration": "2:56",
+            "view_count": "102350",
+            "thumbnail_url": "https://i.ytimg.com/vi/fYDVBJ20kWs/hqdefault.jpg"
         }
     ]
 }
