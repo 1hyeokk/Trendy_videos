@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-19 18:55:54",
+    "scraped_time": "2026-04-19 19:44:14",
     "videos": [
         {
             "video_id": "I68HZsntLvU",
@@ -7,7 +7,7 @@
             "channel_name": "meenoi - Topic",
             "category": "Music",
             "duration": "7:12",
-            "view_count": "217124",
+            "view_count": "218884",
             "thumbnail_url": "https://i.ytimg.com/vi/I68HZsntLvU/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "11:02",
-            "view_count": "409911",
+            "view_count": "411315",
             "thumbnail_url": "https://i.ytimg.com/vi/pBIs0umxUIA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "46:16",
-            "view_count": "239400",
+            "view_count": "245215",
             "thumbnail_url": "https://i.ytimg.com/vi/I6PS4fb5JMA/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "64242",
+            "view_count": "72727",
             "thumbnail_url": "https://i.ytimg.com/vi/qYCB3H2gTYQ/hqdefault.jpg"
         },
         {
@@ -43,44 +43,8 @@
             "channel_name": "ParamountKR",
             "category": "Film & Animation",
             "duration": "2:46",
-            "view_count": "249842",
+            "view_count": "253886",
             "thumbnail_url": "https://i.ytimg.com/vi/unlmioNHylo/hqdefault.jpg"
-        },
-        {
-            "video_id": "QDrYigWG4_0",
-            "title": "오랜만에 신규 브롤러 3개 한번에 나오는 업데이트 등장ㄷㄷ [브롤스타즈 4월 브롤토크 완벽분석]",
-            "channel_name": "홀릿 Youtube Holit",
-            "category": "Gaming",
-            "duration": "34:06",
-            "view_count": "109071",
-            "thumbnail_url": "https://i.ytimg.com/vi/QDrYigWG4_0/hqdefault.jpg"
-        },
-        {
-            "video_id": "2gtZTsK6q7w",
-            "title": "GDM ㅣ우디 (Woody) '두 사람 (Two of us)' OFFICIAL MV : WISH+ EP. 03 [KOR/ENG]",
-            "channel_name": "김상우디 [Woody Official]",
-            "category": "Music",
-            "duration": "5:00",
-            "view_count": "201625",
-            "thumbnail_url": "https://i.ytimg.com/vi/2gtZTsK6q7w/hqdefault.jpg"
-        },
-        {
-            "video_id": "0_YCinv1uKQ",
-            "title": "아델 스펙업! 27성 고근 가져왔습니다 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "14:15",
-            "view_count": "227328",
-            "thumbnail_url": "https://i.ytimg.com/vi/0_YCinv1uKQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "3sKKVJ_jfAs",
-            "title": "Behind The Shine",
-            "channel_name": "RIIZE - Topic",
-            "category": "Music",
-            "duration": "3:15",
-            "view_count": "97679",
-            "thumbnail_url": "https://i.ytimg.com/vi/3sKKVJ_jfAs/hqdefault.jpg"
         },
         {
             "video_id": "JL7dUNfMNQc",
@@ -88,8 +52,44 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "21:46",
-            "view_count": "86622",
+            "view_count": "94736",
             "thumbnail_url": "https://i.ytimg.com/vi/JL7dUNfMNQc/hqdefault.jpg"
+        },
+        {
+            "video_id": "2gtZTsK6q7w",
+            "title": "GDM ㅣ우디 (Woody) '두 사람 (Two of us)' OFFICIAL MV : WISH+ EP. 03 [KOR/ENG]",
+            "channel_name": "김상우디 [Woody Official]",
+            "category": "Music",
+            "duration": "5:00",
+            "view_count": "203342",
+            "thumbnail_url": "https://i.ytimg.com/vi/2gtZTsK6q7w/hqdefault.jpg"
+        },
+        {
+            "video_id": "QDrYigWG4_0",
+            "title": "오랜만에 신규 브롤러 3개 한번에 나오는 업데이트 등장ㄷㄷ [브롤스타즈 4월 브롤토크 완벽분석]",
+            "channel_name": "홀릿 Youtube Holit",
+            "category": "Gaming",
+            "duration": "34:06",
+            "view_count": "111923",
+            "thumbnail_url": "https://i.ytimg.com/vi/QDrYigWG4_0/hqdefault.jpg"
+        },
+        {
+            "video_id": "3sKKVJ_jfAs",
+            "title": "Behind The Shine",
+            "channel_name": "RIIZE - Topic",
+            "category": "Music",
+            "duration": "3:15",
+            "view_count": "100720",
+            "thumbnail_url": "https://i.ytimg.com/vi/3sKKVJ_jfAs/hqdefault.jpg"
+        },
+        {
+            "video_id": "0_YCinv1uKQ",
+            "title": "아델 스펙업! 27성 고근 가져왔습니다 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "14:15",
+            "view_count": "229231",
+            "thumbnail_url": "https://i.ytimg.com/vi/0_YCinv1uKQ/hqdefault.jpg"
         },
         {
             "video_id": "s4FXagpZ9G4",
@@ -97,44 +97,8 @@
             "channel_name": "GGM Kimbo",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "407686",
+            "view_count": "409100",
             "thumbnail_url": "https://i.ytimg.com/vi/s4FXagpZ9G4/hqdefault.jpg"
-        },
-        {
-            "video_id": "W8Ea2p9nAnE",
-            "title": "사막밖에 없는 세계에서 100일동안 살아남기",
-            "channel_name": "프뚜",
-            "category": "Gaming",
-            "duration": "23:57",
-            "view_count": "249992",
-            "thumbnail_url": "https://i.ytimg.com/vi/W8Ea2p9nAnE/hqdefault.jpg"
-        },
-        {
-            "video_id": "cUAzv0MwyOU",
-            "title": "Naughty Talk + VANCOUVER FLOW",
-            "channel_name": "김상민그는감히전설이라고할수있다 - Topic",
-            "category": "Music",
-            "duration": "3:42",
-            "view_count": "115028",
-            "thumbnail_url": "https://i.ytimg.com/vi/cUAzv0MwyOU/hqdefault.jpg"
-        },
-        {
-            "video_id": "EyZPkSyYMDQ",
-            "title": "아 피자 먹고 싶다 : 독타입 하트골드【포켓몬 모든타입 깨기】#10",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "28:04",
-            "view_count": "201968",
-            "thumbnail_url": "https://i.ytimg.com/vi/EyZPkSyYMDQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "Tf0-4tzskLA",
-            "title": "Voyager",
-            "channel_name": "Xdinary Heroes - Topic",
-            "category": "Music",
-            "duration": "3:55",
-            "view_count": "157104",
-            "thumbnail_url": "https://i.ytimg.com/vi/Tf0-4tzskLA/hqdefault.jpg"
         },
         {
             "video_id": "V9GkQj1YaTA",
@@ -142,8 +106,44 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "40:22",
-            "view_count": "87285",
+            "view_count": "94096",
             "thumbnail_url": "https://i.ytimg.com/vi/V9GkQj1YaTA/hqdefault.jpg"
+        },
+        {
+            "video_id": "cUAzv0MwyOU",
+            "title": "Naughty Talk + VANCOUVER FLOW",
+            "channel_name": "김상민그는감히전설이라고할수있다 - Topic",
+            "category": "Music",
+            "duration": "3:42",
+            "view_count": "117627",
+            "thumbnail_url": "https://i.ytimg.com/vi/cUAzv0MwyOU/hqdefault.jpg"
+        },
+        {
+            "video_id": "W8Ea2p9nAnE",
+            "title": "사막밖에 없는 세계에서 100일동안 살아남기",
+            "channel_name": "프뚜",
+            "category": "Gaming",
+            "duration": "23:57",
+            "view_count": "253061",
+            "thumbnail_url": "https://i.ytimg.com/vi/W8Ea2p9nAnE/hqdefault.jpg"
+        },
+        {
+            "video_id": "Tf0-4tzskLA",
+            "title": "Voyager",
+            "channel_name": "Xdinary Heroes - Topic",
+            "category": "Music",
+            "duration": "3:55",
+            "view_count": "159341",
+            "thumbnail_url": "https://i.ytimg.com/vi/Tf0-4tzskLA/hqdefault.jpg"
+        },
+        {
+            "video_id": "EyZPkSyYMDQ",
+            "title": "아 피자 먹고 싶다 : 독타입 하트골드【포켓몬 모든타입 깨기】#10",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "28:04",
+            "view_count": "204114",
+            "thumbnail_url": "https://i.ytimg.com/vi/EyZPkSyYMDQ/hqdefault.jpg"
         },
         {
             "video_id": "e-bwzm8-xnU",
@@ -151,7 +151,7 @@
             "channel_name": "ifeye 이프아이",
             "category": "Entertainment",
             "duration": "2:55",
-            "view_count": "3281090",
+            "view_count": "3286967",
             "thumbnail_url": "https://i.ytimg.com/vi/e-bwzm8-xnU/hqdefault.jpg"
         },
         {
@@ -160,26 +160,8 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "29:09",
-            "view_count": "392631",
+            "view_count": "394365",
             "thumbnail_url": "https://i.ytimg.com/vi/_ToN_B3qJK0/hqdefault.jpg"
-        },
-        {
-            "video_id": "m5706DTpLCs",
-            "title": "NCT WISH 엔시티 위시 'Ode to Love' MV Teaser",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "0:42",
-            "view_count": "215013",
-            "thumbnail_url": "https://i.ytimg.com/vi/m5706DTpLCs/hqdefault.jpg"
-        },
-        {
-            "video_id": "Qv0NK_X645o",
-            "title": "브롤 토크 : 3명의 신규 브롤러! [브롤스타즈]",
-            "channel_name": "브롤스타즈",
-            "category": "Gaming",
-            "duration": "11:06",
-            "view_count": "106972",
-            "thumbnail_url": "https://i.ytimg.com/vi/Qv0NK_X645o/hqdefault.jpg"
         },
         {
             "video_id": "RJmuGJKSYK8",
@@ -187,17 +169,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "111505",
+            "view_count": "113180",
             "thumbnail_url": "https://i.ytimg.com/vi/RJmuGJKSYK8/hqdefault.jpg"
         },
         {
-            "video_id": "R1eD_ZHfVtQ",
-            "title": "[775억 세팅] 35렙시프딜 ㅁㅊ ㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "레고77",
+            "video_id": "Qv0NK_X645o",
+            "title": "브롤 토크 : 3명의 신규 브롤러! [브롤스타즈]",
+            "channel_name": "브롤스타즈",
             "category": "Gaming",
-            "duration": "11:28",
-            "view_count": "214020",
-            "thumbnail_url": "https://i.ytimg.com/vi/R1eD_ZHfVtQ/hqdefault.jpg"
+            "duration": "11:06",
+            "view_count": "108710",
+            "thumbnail_url": "https://i.ytimg.com/vi/Qv0NK_X645o/hqdefault.jpg"
         },
         {
             "video_id": "G1--F4N-Gvs",
@@ -205,8 +187,26 @@
             "channel_name": "Olivia Rodrigo - Topic",
             "category": "Music",
             "duration": "3:45",
-            "view_count": "1373525",
+            "view_count": "1384130",
             "thumbnail_url": "https://i.ytimg.com/vi/G1--F4N-Gvs/hqdefault.jpg"
+        },
+        {
+            "video_id": "R1eD_ZHfVtQ",
+            "title": "[775억 세팅] 35렙시프딜 ㅁㅊ ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "11:28",
+            "view_count": "216385",
+            "thumbnail_url": "https://i.ytimg.com/vi/R1eD_ZHfVtQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "m5706DTpLCs",
+            "title": "NCT WISH 엔시티 위시 'Ode to Love' MV Teaser",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "0:42",
+            "view_count": "215755",
+            "thumbnail_url": "https://i.ytimg.com/vi/m5706DTpLCs/hqdefault.jpg"
         },
         {
             "video_id": "NOnCBsDMBJs",
@@ -214,7 +214,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "25:33",
-            "view_count": "139068",
+            "view_count": "142071",
             "thumbnail_url": "https://i.ytimg.com/vi/NOnCBsDMBJs/hqdefault.jpg"
         },
         {
@@ -223,17 +223,17 @@
             "channel_name": "미스틱스토리 MYSTIC STORY",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "125856",
+            "view_count": "126931",
             "thumbnail_url": "https://i.ytimg.com/vi/GnZLM1TseT4/hqdefault.jpg"
         },
         {
-            "video_id": "TtDAVVTCRsI",
-            "title": "반전있음! 엄마가...내 최애 버츄얼 유튜버였다고?!?!?",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "36:15",
-            "view_count": "171936",
-            "thumbnail_url": "https://i.ytimg.com/vi/TtDAVVTCRsI/hqdefault.jpg"
+            "video_id": "FE_WhJr3LGI",
+            "title": "😱벨키가 아픕니다..그리고 팀나빠에게 이걸 해달라고?!?ㅠㅠ",
+            "channel_name": "멜로우TV",
+            "category": "Gaming",
+            "duration": "22:14",
+            "view_count": "71350",
+            "thumbnail_url": "https://i.ytimg.com/vi/FE_WhJr3LGI/hqdefault.jpg"
         },
         {
             "video_id": "8kF5B8wyAc0",
@@ -241,35 +241,17 @@
             "channel_name": "옛날의 멜로디",
             "category": "People & Blogs",
             "duration": "1:24:16",
-            "view_count": "36569",
+            "view_count": "37323",
             "thumbnail_url": "https://i.ytimg.com/vi/8kF5B8wyAc0/hqdefault.jpg"
         },
         {
-            "video_id": "hR5BGWy9JKs",
-            "title": "섬뜩의 배달 컴퍼니",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "34:53",
-            "view_count": "341229",
-            "thumbnail_url": "https://i.ytimg.com/vi/hR5BGWy9JKs/hqdefault.jpg"
-        },
-        {
-            "video_id": "xtErWamshaE",
-            "title": "11:59AM",
-            "channel_name": "VOIDED - Topic",
-            "category": "Music",
-            "duration": "0:32",
-            "view_count": "49096",
-            "thumbnail_url": "https://i.ytimg.com/vi/xtErWamshaE/hqdefault.jpg"
-        },
-        {
-            "video_id": "S1M27EGaUfM",
-            "title": "인생게임 100판만에 ★아이돌★의 꿈을 이룬 탬탬버린",
-            "channel_name": "YouTube지누",
-            "category": "Gaming",
-            "duration": "1:45:28",
-            "view_count": "125459",
-            "thumbnail_url": "https://i.ytimg.com/vi/S1M27EGaUfM/hqdefault.jpg"
+            "video_id": "TtDAVVTCRsI",
+            "title": "반전있음! 엄마가...내 최애 버츄얼 유튜버였다고?!?!?",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "36:15",
+            "view_count": "174570",
+            "thumbnail_url": "https://i.ytimg.com/vi/TtDAVVTCRsI/hqdefault.jpg"
         },
         {
             "video_id": "VH6sBXR4RO4",
@@ -277,7 +259,7 @@
             "channel_name": "KIMMUSEUM - Topic",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "56979",
+            "view_count": "58090",
             "thumbnail_url": "https://i.ytimg.com/vi/VH6sBXR4RO4/hqdefault.jpg"
         },
         {
@@ -286,8 +268,26 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "41:43",
-            "view_count": "84183",
+            "view_count": "86865",
             "thumbnail_url": "https://i.ytimg.com/vi/u_q51S31qic/hqdefault.jpg"
+        },
+        {
+            "video_id": "xtErWamshaE",
+            "title": "11:59AM",
+            "channel_name": "VOIDED - Topic",
+            "category": "Music",
+            "duration": "0:32",
+            "view_count": "49694",
+            "thumbnail_url": "https://i.ytimg.com/vi/xtErWamshaE/hqdefault.jpg"
+        },
+        {
+            "video_id": "S1M27EGaUfM",
+            "title": "인생게임 100판만에 ★아이돌★의 꿈을 이룬 탬탬버린",
+            "channel_name": "YouTube지누",
+            "category": "Gaming",
+            "duration": "1:45:28",
+            "view_count": "127037",
+            "thumbnail_url": "https://i.ytimg.com/vi/S1M27EGaUfM/hqdefault.jpg"
         },
         {
             "video_id": "lawvNsrNm60",
@@ -295,35 +295,17 @@
             "channel_name": "Tophyun - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "50332",
+            "view_count": "51353",
             "thumbnail_url": "https://i.ytimg.com/vi/lawvNsrNm60/hqdefault.jpg"
         },
         {
-            "video_id": "FE_WhJr3LGI",
-            "title": "😱벨키가 아픕니다..그리고 팀나빠에게 이걸 해달라고?!?ㅠㅠ",
-            "channel_name": "멜로우TV",
+            "video_id": "hR5BGWy9JKs",
+            "title": "섬뜩의 배달 컴퍼니",
+            "channel_name": "이도원",
             "category": "Gaming",
-            "duration": "22:14",
-            "view_count": "63321",
-            "thumbnail_url": "https://i.ytimg.com/vi/FE_WhJr3LGI/hqdefault.jpg"
-        },
-        {
-            "video_id": "c4UFhgGrRCk",
-            "title": "だ・し・て🐍初音ミク👮重音テトSV",
-            "channel_name": "はろける・HALLO CEL",
-            "category": "Music",
-            "duration": "2:29",
-            "view_count": "545018",
-            "thumbnail_url": "https://i.ytimg.com/vi/c4UFhgGrRCk/hqdefault.jpg"
-        },
-        {
-            "video_id": "LUzr3JEXjjw",
-            "title": "슈퍼 솔저 | GEN vs HLE | LCK 1R",
-            "channel_name": "피넛",
-            "category": "Gaming",
-            "duration": "40:52",
-            "view_count": "112504",
-            "thumbnail_url": "https://i.ytimg.com/vi/LUzr3JEXjjw/hqdefault.jpg"
+            "duration": "34:53",
+            "view_count": "343628",
+            "thumbnail_url": "https://i.ytimg.com/vi/hR5BGWy9JKs/hqdefault.jpg"
         },
         {
             "video_id": "UD4PKTciPkM",
@@ -331,8 +313,26 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "16348",
+            "view_count": "16950",
             "thumbnail_url": "https://i.ytimg.com/vi/UD4PKTciPkM/hqdefault.jpg"
+        },
+        {
+            "video_id": "LUzr3JEXjjw",
+            "title": "슈퍼 솔저 | GEN vs HLE | LCK 1R",
+            "channel_name": "피넛",
+            "category": "Gaming",
+            "duration": "40:52",
+            "view_count": "113631",
+            "thumbnail_url": "https://i.ytimg.com/vi/LUzr3JEXjjw/hqdefault.jpg"
+        },
+        {
+            "video_id": "c4UFhgGrRCk",
+            "title": "だ・し・て🐍初音ミク👮重音テトSV",
+            "channel_name": "はろける・HALLO CEL",
+            "category": "Music",
+            "duration": "2:29",
+            "view_count": "555250",
+            "thumbnail_url": "https://i.ytimg.com/vi/c4UFhgGrRCk/hqdefault.jpg"
         },
         {
             "video_id": "LJ7AYbw5_q4",
@@ -340,26 +340,8 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "15:28",
-            "view_count": "130644",
+            "view_count": "132518",
             "thumbnail_url": "https://i.ytimg.com/vi/LJ7AYbw5_q4/hqdefault.jpg"
-        },
-        {
-            "video_id": "KPr3ScyaonY",
-            "title": "Modern Talking - Brother Louie Mix '98 (Lyrics) ft. Eric Singleton",
-            "channel_name": "Monstafluff Music",
-            "category": "Music",
-            "duration": "3:24",
-            "view_count": "543732",
-            "thumbnail_url": "https://i.ytimg.com/vi/KPr3ScyaonY/hqdefault.jpg"
-        },
-        {
-            "video_id": "wwsvkP-Mq9g",
-            "title": "[ 똘끼 리니지 클래식 ] nc빠른 자동조취 no대기열 감사합니다 { 컨텐츠 있음 }",
-            "channel_name": "똘끼100%",
-            "category": "Gaming",
-            "duration": "8:28:12",
-            "view_count": "307389",
-            "thumbnail_url": "https://i.ytimg.com/vi/wwsvkP-Mq9g/hqdefault.jpg"
         },
         {
             "video_id": "pKEAqz-050I",
@@ -367,8 +349,26 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "86809",
+            "view_count": "90114",
             "thumbnail_url": "https://i.ytimg.com/vi/pKEAqz-050I/hqdefault.jpg"
+        },
+        {
+            "video_id": "_6qy5Pp8uw4",
+            "title": "데포섭 최초투망! 체험갑니다 [리니지 클래식]",
+            "channel_name": "만만",
+            "category": "Gaming",
+            "duration": "16:14",
+            "view_count": "83535",
+            "thumbnail_url": "https://i.ytimg.com/vi/_6qy5Pp8uw4/hqdefault.jpg"
+        },
+        {
+            "video_id": "KPr3ScyaonY",
+            "title": "Modern Talking - Brother Louie Mix '98 (Lyrics) ft. Eric Singleton",
+            "channel_name": "Monstafluff Music",
+            "category": "Music",
+            "duration": "3:24",
+            "view_count": "557068",
+            "thumbnail_url": "https://i.ytimg.com/vi/KPr3ScyaonY/hqdefault.jpg"
         },
         {
             "video_id": "7CjegzEnadI",
@@ -376,7 +376,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:09",
-            "view_count": "119978",
+            "view_count": "121929",
             "thumbnail_url": "https://i.ytimg.com/vi/7CjegzEnadI/hqdefault.jpg"
         }
     ]
