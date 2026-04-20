@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-21 02:06:42",
+    "scraped_time": "2026-04-21 04:09:56",
     "videos": [
         {
             "video_id": "1o5O2YvV3HU",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "1538837",
+            "view_count": "2216211",
             "thumbnail_url": "https://i.ytimg.com/vi/1o5O2YvV3HU/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "11:02",
-            "view_count": "466332",
+            "view_count": "467949",
             "thumbnail_url": "https://i.ytimg.com/vi/pBIs0umxUIA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "31:20",
-            "view_count": "428807",
+            "view_count": "441426",
             "thumbnail_url": "https://i.ytimg.com/vi/dFJf5qsARYo/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "126222",
+            "view_count": "142634",
             "thumbnail_url": "https://i.ytimg.com/vi/Hc7qH-MJds4/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "4:04:29",
-            "view_count": "163644",
+            "view_count": "170520",
             "thumbnail_url": "https://i.ytimg.com/vi/OWh4gX_ryGc/hqdefault.jpg"
         },
         {
@@ -52,26 +52,8 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "2101085",
+            "view_count": "2382090",
             "thumbnail_url": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "v2ZgaYkFlP0",
-            "title": "꿈틀",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "21:06",
-            "view_count": "370329",
-            "thumbnail_url": "https://i.ytimg.com/vi/v2ZgaYkFlP0/hqdefault.jpg"
-        },
-        {
-            "video_id": "n-sIvDbeGb0",
-            "title": "PLAVE 'Born Savage' M/V (Performance Ver.)",
-            "channel_name": "PLAVE 플레이브",
-            "category": "Entertainment",
-            "duration": "3:06",
-            "view_count": "97373",
-            "thumbnail_url": "https://i.ytimg.com/vi/n-sIvDbeGb0/hqdefault.jpg"
         },
         {
             "video_id": "i6ItrecVdcs",
@@ -79,17 +61,17 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:00",
-            "view_count": "64379",
+            "view_count": "75679",
             "thumbnail_url": "https://i.ytimg.com/vi/i6ItrecVdcs/hqdefault.jpg"
         },
         {
-            "video_id": "EiHLut1GrvM",
-            "title": "AKMU - '봄 색깔 (Spring Colors)' M/V",
-            "channel_name": "AKMU",
-            "category": "Music",
-            "duration": "3:14",
-            "view_count": "240692",
-            "thumbnail_url": "https://i.ytimg.com/vi/EiHLut1GrvM/hqdefault.jpg"
+            "video_id": "n-sIvDbeGb0",
+            "title": "PLAVE 'Born Savage' M/V (Performance Ver.)",
+            "channel_name": "PLAVE 플레이브",
+            "category": "Entertainment",
+            "duration": "3:06",
+            "view_count": "109466",
+            "thumbnail_url": "https://i.ytimg.com/vi/n-sIvDbeGb0/hqdefault.jpg"
         },
         {
             "video_id": "GGdihPLSmME",
@@ -97,8 +79,26 @@
             "channel_name": "레고77",
             "category": "Gaming",
             "duration": "16:47",
-            "view_count": "148148",
+            "view_count": "162475",
             "thumbnail_url": "https://i.ytimg.com/vi/GGdihPLSmME/hqdefault.jpg"
+        },
+        {
+            "video_id": "EiHLut1GrvM",
+            "title": "AKMU - '봄 색깔 (Spring Colors)' M/V",
+            "channel_name": "AKMU",
+            "category": "Music",
+            "duration": "3:14",
+            "view_count": "247943",
+            "thumbnail_url": "https://i.ytimg.com/vi/EiHLut1GrvM/hqdefault.jpg"
+        },
+        {
+            "video_id": "v2ZgaYkFlP0",
+            "title": "꿈틀",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "21:06",
+            "view_count": "377152",
+            "thumbnail_url": "https://i.ytimg.com/vi/v2ZgaYkFlP0/hqdefault.jpg"
         },
         {
             "video_id": "5sOgJQ3N03Q",
@@ -106,7 +106,7 @@
             "channel_name": "CORTIS - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "232622",
+            "view_count": "266256",
             "thumbnail_url": "https://i.ytimg.com/vi/5sOgJQ3N03Q/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "44:05",
-            "view_count": "118220",
+            "view_count": "128851",
             "thumbnail_url": "https://i.ytimg.com/vi/FUEGY3FAHwM/hqdefault.jpg"
         },
         {
@@ -124,17 +124,8 @@
             "channel_name": "Monday Kiz - Topic",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "33697",
+            "view_count": "34613",
             "thumbnail_url": "https://i.ytimg.com/vi/dLmNgjVsDXM/hqdefault.jpg"
-        },
-        {
-            "video_id": "COHumi3heuU",
-            "title": "오버워치 대회 출격! 멤버가 저라뎃 보석함ㅋㅋㅋㅋ｜천옵대EP.01",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "29:20",
-            "view_count": "106696",
-            "thumbnail_url": "https://i.ytimg.com/vi/COHumi3heuU/hqdefault.jpg"
         },
         {
             "video_id": "3sKKVJ_jfAs",
@@ -142,17 +133,17 @@
             "channel_name": "RIIZE - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "203077",
+            "view_count": "207269",
             "thumbnail_url": "https://i.ytimg.com/vi/3sKKVJ_jfAs/hqdefault.jpg"
         },
         {
-            "video_id": "0e-s4mlTXwI",
-            "title": "얘들아 기세로 가는거야!🙌│KRX vs T1│2026 LCK│울챔스 하이라이트",
-            "channel_name": "Wolf",
+            "video_id": "sFidDD3ttkM",
+            "title": "엌ㅋㅋㅋㅋㅋ 그냥 나무 캐는 게임인데 도파민 미쳤어요 게임을 못 끄겠어요ㅠㅠ",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "47:34",
-            "view_count": "116983",
-            "thumbnail_url": "https://i.ytimg.com/vi/0e-s4mlTXwI/hqdefault.jpg"
+            "duration": "35:25",
+            "view_count": "125350",
+            "thumbnail_url": "https://i.ytimg.com/vi/sFidDD3ttkM/hqdefault.jpg"
         },
         {
             "video_id": "esDsu5E8LJ8",
@@ -160,35 +151,17 @@
             "channel_name": "BILL STAX - Topic",
             "category": "Music",
             "duration": "2:30",
-            "view_count": "13102",
+            "view_count": "13900",
             "thumbnail_url": "https://i.ytimg.com/vi/esDsu5E8LJ8/hqdefault.jpg"
         },
         {
-            "video_id": "I6PS4fb5JMA",
-            "title": "⚠️1년만에 역대급으로 돌아왔습니다! [혜안져스 양세찬게임3]",
-            "channel_name": "혜안",
+            "video_id": "0e-s4mlTXwI",
+            "title": "얘들아 기세로 가는거야!🙌│KRX vs T1│2026 LCK│울챔스 하이라이트",
+            "channel_name": "Wolf",
             "category": "Gaming",
-            "duration": "46:16",
-            "view_count": "353593",
-            "thumbnail_url": "https://i.ytimg.com/vi/I6PS4fb5JMA/hqdefault.jpg"
-        },
-        {
-            "video_id": "I68HZsntLvU",
-            "title": "처음이자마지막이길",
-            "channel_name": "meenoi - Topic",
-            "category": "Music",
-            "duration": "7:12",
-            "view_count": "250737",
-            "thumbnail_url": "https://i.ytimg.com/vi/I68HZsntLvU/hqdefault.jpg"
-        },
-        {
-            "video_id": "JL7dUNfMNQc",
-            "title": "하마 vs 사자 동물 대전쟁 멧돼지ㅁㅊㅋㅋ",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "21:46",
-            "view_count": "221057",
-            "thumbnail_url": "https://i.ytimg.com/vi/JL7dUNfMNQc/hqdefault.jpg"
+            "duration": "47:34",
+            "view_count": "123002",
+            "thumbnail_url": "https://i.ytimg.com/vi/0e-s4mlTXwI/hqdefault.jpg"
         },
         {
             "video_id": "1IFCy7Qf4pc",
@@ -196,8 +169,26 @@
             "channel_name": "aespa",
             "category": "Music",
             "duration": "0:32",
-            "view_count": "220144",
+            "view_count": "227065",
             "thumbnail_url": "https://i.ytimg.com/vi/1IFCy7Qf4pc/hqdefault.jpg"
+        },
+        {
+            "video_id": "COHumi3heuU",
+            "title": "오버워치 대회 출격! 멤버가 저라뎃 보석함ㅋㅋㅋㅋ｜천옵대EP.01",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "29:20",
+            "view_count": "108776",
+            "thumbnail_url": "https://i.ytimg.com/vi/COHumi3heuU/hqdefault.jpg"
+        },
+        {
+            "video_id": "I68HZsntLvU",
+            "title": "처음이자마지막이길",
+            "channel_name": "meenoi - Topic",
+            "category": "Music",
+            "duration": "7:12",
+            "view_count": "253072",
+            "thumbnail_url": "https://i.ytimg.com/vi/I68HZsntLvU/hqdefault.jpg"
         },
         {
             "video_id": "ugAgJw5NbSo",
@@ -205,26 +196,8 @@
             "channel_name": "발스타홍구",
             "category": "Gaming",
             "duration": "29:22",
-            "view_count": "95634",
+            "view_count": "100340",
             "thumbnail_url": "https://i.ytimg.com/vi/ugAgJw5NbSo/hqdefault.jpg"
-        },
-        {
-            "video_id": "2gtZTsK6q7w",
-            "title": "GDM ㅣ우디 (Woody) '두 사람 (Two of us)' OFFICIAL MV : WISH+ EP. 03 [KOR/ENG]",
-            "channel_name": "김상우디 [Woody Official]",
-            "category": "Music",
-            "duration": "5:00",
-            "view_count": "263745",
-            "thumbnail_url": "https://i.ytimg.com/vi/2gtZTsK6q7w/hqdefault.jpg"
-        },
-        {
-            "video_id": "oN62y4ZMpgw",
-            "title": "리니지 클래식 / 그런걸로 내가 죽겠냐 꼬마들아 ~",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "11:43",
-            "view_count": "94151",
-            "thumbnail_url": "https://i.ytimg.com/vi/oN62y4ZMpgw/hqdefault.jpg"
         },
         {
             "video_id": "cUAzv0MwyOU",
@@ -232,8 +205,26 @@
             "channel_name": "김상민그는감히전설이라고할수있다 - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "187491",
+            "view_count": "189906",
             "thumbnail_url": "https://i.ytimg.com/vi/cUAzv0MwyOU/hqdefault.jpg"
+        },
+        {
+            "video_id": "cJjsbqB9ABg",
+            "title": "\"우리는 또 속았다\" 버그부터 공지까지 넥슨 메이플 키우기 논란",
+            "channel_name": "지존조세",
+            "category": "Gaming",
+            "duration": "11:20",
+            "view_count": "124963",
+            "thumbnail_url": "https://i.ytimg.com/vi/cJjsbqB9ABg/hqdefault.jpg"
+        },
+        {
+            "video_id": "2gtZTsK6q7w",
+            "title": "GDM ㅣ우디 (Woody) '두 사람 (Two of us)' OFFICIAL MV : WISH+ EP. 03 [KOR/ENG]",
+            "channel_name": "김상우디 [Woody Official]",
+            "category": "Music",
+            "duration": "5:00",
+            "view_count": "264760",
+            "thumbnail_url": "https://i.ytimg.com/vi/2gtZTsK6q7w/hqdefault.jpg"
         },
         {
             "video_id": "FQP0o0N0GEc",
@@ -241,8 +232,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "19:46",
-            "view_count": "115319",
+            "view_count": "121130",
             "thumbnail_url": "https://i.ytimg.com/vi/FQP0o0N0GEc/hqdefault.jpg"
+        },
+        {
+            "video_id": "mNLiZ25srkI",
+            "title": "'하루에 하루만 더' Dance Practice (Fix ver.) | TXT (투모로우바이투게더)",
+            "channel_name": "TOMORROW X TOGETHER OFFICIAL",
+            "category": "Music",
+            "duration": "2:43",
+            "view_count": "91107",
+            "thumbnail_url": "https://i.ytimg.com/vi/mNLiZ25srkI/hqdefault.jpg"
+        },
+        {
+            "video_id": "oN62y4ZMpgw",
+            "title": "리니지 클래식 / 그런걸로 내가 죽겠냐 꼬마들아 ~",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "11:43",
+            "view_count": "96531",
+            "thumbnail_url": "https://i.ytimg.com/vi/oN62y4ZMpgw/hqdefault.jpg"
         },
         {
             "video_id": "wWfFNdo9gEQ",
@@ -250,17 +259,17 @@
             "channel_name": "Nam Gyu Ri - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "20621",
+            "view_count": "21151",
             "thumbnail_url": "https://i.ytimg.com/vi/wWfFNdo9gEQ/hqdefault.jpg"
         },
         {
-            "video_id": "uLvUYIkw9FE",
-            "title": "밸런스 패치 & 신규 스킨들 & 1티어 버피 공개까지!! [브롤스타즈 4월 업데이트 미리보기#1]",
-            "channel_name": "홀릿 Youtube Holit",
+            "video_id": "JL7dUNfMNQc",
+            "title": "하마 vs 사자 동물 대전쟁 멧돼지ㅁㅊㅋㅋ",
+            "channel_name": "우주하마",
             "category": "Gaming",
-            "duration": "26:14",
-            "view_count": "121129",
-            "thumbnail_url": "https://i.ytimg.com/vi/uLvUYIkw9FE/hqdefault.jpg"
+            "duration": "21:46",
+            "view_count": "225358",
+            "thumbnail_url": "https://i.ytimg.com/vi/JL7dUNfMNQc/hqdefault.jpg"
         },
         {
             "video_id": "Tf0-4tzskLA",
@@ -268,17 +277,17 @@
             "channel_name": "Xdinary Heroes - Topic",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "236543",
+            "view_count": "240044",
             "thumbnail_url": "https://i.ytimg.com/vi/Tf0-4tzskLA/hqdefault.jpg"
         },
         {
-            "video_id": "k7_mcOYaLEE",
-            "title": "타격감 좋은 먹잇감 발견한 김민교와 킴성태ㅋㅋㅋㅋㅋ",
-            "channel_name": "튜브김민교",
+            "video_id": "uLvUYIkw9FE",
+            "title": "밸런스 패치 & 신규 스킨들 & 1티어 버피 공개까지!! [브롤스타즈 4월 업데이트 미리보기#1]",
+            "channel_name": "홀릿 Youtube Holit",
             "category": "Gaming",
-            "duration": "28:29",
-            "view_count": "137185",
-            "thumbnail_url": "https://i.ytimg.com/vi/k7_mcOYaLEE/hqdefault.jpg"
+            "duration": "26:14",
+            "view_count": "123842",
+            "thumbnail_url": "https://i.ytimg.com/vi/uLvUYIkw9FE/hqdefault.jpg"
         },
         {
             "video_id": "YOLaZbMBbNA",
@@ -286,7 +295,7 @@
             "channel_name": "ASHATREE - Topic",
             "category": "Music",
             "duration": "4:24",
-            "view_count": "27907",
+            "view_count": "28567",
             "thumbnail_url": "https://i.ytimg.com/vi/YOLaZbMBbNA/hqdefault.jpg"
         },
         {
@@ -295,26 +304,8 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "16:39",
-            "view_count": "81318",
+            "view_count": "87203",
             "thumbnail_url": "https://i.ytimg.com/vi/5g2RE7wgtqw/hqdefault.jpg"
-        },
-        {
-            "video_id": "43ikHldcelM",
-            "title": "내가 있을게",
-            "channel_name": "Kim Minseok (MeloMance) - Topic",
-            "category": "Music",
-            "duration": "3:49",
-            "view_count": "19735",
-            "thumbnail_url": "https://i.ytimg.com/vi/43ikHldcelM/hqdefault.jpg"
-        },
-        {
-            "video_id": "8NP_DAEB-bU",
-            "title": "(중립해제) 여성 제보자분을 화나게 만든 핵쟁이 등장.. 도대체 무슨 일이 있었길래? [로검사TV]",
-            "channel_name": "로자르",
-            "category": "Gaming",
-            "duration": "15:59",
-            "view_count": "95315",
-            "thumbnail_url": "https://i.ytimg.com/vi/8NP_DAEB-bU/hqdefault.jpg"
         },
         {
             "video_id": "UD4PKTciPkM",
@@ -322,35 +313,35 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "52796",
+            "view_count": "53848",
             "thumbnail_url": "https://i.ytimg.com/vi/UD4PKTciPkM/hqdefault.jpg"
         },
         {
-            "video_id": "HoSiFuT01lA",
-            "title": "BRO vs NS - KRX vs T1 | 2026 LCK",
-            "channel_name": "LCK Global",
+            "video_id": "4F7QYGvXeoU",
+            "title": "도화살 | KRX vs T1 게임 2 하이라이트 | 2026 LCK",
+            "channel_name": "LCK",
             "category": "Gaming",
-            "duration": "5:43:25",
-            "view_count": "834244",
-            "thumbnail_url": "https://i.ytimg.com/vi/HoSiFuT01lA/hqdefault.jpg"
+            "duration": "10:01",
+            "view_count": "61825",
+            "thumbnail_url": "https://i.ytimg.com/vi/4F7QYGvXeoU/hqdefault.jpg"
         },
         {
-            "video_id": "mNLiZ25srkI",
-            "title": "'하루에 하루만 더' Dance Practice (Fix ver.) | TXT (투모로우바이투게더)",
-            "channel_name": "TOMORROW X TOGETHER OFFICIAL",
+            "video_id": "43ikHldcelM",
+            "title": "내가 있을게",
+            "channel_name": "Kim Minseok (MeloMance) - Topic",
             "category": "Music",
-            "duration": "2:43",
-            "view_count": "80506",
-            "thumbnail_url": "https://i.ytimg.com/vi/mNLiZ25srkI/hqdefault.jpg"
+            "duration": "3:49",
+            "view_count": "20692",
+            "thumbnail_url": "https://i.ytimg.com/vi/43ikHldcelM/hqdefault.jpg"
         },
         {
-            "video_id": "MSbgCqCN62s",
-            "title": "3년만에 돌아온 서버 야생 생존기",
-            "channel_name": "파이브",
+            "video_id": "k7_mcOYaLEE",
+            "title": "타격감 좋은 먹잇감 발견한 김민교와 킴성태ㅋㅋㅋㅋㅋ",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "16:02",
-            "view_count": "197307",
-            "thumbnail_url": "https://i.ytimg.com/vi/MSbgCqCN62s/hqdefault.jpg"
+            "duration": "28:29",
+            "view_count": "140278",
+            "thumbnail_url": "https://i.ytimg.com/vi/k7_mcOYaLEE/hqdefault.jpg"
         },
         {
             "video_id": "e-bwzm8-xnU",
@@ -358,26 +349,26 @@
             "channel_name": "ifeye 이프아이",
             "category": "Entertainment",
             "duration": "2:55",
-            "view_count": "5169247",
+            "view_count": "5173681",
             "thumbnail_url": "https://i.ytimg.com/vi/e-bwzm8-xnU/hqdefault.jpg"
         },
         {
-            "video_id": "2rylnXZWt-Y",
-            "title": "RRQ vs T1 / NS vs GEN - VCT 퍼시픽 - 스테이지 1 - 그룹 스테이지 -  Day 9",
-            "channel_name": "발로란트 챔피언스 투어",
+            "video_id": "XAeqV-Dpqn4",
+            "title": "이게 옳게 된 5코 3성이지",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "5:19:02",
-            "view_count": "216424",
-            "thumbnail_url": "https://i.ytimg.com/vi/2rylnXZWt-Y/hqdefault.jpg"
+            "duration": "12:48",
+            "view_count": "101746",
+            "thumbnail_url": "https://i.ytimg.com/vi/XAeqV-Dpqn4/hqdefault.jpg"
         },
         {
-            "video_id": "x4P-bwylFaM",
-            "title": "Måneskin - Beggin' (Lyrics)",
-            "channel_name": "Glim Rock",
+            "video_id": "TMfxORWBG8M",
+            "title": "Love Sick (Official Lyric Video) - GGM Kimbo , GGM Soulja",
+            "channel_name": "GGM Kimbo",
             "category": "Music",
-            "duration": "3:32",
-            "view_count": "1830092",
-            "thumbnail_url": "https://i.ytimg.com/vi/x4P-bwylFaM/hqdefault.jpg"
+            "duration": "2:40",
+            "view_count": "35577",
+            "thumbnail_url": "https://i.ytimg.com/vi/TMfxORWBG8M/hqdefault.jpg"
         }
     ]
 }
