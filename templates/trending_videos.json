@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-21 11:51:26",
+    "scraped_time": "2026-04-21 14:30:00",
     "videos": [
         {
             "video_id": "1o5O2YvV3HU",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "2325094",
+            "view_count": "2384520",
             "thumbnail_url": "https://i.ytimg.com/vi/1o5O2YvV3HU/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "11:02",
-            "view_count": "471639",
+            "view_count": "473130",
             "thumbnail_url": "https://i.ytimg.com/vi/pBIs0umxUIA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "23:47",
-            "view_count": "230858",
+            "view_count": "251886",
             "thumbnail_url": "https://i.ytimg.com/vi/rdDS1ravaAs/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "199427",
+            "view_count": "226118",
             "thumbnail_url": "https://i.ytimg.com/vi/Hc7qH-MJds4/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:00",
-            "view_count": "95027",
+            "view_count": "101971",
             "thumbnail_url": "https://i.ytimg.com/vi/i6ItrecVdcs/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "2819973",
+            "view_count": "2975652",
             "thumbnail_url": "https://i.ytimg.com/vi/U6BDbXIah-Y/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "4:04:29",
-            "view_count": "181616",
+            "view_count": "185215",
             "thumbnail_url": "https://i.ytimg.com/vi/OWh4gX_ryGc/hqdefault.jpg"
         },
         {
@@ -70,17 +70,8 @@
             "channel_name": "CORTIS - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "382707",
+            "view_count": "443339",
             "thumbnail_url": "https://i.ytimg.com/vi/5sOgJQ3N03Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "GGdihPLSmME",
-            "title": "750억 세팅 50렙시프 미친도장깨기 ㄷㄷ;",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "16:47",
-            "view_count": "180421",
-            "thumbnail_url": "https://i.ytimg.com/vi/GGdihPLSmME/hqdefault.jpg"
         },
         {
             "video_id": "n-sIvDbeGb0",
@@ -88,8 +79,17 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "3:06",
-            "view_count": "128234",
+            "view_count": "135713",
             "thumbnail_url": "https://i.ytimg.com/vi/n-sIvDbeGb0/hqdefault.jpg"
+        },
+        {
+            "video_id": "GGdihPLSmME",
+            "title": "750억 세팅 50렙시프 미친도장깨기 ㄷㄷ;",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "16:47",
+            "view_count": "186865",
+            "thumbnail_url": "https://i.ytimg.com/vi/GGdihPLSmME/hqdefault.jpg"
         },
         {
             "video_id": "EiHLut1GrvM",
@@ -97,7 +97,7 @@
             "channel_name": "AKMU",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "268239",
+            "view_count": "277446",
             "thumbnail_url": "https://i.ytimg.com/vi/EiHLut1GrvM/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "21:06",
-            "view_count": "386912",
+            "view_count": "390941",
             "thumbnail_url": "https://i.ytimg.com/vi/v2ZgaYkFlP0/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "Monday Kiz - Topic",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "43727",
+            "view_count": "47876",
             "thumbnail_url": "https://i.ytimg.com/vi/dLmNgjVsDXM/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "35:25",
-            "view_count": "164134",
+            "view_count": "176947",
             "thumbnail_url": "https://i.ytimg.com/vi/sFidDD3ttkM/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "BILL STAX - Topic",
             "category": "Music",
             "duration": "2:30",
-            "view_count": "17917",
+            "view_count": "20010",
             "thumbnail_url": "https://i.ytimg.com/vi/esDsu5E8LJ8/hqdefault.jpg"
         },
         {
@@ -142,17 +142,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "44:05",
-            "view_count": "140397",
+            "view_count": "144532",
             "thumbnail_url": "https://i.ytimg.com/vi/FUEGY3FAHwM/hqdefault.jpg"
         },
         {
-            "video_id": "3sKKVJ_jfAs",
-            "title": "Behind The Shine",
-            "channel_name": "RIIZE - Topic",
+            "video_id": "GDfF2b1udYc",
+            "title": "Back to You",
+            "channel_name": "KYUL - Topic",
             "category": "Music",
-            "duration": "3:15",
-            "view_count": "229410",
-            "thumbnail_url": "https://i.ytimg.com/vi/3sKKVJ_jfAs/hqdefault.jpg"
+            "duration": "2:20",
+            "view_count": "21100",
+            "thumbnail_url": "https://i.ytimg.com/vi/GDfF2b1udYc/hqdefault.jpg"
         },
         {
             "video_id": "cJjsbqB9ABg",
@@ -160,7 +160,7 @@
             "channel_name": "지존조세",
             "category": "Gaming",
             "duration": "11:20",
-            "view_count": "169661",
+            "view_count": "181069",
             "thumbnail_url": "https://i.ytimg.com/vi/cJjsbqB9ABg/hqdefault.jpg"
         },
         {
@@ -169,44 +169,8 @@
             "channel_name": "Kim Minseok (MeloMance) - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "30862",
+            "view_count": "34628",
             "thumbnail_url": "https://i.ytimg.com/vi/43ikHldcelM/hqdefault.jpg"
-        },
-        {
-            "video_id": "w5tGh-uVEiE",
-            "title": "\"이게 오버워치 유미야?\" 필승카드 찾은 저라뎃ㅋㅋㅋ｜천옵대EP.03",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "36:36",
-            "view_count": "68869",
-            "thumbnail_url": "https://i.ytimg.com/vi/w5tGh-uVEiE/hqdefault.jpg"
-        },
-        {
-            "video_id": "GDfF2b1udYc",
-            "title": "Back to You",
-            "channel_name": "KYUL - Topic",
-            "category": "Music",
-            "duration": "2:20",
-            "view_count": "17703",
-            "thumbnail_url": "https://i.ytimg.com/vi/GDfF2b1udYc/hqdefault.jpg"
-        },
-        {
-            "video_id": "0e-s4mlTXwI",
-            "title": "얘들아 기세로 가는거야!🙌│KRX vs T1│2026 LCK│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "47:34",
-            "view_count": "131492",
-            "thumbnail_url": "https://i.ytimg.com/vi/0e-s4mlTXwI/hqdefault.jpg"
-        },
-        {
-            "video_id": "wWfFNdo9gEQ",
-            "title": "Love's Greeting 2026",
-            "channel_name": "Nam Gyu Ri - Topic",
-            "category": "Music",
-            "duration": "4:03",
-            "view_count": "29897",
-            "thumbnail_url": "https://i.ytimg.com/vi/wWfFNdo9gEQ/hqdefault.jpg"
         },
         {
             "video_id": "_Kbiqee9oyk",
@@ -214,8 +178,80 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "14:22",
-            "view_count": "60743",
+            "view_count": "73634",
             "thumbnail_url": "https://i.ytimg.com/vi/_Kbiqee9oyk/hqdefault.jpg"
+        },
+        {
+            "video_id": "3sKKVJ_jfAs",
+            "title": "Behind The Shine",
+            "channel_name": "RIIZE - Topic",
+            "category": "Music",
+            "duration": "3:15",
+            "view_count": "241647",
+            "thumbnail_url": "https://i.ytimg.com/vi/3sKKVJ_jfAs/hqdefault.jpg"
+        },
+        {
+            "video_id": "w5tGh-uVEiE",
+            "title": "\"이게 오버워치 유미야?\" 필승카드 찾은 저라뎃ㅋㅋㅋ｜천옵대EP.03",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "36:36",
+            "view_count": "79822",
+            "thumbnail_url": "https://i.ytimg.com/vi/w5tGh-uVEiE/hqdefault.jpg"
+        },
+        {
+            "video_id": "wWfFNdo9gEQ",
+            "title": "Love's Greeting 2026",
+            "channel_name": "Nam Gyu Ri - Topic",
+            "category": "Music",
+            "duration": "4:03",
+            "view_count": "33587",
+            "thumbnail_url": "https://i.ytimg.com/vi/wWfFNdo9gEQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "5YuVcLn1G6w",
+            "title": "리니지 클래식 / 전섭 최초 처음 보여드립니다 지존 방어구 세트 +그리고 스턴 먹튀까지..",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "9:08",
+            "view_count": "92516",
+            "thumbnail_url": "https://i.ytimg.com/vi/5YuVcLn1G6w/hqdefault.jpg"
+        },
+        {
+            "video_id": "YOLaZbMBbNA",
+            "title": "LOVE FOUND ME",
+            "channel_name": "ASHATREE - Topic",
+            "category": "Music",
+            "duration": "4:24",
+            "view_count": "40220",
+            "thumbnail_url": "https://i.ytimg.com/vi/YOLaZbMBbNA/hqdefault.jpg"
+        },
+        {
+            "video_id": "0e-s4mlTXwI",
+            "title": "얘들아 기세로 가는거야!🙌│KRX vs T1│2026 LCK│울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "47:34",
+            "view_count": "134921",
+            "thumbnail_url": "https://i.ytimg.com/vi/0e-s4mlTXwI/hqdefault.jpg"
+        },
+        {
+            "video_id": "ywiv0AVKTw0",
+            "title": "[최신가요 실시간 인기차트] 2026년 4월 20일 3주차, 멜론차트 X, 노래모음 KPOP 플레이리스트 종합차트",
+            "channel_name": "Her Track",
+            "category": "Music",
+            "duration": "3:11:05",
+            "view_count": "14594",
+            "thumbnail_url": "https://i.ytimg.com/vi/ywiv0AVKTw0/hqdefault.jpg"
+        },
+        {
+            "video_id": "4F7QYGvXeoU",
+            "title": "도화살 | KRX vs T1 게임 2 하이라이트 | 2026 LCK",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "10:01",
+            "view_count": "86658",
+            "thumbnail_url": "https://i.ytimg.com/vi/4F7QYGvXeoU/hqdefault.jpg"
         },
         {
             "video_id": "mNLiZ25srkI",
@@ -223,7 +259,7 @@
             "channel_name": "TOMORROW X TOGETHER OFFICIAL",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "111478",
+            "view_count": "118038",
             "thumbnail_url": "https://i.ytimg.com/vi/mNLiZ25srkI/hqdefault.jpg"
         },
         {
@@ -232,26 +268,8 @@
             "channel_name": "발스타홍구",
             "category": "Gaming",
             "duration": "29:22",
-            "view_count": "107013",
+            "view_count": "109830",
             "thumbnail_url": "https://i.ytimg.com/vi/ugAgJw5NbSo/hqdefault.jpg"
-        },
-        {
-            "video_id": "YOLaZbMBbNA",
-            "title": "LOVE FOUND ME",
-            "channel_name": "ASHATREE - Topic",
-            "category": "Music",
-            "duration": "4:24",
-            "view_count": "36912",
-            "thumbnail_url": "https://i.ytimg.com/vi/YOLaZbMBbNA/hqdefault.jpg"
-        },
-        {
-            "video_id": "5YuVcLn1G6w",
-            "title": "리니지 클래식 / 전섭 최초 처음 보여드립니다 지존 방어구 세트 +그리고 스턴 먹튀까지..",
-            "channel_name": "빅보스",
-            "category": "Gaming",
-            "duration": "9:08",
-            "view_count": "77074",
-            "thumbnail_url": "https://i.ytimg.com/vi/5YuVcLn1G6w/hqdefault.jpg"
         },
         {
             "video_id": "1IFCy7Qf4pc",
@@ -259,26 +277,8 @@
             "channel_name": "aespa",
             "category": "Music",
             "duration": "0:32",
-            "view_count": "238768",
+            "view_count": "242657",
             "thumbnail_url": "https://i.ytimg.com/vi/1IFCy7Qf4pc/hqdefault.jpg"
-        },
-        {
-            "video_id": "4F7QYGvXeoU",
-            "title": "도화살 | KRX vs T1 게임 2 하이라이트 | 2026 LCK",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "10:01",
-            "view_count": "78949",
-            "thumbnail_url": "https://i.ytimg.com/vi/4F7QYGvXeoU/hqdefault.jpg"
-        },
-        {
-            "video_id": "I68HZsntLvU",
-            "title": "처음이자마지막이길",
-            "channel_name": "meenoi - Topic",
-            "category": "Music",
-            "duration": "7:12",
-            "view_count": "257291",
-            "thumbnail_url": "https://i.ytimg.com/vi/I68HZsntLvU/hqdefault.jpg"
         },
         {
             "video_id": "XAeqV-Dpqn4",
@@ -286,26 +286,26 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "12:48",
-            "view_count": "131046",
+            "view_count": "141955",
             "thumbnail_url": "https://i.ytimg.com/vi/XAeqV-Dpqn4/hqdefault.jpg"
         },
         {
-            "video_id": "ywiv0AVKTw0",
-            "title": "[최신가요 실시간 인기차트] 2026년 4월 20일 3주차, 멜론차트 X, 노래모음 KPOP 플레이리스트 종합차트",
-            "channel_name": "Her Track",
+            "video_id": "I68HZsntLvU",
+            "title": "처음이자마지막이길",
+            "channel_name": "meenoi - Topic",
             "category": "Music",
-            "duration": "3:11:05",
-            "view_count": "11863",
-            "thumbnail_url": "https://i.ytimg.com/vi/ywiv0AVKTw0/hqdefault.jpg"
+            "duration": "7:12",
+            "view_count": "259133",
+            "thumbnail_url": "https://i.ytimg.com/vi/I68HZsntLvU/hqdefault.jpg"
         },
         {
-            "video_id": "FQP0o0N0GEc",
-            "title": "리신만 10000판 넘게 했는데 OP티어요?? ㅋㅋㅋ 챌아가들 참교육 드가자 ㅋㅋㅋㅋ",
-            "channel_name": "클리드",
+            "video_id": "P47EtiZKK2M",
+            "title": "폭군의 통치 [ASL21 16강 C조 승자전]",
+            "channel_name": "이제동TV [JD TUBE]",
             "category": "Gaming",
-            "duration": "19:46",
-            "view_count": "128114",
-            "thumbnail_url": "https://i.ytimg.com/vi/FQP0o0N0GEc/hqdefault.jpg"
+            "duration": "8:45",
+            "view_count": "43702",
+            "thumbnail_url": "https://i.ytimg.com/vi/P47EtiZKK2M/hqdefault.jpg"
         },
         {
             "video_id": "cUAzv0MwyOU",
@@ -313,17 +313,17 @@
             "channel_name": "김상민그는감히전설이라고할수있다 - Topic",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "199814",
+            "view_count": "205594",
             "thumbnail_url": "https://i.ytimg.com/vi/cUAzv0MwyOU/hqdefault.jpg"
         },
         {
-            "video_id": "5g2RE7wgtqw",
-            "title": "여러분들이 뺑을 못 맞춘 게 아니라 심각한 버그였습니다...",
-            "channel_name": "김된모",
+            "video_id": "FQP0o0N0GEc",
+            "title": "리신만 10000판 넘게 했는데 OP티어요?? ㅋㅋㅋ 챌아가들 참교육 드가자 ㅋㅋㅋㅋ",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "16:39",
-            "view_count": "96809",
-            "thumbnail_url": "https://i.ytimg.com/vi/5g2RE7wgtqw/hqdefault.jpg"
+            "duration": "19:46",
+            "view_count": "130765",
+            "thumbnail_url": "https://i.ytimg.com/vi/FQP0o0N0GEc/hqdefault.jpg"
         },
         {
             "video_id": "UD4PKTciPkM",
@@ -331,17 +331,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "67187",
+            "view_count": "71986",
             "thumbnail_url": "https://i.ytimg.com/vi/UD4PKTciPkM/hqdefault.jpg"
         },
         {
-            "video_id": "oN62y4ZMpgw",
-            "title": "리니지 클래식 / 그런걸로 내가 죽겠냐 꼬마들아 ~",
-            "channel_name": "이문주",
+            "video_id": "5g2RE7wgtqw",
+            "title": "여러분들이 뺑을 못 맞춘 게 아니라 심각한 버그였습니다...",
+            "channel_name": "김된모",
             "category": "Gaming",
-            "duration": "11:43",
-            "view_count": "101303",
-            "thumbnail_url": "https://i.ytimg.com/vi/oN62y4ZMpgw/hqdefault.jpg"
+            "duration": "16:39",
+            "view_count": "99386",
+            "thumbnail_url": "https://i.ytimg.com/vi/5g2RE7wgtqw/hqdefault.jpg"
         },
         {
             "video_id": "2gtZTsK6q7w",
@@ -349,17 +349,17 @@
             "channel_name": "김상우디 [Woody Official]",
             "category": "Music",
             "duration": "5:00",
-            "view_count": "272562",
+            "view_count": "276121",
             "thumbnail_url": "https://i.ytimg.com/vi/2gtZTsK6q7w/hqdefault.jpg"
         },
         {
-            "video_id": "uLvUYIkw9FE",
-            "title": "밸런스 패치 & 신규 스킨들 & 1티어 버피 공개까지!! [브롤스타즈 4월 업데이트 미리보기#1]",
-            "channel_name": "홀릿 Youtube Holit",
+            "video_id": "oN62y4ZMpgw",
+            "title": "리니지 클래식 / 그런걸로 내가 죽겠냐 꼬마들아 ~",
+            "channel_name": "이문주",
             "category": "Gaming",
-            "duration": "26:14",
-            "view_count": "131426",
-            "thumbnail_url": "https://i.ytimg.com/vi/uLvUYIkw9FE/hqdefault.jpg"
+            "duration": "11:43",
+            "view_count": "102770",
+            "thumbnail_url": "https://i.ytimg.com/vi/oN62y4ZMpgw/hqdefault.jpg"
         },
         {
             "video_id": "Tf0-4tzskLA",
@@ -367,7 +367,7 @@
             "channel_name": "Xdinary Heroes - Topic",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "256250",
+            "view_count": "264307",
             "thumbnail_url": "https://i.ytimg.com/vi/Tf0-4tzskLA/hqdefault.jpg"
         }
     ]
