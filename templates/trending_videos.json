@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-26 06:39:25",
+    "scraped_time": "2026-04-26 07:39:57",
     "videos": [
         {
             "video_id": "a2grcJdfXmY",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "2746105",
+            "view_count": "2775929",
             "thumbnail_url": "https://i.ytimg.com/vi/a2grcJdfXmY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "11:13",
-            "view_count": "321681",
+            "view_count": "322661",
             "thumbnail_url": "https://i.ytimg.com/vi/ba135OBAFfo/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "1:02:46",
-            "view_count": "268538",
+            "view_count": "275579",
             "thumbnail_url": "https://i.ytimg.com/vi/ZikunQmtcyQ/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "LE SSERAFIM - Topic",
             "category": "Music",
             "duration": "2:33",
-            "view_count": "493238",
+            "view_count": "501107",
             "thumbnail_url": "https://i.ytimg.com/vi/7WuO_XaXsCY/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:26",
-            "view_count": "289338",
+            "view_count": "290516",
             "thumbnail_url": "https://i.ytimg.com/vi/prnWwCfVlec/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:31",
-            "view_count": "200633",
+            "view_count": "209100",
             "thumbnail_url": "https://i.ytimg.com/vi/RYvLBM1et8k/hqdefault.jpg"
         },
         {
@@ -61,26 +61,8 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "4:31",
-            "view_count": "207685",
+            "view_count": "209346",
             "thumbnail_url": "https://i.ytimg.com/vi/qPWHHRp5hEM/hqdefault.jpg"
-        },
-        {
-            "video_id": "BeqCgzSLow4",
-            "title": "\"도대체 리신은 왜 하시는 거에요?\" 목발 리신 치료를 위해 리신 사관학교로 돌아온 클상도 시즌4..!【클상도 시즌4 Ep.01】",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "33:04",
-            "view_count": "133285",
-            "thumbnail_url": "https://i.ytimg.com/vi/BeqCgzSLow4/hqdefault.jpg"
-        },
-        {
-            "video_id": "84uZVpvsRPY",
-            "title": "벗",
-            "channel_name": "Sin Ye Young - Topic",
-            "category": "Music",
-            "duration": "4:25",
-            "view_count": "98608",
-            "thumbnail_url": "https://i.ytimg.com/vi/84uZVpvsRPY/hqdefault.jpg"
         },
         {
             "video_id": "TGZ2N-4WW1o",
@@ -88,8 +70,26 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "19:01",
-            "view_count": "199579",
+            "view_count": "204373",
             "thumbnail_url": "https://i.ytimg.com/vi/TGZ2N-4WW1o/hqdefault.jpg"
+        },
+        {
+            "video_id": "84uZVpvsRPY",
+            "title": "벗",
+            "channel_name": "Sin Ye Young - Topic",
+            "category": "Music",
+            "duration": "4:25",
+            "view_count": "99037",
+            "thumbnail_url": "https://i.ytimg.com/vi/84uZVpvsRPY/hqdefault.jpg"
+        },
+        {
+            "video_id": "BeqCgzSLow4",
+            "title": "\"도대체 리신은 왜 하시는 거에요?\" 목발 리신 치료를 위해 리신 사관학교로 돌아온 클상도 시즌4..!【클상도 시즌4 Ep.01】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "33:04",
+            "view_count": "134946",
+            "thumbnail_url": "https://i.ytimg.com/vi/BeqCgzSLow4/hqdefault.jpg"
         },
         {
             "video_id": "WmOwzwSaUxI",
@@ -97,7 +97,7 @@
             "channel_name": "현서 (HYUN SEO)",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "259954",
+            "view_count": "260739",
             "thumbnail_url": "https://i.ytimg.com/vi/WmOwzwSaUxI/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
             "duration": "7:51:19",
-            "view_count": "241803",
+            "view_count": "242166",
             "thumbnail_url": "https://i.ytimg.com/vi/sMeHgGat610/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "BOL4 - Topic",
             "category": "Music",
             "duration": "2:55",
-            "view_count": "275151",
+            "view_count": "276086",
             "thumbnail_url": "https://i.ytimg.com/vi/-6atHp0MX_M/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:40",
-            "view_count": "149085",
+            "view_count": "152431",
             "thumbnail_url": "https://i.ytimg.com/vi/Mzmm_WxaMUA/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "새빛 (Saebit)",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "105274",
+            "view_count": "105556",
             "thumbnail_url": "https://i.ytimg.com/vi/t4KISo_lBR4/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "LCK Global",
             "category": "Gaming",
             "duration": "5:33:35",
-            "view_count": "720002",
+            "view_count": "722701",
             "thumbnail_url": "https://i.ytimg.com/vi/Pi7Pq-EcK5w/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "로이킴 Roy Kim",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "46375",
+            "view_count": "46586",
             "thumbnail_url": "https://i.ytimg.com/vi/f37l2uwQ6r8/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "40:21",
-            "view_count": "129424",
+            "view_count": "130426",
             "thumbnail_url": "https://i.ytimg.com/vi/PL4PePNrD7o/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "ヨルシカ / n-buna Official",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "975728",
+            "view_count": "981558",
             "thumbnail_url": "https://i.ytimg.com/vi/OHAjc-ayhus/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "47:26",
-            "view_count": "646792",
+            "view_count": "648622",
             "thumbnail_url": "https://i.ytimg.com/vi/l7JBwbtDxko/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "0:23",
-            "view_count": "124418",
+            "view_count": "124789",
             "thumbnail_url": "https://i.ytimg.com/vi/mbZCNJDaZOw/hqdefault.jpg"
         },
         {
@@ -196,44 +196,8 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "29:58",
-            "view_count": "144708",
+            "view_count": "145677",
             "thumbnail_url": "https://i.ytimg.com/vi/-k4FghALhS8/hqdefault.jpg"
-        },
-        {
-            "video_id": "C22XF2kKAAw",
-            "title": "Youth",
-            "channel_name": "LEE CHANGSUB - Topic",
-            "category": "Music",
-            "duration": "3:15",
-            "view_count": "78254",
-            "thumbnail_url": "https://i.ytimg.com/vi/C22XF2kKAAw/hqdefault.jpg"
-        },
-        {
-            "video_id": "TA1A4duTGzw",
-            "title": "도티형 샌드박스에 군기문화 만든 사람을 찾았어.. 그건 바로",
-            "channel_name": "김블루",
-            "category": "Gaming",
-            "duration": "14:20",
-            "view_count": "141113",
-            "thumbnail_url": "https://i.ytimg.com/vi/TA1A4duTGzw/hqdefault.jpg"
-        },
-        {
-            "video_id": "GjsQe6orcnU",
-            "title": "좋은 날 (Good Day)(Art. INVIZ (인비즈)) - Anonymous Artists (어나니머스 아티스트)",
-            "channel_name": "Anonymous Artists (어나니머스 아티스트)",
-            "category": "Music",
-            "duration": "2:36",
-            "view_count": "47640",
-            "thumbnail_url": "https://i.ytimg.com/vi/GjsQe6orcnU/hqdefault.jpg"
-        },
-        {
-            "video_id": "WVI0OCCRLdM",
-            "title": "준결승전에서 드디어 주차 풀어버린 천재 딜러 김민교｜도현컵 준결승전",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "46:39",
-            "view_count": "92165",
-            "thumbnail_url": "https://i.ytimg.com/vi/WVI0OCCRLdM/hqdefault.jpg"
         },
         {
             "video_id": "zpEcTuch36g",
@@ -241,8 +205,44 @@
             "channel_name": "WOODZ - Topic",
             "category": "Music",
             "duration": "4:10",
-            "view_count": "26211",
+            "view_count": "27585",
             "thumbnail_url": "https://i.ytimg.com/vi/zpEcTuch36g/hqdefault.jpg"
+        },
+        {
+            "video_id": "TA1A4duTGzw",
+            "title": "도티형 샌드박스에 군기문화 만든 사람을 찾았어.. 그건 바로",
+            "channel_name": "김블루",
+            "category": "Gaming",
+            "duration": "14:20",
+            "view_count": "143155",
+            "thumbnail_url": "https://i.ytimg.com/vi/TA1A4duTGzw/hqdefault.jpg"
+        },
+        {
+            "video_id": "C22XF2kKAAw",
+            "title": "Youth",
+            "channel_name": "LEE CHANGSUB - Topic",
+            "category": "Music",
+            "duration": "3:15",
+            "view_count": "78456",
+            "thumbnail_url": "https://i.ytimg.com/vi/C22XF2kKAAw/hqdefault.jpg"
+        },
+        {
+            "video_id": "WVI0OCCRLdM",
+            "title": "준결승전에서 드디어 주차 풀어버린 천재 딜러 김민교｜도현컵 준결승전",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "46:39",
+            "view_count": "94177",
+            "thumbnail_url": "https://i.ytimg.com/vi/WVI0OCCRLdM/hqdefault.jpg"
+        },
+        {
+            "video_id": "GjsQe6orcnU",
+            "title": "좋은 날 (Good Day)(Art. INVIZ (인비즈)) - Anonymous Artists (어나니머스 아티스트)",
+            "channel_name": "Anonymous Artists (어나니머스 아티스트)",
+            "category": "Music",
+            "duration": "2:36",
+            "view_count": "48313",
+            "thumbnail_url": "https://i.ytimg.com/vi/GjsQe6orcnU/hqdefault.jpg"
         },
         {
             "video_id": "b5l7AGWRaFU",
@@ -250,7 +250,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "6:55:06",
-            "view_count": "200506",
+            "view_count": "200766",
             "thumbnail_url": "https://i.ytimg.com/vi/b5l7AGWRaFU/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "TRIANGLE - Topic",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "108548",
+            "view_count": "109075",
             "thumbnail_url": "https://i.ytimg.com/vi/H9Zmt1iPApo/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "소멸",
             "category": "Gaming",
             "duration": "16:15",
-            "view_count": "121197",
+            "view_count": "121386",
             "thumbnail_url": "https://i.ytimg.com/vi/Li4r46OVAjg/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "ENHYPEN",
             "category": "Entertainment",
             "duration": "3:52",
-            "view_count": "641753",
+            "view_count": "663392",
             "thumbnail_url": "https://i.ytimg.com/vi/KChyOsjqmfM/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "수박머리 셔니",
             "category": "Gaming",
             "duration": "35:44",
-            "view_count": "133609",
+            "view_count": "134253",
             "thumbnail_url": "https://i.ytimg.com/vi/_D3FD2BPiq4/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "CORTIS - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "2929843",
+            "view_count": "2943607",
             "thumbnail_url": "https://i.ytimg.com/vi/5sOgJQ3N03Q/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "58:30",
-            "view_count": "100548",
+            "view_count": "101569",
             "thumbnail_url": "https://i.ytimg.com/vi/QrgHxG6YkXE/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "4:47",
-            "view_count": "174100",
+            "view_count": "174447",
             "thumbnail_url": "https://i.ytimg.com/vi/H-MmgcBU0L0/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "9:28",
-            "view_count": "101044",
+            "view_count": "102779",
             "thumbnail_url": "https://i.ytimg.com/vi/cXepYx__0bs/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "942703",
+            "view_count": "943887",
             "thumbnail_url": "https://i.ytimg.com/vi/1BRDK2mMI98/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "3:55:43",
-            "view_count": "185251",
+            "view_count": "185400",
             "thumbnail_url": "https://i.ytimg.com/vi/4sia_Z26VE8/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "44311",
+            "view_count": "44755",
             "thumbnail_url": "https://i.ytimg.com/vi/DaI8s1s3phM/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "17:04",
-            "view_count": "222266",
+            "view_count": "222779",
             "thumbnail_url": "https://i.ytimg.com/vi/uB-ckAmzjag/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "LUCY ISLAND",
             "category": "Entertainment",
             "duration": "2:38",
-            "view_count": "57347",
+            "view_count": "57435",
             "thumbnail_url": "https://i.ytimg.com/vi/x8Mmad3jjfo/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "블던",
             "category": "Gaming",
             "duration": "34:05",
-            "view_count": "108655",
+            "view_count": "109654",
             "thumbnail_url": "https://i.ytimg.com/vi/QU3X53O9aSo/hqdefault.jpg"
         }
     ]
