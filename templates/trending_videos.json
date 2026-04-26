@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-04-27 06:40:42",
+    "scraped_time": "2026-04-27 07:41:54",
     "videos": [
         {
             "video_id": "yuH4OnvoADU",
@@ -7,7 +7,7 @@
             "channel_name": "gitae - Topic",
             "category": "Music",
             "duration": "4:31",
-            "view_count": "36507",
+            "view_count": "39050",
             "thumbnail_url": "https://i.ytimg.com/vi/yuH4OnvoADU/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "탑공",
             "category": "Entertainment",
             "duration": "11:33",
-            "view_count": "15698",
+            "view_count": "15798",
             "thumbnail_url": "https://i.ytimg.com/vi/sAkeA_hJ1g8/hqdefault.jpg"
         },
         {
@@ -25,44 +25,8 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "24:54",
-            "view_count": "249911",
+            "view_count": "256486",
             "thumbnail_url": "https://i.ytimg.com/vi/kRT_G4nEoH8/hqdefault.jpg"
-        },
-        {
-            "video_id": "zpEcTuch36g",
-            "title": "EVERGLOW",
-            "channel_name": "WOODZ - Topic",
-            "category": "Music",
-            "duration": "4:10",
-            "view_count": "118798",
-            "thumbnail_url": "https://i.ytimg.com/vi/zpEcTuch36g/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZikunQmtcyQ",
-            "title": "감스트 한국 미리보는 북중미 월드컵!!",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "1:02:46",
-            "view_count": "502898",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZikunQmtcyQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "5eoXJ93aGEg",
-            "title": "“꽃길” “인연” “묻어버린 아픔” “마지막 연인” “사랑 참”🎸🔥조회수 터질 수밖에 없는 이유…이건 진짜 반칙이다, 이 노래 듣고 안 울 수 있나요",
-            "channel_name": "레코드 속 추억",
-            "category": "People & Blogs",
-            "duration": "1:18:10",
-            "view_count": "36318",
-            "thumbnail_url": "https://i.ytimg.com/vi/5eoXJ93aGEg/hqdefault.jpg"
-        },
-        {
-            "video_id": "CQVZciJNsBg",
-            "title": "\"한쪽으로만 찰 수 있는 리신\" 난생 처음 보는 짝발 리신에 정신을 못 차리는 클상도..!【클상도 시즌4 Ep.03】",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "33:31",
-            "view_count": "162639",
-            "thumbnail_url": "https://i.ytimg.com/vi/CQVZciJNsBg/hqdefault.jpg"
         },
         {
             "video_id": "p4ahGSFTY-c",
@@ -70,8 +34,44 @@
             "channel_name": "aespa",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "371352",
+            "view_count": "406322",
             "thumbnail_url": "https://i.ytimg.com/vi/p4ahGSFTY-c/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZikunQmtcyQ",
+            "title": "감스트 한국 미리보는 북중미 월드컵!!",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "1:02:46",
+            "view_count": "504849",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZikunQmtcyQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "zpEcTuch36g",
+            "title": "EVERGLOW",
+            "channel_name": "WOODZ - Topic",
+            "category": "Music",
+            "duration": "4:10",
+            "view_count": "119860",
+            "thumbnail_url": "https://i.ytimg.com/vi/zpEcTuch36g/hqdefault.jpg"
+        },
+        {
+            "video_id": "CQVZciJNsBg",
+            "title": "\"한쪽으로만 찰 수 있는 리신\" 난생 처음 보는 짝발 리신에 정신을 못 차리는 클상도..!【클상도 시즌4 Ep.03】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "33:31",
+            "view_count": "164472",
+            "thumbnail_url": "https://i.ytimg.com/vi/CQVZciJNsBg/hqdefault.jpg"
+        },
+        {
+            "video_id": "5eoXJ93aGEg",
+            "title": "“꽃길” “인연” “묻어버린 아픔” “마지막 연인” “사랑 참”🎸🔥조회수 터질 수밖에 없는 이유…이건 진짜 반칙이다, 이 노래 듣고 안 울 수 있나요",
+            "channel_name": "레코드 속 추억",
+            "category": "People & Blogs",
+            "duration": "1:18:10",
+            "view_count": "36824",
+            "thumbnail_url": "https://i.ytimg.com/vi/5eoXJ93aGEg/hqdefault.jpg"
         },
         {
             "video_id": "kzMI9nZT8n0",
@@ -79,7 +79,7 @@
             "channel_name": "라니프",
             "category": "Entertainment",
             "duration": "9:58",
-            "view_count": "111914",
+            "view_count": "115937",
             "thumbnail_url": "https://i.ytimg.com/vi/kzMI9nZT8n0/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "LE SSERAFIM - Topic",
             "category": "Music",
             "duration": "2:33",
-            "view_count": "749772",
+            "view_count": "757476",
             "thumbnail_url": "https://i.ytimg.com/vi/7WuO_XaXsCY/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "19:01",
-            "view_count": "419730",
+            "view_count": "421329",
             "thumbnail_url": "https://i.ytimg.com/vi/TGZ2N-4WW1o/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "3565405",
+            "view_count": "3587908",
             "thumbnail_url": "https://i.ytimg.com/vi/a2grcJdfXmY/hqdefault.jpg"
         },
         {
@@ -115,26 +115,8 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "32:08",
-            "view_count": "191739",
+            "view_count": "192719",
             "thumbnail_url": "https://i.ytimg.com/vi/eunPQSXSfdg/hqdefault.jpg"
-        },
-        {
-            "video_id": "qPWHHRp5hEM",
-            "title": "[미니 조각집] '그대네요' Clip (with 변우석)",
-            "channel_name": "이지금 [IU Official]",
-            "category": "Entertainment",
-            "duration": "4:31",
-            "view_count": "328574",
-            "thumbnail_url": "https://i.ytimg.com/vi/qPWHHRp5hEM/hqdefault.jpg"
-        },
-        {
-            "video_id": "HmLWS0iM4Js",
-            "title": "\"으악 더러워!\" 이상호의 목발 리신 직관하고 결국 참지 못한 클리드",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "41:25",
-            "view_count": "116794",
-            "thumbnail_url": "https://i.ytimg.com/vi/HmLWS0iM4Js/hqdefault.jpg"
         },
         {
             "video_id": "eQtMa9xjCo8",
@@ -142,26 +124,26 @@
             "channel_name": "pH-1 - Topic",
             "category": "Music",
             "duration": "4:50",
-            "view_count": "50429",
+            "view_count": "50881",
             "thumbnail_url": "https://i.ytimg.com/vi/eQtMa9xjCo8/hqdefault.jpg"
         },
         {
-            "video_id": "1TdDVTzmdZ8",
-            "title": "※ 명심하세요. 당신은 케리아가 아닙니다. | T1 vs BRO 게임 2 하이라이트 | 2026 LCK",
-            "channel_name": "LCK",
+            "video_id": "HmLWS0iM4Js",
+            "title": "\"으악 더러워!\" 이상호의 목발 리신 직관하고 결국 참지 못한 클리드",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "12:43",
-            "view_count": "89943",
-            "thumbnail_url": "https://i.ytimg.com/vi/1TdDVTzmdZ8/hqdefault.jpg"
+            "duration": "41:25",
+            "view_count": "117511",
+            "thumbnail_url": "https://i.ytimg.com/vi/HmLWS0iM4Js/hqdefault.jpg"
         },
         {
-            "video_id": "f37l2uwQ6r8",
-            "title": "이승기 Smile Boy 커버해봄",
-            "channel_name": "로이킴 Roy Kim",
-            "category": "Music",
-            "duration": "3:11",
-            "view_count": "77298",
-            "thumbnail_url": "https://i.ytimg.com/vi/f37l2uwQ6r8/hqdefault.jpg"
+            "video_id": "qPWHHRp5hEM",
+            "title": "[미니 조각집] '그대네요' Clip (with 변우석)",
+            "channel_name": "이지금 [IU Official]",
+            "category": "Entertainment",
+            "duration": "4:31",
+            "view_count": "330163",
+            "thumbnail_url": "https://i.ytimg.com/vi/qPWHHRp5hEM/hqdefault.jpg"
         },
         {
             "video_id": "7Pu1-h4e5ng",
@@ -169,8 +151,26 @@
             "channel_name": "T1",
             "category": "Gaming",
             "duration": "4:36",
-            "view_count": "464013",
+            "view_count": "477650",
             "thumbnail_url": "https://i.ytimg.com/vi/7Pu1-h4e5ng/hqdefault.jpg"
+        },
+        {
+            "video_id": "f37l2uwQ6r8",
+            "title": "이승기 Smile Boy 커버해봄",
+            "channel_name": "로이킴 Roy Kim",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "77584",
+            "thumbnail_url": "https://i.ytimg.com/vi/f37l2uwQ6r8/hqdefault.jpg"
+        },
+        {
+            "video_id": "1TdDVTzmdZ8",
+            "title": "※ 명심하세요. 당신은 케리아가 아닙니다. | T1 vs BRO 게임 2 하이라이트 | 2026 LCK",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "12:43",
+            "view_count": "91168",
+            "thumbnail_url": "https://i.ytimg.com/vi/1TdDVTzmdZ8/hqdefault.jpg"
         },
         {
             "video_id": "84uZVpvsRPY",
@@ -178,26 +178,8 @@
             "channel_name": "Sin Ye Young - Topic",
             "category": "Music",
             "duration": "4:25",
-            "view_count": "142466",
+            "view_count": "143042",
             "thumbnail_url": "https://i.ytimg.com/vi/84uZVpvsRPY/hqdefault.jpg"
-        },
-        {
-            "video_id": "ea6vw4Jjs-8",
-            "title": "'천재 딜러vs연기 천재' 결승전에서 만난 두 천재의 대결｜도현컵 결승전",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "32:24",
-            "view_count": "114162",
-            "thumbnail_url": "https://i.ytimg.com/vi/ea6vw4Jjs-8/hqdefault.jpg"
-        },
-        {
-            "video_id": "-6atHp0MX_M",
-            "title": "Find You",
-            "channel_name": "BOL4 - Topic",
-            "category": "Music",
-            "duration": "2:55",
-            "view_count": "380692",
-            "thumbnail_url": "https://i.ytimg.com/vi/-6atHp0MX_M/hqdefault.jpg"
         },
         {
             "video_id": "a_OGc7PNZxg",
@@ -205,8 +187,26 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "13:13",
-            "view_count": "91900",
+            "view_count": "95411",
             "thumbnail_url": "https://i.ytimg.com/vi/a_OGc7PNZxg/hqdefault.jpg"
+        },
+        {
+            "video_id": "aIygKQPZOOE",
+            "title": "새빛 - 아네모이아 (Official Lyrics)",
+            "channel_name": "새빛 (Saebit)",
+            "category": "Music",
+            "duration": "4:41",
+            "view_count": "9472",
+            "thumbnail_url": "https://i.ytimg.com/vi/aIygKQPZOOE/hqdefault.jpg"
+        },
+        {
+            "video_id": "ea6vw4Jjs-8",
+            "title": "'천재 딜러vs연기 천재' 결승전에서 만난 두 천재의 대결｜도현컵 결승전",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "32:24",
+            "view_count": "115038",
+            "thumbnail_url": "https://i.ytimg.com/vi/ea6vw4Jjs-8/hqdefault.jpg"
         },
         {
             "video_id": "DaI8s1s3phM",
@@ -214,7 +214,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "99093",
+            "view_count": "99634",
             "thumbnail_url": "https://i.ytimg.com/vi/DaI8s1s3phM/hqdefault.jpg"
         },
         {
@@ -223,17 +223,17 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "14:48",
-            "view_count": "141395",
+            "view_count": "142163",
             "thumbnail_url": "https://i.ytimg.com/vi/GwSvDczB10k/hqdefault.jpg"
         },
         {
-            "video_id": "t4KISo_lBR4",
-            "title": "새빛 - 지고 피다 (Official Visualizer)",
-            "channel_name": "새빛 (Saebit)",
+            "video_id": "-6atHp0MX_M",
+            "title": "Find You",
+            "channel_name": "BOL4 - Topic",
             "category": "Music",
-            "duration": "3:56",
-            "view_count": "131963",
-            "thumbnail_url": "https://i.ytimg.com/vi/t4KISo_lBR4/hqdefault.jpg"
+            "duration": "2:55",
+            "view_count": "382014",
+            "thumbnail_url": "https://i.ytimg.com/vi/-6atHp0MX_M/hqdefault.jpg"
         },
         {
             "video_id": "Mzmm_WxaMUA",
@@ -241,7 +241,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:40",
-            "view_count": "245627",
+            "view_count": "246522",
             "thumbnail_url": "https://i.ytimg.com/vi/Mzmm_WxaMUA/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "현서 (HYUN SEO)",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "311744",
+            "view_count": "312324",
             "thumbnail_url": "https://i.ytimg.com/vi/WmOwzwSaUxI/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:04:27",
-            "view_count": "125456",
+            "view_count": "126298",
             "thumbnail_url": "https://i.ytimg.com/vi/a3tc1CkhSvQ/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
             "duration": "2:36",
-            "view_count": "88153",
+            "view_count": "88561",
             "thumbnail_url": "https://i.ytimg.com/vi/GjsQe6orcnU/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "24:57",
-            "view_count": "100751",
+            "view_count": "102520",
             "thumbnail_url": "https://i.ytimg.com/vi/OYAvKbwdFt8/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "ヨルシカ / n-buna Official",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "1414490",
+            "view_count": "1420408",
             "thumbnail_url": "https://i.ytimg.com/vi/OHAjc-ayhus/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "2:25:19",
-            "view_count": "88340",
+            "view_count": "88844",
             "thumbnail_url": "https://i.ytimg.com/vi/ua8cLeL9MyQ/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "TRIANGLE - Topic",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "170418",
+            "view_count": "171263",
             "thumbnail_url": "https://i.ytimg.com/vi/H9Zmt1iPApo/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "41:00",
-            "view_count": "84542",
+            "view_count": "86060",
             "thumbnail_url": "https://i.ytimg.com/vi/UmXNEM_WQ_k/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "LEE CHANGSUB - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "100081",
+            "view_count": "100347",
             "thumbnail_url": "https://i.ytimg.com/vi/C22XF2kKAAw/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "유봉훈",
             "category": "Gaming",
             "duration": "21:21",
-            "view_count": "87830",
+            "view_count": "89401",
             "thumbnail_url": "https://i.ytimg.com/vi/RXPSlqzwQ6A/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "110711",
+            "view_count": "112011",
             "thumbnail_url": "https://i.ytimg.com/vi/WAoXXfvcFuQ/hqdefault.jpg"
         },
         {
@@ -349,7 +349,7 @@
             "channel_name": "치랜",
             "category": "Gaming",
             "duration": "1:31:32",
-            "view_count": "160123",
+            "view_count": "162275",
             "thumbnail_url": "https://i.ytimg.com/vi/q0E-E0zHYy8/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "4:47",
-            "view_count": "217867",
+            "view_count": "218262",
             "thumbnail_url": "https://i.ytimg.com/vi/H-MmgcBU0L0/hqdefault.jpg"
         },
         {
@@ -371,13 +371,13 @@
             "thumbnail_url": "https://i.ytimg.com/vi/eI5pECoskHE/hqdefault.jpg"
         },
         {
-            "video_id": "mbZCNJDaZOw",
-            "title": "NEXZ(넥스지) \"Mmchk\" M/V Teaser 2",
-            "channel_name": "JYP Entertainment",
+            "video_id": "Ici8cpI2Jog",
+            "title": "Boney M. - Rivers Of Babylon (Top club, 26.04.1978)",
+            "channel_name": "BoneyMVEVO",
             "category": "Music",
-            "duration": "0:23",
-            "view_count": "136769",
-            "thumbnail_url": "https://i.ytimg.com/vi/mbZCNJDaZOw/hqdefault.jpg"
+            "duration": "3:11",
+            "view_count": "1303312",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ici8cpI2Jog/hqdefault.jpg"
         }
     ]
 }
