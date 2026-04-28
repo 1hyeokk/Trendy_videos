@@ -1,13 +1,31 @@
 {
-    "scraped_time": "2026-04-28 08:56:35",
+    "scraped_time": "2026-04-28 12:48:34",
     "videos": [
+        {
+            "video_id": "uXgk1YLRIN0",
+            "title": "CEREMONY",
+            "channel_name": "QWER - Topic",
+            "category": "Music",
+            "duration": "3:17",
+            "view_count": "149584",
+            "thumbnail_url": "https://i.ytimg.com/vi/uXgk1YLRIN0/hqdefault.jpg"
+        },
+        {
+            "video_id": "WTihwP1SjcI",
+            "title": "사연 있는 증강",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "24:40",
+            "view_count": "256443",
+            "thumbnail_url": "https://i.ytimg.com/vi/WTihwP1SjcI/hqdefault.jpg"
+        },
         {
             "video_id": "yuH4OnvoADU",
             "title": "Leave Me, Don′t Go",
             "channel_name": "gitae - Topic",
             "category": "Music",
             "duration": "4:31",
-            "view_count": "166392",
+            "view_count": "195485",
             "thumbnail_url": "https://i.ytimg.com/vi/yuH4OnvoADU/hqdefault.jpg"
         },
         {
@@ -16,7 +34,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:40",
-            "view_count": "256880",
+            "view_count": "277621",
             "thumbnail_url": "https://i.ytimg.com/vi/cIErdpwu1To/hqdefault.jpg"
         },
         {
@@ -25,26 +43,8 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "650199",
+            "view_count": "788730",
             "thumbnail_url": "https://i.ytimg.com/vi/MiO16KlMPaU/hqdefault.jpg"
-        },
-        {
-            "video_id": "WTihwP1SjcI",
-            "title": "사연 있는 증강",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "24:40",
-            "view_count": "218174",
-            "thumbnail_url": "https://i.ytimg.com/vi/WTihwP1SjcI/hqdefault.jpg"
-        },
-        {
-            "video_id": "oJbxC56MPsc",
-            "title": "AKMU '소문의 낙원' (Live at Akkademy 청음회 2026)",
-            "channel_name": "AKMU",
-            "category": "Music",
-            "duration": "3:50",
-            "view_count": "161367",
-            "thumbnail_url": "https://i.ytimg.com/vi/oJbxC56MPsc/hqdefault.jpg"
         },
         {
             "video_id": "KE-PsOHmT5o",
@@ -52,17 +52,17 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "43:24",
-            "view_count": "177063",
+            "view_count": "183504",
             "thumbnail_url": "https://i.ytimg.com/vi/KE-PsOHmT5o/hqdefault.jpg"
         },
         {
-            "video_id": "uXgk1YLRIN0",
-            "title": "CEREMONY",
-            "channel_name": "QWER - Topic",
+            "video_id": "oJbxC56MPsc",
+            "title": "AKMU '소문의 낙원' (Live at Akkademy 청음회 2026)",
+            "channel_name": "AKMU",
             "category": "Music",
-            "duration": "3:17",
-            "view_count": "98528",
-            "thumbnail_url": "https://i.ytimg.com/vi/uXgk1YLRIN0/hqdefault.jpg"
+            "duration": "3:50",
+            "view_count": "184509",
+            "thumbnail_url": "https://i.ytimg.com/vi/oJbxC56MPsc/hqdefault.jpg"
         },
         {
             "video_id": "G1eeR5GreGM",
@@ -70,71 +70,17 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "18:30",
-            "view_count": "96063",
+            "view_count": "127877",
             "thumbnail_url": "https://i.ytimg.com/vi/G1eeR5GreGM/hqdefault.jpg"
         },
         {
-            "video_id": "p4ahGSFTY-c",
-            "title": "aespa 에스파 'LEMONADE' Complæxity Trailer",
-            "channel_name": "aespa",
-            "category": "Music",
-            "duration": "2:41",
-            "view_count": "1321817",
-            "thumbnail_url": "https://i.ytimg.com/vi/p4ahGSFTY-c/hqdefault.jpg"
-        },
-        {
-            "video_id": "G7cwJTTAu4c",
-            "title": "파멸적 1위 메이플보드 직작 ㅋㅋㅋㅋㅋ",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "17:35",
-            "view_count": "152930",
-            "thumbnail_url": "https://i.ytimg.com/vi/G7cwJTTAu4c/hqdefault.jpg"
-        },
-        {
-            "video_id": "5hP5bLk-Xcc",
-            "title": "All the Possibilities",
+            "video_id": "Da-mcD_sF_E",
+            "title": "You, You",
             "channel_name": "TWS - Topic",
             "category": "Music",
-            "duration": "2:50",
-            "view_count": "89100",
-            "thumbnail_url": "https://i.ytimg.com/vi/5hP5bLk-Xcc/hqdefault.jpg"
-        },
-        {
-            "video_id": "kzMI9nZT8n0",
-            "title": "티원 케리아 재계약 현장 반응",
-            "channel_name": "라니프",
-            "category": "Entertainment",
-            "duration": "9:58",
-            "view_count": "259920",
-            "thumbnail_url": "https://i.ytimg.com/vi/kzMI9nZT8n0/hqdefault.jpg"
-        },
-        {
-            "video_id": "aIygKQPZOOE",
-            "title": "새빛 - 아네모이아 (Official Lyrics)",
-            "channel_name": "새빛 (Saebit)",
-            "category": "Music",
-            "duration": "4:41",
-            "view_count": "53505",
-            "thumbnail_url": "https://i.ytimg.com/vi/aIygKQPZOOE/hqdefault.jpg"
-        },
-        {
-            "video_id": "H62xldvxA10",
-            "title": "저저에서 드론이 나간다는건? [ASL 시즌21 8강 A조 박상현vs조일장 2경기]",
-            "channel_name": "도멘TV [DOTUBE]",
-            "category": "Gaming",
-            "duration": "9:00",
-            "view_count": "54935",
-            "thumbnail_url": "https://i.ytimg.com/vi/H62xldvxA10/hqdefault.jpg"
-        },
-        {
-            "video_id": "zpEcTuch36g",
-            "title": "EVERGLOW",
-            "channel_name": "WOODZ - Topic",
-            "category": "Music",
-            "duration": "4:10",
-            "view_count": "231597",
-            "thumbnail_url": "https://i.ytimg.com/vi/zpEcTuch36g/hqdefault.jpg"
+            "duration": "2:45",
+            "view_count": "125979",
+            "thumbnail_url": "https://i.ytimg.com/vi/Da-mcD_sF_E/hqdefault.jpg"
         },
         {
             "video_id": "KWcOOa5z8wo",
@@ -142,17 +88,71 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "39:38",
-            "view_count": "116694",
+            "view_count": "138814",
             "thumbnail_url": "https://i.ytimg.com/vi/KWcOOa5z8wo/hqdefault.jpg"
         },
         {
-            "video_id": "5eoXJ93aGEg",
-            "title": "“꽃길” “인연” “묻어버린 아픔” “마지막 연인” “사랑 참”🎸🔥조회수 터질 수밖에 없는 이유…이건 진짜 반칙이다, 이 노래 듣고 안 울 수 있나요",
-            "channel_name": "레코드 속 추억",
-            "category": "People & Blogs",
-            "duration": "1:18:10",
-            "view_count": "70310",
-            "thumbnail_url": "https://i.ytimg.com/vi/5eoXJ93aGEg/hqdefault.jpg"
+            "video_id": "p4ahGSFTY-c",
+            "title": "aespa 에스파 'LEMONADE' Complæxity Trailer",
+            "channel_name": "aespa",
+            "category": "Music",
+            "duration": "2:41",
+            "view_count": "1366254",
+            "thumbnail_url": "https://i.ytimg.com/vi/p4ahGSFTY-c/hqdefault.jpg"
+        },
+        {
+            "video_id": "H62xldvxA10",
+            "title": "저저에서 드론이 나간다는건? [ASL 시즌21 8강 A조 박상현vs조일장 2경기]",
+            "channel_name": "도멘TV [DOTUBE]",
+            "category": "Gaming",
+            "duration": "9:00",
+            "view_count": "60165",
+            "thumbnail_url": "https://i.ytimg.com/vi/H62xldvxA10/hqdefault.jpg"
+        },
+        {
+            "video_id": "aIygKQPZOOE",
+            "title": "새빛 - 아네모이아 (Official Lyrics)",
+            "channel_name": "새빛 (Saebit)",
+            "category": "Music",
+            "duration": "4:41",
+            "view_count": "64101",
+            "thumbnail_url": "https://i.ytimg.com/vi/aIygKQPZOOE/hqdefault.jpg"
+        },
+        {
+            "video_id": "G7cwJTTAu4c",
+            "title": "파멸적 1위 메이플보드 직작 ㅋㅋㅋㅋㅋ",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "17:35",
+            "view_count": "163957",
+            "thumbnail_url": "https://i.ytimg.com/vi/G7cwJTTAu4c/hqdefault.jpg"
+        },
+        {
+            "video_id": "zpEcTuch36g",
+            "title": "EVERGLOW",
+            "channel_name": "WOODZ - Topic",
+            "category": "Music",
+            "duration": "4:10",
+            "view_count": "254685",
+            "thumbnail_url": "https://i.ytimg.com/vi/zpEcTuch36g/hqdefault.jpg"
+        },
+        {
+            "video_id": "kzMI9nZT8n0",
+            "title": "티원 케리아 재계약 현장 반응",
+            "channel_name": "라니프",
+            "category": "Entertainment",
+            "duration": "9:58",
+            "view_count": "270526",
+            "thumbnail_url": "https://i.ytimg.com/vi/kzMI9nZT8n0/hqdefault.jpg"
+        },
+        {
+            "video_id": "kuVNutQeBBA",
+            "title": "CORTIS (코르티스) 'REDRED' Dance Practice (Fix ver.)",
+            "channel_name": "CORTIS",
+            "category": "Entertainment",
+            "duration": "4:24",
+            "view_count": "477073",
+            "thumbnail_url": "https://i.ytimg.com/vi/kuVNutQeBBA/hqdefault.jpg"
         },
         {
             "video_id": "jR9PiBPuO3M",
@@ -160,7 +160,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "4:33:08",
-            "view_count": "171767",
+            "view_count": "174575",
             "thumbnail_url": "https://i.ytimg.com/vi/jR9PiBPuO3M/hqdefault.jpg"
         },
         {
@@ -169,62 +169,8 @@
             "channel_name": "pH-1 - Topic",
             "category": "Music",
             "duration": "4:50",
-            "view_count": "123101",
+            "view_count": "137291",
             "thumbnail_url": "https://i.ytimg.com/vi/eQtMa9xjCo8/hqdefault.jpg"
-        },
-        {
-            "video_id": "cGOF52-uRx8",
-            "title": "T1 홈그라운드의 주인공 😎│T1 vs BFX│2026 LCK│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "46:55",
-            "view_count": "170766",
-            "thumbnail_url": "https://i.ytimg.com/vi/cGOF52-uRx8/hqdefault.jpg"
-        },
-        {
-            "video_id": "kuVNutQeBBA",
-            "title": "CORTIS (코르티스) 'REDRED' Dance Practice (Fix ver.)",
-            "channel_name": "CORTIS",
-            "category": "Entertainment",
-            "duration": "4:24",
-            "view_count": "409240",
-            "thumbnail_url": "https://i.ytimg.com/vi/kuVNutQeBBA/hqdefault.jpg"
-        },
-        {
-            "video_id": "Af86u_NNNIU",
-            "title": "자전차왕",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "17:20",
-            "view_count": "148290",
-            "thumbnail_url": "https://i.ytimg.com/vi/Af86u_NNNIU/hqdefault.jpg"
-        },
-        {
-            "video_id": "EKpoi1spOc0",
-            "title": "순순희 (기태) gitae ,백예슬 Baek Yeseul - 떠나가요, 떠나지마요 : 시대를 초월한 마음 Leave Me, Don′t Go Official M/V",
-            "channel_name": "GENIE MUSIC",
-            "category": "Music",
-            "duration": "4:31",
-            "view_count": "29128",
-            "thumbnail_url": "https://i.ytimg.com/vi/EKpoi1spOc0/hqdefault.jpg"
-        },
-        {
-            "video_id": "JV-Yc14nDF8",
-            "title": "POM 선언 | T1 vs BFX 게임 2 하이라이트 | 2026 LCK",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "13:58",
-            "view_count": "92184",
-            "thumbnail_url": "https://i.ytimg.com/vi/JV-Yc14nDF8/hqdefault.jpg"
-        },
-        {
-            "video_id": "7WuO_XaXsCY",
-            "title": "CELEBRATION",
-            "channel_name": "LE SSERAFIM - Topic",
-            "category": "Music",
-            "duration": "2:33",
-            "view_count": "1084616",
-            "thumbnail_url": "https://i.ytimg.com/vi/7WuO_XaXsCY/hqdefault.jpg"
         },
         {
             "video_id": "CehwdvJZXDc",
@@ -232,17 +178,53 @@
             "channel_name": "테스터훈 TesterHoon",
             "category": "Gaming",
             "duration": "27:56",
-            "view_count": "129308",
+            "view_count": "147632",
             "thumbnail_url": "https://i.ytimg.com/vi/CehwdvJZXDc/hqdefault.jpg"
         },
         {
-            "video_id": "qPWHHRp5hEM",
-            "title": "[미니 조각집] '그대네요' Clip (with 변우석)",
-            "channel_name": "이지금 [IU Official]",
-            "category": "Entertainment",
+            "video_id": "5eoXJ93aGEg",
+            "title": "“꽃길” “인연” “묻어버린 아픔” “마지막 연인” “사랑 참”🎸🔥조회수 터질 수밖에 없는 이유…이건 진짜 반칙이다, 이 노래 듣고 안 울 수 있나요",
+            "channel_name": "레코드 속 추억",
+            "category": "People & Blogs",
+            "duration": "1:18:10",
+            "view_count": "75160",
+            "thumbnail_url": "https://i.ytimg.com/vi/5eoXJ93aGEg/hqdefault.jpg"
+        },
+        {
+            "video_id": "JV-Yc14nDF8",
+            "title": "POM 선언 | T1 vs BFX 게임 2 하이라이트 | 2026 LCK",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "13:58",
+            "view_count": "99461",
+            "thumbnail_url": "https://i.ytimg.com/vi/JV-Yc14nDF8/hqdefault.jpg"
+        },
+        {
+            "video_id": "EKpoi1spOc0",
+            "title": "순순희 (기태) gitae ,백예슬 Baek Yeseul - 떠나가요, 떠나지마요 : 시대를 초월한 마음 Leave Me, Don′t Go Official M/V",
+            "channel_name": "GENIE MUSIC",
+            "category": "Music",
             "duration": "4:31",
-            "view_count": "448291",
-            "thumbnail_url": "https://i.ytimg.com/vi/qPWHHRp5hEM/hqdefault.jpg"
+            "view_count": "32603",
+            "thumbnail_url": "https://i.ytimg.com/vi/EKpoi1spOc0/hqdefault.jpg"
+        },
+        {
+            "video_id": "Af86u_NNNIU",
+            "title": "자전차왕",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "17:20",
+            "view_count": "157417",
+            "thumbnail_url": "https://i.ytimg.com/vi/Af86u_NNNIU/hqdefault.jpg"
+        },
+        {
+            "video_id": "7WuO_XaXsCY",
+            "title": "CELEBRATION",
+            "channel_name": "LE SSERAFIM - Topic",
+            "category": "Music",
+            "duration": "2:33",
+            "view_count": "1147645",
+            "thumbnail_url": "https://i.ytimg.com/vi/7WuO_XaXsCY/hqdefault.jpg"
         },
         {
             "video_id": "i1G0XwD5Des",
@@ -250,7 +232,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "48:22",
-            "view_count": "125274",
+            "view_count": "138990",
             "thumbnail_url": "https://i.ytimg.com/vi/i1G0XwD5Des/hqdefault.jpg"
         },
         {
@@ -259,8 +241,26 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "43171",
+            "view_count": "53206",
             "thumbnail_url": "https://i.ytimg.com/vi/dUbylctYQXg/hqdefault.jpg"
+        },
+        {
+            "video_id": "cGOF52-uRx8",
+            "title": "T1 홈그라운드의 주인공 😎│T1 vs BFX│2026 LCK│울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "46:55",
+            "view_count": "175297",
+            "thumbnail_url": "https://i.ytimg.com/vi/cGOF52-uRx8/hqdefault.jpg"
+        },
+        {
+            "video_id": "hleyarrUMB4",
+            "title": "이별여행 (Farewell Trip)",
+            "channel_name": "Shinae An - Topic",
+            "category": "Music",
+            "duration": "2:45",
+            "view_count": "50531",
+            "thumbnail_url": "https://i.ytimg.com/vi/hleyarrUMB4/hqdefault.jpg"
         },
         {
             "video_id": "nQjbuu3gGPE",
@@ -268,8 +268,26 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "25:10",
-            "view_count": "99192",
+            "view_count": "106984",
             "thumbnail_url": "https://i.ytimg.com/vi/nQjbuu3gGPE/hqdefault.jpg"
+        },
+        {
+            "video_id": "qPWHHRp5hEM",
+            "title": "[미니 조각집] '그대네요' Clip (with 변우석)",
+            "channel_name": "이지금 [IU Official]",
+            "category": "Entertainment",
+            "duration": "4:31",
+            "view_count": "465770",
+            "thumbnail_url": "https://i.ytimg.com/vi/qPWHHRp5hEM/hqdefault.jpg"
+        },
+        {
+            "video_id": "_Wx_FOkKvfQ",
+            "title": "와...혜안채널, 완전 초창기 구독자 그녀 드디어 만났습니다ㄷㄷ",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "18:10",
+            "view_count": "131728",
+            "thumbnail_url": "https://i.ytimg.com/vi/_Wx_FOkKvfQ/hqdefault.jpg"
         },
         {
             "video_id": "PIgmxjozeCU",
@@ -277,7 +295,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "598004",
+            "view_count": "641791",
             "thumbnail_url": "https://i.ytimg.com/vi/PIgmxjozeCU/hqdefault.jpg"
         },
         {
@@ -286,44 +304,8 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "29:47",
-            "view_count": "119947",
+            "view_count": "125939",
             "thumbnail_url": "https://i.ytimg.com/vi/lwUGt5dv2pw/hqdefault.jpg"
-        },
-        {
-            "video_id": "DaI8s1s3phM",
-            "title": "Our Goodbye",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "176772",
-            "thumbnail_url": "https://i.ytimg.com/vi/DaI8s1s3phM/hqdefault.jpg"
-        },
-        {
-            "video_id": "_Wx_FOkKvfQ",
-            "title": "와...혜안채널, 완전 초창기 구독자 그녀 드디어 만났습니다ㄷㄷ",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "18:10",
-            "view_count": "117360",
-            "thumbnail_url": "https://i.ytimg.com/vi/_Wx_FOkKvfQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "hleyarrUMB4",
-            "title": "이별여행 (Farewell Trip)",
-            "channel_name": "Shinae An - Topic",
-            "category": "Music",
-            "duration": "2:45",
-            "view_count": "44952",
-            "thumbnail_url": "https://i.ytimg.com/vi/hleyarrUMB4/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZikunQmtcyQ",
-            "title": "감스트 한국 미리보는 북중미 월드컵!!",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "1:02:46",
-            "view_count": "609303",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZikunQmtcyQ/hqdefault.jpg"
         },
         {
             "video_id": "TGe1Vgz590A",
@@ -331,44 +313,62 @@
             "channel_name": "moyo - Topic",
             "category": "Music",
             "duration": "2:26",
-            "view_count": "43185",
+            "view_count": "51747",
             "thumbnail_url": "https://i.ytimg.com/vi/TGe1Vgz590A/hqdefault.jpg"
         },
         {
-            "video_id": "yB7Kq3YSwIc",
-            "title": "리니지 찍먹 열 받게 하는 방법  리니지클래식【 똘끼 】",
-            "channel_name": "똘끼100%",
+            "video_id": "xP7wY0URQt4",
+            "title": "치지직 최강의 포켓몬 트레이너는?【포챔스 스트리머 대회】",
+            "channel_name": "근가놈",
             "category": "Gaming",
-            "duration": "8:20",
-            "view_count": "128105",
-            "thumbnail_url": "https://i.ytimg.com/vi/yB7Kq3YSwIc/hqdefault.jpg"
+            "duration": "1:48:25",
+            "view_count": "102703",
+            "thumbnail_url": "https://i.ytimg.com/vi/xP7wY0URQt4/hqdefault.jpg"
         },
         {
-            "video_id": "9S8P46rXgpo",
-            "title": "I Think of You Everyday",
-            "channel_name": "Huh Gak - Topic",
+            "video_id": "DaI8s1s3phM",
+            "title": "Our Goodbye",
+            "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "4:15",
-            "view_count": "19238",
-            "thumbnail_url": "https://i.ytimg.com/vi/9S8P46rXgpo/hqdefault.jpg"
+            "duration": "3:02",
+            "view_count": "198854",
+            "thumbnail_url": "https://i.ytimg.com/vi/DaI8s1s3phM/hqdefault.jpg"
         },
         {
-            "video_id": "zTnFArdmSd4",
-            "title": "[생] [4/27] \"리니지 클래식\" \"대리아닙니다\" 선생님이라고 불러주세요 이문주 스턴 교수      내가수영 #이문주",
-            "channel_name": "내가수영TV",
+            "video_id": "ZikunQmtcyQ",
+            "title": "감스트 한국 미리보는 북중미 월드컵!!",
+            "channel_name": "감스트GAMST",
             "category": "Gaming",
-            "duration": "5:27:08",
-            "view_count": "79392",
-            "thumbnail_url": "https://i.ytimg.com/vi/zTnFArdmSd4/hqdefault.jpg"
+            "duration": "1:02:46",
+            "view_count": "615834",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZikunQmtcyQ/hqdefault.jpg"
         },
         {
-            "video_id": "f37l2uwQ6r8",
-            "title": "이승기 Smile Boy 커버해봄",
-            "channel_name": "로이킴 Roy Kim",
+            "video_id": "wsgnm3oTD4Y",
+            "title": "Lean On",
+            "channel_name": " 홍이삭(Isaac Hong) - Topic",
             "category": "Music",
-            "duration": "3:11",
-            "view_count": "113837",
-            "thumbnail_url": "https://i.ytimg.com/vi/f37l2uwQ6r8/hqdefault.jpg"
+            "duration": "2:52",
+            "view_count": "24726",
+            "thumbnail_url": "https://i.ytimg.com/vi/wsgnm3oTD4Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "b7krY5vOzug",
+            "title": "이딴 게... ???만 원... 새로운 모션이 역대급, 총 사운드는 흠...? [신스킨 쿠로나미 2.0 풀 업그레이드 리뷰]",
+            "channel_name": "버니버니",
+            "category": "Gaming",
+            "duration": "9:04",
+            "view_count": "61482",
+            "thumbnail_url": "https://i.ytimg.com/vi/b7krY5vOzug/hqdefault.jpg"
+        },
+        {
+            "video_id": "pG3gGw8qmhY",
+            "title": "Shall We Get Married",
+            "channel_name": "Lee Boram - Topic",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "20310",
+            "thumbnail_url": "https://i.ytimg.com/vi/pG3gGw8qmhY/hqdefault.jpg"
         },
         {
             "video_id": "Ge_m39b_7rU",
@@ -376,7 +376,7 @@
             "channel_name": "탬탬버린",
             "category": "Gaming",
             "duration": "26:21",
-            "view_count": "117188",
+            "view_count": "127789",
             "thumbnail_url": "https://i.ytimg.com/vi/Ge_m39b_7rU/hqdefault.jpg"
         }
     ]
