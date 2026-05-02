@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-02 15:08:35",
+    "scraped_time": "2026-05-02 17:21:12",
     "videos": [
         {
             "video_id": "XDzGoMtSqZA",
@@ -7,7 +7,7 @@
             "channel_name": "ILLIT - Topic",
             "category": "Music",
             "duration": "2:19",
-            "view_count": "974643",
+            "view_count": "1027708",
             "thumbnail_url": "https://i.ytimg.com/vi/XDzGoMtSqZA/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Sony Pictures Entertainment",
             "category": "Entertainment",
             "duration": "1:54",
-            "view_count": "3100503",
+            "view_count": "3131297",
             "thumbnail_url": "https://i.ytimg.com/vi/SJPu1spHqfk/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "47:22",
-            "view_count": "408451",
+            "view_count": "452591",
             "thumbnail_url": "https://i.ytimg.com/vi/QE9lQzksCrU/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:27",
-            "view_count": "8648679",
+            "view_count": "8775510",
             "thumbnail_url": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:57",
-            "view_count": "133186",
+            "view_count": "136499",
             "thumbnail_url": "https://i.ytimg.com/vi/_tZ7jDSI8a4/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:36",
-            "view_count": "284102",
+            "view_count": "306583",
             "thumbnail_url": "https://i.ytimg.com/vi/anff0Gu--1A/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "LUCY ISLAND",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "2257394",
+            "view_count": "2274239",
             "thumbnail_url": "https://i.ytimg.com/vi/mMr52FVf6qk/hqdefault.jpg"
         },
         {
@@ -70,8 +70,26 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "18:16",
-            "view_count": "260765",
+            "view_count": "282334",
             "thumbnail_url": "https://i.ytimg.com/vi/w38Qtt4tqxw/hqdefault.jpg"
+        },
+        {
+            "video_id": "iTN61KGaUZA",
+            "title": "My Favorite Part",
+            "channel_name": "So Soo Bin - Topic",
+            "category": "Music",
+            "duration": "2:43",
+            "view_count": "59676",
+            "thumbnail_url": "https://i.ytimg.com/vi/iTN61KGaUZA/hqdefault.jpg"
+        },
+        {
+            "video_id": "jphrITR-1rs",
+            "title": "먹는 내내 게임얘기만 하는 롤대남들 단체 회식",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "18:26",
+            "view_count": "183500",
+            "thumbnail_url": "https://i.ytimg.com/vi/jphrITR-1rs/hqdefault.jpg"
         },
         {
             "video_id": "1Xyu6LgxORQ",
@@ -79,7 +97,7 @@
             "channel_name": "PARK JIHOON - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "177086",
+            "view_count": "183953",
             "thumbnail_url": "https://i.ytimg.com/vi/1Xyu6LgxORQ/hqdefault.jpg"
         },
         {
@@ -88,62 +106,8 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "7:21:15",
-            "view_count": "269299",
+            "view_count": "270777",
             "thumbnail_url": "https://i.ytimg.com/vi/jrs0SAoOoyY/hqdefault.jpg"
-        },
-        {
-            "video_id": "iTN61KGaUZA",
-            "title": "My Favorite Part",
-            "channel_name": "So Soo Bin - Topic",
-            "category": "Music",
-            "duration": "2:43",
-            "view_count": "51849",
-            "thumbnail_url": "https://i.ytimg.com/vi/iTN61KGaUZA/hqdefault.jpg"
-        },
-        {
-            "video_id": "oBICGra4Y2s",
-            "title": "DNS vs BRO - HLE vs T1 | 2026 LCK",
-            "channel_name": "LCK Global",
-            "category": "Gaming",
-            "duration": "5:49:31",
-            "view_count": "1280516",
-            "thumbnail_url": "https://i.ytimg.com/vi/oBICGra4Y2s/hqdefault.jpg"
-        },
-        {
-            "video_id": "ydYrk4QzU8k",
-            "title": "Because It′s Raining",
-            "channel_name": "RYU MIN HEE - Topic",
-            "category": "Music",
-            "duration": "4:20",
-            "view_count": "44444",
-            "thumbnail_url": "https://i.ytimg.com/vi/ydYrk4QzU8k/hqdefault.jpg"
-        },
-        {
-            "video_id": "jphrITR-1rs",
-            "title": "먹는 내내 게임얘기만 하는 롤대남들 단체 회식",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "18:26",
-            "view_count": "167030",
-            "thumbnail_url": "https://i.ytimg.com/vi/jphrITR-1rs/hqdefault.jpg"
-        },
-        {
-            "video_id": "sw1YLrdaUnA",
-            "title": "Seungmin \"급류(Into The Current)\" | [Stray Kids : SKZ-RECORD]",
-            "channel_name": "Stray Kids",
-            "category": "Music",
-            "duration": "4:40",
-            "view_count": "464274",
-            "thumbnail_url": "https://i.ytimg.com/vi/sw1YLrdaUnA/hqdefault.jpg"
-        },
-        {
-            "video_id": "vuDy7WQmUuo",
-            "title": "매 순간 극악무도하게",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "26:28",
-            "view_count": "507970",
-            "thumbnail_url": "https://i.ytimg.com/vi/vuDy7WQmUuo/hqdefault.jpg"
         },
         {
             "video_id": "DwD0rESvyf0",
@@ -151,8 +115,26 @@
             "channel_name": "Yeso - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "76024",
+            "view_count": "85837",
             "thumbnail_url": "https://i.ytimg.com/vi/DwD0rESvyf0/hqdefault.jpg"
+        },
+        {
+            "video_id": "oBICGra4Y2s",
+            "title": "DNS vs BRO - HLE vs T1 | 2026 LCK",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "5:49:31",
+            "view_count": "1284157",
+            "thumbnail_url": "https://i.ytimg.com/vi/oBICGra4Y2s/hqdefault.jpg"
+        },
+        {
+            "video_id": "sw1YLrdaUnA",
+            "title": "Seungmin \"급류(Into The Current)\" | [Stray Kids : SKZ-RECORD]",
+            "channel_name": "Stray Kids",
+            "category": "Music",
+            "duration": "4:40",
+            "view_count": "487340",
+            "thumbnail_url": "https://i.ytimg.com/vi/sw1YLrdaUnA/hqdefault.jpg"
         },
         {
             "video_id": "xzf-14khwaQ",
@@ -160,8 +142,26 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "48:25",
-            "view_count": "143989",
+            "view_count": "158040",
             "thumbnail_url": "https://i.ytimg.com/vi/xzf-14khwaQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "ydYrk4QzU8k",
+            "title": "Because It′s Raining",
+            "channel_name": "RYU MIN HEE - Topic",
+            "category": "Music",
+            "duration": "4:20",
+            "view_count": "47389",
+            "thumbnail_url": "https://i.ytimg.com/vi/ydYrk4QzU8k/hqdefault.jpg"
+        },
+        {
+            "video_id": "vuDy7WQmUuo",
+            "title": "매 순간 극악무도하게",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "26:28",
+            "view_count": "518220",
+            "thumbnail_url": "https://i.ytimg.com/vi/vuDy7WQmUuo/hqdefault.jpg"
         },
         {
             "video_id": "-SEKt_0pdHM",
@@ -169,7 +169,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "2161837",
+            "view_count": "2182263",
             "thumbnail_url": "https://i.ytimg.com/vi/-SEKt_0pdHM/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "피넛",
             "category": "Gaming",
             "duration": "57:23",
-            "view_count": "111153",
+            "view_count": "118222",
             "thumbnail_url": "https://i.ytimg.com/vi/cPWbTo8XzTY/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "NMIXX",
             "category": "Entertainment",
             "duration": "2:48",
-            "view_count": "387870",
+            "view_count": "394157",
             "thumbnail_url": "https://i.ytimg.com/vi/IwCbh2fCrOg/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "1:11:53",
-            "view_count": "96040",
+            "view_count": "102408",
             "thumbnail_url": "https://i.ytimg.com/vi/1WmCotHEpUg/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "QWER - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "810386",
+            "view_count": "832706",
             "thumbnail_url": "https://i.ytimg.com/vi/uXgk1YLRIN0/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:33",
-            "view_count": "260154",
+            "view_count": "264394",
             "thumbnail_url": "https://i.ytimg.com/vi/FGEbNUZvPFY/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "Jang Beom June - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "58884",
+            "view_count": "65495",
             "thumbnail_url": "https://i.ytimg.com/vi/L1hB09aCdnI/hqdefault.jpg"
         },
         {
@@ -232,26 +232,8 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "29:20",
-            "view_count": "194057",
+            "view_count": "197062",
             "thumbnail_url": "https://i.ytimg.com/vi/KVulKu8p4_4/hqdefault.jpg"
-        },
-        {
-            "video_id": "Kh3CXfz6z0E",
-            "title": "First Love Is a Curse(첫사랑은 저주다)",
-            "channel_name": "YUJU - Topic",
-            "category": "Music",
-            "duration": "2:42",
-            "view_count": "89885",
-            "thumbnail_url": "https://i.ytimg.com/vi/Kh3CXfz6z0E/hqdefault.jpg"
-        },
-        {
-            "video_id": "jZCRfm6I0HI",
-            "title": "상급기사 레고앙앙",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "15:30",
-            "view_count": "180724",
-            "thumbnail_url": "https://i.ytimg.com/vi/jZCRfm6I0HI/hqdefault.jpg"
         },
         {
             "video_id": "ryXexZJE2FY",
@@ -259,8 +241,26 @@
             "channel_name": "LEE CHAEYEON - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "92161",
+            "view_count": "98587",
             "thumbnail_url": "https://i.ytimg.com/vi/ryXexZJE2FY/hqdefault.jpg"
+        },
+        {
+            "video_id": "jZCRfm6I0HI",
+            "title": "상급기사 레고앙앙",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "15:30",
+            "view_count": "183045",
+            "thumbnail_url": "https://i.ytimg.com/vi/jZCRfm6I0HI/hqdefault.jpg"
+        },
+        {
+            "video_id": "ItckANvdkc4",
+            "title": "this and that (feat. Chang Min Park)",
+            "channel_name": "Cillian - Topic",
+            "category": "Music",
+            "duration": "1:26",
+            "view_count": "14109",
+            "thumbnail_url": "https://i.ytimg.com/vi/ItckANvdkc4/hqdefault.jpg"
         },
         {
             "video_id": "QzAKvTg9lqo",
@@ -268,8 +268,62 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "49:19",
-            "view_count": "97350",
+            "view_count": "101177",
             "thumbnail_url": "https://i.ytimg.com/vi/QzAKvTg9lqo/hqdefault.jpg"
+        },
+        {
+            "video_id": "vz2mNGpikr4",
+            "title": "Fallin'",
+            "channel_name": "Chris Brown - Topic",
+            "category": "Music",
+            "duration": "4:27",
+            "view_count": "532403",
+            "thumbnail_url": "https://i.ytimg.com/vi/vz2mNGpikr4/hqdefault.jpg"
+        },
+        {
+            "video_id": "HYPeY_MXqhQ",
+            "title": "브롤스타즈에서 스나는?! 외쳐보겠습니다!!",
+            "channel_name": "10B",
+            "category": "Gaming",
+            "duration": "15:01",
+            "view_count": "56778",
+            "thumbnail_url": "https://i.ytimg.com/vi/HYPeY_MXqhQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "5DXqEa-7-Wg",
+            "title": "かぐや (cv. 夏吉ゆうこ) & 月見ヤチヨ (cv. 早見沙織) - ray 超かぐや姫！Version / THE FIRST TAKE",
+            "channel_name": "THE FIRST TAKE",
+            "category": "Music",
+            "duration": "5:56",
+            "view_count": "1283698",
+            "thumbnail_url": "https://i.ytimg.com/vi/5DXqEa-7-Wg/hqdefault.jpg"
+        },
+        {
+            "video_id": "JM6uHC9uBRY",
+            "title": "이 닉네임을 보면 놀라지 말고 신고 먼저 누르세요",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "16:57",
+            "view_count": "99852",
+            "thumbnail_url": "https://i.ytimg.com/vi/JM6uHC9uBRY/hqdefault.jpg"
+        },
+        {
+            "video_id": "Kh3CXfz6z0E",
+            "title": "First Love Is a Curse(첫사랑은 저주다)",
+            "channel_name": "YUJU - Topic",
+            "category": "Music",
+            "duration": "2:42",
+            "view_count": "93054",
+            "thumbnail_url": "https://i.ytimg.com/vi/Kh3CXfz6z0E/hqdefault.jpg"
+        },
+        {
+            "video_id": "hKFptzVRqPg",
+            "title": "음... 이 정도면 좋은데?🤔│HLE vs T1│2026 LCK│울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "1:13:33",
+            "view_count": "57132",
+            "thumbnail_url": "https://i.ytimg.com/vi/hKFptzVRqPg/hqdefault.jpg"
         },
         {
             "video_id": "PdZlUGBwaCc",
@@ -277,7 +331,7 @@
             "channel_name": "THAMA - Topic",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "254284",
+            "view_count": "267383",
             "thumbnail_url": "https://i.ytimg.com/vi/PdZlUGBwaCc/hqdefault.jpg"
         },
         {
@@ -286,7 +340,7 @@
             "channel_name": "프뚜",
             "category": "Gaming",
             "duration": "19:18",
-            "view_count": "284902",
+            "view_count": "289581",
             "thumbnail_url": "https://i.ytimg.com/vi/PpPphkbzMoA/hqdefault.jpg"
         },
         {
@@ -295,44 +349,8 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "4:08",
-            "view_count": "194876",
+            "view_count": "198592",
             "thumbnail_url": "https://i.ytimg.com/vi/ZduEhuyf0YI/hqdefault.jpg"
-        },
-        {
-            "video_id": "JM6uHC9uBRY",
-            "title": "이 닉네임을 보면 놀라지 말고 신고 먼저 누르세요",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "16:57",
-            "view_count": "93247",
-            "thumbnail_url": "https://i.ytimg.com/vi/JM6uHC9uBRY/hqdefault.jpg"
-        },
-        {
-            "video_id": "5DXqEa-7-Wg",
-            "title": "かぐや (cv. 夏吉ゆうこ) & 月見ヤチヨ (cv. 早見沙織) - ray 超かぐや姫！Version / THE FIRST TAKE",
-            "channel_name": "THE FIRST TAKE",
-            "category": "Music",
-            "duration": "5:56",
-            "view_count": "1195147",
-            "thumbnail_url": "https://i.ytimg.com/vi/5DXqEa-7-Wg/hqdefault.jpg"
-        },
-        {
-            "video_id": "beg90UamPy0",
-            "title": "마크 18만 채널 삭제빵 PVP",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "31:14",
-            "view_count": "224583",
-            "thumbnail_url": "https://i.ytimg.com/vi/beg90UamPy0/hqdefault.jpg"
-        },
-        {
-            "video_id": "otcFI6zcp7o",
-            "title": "Into My Life",
-            "channel_name": "JUNNY - Topic",
-            "category": "Music",
-            "duration": "4:04",
-            "view_count": "162398",
-            "thumbnail_url": "https://i.ytimg.com/vi/otcFI6zcp7o/hqdefault.jpg"
         },
         {
             "video_id": "OKUbprmJk30",
@@ -340,26 +358,8 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "17:16",
-            "view_count": "125461",
+            "view_count": "132306",
             "thumbnail_url": "https://i.ytimg.com/vi/OKUbprmJk30/hqdefault.jpg"
-        },
-        {
-            "video_id": "ItckANvdkc4",
-            "title": "this and that (feat. Chang Min Park)",
-            "channel_name": "Cillian - Topic",
-            "category": "Music",
-            "duration": "1:26",
-            "view_count": "10776",
-            "thumbnail_url": "https://i.ytimg.com/vi/ItckANvdkc4/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZY6Wv96K_uo",
-            "title": "죄송합니다, 머리 박겠습니다 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "8:53",
-            "view_count": "128660",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZY6Wv96K_uo/hqdefault.jpg"
         },
         {
             "video_id": "lqD6Z5cpJIg",
@@ -367,17 +367,17 @@
             "channel_name": "Hwang In Wook - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "18492",
+            "view_count": "20752",
             "thumbnail_url": "https://i.ytimg.com/vi/lqD6Z5cpJIg/hqdefault.jpg"
         },
         {
-            "video_id": "Tnlm8TtY1yE",
-            "title": "\"뭐 AP 이즈리얼이 버프됐다고?\" AP 계수 버프 + 스태틱 리워크로 돌아온 \"하이브리드 미드 이즈리얼\" 연구소⚡",
-            "channel_name": "카사딘하는사람",
+            "video_id": "ZY6Wv96K_uo",
+            "title": "죄송합니다, 머리 박겠습니다 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "30:41",
-            "view_count": "92950",
-            "thumbnail_url": "https://i.ytimg.com/vi/Tnlm8TtY1yE/hqdefault.jpg"
+            "duration": "8:53",
+            "view_count": "133457",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZY6Wv96K_uo/hqdefault.jpg"
         }
     ]
 }
