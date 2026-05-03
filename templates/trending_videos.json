@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-04 04:03:53",
+    "scraped_time": "2026-05-04 05:49:03",
     "videos": [
         {
             "video_id": "XDzGoMtSqZA",
@@ -7,8 +7,17 @@
             "channel_name": "ILLIT - Topic",
             "category": "Music",
             "duration": "2:19",
-            "view_count": "1704753",
+            "view_count": "1728905",
             "thumbnail_url": "https://i.ytimg.com/vi/XDzGoMtSqZA/hqdefault.jpg"
+        },
+        {
+            "video_id": "mgFQqUTvqvE",
+            "title": "QUINTESSENCE TRAILER",
+            "channel_name": "TAEYANG",
+            "category": "Music",
+            "duration": "0:42",
+            "view_count": "106150",
+            "thumbnail_url": "https://i.ytimg.com/vi/mgFQqUTvqvE/hqdefault.jpg"
         },
         {
             "video_id": "l6SVl3-X4AQ",
@@ -16,7 +25,7 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "21:06",
-            "view_count": "196532",
+            "view_count": "213184",
             "thumbnail_url": "https://i.ytimg.com/vi/l6SVl3-X4AQ/hqdefault.jpg"
         },
         {
@@ -25,7 +34,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:27",
-            "view_count": "10552294",
+            "view_count": "10619686",
             "thumbnail_url": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg"
         },
         {
@@ -34,7 +43,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "30:35",
-            "view_count": "514673",
+            "view_count": "521352",
             "thumbnail_url": "https://i.ytimg.com/vi/oz4lbrNZnK0/hqdefault.jpg"
         },
         {
@@ -43,7 +52,7 @@
             "channel_name": "LUCY ISLAND",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "2432734",
+            "view_count": "2434416",
             "thumbnail_url": "https://i.ytimg.com/vi/mMr52FVf6qk/hqdefault.jpg"
         },
         {
@@ -52,7 +61,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "43:58",
-            "view_count": "177860",
+            "view_count": "182733",
             "thumbnail_url": "https://i.ytimg.com/vi/lrHbmNL6c2E/hqdefault.jpg"
         },
         {
@@ -61,7 +70,7 @@
             "channel_name": "So Soo Bin - Topic",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "169567",
+            "view_count": "171673",
             "thumbnail_url": "https://i.ytimg.com/vi/iTN61KGaUZA/hqdefault.jpg"
         },
         {
@@ -70,7 +79,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "47:22",
-            "view_count": "833314",
+            "view_count": "838061",
             "thumbnail_url": "https://i.ytimg.com/vi/QE9lQzksCrU/hqdefault.jpg"
         },
         {
@@ -79,26 +88,8 @@
             "channel_name": "GUMMY - 거미",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "41818",
+            "view_count": "42436",
             "thumbnail_url": "https://i.ytimg.com/vi/BjvfZnlQeZs/hqdefault.jpg"
-        },
-        {
-            "video_id": "16_Zpz2QLOI",
-            "title": "학살의 현장에서 피어오른다 [롤토체스]",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "29:21",
-            "view_count": "310665",
-            "thumbnail_url": "https://i.ytimg.com/vi/16_Zpz2QLOI/hqdefault.jpg"
-        },
-        {
-            "video_id": "N8XAKwov7YU",
-            "title": "광고 없이 하루 종일 듣는 발라드 Best 100 ｜ 집중력 UP! 일할 때 듣기 좋은 감성 노래 - 임창정,성시경,더원,백지영,김필,양파,이승기,왁스,김범수,소울스타,원티드",
-            "channel_name": "추억발라드 90~2000",
-            "category": "People & Blogs",
-            "duration": "1:18:36",
-            "view_count": "8072",
-            "thumbnail_url": "https://i.ytimg.com/vi/N8XAKwov7YU/hqdefault.jpg"
         },
         {
             "video_id": "EIm6bN8odac",
@@ -106,26 +97,26 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "10:36",
-            "view_count": "179637",
+            "view_count": "187893",
             "thumbnail_url": "https://i.ytimg.com/vi/EIm6bN8odac/hqdefault.jpg"
         },
         {
-            "video_id": "YOWODrgIiG8",
-            "title": "Living in the same time",
-            "channel_name": "Lee Ye Joon - Topic",
-            "category": "Music",
-            "duration": "4:08",
-            "view_count": "8099",
-            "thumbnail_url": "https://i.ytimg.com/vi/YOWODrgIiG8/hqdefault.jpg"
+            "video_id": "N8XAKwov7YU",
+            "title": "광고 없이 하루 종일 듣는 발라드 Best 100 ｜ 집중력 UP! 일할 때 듣기 좋은 감성 노래 - 임창정,성시경,더원,백지영,김필,양파,이승기,왁스,김범수,소울스타,원티드",
+            "channel_name": "추억발라드 90~2000",
+            "category": "People & Blogs",
+            "duration": "1:18:36",
+            "view_count": "8144",
+            "thumbnail_url": "https://i.ytimg.com/vi/N8XAKwov7YU/hqdefault.jpg"
         },
         {
-            "video_id": "4C4mf_K5MtY",
-            "title": "단 10원만 벌면 되는 타이쿤 맵이라는데...(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
+            "video_id": "16_Zpz2QLOI",
+            "title": "학살의 현장에서 피어오른다 [롤토체스]",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "21:41",
-            "view_count": "188568",
-            "thumbnail_url": "https://i.ytimg.com/vi/4C4mf_K5MtY/hqdefault.jpg"
+            "duration": "29:21",
+            "view_count": "314292",
+            "thumbnail_url": "https://i.ytimg.com/vi/16_Zpz2QLOI/hqdefault.jpg"
         },
         {
             "video_id": "REFB9MM1e-Q",
@@ -133,7 +124,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "20713",
+            "view_count": "22103",
             "thumbnail_url": "https://i.ytimg.com/vi/REFB9MM1e-Q/hqdefault.jpg"
         },
         {
@@ -142,8 +133,26 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "1:07:14",
-            "view_count": "79248",
+            "view_count": "85918",
             "thumbnail_url": "https://i.ytimg.com/vi/ut1_c88CstA/hqdefault.jpg"
+        },
+        {
+            "video_id": "YOWODrgIiG8",
+            "title": "Living in the same time",
+            "channel_name": "Lee Ye Joon - Topic",
+            "category": "Music",
+            "duration": "4:08",
+            "view_count": "8616",
+            "thumbnail_url": "https://i.ytimg.com/vi/YOWODrgIiG8/hqdefault.jpg"
+        },
+        {
+            "video_id": "4C4mf_K5MtY",
+            "title": "단 10원만 벌면 되는 타이쿤 맵이라는데...(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "21:41",
+            "view_count": "190522",
+            "thumbnail_url": "https://i.ytimg.com/vi/4C4mf_K5MtY/hqdefault.jpg"
         },
         {
             "video_id": "DwD0rESvyf0",
@@ -151,7 +160,7 @@
             "channel_name": "Yeso - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "132903",
+            "view_count": "133374",
             "thumbnail_url": "https://i.ytimg.com/vi/DwD0rESvyf0/hqdefault.jpg"
         },
         {
@@ -160,26 +169,8 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "29:28",
-            "view_count": "233997",
+            "view_count": "236465",
             "thumbnail_url": "https://i.ytimg.com/vi/qlOENhUy1S8/hqdefault.jpg"
-        },
-        {
-            "video_id": "1Xyu6LgxORQ",
-            "title": "Bodyelse",
-            "channel_name": "PARK JIHOON - Topic",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "254815",
-            "thumbnail_url": "https://i.ytimg.com/vi/1Xyu6LgxORQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "qd7iryHy7ps",
-            "title": "아무 사건도 없고, 수상한 사람도 없는 시골 마을로 촌캉스 떠나기",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "35:42",
-            "view_count": "223280",
-            "thumbnail_url": "https://i.ytimg.com/vi/qd7iryHy7ps/hqdefault.jpg"
         },
         {
             "video_id": "sB1Mr-eXR3c",
@@ -187,8 +178,44 @@
             "channel_name": "KAWAII LAB.",
             "category": "Entertainment",
             "duration": "4:16",
-            "view_count": "179869",
+            "view_count": "193745",
             "thumbnail_url": "https://i.ytimg.com/vi/sB1Mr-eXR3c/hqdefault.jpg"
+        },
+        {
+            "video_id": "qd7iryHy7ps",
+            "title": "아무 사건도 없고, 수상한 사람도 없는 시골 마을로 촌캉스 떠나기",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "35:42",
+            "view_count": "224545",
+            "thumbnail_url": "https://i.ytimg.com/vi/qd7iryHy7ps/hqdefault.jpg"
+        },
+        {
+            "video_id": "1Xyu6LgxORQ",
+            "title": "Bodyelse",
+            "channel_name": "PARK JIHOON - Topic",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "256634",
+            "thumbnail_url": "https://i.ytimg.com/vi/1Xyu6LgxORQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "DVsESZ8UY2M",
+            "title": "매튜렁의 시련 극복하기",
+            "channel_name": "Official dopa",
+            "category": "Gaming",
+            "duration": "41:48",
+            "view_count": "94340",
+            "thumbnail_url": "https://i.ytimg.com/vi/DVsESZ8UY2M/hqdefault.jpg"
+        },
+        {
+            "video_id": "sHRSiPhOT28",
+            "title": "Billlie | 'WORK' Performance Video",
+            "channel_name": "Billlie",
+            "category": "Entertainment",
+            "duration": "3:08",
+            "view_count": "702107",
+            "thumbnail_url": "https://i.ytimg.com/vi/sHRSiPhOT28/hqdefault.jpg"
         },
         {
             "video_id": "N_KS5YyQ3k0",
@@ -196,7 +223,7 @@
             "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
             "duration": "6:02:53",
-            "view_count": "165622",
+            "view_count": "166503",
             "thumbnail_url": "https://i.ytimg.com/vi/N_KS5YyQ3k0/hqdefault.jpg"
         },
         {
@@ -205,35 +232,17 @@
             "channel_name": "RYU MIN HEE - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "71525",
+            "view_count": "72102",
             "thumbnail_url": "https://i.ytimg.com/vi/ydYrk4QzU8k/hqdefault.jpg"
         },
         {
-            "video_id": "nEr3luWsNSM",
-            "title": "테섭 설거지해적 등장",
-            "channel_name": "레고77",
+            "video_id": "U9lVopysNvg",
+            "title": "일단 돈을 챙겨",
+            "channel_name": "랄로",
             "category": "Gaming",
-            "duration": "22:17",
-            "view_count": "145364",
-            "thumbnail_url": "https://i.ytimg.com/vi/nEr3luWsNSM/hqdefault.jpg"
-        },
-        {
-            "video_id": "sHRSiPhOT28",
-            "title": "Billlie | 'WORK' Performance Video",
-            "channel_name": "Billlie",
-            "category": "Entertainment",
-            "duration": "3:08",
-            "view_count": "692154",
-            "thumbnail_url": "https://i.ytimg.com/vi/sHRSiPhOT28/hqdefault.jpg"
-        },
-        {
-            "video_id": "DVsESZ8UY2M",
-            "title": "매튜렁의 시련 극복하기",
-            "channel_name": "Official dopa",
-            "category": "Gaming",
-            "duration": "41:48",
-            "view_count": "83050",
-            "thumbnail_url": "https://i.ytimg.com/vi/DVsESZ8UY2M/hqdefault.jpg"
+            "duration": "33:46",
+            "view_count": "329456",
+            "thumbnail_url": "https://i.ytimg.com/vi/U9lVopysNvg/hqdefault.jpg"
         },
         {
             "video_id": "sw1YLrdaUnA",
@@ -241,17 +250,17 @@
             "channel_name": "Stray Kids",
             "category": "Music",
             "duration": "4:40",
-            "view_count": "721650",
+            "view_count": "728613",
             "thumbnail_url": "https://i.ytimg.com/vi/sw1YLrdaUnA/hqdefault.jpg"
         },
         {
-            "video_id": "jkfww5YY5wg",
-            "title": "\"사부님 이건 아닌 거 같아요..\" ｜넛저밧 시즌2 중간계전 2부",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "video_id": "nEr3luWsNSM",
+            "title": "테섭 설거지해적 등장",
+            "channel_name": "레고77",
             "category": "Gaming",
-            "duration": "47:08",
-            "view_count": "74994",
-            "thumbnail_url": "https://i.ytimg.com/vi/jkfww5YY5wg/hqdefault.jpg"
+            "duration": "22:17",
+            "view_count": "148411",
+            "thumbnail_url": "https://i.ytimg.com/vi/nEr3luWsNSM/hqdefault.jpg"
         },
         {
             "video_id": "BKxrYqIAJOY",
@@ -259,17 +268,17 @@
             "channel_name": "DAZBEE official",
             "category": "Music",
             "duration": "4:39",
-            "view_count": "150009",
+            "view_count": "151252",
             "thumbnail_url": "https://i.ytimg.com/vi/BKxrYqIAJOY/hqdefault.jpg"
         },
         {
-            "video_id": "tX6jIHI8c0o",
-            "title": "3-2 대격변에서 그레이브즈를 뽑으면 생기는 일",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "jkfww5YY5wg",
+            "title": "\"사부님 이건 아닌 거 같아요..\" ｜넛저밧 시즌2 중간계전 2부",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "18:06",
-            "view_count": "168629",
-            "thumbnail_url": "https://i.ytimg.com/vi/tX6jIHI8c0o/hqdefault.jpg"
+            "duration": "47:08",
+            "view_count": "77835",
+            "thumbnail_url": "https://i.ytimg.com/vi/jkfww5YY5wg/hqdefault.jpg"
         },
         {
             "video_id": "5DXqEa-7-Wg",
@@ -277,7 +286,7 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "5:56",
-            "view_count": "2297477",
+            "view_count": "2311064",
             "thumbnail_url": "https://i.ytimg.com/vi/5DXqEa-7-Wg/hqdefault.jpg"
         },
         {
@@ -286,7 +295,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "57:12",
-            "view_count": "153791",
+            "view_count": "155886",
             "thumbnail_url": "https://i.ytimg.com/vi/hDTLXljR5QY/hqdefault.jpg"
         },
         {
@@ -295,17 +304,17 @@
             "channel_name": "로이킴 Roy Kim",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "35369",
+            "view_count": "35664",
             "thumbnail_url": "https://i.ytimg.com/vi/hXZyPEtRTFQ/hqdefault.jpg"
         },
         {
-            "video_id": "HZUNI3vhvhk",
-            "title": "이런 극악무도한건 도대체 누가 만든거야",
-            "channel_name": "수찬 Suchan",
+            "video_id": "tX6jIHI8c0o",
+            "title": "3-2 대격변에서 그레이브즈를 뽑으면 생기는 일",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "24:41",
-            "view_count": "117066",
-            "thumbnail_url": "https://i.ytimg.com/vi/HZUNI3vhvhk/hqdefault.jpg"
+            "duration": "18:06",
+            "view_count": "170702",
+            "thumbnail_url": "https://i.ytimg.com/vi/tX6jIHI8c0o/hqdefault.jpg"
         },
         {
             "video_id": "vz2mNGpikr4",
@@ -313,17 +322,17 @@
             "channel_name": "Chris Brown - Topic",
             "category": "Music",
             "duration": "4:27",
-            "view_count": "1045501",
+            "view_count": "1067838",
             "thumbnail_url": "https://i.ytimg.com/vi/vz2mNGpikr4/hqdefault.jpg"
         },
         {
-            "video_id": "iuiDkdTH4ZU",
-            "title": "\"문파대전 충격적인 전패..\" 리신만 연습하다 결국 3일 내내 1승도 못한 이상호..!【클상도 시즌4 Ep.10】",
-            "channel_name": "이상호",
+            "video_id": "HZUNI3vhvhk",
+            "title": "이런 극악무도한건 도대체 누가 만든거야",
+            "channel_name": "수찬 Suchan",
             "category": "Gaming",
-            "duration": "22:51",
-            "view_count": "163984",
-            "thumbnail_url": "https://i.ytimg.com/vi/iuiDkdTH4ZU/hqdefault.jpg"
+            "duration": "24:41",
+            "view_count": "118319",
+            "thumbnail_url": "https://i.ytimg.com/vi/HZUNI3vhvhk/hqdefault.jpg"
         },
         {
             "video_id": "L1hB09aCdnI",
@@ -331,26 +340,8 @@
             "channel_name": "Jang Beom June - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "101934",
+            "view_count": "102320",
             "thumbnail_url": "https://i.ytimg.com/vi/L1hB09aCdnI/hqdefault.jpg"
-        },
-        {
-            "video_id": "ItZC6zO_2Wk",
-            "title": "【 탬탬버린 】 - 데뷔 하자마자 회사 망해서 은퇴당했는데 이거 맞아요???",
-            "channel_name": "탬탬버린",
-            "category": "Gaming",
-            "duration": "24:24",
-            "view_count": "99990",
-            "thumbnail_url": "https://i.ytimg.com/vi/ItZC6zO_2Wk/hqdefault.jpg"
-        },
-        {
-            "video_id": "YSBZFVSvqL0",
-            "title": "キャラクターT / 重音テト, 重音テトSV",
-            "channel_name": "Atena",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "93664",
-            "thumbnail_url": "https://i.ytimg.com/vi/YSBZFVSvqL0/hqdefault.jpg"
         },
         {
             "video_id": "R3XS-xSX-Gs",
@@ -358,26 +349,35 @@
             "channel_name": "로자르",
             "category": "Gaming",
             "duration": "15:50",
-            "view_count": "75096",
+            "view_count": "81410",
             "thumbnail_url": "https://i.ytimg.com/vi/R3XS-xSX-Gs/hqdefault.jpg"
         },
         {
-            "video_id": "lqD6Z5cpJIg",
-            "title": "The girl who resembles you (feat. Ha Yea Song)",
-            "channel_name": "Hwang In Wook - Topic",
+            "video_id": "YSBZFVSvqL0",
+            "title": "キャラクターT / 重音テト, 重音テトSV",
+            "channel_name": "Atena",
             "category": "Music",
-            "duration": "3:10",
-            "view_count": "39903",
-            "thumbnail_url": "https://i.ytimg.com/vi/lqD6Z5cpJIg/hqdefault.jpg"
+            "duration": "3:01",
+            "view_count": "107307",
+            "thumbnail_url": "https://i.ytimg.com/vi/YSBZFVSvqL0/hqdefault.jpg"
         },
         {
-            "video_id": "y1TwNhANocI",
-            "title": "와 진짜 슛똘똘이 역대급 재앙 나타났습니다 ㅡㅡ;;;",
-            "channel_name": "유봉훈",
+            "video_id": "ItZC6zO_2Wk",
+            "title": "【 탬탬버린 】 - 데뷔 하자마자 회사 망해서 은퇴당했는데 이거 맞아요???",
+            "channel_name": "탬탬버린",
             "category": "Gaming",
-            "duration": "18:32",
-            "view_count": "66429",
-            "thumbnail_url": "https://i.ytimg.com/vi/y1TwNhANocI/hqdefault.jpg"
+            "duration": "24:24",
+            "view_count": "104170",
+            "thumbnail_url": "https://i.ytimg.com/vi/ItZC6zO_2Wk/hqdefault.jpg"
+        },
+        {
+            "video_id": "iuiDkdTH4ZU",
+            "title": "\"문파대전 충격적인 전패..\" 리신만 연습하다 결국 3일 내내 1승도 못한 이상호..!【클상도 시즌4 Ep.10】",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "22:51",
+            "view_count": "164904",
+            "thumbnail_url": "https://i.ytimg.com/vi/iuiDkdTH4ZU/hqdefault.jpg"
         }
     ]
 }
