@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-03 08:49:31",
+    "scraped_time": "2026-05-03 12:32:55",
     "videos": [
         {
             "video_id": "XDzGoMtSqZA",
@@ -7,26 +7,8 @@
             "channel_name": "ILLIT - Topic",
             "category": "Music",
             "duration": "2:19",
-            "view_count": "1287233",
+            "view_count": "1339900",
             "thumbnail_url": "https://i.ytimg.com/vi/XDzGoMtSqZA/hqdefault.jpg"
-        },
-        {
-            "video_id": "QE9lQzksCrU",
-            "title": "🎁어린이날 특집🎁 혜안져스 친구들~ 덕몽어스 할래??",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "47:22",
-            "view_count": "632161",
-            "thumbnail_url": "https://i.ytimg.com/vi/QE9lQzksCrU/hqdefault.jpg"
-        },
-        {
-            "video_id": "bMhDJ0S0OBA",
-            "title": "ILLIT (아일릿) ‘It’s Me’ Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "2:27",
-            "view_count": "9598572",
-            "thumbnail_url": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg"
         },
         {
             "video_id": "oz4lbrNZnK0",
@@ -34,8 +16,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "30:35",
-            "view_count": "284414",
+            "view_count": "340747",
             "thumbnail_url": "https://i.ytimg.com/vi/oz4lbrNZnK0/hqdefault.jpg"
+        },
+        {
+            "video_id": "bMhDJ0S0OBA",
+            "title": "ILLIT (아일릿) ‘It’s Me’ Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "2:27",
+            "view_count": "9749439",
+            "thumbnail_url": "https://i.ytimg.com/vi/bMhDJ0S0OBA/hqdefault.jpg"
+        },
+        {
+            "video_id": "QE9lQzksCrU",
+            "title": "🎁어린이날 특집🎁 혜안져스 친구들~ 덕몽어스 할래??",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "47:22",
+            "view_count": "657000",
+            "thumbnail_url": "https://i.ytimg.com/vi/QE9lQzksCrU/hqdefault.jpg"
         },
         {
             "video_id": "mMr52FVf6qk",
@@ -43,7 +43,7 @@
             "channel_name": "LUCY ISLAND",
             "category": "Entertainment",
             "duration": "3:35",
-            "view_count": "2331973",
+            "view_count": "2354218",
             "thumbnail_url": "https://i.ytimg.com/vi/mMr52FVf6qk/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "29:21",
-            "view_count": "213359",
+            "view_count": "232589",
             "thumbnail_url": "https://i.ytimg.com/vi/16_Zpz2QLOI/hqdefault.jpg"
         },
         {
@@ -61,26 +61,8 @@
             "channel_name": "So Soo Bin - Topic",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "101611",
+            "view_count": "112692",
             "thumbnail_url": "https://i.ytimg.com/vi/iTN61KGaUZA/hqdefault.jpg"
-        },
-        {
-            "video_id": "w38Qtt4tqxw",
-            "title": "??? : 초면에 죄송한데 12연패만 하겠습니다",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "18:16",
-            "view_count": "354904",
-            "thumbnail_url": "https://i.ytimg.com/vi/w38Qtt4tqxw/hqdefault.jpg"
-        },
-        {
-            "video_id": "sw1YLrdaUnA",
-            "title": "Seungmin \"급류(Into The Current)\" | [Stray Kids : SKZ-RECORD]",
-            "channel_name": "Stray Kids",
-            "category": "Music",
-            "duration": "4:40",
-            "view_count": "628480",
-            "thumbnail_url": "https://i.ytimg.com/vi/sw1YLrdaUnA/hqdefault.jpg"
         },
         {
             "video_id": "qlOENhUy1S8",
@@ -88,7 +70,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "29:28",
-            "view_count": "161509",
+            "view_count": "175770",
             "thumbnail_url": "https://i.ytimg.com/vi/qlOENhUy1S8/hqdefault.jpg"
         },
         {
@@ -97,7 +79,7 @@
             "channel_name": "Yeso - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "106588",
+            "view_count": "108529",
             "thumbnail_url": "https://i.ytimg.com/vi/DwD0rESvyf0/hqdefault.jpg"
         },
         {
@@ -106,8 +88,26 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "21:41",
-            "view_count": "96717",
+            "view_count": "116721",
             "thumbnail_url": "https://i.ytimg.com/vi/4C4mf_K5MtY/hqdefault.jpg"
+        },
+        {
+            "video_id": "sw1YLrdaUnA",
+            "title": "Seungmin \"급류(Into The Current)\" | [Stray Kids : SKZ-RECORD]",
+            "channel_name": "Stray Kids",
+            "category": "Music",
+            "duration": "4:40",
+            "view_count": "650065",
+            "thumbnail_url": "https://i.ytimg.com/vi/sw1YLrdaUnA/hqdefault.jpg"
+        },
+        {
+            "video_id": "w38Qtt4tqxw",
+            "title": "??? : 초면에 죄송한데 12연패만 하겠습니다",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "18:16",
+            "view_count": "363721",
+            "thumbnail_url": "https://i.ytimg.com/vi/w38Qtt4tqxw/hqdefault.jpg"
         },
         {
             "video_id": "1Xyu6LgxORQ",
@@ -115,7 +115,7 @@
             "channel_name": "PARK JIHOON - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "209035",
+            "view_count": "214232",
             "thumbnail_url": "https://i.ytimg.com/vi/1Xyu6LgxORQ/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "35:42",
-            "view_count": "136275",
+            "view_count": "150040",
             "thumbnail_url": "https://i.ytimg.com/vi/qd7iryHy7ps/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "RYU MIN HEE - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "56293",
+            "view_count": "57803",
             "thumbnail_url": "https://i.ytimg.com/vi/ydYrk4QzU8k/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "18:06",
-            "view_count": "114225",
+            "view_count": "126925",
             "thumbnail_url": "https://i.ytimg.com/vi/tX6jIHI8c0o/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "Chris Brown - Topic",
             "category": "Music",
             "duration": "4:27",
-            "view_count": "817263",
+            "view_count": "875426",
             "thumbnail_url": "https://i.ytimg.com/vi/vz2mNGpikr4/hqdefault.jpg"
         },
         {
@@ -160,44 +160,8 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "39:41",
-            "view_count": "108244",
+            "view_count": "120423",
             "thumbnail_url": "https://i.ytimg.com/vi/dCn7Ko_K9-U/hqdefault.jpg"
-        },
-        {
-            "video_id": "BKxrYqIAJOY",
-            "title": "염라(Karma) (달의하루)／다즈비 COVER",
-            "channel_name": "DAZBEE official",
-            "category": "Music",
-            "duration": "4:39",
-            "view_count": "115024",
-            "thumbnail_url": "https://i.ytimg.com/vi/BKxrYqIAJOY/hqdefault.jpg"
-        },
-        {
-            "video_id": "jphrITR-1rs",
-            "title": "먹는 내내 게임얘기만 하는 롤대남들 단체 회식",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "18:26",
-            "view_count": "224858",
-            "thumbnail_url": "https://i.ytimg.com/vi/jphrITR-1rs/hqdefault.jpg"
-        },
-        {
-            "video_id": "5DXqEa-7-Wg",
-            "title": "かぐや (cv. 夏吉ゆうこ) & 月見ヤチヨ (cv. 早見沙織) - ray 超かぐや姫！Version / THE FIRST TAKE",
-            "channel_name": "THE FIRST TAKE",
-            "category": "Music",
-            "duration": "5:56",
-            "view_count": "1865693",
-            "thumbnail_url": "https://i.ytimg.com/vi/5DXqEa-7-Wg/hqdefault.jpg"
-        },
-        {
-            "video_id": "u5tOA-pJ_J8",
-            "title": "전섭 최초로 오만의 원죄를 먹었습니다!!! [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "9:28",
-            "view_count": "187491",
-            "thumbnail_url": "https://i.ytimg.com/vi/u5tOA-pJ_J8/hqdefault.jpg"
         },
         {
             "video_id": "sHRSiPhOT28",
@@ -205,7 +169,7 @@
             "channel_name": "Billlie",
             "category": "Entertainment",
             "duration": "3:08",
-            "view_count": "464076",
+            "view_count": "502212",
             "thumbnail_url": "https://i.ytimg.com/vi/sHRSiPhOT28/hqdefault.jpg"
         },
         {
@@ -214,35 +178,35 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "22:51",
-            "view_count": "121570",
+            "view_count": "130580",
             "thumbnail_url": "https://i.ytimg.com/vi/iuiDkdTH4ZU/hqdefault.jpg"
         },
         {
-            "video_id": "-SEKt_0pdHM",
-            "title": "NMIXX(엔믹스) “Crescendo” M/V",
-            "channel_name": "JYP Entertainment",
+            "video_id": "BKxrYqIAJOY",
+            "title": "염라(Karma) (달의하루)／다즈비 COVER",
+            "channel_name": "DAZBEE official",
             "category": "Music",
-            "duration": "2:46",
-            "view_count": "2314206",
-            "thumbnail_url": "https://i.ytimg.com/vi/-SEKt_0pdHM/hqdefault.jpg"
+            "duration": "4:39",
+            "view_count": "120259",
+            "thumbnail_url": "https://i.ytimg.com/vi/BKxrYqIAJOY/hqdefault.jpg"
         },
         {
-            "video_id": "D0zxbgSvs7M",
-            "title": "T1 vs FS / NS vs GE - VCT 퍼시픽 - 스테이지 1 - 그룹 스테이지 -  Day 14",
-            "channel_name": "발로란트 챔피언스 투어",
+            "video_id": "u5tOA-pJ_J8",
+            "title": "전섭 최초로 오만의 원죄를 먹었습니다!!! [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "7:19:19",
-            "view_count": "184135",
-            "thumbnail_url": "https://i.ytimg.com/vi/D0zxbgSvs7M/hqdefault.jpg"
+            "duration": "9:28",
+            "view_count": "203118",
+            "thumbnail_url": "https://i.ytimg.com/vi/u5tOA-pJ_J8/hqdefault.jpg"
         },
         {
-            "video_id": "ItckANvdkc4",
-            "title": "this and that (feat. Chang Min Park)",
-            "channel_name": "Cillian - Topic",
+            "video_id": "5DXqEa-7-Wg",
+            "title": "かぐや (cv. 夏吉ゆうこ) & 月見ヤチヨ (cv. 早見沙織) - ray 超かぐや姫！Version / THE FIRST TAKE",
+            "channel_name": "THE FIRST TAKE",
             "category": "Music",
-            "duration": "1:26",
-            "view_count": "23434",
-            "thumbnail_url": "https://i.ytimg.com/vi/ItckANvdkc4/hqdefault.jpg"
+            "duration": "5:56",
+            "view_count": "1935136",
+            "thumbnail_url": "https://i.ytimg.com/vi/5DXqEa-7-Wg/hqdefault.jpg"
         },
         {
             "video_id": "HZUNI3vhvhk",
@@ -250,8 +214,26 @@
             "channel_name": "수찬 Suchan",
             "category": "Gaming",
             "duration": "24:41",
-            "view_count": "77954",
+            "view_count": "87576",
             "thumbnail_url": "https://i.ytimg.com/vi/HZUNI3vhvhk/hqdefault.jpg"
+        },
+        {
+            "video_id": "-SEKt_0pdHM",
+            "title": "NMIXX(엔믹스) “Crescendo” M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "2:46",
+            "view_count": "2335356",
+            "thumbnail_url": "https://i.ytimg.com/vi/-SEKt_0pdHM/hqdefault.jpg"
+        },
+        {
+            "video_id": "jphrITR-1rs",
+            "title": "먹는 내내 게임얘기만 하는 롤대남들 단체 회식",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "18:26",
+            "view_count": "229131",
+            "thumbnail_url": "https://i.ytimg.com/vi/jphrITR-1rs/hqdefault.jpg"
         },
         {
             "video_id": "L1hB09aCdnI",
@@ -259,35 +241,35 @@
             "channel_name": "Jang Beom June - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "79459",
+            "view_count": "82194",
             "thumbnail_url": "https://i.ytimg.com/vi/L1hB09aCdnI/hqdefault.jpg"
         },
         {
-            "video_id": "xzf-14khwaQ",
-            "title": "최후의 만찬",
-            "channel_name": "클리드",
+            "video_id": "UCiQgHsY8lg",
+            "title": "리니지클래식 똘끼 스턴중개방송..? 왜저한테 이걸..강제방송 [피닉스 클리어 연합분들 고생하셧습니다]",
+            "channel_name": "똘끼100%",
             "category": "Gaming",
-            "duration": "48:25",
-            "view_count": "189625",
-            "thumbnail_url": "https://i.ytimg.com/vi/xzf-14khwaQ/hqdefault.jpg"
+            "duration": "2:24:44",
+            "view_count": "110787",
+            "thumbnail_url": "https://i.ytimg.com/vi/UCiQgHsY8lg/hqdefault.jpg"
         },
         {
-            "video_id": "uXgk1YLRIN0",
-            "title": "CEREMONY",
-            "channel_name": "QWER - Topic",
+            "video_id": "ItckANvdkc4",
+            "title": "this and that (feat. Chang Min Park)",
+            "channel_name": "Cillian - Topic",
             "category": "Music",
-            "duration": "3:17",
-            "view_count": "906879",
-            "thumbnail_url": "https://i.ytimg.com/vi/uXgk1YLRIN0/hqdefault.jpg"
+            "duration": "1:26",
+            "view_count": "24567",
+            "thumbnail_url": "https://i.ytimg.com/vi/ItckANvdkc4/hqdefault.jpg"
         },
         {
-            "video_id": "hKFptzVRqPg",
-            "title": "음... 이 정도면 좋은데?🤔│HLE vs T1│2026 LCK│울챔스 하이라이트",
-            "channel_name": "Wolf",
+            "video_id": "D0zxbgSvs7M",
+            "title": "T1 vs FS / NS vs GE - VCT 퍼시픽 - 스테이지 1 - 그룹 스테이지 -  Day 14",
+            "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
-            "duration": "1:13:33",
-            "view_count": "120540",
-            "thumbnail_url": "https://i.ytimg.com/vi/hKFptzVRqPg/hqdefault.jpg"
+            "duration": "7:19:19",
+            "view_count": "184285",
+            "thumbnail_url": "https://i.ytimg.com/vi/D0zxbgSvs7M/hqdefault.jpg"
         },
         {
             "video_id": "hXZyPEtRTFQ",
@@ -295,17 +277,53 @@
             "channel_name": "로이킴 Roy Kim",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "25229",
+            "view_count": "26828",
             "thumbnail_url": "https://i.ytimg.com/vi/hXZyPEtRTFQ/hqdefault.jpg"
         },
         {
-            "video_id": "FetHctxmwd4",
-            "title": "똘끼 리니지클래식  기습방송 안킬수가없다 최초의 파이어스톰 만만군주님 감사합니다 만만업!",
-            "channel_name": "똘끼100%",
+            "video_id": "xzf-14khwaQ",
+            "title": "최후의 만찬",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "6:39:44",
-            "view_count": "189036",
-            "thumbnail_url": "https://i.ytimg.com/vi/FetHctxmwd4/hqdefault.jpg"
+            "duration": "48:25",
+            "view_count": "192193",
+            "thumbnail_url": "https://i.ytimg.com/vi/xzf-14khwaQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "yJ8UcYFiDvs",
+            "title": "千葉雄喜(Yuki Chiba), Lil Moshpit, Sik-K, BLASÉ, RYUL of LNGSHOT, Jay Park ― アニョハセヨ (Korean Remix)",
+            "channel_name": "千葉 雄喜 / Yuki Chiba",
+            "category": "Music",
+            "duration": "3:55",
+            "view_count": "263920",
+            "thumbnail_url": "https://i.ytimg.com/vi/yJ8UcYFiDvs/hqdefault.jpg"
+        },
+        {
+            "video_id": "hKFptzVRqPg",
+            "title": "음... 이 정도면 좋은데?🤔│HLE vs T1│2026 LCK│울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "1:13:33",
+            "view_count": "126408",
+            "thumbnail_url": "https://i.ytimg.com/vi/hKFptzVRqPg/hqdefault.jpg"
+        },
+        {
+            "video_id": "uXgk1YLRIN0",
+            "title": "CEREMONY",
+            "channel_name": "QWER - Topic",
+            "category": "Music",
+            "duration": "3:17",
+            "view_count": "922378",
+            "thumbnail_url": "https://i.ytimg.com/vi/uXgk1YLRIN0/hqdefault.jpg"
+        },
+        {
+            "video_id": "vjrc68lPbO4",
+            "title": "리니지 클래식 / 전섭에서 하나 밖에 없는 1억짜리 아이템 보더니 망구랑의 반응이 역대급 ㅋㅋㅋ",
+            "channel_name": "빅보스",
+            "category": "Gaming",
+            "duration": "10:16",
+            "view_count": "122432",
+            "thumbnail_url": "https://i.ytimg.com/vi/vjrc68lPbO4/hqdefault.jpg"
         },
         {
             "video_id": "ryXexZJE2FY",
@@ -313,7 +331,7 @@
             "channel_name": "LEE CHAEYEON - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "116789",
+            "view_count": "119322",
             "thumbnail_url": "https://i.ytimg.com/vi/ryXexZJE2FY/hqdefault.jpg"
         },
         {
@@ -322,7 +340,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "26:28",
-            "view_count": "558897",
+            "view_count": "563639",
             "thumbnail_url": "https://i.ytimg.com/vi/vuDy7WQmUuo/hqdefault.jpg"
         },
         {
@@ -331,53 +349,35 @@
             "channel_name": "NMIXX",
             "category": "Entertainment",
             "duration": "2:48",
-            "view_count": "437964",
+            "view_count": "441921",
             "thumbnail_url": "https://i.ytimg.com/vi/IwCbh2fCrOg/hqdefault.jpg"
         },
         {
-            "video_id": "Eh3E_CqvF24",
-            "title": "[빅보스 5. 2 ] 리니지 클래식 : 9강부는 처음이지 ?? (조우가 요즘 그렇게 핫하데요!)",
-            "channel_name": "빅보스",
+            "video_id": "rz1ZchAeVkU",
+            "title": "HLE vs T1 | 매치 46 하이라이트 | 2026 LCK",
+            "channel_name": "LCK",
             "category": "Gaming",
-            "duration": "5:11:36",
-            "view_count": "86017",
-            "thumbnail_url": "https://i.ytimg.com/vi/Eh3E_CqvF24/hqdefault.jpg"
+            "duration": "56:15",
+            "view_count": "91861",
+            "thumbnail_url": "https://i.ytimg.com/vi/rz1ZchAeVkU/hqdefault.jpg"
         },
         {
-            "video_id": "yJ8UcYFiDvs",
-            "title": "千葉雄喜(Yuki Chiba), Lil Moshpit, Sik-K, BLASÉ, RYUL of LNGSHOT, Jay Park ― アニョハセヨ (Korean Remix)",
-            "channel_name": "千葉 雄喜 / Yuki Chiba",
+            "video_id": "PdZlUGBwaCc",
+            "title": "Shooting Star",
+            "channel_name": "THAMA - Topic",
             "category": "Music",
-            "duration": "3:55",
-            "view_count": "250316",
-            "thumbnail_url": "https://i.ytimg.com/vi/yJ8UcYFiDvs/hqdefault.jpg"
+            "duration": "3:43",
+            "view_count": "330601",
+            "thumbnail_url": "https://i.ytimg.com/vi/PdZlUGBwaCc/hqdefault.jpg"
         },
         {
-            "video_id": "_0Qkgj0ullw",
-            "title": "GEN vs DK - KRX vs NS | 2026 LCK",
-            "channel_name": "LCK Global",
+            "video_id": "XTuzbHcTWnA",
+            "title": "옛날메이플 그저 섭 최초로 뇌전수리검을 던지고 싶었습니다..  [플래닛서버]",
+            "channel_name": "글자네",
             "category": "Gaming",
-            "duration": "5:45:45",
-            "view_count": "720096",
-            "thumbnail_url": "https://i.ytimg.com/vi/_0Qkgj0ullw/hqdefault.jpg"
-        },
-        {
-            "video_id": "oXjeVDyKyZg",
-            "title": "TWS (투어스) '널 따라가 (You, You)' Dance Practice (Fix ver.)",
-            "channel_name": "TWS",
-            "category": "Music",
-            "duration": "2:53",
-            "view_count": "34935",
-            "thumbnail_url": "https://i.ytimg.com/vi/oXjeVDyKyZg/hqdefault.jpg"
-        },
-        {
-            "video_id": "1WmCotHEpUg",
-            "title": "프로 중에서도 S급 콜 능력을 가진 넛신의 미친 설계｜넛저밧 시즌2 천상계전 2부",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "1:11:53",
-            "view_count": "122192",
-            "thumbnail_url": "https://i.ytimg.com/vi/1WmCotHEpUg/hqdefault.jpg"
+            "duration": "12:44",
+            "view_count": "75536",
+            "thumbnail_url": "https://i.ytimg.com/vi/XTuzbHcTWnA/hqdefault.jpg"
         }
     ]
 }
