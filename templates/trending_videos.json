@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-10 12:35:51",
+    "scraped_time": "2026-05-10 15:34:46",
     "videos": [
         {
             "video_id": "08g-oAALjFE",
@@ -7,7 +7,7 @@
             "channel_name": "Pateko - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "87092",
+            "view_count": "109244",
             "thumbnail_url": "https://i.ytimg.com/vi/08g-oAALjFE/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "기묘한 케이지",
             "category": "Film & Animation",
             "duration": "19:32",
-            "view_count": "39059",
+            "view_count": "43164",
             "thumbnail_url": "https://i.ytimg.com/vi/T1fl-g5ym-0/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:48",
-            "view_count": "394539",
+            "view_count": "443280",
             "thumbnail_url": "https://i.ytimg.com/vi/UZrXcJfCGIk/hqdefault.jpg"
         },
         {
-            "video_id": "XkkEM40VwFo",
-            "title": "BewhY (비와이) - SOUTHSIDE FREESTYLE (Official Video)",
-            "channel_name": "BewhY",
+            "video_id": "vviU2vsSe5M",
+            "title": "If You Were My World",
+            "channel_name": "SAM KIM - Topic",
             "category": "Music",
-            "duration": "2:54",
-            "view_count": "145848",
-            "thumbnail_url": "https://i.ytimg.com/vi/XkkEM40VwFo/hqdefault.jpg"
+            "duration": "3:18",
+            "view_count": "135188",
+            "thumbnail_url": "https://i.ytimg.com/vi/vviU2vsSe5M/hqdefault.jpg"
         },
         {
             "video_id": "FJ7uhPAAno8",
@@ -43,7 +43,7 @@
             "channel_name": "쇼박스 SHOWBOX",
             "category": "Film & Animation",
             "duration": "1:04",
-            "view_count": "300991",
+            "view_count": "334361",
             "thumbnail_url": "https://i.ytimg.com/vi/FJ7uhPAAno8/hqdefault.jpg"
         },
         {
@@ -52,17 +52,17 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "14:33",
-            "view_count": "219755",
+            "view_count": "240931",
             "thumbnail_url": "https://i.ytimg.com/vi/99CWkua9RI0/hqdefault.jpg"
         },
         {
-            "video_id": "vviU2vsSe5M",
-            "title": "If You Were My World",
-            "channel_name": "SAM KIM - Topic",
+            "video_id": "XkkEM40VwFo",
+            "title": "BewhY (비와이) - SOUTHSIDE FREESTYLE (Official Video)",
+            "channel_name": "BewhY",
             "category": "Music",
-            "duration": "3:18",
-            "view_count": "122118",
-            "thumbnail_url": "https://i.ytimg.com/vi/vviU2vsSe5M/hqdefault.jpg"
+            "duration": "2:54",
+            "view_count": "152577",
+            "thumbnail_url": "https://i.ytimg.com/vi/XkkEM40VwFo/hqdefault.jpg"
         },
         {
             "video_id": "w8_6jiTGqmw",
@@ -70,7 +70,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:21",
-            "view_count": "502431",
+            "view_count": "512184",
             "thumbnail_url": "https://i.ytimg.com/vi/w8_6jiTGqmw/hqdefault.jpg"
         },
         {
@@ -79,17 +79,17 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "38:36",
-            "view_count": "232243",
+            "view_count": "252796",
             "thumbnail_url": "https://i.ytimg.com/vi/B9_9lTvNLLw/hqdefault.jpg"
         },
         {
-            "video_id": "q0zsU2pUNg8",
-            "title": "Aftertaste (from Original Motion Picture Soundtrack K-POPS!)",
-            "channel_name": "DEAN - Topic",
+            "video_id": "rS0GPI-9kt8",
+            "title": "[어버이주일 찬송모음] 사철에 봄바람 불어잇고 | 이 몸의 소망 무언가 | 찬송가 연속듣기 | 유튜브 최고의 찬송가 시리즈 | 중간광고없음 | 어머니의 넓은 사랑 | Hymn",
+            "channel_name": "praiseON 프레이즈온",
             "category": "Music",
-            "duration": "3:04",
-            "view_count": "120515",
-            "thumbnail_url": "https://i.ytimg.com/vi/q0zsU2pUNg8/hqdefault.jpg"
+            "duration": "2:00:04",
+            "view_count": "12892",
+            "thumbnail_url": "https://i.ytimg.com/vi/rS0GPI-9kt8/hqdefault.jpg"
         },
         {
             "video_id": "fgFSqxSTBRs",
@@ -97,8 +97,26 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "9:27:06",
-            "view_count": "309922",
+            "view_count": "314014",
             "thumbnail_url": "https://i.ytimg.com/vi/fgFSqxSTBRs/hqdefault.jpg"
+        },
+        {
+            "video_id": "q0zsU2pUNg8",
+            "title": "Aftertaste (from Original Motion Picture Soundtrack K-POPS!)",
+            "channel_name": "DEAN - Topic",
+            "category": "Music",
+            "duration": "3:04",
+            "view_count": "127616",
+            "thumbnail_url": "https://i.ytimg.com/vi/q0zsU2pUNg8/hqdefault.jpg"
+        },
+        {
+            "video_id": "nPxqtdAVDME",
+            "title": "10년만에 다시 만난 그 녀석과 가출한 아기 동물 구출 대작전!",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "34:15",
+            "view_count": "278570",
+            "thumbnail_url": "https://i.ytimg.com/vi/nPxqtdAVDME/hqdefault.jpg"
         },
         {
             "video_id": "tq_ib_0t-cs",
@@ -106,7 +124,7 @@
             "channel_name": "Kid Milli - Topic",
             "category": "Music",
             "duration": "2:17",
-            "view_count": "49951",
+            "view_count": "54812",
             "thumbnail_url": "https://i.ytimg.com/vi/tq_ib_0t-cs/hqdefault.jpg"
         },
         {
@@ -115,44 +133,8 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "21:33",
-            "view_count": "601764",
+            "view_count": "616956",
             "thumbnail_url": "https://i.ytimg.com/vi/RuYWl5uauPg/hqdefault.jpg"
-        },
-        {
-            "video_id": "rS0GPI-9kt8",
-            "title": "[어버이주일 찬송모음] 사철에 봄바람 불어잇고 | 이 몸의 소망 무언가 | 찬송가 연속듣기 | 유튜브 최고의 찬송가 시리즈 | 중간광고없음 | 어머니의 넓은 사랑 | Hymn",
-            "channel_name": "praiseON 프레이즈온",
-            "category": "Music",
-            "duration": "2:00:04",
-            "view_count": "9458",
-            "thumbnail_url": "https://i.ytimg.com/vi/rS0GPI-9kt8/hqdefault.jpg"
-        },
-        {
-            "video_id": "nPxqtdAVDME",
-            "title": "10년만에 다시 만난 그 녀석과 가출한 아기 동물 구출 대작전!",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "34:15",
-            "view_count": "249318",
-            "thumbnail_url": "https://i.ytimg.com/vi/nPxqtdAVDME/hqdefault.jpg"
-        },
-        {
-            "video_id": "F0UIsSnotlA",
-            "title": "HAN \"back to life\" | [Stray Kids : SKZ-PLAYER]",
-            "channel_name": "Stray Kids",
-            "category": "Music",
-            "duration": "4:20",
-            "view_count": "1699391",
-            "thumbnail_url": "https://i.ytimg.com/vi/F0UIsSnotlA/hqdefault.jpg"
-        },
-        {
-            "video_id": "erosQwrOCEM",
-            "title": "공포의 아오오니",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "22:06",
-            "view_count": "207670",
-            "thumbnail_url": "https://i.ytimg.com/vi/erosQwrOCEM/hqdefault.jpg"
         },
         {
             "video_id": "1auIMcXD_ok",
@@ -160,8 +142,26 @@
             "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
             "duration": "4:17",
-            "view_count": "48803",
+            "view_count": "55548",
             "thumbnail_url": "https://i.ytimg.com/vi/1auIMcXD_ok/hqdefault.jpg"
+        },
+        {
+            "video_id": "erosQwrOCEM",
+            "title": "공포의 아오오니",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "22:06",
+            "view_count": "228822",
+            "thumbnail_url": "https://i.ytimg.com/vi/erosQwrOCEM/hqdefault.jpg"
+        },
+        {
+            "video_id": "F0UIsSnotlA",
+            "title": "HAN \"back to life\" | [Stray Kids : SKZ-PLAYER]",
+            "channel_name": "Stray Kids",
+            "category": "Music",
+            "duration": "4:20",
+            "view_count": "1755694",
+            "thumbnail_url": "https://i.ytimg.com/vi/F0UIsSnotlA/hqdefault.jpg"
         },
         {
             "video_id": "yNA3XXbSV9c",
@@ -169,80 +169,8 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "22:18",
-            "view_count": "166193",
+            "view_count": "179841",
             "thumbnail_url": "https://i.ytimg.com/vi/yNA3XXbSV9c/hqdefault.jpg"
-        },
-        {
-            "video_id": "e2KAMzli7wo",
-            "title": "Boys And Girls (Feat. INFINITE)",
-            "channel_name": "Nam Woo Hyun - Topic",
-            "category": "Music",
-            "duration": "4:00",
-            "view_count": "18937",
-            "thumbnail_url": "https://i.ytimg.com/vi/e2KAMzli7wo/hqdefault.jpg"
-        },
-        {
-            "video_id": "TlbANF14aWk",
-            "title": "리니지 클래식 화둥특공대 대모집 !! 5랩 요정법사 환영",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "7:35:06",
-            "view_count": "146797",
-            "thumbnail_url": "https://i.ytimg.com/vi/TlbANF14aWk/hqdefault.jpg"
-        },
-        {
-            "video_id": "yAHHXCKYW90",
-            "title": "Stuck (Feat. Yerin Baek)",
-            "channel_name": "Coogie - Topic",
-            "category": "Music",
-            "duration": "2:48",
-            "view_count": "231314",
-            "thumbnail_url": "https://i.ytimg.com/vi/yAHHXCKYW90/hqdefault.jpg"
-        },
-        {
-            "video_id": "Wzd_5DqhcME",
-            "title": "이제 롤 접으려고 합니다",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "17:48",
-            "view_count": "237114",
-            "thumbnail_url": "https://i.ytimg.com/vi/Wzd_5DqhcME/hqdefault.jpg"
-        },
-        {
-            "video_id": "Zae9tJyV-J4",
-            "title": "Airplane",
-            "channel_name": "HANHAE - Topic",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "55309",
-            "thumbnail_url": "https://i.ytimg.com/vi/Zae9tJyV-J4/hqdefault.jpg"
-        },
-        {
-            "video_id": "fJCsjpHLhrE",
-            "title": "7살 연상 백곰파의 플러팅에 정신 못차리는 배그 1위출신 유튜버..",
-            "channel_name": "김블루",
-            "category": "Gaming",
-            "duration": "15:39",
-            "view_count": "159058",
-            "thumbnail_url": "https://i.ytimg.com/vi/fJCsjpHLhrE/hqdefault.jpg"
-        },
-        {
-            "video_id": "9vf02wxH4DI",
-            "title": "한해, 문세윤 - 비행기(Airplane) (feat. 츄 (CHUU))ㅣHANHAE, Moon Se Yoonㅣ야외녹음실ㅣBeyond the StudioㅣLIVE",
-            "channel_name": "1theK Live - 원더케이 라이브",
-            "category": "Music",
-            "duration": "4:30",
-            "view_count": "170239",
-            "thumbnail_url": "https://i.ytimg.com/vi/9vf02wxH4DI/hqdefault.jpg"
-        },
-        {
-            "video_id": "3xRWEnfo9Qg",
-            "title": "지금부터 정당방위다",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "32:47",
-            "view_count": "118144",
-            "thumbnail_url": "https://i.ytimg.com/vi/3xRWEnfo9Qg/hqdefault.jpg"
         },
         {
             "video_id": "Ntd2dzI4TLY",
@@ -250,8 +178,80 @@
             "channel_name": "BE'O - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "34525",
+            "view_count": "43243",
             "thumbnail_url": "https://i.ytimg.com/vi/Ntd2dzI4TLY/hqdefault.jpg"
+        },
+        {
+            "video_id": "Wzd_5DqhcME",
+            "title": "이제 롤 접으려고 합니다",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "17:48",
+            "view_count": "268639",
+            "thumbnail_url": "https://i.ytimg.com/vi/Wzd_5DqhcME/hqdefault.jpg"
+        },
+        {
+            "video_id": "e2KAMzli7wo",
+            "title": "Boys And Girls (Feat. INFINITE)",
+            "channel_name": "Nam Woo Hyun - Topic",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "22899",
+            "thumbnail_url": "https://i.ytimg.com/vi/e2KAMzli7wo/hqdefault.jpg"
+        },
+        {
+            "video_id": "fJCsjpHLhrE",
+            "title": "7살 연상 백곰파의 플러팅에 정신 못차리는 배그 1위출신 유튜버..",
+            "channel_name": "김블루",
+            "category": "Gaming",
+            "duration": "15:39",
+            "view_count": "178813",
+            "thumbnail_url": "https://i.ytimg.com/vi/fJCsjpHLhrE/hqdefault.jpg"
+        },
+        {
+            "video_id": "Zae9tJyV-J4",
+            "title": "Airplane",
+            "channel_name": "HANHAE - Topic",
+            "category": "Music",
+            "duration": "3:31",
+            "view_count": "64820",
+            "thumbnail_url": "https://i.ytimg.com/vi/Zae9tJyV-J4/hqdefault.jpg"
+        },
+        {
+            "video_id": "TlbANF14aWk",
+            "title": "리니지 클래식 화둥특공대 대모집 !! 5랩 요정법사 환영",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "7:35:06",
+            "view_count": "152224",
+            "thumbnail_url": "https://i.ytimg.com/vi/TlbANF14aWk/hqdefault.jpg"
+        },
+        {
+            "video_id": "CdT4w-E4pqc",
+            "title": "옛날 노래 베스트 #트로트 #인기트로트 #트로트모음 #트로트듣기 🌻 누구나 좋아하는 최고의 인기트로트 40곡 🌻 흘러간 옛노래 뽕짝 메들리 가사 포함",
+            "channel_name": "SonicVista",
+            "category": "Music",
+            "duration": "1:15:01",
+            "view_count": "5760",
+            "thumbnail_url": "https://i.ytimg.com/vi/CdT4w-E4pqc/hqdefault.jpg"
+        },
+        {
+            "video_id": "3xRWEnfo9Qg",
+            "title": "지금부터 정당방위다",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "32:47",
+            "view_count": "128808",
+            "thumbnail_url": "https://i.ytimg.com/vi/3xRWEnfo9Qg/hqdefault.jpg"
+        },
+        {
+            "video_id": "9vf02wxH4DI",
+            "title": "한해, 문세윤 - 비행기(Airplane) (feat. 츄 (CHUU))ㅣHANHAE, Moon Se Yoonㅣ야외녹음실ㅣBeyond the StudioㅣLIVE",
+            "channel_name": "1theK Live - 원더케이 라이브",
+            "category": "Music",
+            "duration": "4:30",
+            "view_count": "182746",
+            "thumbnail_url": "https://i.ytimg.com/vi/9vf02wxH4DI/hqdefault.jpg"
         },
         {
             "video_id": "Io8tpWsklbU",
@@ -259,8 +259,26 @@
             "channel_name": "수찬 Suchan",
             "category": "Gaming",
             "duration": "14:25",
-            "view_count": "114161",
+            "view_count": "128735",
             "thumbnail_url": "https://i.ytimg.com/vi/Io8tpWsklbU/hqdefault.jpg"
+        },
+        {
+            "video_id": "yAHHXCKYW90",
+            "title": "Stuck (Feat. Yerin Baek)",
+            "channel_name": "Coogie - Topic",
+            "category": "Music",
+            "duration": "2:48",
+            "view_count": "239457",
+            "thumbnail_url": "https://i.ytimg.com/vi/yAHHXCKYW90/hqdefault.jpg"
+        },
+        {
+            "video_id": "5WazQSHgsAg",
+            "title": "싹 다 암별로 보내줄게",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "14:17",
+            "view_count": "126595",
+            "thumbnail_url": "https://i.ytimg.com/vi/5WazQSHgsAg/hqdefault.jpg"
         },
         {
             "video_id": "YBeWbO46Gtw",
@@ -268,7 +286,7 @@
             "channel_name": "레코드 속 추억",
             "category": "People & Blogs",
             "duration": "1:18:10",
-            "view_count": "39605",
+            "view_count": "42226",
             "thumbnail_url": "https://i.ytimg.com/vi/YBeWbO46Gtw/hqdefault.jpg"
         },
         {
@@ -277,7 +295,7 @@
             "channel_name": "피넛",
             "category": "Gaming",
             "duration": "37:20",
-            "view_count": "89155",
+            "view_count": "100349",
             "thumbnail_url": "https://i.ytimg.com/vi/-NV-9FAMk70/hqdefault.jpg"
         },
         {
@@ -286,17 +304,17 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "765",
+            "view_count": "802",
             "thumbnail_url": "https://i.ytimg.com/vi/ti-xzUbSzT0/hqdefault.jpg"
         },
         {
-            "video_id": "5WazQSHgsAg",
-            "title": "싹 다 암별로 보내줄게",
-            "channel_name": "잡상싱",
+            "video_id": "FESI1LXGC50",
+            "title": "유튜브에 안 올리고 쌓아뒀던 \"배그 모음집\" 이제 공개합니다.",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "14:17",
-            "view_count": "109401",
-            "thumbnail_url": "https://i.ytimg.com/vi/5WazQSHgsAg/hqdefault.jpg"
+            "duration": "20:25",
+            "view_count": "142094",
+            "thumbnail_url": "https://i.ytimg.com/vi/FESI1LXGC50/hqdefault.jpg"
         },
         {
             "video_id": "lOpdrEgmYzY",
@@ -304,7 +322,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:23",
-            "view_count": "2711270",
+            "view_count": "2812294",
             "thumbnail_url": "https://i.ytimg.com/vi/lOpdrEgmYzY/hqdefault.jpg"
         },
         {
@@ -313,7 +331,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "16:12",
-            "view_count": "149563",
+            "view_count": "160302",
             "thumbnail_url": "https://i.ytimg.com/vi/genxVbR8hWc/hqdefault.jpg"
         },
         {
@@ -322,44 +340,26 @@
             "channel_name": "ILLIT",
             "category": "Music",
             "duration": "2:24",
-            "view_count": "772807",
+            "view_count": "793732",
             "thumbnail_url": "https://i.ytimg.com/vi/LM875jeR-PM/hqdefault.jpg"
         },
         {
-            "video_id": "FESI1LXGC50",
-            "title": "유튜브에 안 올리고 쌓아뒀던 \"배그 모음집\" 이제 공개합니다.",
-            "channel_name": "혜안",
+            "video_id": "M7fLebmE9KE",
+            "title": "기본으로 돌아가기 l 딮터뷰 vs KT 2R",
+            "channel_name": "Dplus Kia",
             "category": "Gaming",
-            "duration": "20:25",
-            "view_count": "122918",
-            "thumbnail_url": "https://i.ytimg.com/vi/FESI1LXGC50/hqdefault.jpg"
+            "duration": "10:28",
+            "view_count": "94300",
+            "thumbnail_url": "https://i.ytimg.com/vi/M7fLebmE9KE/hqdefault.jpg"
         },
         {
-            "video_id": "sSVUfJt-uec",
-            "title": "WORK",
-            "channel_name": "Billlie - Topic",
+            "video_id": "rp8A0Bk9R5g",
+            "title": "Just One",
+            "channel_name": "Jang Minho - Topic",
             "category": "Music",
-            "duration": "2:57",
-            "view_count": "289836",
-            "thumbnail_url": "https://i.ytimg.com/vi/sSVUfJt-uec/hqdefault.jpg"
-        },
-        {
-            "video_id": "1_6s7NicsqM",
-            "title": "대한민국 최고의 마크 유튜버는 누구인가?",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "20:56",
-            "view_count": "382501",
-            "thumbnail_url": "https://i.ytimg.com/vi/1_6s7NicsqM/hqdefault.jpg"
-        },
-        {
-            "video_id": "tD9N1BhSrCI",
-            "title": "To You, My Light",
-            "channel_name": "StelLive - Topic",
-            "category": "Music",
-            "duration": "3:41",
-            "view_count": "39124",
-            "thumbnail_url": "https://i.ytimg.com/vi/tD9N1BhSrCI/hqdefault.jpg"
+            "duration": "4:03",
+            "view_count": "10779",
+            "thumbnail_url": "https://i.ytimg.com/vi/rp8A0Bk9R5g/hqdefault.jpg"
         },
         {
             "video_id": "BrIyrh9bu24",
@@ -367,17 +367,17 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "23:38",
-            "view_count": "102599",
+            "view_count": "111374",
             "thumbnail_url": "https://i.ytimg.com/vi/BrIyrh9bu24/hqdefault.jpg"
         },
         {
-            "video_id": "ywxIFZBTsCE",
-            "title": "DEAN, Anderson .Paak - Aftertaste (from Original Motion Picture Soundtrack K-POPS!)",
-            "channel_name": "AndersonPaakVEVO",
+            "video_id": "tD9N1BhSrCI",
+            "title": "To You, My Light",
+            "channel_name": "StelLive - Topic",
             "category": "Music",
-            "duration": "3:03",
-            "view_count": "183747",
-            "thumbnail_url": "https://i.ytimg.com/vi/ywxIFZBTsCE/hqdefault.jpg"
+            "duration": "3:41",
+            "view_count": "42080",
+            "thumbnail_url": "https://i.ytimg.com/vi/tD9N1BhSrCI/hqdefault.jpg"
         }
     ]
 }
