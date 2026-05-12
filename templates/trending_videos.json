@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-13 01:20:12",
+    "scraped_time": "2026-05-13 03:57:37",
     "videos": [
         {
             "video_id": "iTJSbJtS8MU",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "9923522",
+            "view_count": "10128196",
             "thumbnail_url": "https://i.ytimg.com/vi/iTJSbJtS8MU/hqdefault.jpg"
         },
         {
@@ -16,17 +16,17 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "12:33",
-            "view_count": "215893",
+            "view_count": "221309",
             "thumbnail_url": "https://i.ytimg.com/vi/AftHLRU3_ls/hqdefault.jpg"
         },
         {
-            "video_id": "cfDNcgLQ3JE",
-            "title": "썬천재들이 집착하는 인방전사가 되었다 (현금 120만원 망토)",
-            "channel_name": "동수칸TV",
+            "video_id": "EySM1snCYd8",
+            "title": "마지심슨형 원딜러",
+            "channel_name": "랄로",
             "category": "Gaming",
-            "duration": "43:37",
-            "view_count": "231998",
-            "thumbnail_url": "https://i.ytimg.com/vi/cfDNcgLQ3JE/hqdefault.jpg"
+            "duration": "29:10",
+            "view_count": "307049",
+            "thumbnail_url": "https://i.ytimg.com/vi/EySM1snCYd8/hqdefault.jpg"
         },
         {
             "video_id": "hGqYdubpcCM",
@@ -34,7 +34,7 @@
             "channel_name": "NMIXX - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "664712",
+            "view_count": "710418",
             "thumbnail_url": "https://i.ytimg.com/vi/hGqYdubpcCM/hqdefault.jpg"
         },
         {
@@ -43,17 +43,17 @@
             "channel_name": "롯데엔터테인먼트",
             "category": "Film & Animation",
             "duration": "1:25",
-            "view_count": "241933",
+            "view_count": "250153",
             "thumbnail_url": "https://i.ytimg.com/vi/zAI1f8FuMc0/hqdefault.jpg"
         },
         {
-            "video_id": "EySM1snCYd8",
-            "title": "마지심슨형 원딜러",
-            "channel_name": "랄로",
+            "video_id": "cfDNcgLQ3JE",
+            "title": "썬천재들이 집착하는 인방전사가 되었다 (현금 120만원 망토)",
+            "channel_name": "동수칸TV",
             "category": "Gaming",
-            "duration": "29:10",
-            "view_count": "235250",
-            "thumbnail_url": "https://i.ytimg.com/vi/EySM1snCYd8/hqdefault.jpg"
+            "duration": "43:37",
+            "view_count": "265952",
+            "thumbnail_url": "https://i.ytimg.com/vi/cfDNcgLQ3JE/hqdefault.jpg"
         },
         {
             "video_id": "ZAsxW7bkK-A",
@@ -61,7 +61,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "980939",
+            "view_count": "1018120",
             "thumbnail_url": "https://i.ytimg.com/vi/ZAsxW7bkK-A/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "8:11",
-            "view_count": "69875",
+            "view_count": "71803",
             "thumbnail_url": "https://i.ytimg.com/vi/OOKm6Ko1w_0/hqdefault.jpg"
-        },
-        {
-            "video_id": "V19dRi4W0c4",
-            "title": "[LIVE] 5월 12일 아이온2 업데이트 프리뷰 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "1:10:35",
-            "view_count": "139932",
-            "thumbnail_url": "https://i.ytimg.com/vi/V19dRi4W0c4/hqdefault.jpg"
-        },
-        {
-            "video_id": "6Ycn9qZK09I",
-            "title": "NMIXX(엔믹스) “Heavy Serenade” M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "6578052",
-            "thumbnail_url": "https://i.ytimg.com/vi/6Ycn9qZK09I/hqdefault.jpg"
         },
         {
             "video_id": "_cfCJC8ZaIg",
@@ -97,8 +79,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "1:04:04",
-            "view_count": "149697",
+            "view_count": "170365",
             "thumbnail_url": "https://i.ytimg.com/vi/_cfCJC8ZaIg/hqdefault.jpg"
+        },
+        {
+            "video_id": "6Ycn9qZK09I",
+            "title": "NMIXX(엔믹스) “Heavy Serenade” M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "7064127",
+            "thumbnail_url": "https://i.ytimg.com/vi/6Ycn9qZK09I/hqdefault.jpg"
+        },
+        {
+            "video_id": "V19dRi4W0c4",
+            "title": "[LIVE] 5월 12일 아이온2 업데이트 프리뷰 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "1:10:35",
+            "view_count": "146375",
+            "thumbnail_url": "https://i.ytimg.com/vi/V19dRi4W0c4/hqdefault.jpg"
         },
         {
             "video_id": "WxGWMI2B7r8",
@@ -106,17 +106,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "3152977",
+            "view_count": "3195287",
             "thumbnail_url": "https://i.ytimg.com/vi/WxGWMI2B7r8/hqdefault.jpg"
         },
         {
-            "video_id": "tIkMD4RUbKw",
-            "title": "옛날메이플(플래닛) : 전문기술 이전에 메이커가 있었다 [팡이요,  메이플스토리:플래닛]",
-            "channel_name": "팡이요",
+            "video_id": "WZVHDyyULR4",
+            "title": "망구 디펜스",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "14:57",
-            "view_count": "308725",
-            "thumbnail_url": "https://i.ytimg.com/vi/tIkMD4RUbKw/hqdefault.jpg"
+            "duration": "19:00",
+            "view_count": "169691",
+            "thumbnail_url": "https://i.ytimg.com/vi/WZVHDyyULR4/hqdefault.jpg"
         },
         {
             "video_id": "kmTZv6dxmDE",
@@ -124,17 +124,17 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "2:36",
-            "view_count": "230108",
+            "view_count": "243665",
             "thumbnail_url": "https://i.ytimg.com/vi/kmTZv6dxmDE/hqdefault.jpg"
         },
         {
-            "video_id": "WnUX-1hgces",
-            "title": "빌드 안 보여줬는데 눈치채는 이영호..? [ASL 시즌21 4강 B조 이재호vs이영호 2경기]",
-            "channel_name": "도멘TV [DOTUBE]",
+            "video_id": "tIkMD4RUbKw",
+            "title": "옛날메이플(플래닛) : 전문기술 이전에 메이커가 있었다 [팡이요,  메이플스토리:플래닛]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "9:00",
-            "view_count": "47044",
-            "thumbnail_url": "https://i.ytimg.com/vi/WnUX-1hgces/hqdefault.jpg"
+            "duration": "14:57",
+            "view_count": "314973",
+            "thumbnail_url": "https://i.ytimg.com/vi/tIkMD4RUbKw/hqdefault.jpg"
         },
         {
             "video_id": "AK9trg_zHJk",
@@ -142,17 +142,35 @@
             "channel_name": "MINGI(ATEEZ) - Topic",
             "category": "Music",
             "duration": "2:28",
-            "view_count": "109143",
+            "view_count": "112264",
             "thumbnail_url": "https://i.ytimg.com/vi/AK9trg_zHJk/hqdefault.jpg"
         },
         {
-            "video_id": "JKddx421x_I",
-            "title": "괴물쥐의 역작",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "WnUX-1hgces",
+            "title": "빌드 안 보여줬는데 눈치채는 이영호..? [ASL 시즌21 4강 B조 이재호vs이영호 2경기]",
+            "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
-            "duration": "28:35",
-            "view_count": "615792",
-            "thumbnail_url": "https://i.ytimg.com/vi/JKddx421x_I/hqdefault.jpg"
+            "duration": "9:00",
+            "view_count": "58329",
+            "thumbnail_url": "https://i.ytimg.com/vi/WnUX-1hgces/hqdefault.jpg"
+        },
+        {
+            "video_id": "ICOB_gz4k6E",
+            "title": "Yarrr",
+            "channel_name": "HAON - Topic",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "43159",
+            "thumbnail_url": "https://i.ytimg.com/vi/ICOB_gz4k6E/hqdefault.jpg"
+        },
+        {
+            "video_id": "G9hspO1aGbE",
+            "title": "압도적 1위면서 자기가 게임을 잘하는줄도 몰랐던 유저들",
+            "channel_name": "청원이",
+            "category": "Gaming",
+            "duration": "8:38",
+            "view_count": "195580",
+            "thumbnail_url": "https://i.ytimg.com/vi/G9hspO1aGbE/hqdefault.jpg"
         },
         {
             "video_id": "NBuzGh5Yxb4",
@@ -160,7 +178,7 @@
             "channel_name": "Rain - Topic",
             "category": "Music",
             "duration": "3:17",
-            "view_count": "62652",
+            "view_count": "63780",
             "thumbnail_url": "https://i.ytimg.com/vi/NBuzGh5Yxb4/hqdefault.jpg"
         },
         {
@@ -169,26 +187,8 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "36:05",
-            "view_count": "100991",
+            "view_count": "112750",
             "thumbnail_url": "https://i.ytimg.com/vi/8Nsy0vI_czE/hqdefault.jpg"
-        },
-        {
-            "video_id": "ICOB_gz4k6E",
-            "title": "Yarrr",
-            "channel_name": "HAON - Topic",
-            "category": "Music",
-            "duration": "2:47",
-            "view_count": "32978",
-            "thumbnail_url": "https://i.ytimg.com/vi/ICOB_gz4k6E/hqdefault.jpg"
-        },
-        {
-            "video_id": "rKJDguhDX6Y",
-            "title": "혼자 감당하기엔 너무 무거운 사람..",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "30:20",
-            "view_count": "201124",
-            "thumbnail_url": "https://i.ytimg.com/vi/rKJDguhDX6Y/hqdefault.jpg"
         },
         {
             "video_id": "XpYe35qf_iI",
@@ -196,80 +196,8 @@
             "channel_name": "Damons Year - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "91890",
+            "view_count": "95445",
             "thumbnail_url": "https://i.ytimg.com/vi/XpYe35qf_iI/hqdefault.jpg"
-        },
-        {
-            "video_id": "G9hspO1aGbE",
-            "title": "압도적 1위면서 자기가 게임을 잘하는줄도 몰랐던 유저들",
-            "channel_name": "청원이",
-            "category": "Gaming",
-            "duration": "8:38",
-            "view_count": "125715",
-            "thumbnail_url": "https://i.ytimg.com/vi/G9hspO1aGbE/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZVP9W2IOMBw",
-            "title": "소문의 낙원 Paradise of Rumors",
-            "channel_name": "7SETION - Topic",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "69276",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZVP9W2IOMBw/hqdefault.jpg"
-        },
-        {
-            "video_id": "8xqFMOWrNa8",
-            "title": "[LIVE] 리니지M '스탠바이M - 아덴 사생대회'",
-            "channel_name": "Lineage M",
-            "category": "Gaming",
-            "duration": "3:07:39",
-            "view_count": "154756",
-            "thumbnail_url": "https://i.ytimg.com/vi/8xqFMOWrNa8/hqdefault.jpg"
-        },
-        {
-            "video_id": "eKuzq2AOvFM",
-            "title": "Starlight",
-            "channel_name": "FTISLAND - Topic",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "84026",
-            "thumbnail_url": "https://i.ytimg.com/vi/eKuzq2AOvFM/hqdefault.jpg"
-        },
-        {
-            "video_id": "Xhe_JNYDz8Y",
-            "title": "중격변 패치 체험기",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "26:06",
-            "view_count": "421190",
-            "thumbnail_url": "https://i.ytimg.com/vi/Xhe_JNYDz8Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "08g-oAALjFE",
-            "title": "Rest Stop",
-            "channel_name": "PATEKO - Topic",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "331447",
-            "thumbnail_url": "https://i.ytimg.com/vi/08g-oAALjFE/hqdefault.jpg"
-        },
-        {
-            "video_id": "PphcRI45-IU",
-            "title": "쉽지않은 뉴 클순이 등장",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "43:30",
-            "view_count": "177020",
-            "thumbnail_url": "https://i.ytimg.com/vi/PphcRI45-IU/hqdefault.jpg"
-        },
-        {
-            "video_id": "aBtRTBVggUM",
-            "title": "Listen To My Soul(마음이 들리니)",
-            "channel_name": "DOYOUNG - Topic",
-            "category": "Music",
-            "duration": "3:22",
-            "view_count": "42638",
-            "thumbnail_url": "https://i.ytimg.com/vi/aBtRTBVggUM/hqdefault.jpg"
         },
         {
             "video_id": "_dczvBef5WE",
@@ -277,17 +205,35 @@
             "channel_name": "글자네",
             "category": "Gaming",
             "duration": "14:25",
-            "view_count": "95050",
+            "view_count": "116176",
             "thumbnail_url": "https://i.ytimg.com/vi/_dczvBef5WE/hqdefault.jpg"
         },
         {
-            "video_id": "vviU2vsSe5M",
-            "title": "If You Were My World",
-            "channel_name": "Sam Kim - Topic",
+            "video_id": "ZVP9W2IOMBw",
+            "title": "소문의 낙원 Paradise of Rumors",
+            "channel_name": "7SETION - Topic",
             "category": "Music",
-            "duration": "3:18",
-            "view_count": "402152",
-            "thumbnail_url": "https://i.ytimg.com/vi/vviU2vsSe5M/hqdefault.jpg"
+            "duration": "3:32",
+            "view_count": "69324",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZVP9W2IOMBw/hqdefault.jpg"
+        },
+        {
+            "video_id": "rKJDguhDX6Y",
+            "title": "혼자 감당하기엔 너무 무거운 사람..",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "30:20",
+            "view_count": "203907",
+            "thumbnail_url": "https://i.ytimg.com/vi/rKJDguhDX6Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "eKuzq2AOvFM",
+            "title": "Starlight",
+            "channel_name": "FTISLAND - Topic",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "84619",
+            "thumbnail_url": "https://i.ytimg.com/vi/eKuzq2AOvFM/hqdefault.jpg"
         },
         {
             "video_id": "fquFwmsPbO4",
@@ -295,8 +241,62 @@
             "channel_name": "찬해",
             "category": "Gaming",
             "duration": "19:59",
-            "view_count": "78748",
+            "view_count": "86591",
             "thumbnail_url": "https://i.ytimg.com/vi/fquFwmsPbO4/hqdefault.jpg"
+        },
+        {
+            "video_id": "08g-oAALjFE",
+            "title": "Rest Stop",
+            "channel_name": "PATEKO - Topic",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "334432",
+            "thumbnail_url": "https://i.ytimg.com/vi/08g-oAALjFE/hqdefault.jpg"
+        },
+        {
+            "video_id": "Xhe_JNYDz8Y",
+            "title": "중격변 패치 체험기",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "26:06",
+            "view_count": "425047",
+            "thumbnail_url": "https://i.ytimg.com/vi/Xhe_JNYDz8Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "aBtRTBVggUM",
+            "title": "Listen To My Soul(마음이 들리니)",
+            "channel_name": "DOYOUNG - Topic",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "43906",
+            "thumbnail_url": "https://i.ytimg.com/vi/aBtRTBVggUM/hqdefault.jpg"
+        },
+        {
+            "video_id": "wus189wa4HE",
+            "title": "리워크 벼폭검 사이온 상대로 티모를 하면 생기는 일 😇",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "24:55",
+            "view_count": "77302",
+            "thumbnail_url": "https://i.ytimg.com/vi/wus189wa4HE/hqdefault.jpg"
+        },
+        {
+            "video_id": "vviU2vsSe5M",
+            "title": "If You Were My World",
+            "channel_name": "Sam Kim - Topic",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "407614",
+            "thumbnail_url": "https://i.ytimg.com/vi/vviU2vsSe5M/hqdefault.jpg"
+        },
+        {
+            "video_id": "8xqFMOWrNa8",
+            "title": "[LIVE] 리니지M '스탠바이M - 아덴 사생대회'",
+            "channel_name": "Lineage M",
+            "category": "Gaming",
+            "duration": "3:07:39",
+            "view_count": "154931",
+            "thumbnail_url": "https://i.ytimg.com/vi/8xqFMOWrNa8/hqdefault.jpg"
         },
         {
             "video_id": "8WOomEEjkB0",
@@ -304,17 +304,17 @@
             "channel_name": "Xdinary Heroes",
             "category": "Music",
             "duration": "3:42",
-            "view_count": "82740",
+            "view_count": "84633",
             "thumbnail_url": "https://i.ytimg.com/vi/8WOomEEjkB0/hqdefault.jpg"
         },
         {
-            "video_id": "zmt-dT7garg",
-            "title": "서커스를 시작해볼까 | T1 vs DK 게임 2 하이라이트 | 2026 LCK",
-            "channel_name": "LCK",
+            "video_id": "PphcRI45-IU",
+            "title": "쉽지않은 뉴 클순이 등장",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "13:10",
-            "view_count": "200462",
-            "thumbnail_url": "https://i.ytimg.com/vi/zmt-dT7garg/hqdefault.jpg"
+            "duration": "43:30",
+            "view_count": "179960",
+            "thumbnail_url": "https://i.ytimg.com/vi/PphcRI45-IU/hqdefault.jpg"
         },
         {
             "video_id": "ss7LkAPk12k",
@@ -326,13 +326,13 @@
             "thumbnail_url": "https://i.ytimg.com/vi/ss7LkAPk12k/hqdefault.jpg"
         },
         {
-            "video_id": "Oahhnlljbgg",
-            "title": "이것도 너프해 보시지😈│T1 vs DK│2026 LCK│울챔스 하이라이트",
-            "channel_name": "Wolf",
+            "video_id": "IpoVFIWhx40",
+            "title": "빅토르 장인",
+            "channel_name": "Official dopa",
             "category": "Gaming",
-            "duration": "51:32",
-            "view_count": "199863",
-            "thumbnail_url": "https://i.ytimg.com/vi/Oahhnlljbgg/hqdefault.jpg"
+            "duration": "26:01",
+            "view_count": "86054",
+            "thumbnail_url": "https://i.ytimg.com/vi/IpoVFIWhx40/hqdefault.jpg"
         },
         {
             "video_id": "IGSbUuIBQBo",
@@ -340,17 +340,17 @@
             "channel_name": "김희재 HEEJAE",
             "category": "People & Blogs",
             "duration": "4:02",
-            "view_count": "5976",
+            "view_count": "6923",
             "thumbnail_url": "https://i.ytimg.com/vi/IGSbUuIBQBo/hqdefault.jpg"
         },
         {
-            "video_id": "zxpCjVZ57TA",
-            "title": "소재 미쳤다...리뷰 320개가 전부 극찬인 ※지하철 공포게임※",
-            "channel_name": "혜안",
+            "video_id": "rcMtcFztpZc",
+            "title": "2-1 시균, 계패 스타트를 하면 생기는 일",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "35:32",
-            "view_count": "172981",
-            "thumbnail_url": "https://i.ytimg.com/vi/zxpCjVZ57TA/hqdefault.jpg"
+            "duration": "13:05",
+            "view_count": "84064",
+            "thumbnail_url": "https://i.ytimg.com/vi/rcMtcFztpZc/hqdefault.jpg"
         },
         {
             "video_id": "V9XViEe7KMc",
@@ -358,17 +358,17 @@
             "channel_name": "LEE YEEUN - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "25401",
+            "view_count": "26162",
             "thumbnail_url": "https://i.ytimg.com/vi/V9XViEe7KMc/hqdefault.jpg"
         },
         {
-            "video_id": "LUgf18_ANlY",
-            "title": "\"독뎀이 2배\" 신규 룬 죽음불꽃 손길로 떡상한 \"탑 오버파밍 신지드 전략\" 🧪🔥",
-            "channel_name": "전략적죽음",
+            "video_id": "zmt-dT7garg",
+            "title": "서커스를 시작해볼까 | T1 vs DK 게임 2 하이라이트 | 2026 LCK",
+            "channel_name": "LCK",
             "category": "Gaming",
-            "duration": "30:00",
-            "view_count": "151129",
-            "thumbnail_url": "https://i.ytimg.com/vi/LUgf18_ANlY/hqdefault.jpg"
+            "duration": "13:10",
+            "view_count": "205473",
+            "thumbnail_url": "https://i.ytimg.com/vi/zmt-dT7garg/hqdefault.jpg"
         },
         {
             "video_id": "Q3IFskpsvfU",
@@ -376,7 +376,7 @@
             "channel_name": "BewhY - Topic",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "133374",
+            "view_count": "135795",
             "thumbnail_url": "https://i.ytimg.com/vi/Q3IFskpsvfU/hqdefault.jpg"
         }
     ]
