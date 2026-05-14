@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-15 02:53:57",
+    "scraped_time": "2026-05-15 04:49:32",
     "videos": [
         {
             "video_id": "hGqYdubpcCM",
@@ -7,7 +7,7 @@
             "channel_name": "NMIXX - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "1688977",
+            "view_count": "1703901",
             "thumbnail_url": "https://i.ytimg.com/vi/hGqYdubpcCM/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "12:33",
-            "view_count": "257999",
+            "view_count": "259222",
             "thumbnail_url": "https://i.ytimg.com/vi/AftHLRU3_ls/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "13:27",
-            "view_count": "214301",
+            "view_count": "236146",
             "thumbnail_url": "https://i.ytimg.com/vi/ho3ROUI-ryc/hqdefault.jpg"
         },
         {
@@ -34,8 +34,17 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "1950218",
+            "view_count": "1969647",
             "thumbnail_url": "https://i.ytimg.com/vi/ZAsxW7bkK-A/hqdefault.jpg"
+        },
+        {
+            "video_id": "mPQK8TG80II",
+            "title": "호러무비 [짱구는 못말려: 아미고] 예고편",
+            "channel_name": "고뚜기",
+            "category": "Music",
+            "duration": "1:08",
+            "view_count": "53996",
+            "thumbnail_url": "https://i.ytimg.com/vi/mPQK8TG80II/hqdefault.jpg"
         },
         {
             "video_id": "Q7hR6Iib6SU",
@@ -43,7 +52,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "6:05:03",
-            "view_count": "430061",
+            "view_count": "431829",
             "thumbnail_url": "https://i.ytimg.com/vi/Q7hR6Iib6SU/hqdefault.jpg"
         },
         {
@@ -52,7 +61,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "11913233",
+            "view_count": "11969895",
             "thumbnail_url": "https://i.ytimg.com/vi/iTJSbJtS8MU/hqdefault.jpg"
         },
         {
@@ -61,7 +70,7 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "24:06",
-            "view_count": "219789",
+            "view_count": "235400",
             "thumbnail_url": "https://i.ytimg.com/vi/e9SpD4r6J4Q/hqdefault.jpg"
         },
         {
@@ -70,26 +79,8 @@
             "channel_name": "JINYOUNG - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "136993",
+            "view_count": "139003",
             "thumbnail_url": "https://i.ytimg.com/vi/x8fOG6EZuiI/hqdefault.jpg"
-        },
-        {
-            "video_id": "lft5NQ8NzZw",
-            "title": "한타의 제왕",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "27:40",
-            "view_count": "351431",
-            "thumbnail_url": "https://i.ytimg.com/vi/lft5NQ8NzZw/hqdefault.jpg"
-        },
-        {
-            "video_id": "6Ycn9qZK09I",
-            "title": "NMIXX(엔믹스) “Heavy Serenade” M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "15855179",
-            "thumbnail_url": "https://i.ytimg.com/vi/6Ycn9qZK09I/hqdefault.jpg"
         },
         {
             "video_id": "HJR6zhW2FQA",
@@ -97,8 +88,26 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "2:01:14",
-            "view_count": "156554",
+            "view_count": "161483",
             "thumbnail_url": "https://i.ytimg.com/vi/HJR6zhW2FQA/hqdefault.jpg"
+        },
+        {
+            "video_id": "6Ycn9qZK09I",
+            "title": "NMIXX(엔믹스) “Heavy Serenade” M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "16212728",
+            "thumbnail_url": "https://i.ytimg.com/vi/6Ycn9qZK09I/hqdefault.jpg"
+        },
+        {
+            "video_id": "lft5NQ8NzZw",
+            "title": "한타의 제왕",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "27:40",
+            "view_count": "358242",
+            "thumbnail_url": "https://i.ytimg.com/vi/lft5NQ8NzZw/hqdefault.jpg"
         },
         {
             "video_id": "JGH-ik-qq-E",
@@ -106,7 +115,7 @@
             "channel_name": "woo!ah! - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "104658",
+            "view_count": "107019",
             "thumbnail_url": "https://i.ytimg.com/vi/JGH-ik-qq-E/hqdefault.jpg"
         },
         {
@@ -115,7 +124,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "45:39",
-            "view_count": "184727",
+            "view_count": "190224",
             "thumbnail_url": "https://i.ytimg.com/vi/oi1Gv4rqu8A/hqdefault.jpg"
         },
         {
@@ -124,44 +133,8 @@
             "channel_name": "Sukwon Yoon - Topic",
             "category": "Music",
             "duration": "2:18",
-            "view_count": "31628",
+            "view_count": "32188",
             "thumbnail_url": "https://i.ytimg.com/vi/m1dhAHSi8FE/hqdefault.jpg"
-        },
-        {
-            "video_id": "XLuuoWZrvXY",
-            "title": "나 라이즈인데? | T1 vs NS | 2026 LCK",
-            "channel_name": "Untara",
-            "category": "Gaming",
-            "duration": "34:52",
-            "view_count": "229583",
-            "thumbnail_url": "https://i.ytimg.com/vi/XLuuoWZrvXY/hqdefault.jpg"
-        },
-        {
-            "video_id": "kmTZv6dxmDE",
-            "title": "ddok ddok ddok",
-            "channel_name": "BOYNEXTDOOR - Topic",
-            "category": "Music",
-            "duration": "2:36",
-            "view_count": "566658",
-            "thumbnail_url": "https://i.ytimg.com/vi/kmTZv6dxmDE/hqdefault.jpg"
-        },
-        {
-            "video_id": "NVX57aLkbiI",
-            "title": "돌아온 폐급과 폐차",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "23:23",
-            "view_count": "140839",
-            "thumbnail_url": "https://i.ytimg.com/vi/NVX57aLkbiI/hqdefault.jpg"
-        },
-        {
-            "video_id": "ICOB_gz4k6E",
-            "title": "Yarrr",
-            "channel_name": "HAON - Topic",
-            "category": "Music",
-            "duration": "2:47",
-            "view_count": "210082",
-            "thumbnail_url": "https://i.ytimg.com/vi/ICOB_gz4k6E/hqdefault.jpg"
         },
         {
             "video_id": "I_ZSkLOra9k",
@@ -169,8 +142,44 @@
             "channel_name": "채널 명예훈장",
             "category": "Gaming",
             "duration": "27:28",
-            "view_count": "78656",
+            "view_count": "95876",
             "thumbnail_url": "https://i.ytimg.com/vi/I_ZSkLOra9k/hqdefault.jpg"
+        },
+        {
+            "video_id": "kmTZv6dxmDE",
+            "title": "ddok ddok ddok",
+            "channel_name": "BOYNEXTDOOR - Topic",
+            "category": "Music",
+            "duration": "2:36",
+            "view_count": "572992",
+            "thumbnail_url": "https://i.ytimg.com/vi/kmTZv6dxmDE/hqdefault.jpg"
+        },
+        {
+            "video_id": "XLuuoWZrvXY",
+            "title": "나 라이즈인데? | T1 vs NS | 2026 LCK",
+            "channel_name": "Untara",
+            "category": "Gaming",
+            "duration": "34:52",
+            "view_count": "231371",
+            "thumbnail_url": "https://i.ytimg.com/vi/XLuuoWZrvXY/hqdefault.jpg"
+        },
+        {
+            "video_id": "ICOB_gz4k6E",
+            "title": "Yarrr",
+            "channel_name": "HAON - Topic",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "212313",
+            "thumbnail_url": "https://i.ytimg.com/vi/ICOB_gz4k6E/hqdefault.jpg"
+        },
+        {
+            "video_id": "NVX57aLkbiI",
+            "title": "돌아온 폐급과 폐차",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "23:23",
+            "view_count": "152928",
+            "thumbnail_url": "https://i.ytimg.com/vi/NVX57aLkbiI/hqdefault.jpg"
         },
         {
             "video_id": "RfU7tsX69eE",
@@ -178,7 +187,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:42",
-            "view_count": "383793",
+            "view_count": "386636",
             "thumbnail_url": "https://i.ytimg.com/vi/RfU7tsX69eE/hqdefault.jpg"
         },
         {
@@ -187,7 +196,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "29:10",
-            "view_count": "550053",
+            "view_count": "554569",
             "thumbnail_url": "https://i.ytimg.com/vi/EySM1snCYd8/hqdefault.jpg"
         },
         {
@@ -196,26 +205,8 @@
             "channel_name": "NOWZ - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "30236",
+            "view_count": "32664",
             "thumbnail_url": "https://i.ytimg.com/vi/xYFqy66_K9M/hqdefault.jpg"
-        },
-        {
-            "video_id": "f6oqAPHOdR0",
-            "title": "멀고도 험한 자쿰의 길",
-            "channel_name": "피닉스박",
-            "category": "Gaming",
-            "duration": "29:41",
-            "view_count": "108888",
-            "thumbnail_url": "https://i.ytimg.com/vi/f6oqAPHOdR0/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ig5S_rMg7Uw",
-            "title": "DOM",
-            "channel_name": "Simon Dominic - Topic",
-            "category": "Music",
-            "duration": "3:21",
-            "view_count": "14507",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ig5S_rMg7Uw/hqdefault.jpg"
         },
         {
             "video_id": "AUQLhOTVShI",
@@ -223,8 +214,26 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "17:58",
-            "view_count": "86788",
+            "view_count": "96096",
             "thumbnail_url": "https://i.ytimg.com/vi/AUQLhOTVShI/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ig5S_rMg7Uw",
+            "title": "DOM",
+            "channel_name": "Simon Dominic - Topic",
+            "category": "Music",
+            "duration": "3:21",
+            "view_count": "15409",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ig5S_rMg7Uw/hqdefault.jpg"
+        },
+        {
+            "video_id": "f6oqAPHOdR0",
+            "title": "멀고도 험한 자쿰의 길",
+            "channel_name": "피닉스박",
+            "category": "Gaming",
+            "duration": "29:41",
+            "view_count": "112637",
+            "thumbnail_url": "https://i.ytimg.com/vi/f6oqAPHOdR0/hqdefault.jpg"
         },
         {
             "video_id": "UvWXWGhZin8",
@@ -232,7 +241,7 @@
             "channel_name": "SEEYA Official",
             "category": "Entertainment",
             "duration": "3:51",
-            "view_count": "44215",
+            "view_count": "49644",
             "thumbnail_url": "https://i.ytimg.com/vi/UvWXWGhZin8/hqdefault.jpg"
         },
         {
@@ -241,7 +250,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "45:50",
-            "view_count": "152335",
+            "view_count": "155203",
             "thumbnail_url": "https://i.ytimg.com/vi/kfTIqE5XS9Q/hqdefault.jpg"
         },
         {
@@ -250,7 +259,7 @@
             "channel_name": "Dept - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "14229",
+            "view_count": "14680",
             "thumbnail_url": "https://i.ytimg.com/vi/aWoN8f_N2XY/hqdefault.jpg"
         },
         {
@@ -259,7 +268,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "11:46",
-            "view_count": "70673",
+            "view_count": "77668",
             "thumbnail_url": "https://i.ytimg.com/vi/cl9aC_qhcaM/hqdefault.jpg"
         },
         {
@@ -268,7 +277,7 @@
             "channel_name": "HYNN - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "25715",
+            "view_count": "25929",
             "thumbnail_url": "https://i.ytimg.com/vi/zxqFSM7cweY/hqdefault.jpg"
         },
         {
@@ -277,7 +286,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "19:00",
-            "view_count": "432504",
+            "view_count": "437017",
             "thumbnail_url": "https://i.ytimg.com/vi/WZVHDyyULR4/hqdefault.jpg"
         },
         {
@@ -286,7 +295,7 @@
             "channel_name": "FLARE U - Topic",
             "category": "Music",
             "duration": "2:39",
-            "view_count": "23950",
+            "view_count": "24186",
             "thumbnail_url": "https://i.ytimg.com/vi/oZWFBC6GRIo/hqdefault.jpg"
         },
         {
@@ -295,7 +304,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "34:55",
-            "view_count": "160979",
+            "view_count": "163400",
             "thumbnail_url": "https://i.ytimg.com/vi/JgN_Sf80ajw/hqdefault.jpg"
         },
         {
@@ -304,7 +313,7 @@
             "channel_name": "영탁스클럽 YOUNGTAKsClub",
             "category": "Entertainment",
             "duration": "5:23",
-            "view_count": "10935",
+            "view_count": "11626",
             "thumbnail_url": "https://i.ytimg.com/vi/T3bDDskiioc/hqdefault.jpg"
         },
         {
@@ -313,7 +322,7 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "1:55:34",
-            "view_count": "144309",
+            "view_count": "145137",
             "thumbnail_url": "https://i.ytimg.com/vi/GPQJzMi0qoo/hqdefault.jpg"
         },
         {
@@ -322,7 +331,7 @@
             "channel_name": "melodywalk - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "15001",
+            "view_count": "15169",
             "thumbnail_url": "https://i.ytimg.com/vi/a9UlxGaGQ74/hqdefault.jpg"
         },
         {
@@ -331,26 +340,8 @@
             "channel_name": "수찬 Suchan",
             "category": "Gaming",
             "duration": "13:03",
-            "view_count": "165945",
+            "view_count": "167529",
             "thumbnail_url": "https://i.ytimg.com/vi/sQfZyuBeJMU/hqdefault.jpg"
-        },
-        {
-            "video_id": "znBuKPwYJx4",
-            "title": "비가 , 꽃길, 인연, 묻어버린 아픔, 마지막 연인 … 눈물 멈추지 않는 애절한 락발라드로 재탄생🔥 감정 폭발 라이브 (소름주의)",
-            "channel_name": "레코드 속 추억",
-            "category": "People & Blogs",
-            "duration": "1:21:51",
-            "view_count": "27122",
-            "thumbnail_url": "https://i.ytimg.com/vi/znBuKPwYJx4/hqdefault.jpg"
-        },
-        {
-            "video_id": "AyWF8dEECEI",
-            "title": "말왕은 폐급맨이 밉다",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "20:22",
-            "view_count": "234869",
-            "thumbnail_url": "https://i.ytimg.com/vi/AyWF8dEECEI/hqdefault.jpg"
         },
         {
             "video_id": "GG932qvVzko",
@@ -358,26 +349,35 @@
             "channel_name": "IVEVEVO",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "256575",
+            "view_count": "268636",
             "thumbnail_url": "https://i.ytimg.com/vi/GG932qvVzko/hqdefault.jpg"
         },
         {
-            "video_id": "EzkSNjTVnow",
-            "title": "리버스 람피온에 전재산 때려 박았습니다 [메이플플래닛]",
-            "channel_name": "글자네",
+            "video_id": "AyWF8dEECEI",
+            "title": "말왕은 폐급맨이 밉다",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "17:50",
-            "view_count": "156264",
-            "thumbnail_url": "https://i.ytimg.com/vi/EzkSNjTVnow/hqdefault.jpg"
+            "duration": "20:22",
+            "view_count": "239154",
+            "thumbnail_url": "https://i.ytimg.com/vi/AyWF8dEECEI/hqdefault.jpg"
         },
         {
-            "video_id": "NUTM8rz7ilE",
-            "title": "So Cute",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:38",
-            "view_count": "45758",
-            "thumbnail_url": "https://i.ytimg.com/vi/NUTM8rz7ilE/hqdefault.jpg"
+            "video_id": "znBuKPwYJx4",
+            "title": "비가 , 꽃길, 인연, 묻어버린 아픔, 마지막 연인 … 눈물 멈추지 않는 애절한 락발라드로 재탄생🔥 감정 폭발 라이브 (소름주의)",
+            "channel_name": "레코드 속 추억",
+            "category": "People & Blogs",
+            "duration": "1:21:51",
+            "view_count": "27336",
+            "thumbnail_url": "https://i.ytimg.com/vi/znBuKPwYJx4/hqdefault.jpg"
+        },
+        {
+            "video_id": "18aETVTLElg",
+            "title": "제가 훈지를 해도 될까요? 얼마든지요",
+            "channel_name": "삼식",
+            "category": "Gaming",
+            "duration": "27:41",
+            "view_count": "96639",
+            "thumbnail_url": "https://i.ytimg.com/vi/18aETVTLElg/hqdefault.jpg"
         }
     ]
 }
