@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-14 21:26:48",
+    "scraped_time": "2026-05-15 00:21:14",
     "videos": [
         {
             "video_id": "hGqYdubpcCM",
@@ -7,7 +7,7 @@
             "channel_name": "NMIXX - Topic",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "1583456",
+            "view_count": "1649079",
             "thumbnail_url": "https://i.ytimg.com/vi/hGqYdubpcCM/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "12:33",
-            "view_count": "250926",
+            "view_count": "254996",
             "thumbnail_url": "https://i.ytimg.com/vi/AftHLRU3_ls/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "6:05:03",
-            "view_count": "421234",
+            "view_count": "430344",
             "thumbnail_url": "https://i.ytimg.com/vi/Q7hR6Iib6SU/hqdefault.jpg"
         },
         {
@@ -34,44 +34,8 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "1837278",
+            "view_count": "1905352",
             "thumbnail_url": "https://i.ytimg.com/vi/ZAsxW7bkK-A/hqdefault.jpg"
-        },
-        {
-            "video_id": "Gx-Kv6JKKS8",
-            "title": "의좋은 형제",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "33:46",
-            "view_count": "304725",
-            "thumbnail_url": "https://i.ytimg.com/vi/Gx-Kv6JKKS8/hqdefault.jpg"
-        },
-        {
-            "video_id": "iTJSbJtS8MU",
-            "title": "aespa 에스파 'WDA (Whole Different Animal) (Feat. G-DRAGON)' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "11678087",
-            "thumbnail_url": "https://i.ytimg.com/vi/iTJSbJtS8MU/hqdefault.jpg"
-        },
-        {
-            "video_id": "lft5NQ8NzZw",
-            "title": "한타의 제왕",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "27:40",
-            "view_count": "325711",
-            "thumbnail_url": "https://i.ytimg.com/vi/lft5NQ8NzZw/hqdefault.jpg"
-        },
-        {
-            "video_id": "x8fOG6EZuiI",
-            "title": "EVERLOVE",
-            "channel_name": "JINYOUNG - Topic",
-            "category": "Music",
-            "duration": "2:34",
-            "view_count": "121411",
-            "thumbnail_url": "https://i.ytimg.com/vi/x8fOG6EZuiI/hqdefault.jpg"
         },
         {
             "video_id": "ho3ROUI-ryc",
@@ -79,8 +43,44 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "13:27",
-            "view_count": "75137",
+            "view_count": "155017",
             "thumbnail_url": "https://i.ytimg.com/vi/ho3ROUI-ryc/hqdefault.jpg"
+        },
+        {
+            "video_id": "iTJSbJtS8MU",
+            "title": "aespa 에스파 'WDA (Whole Different Animal) (Feat. G-DRAGON)' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "11806037",
+            "thumbnail_url": "https://i.ytimg.com/vi/iTJSbJtS8MU/hqdefault.jpg"
+        },
+        {
+            "video_id": "Gx-Kv6JKKS8",
+            "title": "의좋은 형제",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "33:46",
+            "view_count": "314770",
+            "thumbnail_url": "https://i.ytimg.com/vi/Gx-Kv6JKKS8/hqdefault.jpg"
+        },
+        {
+            "video_id": "x8fOG6EZuiI",
+            "title": "EVERLOVE",
+            "channel_name": "JINYOUNG - Topic",
+            "category": "Music",
+            "duration": "2:34",
+            "view_count": "133028",
+            "thumbnail_url": "https://i.ytimg.com/vi/x8fOG6EZuiI/hqdefault.jpg"
+        },
+        {
+            "video_id": "lft5NQ8NzZw",
+            "title": "한타의 제왕",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "27:40",
+            "view_count": "338351",
+            "thumbnail_url": "https://i.ytimg.com/vi/lft5NQ8NzZw/hqdefault.jpg"
         },
         {
             "video_id": "6Ycn9qZK09I",
@@ -88,17 +88,17 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "14364683",
+            "view_count": "15203477",
             "thumbnail_url": "https://i.ytimg.com/vi/6Ycn9qZK09I/hqdefault.jpg"
         },
         {
-            "video_id": "XLuuoWZrvXY",
-            "title": "나 라이즈인데? | T1 vs NS | 2026 LCK",
-            "channel_name": "Untara",
+            "video_id": "HJR6zhW2FQA",
+            "title": "[ 불도그 LIVE 생방송 5/14 ] 리니지 싸울애비장검 재료 최고가삼.",
+            "channel_name": "불도그",
             "category": "Gaming",
-            "duration": "34:52",
-            "view_count": "219314",
-            "thumbnail_url": "https://i.ytimg.com/vi/XLuuoWZrvXY/hqdefault.jpg"
+            "duration": "2:01:14",
+            "view_count": "140689",
+            "thumbnail_url": "https://i.ytimg.com/vi/HJR6zhW2FQA/hqdefault.jpg"
         },
         {
             "video_id": "JGH-ik-qq-E",
@@ -106,17 +106,17 @@
             "channel_name": "woo!ah! - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "90902",
+            "view_count": "99907",
             "thumbnail_url": "https://i.ytimg.com/vi/JGH-ik-qq-E/hqdefault.jpg"
         },
         {
-            "video_id": "EySM1snCYd8",
-            "title": "마지심슨형 원딜러",
-            "channel_name": "랄로",
+            "video_id": "XLuuoWZrvXY",
+            "title": "나 라이즈인데? | T1 vs NS | 2026 LCK",
+            "channel_name": "Untara",
             "category": "Gaming",
-            "duration": "29:10",
-            "view_count": "532751",
-            "thumbnail_url": "https://i.ytimg.com/vi/EySM1snCYd8/hqdefault.jpg"
+            "duration": "34:52",
+            "view_count": "225238",
+            "thumbnail_url": "https://i.ytimg.com/vi/XLuuoWZrvXY/hqdefault.jpg"
         },
         {
             "video_id": "m1dhAHSi8FE",
@@ -124,7 +124,7 @@
             "channel_name": "Sukwon Yoon - Topic",
             "category": "Music",
             "duration": "2:18",
-            "view_count": "24578",
+            "view_count": "29700",
             "thumbnail_url": "https://i.ytimg.com/vi/m1dhAHSi8FE/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "45:39",
-            "view_count": "148939",
+            "view_count": "169817",
             "thumbnail_url": "https://i.ytimg.com/vi/oi1Gv4rqu8A/hqdefault.jpg"
         },
         {
@@ -142,35 +142,17 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "2:36",
-            "view_count": "529999",
+            "view_count": "552865",
             "thumbnail_url": "https://i.ytimg.com/vi/kmTZv6dxmDE/hqdefault.jpg"
         },
         {
-            "video_id": "WZVHDyyULR4",
-            "title": "망구 디펜스",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "EySM1snCYd8",
+            "title": "마지심슨형 원딜러",
+            "channel_name": "랄로",
             "category": "Gaming",
-            "duration": "19:00",
-            "view_count": "415066",
-            "thumbnail_url": "https://i.ytimg.com/vi/WZVHDyyULR4/hqdefault.jpg"
-        },
-        {
-            "video_id": "RfU7tsX69eE",
-            "title": "BOYNEXTDOOR (보이넥스트도어) '똑똑똑' Performance Video",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "2:42",
-            "view_count": "367795",
-            "thumbnail_url": "https://i.ytimg.com/vi/RfU7tsX69eE/hqdefault.jpg"
-        },
-        {
-            "video_id": "GPQJzMi0qoo",
-            "title": "리니지 클래식 통제혈 동맹식 + 싸울아비장검 러쉬 하나씩 풀어가보자",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "1:55:34",
-            "view_count": "142117",
-            "thumbnail_url": "https://i.ytimg.com/vi/GPQJzMi0qoo/hqdefault.jpg"
+            "duration": "29:10",
+            "view_count": "541583",
+            "thumbnail_url": "https://i.ytimg.com/vi/EySM1snCYd8/hqdefault.jpg"
         },
         {
             "video_id": "ICOB_gz4k6E",
@@ -178,26 +160,8 @@
             "channel_name": "HAON - Topic",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "189746",
+            "view_count": "202945",
             "thumbnail_url": "https://i.ytimg.com/vi/ICOB_gz4k6E/hqdefault.jpg"
-        },
-        {
-            "video_id": "JgN_Sf80ajw",
-            "title": "라이트실드 문장으로 쉴드를 무한 복사하는 X돔 제드",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "34:55",
-            "view_count": "152779",
-            "thumbnail_url": "https://i.ytimg.com/vi/JgN_Sf80ajw/hqdefault.jpg"
-        },
-        {
-            "video_id": "69I7Hj6p8_0",
-            "title": "NOWZ (나우즈) '우리의 시작' Official Music Video",
-            "channel_name": "NOWZ 나우즈 (Official YouTube Channel)",
-            "category": "Entertainment",
-            "duration": "3:59",
-            "view_count": "89856",
-            "thumbnail_url": "https://i.ytimg.com/vi/69I7Hj6p8_0/hqdefault.jpg"
         },
         {
             "video_id": "f6oqAPHOdR0",
@@ -205,35 +169,17 @@
             "channel_name": "피닉스박",
             "category": "Gaming",
             "duration": "29:41",
-            "view_count": "86075",
+            "view_count": "99767",
             "thumbnail_url": "https://i.ytimg.com/vi/f6oqAPHOdR0/hqdefault.jpg"
         },
         {
-            "video_id": "aWoN8f_N2XY",
-            "title": "No Gravity (feat. Lilly Choi)",
-            "channel_name": "Dept - Topic",
+            "video_id": "RfU7tsX69eE",
+            "title": "BOYNEXTDOOR (보이넥스트도어) '똑똑똑' Performance Video",
+            "channel_name": "HYBE LABELS",
             "category": "Music",
-            "duration": "2:34",
-            "view_count": "10190",
-            "thumbnail_url": "https://i.ytimg.com/vi/aWoN8f_N2XY/hqdefault.jpg"
-        },
-        {
-            "video_id": "sQfZyuBeJMU",
-            "title": "망한 작도 살려내서 붙여 쓰는 사람",
-            "channel_name": "수찬 Suchan",
-            "category": "Gaming",
-            "duration": "13:03",
-            "view_count": "158700",
-            "thumbnail_url": "https://i.ytimg.com/vi/sQfZyuBeJMU/hqdefault.jpg"
-        },
-        {
-            "video_id": "oZWFBC6GRIo",
-            "title": "Hyper",
-            "channel_name": "FLARE U - Topic",
-            "category": "Music",
-            "duration": "2:39",
-            "view_count": "20279",
-            "thumbnail_url": "https://i.ytimg.com/vi/oZWFBC6GRIo/hqdefault.jpg"
+            "duration": "2:42",
+            "view_count": "377374",
+            "thumbnail_url": "https://i.ytimg.com/vi/RfU7tsX69eE/hqdefault.jpg"
         },
         {
             "video_id": "kfTIqE5XS9Q",
@@ -241,8 +187,26 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "45:50",
-            "view_count": "127772",
+            "view_count": "141917",
             "thumbnail_url": "https://i.ytimg.com/vi/kfTIqE5XS9Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "xYFqy66_K9M",
+            "title": "Us",
+            "channel_name": "NOWZ - Topic",
+            "category": "Music",
+            "duration": "3:35",
+            "view_count": "22626",
+            "thumbnail_url": "https://i.ytimg.com/vi/xYFqy66_K9M/hqdefault.jpg"
+        },
+        {
+            "video_id": "WZVHDyyULR4",
+            "title": "망구 디펜스",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "19:00",
+            "view_count": "423310",
+            "thumbnail_url": "https://i.ytimg.com/vi/WZVHDyyULR4/hqdefault.jpg"
         },
         {
             "video_id": "Ig5S_rMg7Uw",
@@ -250,98 +214,44 @@
             "channel_name": "Simon Dominic - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "6427",
+            "view_count": "11304",
             "thumbnail_url": "https://i.ytimg.com/vi/Ig5S_rMg7Uw/hqdefault.jpg"
         },
         {
-            "video_id": "AyWF8dEECEI",
-            "title": "말왕은 폐급맨이 밉다",
-            "channel_name": "말왕TV",
+            "video_id": "GPQJzMi0qoo",
+            "title": "리니지 클래식 통제혈 동맹식 + 싸울아비장검 러쉬 하나씩 풀어가보자",
+            "channel_name": "이문주",
             "category": "Gaming",
-            "duration": "20:22",
-            "view_count": "209178",
-            "thumbnail_url": "https://i.ytimg.com/vi/AyWF8dEECEI/hqdefault.jpg"
+            "duration": "1:55:34",
+            "view_count": "144671",
+            "thumbnail_url": "https://i.ytimg.com/vi/GPQJzMi0qoo/hqdefault.jpg"
         },
         {
-            "video_id": "zxqFSM7cweY",
-            "title": "Title Role",
-            "channel_name": "HYNN - Topic",
+            "video_id": "aWoN8f_N2XY",
+            "title": "No Gravity (feat. Lilly Choi)",
+            "channel_name": "Dept - Topic",
             "category": "Music",
-            "duration": "3:27",
-            "view_count": "19562",
-            "thumbnail_url": "https://i.ytimg.com/vi/zxqFSM7cweY/hqdefault.jpg"
+            "duration": "2:34",
+            "view_count": "12994",
+            "thumbnail_url": "https://i.ytimg.com/vi/aWoN8f_N2XY/hqdefault.jpg"
         },
         {
-            "video_id": "EzkSNjTVnow",
-            "title": "리버스 람피온에 전재산 때려 박았습니다 [메이플플래닛]",
-            "channel_name": "글자네",
+            "video_id": "JgN_Sf80ajw",
+            "title": "라이트실드 문장으로 쉴드를 무한 복사하는 X돔 제드",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "17:50",
-            "view_count": "149897",
-            "thumbnail_url": "https://i.ytimg.com/vi/EzkSNjTVnow/hqdefault.jpg"
+            "duration": "34:55",
+            "view_count": "156708",
+            "thumbnail_url": "https://i.ytimg.com/vi/JgN_Sf80ajw/hqdefault.jpg"
         },
         {
-            "video_id": "a9UlxGaGQ74",
-            "title": "너만 보여 (Remake. It was you)",
-            "channel_name": "melodywalk - Topic",
+            "video_id": "oZWFBC6GRIo",
+            "title": "Hyper",
+            "channel_name": "FLARE U - Topic",
             "category": "Music",
-            "duration": "3:57",
-            "view_count": "12950",
-            "thumbnail_url": "https://i.ytimg.com/vi/a9UlxGaGQ74/hqdefault.jpg"
-        },
-        {
-            "video_id": "I1RIN84iYsc",
-            "title": "내가 너무너무너무너무 이기고픈 100명의 할머니 : 땅타입 하트골드【포켓몬 모든타입 깨기】#4",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "16:28",
-            "view_count": "186955",
-            "thumbnail_url": "https://i.ytimg.com/vi/I1RIN84iYsc/hqdefault.jpg"
-        },
-        {
-            "video_id": "znBuKPwYJx4",
-            "title": "비가 , 꽃길, 인연, 묻어버린 아픔, 마지막 연인 … 눈물 멈추지 않는 애절한 락발라드로 재탄생🔥 감정 폭발 라이브 (소름주의)",
-            "channel_name": "레코드 속 추억",
-            "category": "People & Blogs",
-            "duration": "1:21:51",
-            "view_count": "24600",
-            "thumbnail_url": "https://i.ytimg.com/vi/znBuKPwYJx4/hqdefault.jpg"
-        },
-        {
-            "video_id": "aH6I4bWJhBw",
-            "title": "무자본으로 의도치않게 큰 메소를 벌었습니다",
-            "channel_name": "김데데",
-            "category": "Gaming",
-            "duration": "28:53",
-            "view_count": "136005",
-            "thumbnail_url": "https://i.ytimg.com/vi/aH6I4bWJhBw/hqdefault.jpg"
-        },
-        {
-            "video_id": "NUTM8rz7ilE",
-            "title": "So Cute",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:38",
-            "view_count": "41668",
-            "thumbnail_url": "https://i.ytimg.com/vi/NUTM8rz7ilE/hqdefault.jpg"
-        },
-        {
-            "video_id": "_cfCJC8ZaIg",
-            "title": "첫 경기부터 \"이상호VS클리드\" 라고?ㅋㅋㅋㅋㅋ｜이벤트 문파대전 EP.02",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "1:04:04",
-            "view_count": "235772",
-            "thumbnail_url": "https://i.ytimg.com/vi/_cfCJC8ZaIg/hqdefault.jpg"
-        },
-        {
-            "video_id": "fG3QFGpH80M",
-            "title": "REM sleep",
-            "channel_name": "Ku One Chan - Topic",
-            "category": "Music",
-            "duration": "4:26",
-            "view_count": "17099",
-            "thumbnail_url": "https://i.ytimg.com/vi/fG3QFGpH80M/hqdefault.jpg"
+            "duration": "2:39",
+            "view_count": "23363",
+            "thumbnail_url": "https://i.ytimg.com/vi/oZWFBC6GRIo/hqdefault.jpg"
         },
         {
             "video_id": "NVX57aLkbiI",
@@ -349,26 +259,98 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "23:23",
-            "view_count": "69216",
+            "view_count": "107745",
             "thumbnail_url": "https://i.ytimg.com/vi/NVX57aLkbiI/hqdefault.jpg"
         },
         {
-            "video_id": "NBuzGh5Yxb4",
-            "title": "Feel It",
-            "channel_name": "Rain - Topic",
+            "video_id": "zxqFSM7cweY",
+            "title": "Title Role",
+            "channel_name": "HYNN - Topic",
             "category": "Music",
-            "duration": "3:17",
-            "view_count": "103811",
-            "thumbnail_url": "https://i.ytimg.com/vi/NBuzGh5Yxb4/hqdefault.jpg"
+            "duration": "3:27",
+            "view_count": "22561",
+            "thumbnail_url": "https://i.ytimg.com/vi/zxqFSM7cweY/hqdefault.jpg"
         },
         {
-            "video_id": "HF705cAsMLs",
-            "title": "준수 집 부수기",
-            "channel_name": "스맵",
+            "video_id": "sQfZyuBeJMU",
+            "title": "망한 작도 살려내서 붙여 쓰는 사람",
+            "channel_name": "수찬 Suchan",
             "category": "Gaming",
-            "duration": "30:01",
-            "view_count": "90000",
-            "thumbnail_url": "https://i.ytimg.com/vi/HF705cAsMLs/hqdefault.jpg"
+            "duration": "13:03",
+            "view_count": "162852",
+            "thumbnail_url": "https://i.ytimg.com/vi/sQfZyuBeJMU/hqdefault.jpg"
+        },
+        {
+            "video_id": "UvWXWGhZin8",
+            "title": "씨야 SEEYA - Stay Official MV",
+            "channel_name": "SEEYA Official",
+            "category": "Entertainment",
+            "duration": "3:51",
+            "view_count": "32480",
+            "thumbnail_url": "https://i.ytimg.com/vi/UvWXWGhZin8/hqdefault.jpg"
+        },
+        {
+            "video_id": "AyWF8dEECEI",
+            "title": "말왕은 폐급맨이 밉다",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "20:22",
+            "view_count": "223294",
+            "thumbnail_url": "https://i.ytimg.com/vi/AyWF8dEECEI/hqdefault.jpg"
+        },
+        {
+            "video_id": "a9UlxGaGQ74",
+            "title": "너만 보여 (Remake. It was you)",
+            "channel_name": "melodywalk - Topic",
+            "category": "Music",
+            "duration": "3:57",
+            "view_count": "14427",
+            "thumbnail_url": "https://i.ytimg.com/vi/a9UlxGaGQ74/hqdefault.jpg"
+        },
+        {
+            "video_id": "EzkSNjTVnow",
+            "title": "리버스 람피온에 전재산 때려 박았습니다 [메이플플래닛]",
+            "channel_name": "글자네",
+            "category": "Gaming",
+            "duration": "17:50",
+            "view_count": "152942",
+            "thumbnail_url": "https://i.ytimg.com/vi/EzkSNjTVnow/hqdefault.jpg"
+        },
+        {
+            "video_id": "znBuKPwYJx4",
+            "title": "비가 , 꽃길, 인연, 묻어버린 아픔, 마지막 연인 … 눈물 멈추지 않는 애절한 락발라드로 재탄생🔥 감정 폭발 라이브 (소름주의)",
+            "channel_name": "레코드 속 추억",
+            "category": "People & Blogs",
+            "duration": "1:21:51",
+            "view_count": "26304",
+            "thumbnail_url": "https://i.ytimg.com/vi/znBuKPwYJx4/hqdefault.jpg"
+        },
+        {
+            "video_id": "I1RIN84iYsc",
+            "title": "내가 너무너무너무너무 이기고픈 100명의 할머니 : 땅타입 하트골드【포켓몬 모든타입 깨기】#4",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "16:28",
+            "view_count": "193284",
+            "thumbnail_url": "https://i.ytimg.com/vi/I1RIN84iYsc/hqdefault.jpg"
+        },
+        {
+            "video_id": "NUTM8rz7ilE",
+            "title": "So Cute",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "44436",
+            "thumbnail_url": "https://i.ytimg.com/vi/NUTM8rz7ilE/hqdefault.jpg"
+        },
+        {
+            "video_id": "cl9aC_qhcaM",
+            "title": "공짜 텔은 못 참지 | T1 vs NS 게임 2 하이라이트 | 2026 LCK",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "11:46",
+            "view_count": "52724",
+            "thumbnail_url": "https://i.ytimg.com/vi/cl9aC_qhcaM/hqdefault.jpg"
         },
         {
             "video_id": "GG932qvVzko",
@@ -376,8 +358,26 @@
             "channel_name": "IVEVEVO",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "193405",
+            "view_count": "226090",
             "thumbnail_url": "https://i.ytimg.com/vi/GG932qvVzko/hqdefault.jpg"
+        },
+        {
+            "video_id": "HF705cAsMLs",
+            "title": "준수 집 부수기",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "30:01",
+            "view_count": "102964",
+            "thumbnail_url": "https://i.ytimg.com/vi/HF705cAsMLs/hqdefault.jpg"
+        },
+        {
+            "video_id": "T3bDDskiioc",
+            "title": "[STAGE CLIP] 영탁(YOUNGTAK) ‘풀리나(Pull It Now)’ “TAK SHOW4” - ENCORE 앙코르 콘서트 🏆",
+            "channel_name": "영탁스클럽 YOUNGTAKsClub",
+            "category": "Entertainment",
+            "duration": "5:23",
+            "view_count": "7835",
+            "thumbnail_url": "https://i.ytimg.com/vi/T3bDDskiioc/hqdefault.jpg"
         }
     ]
 }
