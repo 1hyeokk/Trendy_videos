@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-17 20:09:36",
+    "scraped_time": "2026-05-17 22:26:23",
     "videos": [
         {
             "video_id": "gVfT_J9faeQ",
@@ -7,7 +7,7 @@
             "channel_name": "Wooseok Byeon - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "203869",
+            "view_count": "211636",
             "thumbnail_url": "https://i.ytimg.com/vi/gVfT_J9faeQ/hqdefault.jpg"
         },
         {
@@ -16,17 +16,17 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:04",
-            "view_count": "52896",
+            "view_count": "54441",
             "thumbnail_url": "https://i.ytimg.com/vi/xy4M41JVyTI/hqdefault.jpg"
         },
         {
-            "video_id": "VlmUkDx4qe8",
-            "title": "올 시즌 최고의 도파민, 최장시간 경기| T1 vs GEN | LCK 2R",
-            "channel_name": "피넛",
+            "video_id": "c_NrY_FR4uI",
+            "title": "300만원 쓴 종결 무기가 '버그 악용' 아이템이었습니다.....",
+            "channel_name": "동수칸TV",
             "category": "Gaming",
-            "duration": "55:35",
-            "view_count": "353880",
-            "thumbnail_url": "https://i.ytimg.com/vi/VlmUkDx4qe8/hqdefault.jpg"
+            "duration": "57:12",
+            "view_count": "392089",
+            "thumbnail_url": "https://i.ytimg.com/vi/c_NrY_FR4uI/hqdefault.jpg"
         },
         {
             "video_id": "vMHpQH7pbjg",
@@ -34,7 +34,7 @@
             "channel_name": "wave to earth - Topic",
             "category": "Music",
             "duration": "4:29",
-            "view_count": "197829",
+            "view_count": "201915",
             "thumbnail_url": "https://i.ytimg.com/vi/vMHpQH7pbjg/hqdefault.jpg"
         },
         {
@@ -43,35 +43,17 @@
             "channel_name": "고뚜기",
             "category": "Music",
             "duration": "1:08",
-            "view_count": "460209",
+            "view_count": "468221",
             "thumbnail_url": "https://i.ytimg.com/vi/mPQK8TG80II/hqdefault.jpg"
         },
         {
-            "video_id": "c_NrY_FR4uI",
-            "title": "300만원 쓴 종결 무기가 '버그 악용' 아이템이었습니다.....",
-            "channel_name": "동수칸TV",
+            "video_id": "VlmUkDx4qe8",
+            "title": "올 시즌 최고의 도파민, 최장시간 경기| T1 vs GEN | LCK 2R",
+            "channel_name": "피넛",
             "category": "Gaming",
-            "duration": "57:12",
-            "view_count": "374446",
-            "thumbnail_url": "https://i.ytimg.com/vi/c_NrY_FR4uI/hqdefault.jpg"
-        },
-        {
-            "video_id": "upq07zl9gOU",
-            "title": "일할때 듣기좋은 발라드 추천 광고없는 노래모음 🌸 유튜브 베스트곡 TOP BEST 100 - 임창정,성시경,더원,백지영,김필,양파,이승기,왁스,김범수,소울스타,원티드..❤️",
-            "channel_name": "K-POP 발라드 감성 TOP 100",
-            "category": "People & Blogs",
-            "duration": "1:47:01",
-            "view_count": "12553",
-            "thumbnail_url": "https://i.ytimg.com/vi/upq07zl9gOU/hqdefault.jpg"
-        },
-        {
-            "video_id": "u7ccKRtsvTs",
-            "title": "떴다 지자투",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "20:43",
-            "view_count": "443557",
-            "thumbnail_url": "https://i.ytimg.com/vi/u7ccKRtsvTs/hqdefault.jpg"
+            "duration": "55:35",
+            "view_count": "361163",
+            "thumbnail_url": "https://i.ytimg.com/vi/VlmUkDx4qe8/hqdefault.jpg"
         },
         {
             "video_id": "adE8jVLoLPo",
@@ -79,8 +61,26 @@
             "channel_name": "ピノキオピー PINOCCHIOP OFFICIAL CHANNEL",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "916065",
+            "view_count": "951507",
             "thumbnail_url": "https://i.ytimg.com/vi/adE8jVLoLPo/hqdefault.jpg"
+        },
+        {
+            "video_id": "u7ccKRtsvTs",
+            "title": "떴다 지자투",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "20:43",
+            "view_count": "460127",
+            "thumbnail_url": "https://i.ytimg.com/vi/u7ccKRtsvTs/hqdefault.jpg"
+        },
+        {
+            "video_id": "upq07zl9gOU",
+            "title": "일할때 듣기좋은 발라드 추천 광고없는 노래모음 🌸 유튜브 베스트곡 TOP BEST 100 - 임창정,성시경,더원,백지영,김필,양파,이승기,왁스,김범수,소울스타,원티드..❤️",
+            "channel_name": "K-POP 발라드 감성 TOP 100",
+            "category": "People & Blogs",
+            "duration": "1:47:01",
+            "view_count": "12826",
+            "thumbnail_url": "https://i.ytimg.com/vi/upq07zl9gOU/hqdefault.jpg"
         },
         {
             "video_id": "6HgBABbfpF0",
@@ -88,7 +88,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:26:45",
-            "view_count": "173498",
+            "view_count": "202760",
             "thumbnail_url": "https://i.ytimg.com/vi/6HgBABbfpF0/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "Drake - Topic",
             "category": "Music",
             "duration": "5:08",
-            "view_count": "5827989",
+            "view_count": "5908234",
             "thumbnail_url": "https://i.ytimg.com/vi/uxNuuys19XE/hqdefault.jpg"
-        },
-        {
-            "video_id": "47T-_xRm_TY",
-            "title": "옛날메이플(플래닛) : 플래닛에서도 사고쳤습니다 [팡이요,  메이플스토리:플래닛]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "15:01",
-            "view_count": "305149",
-            "thumbnail_url": "https://i.ytimg.com/vi/47T-_xRm_TY/hqdefault.jpg"
-        },
-        {
-            "video_id": "hGqYdubpcCM",
-            "title": "Heavy Serenade",
-            "channel_name": "NMIXX - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "2837658",
-            "thumbnail_url": "https://i.ytimg.com/vi/hGqYdubpcCM/hqdefault.jpg"
         },
         {
             "video_id": "1gI4eznncPs",
@@ -124,8 +106,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "30:44",
-            "view_count": "297638",
+            "view_count": "308206",
             "thumbnail_url": "https://i.ytimg.com/vi/1gI4eznncPs/hqdefault.jpg"
+        },
+        {
+            "video_id": "hGqYdubpcCM",
+            "title": "Heavy Serenade",
+            "channel_name": "NMIXX - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "2885248",
+            "thumbnail_url": "https://i.ytimg.com/vi/hGqYdubpcCM/hqdefault.jpg"
+        },
+        {
+            "video_id": "47T-_xRm_TY",
+            "title": "옛날메이플(플래닛) : 플래닛에서도 사고쳤습니다 [팡이요,  메이플스토리:플래닛]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "15:01",
+            "view_count": "312655",
+            "thumbnail_url": "https://i.ytimg.com/vi/47T-_xRm_TY/hqdefault.jpg"
         },
         {
             "video_id": "dv1p4c1mwa0",
@@ -133,7 +133,7 @@
             "channel_name": "Gracie Abrams - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "408273",
+            "view_count": "416625",
             "thumbnail_url": "https://i.ytimg.com/vi/dv1p4c1mwa0/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "LCK Global",
             "category": "Gaming",
             "duration": "6:20:03",
-            "view_count": "1456421",
+            "view_count": "1459994",
             "thumbnail_url": "https://i.ytimg.com/vi/MtgIW4Gqg9M/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "2:54",
-            "view_count": "3251803",
+            "view_count": "3305013",
             "thumbnail_url": "https://i.ytimg.com/vi/ZAsxW7bkK-A/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "47:53",
-            "view_count": "255025",
+            "view_count": "260322",
             "thumbnail_url": "https://i.ytimg.com/vi/UYLTpoqDmfo/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "JINYOUNG - Topic",
             "category": "Music",
             "duration": "1:08",
-            "view_count": "275791",
+            "view_count": "280190",
             "thumbnail_url": "https://i.ytimg.com/vi/HTTQVgGc1sY/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "1:00:31",
-            "view_count": "211338",
+            "view_count": "219592",
             "thumbnail_url": "https://i.ytimg.com/vi/MDS8e_B7ms4/hqdefault.jpg"
         },
         {
@@ -187,17 +187,17 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "128218",
+            "view_count": "134624",
             "thumbnail_url": "https://i.ytimg.com/vi/3wjCZxNPtXE/hqdefault.jpg"
         },
         {
-            "video_id": "Co5w_H9ICEw",
-            "title": "역대급 *대규모 인원* 12명이 함께하는 기차 마피아",
+            "video_id": "cha-lawjZKI",
+            "title": "* 절대 통제 불가* 팀샐러드, 태쁘와 함께하는 기차 마피아",
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "30:45",
-            "view_count": "264872",
-            "thumbnail_url": "https://i.ytimg.com/vi/Co5w_H9ICEw/hqdefault.jpg"
+            "duration": "40:15",
+            "view_count": "106269",
+            "thumbnail_url": "https://i.ytimg.com/vi/cha-lawjZKI/hqdefault.jpg"
         },
         {
             "video_id": "VQ-z0VGRVm4",
@@ -205,7 +205,7 @@
             "channel_name": "SIMON DOMINIC",
             "category": "Entertainment",
             "duration": "3:25",
-            "view_count": "341654",
+            "view_count": "345645",
             "thumbnail_url": "https://i.ytimg.com/vi/VQ-z0VGRVm4/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "프뚜",
             "category": "Gaming",
             "duration": "33:26",
-            "view_count": "275154",
+            "view_count": "285281",
             "thumbnail_url": "https://i.ytimg.com/vi/jhB1jzCmcTA/hqdefault.jpg"
         },
         {
@@ -223,53 +223,17 @@
             "channel_name": "YOUNITE",
             "category": "Entertainment",
             "duration": "3:10",
-            "view_count": "3356299",
+            "view_count": "3375052",
             "thumbnail_url": "https://i.ytimg.com/vi/iqtv43YR7oI/hqdefault.jpg"
         },
         {
-            "video_id": "fJzzPzvyesc",
-            "title": "이번시즌 최고의 레전드 체력 2만, 방마저 1400에 육박하는 금강불괴 중재자 탈론",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "oKX2JnXumc0",
+            "title": "누가 에피타이저래 | GEN vs T1 게임 2 하이라이트 | 2026 LCK",
+            "channel_name": "LCK",
             "category": "Gaming",
-            "duration": "22:08",
-            "view_count": "175340",
-            "thumbnail_url": "https://i.ytimg.com/vi/fJzzPzvyesc/hqdefault.jpg"
-        },
-        {
-            "video_id": "SKcY_32uv_I",
-            "title": "[STAGE CLIP] 영탁(YOUNGTAK) ‘계세요’ “TAK SHOW4” - ENCORE 앙코르 콘서트 🏆",
-            "channel_name": "영탁스클럽 YOUNGTAKsClub",
-            "category": "Entertainment",
-            "duration": "3:01",
-            "view_count": "42559",
-            "thumbnail_url": "https://i.ytimg.com/vi/SKcY_32uv_I/hqdefault.jpg"
-        },
-        {
-            "video_id": "OcME_Cntz2M",
-            "title": "끝나지 않는 제 5회 후열의 밤",
-            "channel_name": "왈도쿤",
-            "category": "Gaming",
-            "duration": "1:28:57",
-            "view_count": "377228",
-            "thumbnail_url": "https://i.ytimg.com/vi/OcME_Cntz2M/hqdefault.jpg"
-        },
-        {
-            "video_id": "HjxZvWCcfy8",
-            "title": "STARSTRUCK",
-            "channel_name": "FIFTY FIFTY - Topic",
-            "category": "Music",
-            "duration": "2:58",
-            "view_count": "75971",
-            "thumbnail_url": "https://i.ytimg.com/vi/HjxZvWCcfy8/hqdefault.jpg"
-        },
-        {
-            "video_id": "9G0pnDd0oT8",
-            "title": "태윤 세레모니 인터뷰 스트리머 반응 리액션 모음 | BFX vs NS 2026 LCK 2Round",
-            "channel_name": "독버섯통신",
-            "category": "Gaming",
-            "duration": "2:16:01",
-            "view_count": "111571",
-            "thumbnail_url": "https://i.ytimg.com/vi/9G0pnDd0oT8/hqdefault.jpg"
+            "duration": "18:21",
+            "view_count": "56395",
+            "thumbnail_url": "https://i.ytimg.com/vi/oKX2JnXumc0/hqdefault.jpg"
         },
         {
             "video_id": "FKaESb9DTSM",
@@ -277,7 +241,7 @@
             "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
             "duration": "4:05",
-            "view_count": "94189",
+            "view_count": "98068",
             "thumbnail_url": "https://i.ytimg.com/vi/FKaESb9DTSM/hqdefault.jpg"
         },
         {
@@ -286,8 +250,44 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "15:48",
-            "view_count": "112865",
+            "view_count": "123592",
             "thumbnail_url": "https://i.ytimg.com/vi/DZ5AmSGFo_4/hqdefault.jpg"
+        },
+        {
+            "video_id": "SKcY_32uv_I",
+            "title": "[STAGE CLIP] 영탁(YOUNGTAK) ‘계세요’ “TAK SHOW4” - ENCORE 앙코르 콘서트 🏆",
+            "channel_name": "영탁스클럽 YOUNGTAKsClub",
+            "category": "Entertainment",
+            "duration": "3:01",
+            "view_count": "44027",
+            "thumbnail_url": "https://i.ytimg.com/vi/SKcY_32uv_I/hqdefault.jpg"
+        },
+        {
+            "video_id": "fJzzPzvyesc",
+            "title": "이번시즌 최고의 레전드 체력 2만, 방마저 1400에 육박하는 금강불괴 중재자 탈론",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "22:08",
+            "view_count": "179651",
+            "thumbnail_url": "https://i.ytimg.com/vi/fJzzPzvyesc/hqdefault.jpg"
+        },
+        {
+            "video_id": "HjxZvWCcfy8",
+            "title": "STARSTRUCK",
+            "channel_name": "FIFTY FIFTY - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "77821",
+            "thumbnail_url": "https://i.ytimg.com/vi/HjxZvWCcfy8/hqdefault.jpg"
+        },
+        {
+            "video_id": "OcME_Cntz2M",
+            "title": "끝나지 않는 제 5회 후열의 밤",
+            "channel_name": "왈도쿤",
+            "category": "Gaming",
+            "duration": "1:28:57",
+            "view_count": "385285",
+            "thumbnail_url": "https://i.ytimg.com/vi/OcME_Cntz2M/hqdefault.jpg"
         },
         {
             "video_id": "4C-EcAtp7O4",
@@ -295,17 +295,17 @@
             "channel_name": "TAEYANG",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "260205",
+            "view_count": "265146",
             "thumbnail_url": "https://i.ytimg.com/vi/4C-EcAtp7O4/hqdefault.jpg"
         },
         {
-            "video_id": "N1BJE3IQTXg",
-            "title": "티원이 티젠전에서 승리｜T1 vs GEN｜2026 LCK",
-            "channel_name": "Bang",
+            "video_id": "9G0pnDd0oT8",
+            "title": "태윤 세레모니 인터뷰 스트리머 반응 리액션 모음 | BFX vs NS 2026 LCK 2Round",
+            "channel_name": "독버섯통신",
             "category": "Gaming",
-            "duration": "43:53",
-            "view_count": "166080",
-            "thumbnail_url": "https://i.ytimg.com/vi/N1BJE3IQTXg/hqdefault.jpg"
+            "duration": "2:16:01",
+            "view_count": "115533",
+            "thumbnail_url": "https://i.ytimg.com/vi/9G0pnDd0oT8/hqdefault.jpg"
         },
         {
             "video_id": "iOQddZHdcLQ",
@@ -313,7 +313,7 @@
             "channel_name": "SeeYa - Topic",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "18411",
+            "view_count": "19446",
             "thumbnail_url": "https://i.ytimg.com/vi/iOQddZHdcLQ/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "행돌",
             "category": "Gaming",
             "duration": "20:03",
-            "view_count": "242097",
+            "view_count": "258237",
             "thumbnail_url": "https://i.ytimg.com/vi/HRRMkCaPN44/hqdefault.jpg"
         },
         {
@@ -331,17 +331,17 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "13431378",
+            "view_count": "13482958",
             "thumbnail_url": "https://i.ytimg.com/vi/iTJSbJtS8MU/hqdefault.jpg"
         },
         {
-            "video_id": "Jhe9SFFnOns",
-            "title": "만장일치 AD Carry, 페이즈 케리아 바텀 어떻게 막음 | LCK T1 vs GEN 스트리머 리액션 반응 모음",
-            "channel_name": "Ju1st",
+            "video_id": "N1BJE3IQTXg",
+            "title": "티원이 티젠전에서 승리｜T1 vs GEN｜2026 LCK",
+            "channel_name": "Bang",
             "category": "Gaming",
-            "duration": "3:45:19",
-            "view_count": "110886",
-            "thumbnail_url": "https://i.ytimg.com/vi/Jhe9SFFnOns/hqdefault.jpg"
+            "duration": "43:53",
+            "view_count": "168402",
+            "thumbnail_url": "https://i.ytimg.com/vi/N1BJE3IQTXg/hqdefault.jpg"
         },
         {
             "video_id": "pthU5cN8V4c",
@@ -349,17 +349,17 @@
             "channel_name": "BOYNEXTDOOR",
             "category": "Music",
             "duration": "2:40",
-            "view_count": "217586",
+            "view_count": "220903",
             "thumbnail_url": "https://i.ytimg.com/vi/pthU5cN8V4c/hqdefault.jpg"
         },
         {
-            "video_id": "GFvBRJUqIP0",
-            "title": "4만명이 지켜본 레전드 방송... 리니지클래식【 똘끼 】",
-            "channel_name": "똘끼100%",
+            "video_id": "Jhe9SFFnOns",
+            "title": "만장일치 AD Carry, 페이즈 케리아 바텀 어떻게 막음 | LCK T1 vs GEN 스트리머 리액션 반응 모음",
+            "channel_name": "Ju1st",
             "category": "Gaming",
-            "duration": "11:13",
-            "view_count": "225812",
-            "thumbnail_url": "https://i.ytimg.com/vi/GFvBRJUqIP0/hqdefault.jpg"
+            "duration": "3:45:19",
+            "view_count": "115537",
+            "thumbnail_url": "https://i.ytimg.com/vi/Jhe9SFFnOns/hqdefault.jpg"
         },
         {
             "video_id": "xYFqy66_K9M",
@@ -367,17 +367,17 @@
             "channel_name": "NOWZ - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "139385",
+            "view_count": "140736",
             "thumbnail_url": "https://i.ytimg.com/vi/xYFqy66_K9M/hqdefault.jpg"
         },
         {
-            "video_id": "tNW0gwnN1mw",
-            "title": "알파고가 사기맵에서 게임하게 된 사연은?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "GFvBRJUqIP0",
+            "title": "4만명이 지켜본 레전드 방송... 리니지클래식【 똘끼 】",
+            "channel_name": "똘끼100%",
             "category": "Gaming",
-            "duration": "31:43",
-            "view_count": "88560",
-            "thumbnail_url": "https://i.ytimg.com/vi/tNW0gwnN1mw/hqdefault.jpg"
+            "duration": "11:13",
+            "view_count": "236949",
+            "thumbnail_url": "https://i.ytimg.com/vi/GFvBRJUqIP0/hqdefault.jpg"
         }
     ]
 }
