@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-19 21:41:17",
+    "scraped_time": "2026-05-20 01:22:15",
     "videos": [
         {
             "video_id": "Jxgbfc89hNI",
@@ -7,7 +7,7 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "160176",
+            "view_count": "493475",
             "thumbnail_url": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "플러스엠 엔터테인먼트",
             "category": "Film & Animation",
             "duration": "1:39",
-            "view_count": "1065915",
+            "view_count": "1139834",
             "thumbnail_url": "https://i.ytimg.com/vi/ODnHr2Emnf0/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "35:19",
-            "view_count": "148240",
+            "view_count": "266164",
             "thumbnail_url": "https://i.ytimg.com/vi/CkJVCHtnq-E/hqdefault.jpg"
         },
         {
@@ -34,35 +34,8 @@
             "channel_name": "ITZY - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "243005",
+            "view_count": "272610",
             "thumbnail_url": "https://i.ytimg.com/vi/anPw_n26nOo/hqdefault.jpg"
-        },
-        {
-            "video_id": "lCG0M3sMCHM",
-            "title": "”CGI 별로고 개판인데 존나 재밌다..??💥“ 나홍진의 ≪호프≫ 인터네셔널 예고편 리뷰",
-            "channel_name": "기묘한 케이지",
-            "category": "Film & Animation",
-            "duration": "5:10",
-            "view_count": "303496",
-            "thumbnail_url": "https://i.ytimg.com/vi/lCG0M3sMCHM/hqdefault.jpg"
-        },
-        {
-            "video_id": "HGjlUUtZgUw",
-            "title": "배를 버려라",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "24:03",
-            "view_count": "497149",
-            "thumbnail_url": "https://i.ytimg.com/vi/HGjlUUtZgUw/hqdefault.jpg"
-        },
-        {
-            "video_id": "pB3W-k0kQ8U",
-            "title": "TAEYANG - ‘LIVE FAST DIE SLOW’ M/V",
-            "channel_name": "THEBLACKLABEL",
-            "category": "Music",
-            "duration": "3:27",
-            "view_count": "1216277",
-            "thumbnail_url": "https://i.ytimg.com/vi/pB3W-k0kQ8U/hqdefault.jpg"
         },
         {
             "video_id": "oRccWYlPmX8",
@@ -70,17 +43,44 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "10:52",
-            "view_count": "373746",
+            "view_count": "396251",
             "thumbnail_url": "https://i.ytimg.com/vi/oRccWYlPmX8/hqdefault.jpg"
         },
         {
-            "video_id": "VmZTSqAMyBw",
-            "title": "불도그의 +9 싸울아비 장검을 뵙습니다.",
-            "channel_name": "카르마 Karma",
-            "category": "People & Blogs",
-            "duration": "1:32:44",
-            "view_count": "184184",
-            "thumbnail_url": "https://i.ytimg.com/vi/VmZTSqAMyBw/hqdefault.jpg"
+            "video_id": "GYTnpU0nZbA",
+            "title": "옛날메이플(플래닛) : 미친 운빨로 탄생한 레전드 지작템 ㄷㄷ [팡이요,  메이플스토리:플래닛]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "10:27",
+            "view_count": "182232",
+            "thumbnail_url": "https://i.ytimg.com/vi/GYTnpU0nZbA/hqdefault.jpg"
+        },
+        {
+            "video_id": "pB3W-k0kQ8U",
+            "title": "TAEYANG - ‘LIVE FAST DIE SLOW’ M/V",
+            "channel_name": "THEBLACKLABEL",
+            "category": "Music",
+            "duration": "3:27",
+            "view_count": "1909975",
+            "thumbnail_url": "https://i.ytimg.com/vi/pB3W-k0kQ8U/hqdefault.jpg"
+        },
+        {
+            "video_id": "lCG0M3sMCHM",
+            "title": "”CGI 별로고 개판인데 존나 재밌다..??💥“ 나홍진의 ≪호프≫ 인터네셔널 예고편 리뷰",
+            "channel_name": "기묘한 케이지",
+            "category": "Film & Animation",
+            "duration": "5:10",
+            "view_count": "312773",
+            "thumbnail_url": "https://i.ytimg.com/vi/lCG0M3sMCHM/hqdefault.jpg"
+        },
+        {
+            "video_id": "EP8Gvwbgyps",
+            "title": "[ 불도그 LIVE 생방송 5/19 ] 리니지 데포 제2검 #리니지클래식",
+            "channel_name": "불도그",
+            "category": "Gaming",
+            "duration": "4:20:33",
+            "view_count": "251389",
+            "thumbnail_url": "https://i.ytimg.com/vi/EP8Gvwbgyps/hqdefault.jpg"
         },
         {
             "video_id": "uIjKp_SDvWg",
@@ -88,7 +88,7 @@
             "channel_name": "TAEYANG - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "176107",
+            "view_count": "195250",
             "thumbnail_url": "https://i.ytimg.com/vi/uIjKp_SDvWg/hqdefault.jpg"
         },
         {
@@ -97,71 +97,17 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "10:33",
-            "view_count": "113699",
+            "view_count": "128929",
             "thumbnail_url": "https://i.ytimg.com/vi/jUMh5JPG8oU/hqdefault.jpg"
         },
         {
-            "video_id": "jKJNd0VaubQ",
-            "title": "천상계 롤CK에서도 강제 은퇴당한 피넛 현재 폼..",
-            "channel_name": "튜브김민교",
+            "video_id": "HGjlUUtZgUw",
+            "title": "배를 버려라",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "45:52",
-            "view_count": "282966",
-            "thumbnail_url": "https://i.ytimg.com/vi/jKJNd0VaubQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "1jKnI_ib8c8",
-            "title": "ITZY “Motto” M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "3400851",
-            "thumbnail_url": "https://i.ytimg.com/vi/1jKnI_ib8c8/hqdefault.jpg"
-        },
-        {
-            "video_id": "6dXhtaDkDoU",
-            "title": "와...개미친 UFO, 황정민, 조인성, 나홍진 ≪호프 ≫ 예고편 분석 총모음집 \"인간 사냥나선 외계인\"",
-            "channel_name": "김시선",
-            "category": "Film & Animation",
-            "duration": "10:33",
-            "view_count": "156089",
-            "thumbnail_url": "https://i.ytimg.com/vi/6dXhtaDkDoU/hqdefault.jpg"
-        },
-        {
-            "video_id": "knGhzHK7PK8",
-            "title": "질지드",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "24:23",
-            "view_count": "322694",
-            "thumbnail_url": "https://i.ytimg.com/vi/knGhzHK7PK8/hqdefault.jpg"
-        },
-        {
-            "video_id": "7QGRDC7ngpE",
-            "title": "ZEROBASEONE (제로베이스원) 'TOP 5' MV",
-            "channel_name": "ZEROBASEONE",
-            "category": "Entertainment",
-            "duration": "2:32",
-            "view_count": "6044709",
-            "thumbnail_url": "https://i.ytimg.com/vi/7QGRDC7ngpE/hqdefault.jpg"
-        },
-        {
-            "video_id": "Wo2932Wm3EA",
-            "title": "《호프》 영화 첫 예고편 떴다🔥 외계인 모습 풀고 조인성X황정민 추가장면 최초공개ㄷㄷ 그리고..연상호의 해외 크리처물까지!",
-            "channel_name": "넷플릭스 뽕뽑기 [엘플릭스]",
-            "category": "Film & Animation",
-            "duration": "14:14",
-            "view_count": "155658",
-            "thumbnail_url": "https://i.ytimg.com/vi/Wo2932Wm3EA/hqdefault.jpg"
-        },
-        {
-            "video_id": "GYTnpU0nZbA",
-            "title": "옛날메이플(플래닛) : 미친 운빨로 탄생한 레전드 지작템 ㄷㄷ [팡이요,  메이플스토리:플래닛]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "10:27",
-            "view_count": "90500",
-            "thumbnail_url": "https://i.ytimg.com/vi/GYTnpU0nZbA/hqdefault.jpg"
+            "duration": "24:03",
+            "view_count": "526025",
+            "thumbnail_url": "https://i.ytimg.com/vi/HGjlUUtZgUw/hqdefault.jpg"
         },
         {
             "video_id": "R5By6ms2a3Y",
@@ -169,8 +115,62 @@
             "channel_name": "I.O.I - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "13945",
+            "view_count": "54164",
             "thumbnail_url": "https://i.ytimg.com/vi/R5By6ms2a3Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "6dXhtaDkDoU",
+            "title": "와...개미친 UFO, 황정민, 조인성, 나홍진 ≪호프 ≫ 예고편 분석 총모음집 \"인간 사냥나선 외계인\"",
+            "channel_name": "김시선",
+            "category": "Film & Animation",
+            "duration": "10:33",
+            "view_count": "165423",
+            "thumbnail_url": "https://i.ytimg.com/vi/6dXhtaDkDoU/hqdefault.jpg"
+        },
+        {
+            "video_id": "VmZTSqAMyBw",
+            "title": "불도그의 +9 싸울아비 장검을 뵙습니다.",
+            "channel_name": "카르마 Karma",
+            "category": "People & Blogs",
+            "duration": "1:32:44",
+            "view_count": "192150",
+            "thumbnail_url": "https://i.ytimg.com/vi/VmZTSqAMyBw/hqdefault.jpg"
+        },
+        {
+            "video_id": "1jKnI_ib8c8",
+            "title": "ITZY “Motto” M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "3784317",
+            "thumbnail_url": "https://i.ytimg.com/vi/1jKnI_ib8c8/hqdefault.jpg"
+        },
+        {
+            "video_id": "Wo2932Wm3EA",
+            "title": "《호프》 영화 첫 예고편 떴다🔥 외계인 모습 풀고 조인성X황정민 추가장면 최초공개ㄷㄷ 그리고..연상호의 해외 크리처물까지!",
+            "channel_name": "넷플릭스 뽕뽑기 [엘플릭스]",
+            "category": "Film & Animation",
+            "duration": "14:14",
+            "view_count": "168742",
+            "thumbnail_url": "https://i.ytimg.com/vi/Wo2932Wm3EA/hqdefault.jpg"
+        },
+        {
+            "video_id": "jKJNd0VaubQ",
+            "title": "천상계 롤CK에서도 강제 은퇴당한 피넛 현재 폼..",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "45:52",
+            "view_count": "304420",
+            "thumbnail_url": "https://i.ytimg.com/vi/jKJNd0VaubQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "7QGRDC7ngpE",
+            "title": "ZEROBASEONE (제로베이스원) 'TOP 5' MV",
+            "channel_name": "ZEROBASEONE",
+            "category": "Entertainment",
+            "duration": "2:32",
+            "view_count": "7165029",
+            "thumbnail_url": "https://i.ytimg.com/vi/7QGRDC7ngpE/hqdefault.jpg"
         },
         {
             "video_id": "v1G3rWUbf4A",
@@ -178,8 +178,26 @@
             "channel_name": "Fantasoner(판타소너)",
             "category": "Entertainment",
             "duration": "3:02",
-            "view_count": "178179",
+            "view_count": "187458",
             "thumbnail_url": "https://i.ytimg.com/vi/v1G3rWUbf4A/hqdefault.jpg"
+        },
+        {
+            "video_id": "knGhzHK7PK8",
+            "title": "질지드",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "24:23",
+            "view_count": "337304",
+            "thumbnail_url": "https://i.ytimg.com/vi/knGhzHK7PK8/hqdefault.jpg"
+        },
+        {
+            "video_id": "tTi2uZQsmlo",
+            "title": "TWS (투어스) '너의 모든 가능성이 되어 줄게' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "184005",
+            "thumbnail_url": "https://i.ytimg.com/vi/tTi2uZQsmlo/hqdefault.jpg"
         },
         {
             "video_id": "MOVuAJMFbCs",
@@ -187,8 +205,26 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "8:29:03",
-            "view_count": "223191",
+            "view_count": "227367",
             "thumbnail_url": "https://i.ytimg.com/vi/MOVuAJMFbCs/hqdefault.jpg"
+        },
+        {
+            "video_id": "dgdDM7sJmZo",
+            "title": "CHOYY - So Say (Official Video)",
+            "channel_name": "CHOYY",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "52763",
+            "thumbnail_url": "https://i.ytimg.com/vi/dgdDM7sJmZo/hqdefault.jpg"
+        },
+        {
+            "video_id": "oUo1UCmAGHQ",
+            "title": "돌아온 *거지 키우기* 근데 얘가 준 복권을 긁어도 될까?",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "45:25",
+            "view_count": "112936",
+            "thumbnail_url": "https://i.ytimg.com/vi/oUo1UCmAGHQ/hqdefault.jpg"
         },
         {
             "video_id": "hN49aXJm8lQ",
@@ -196,7 +232,7 @@
             "channel_name": "전건호 - Topic",
             "category": "Music",
             "duration": "4:08",
-            "view_count": "33816",
+            "view_count": "36423",
             "thumbnail_url": "https://i.ytimg.com/vi/hN49aXJm8lQ/hqdefault.jpg"
         },
         {
@@ -205,62 +241,8 @@
             "channel_name": "YouTube지누",
             "category": "Gaming",
             "duration": "22:03",
-            "view_count": "347008",
+            "view_count": "361548",
             "thumbnail_url": "https://i.ytimg.com/vi/4HMx2BAwHxc/hqdefault.jpg"
-        },
-        {
-            "video_id": "tTi2uZQsmlo",
-            "title": "TWS (투어스) '너의 모든 가능성이 되어 줄게' Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "73517",
-            "thumbnail_url": "https://i.ytimg.com/vi/tTi2uZQsmlo/hqdefault.jpg"
-        },
-        {
-            "video_id": "NgObbWtXsuU",
-            "title": "서버 최후의 낭만 마크유저",
-            "channel_name": "우융",
-            "category": "Gaming",
-            "duration": "18:26",
-            "view_count": "251499",
-            "thumbnail_url": "https://i.ytimg.com/vi/NgObbWtXsuU/hqdefault.jpg"
-        },
-        {
-            "video_id": "dgdDM7sJmZo",
-            "title": "CHOYY - So Say (Official Video)",
-            "channel_name": "CHOYY",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "39457",
-            "thumbnail_url": "https://i.ytimg.com/vi/dgdDM7sJmZo/hqdefault.jpg"
-        },
-        {
-            "video_id": "04Pg1F9i_hY",
-            "title": "[리니지클래식] 26화. 불도그 X 카르마 (ft.이문주, 양태)",
-            "channel_name": "불도그",
-            "category": "Gaming",
-            "duration": "21:42",
-            "view_count": "146180",
-            "thumbnail_url": "https://i.ytimg.com/vi/04Pg1F9i_hY/hqdefault.jpg"
-        },
-        {
-            "video_id": "pPchEw23_ng",
-            "title": "하루를 여는 찬송모음 | 변찮는 주님의 사랑과 | 은혜가 가득한 찬양 모음집 | 유튜브 최고의 찬송가 시리즈 | Hymn collection | 내 영혼의 그윽히 깊은데서",
-            "channel_name": "praiseON 프레이즈온",
-            "category": "Music",
-            "duration": "2:00:51",
-            "view_count": "11728",
-            "thumbnail_url": "https://i.ytimg.com/vi/pPchEw23_ng/hqdefault.jpg"
-        },
-        {
-            "video_id": "oUo1UCmAGHQ",
-            "title": "돌아온 *거지 키우기* 근데 얘가 준 복권을 긁어도 될까?",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "45:25",
-            "view_count": "65552",
-            "thumbnail_url": "https://i.ytimg.com/vi/oUo1UCmAGHQ/hqdefault.jpg"
         },
         {
             "video_id": "qcGnrYoUXPg",
@@ -268,17 +250,35 @@
             "channel_name": "An Nyeong - Topic",
             "category": "Music",
             "duration": "4:43",
-            "view_count": "28257",
+            "view_count": "31088",
             "thumbnail_url": "https://i.ytimg.com/vi/qcGnrYoUXPg/hqdefault.jpg"
         },
         {
-            "video_id": "6HgBABbfpF0",
-            "title": "간절함의 동기화🙏🔗│GEN vs T1│2026 LCK│울챔스 하이라이트",
-            "channel_name": "Wolf",
+            "video_id": "NgObbWtXsuU",
+            "title": "서버 최후의 낭만 마크유저",
+            "channel_name": "우융",
             "category": "Gaming",
-            "duration": "1:26:45",
-            "view_count": "370057",
-            "thumbnail_url": "https://i.ytimg.com/vi/6HgBABbfpF0/hqdefault.jpg"
+            "duration": "18:26",
+            "view_count": "275790",
+            "thumbnail_url": "https://i.ytimg.com/vi/NgObbWtXsuU/hqdefault.jpg"
+        },
+        {
+            "video_id": "pPchEw23_ng",
+            "title": "하루를 여는 찬송모음 | 변찮는 주님의 사랑과 | 은혜가 가득한 찬양 모음집 | 유튜브 최고의 찬송가 시리즈 | Hymn collection | 내 영혼의 그윽히 깊은데서",
+            "channel_name": "praiseON 프레이즈온",
+            "category": "Music",
+            "duration": "2:00:51",
+            "view_count": "12172",
+            "thumbnail_url": "https://i.ytimg.com/vi/pPchEw23_ng/hqdefault.jpg"
+        },
+        {
+            "video_id": "5QI0Yz99rGQ",
+            "title": "논문이 통과되지 않는 대학원생의 인생ㅠㅠ",
+            "channel_name": "왈도쿤",
+            "category": "Gaming",
+            "duration": "18:05",
+            "view_count": "81691",
+            "thumbnail_url": "https://i.ytimg.com/vi/5QI0Yz99rGQ/hqdefault.jpg"
         },
         {
             "video_id": "XdujOljuyNw",
@@ -286,17 +286,17 @@
             "channel_name": "MORE VISION",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "649193",
+            "view_count": "728625",
             "thumbnail_url": "https://i.ytimg.com/vi/XdujOljuyNw/hqdefault.jpg"
         },
         {
-            "video_id": "FkHtjoEuaqM",
-            "title": "성장한 나로 턱신 중간점검! 보스 순회 돌아보기!! 미친 확률 뚫고 일비 파밍까지?! [메이플 플래닛 8화/옛날 메이플]",
-            "channel_name": "채널 명예훈장",
+            "video_id": "mPXli1SCUw4",
+            "title": "랭킹 1등 리자넷님께서 직접 해명하러 오셨습니다..",
+            "channel_name": "재능충 아재",
             "category": "Gaming",
-            "duration": "14:22",
-            "view_count": "100692",
-            "thumbnail_url": "https://i.ytimg.com/vi/FkHtjoEuaqM/hqdefault.jpg"
+            "duration": "4:39",
+            "view_count": "35107",
+            "thumbnail_url": "https://i.ytimg.com/vi/mPXli1SCUw4/hqdefault.jpg"
         },
         {
             "video_id": "jMEDxAh-aA0",
@@ -304,17 +304,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "48862",
+            "view_count": "52370",
             "thumbnail_url": "https://i.ytimg.com/vi/jMEDxAh-aA0/hqdefault.jpg"
         },
         {
-            "video_id": "JEi-1UTnKP4",
-            "title": "운 없으면 절대 못 깨는 유즈맵 \"메이플 운빨 디펜스\"",
+            "video_id": "FOUMXChi4Ck",
+            "title": "방에 들어가자마자 쳐맞다가 가면 된다고 도발하는 10승 0패 승률 100% 초고수 상대 만남;; 알파고의 운명은..?",
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "2:40:40",
-            "view_count": "90185",
-            "thumbnail_url": "https://i.ytimg.com/vi/JEi-1UTnKP4/hqdefault.jpg"
+            "duration": "41:03",
+            "view_count": "67862",
+            "thumbnail_url": "https://i.ytimg.com/vi/FOUMXChi4Ck/hqdefault.jpg"
         },
         {
             "video_id": "8_75zmy-5w0",
@@ -322,35 +322,17 @@
             "channel_name": "TAEYONG - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "29426",
+            "view_count": "32884",
             "thumbnail_url": "https://i.ytimg.com/vi/8_75zmy-5w0/hqdefault.jpg"
         },
         {
-            "video_id": "JJ_xFS8hRrM",
-            "title": "행돌님… 유네네랑 집에서 뭐했어??",
-            "channel_name": "행돌",
+            "video_id": "RJEi6PIORoU",
+            "title": "강해지고 싶어서 뭐든 다 질러봤습니다 [메이플플래닛]",
+            "channel_name": "글자네",
             "category": "Gaming",
-            "duration": "15:12",
-            "view_count": "115372",
-            "thumbnail_url": "https://i.ytimg.com/vi/JJ_xFS8hRrM/hqdefault.jpg"
-        },
-        {
-            "video_id": "tiKgdh4Csj8",
-            "title": "TAEYONG 태용 'WYLD' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "2:50",
-            "view_count": "241033",
-            "thumbnail_url": "https://i.ytimg.com/vi/tiKgdh4Csj8/hqdefault.jpg"
-        },
-        {
-            "video_id": "9W8prWa3vAI",
-            "title": "오로지 이 남자는 '성공률 10%' 주문서만 바릅니다 ㅋㅋㅋ",
-            "channel_name": "찬해",
-            "category": "Gaming",
-            "duration": "20:55",
-            "view_count": "71552",
-            "thumbnail_url": "https://i.ytimg.com/vi/9W8prWa3vAI/hqdefault.jpg"
+            "duration": "15:47",
+            "view_count": "69727",
+            "thumbnail_url": "https://i.ytimg.com/vi/RJEi6PIORoU/hqdefault.jpg"
         },
         {
             "video_id": "gVfT_J9faeQ",
@@ -358,26 +340,44 @@
             "channel_name": "Wooseok Byeon - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "413777",
+            "view_count": "431541",
             "thumbnail_url": "https://i.ytimg.com/vi/gVfT_J9faeQ/hqdefault.jpg"
         },
         {
-            "video_id": "29iLXsS-PDw",
-            "title": "(※현재 일본에서 난리난) 30미터짜리 귀신에게 쫒기는 공포게임 미쳤다;;;",
-            "channel_name": "혜안",
+            "video_id": "LOT2Qk2g7WA",
+            "title": "드디어 폭발한 유명 버튜버 흑화 백곰파님.. 그녀는 결혼에 진심이였습니다ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "김블루",
             "category": "Gaming",
-            "duration": "38:05",
-            "view_count": "142200",
-            "thumbnail_url": "https://i.ytimg.com/vi/29iLXsS-PDw/hqdefault.jpg"
+            "duration": "17:43",
+            "view_count": "93597",
+            "thumbnail_url": "https://i.ytimg.com/vi/LOT2Qk2g7WA/hqdefault.jpg"
         },
         {
-            "video_id": "UXKO85AvIAg",
-            "title": "일할때 듣기좋은 발라드 추천 광고없는 노래모음   유튜브 베스트곡 TOP BEST 100   임창정,성시경,더원,백지영,김필,양파,이승기,왁스,김범수,소울스타,원티드",
-            "channel_name": "K-POP 발라드 감성 TOP 100",
-            "category": "People & Blogs",
-            "duration": "1:02:01",
-            "view_count": "11897",
-            "thumbnail_url": "https://i.ytimg.com/vi/UXKO85AvIAg/hqdefault.jpg"
+            "video_id": "tiKgdh4Csj8",
+            "title": "TAEYONG 태용 'WYLD' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "2:50",
+            "view_count": "350736",
+            "thumbnail_url": "https://i.ytimg.com/vi/tiKgdh4Csj8/hqdefault.jpg"
+        },
+        {
+            "video_id": "fZtERzka2YA",
+            "title": "롤 챔피언들의 탄생 비화, 우주적 존재들이 챔피언이 된 사연까지! 진짜 미쳤다.. | 정하래 장인초대석 [테스터훈]",
+            "channel_name": "테스터훈 TesterHoon",
+            "category": "Gaming",
+            "duration": "41:19",
+            "view_count": "42699",
+            "thumbnail_url": "https://i.ytimg.com/vi/fZtERzka2YA/hqdefault.jpg"
+        },
+        {
+            "video_id": "IOc9GTyxhYg",
+            "title": "MEOVV(미야오) [BITE NOW] TRAILER",
+            "channel_name": "MEOVV",
+            "category": "Entertainment",
+            "duration": "5:23",
+            "view_count": "327915",
+            "thumbnail_url": "https://i.ytimg.com/vi/IOc9GTyxhYg/hqdefault.jpg"
         }
     ]
 }
