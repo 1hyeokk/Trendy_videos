@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-22 01:15:48",
+    "scraped_time": "2026-05-22 03:58:24",
     "videos": [
         {
             "video_id": "Jxgbfc89hNI",
@@ -7,7 +7,7 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "2016478",
+            "view_count": "2075242",
             "thumbnail_url": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg"
         },
         {
@@ -16,62 +16,8 @@
             "channel_name": "플러스엠 엔터테인먼트",
             "category": "Film & Animation",
             "duration": "1:39",
-            "view_count": "1701323",
+            "view_count": "1734031",
             "thumbnail_url": "https://i.ytimg.com/vi/ODnHr2Emnf0/hqdefault.jpg"
-        },
-        {
-            "video_id": "gWzmvIrUt_I",
-            "title": "배를 다시 가져와라",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "20:14",
-            "view_count": "527487",
-            "thumbnail_url": "https://i.ytimg.com/vi/gWzmvIrUt_I/hqdefault.jpg"
-        },
-        {
-            "video_id": "R5By6ms2a3Y",
-            "title": "Suddenly",
-            "channel_name": "I.O.I - Topic",
-            "category": "Music",
-            "duration": "3:15",
-            "view_count": "548244",
-            "thumbnail_url": "https://i.ytimg.com/vi/R5By6ms2a3Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "lCG0M3sMCHM",
-            "title": "”CGI 별로고 개판인데 존나 재밌다..??💥“ 나홍진의 ≪호프≫ 인터네셔널 예고편 리뷰",
-            "channel_name": "기묘한 케이지",
-            "category": "Film & Animation",
-            "duration": "5:10",
-            "view_count": "365041",
-            "thumbnail_url": "https://i.ytimg.com/vi/lCG0M3sMCHM/hqdefault.jpg"
-        },
-        {
-            "video_id": "FigAtFqzPbw",
-            "title": "이세계 대장간 오픈 (쌀숭이 환영)",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "55:29",
-            "view_count": "375536",
-            "thumbnail_url": "https://i.ytimg.com/vi/FigAtFqzPbw/hqdefault.jpg"
-        },
-        {
-            "video_id": "8opORvWJDGU",
-            "title": "BUMPA",
-            "channel_name": "BIBI - Topic",
-            "category": "Music",
-            "duration": "3:39",
-            "view_count": "78925",
-            "thumbnail_url": "https://i.ytimg.com/vi/8opORvWJDGU/hqdefault.jpg"
-        },
-        {
-            "video_id": "oRccWYlPmX8",
-            "title": "와.. 진짜 미친 게 왔다.. ≪호프≫ 공식 예고편 나노 분석 & 떡밥 총정리",
-            "channel_name": "무비띵크_Movie Think",
-            "category": "Film & Animation",
-            "duration": "10:52",
-            "view_count": "460952",
-            "thumbnail_url": "https://i.ytimg.com/vi/oRccWYlPmX8/hqdefault.jpg"
         },
         {
             "video_id": "pi5QyeQwiFo",
@@ -79,8 +25,62 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "23:00",
-            "view_count": "150641",
+            "view_count": "228477",
             "thumbnail_url": "https://i.ytimg.com/vi/pi5QyeQwiFo/hqdefault.jpg"
+        },
+        {
+            "video_id": "R5By6ms2a3Y",
+            "title": "Suddenly",
+            "channel_name": "I.O.I - Topic",
+            "category": "Music",
+            "duration": "3:15",
+            "view_count": "568850",
+            "thumbnail_url": "https://i.ytimg.com/vi/R5By6ms2a3Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "yzGgNK96CtU",
+            "title": "해외반응 나홍진 감독 HOPE 호프 예고편 (2탄) 리액션 한글자막  무조건 영화관 간다는 외국인!!",
+            "channel_name": "영 드 애 리액션",
+            "category": "Film & Animation",
+            "duration": "8:05",
+            "view_count": "43116",
+            "thumbnail_url": "https://i.ytimg.com/vi/yzGgNK96CtU/hqdefault.jpg"
+        },
+        {
+            "video_id": "gWzmvIrUt_I",
+            "title": "배를 다시 가져와라",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "20:14",
+            "view_count": "539423",
+            "thumbnail_url": "https://i.ytimg.com/vi/gWzmvIrUt_I/hqdefault.jpg"
+        },
+        {
+            "video_id": "8opORvWJDGU",
+            "title": "BUMPA",
+            "channel_name": "BIBI - Topic",
+            "category": "Music",
+            "duration": "3:39",
+            "view_count": "81366",
+            "thumbnail_url": "https://i.ytimg.com/vi/8opORvWJDGU/hqdefault.jpg"
+        },
+        {
+            "video_id": "lCG0M3sMCHM",
+            "title": "”CGI 별로고 개판인데 존나 재밌다..??💥“ 나홍진의 ≪호프≫ 인터네셔널 예고편 리뷰",
+            "channel_name": "기묘한 케이지",
+            "category": "Film & Animation",
+            "duration": "5:10",
+            "view_count": "367398",
+            "thumbnail_url": "https://i.ytimg.com/vi/lCG0M3sMCHM/hqdefault.jpg"
+        },
+        {
+            "video_id": "JnEUQA1Eipc",
+            "title": "맨 VS 백줌 (성공 1%)",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "32:37",
+            "view_count": "212071",
+            "thumbnail_url": "https://i.ytimg.com/vi/JnEUQA1Eipc/hqdefault.jpg"
         },
         {
             "video_id": "aGwmkWxALiw",
@@ -88,17 +88,17 @@
             "channel_name": "Roy Kim - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "63376",
+            "view_count": "69659",
             "thumbnail_url": "https://i.ytimg.com/vi/aGwmkWxALiw/hqdefault.jpg"
         },
         {
-            "video_id": "jUMh5JPG8oU",
-            "title": "\"불길한 게 나와버렸습니다..\"💥 미쳐버린 스케일의 나홍진 크리처물 《호프》 예고편 완전 분석 총정리ㄷㄷ",
-            "channel_name": "매드무비 : MadMovie",
+            "video_id": "oRccWYlPmX8",
+            "title": "와.. 진짜 미친 게 왔다.. ≪호프≫ 공식 예고편 나노 분석 & 떡밥 총정리",
+            "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
-            "duration": "10:33",
-            "view_count": "203267",
-            "thumbnail_url": "https://i.ytimg.com/vi/jUMh5JPG8oU/hqdefault.jpg"
+            "duration": "10:52",
+            "view_count": "464056",
+            "thumbnail_url": "https://i.ytimg.com/vi/oRccWYlPmX8/hqdefault.jpg"
         },
         {
             "video_id": "oPjQx_iwlH4",
@@ -106,7 +106,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:54",
-            "view_count": "163408",
+            "view_count": "210922",
             "thumbnail_url": "https://i.ytimg.com/vi/oPjQx_iwlH4/hqdefault.jpg"
         },
         {
@@ -115,17 +115,44 @@
             "channel_name": "PLAVE - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "109128",
+            "view_count": "112992",
             "thumbnail_url": "https://i.ytimg.com/vi/QjZ6yzhqD-c/hqdefault.jpg"
         },
         {
-            "video_id": "08C7wXGMM-Q",
-            "title": "참교육 | 공식 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "1:37",
-            "view_count": "121888",
-            "thumbnail_url": "https://i.ytimg.com/vi/08C7wXGMM-Q/hqdefault.jpg"
+            "video_id": "jUMh5JPG8oU",
+            "title": "\"불길한 게 나와버렸습니다..\"💥 미쳐버린 스케일의 나홍진 크리처물 《호프》 예고편 완전 분석 총정리ㄷㄷ",
+            "channel_name": "매드무비 : MadMovie",
+            "category": "Film & Animation",
+            "duration": "10:33",
+            "view_count": "209026",
+            "thumbnail_url": "https://i.ytimg.com/vi/jUMh5JPG8oU/hqdefault.jpg"
+        },
+        {
+            "video_id": "dJev6cRUmVw",
+            "title": "종결템 2명 VS 맨손 시청자 100명",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "43:46",
+            "view_count": "149900",
+            "thumbnail_url": "https://i.ytimg.com/vi/dJev6cRUmVw/hqdefault.jpg"
+        },
+        {
+            "video_id": "cLJ9EBzi1Nw",
+            "title": "Knew Better Part Two",
+            "channel_name": "Ariana Grande - Topic",
+            "category": "Music",
+            "duration": "2:45",
+            "view_count": "634266",
+            "thumbnail_url": "https://i.ytimg.com/vi/cLJ9EBzi1Nw/hqdefault.jpg"
+        },
+        {
+            "video_id": "nk0avgppALg",
+            "title": "\"지구는 거대한 실험실이었다\"🔥곧 200만 도달🔥《호프》1차 예고편 분석 떡밥 총정리",
+            "channel_name": "영화테스터 | 상자뭅movie review",
+            "category": "Film & Animation",
+            "duration": "12:22",
+            "view_count": "11540",
+            "thumbnail_url": "https://i.ytimg.com/vi/nk0avgppALg/hqdefault.jpg"
         },
         {
             "video_id": "Y5mhiPtz7Y8",
@@ -133,7 +160,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "59:22",
-            "view_count": "178240",
+            "view_count": "191445",
             "thumbnail_url": "https://i.ytimg.com/vi/Y5mhiPtz7Y8/hqdefault.jpg"
         },
         {
@@ -142,17 +169,17 @@
             "channel_name": "TAEYANG - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "501498",
+            "view_count": "510147",
             "thumbnail_url": "https://i.ytimg.com/vi/uIjKp_SDvWg/hqdefault.jpg"
         },
         {
-            "video_id": "nk0avgppALg",
-            "title": "\"지구는 거대한 실험실이었다\"🔥곧 200만 도달🔥《호프》1차 예고편 분석 떡밥 총정리",
-            "channel_name": "영화테스터 | 상자뭅movie review",
-            "category": "Film & Animation",
-            "duration": "12:22",
-            "view_count": "8587",
-            "thumbnail_url": "https://i.ytimg.com/vi/nk0avgppALg/hqdefault.jpg"
+            "video_id": "08C7wXGMM-Q",
+            "title": "참교육 | 공식 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "1:37",
+            "view_count": "127138",
+            "thumbnail_url": "https://i.ytimg.com/vi/08C7wXGMM-Q/hqdefault.jpg"
         },
         {
             "video_id": "rGG47pJYHk8",
@@ -160,17 +187,17 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "22:19",
-            "view_count": "355456",
+            "view_count": "371761",
             "thumbnail_url": "https://i.ytimg.com/vi/rGG47pJYHk8/hqdefault.jpg"
         },
         {
-            "video_id": "cLJ9EBzi1Nw",
-            "title": "Knew Better Part Two",
-            "channel_name": "Ariana Grande - Topic",
+            "video_id": "V7hCQgE8mxA",
+            "title": "희재",
+            "channel_name": "Sung Si Kyung - Topic",
             "category": "Music",
-            "duration": "2:45",
-            "view_count": "572647",
-            "thumbnail_url": "https://i.ytimg.com/vi/cLJ9EBzi1Nw/hqdefault.jpg"
+            "duration": "4:08",
+            "view_count": "88849",
+            "thumbnail_url": "https://i.ytimg.com/vi/V7hCQgE8mxA/hqdefault.jpg"
         },
         {
             "video_id": "6dXhtaDkDoU",
@@ -178,7 +205,7 @@
             "channel_name": "김시선",
             "category": "Film & Animation",
             "duration": "10:33",
-            "view_count": "210887",
+            "view_count": "212430",
             "thumbnail_url": "https://i.ytimg.com/vi/6dXhtaDkDoU/hqdefault.jpg"
         },
         {
@@ -187,17 +214,17 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "21:14",
-            "view_count": "187228",
+            "view_count": "199022",
             "thumbnail_url": "https://i.ytimg.com/vi/5m9Wepraq8k/hqdefault.jpg"
         },
         {
-            "video_id": "V7hCQgE8mxA",
-            "title": "희재",
-            "channel_name": "Sung Si Kyung - Topic",
+            "video_id": "-pKUL5idqxQ",
+            "title": "LUCID DREAM",
+            "channel_name": "IVE - Topic",
             "category": "Music",
-            "duration": "4:08",
-            "view_count": "88370",
-            "thumbnail_url": "https://i.ytimg.com/vi/V7hCQgE8mxA/hqdefault.jpg"
+            "duration": "3:28",
+            "view_count": "217145",
+            "thumbnail_url": "https://i.ytimg.com/vi/-pKUL5idqxQ/hqdefault.jpg"
         },
         {
             "video_id": "Wo2932Wm3EA",
@@ -205,7 +232,7 @@
             "channel_name": "엘플릭스 [LPLIX]",
             "category": "Film & Animation",
             "duration": "14:14",
-            "view_count": "232288",
+            "view_count": "234152",
             "thumbnail_url": "https://i.ytimg.com/vi/Wo2932Wm3EA/hqdefault.jpg"
         },
         {
@@ -214,26 +241,8 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "40:24",
-            "view_count": "226698",
+            "view_count": "230105",
             "thumbnail_url": "https://i.ytimg.com/vi/5ZMX6xfTc0Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "-pKUL5idqxQ",
-            "title": "LUCID DREAM",
-            "channel_name": "IVE - Topic",
-            "category": "Music",
-            "duration": "3:28",
-            "view_count": "210757",
-            "thumbnail_url": "https://i.ytimg.com/vi/-pKUL5idqxQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "dJev6cRUmVw",
-            "title": "종결템 2명 VS 맨손 시청자 100명",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "43:46",
-            "view_count": "108337",
-            "thumbnail_url": "https://i.ytimg.com/vi/dJev6cRUmVw/hqdefault.jpg"
         },
         {
             "video_id": "anPw_n26nOo",
@@ -241,7 +250,7 @@
             "channel_name": "ITZY - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "570639",
+            "view_count": "580143",
             "thumbnail_url": "https://i.ytimg.com/vi/anPw_n26nOo/hqdefault.jpg"
         },
         {
@@ -250,7 +259,7 @@
             "channel_name": "스맵",
             "category": "Gaming",
             "duration": "33:38",
-            "view_count": "95043",
+            "view_count": "101723",
             "thumbnail_url": "https://i.ytimg.com/vi/J9Ew0IZmvjI/hqdefault.jpg"
         },
         {
@@ -259,7 +268,7 @@
             "channel_name": "Wanna One - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "68466",
+            "view_count": "71663",
             "thumbnail_url": "https://i.ytimg.com/vi/c-UxNPfkR1o/hqdefault.jpg"
         },
         {
@@ -268,7 +277,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "9:44",
-            "view_count": "117949",
+            "view_count": "142175",
             "thumbnail_url": "https://i.ytimg.com/vi/T26SqIevm4Q/hqdefault.jpg"
         },
         {
@@ -277,62 +286,8 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "3952324",
+            "view_count": "4219179",
             "thumbnail_url": "https://i.ytimg.com/vi/pB3W-k0kQ8U/hqdefault.jpg"
-        },
-        {
-            "video_id": "Y_LyIhChuB0",
-            "title": "공포의 화이트데이",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "32:19",
-            "view_count": "221587",
-            "thumbnail_url": "https://i.ytimg.com/vi/Y_LyIhChuB0/hqdefault.jpg"
-        },
-        {
-            "video_id": "RHw5NsPjJSs",
-            "title": "MILGRAM -ミルグラム- / アマネ「なんでもにうむ」第三審MV",
-            "channel_name": "MILGRAM -ミルグラム-",
-            "category": "Music",
-            "duration": "2:50",
-            "view_count": "460149",
-            "thumbnail_url": "https://i.ytimg.com/vi/RHw5NsPjJSs/hqdefault.jpg"
-        },
-        {
-            "video_id": "Up31yML5nPc",
-            "title": "BFX vs HLE - DK vs BRO | 2026 LCK",
-            "channel_name": "LCK Global",
-            "category": "Gaming",
-            "duration": "5:54:51",
-            "view_count": "604316",
-            "thumbnail_url": "https://i.ytimg.com/vi/Up31yML5nPc/hqdefault.jpg"
-        },
-        {
-            "video_id": "ysg6GVlzz9Y",
-            "title": "CORTIS (코르티스) ‘ACAI’ Dance Practice (Fix ver.)",
-            "channel_name": "CORTIS",
-            "category": "Entertainment",
-            "duration": "4:51",
-            "view_count": "540295",
-            "thumbnail_url": "https://i.ytimg.com/vi/ysg6GVlzz9Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "dCen_fFcYIU",
-            "title": "저주받은 1군 : 땅타입 하트골드【포켓몬 모든타입 깨기】#6",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "27:53",
-            "view_count": "221350",
-            "thumbnail_url": "https://i.ytimg.com/vi/dCen_fFcYIU/hqdefault.jpg"
-        },
-        {
-            "video_id": "XR81lQrRceg",
-            "title": "스텔라이브 (StelLive) Cliché | '유성우'",
-            "channel_name": "스텔라이브 StelLive Official",
-            "category": "Entertainment",
-            "duration": "3:30",
-            "view_count": "201242",
-            "thumbnail_url": "https://i.ytimg.com/vi/XR81lQrRceg/hqdefault.jpg"
         },
         {
             "video_id": "YghjperzTZs",
@@ -340,8 +295,62 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "20:26",
-            "view_count": "56798",
+            "view_count": "63482",
             "thumbnail_url": "https://i.ytimg.com/vi/YghjperzTZs/hqdefault.jpg"
+        },
+        {
+            "video_id": "RHw5NsPjJSs",
+            "title": "MILGRAM -ミルグラム- / アマネ「なんでもにうむ」第三審MV",
+            "channel_name": "MILGRAM -ミルグラム-",
+            "category": "Music",
+            "duration": "2:50",
+            "view_count": "483878",
+            "thumbnail_url": "https://i.ytimg.com/vi/RHw5NsPjJSs/hqdefault.jpg"
+        },
+        {
+            "video_id": "z9zSiWbXOcw",
+            "title": "리니지클래식 오랫만입니다. 큰거온다 불도그 대기방",
+            "channel_name": "카즈야",
+            "category": "Gaming",
+            "duration": "2:09:11",
+            "view_count": "51113",
+            "thumbnail_url": "https://i.ytimg.com/vi/z9zSiWbXOcw/hqdefault.jpg"
+        },
+        {
+            "video_id": "ysg6GVlzz9Y",
+            "title": "CORTIS (코르티스) ‘ACAI’ Dance Practice (Fix ver.)",
+            "channel_name": "CORTIS",
+            "category": "Entertainment",
+            "duration": "4:51",
+            "view_count": "568741",
+            "thumbnail_url": "https://i.ytimg.com/vi/ysg6GVlzz9Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "yP5KXpBdJXc",
+            "title": "옛날 메이플 선발대의 삶.. 역대급 돈복사 꿀통 찾아냈습니다ㅁㅊ;; [메이플 플래닛 9화/옛날 메이플]",
+            "channel_name": "채널 명예훈장",
+            "category": "Gaming",
+            "duration": "26:17",
+            "view_count": "76293",
+            "thumbnail_url": "https://i.ytimg.com/vi/yP5KXpBdJXc/hqdefault.jpg"
+        },
+        {
+            "video_id": "XR81lQrRceg",
+            "title": "스텔라이브 (StelLive) Cliché | '유성우'",
+            "channel_name": "스텔라이브 StelLive Official",
+            "category": "Entertainment",
+            "duration": "3:30",
+            "view_count": "203825",
+            "thumbnail_url": "https://i.ytimg.com/vi/XR81lQrRceg/hqdefault.jpg"
+        },
+        {
+            "video_id": "Y_LyIhChuB0",
+            "title": "공포의 화이트데이",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "32:19",
+            "view_count": "229606",
+            "thumbnail_url": "https://i.ytimg.com/vi/Y_LyIhChuB0/hqdefault.jpg"
         },
         {
             "video_id": "1jKnI_ib8c8",
@@ -349,7 +358,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "5863967",
+            "view_count": "5939278",
             "thumbnail_url": "https://i.ytimg.com/vi/1jKnI_ib8c8/hqdefault.jpg"
         },
         {
@@ -358,7 +367,7 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "18:14",
-            "view_count": "70677",
+            "view_count": "89172",
             "thumbnail_url": "https://i.ytimg.com/vi/Z9gHDuN8rhU/hqdefault.jpg"
         },
         {
@@ -367,17 +376,8 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "646490",
+            "view_count": "658315",
             "thumbnail_url": "https://i.ytimg.com/vi/tTi2uZQsmlo/hqdefault.jpg"
-        },
-        {
-            "video_id": "d0fbZ1uVX8U",
-            "title": "환생했더니 좀도둑이었던 건에 대하여. 【고래시티 #1】",
-            "channel_name": "준밧드",
-            "category": "Gaming",
-            "duration": "21:33",
-            "view_count": "69811",
-            "thumbnail_url": "https://i.ytimg.com/vi/d0fbZ1uVX8U/hqdefault.jpg"
         }
     ]
 }
