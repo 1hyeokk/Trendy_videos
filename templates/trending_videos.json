@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-24 00:02:53",
+    "scraped_time": "2026-05-24 02:02:31",
     "videos": [
         {
             "video_id": "V1Lr-_AxeR8",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "4522751",
+            "view_count": "4727808",
             "thumbnail_url": "https://i.ytimg.com/vi/V1Lr-_AxeR8/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:19",
-            "view_count": "210535",
+            "view_count": "222989",
             "thumbnail_url": "https://i.ytimg.com/vi/yhTI_6oASdA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "42:13",
-            "view_count": "522931",
+            "view_count": "544867",
             "thumbnail_url": "https://i.ytimg.com/vi/ZC8hkOnxyXo/hqdefault.jpg"
         },
         {
@@ -34,17 +34,17 @@
             "channel_name": "LE SSERAFIM - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "568720",
+            "view_count": "592732",
             "thumbnail_url": "https://i.ytimg.com/vi/Gy32XOFT2ww/hqdefault.jpg"
         },
         {
-            "video_id": "qHVZqkWoa9k",
-            "title": "목숨도 버린 욕망의 최종장 | [골드랜드] 9-10회 예고편 | 디즈니+",
-            "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
+            "video_id": "VspR2SPzGBM",
+            "title": "\"인간이 진짜 괴물이었다?\" 🔥내 눈으로 무조건 확인한다 《호프》 예상 줄거리 총정리 + 예고편 분석",
+            "channel_name": "씨네포유 cine4u",
             "category": "Film & Animation",
-            "duration": "0:56",
-            "view_count": "43029",
-            "thumbnail_url": "https://i.ytimg.com/vi/qHVZqkWoa9k/hqdefault.jpg"
+            "duration": "7:29",
+            "view_count": "38603",
+            "thumbnail_url": "https://i.ytimg.com/vi/VspR2SPzGBM/hqdefault.jpg"
         },
         {
             "video_id": "HMUWMY6Rx0I",
@@ -52,7 +52,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:08",
-            "view_count": "422984",
+            "view_count": "436098",
             "thumbnail_url": "https://i.ytimg.com/vi/HMUWMY6Rx0I/hqdefault.jpg"
         },
         {
@@ -61,17 +61,17 @@
             "channel_name": "Roy Kim - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "351725",
+            "view_count": "360959",
             "thumbnail_url": "https://i.ytimg.com/vi/aGwmkWxALiw/hqdefault.jpg"
         },
         {
-            "video_id": "ODnHr2Emnf0",
-            "title": "[호프] 인터내셔널 예고편",
-            "channel_name": "플러스엠 엔터테인먼트",
+            "video_id": "qHVZqkWoa9k",
+            "title": "목숨도 버린 욕망의 최종장 | [골드랜드] 9-10회 예고편 | 디즈니+",
+            "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
-            "duration": "1:39",
-            "view_count": "2041724",
-            "thumbnail_url": "https://i.ytimg.com/vi/ODnHr2Emnf0/hqdefault.jpg"
+            "duration": "0:56",
+            "view_count": "44935",
+            "thumbnail_url": "https://i.ytimg.com/vi/qHVZqkWoa9k/hqdefault.jpg"
         },
         {
             "video_id": "edQnVUpllHs",
@@ -79,8 +79,35 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "39:15",
-            "view_count": "371848",
+            "view_count": "378757",
             "thumbnail_url": "https://i.ytimg.com/vi/edQnVUpllHs/hqdefault.jpg"
+        },
+        {
+            "video_id": "xLAPpTflZmk",
+            "title": "aespa 에스파 'WDA (Whole Different Animal) (Feat. G-DRAGON)' Performance Video",
+            "channel_name": "aespa",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "290745",
+            "thumbnail_url": "https://i.ytimg.com/vi/xLAPpTflZmk/hqdefault.jpg"
+        },
+        {
+            "video_id": "ODnHr2Emnf0",
+            "title": "[호프] 인터내셔널 예고편",
+            "channel_name": "플러스엠 엔터테인먼트",
+            "category": "Film & Animation",
+            "duration": "1:39",
+            "view_count": "2060195",
+            "thumbnail_url": "https://i.ytimg.com/vi/ODnHr2Emnf0/hqdefault.jpg"
+        },
+        {
+            "video_id": "fRUZPb8kiXw",
+            "title": "옛날메이플(플래닛) : 다음 강화하실분? 빨리요 빨리! [팡이요,  메이플스토리:플래닛]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "16:31",
+            "view_count": "171421",
+            "thumbnail_url": "https://i.ytimg.com/vi/fRUZPb8kiXw/hqdefault.jpg"
         },
         {
             "video_id": "Y69_JADluV8",
@@ -88,17 +115,17 @@
             "channel_name": "Jae Woo AN - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "92864",
+            "view_count": "95081",
             "thumbnail_url": "https://i.ytimg.com/vi/Y69_JADluV8/hqdefault.jpg"
         },
         {
-            "video_id": "VspR2SPzGBM",
-            "title": "\"인간이 진짜 괴물이었다?\" 🔥내 눈으로 무조건 확인한다 《호프》 예상 줄거리 총정리 + 예고편 분석",
-            "channel_name": "씨네포유 cine4u",
+            "video_id": "nk0avgppALg",
+            "title": "\"지구는 거대한 실험실이었다\"🔥곧 200만 도달🔥《호프》1차 예고편 분석 떡밥 총정리",
+            "channel_name": "영화테스터 | 상자뭅movie review",
             "category": "Film & Animation",
-            "duration": "7:29",
-            "view_count": "28465",
-            "thumbnail_url": "https://i.ytimg.com/vi/VspR2SPzGBM/hqdefault.jpg"
+            "duration": "12:22",
+            "view_count": "34274",
+            "thumbnail_url": "https://i.ytimg.com/vi/nk0avgppALg/hqdefault.jpg"
         },
         {
             "video_id": "5d12Lzbb3-o",
@@ -106,7 +133,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "47:21",
-            "view_count": "309204",
+            "view_count": "322174",
             "thumbnail_url": "https://i.ytimg.com/vi/5d12Lzbb3-o/hqdefault.jpg"
         },
         {
@@ -115,35 +142,8 @@
             "channel_name": "I.O.I - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "1359874",
+            "view_count": "1393959",
             "thumbnail_url": "https://i.ytimg.com/vi/R5By6ms2a3Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "nk0avgppALg",
-            "title": "\"지구는 거대한 실험실이었다\"🔥곧 200만 도달🔥《호프》1차 예고편 분석 떡밥 총정리",
-            "channel_name": "영화테스터 | 상자뭅movie review",
-            "category": "Film & Animation",
-            "duration": "12:22",
-            "view_count": "33652",
-            "thumbnail_url": "https://i.ytimg.com/vi/nk0avgppALg/hqdefault.jpg"
-        },
-        {
-            "video_id": "mmIM4cIG8XY",
-            "title": "똘끼 리니지클래식 3억 파트",
-            "channel_name": "똘끼100%",
-            "category": "Gaming",
-            "duration": "8:32:13",
-            "view_count": "401041",
-            "thumbnail_url": "https://i.ytimg.com/vi/mmIM4cIG8XY/hqdefault.jpg"
-        },
-        {
-            "video_id": "xLAPpTflZmk",
-            "title": "aespa 에스파 'WDA (Whole Different Animal) (Feat. G-DRAGON)' Performance Video",
-            "channel_name": "aespa",
-            "category": "Music",
-            "duration": "2:38",
-            "view_count": "219909",
-            "thumbnail_url": "https://i.ytimg.com/vi/xLAPpTflZmk/hqdefault.jpg"
         },
         {
             "video_id": "yzGgNK96CtU",
@@ -151,17 +151,17 @@
             "channel_name": "영 드 애 리액션",
             "category": "Film & Animation",
             "duration": "8:05",
-            "view_count": "65450",
+            "view_count": "66328",
             "thumbnail_url": "https://i.ytimg.com/vi/yzGgNK96CtU/hqdefault.jpg"
         },
         {
-            "video_id": "fRUZPb8kiXw",
-            "title": "옛날메이플(플래닛) : 다음 강화하실분? 빨리요 빨리! [팡이요,  메이플스토리:플래닛]",
-            "channel_name": "팡이요",
+            "video_id": "mmIM4cIG8XY",
+            "title": "똘끼 리니지클래식 3억 파트",
+            "channel_name": "똘끼100%",
             "category": "Gaming",
-            "duration": "16:31",
-            "view_count": "135070",
-            "thumbnail_url": "https://i.ytimg.com/vi/fRUZPb8kiXw/hqdefault.jpg"
+            "duration": "8:32:13",
+            "view_count": "403062",
+            "thumbnail_url": "https://i.ytimg.com/vi/mmIM4cIG8XY/hqdefault.jpg"
         },
         {
             "video_id": "Jxgbfc89hNI",
@@ -169,7 +169,7 @@
             "channel_name": "Stone Music Entertainment",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "2735216",
+            "view_count": "2765982",
             "thumbnail_url": "https://i.ytimg.com/vi/Jxgbfc89hNI/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "37:08",
-            "view_count": "184239",
+            "view_count": "190962",
             "thumbnail_url": "https://i.ytimg.com/vi/HcTD-hbD5lw/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "BIBI - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "222220",
+            "view_count": "226649",
             "thumbnail_url": "https://i.ytimg.com/vi/8opORvWJDGU/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "24:32",
-            "view_count": "102700",
+            "view_count": "116028",
             "thumbnail_url": "https://i.ytimg.com/vi/mqofdr5Zl6w/hqdefault.jpg"
         },
         {
@@ -205,17 +205,17 @@
             "channel_name": "PLAVE - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "303575",
+            "view_count": "309239",
             "thumbnail_url": "https://i.ytimg.com/vi/QjZ6yzhqD-c/hqdefault.jpg"
         },
         {
-            "video_id": "VqqIABjGoiA",
-            "title": "더 나은 고래시티를 위해｜GTA5 고래시티 EP.05",
-            "channel_name": "스맵",
+            "video_id": "oUdxQBtVVCE",
+            "title": "DK vs BFX - NS vs HLE | 2026 LCK",
+            "channel_name": "LCK Global",
             "category": "Gaming",
-            "duration": "52:00",
-            "view_count": "75274",
-            "thumbnail_url": "https://i.ytimg.com/vi/VqqIABjGoiA/hqdefault.jpg"
+            "duration": "6:41:56",
+            "view_count": "804568",
+            "thumbnail_url": "https://i.ytimg.com/vi/oUdxQBtVVCE/hqdefault.jpg"
         },
         {
             "video_id": "G-DOOucaeDQ",
@@ -223,26 +223,8 @@
             "channel_name": "choyy - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "94071",
+            "view_count": "96066",
             "thumbnail_url": "https://i.ytimg.com/vi/G-DOOucaeDQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "fZkwchMPQN8",
-            "title": "죄송합니다...1년간 피했습니다...반반의 유치원 8",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "35:42",
-            "view_count": "113431",
-            "thumbnail_url": "https://i.ytimg.com/vi/fZkwchMPQN8/hqdefault.jpg"
-        },
-        {
-            "video_id": "FOoNqC_u_SI",
-            "title": "눈물 멈추지 않는 애절한 락발라드로 재탄생🔥 감정 폭발 라이브 (소름주의)🎸''묻어버린 아픔''''사랑 참''''나 가거든''''비가''''꽃길''''연인''",
-            "channel_name": "레코드 속 추억",
-            "category": "People & Blogs",
-            "duration": "1:27:41",
-            "view_count": "15933",
-            "thumbnail_url": "https://i.ytimg.com/vi/FOoNqC_u_SI/hqdefault.jpg"
         },
         {
             "video_id": "8W29g9hGezw",
@@ -250,8 +232,44 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "29:16",
-            "view_count": "68442",
+            "view_count": "96823",
             "thumbnail_url": "https://i.ytimg.com/vi/8W29g9hGezw/hqdefault.jpg"
+        },
+        {
+            "video_id": "FOoNqC_u_SI",
+            "title": "눈물 멈추지 않는 애절한 락발라드로 재탄생🔥 감정 폭발 라이브 (소름주의)🎸''묻어버린 아픔''''사랑 참''''나 가거든''''비가''''꽃길''''연인''",
+            "channel_name": "레코드 속 추억",
+            "category": "People & Blogs",
+            "duration": "1:27:41",
+            "view_count": "16963",
+            "thumbnail_url": "https://i.ytimg.com/vi/FOoNqC_u_SI/hqdefault.jpg"
+        },
+        {
+            "video_id": "VqqIABjGoiA",
+            "title": "더 나은 고래시티를 위해｜GTA5 고래시티 EP.05",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "52:00",
+            "view_count": "79991",
+            "thumbnail_url": "https://i.ytimg.com/vi/VqqIABjGoiA/hqdefault.jpg"
+        },
+        {
+            "video_id": "c-UxNPfkR1o",
+            "title": "Spring Breeze, Again",
+            "channel_name": "Wanna One - Topic",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "215110",
+            "thumbnail_url": "https://i.ytimg.com/vi/c-UxNPfkR1o/hqdefault.jpg"
+        },
+        {
+            "video_id": "fZkwchMPQN8",
+            "title": "죄송합니다...1년간 피했습니다...반반의 유치원 8",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "35:42",
+            "view_count": "123239",
+            "thumbnail_url": "https://i.ytimg.com/vi/fZkwchMPQN8/hqdefault.jpg"
         },
         {
             "video_id": "Pzoz_xhIMlE",
@@ -259,7 +277,7 @@
             "channel_name": "Olivia Rodrigo - Topic",
             "category": "Music",
             "duration": "4:58",
-            "view_count": "593359",
+            "view_count": "627380",
             "thumbnail_url": "https://i.ytimg.com/vi/Pzoz_xhIMlE/hqdefault.jpg"
         },
         {
@@ -268,26 +286,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "28:37",
-            "view_count": "87448",
+            "view_count": "102856",
             "thumbnail_url": "https://i.ytimg.com/vi/hwJYmrYHLls/hqdefault.jpg"
         },
         {
-            "video_id": "c-UxNPfkR1o",
-            "title": "Spring Breeze, Again",
-            "channel_name": "Wanna One - Topic",
-            "category": "Music",
-            "duration": "3:38",
-            "view_count": "210493",
-            "thumbnail_url": "https://i.ytimg.com/vi/c-UxNPfkR1o/hqdefault.jpg"
+            "video_id": "b7mJ5vXbO6I",
+            "title": "깜짝 게스트 등장~~~ #남승민 님과 함께하는 #보고싶어서 👍🏻👍🏻 두분 너무 보기 좋아요 #김용빈 #미스터트롯3 #top7 #사랑빈운동회 26.5.23",
+            "channel_name": "별빈",
+            "category": "Entertainment",
+            "duration": "3:03",
+            "view_count": "22548",
+            "thumbnail_url": "https://i.ytimg.com/vi/b7mJ5vXbO6I/hqdefault.jpg"
         },
         {
-            "video_id": "BF_ULinL-jU",
-            "title": "LimbusCompany [000] 거미집 중지 아비 오티스 / E.G.O 5단계 환상 해석 개방",
-            "channel_name": "ProjectMoon Official",
+            "video_id": "dKPi_NfhAKc",
+            "title": "배틀그라운드 5년만에 초장거리 1,000m 카구팔 헤드샷 성공했습니다!",
+            "channel_name": "김블루",
             "category": "Gaming",
-            "duration": "2:55",
-            "view_count": "637420",
-            "thumbnail_url": "https://i.ytimg.com/vi/BF_ULinL-jU/hqdefault.jpg"
+            "duration": "10:10",
+            "view_count": "99983",
+            "thumbnail_url": "https://i.ytimg.com/vi/dKPi_NfhAKc/hqdefault.jpg"
         },
         {
             "video_id": "Qhz5NiFLUAU",
@@ -295,7 +313,7 @@
             "channel_name": "Boramiyu - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "35436",
+            "view_count": "37141",
             "thumbnail_url": "https://i.ytimg.com/vi/Qhz5NiFLUAU/hqdefault.jpg"
         },
         {
@@ -304,26 +322,8 @@
             "channel_name": "아츠토츠카",
             "category": "Gaming",
             "duration": "8:22",
-            "view_count": "136387",
+            "view_count": "147548",
             "thumbnail_url": "https://i.ytimg.com/vi/65QBnnLxtxo/hqdefault.jpg"
-        },
-        {
-            "video_id": "b7mJ5vXbO6I",
-            "title": "깜짝 게스트 등장~~~ #남승민 님과 함께하는 #보고싶어서 👍🏻👍🏻 두분 너무 보기 좋아요 #김용빈 #미스터트롯3 #top7 #사랑빈운동회 26.5.23",
-            "channel_name": "별빈",
-            "category": "Entertainment",
-            "duration": "3:03",
-            "view_count": "19452",
-            "thumbnail_url": "https://i.ytimg.com/vi/b7mJ5vXbO6I/hqdefault.jpg"
-        },
-        {
-            "video_id": "FtJ75gE0RyM",
-            "title": "미국 중국 베트남이 벌벌 떠는 팔협지식 11별돌보미 운영",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "17:02",
-            "view_count": "189324",
-            "thumbnail_url": "https://i.ytimg.com/vi/FtJ75gE0RyM/hqdefault.jpg"
         },
         {
             "video_id": "eqVZSyCKXDg",
@@ -331,17 +331,17 @@
             "channel_name": "K-POP 발라드 감성 TOP 100",
             "category": "People & Blogs",
             "duration": "1:46:50",
-            "view_count": "27460",
+            "view_count": "27568",
             "thumbnail_url": "https://i.ytimg.com/vi/eqVZSyCKXDg/hqdefault.jpg"
         },
         {
-            "video_id": "dKPi_NfhAKc",
-            "title": "배틀그라운드 5년만에 초장거리 1,000m 카구팔 헤드샷 성공했습니다!",
-            "channel_name": "김블루",
+            "video_id": "LkUZjwOClMw",
+            "title": "옛날 메이플 플래닛 목표는 혼테일!! 나로 미친 스펙업+ 템 점검 갑니다!!! [메이플 플래닛 10화/옛날 메이플]",
+            "channel_name": "채널 명예훈장",
             "category": "Gaming",
-            "duration": "10:10",
-            "view_count": "73967",
-            "thumbnail_url": "https://i.ytimg.com/vi/dKPi_NfhAKc/hqdefault.jpg"
+            "duration": "35:53",
+            "view_count": "49391",
+            "thumbnail_url": "https://i.ytimg.com/vi/LkUZjwOClMw/hqdefault.jpg"
         },
         {
             "video_id": "uIjKp_SDvWg",
@@ -349,17 +349,17 @@
             "channel_name": "TAEYANG - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "908426",
+            "view_count": "921902",
             "thumbnail_url": "https://i.ytimg.com/vi/uIjKp_SDvWg/hqdefault.jpg"
         },
         {
-            "video_id": "7fQK1aBguHY",
-            "title": "31분을 지고도 역전한다고? | KT vs GEN | LCK 2R",
-            "channel_name": "피넛",
+            "video_id": "LRrvVzlPdmc",
+            "title": "사기치다 걸린 김봉준, 눈물의 똥꼬쇼 시작.. l GTA5 고래시티 EP.5",
+            "channel_name": "게임대장봉준",
             "category": "Gaming",
-            "duration": "50:13",
-            "view_count": "144310",
-            "thumbnail_url": "https://i.ytimg.com/vi/7fQK1aBguHY/hqdefault.jpg"
+            "duration": "21:15",
+            "view_count": "57723",
+            "thumbnail_url": "https://i.ytimg.com/vi/LRrvVzlPdmc/hqdefault.jpg"
         },
         {
             "video_id": "ba7YbGO2aq4",
@@ -367,17 +367,17 @@
             "channel_name": "TAK / DORIDORI",
             "category": "Music",
             "duration": "2:55",
-            "view_count": "294963",
+            "view_count": "304278",
             "thumbnail_url": "https://i.ytimg.com/vi/ba7YbGO2aq4/hqdefault.jpg"
         },
         {
-            "video_id": "oPjQx_iwlH4",
-            "title": "폭풍전사 티모",
-            "channel_name": "PAKA",
+            "video_id": "BF_ULinL-jU",
+            "title": "LimbusCompany [000] 거미집 중지 아비 오티스 / E.G.O 5단계 환상 해석 개방",
+            "channel_name": "ProjectMoon Official",
             "category": "Gaming",
-            "duration": "22:54",
-            "view_count": "353498",
-            "thumbnail_url": "https://i.ytimg.com/vi/oPjQx_iwlH4/hqdefault.jpg"
+            "duration": "2:55",
+            "view_count": "646159",
+            "thumbnail_url": "https://i.ytimg.com/vi/BF_ULinL-jU/hqdefault.jpg"
         }
     ]
 }
