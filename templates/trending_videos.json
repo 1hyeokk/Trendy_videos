@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-05-29 06:57:09",
+    "scraped_time": "2026-05-29 08:23:56",
     "videos": [
         {
             "video_id": "SlQR9iu09bQ",
@@ -7,7 +7,7 @@
             "channel_name": "Sơn Tùng M-TP Official",
             "category": "Music",
             "duration": "4:18",
-            "view_count": "8055828",
+            "view_count": "8200878",
             "thumbnail_url": "https://i.ytimg.com/vi/SlQR9iu09bQ/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Call of Duty",
             "category": "Gaming",
             "duration": "2:50",
-            "view_count": "1727255",
+            "view_count": "1947274",
             "thumbnail_url": "https://i.ytimg.com/vi/jLbst85USN8/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "29:44",
-            "view_count": "583079",
+            "view_count": "585555",
             "thumbnail_url": "https://i.ytimg.com/vi/ZpwVp8tdTFY/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Jung Seung Hwan - Topic",
             "category": "Music",
             "duration": "4:34",
-            "view_count": "255205",
+            "view_count": "257247",
             "thumbnail_url": "https://i.ytimg.com/vi/5xJFMN1KQko/hqdefault.jpg"
         },
         {
@@ -43,35 +43,8 @@
             "channel_name": "TheGamingRevolution",
             "category": "Gaming",
             "duration": "0:31",
-            "view_count": "79462",
+            "view_count": "80179",
             "thumbnail_url": "https://i.ytimg.com/vi/LOA65C93_t4/hqdefault.jpg"
-        },
-        {
-            "video_id": "jtH_o56mrqI",
-            "title": "쌀숭이 안전 놀이터",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "1:01:04",
-            "view_count": "409221",
-            "thumbnail_url": "https://i.ytimg.com/vi/jtH_o56mrqI/hqdefault.jpg"
-        },
-        {
-            "video_id": "mt49Pn4BM1Y",
-            "title": "ICARUS",
-            "channel_name": "ONEWE - Topic",
-            "category": "Music",
-            "duration": "3:50",
-            "view_count": "29890",
-            "thumbnail_url": "https://i.ytimg.com/vi/mt49Pn4BM1Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "yqUtq_UzVu8",
-            "title": "《킬러들의 쇼핑몰 시즌 2》 첫 예고 떴다..💥 '시즌1' 이후 쇼핑몰 대표가 된 \"정지안\"과 살아돌아온 \"정진만\" vs 글로벌 세력 \"바빌론\"과의 전쟁ㄷㄷ (+이후 후속작)",
-            "channel_name": "매드무비 : MadMovie",
-            "category": "Film & Animation",
-            "duration": "9:25",
-            "view_count": "395410",
-            "thumbnail_url": "https://i.ytimg.com/vi/yqUtq_UzVu8/hqdefault.jpg"
         },
         {
             "video_id": "0cTPX2T6BaU",
@@ -79,17 +52,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:24",
-            "view_count": "260324",
+            "view_count": "275030",
             "thumbnail_url": "https://i.ytimg.com/vi/0cTPX2T6BaU/hqdefault.jpg"
         },
         {
-            "video_id": "KtqdCWf7Ia8",
-            "title": "can't love",
-            "channel_name": "can’t be blue - Topic",
+            "video_id": "mt49Pn4BM1Y",
+            "title": "ICARUS",
+            "channel_name": "ONEWE - Topic",
             "category": "Music",
-            "duration": "3:15",
-            "view_count": "159389",
-            "thumbnail_url": "https://i.ytimg.com/vi/KtqdCWf7Ia8/hqdefault.jpg"
+            "duration": "3:50",
+            "view_count": "31658",
+            "thumbnail_url": "https://i.ytimg.com/vi/mt49Pn4BM1Y/hqdefault.jpg"
         },
         {
             "video_id": "H95Se7B2yyY",
@@ -97,8 +70,35 @@
             "channel_name": "시온",
             "category": "Gaming",
             "duration": "3:21",
-            "view_count": "51165",
+            "view_count": "66224",
             "thumbnail_url": "https://i.ytimg.com/vi/H95Se7B2yyY/hqdefault.jpg"
+        },
+        {
+            "video_id": "jtH_o56mrqI",
+            "title": "쌀숭이 안전 놀이터",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "1:01:04",
+            "view_count": "410722",
+            "thumbnail_url": "https://i.ytimg.com/vi/jtH_o56mrqI/hqdefault.jpg"
+        },
+        {
+            "video_id": "KtqdCWf7Ia8",
+            "title": "can't love",
+            "channel_name": "can’t be blue - Topic",
+            "category": "Music",
+            "duration": "3:15",
+            "view_count": "160210",
+            "thumbnail_url": "https://i.ytimg.com/vi/KtqdCWf7Ia8/hqdefault.jpg"
+        },
+        {
+            "video_id": "yqUtq_UzVu8",
+            "title": "《킬러들의 쇼핑몰 시즌 2》 첫 예고 떴다..💥 '시즌1' 이후 쇼핑몰 대표가 된 \"정지안\"과 살아돌아온 \"정진만\" vs 글로벌 세력 \"바빌론\"과의 전쟁ㄷㄷ (+이후 후속작)",
+            "channel_name": "매드무비 : MadMovie",
+            "category": "Film & Animation",
+            "duration": "9:25",
+            "view_count": "396858",
+            "thumbnail_url": "https://i.ytimg.com/vi/yqUtq_UzVu8/hqdefault.jpg"
         },
         {
             "video_id": "dH5BPgWkfKA",
@@ -106,7 +106,7 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "44:10",
-            "view_count": "121420",
+            "view_count": "129462",
             "thumbnail_url": "https://i.ytimg.com/vi/dH5BPgWkfKA/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "RYU MIN HEE - Topic",
             "category": "Music",
             "duration": "4:51",
-            "view_count": "70535",
+            "view_count": "71564",
             "thumbnail_url": "https://i.ytimg.com/vi/kfG1-PhgXJc/hqdefault.jpg"
         },
         {
@@ -124,17 +124,17 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "0:41",
-            "view_count": "164573",
+            "view_count": "174215",
             "thumbnail_url": "https://i.ytimg.com/vi/V276Pu7NVMM/hqdefault.jpg"
         },
         {
-            "video_id": "0j5bekJnis0",
-            "title": "리니지 클래식 불도그 작살나기 3시간전",
-            "channel_name": "이문주",
+            "video_id": "-OADlq__nZI",
+            "title": "영웅은 뒈지지 않아요",
+            "channel_name": "맛좋은호박벌",
             "category": "Gaming",
-            "duration": "5:56:48",
-            "view_count": "216364",
-            "thumbnail_url": "https://i.ytimg.com/vi/0j5bekJnis0/hqdefault.jpg"
+            "duration": "13:54",
+            "view_count": "241892",
+            "thumbnail_url": "https://i.ytimg.com/vi/-OADlq__nZI/hqdefault.jpg"
         },
         {
             "video_id": "1IzZezTfwE0",
@@ -142,7 +142,7 @@
             "channel_name": "XLOV",
             "category": "Entertainment",
             "duration": "3:23",
-            "view_count": "823175",
+            "view_count": "842410",
             "thumbnail_url": "https://i.ytimg.com/vi/1IzZezTfwE0/hqdefault.jpg"
         },
         {
@@ -151,26 +151,26 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "2:39",
-            "view_count": "461047",
+            "view_count": "481036",
             "thumbnail_url": "https://i.ytimg.com/vi/2ET-9QsnqsM/hqdefault.jpg"
         },
         {
-            "video_id": "-OADlq__nZI",
-            "title": "영웅은 뒈지지 않아요",
-            "channel_name": "맛좋은호박벌",
+            "video_id": "0j5bekJnis0",
+            "title": "리니지 클래식 불도그 작살나기 3시간전",
+            "channel_name": "이문주",
             "category": "Gaming",
-            "duration": "13:54",
-            "view_count": "238078",
-            "thumbnail_url": "https://i.ytimg.com/vi/-OADlq__nZI/hqdefault.jpg"
+            "duration": "5:56:48",
+            "view_count": "217274",
+            "thumbnail_url": "https://i.ytimg.com/vi/0j5bekJnis0/hqdefault.jpg"
         },
         {
-            "video_id": "cBfYIb1w1iw",
-            "title": "ALPHA DRIVE ONE 'OMG!' MV",
-            "channel_name": "ALPHA DRIVE ONE",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "12051435",
-            "thumbnail_url": "https://i.ytimg.com/vi/cBfYIb1w1iw/hqdefault.jpg"
+            "video_id": "RrBC5xMp9Uo",
+            "title": "[풀버전] 배이&지우 | 헤이즈 - And July, 백지영 - 내 귀에 캔디 | MIXX SERENADE(믹스 세레나데)",
+            "channel_name": "NMIXX",
+            "category": "Entertainment",
+            "duration": "3:07",
+            "view_count": "36855",
+            "thumbnail_url": "https://i.ytimg.com/vi/RrBC5xMp9Uo/hqdefault.jpg"
         },
         {
             "video_id": "VPlSOYumNL4",
@@ -178,7 +178,7 @@
             "channel_name": "오마르의 삶",
             "category": "Entertainment",
             "duration": "15:29",
-            "view_count": "36990",
+            "view_count": "37166",
             "thumbnail_url": "https://i.ytimg.com/vi/VPlSOYumNL4/hqdefault.jpg"
         },
         {
@@ -187,26 +187,17 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "6:58:21",
-            "view_count": "311634",
+            "view_count": "312167",
             "thumbnail_url": "https://i.ytimg.com/vi/_A-2cqXDZ-U/hqdefault.jpg"
         },
         {
-            "video_id": "RrBC5xMp9Uo",
-            "title": "[풀버전] 배이&지우 | 헤이즈 - And July, 백지영 - 내 귀에 캔디 | MIXX SERENADE(믹스 세레나데)",
-            "channel_name": "NMIXX",
-            "category": "Entertainment",
-            "duration": "3:07",
-            "view_count": "35230",
-            "thumbnail_url": "https://i.ytimg.com/vi/RrBC5xMp9Uo/hqdefault.jpg"
-        },
-        {
-            "video_id": "CanKSh7fTyI",
-            "title": "킬러들의 쇼핑몰 시즌2 | Re-Opening 예고편 | 디즈니+",
-            "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
-            "category": "Film & Animation",
-            "duration": "1:03",
-            "view_count": "505960",
-            "thumbnail_url": "https://i.ytimg.com/vi/CanKSh7fTyI/hqdefault.jpg"
+            "video_id": "cBfYIb1w1iw",
+            "title": "ALPHA DRIVE ONE 'OMG!' MV",
+            "channel_name": "ALPHA DRIVE ONE",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "12144813",
+            "thumbnail_url": "https://i.ytimg.com/vi/cBfYIb1w1iw/hqdefault.jpg"
         },
         {
             "video_id": "W3IlmgXCJxQ",
@@ -214,7 +205,7 @@
             "channel_name": "LCK Global",
             "category": "Gaming",
             "duration": "5:33:30",
-            "view_count": "1108521",
+            "view_count": "1113242",
             "thumbnail_url": "https://i.ytimg.com/vi/W3IlmgXCJxQ/hqdefault.jpg"
         },
         {
@@ -223,17 +214,17 @@
             "channel_name": "RIIZE",
             "category": "Music",
             "duration": "0:53",
-            "view_count": "82220",
+            "view_count": "83077",
             "thumbnail_url": "https://i.ytimg.com/vi/Qi4nfaPhBcY/hqdefault.jpg"
         },
         {
-            "video_id": "ivLfDuwIwK0",
-            "title": "점프 점프",
-            "channel_name": "PAKA",
+            "video_id": "rXRu1jCrWs8",
+            "title": "게임의 승패를 바꾸는 단 하나의 세계선 | T1 vs KT | 하이라이트 | 05.28 | 2026 LCK",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "23:03",
-            "view_count": "318657",
-            "thumbnail_url": "https://i.ytimg.com/vi/ivLfDuwIwK0/hqdefault.jpg"
+            "duration": "34:19",
+            "view_count": "114720",
+            "thumbnail_url": "https://i.ytimg.com/vi/rXRu1jCrWs8/hqdefault.jpg"
         },
         {
             "video_id": "6IFeGqSqrKs",
@@ -241,8 +232,26 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "1662670",
+            "view_count": "1675391",
             "thumbnail_url": "https://i.ytimg.com/vi/6IFeGqSqrKs/hqdefault.jpg"
+        },
+        {
+            "video_id": "ivLfDuwIwK0",
+            "title": "점프 점프",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "23:03",
+            "view_count": "320111",
+            "thumbnail_url": "https://i.ytimg.com/vi/ivLfDuwIwK0/hqdefault.jpg"
+        },
+        {
+            "video_id": "s4TTlcrkMPU",
+            "title": "이 사랑",
+            "channel_name": "Woody - Topic",
+            "category": "Music",
+            "duration": "3:56",
+            "view_count": "327716",
+            "thumbnail_url": "https://i.ytimg.com/vi/s4TTlcrkMPU/hqdefault.jpg"
         },
         {
             "video_id": "3cFGDJKJacU",
@@ -250,7 +259,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "20:17",
-            "view_count": "265563",
+            "view_count": "266466",
             "thumbnail_url": "https://i.ytimg.com/vi/3cFGDJKJacU/hqdefault.jpg"
         },
         {
@@ -259,26 +268,8 @@
             "channel_name": "1theK Originals - 원더케이 오리지널",
             "category": "Entertainment",
             "duration": "2:27",
-            "view_count": "685150",
+            "view_count": "690758",
             "thumbnail_url": "https://i.ytimg.com/vi/MoZbwLzg47w/hqdefault.jpg"
-        },
-        {
-            "video_id": "rXRu1jCrWs8",
-            "title": "게임의 승패를 바꾸는 단 하나의 세계선 | T1 vs KT | 하이라이트 | 05.28 | 2026 LCK",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "34:19",
-            "view_count": "108762",
-            "thumbnail_url": "https://i.ytimg.com/vi/rXRu1jCrWs8/hqdefault.jpg"
-        },
-        {
-            "video_id": "s4TTlcrkMPU",
-            "title": "이 사랑",
-            "channel_name": "Woody - Topic",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "323020",
-            "thumbnail_url": "https://i.ytimg.com/vi/s4TTlcrkMPU/hqdefault.jpg"
         },
         {
             "video_id": "CLIsfZGjP2c",
@@ -286,89 +277,17 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "37:44",
-            "view_count": "291142",
+            "view_count": "292520",
             "thumbnail_url": "https://i.ytimg.com/vi/CLIsfZGjP2c/hqdefault.jpg"
         },
         {
-            "video_id": "T24rF_x0TmQ",
-            "title": "[MV] ABM - 'ヤラララ' (YARARARA) feat. 重音テト",
-            "channel_name": "AnythingBecomeMoe",
+            "video_id": "QxSo69nCcro",
+            "title": "SHINee 샤이니 'Atmos' MV Teaser",
+            "channel_name": "SMTOWN",
             "category": "Music",
-            "duration": "2:37",
-            "view_count": "1175914",
-            "thumbnail_url": "https://i.ytimg.com/vi/T24rF_x0TmQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "AIL-EHXVKP4",
-            "title": "당신이 좋아하는 타입은 무엇인가요? : 땅타입 하트골드【포켓몬 모든타입 깨기】#8",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "37:52",
-            "view_count": "231769",
-            "thumbnail_url": "https://i.ytimg.com/vi/AIL-EHXVKP4/hqdefault.jpg"
-        },
-        {
-            "video_id": "k3VwwLeorsU",
-            "title": "KATSEYE - PINKY UP (Live From The American Music Awards/2026)",
-            "channel_name": "KATSEYEVEVO",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "3412204",
-            "thumbnail_url": "https://i.ytimg.com/vi/k3VwwLeorsU/hqdefault.jpg"
-        },
-        {
-            "video_id": "itSkWqQfCJQ",
-            "title": "폐교에서 촬영된 의문의 괴담 동영상.. 이걸 보면 무조건 죽는다",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "41:43",
-            "view_count": "246452",
-            "thumbnail_url": "https://i.ytimg.com/vi/itSkWqQfCJQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "dzo4_eUNBwA",
-            "title": "우린 영화가 된다",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:33",
-            "view_count": "20507",
-            "thumbnail_url": "https://i.ytimg.com/vi/dzo4_eUNBwA/hqdefault.jpg"
-        },
-        {
-            "video_id": "Dr1ZRI830WI",
-            "title": "[리니지클래식] 31화. 군주의 위엄 (ft.다섯번째 9싸울)",
-            "channel_name": "불도그",
-            "category": "Gaming",
-            "duration": "14:43",
-            "view_count": "160292",
-            "thumbnail_url": "https://i.ytimg.com/vi/Dr1ZRI830WI/hqdefault.jpg"
-        },
-        {
-            "video_id": "v0-hnR--XUU",
-            "title": "FIFTY FIFTY 4th Mini Album ['Imperfect-I'mperfect'] Highlight Medley",
-            "channel_name": "FIFTY FIFTY Official",
-            "category": "Music",
-            "duration": "2:44",
-            "view_count": "40110",
-            "thumbnail_url": "https://i.ytimg.com/vi/v0-hnR--XUU/hqdefault.jpg"
-        },
-        {
-            "video_id": "xUo0BiCX5Zc",
-            "title": "잡히면 죽는다｜GTA 고래시티 EP.08",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "21:47",
-            "view_count": "112028",
-            "thumbnail_url": "https://i.ytimg.com/vi/xUo0BiCX5Zc/hqdefault.jpg"
-        },
-        {
-            "video_id": "IRaaBfzswM0",
-            "title": "TAEYANG - ‘BAD’ | THE QUINTESSENCE FILM",
-            "channel_name": "TAEYANG",
-            "category": "Music",
-            "duration": "2:38",
-            "view_count": "123907",
-            "thumbnail_url": "https://i.ytimg.com/vi/IRaaBfzswM0/hqdefault.jpg"
+            "duration": "0:33",
+            "view_count": "54946",
+            "thumbnail_url": "https://i.ytimg.com/vi/QxSo69nCcro/hqdefault.jpg"
         },
         {
             "video_id": "GVzEYOkmadY",
@@ -376,8 +295,89 @@
             "channel_name": "피넛",
             "category": "Gaming",
             "duration": "42:15",
-            "view_count": "86456",
+            "view_count": "98494",
             "thumbnail_url": "https://i.ytimg.com/vi/GVzEYOkmadY/hqdefault.jpg"
+        },
+        {
+            "video_id": "v0-hnR--XUU",
+            "title": "FIFTY FIFTY 4th Mini Album ['Imperfect-I'mperfect'] Highlight Medley",
+            "channel_name": "FIFTY FIFTY Official",
+            "category": "Music",
+            "duration": "2:44",
+            "view_count": "41911",
+            "thumbnail_url": "https://i.ytimg.com/vi/v0-hnR--XUU/hqdefault.jpg"
+        },
+        {
+            "video_id": "AIL-EHXVKP4",
+            "title": "당신이 좋아하는 타입은 무엇인가요? : 땅타입 하트골드【포켓몬 모든타입 깨기】#8",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "37:52",
+            "view_count": "232666",
+            "thumbnail_url": "https://i.ytimg.com/vi/AIL-EHXVKP4/hqdefault.jpg"
+        },
+        {
+            "video_id": "T24rF_x0TmQ",
+            "title": "[MV] ABM - 'ヤラララ' (YARARARA) feat. 重音テト",
+            "channel_name": "AnythingBecomeMoe",
+            "category": "Music",
+            "duration": "2:37",
+            "view_count": "1195803",
+            "thumbnail_url": "https://i.ytimg.com/vi/T24rF_x0TmQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Dr1ZRI830WI",
+            "title": "[리니지클래식] 31화. 군주의 위엄 (ft.다섯번째 9싸울)",
+            "channel_name": "불도그",
+            "category": "Gaming",
+            "duration": "14:43",
+            "view_count": "162505",
+            "thumbnail_url": "https://i.ytimg.com/vi/Dr1ZRI830WI/hqdefault.jpg"
+        },
+        {
+            "video_id": "k3VwwLeorsU",
+            "title": "KATSEYE - PINKY UP (Live From The American Music Awards/2026)",
+            "channel_name": "KATSEYEVEVO",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "3486968",
+            "thumbnail_url": "https://i.ytimg.com/vi/k3VwwLeorsU/hqdefault.jpg"
+        },
+        {
+            "video_id": "xUo0BiCX5Zc",
+            "title": "잡히면 죽는다｜GTA 고래시티 EP.08",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "21:47",
+            "view_count": "113471",
+            "thumbnail_url": "https://i.ytimg.com/vi/xUo0BiCX5Zc/hqdefault.jpg"
+        },
+        {
+            "video_id": "dzo4_eUNBwA",
+            "title": "우린 영화가 된다",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:33",
+            "view_count": "20680",
+            "thumbnail_url": "https://i.ytimg.com/vi/dzo4_eUNBwA/hqdefault.jpg"
+        },
+        {
+            "video_id": "itSkWqQfCJQ",
+            "title": "폐교에서 촬영된 의문의 괴담 동영상.. 이걸 보면 무조건 죽는다",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "41:43",
+            "view_count": "247328",
+            "thumbnail_url": "https://i.ytimg.com/vi/itSkWqQfCJQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "IRaaBfzswM0",
+            "title": "TAEYANG - ‘BAD’ | THE QUINTESSENCE FILM",
+            "channel_name": "TAEYANG",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "128902",
+            "thumbnail_url": "https://i.ytimg.com/vi/IRaaBfzswM0/hqdefault.jpg"
         }
     ]
 }
