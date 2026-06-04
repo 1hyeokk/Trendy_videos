@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-06-04 17:51:01",
+    "scraped_time": "2026-06-04 20:56:41",
     "videos": [
         {
             "video_id": "6SxtAskLd3E",
@@ -7,7 +7,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "186061",
+            "view_count": "240552",
             "thumbnail_url": "https://i.ytimg.com/vi/6SxtAskLd3E/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "그럴줄알았지 : 영화 드라마 이야기",
             "category": "Film & Animation",
             "duration": "8:15",
-            "view_count": "72305",
+            "view_count": "75874",
             "thumbnail_url": "https://i.ytimg.com/vi/Pq-1dG49cQg/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "18:32",
-            "view_count": "496521",
+            "view_count": "531577",
             "thumbnail_url": "https://i.ytimg.com/vi/lAjGp2O54pw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "N.Flying - Topic",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "177854",
+            "view_count": "194560",
             "thumbnail_url": "https://i.ytimg.com/vi/8k2OCqVSgH8/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "12:31",
-            "view_count": "262928",
+            "view_count": "271878",
             "thumbnail_url": "https://i.ytimg.com/vi/zAtASANHTh4/hqdefault.jpg"
         },
         {
@@ -52,44 +52,8 @@
             "channel_name": "Sung Si Kyung - Topic",
             "category": "Music",
             "duration": "3:58",
-            "view_count": "151116",
+            "view_count": "170486",
             "thumbnail_url": "https://i.ytimg.com/vi/y-uTieocI0U/hqdefault.jpg"
-        },
-        {
-            "video_id": "7Pl2QP0t4Zg",
-            "title": "지켜야할 사람이 생겼다",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "44:58",
-            "view_count": "540506",
-            "thumbnail_url": "https://i.ytimg.com/vi/7Pl2QP0t4Zg/hqdefault.jpg"
-        },
-        {
-            "video_id": "cWB1ZCWhvdM",
-            "title": "Happy&ing",
-            "channel_name": "Kassy - Topic",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "34248",
-            "thumbnail_url": "https://i.ytimg.com/vi/cWB1ZCWhvdM/hqdefault.jpg"
-        },
-        {
-            "video_id": "L-graab6qUU",
-            "title": "고잠보이즈",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "48:50",
-            "view_count": "376221",
-            "thumbnail_url": "https://i.ytimg.com/vi/L-graab6qUU/hqdefault.jpg"
-        },
-        {
-            "video_id": "aHM2RKeMaeM",
-            "title": "MEOVV(미야오) - ‘DDI RO RI’ M/V",
-            "channel_name": "THEBLACKLABEL",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "6319971",
-            "thumbnail_url": "https://i.ytimg.com/vi/aHM2RKeMaeM/hqdefault.jpg"
         },
         {
             "video_id": "6ll4_CHHdrE",
@@ -97,17 +61,53 @@
             "channel_name": "발__젭",
             "category": "Gaming",
             "duration": "17:06",
-            "view_count": "193213",
+            "view_count": "213468",
             "thumbnail_url": "https://i.ytimg.com/vi/6ll4_CHHdrE/hqdefault.jpg"
         },
         {
-            "video_id": "kPRd9PEf-9g",
-            "title": "Forest of Memories",
-            "channel_name": "XIA - Topic",
+            "video_id": "cWB1ZCWhvdM",
+            "title": "Happy&ing",
+            "channel_name": "Kassy - Topic",
             "category": "Music",
-            "duration": "4:30",
-            "view_count": "62632",
-            "thumbnail_url": "https://i.ytimg.com/vi/kPRd9PEf-9g/hqdefault.jpg"
+            "duration": "3:31",
+            "view_count": "41680",
+            "thumbnail_url": "https://i.ytimg.com/vi/cWB1ZCWhvdM/hqdefault.jpg"
+        },
+        {
+            "video_id": "7Pl2QP0t4Zg",
+            "title": "지켜야할 사람이 생겼다",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "44:58",
+            "view_count": "552127",
+            "thumbnail_url": "https://i.ytimg.com/vi/7Pl2QP0t4Zg/hqdefault.jpg"
+        },
+        {
+            "video_id": "aHM2RKeMaeM",
+            "title": "MEOVV(미야오) - ‘DDI RO RI’ M/V",
+            "channel_name": "THEBLACKLABEL",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "6500429",
+            "thumbnail_url": "https://i.ytimg.com/vi/aHM2RKeMaeM/hqdefault.jpg"
+        },
+        {
+            "video_id": "L-graab6qUU",
+            "title": "고잠보이즈",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "48:50",
+            "view_count": "385852",
+            "thumbnail_url": "https://i.ytimg.com/vi/L-graab6qUU/hqdefault.jpg"
+        },
+        {
+            "video_id": "pWOVb01U-c4",
+            "title": "BABYMONSTER - 'SUGAR HONEY ICE TEA' M/V TEASER",
+            "channel_name": "BABYMONSTER",
+            "category": "Music",
+            "duration": "0:28",
+            "view_count": "2017365",
+            "thumbnail_url": "https://i.ytimg.com/vi/pWOVb01U-c4/hqdefault.jpg"
         },
         {
             "video_id": "-s_HHRpW8eo",
@@ -115,7 +115,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "31:24",
-            "view_count": "200491",
+            "view_count": "208797",
             "thumbnail_url": "https://i.ytimg.com/vi/-s_HHRpW8eo/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "K.Will - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "37229",
+            "view_count": "43741",
             "thumbnail_url": "https://i.ytimg.com/vi/zJpY_Lw_3f0/hqdefault.jpg"
         },
         {
@@ -133,17 +133,17 @@
             "channel_name": "카즈야",
             "category": "Gaming",
             "duration": "3:27:50",
-            "view_count": "85261",
+            "view_count": "91361",
             "thumbnail_url": "https://i.ytimg.com/vi/wYQupvMLEQE/hqdefault.jpg"
         },
         {
-            "video_id": "a-22eLZsZ8A",
-            "title": "너는 내게 첫사랑",
-            "channel_name": "너에플리 - Topic",
+            "video_id": "PVzSI9PpkXc",
+            "title": "마마무(MAMAMOO) '4 Flowers' MV",
+            "channel_name": "MAMAMOO",
             "category": "Music",
-            "duration": "2:52",
-            "view_count": "82862",
-            "thumbnail_url": "https://i.ytimg.com/vi/a-22eLZsZ8A/hqdefault.jpg"
+            "duration": "3:23",
+            "view_count": "85234",
+            "thumbnail_url": "https://i.ytimg.com/vi/PVzSI9PpkXc/hqdefault.jpg"
         },
         {
             "video_id": "B2disg6nKyA",
@@ -151,35 +151,17 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "24:33",
-            "view_count": "368732",
+            "view_count": "373458",
             "thumbnail_url": "https://i.ytimg.com/vi/B2disg6nKyA/hqdefault.jpg"
         },
         {
-            "video_id": "J4aOIMyd608",
-            "title": "Atmos",
-            "channel_name": "SHINee - Topic",
+            "video_id": "kPRd9PEf-9g",
+            "title": "Forest of Memories",
+            "channel_name": "XIA - Topic",
             "category": "Music",
-            "duration": "3:13",
-            "view_count": "311990",
-            "thumbnail_url": "https://i.ytimg.com/vi/J4aOIMyd608/hqdefault.jpg"
-        },
-        {
-            "video_id": "hHNXI8FFq7A",
-            "title": "리니지 클래식 아침9시 카즈야형 방송으로 오세요 !",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "5:14:38",
-            "view_count": "135725",
-            "thumbnail_url": "https://i.ytimg.com/vi/hHNXI8FFq7A/hqdefault.jpg"
-        },
-        {
-            "video_id": "oEQTh959YDg",
-            "title": "[MV] Sung Si Kyung(성시경) _ Day dream(나의 하루처럼) (Sung Si Kyung(성시경) Ver.)",
-            "channel_name": "1theK (원더케이)",
-            "category": "Music",
-            "duration": "3:53",
-            "view_count": "102510",
-            "thumbnail_url": "https://i.ytimg.com/vi/oEQTh959YDg/hqdefault.jpg"
+            "duration": "4:30",
+            "view_count": "68475",
+            "thumbnail_url": "https://i.ytimg.com/vi/kPRd9PEf-9g/hqdefault.jpg"
         },
         {
             "video_id": "QQ4ZibO2WeQ",
@@ -187,8 +169,62 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "22:48",
-            "view_count": "142892",
+            "view_count": "158118",
             "thumbnail_url": "https://i.ytimg.com/vi/QQ4ZibO2WeQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "a-22eLZsZ8A",
+            "title": "너는 내게 첫사랑",
+            "channel_name": "너에플리 - Topic",
+            "category": "Music",
+            "duration": "2:52",
+            "view_count": "89764",
+            "thumbnail_url": "https://i.ytimg.com/vi/a-22eLZsZ8A/hqdefault.jpg"
+        },
+        {
+            "video_id": "hHNXI8FFq7A",
+            "title": "리니지 클래식 아침9시 카즈야형 방송으로 오세요 !",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "5:14:38",
+            "view_count": "136596",
+            "thumbnail_url": "https://i.ytimg.com/vi/hHNXI8FFq7A/hqdefault.jpg"
+        },
+        {
+            "video_id": "J4aOIMyd608",
+            "title": "Atmos",
+            "channel_name": "SHINee - Topic",
+            "category": "Music",
+            "duration": "3:13",
+            "view_count": "326740",
+            "thumbnail_url": "https://i.ytimg.com/vi/J4aOIMyd608/hqdefault.jpg"
+        },
+        {
+            "video_id": "-nvHYJsHIqs",
+            "title": "억까에 저항하라",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "12:12",
+            "view_count": "174719",
+            "thumbnail_url": "https://i.ytimg.com/vi/-nvHYJsHIqs/hqdefault.jpg"
+        },
+        {
+            "video_id": "oEQTh959YDg",
+            "title": "[MV] Sung Si Kyung(성시경) _ Day dream(나의 하루처럼) (Sung Si Kyung(성시경) Ver.)",
+            "channel_name": "1theK (원더케이)",
+            "category": "Music",
+            "duration": "3:53",
+            "view_count": "108550",
+            "thumbnail_url": "https://i.ytimg.com/vi/oEQTh959YDg/hqdefault.jpg"
+        },
+        {
+            "video_id": "blXWiMBq5pM",
+            "title": "*함정 카드 발동* 카드로 사람을 죽였다 살렸다 가능한 야생 ㅋㅋ",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "47:36",
+            "view_count": "130170",
+            "thumbnail_url": "https://i.ytimg.com/vi/blXWiMBq5pM/hqdefault.jpg"
         },
         {
             "video_id": "IZ3wIIf9JME",
@@ -196,7 +232,7 @@
             "channel_name": "Hebi - Topic",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "69704",
+            "view_count": "75524",
             "thumbnail_url": "https://i.ytimg.com/vi/IZ3wIIf9JME/hqdefault.jpg"
         },
         {
@@ -205,7 +241,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "16:32",
-            "view_count": "112450",
+            "view_count": "116412",
             "thumbnail_url": "https://i.ytimg.com/vi/optcd2SA5hs/hqdefault.jpg"
         },
         {
@@ -214,62 +250,8 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "20013",
+            "view_count": "23223",
             "thumbnail_url": "https://i.ytimg.com/vi/i0zqeEAJEx8/hqdefault.jpg"
-        },
-        {
-            "video_id": "-nvHYJsHIqs",
-            "title": "억까에 저항하라",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "12:12",
-            "view_count": "166590",
-            "thumbnail_url": "https://i.ytimg.com/vi/-nvHYJsHIqs/hqdefault.jpg"
-        },
-        {
-            "video_id": "8_nbm1fKTAY",
-            "title": "DDI RO RI",
-            "channel_name": "MEOVV - Topic",
-            "category": "Music",
-            "duration": "3:17",
-            "view_count": "66027",
-            "thumbnail_url": "https://i.ytimg.com/vi/8_nbm1fKTAY/hqdefault.jpg"
-        },
-        {
-            "video_id": "blXWiMBq5pM",
-            "title": "*함정 카드 발동* 카드로 사람을 죽였다 살렸다 가능한 야생 ㅋㅋ",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "47:36",
-            "view_count": "121554",
-            "thumbnail_url": "https://i.ytimg.com/vi/blXWiMBq5pM/hqdefault.jpg"
-        },
-        {
-            "video_id": "1XFEtAx5i7E",
-            "title": "SHINee 샤이니 'Atmos' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "776538",
-            "thumbnail_url": "https://i.ytimg.com/vi/1XFEtAx5i7E/hqdefault.jpg"
-        },
-        {
-            "video_id": "DDLGDL_obNg",
-            "title": "도티님도 처음 보는 유형의 회사",
-            "channel_name": "강 지",
-            "category": "Gaming",
-            "duration": "22:45",
-            "view_count": "148371",
-            "thumbnail_url": "https://i.ytimg.com/vi/DDLGDL_obNg/hqdefault.jpg"
-        },
-        {
-            "video_id": "GSvE80R44cw",
-            "title": "Genie Magic",
-            "channel_name": "FIFTY FIFTY - Topic",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "146971",
-            "thumbnail_url": "https://i.ytimg.com/vi/GSvE80R44cw/hqdefault.jpg"
         },
         {
             "video_id": "TEET3lKQwq8",
@@ -277,44 +259,8 @@
             "channel_name": "김데데",
             "category": "Gaming",
             "duration": "20:59",
-            "view_count": "119420",
+            "view_count": "125463",
             "thumbnail_url": "https://i.ytimg.com/vi/TEET3lKQwq8/hqdefault.jpg"
-        },
-        {
-            "video_id": "GmDldaNGl2k",
-            "title": "How Have You Been (Sung by Hayea Song)",
-            "channel_name": "Ha Yea Song - Topic",
-            "category": "Music",
-            "duration": "3:25",
-            "view_count": "19596",
-            "thumbnail_url": "https://i.ytimg.com/vi/GmDldaNGl2k/hqdefault.jpg"
-        },
-        {
-            "video_id": "EL6eZkP7bw0",
-            "title": "\"슈퍼스타의 무게\"｜발망전 EP.05",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "53:49",
-            "view_count": "96360",
-            "thumbnail_url": "https://i.ytimg.com/vi/EL6eZkP7bw0/hqdefault.jpg"
-        },
-        {
-            "video_id": "vrY1THC_NQE",
-            "title": "IShowSpeed - World Cup (Champions) [Official Music Video]",
-            "channel_name": "IShowSpeed",
-            "category": "Gaming",
-            "duration": "4:59",
-            "view_count": "14739665",
-            "thumbnail_url": "https://i.ytimg.com/vi/vrY1THC_NQE/hqdefault.jpg"
-        },
-        {
-            "video_id": "CxhUvFjUgx0",
-            "title": "감스트 GTA5 : 낭만닥터 방광수의 삶 2화",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "48:14",
-            "view_count": "218165",
-            "thumbnail_url": "https://i.ytimg.com/vi/CxhUvFjUgx0/hqdefault.jpg"
         },
         {
             "video_id": "kFUolApZvWs",
@@ -322,17 +268,17 @@
             "channel_name": "ZENE THE ZILLA - Topic",
             "category": "Music",
             "duration": "2:16",
-            "view_count": "23042",
+            "view_count": "29169",
             "thumbnail_url": "https://i.ytimg.com/vi/kFUolApZvWs/hqdefault.jpg"
         },
         {
-            "video_id": "YxdLf8PHHmc",
-            "title": "서버마다 매크로가 몇 명인지 모르겠습니다...",
-            "channel_name": "수찬 Suchan",
+            "video_id": "EL6eZkP7bw0",
+            "title": "\"슈퍼스타의 무게\"｜발망전 EP.05",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "24:00",
-            "view_count": "217839",
-            "thumbnail_url": "https://i.ytimg.com/vi/YxdLf8PHHmc/hqdefault.jpg"
+            "duration": "53:49",
+            "view_count": "100910",
+            "thumbnail_url": "https://i.ytimg.com/vi/EL6eZkP7bw0/hqdefault.jpg"
         },
         {
             "video_id": "ZxvPthCebW8",
@@ -340,17 +286,53 @@
             "channel_name": "새빛 (Saebit)",
             "category": "Music",
             "duration": "3:51",
-            "view_count": "28088",
+            "view_count": "35059",
             "thumbnail_url": "https://i.ytimg.com/vi/ZxvPthCebW8/hqdefault.jpg"
         },
         {
-            "video_id": "TVclx-awHfo",
-            "title": "프로 1군 선수가 클리드만 6판 연속 저격하면 생기는일 ㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "클리드",
+            "video_id": "DDLGDL_obNg",
+            "title": "도티님도 처음 보는 유형의 회사",
+            "channel_name": "강 지",
             "category": "Gaming",
-            "duration": "28:42",
-            "view_count": "206000",
-            "thumbnail_url": "https://i.ytimg.com/vi/TVclx-awHfo/hqdefault.jpg"
+            "duration": "22:45",
+            "view_count": "154474",
+            "thumbnail_url": "https://i.ytimg.com/vi/DDLGDL_obNg/hqdefault.jpg"
+        },
+        {
+            "video_id": "GmDldaNGl2k",
+            "title": "How Have You Been (Sung by Hayea Song)",
+            "channel_name": "Ha Yea Song - Topic",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "22192",
+            "thumbnail_url": "https://i.ytimg.com/vi/GmDldaNGl2k/hqdefault.jpg"
+        },
+        {
+            "video_id": "PzbcgTRsG-0",
+            "title": "메이플 플래닛 장갑만 먹고 사는 남자ㅋㅋㅋ!!!",
+            "channel_name": "찬해",
+            "category": "Gaming",
+            "duration": "17:05",
+            "view_count": "82485",
+            "thumbnail_url": "https://i.ytimg.com/vi/PzbcgTRsG-0/hqdefault.jpg"
+        },
+        {
+            "video_id": "8_nbm1fKTAY",
+            "title": "DDI RO RI",
+            "channel_name": "MEOVV - Topic",
+            "category": "Music",
+            "duration": "3:17",
+            "view_count": "71244",
+            "thumbnail_url": "https://i.ytimg.com/vi/8_nbm1fKTAY/hqdefault.jpg"
+        },
+        {
+            "video_id": "CxhUvFjUgx0",
+            "title": "감스트 GTA5 : 낭만닥터 방광수의 삶 2화",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "48:14",
+            "view_count": "224215",
+            "thumbnail_url": "https://i.ytimg.com/vi/CxhUvFjUgx0/hqdefault.jpg"
         },
         {
             "video_id": "Re974m8h-Ek",
@@ -358,26 +340,44 @@
             "channel_name": "Anonymous Artists - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "47103",
+            "view_count": "50193",
             "thumbnail_url": "https://i.ytimg.com/vi/Re974m8h-Ek/hqdefault.jpg"
         },
         {
-            "video_id": "V2vLaSV0M1I",
-            "title": "[원재]리니지클래식 6.4 오렌 업데이트",
-            "channel_name": "원재TV",
-            "category": "Gaming",
-            "duration": "5:36:30",
-            "view_count": "48777",
-            "thumbnail_url": "https://i.ytimg.com/vi/V2vLaSV0M1I/hqdefault.jpg"
+            "video_id": "toBmrwP_9b8",
+            "title": "과천 중앙선관위, 뭉치자! 싸우자!! 이기자!!!",
+            "channel_name": "자영업의 모든것",
+            "category": "News & Politics",
+            "duration": "11:50:28",
+            "view_count": "227062",
+            "thumbnail_url": "https://i.ytimg.com/vi/toBmrwP_9b8/hqdefault.jpg"
         },
         {
-            "video_id": "QERKD90hG98",
-            "title": "TREASURE - ‘IF I’ M/V",
-            "channel_name": "TREASURE (트레저)",
-            "category": "Entertainment",
-            "duration": "3:08",
-            "view_count": "12666404",
-            "thumbnail_url": "https://i.ytimg.com/vi/QERKD90hG98/hqdefault.jpg"
+            "video_id": "1XFEtAx5i7E",
+            "title": "SHINee 샤이니 'Atmos' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "3:23",
+            "view_count": "792610",
+            "thumbnail_url": "https://i.ytimg.com/vi/1XFEtAx5i7E/hqdefault.jpg"
+        },
+        {
+            "video_id": "TVclx-awHfo",
+            "title": "프로 1군 선수가 클리드만 6판 연속 저격하면 생기는일 ㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "28:42",
+            "view_count": "210367",
+            "thumbnail_url": "https://i.ytimg.com/vi/TVclx-awHfo/hqdefault.jpg"
+        },
+        {
+            "video_id": "GSvE80R44cw",
+            "title": "Genie Magic",
+            "channel_name": "FIFTY FIFTY - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "152340",
+            "thumbnail_url": "https://i.ytimg.com/vi/GSvE80R44cw/hqdefault.jpg"
         }
     ]
 }
