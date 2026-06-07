@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-06-08 02:20:34",
+    "scraped_time": "2026-06-08 04:27:01",
     "videos": [
         {
             "video_id": "naoGk-Zjc1s",
@@ -7,35 +7,8 @@
             "channel_name": "BABYMONSTER",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "1453796",
+            "view_count": "3466042",
             "thumbnail_url": "https://i.ytimg.com/vi/naoGk-Zjc1s/hqdefault.jpg"
-        },
-        {
-            "video_id": "rVOzlcUPe7Q",
-            "title": "몬스터헌터 와일즈 어센던스 - 발표 트레일러",
-            "channel_name": "캡콤아시아",
-            "category": "Gaming",
-            "duration": "1:59",
-            "view_count": "92114",
-            "thumbnail_url": "https://i.ytimg.com/vi/rVOzlcUPe7Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "TFG4Kx7K2zE",
-            "title": "탑 베인 단속반",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "21:59",
-            "view_count": "211258",
-            "thumbnail_url": "https://i.ytimg.com/vi/TFG4Kx7K2zE/hqdefault.jpg"
-        },
-        {
-            "video_id": "-SqyHDIznEE",
-            "title": "BOYNEXTDOOR (보이넥스트도어) 'VIRAL' Official MV Teaser",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "0:27",
-            "view_count": "925576",
-            "thumbnail_url": "https://i.ytimg.com/vi/-SqyHDIznEE/hqdefault.jpg"
         },
         {
             "video_id": "wrdkAIreor4",
@@ -43,17 +16,17 @@
             "channel_name": "Hearts2Hearts",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "104380",
+            "view_count": "166277",
             "thumbnail_url": "https://i.ytimg.com/vi/wrdkAIreor4/hqdefault.jpg"
         },
         {
-            "video_id": "v9veVAQiq2g",
-            "title": "확률주작은 실존한다",
-            "channel_name": "동수칸TV",
+            "video_id": "TFG4Kx7K2zE",
+            "title": "탑 베인 단속반",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "30:23",
-            "view_count": "251273",
-            "thumbnail_url": "https://i.ytimg.com/vi/v9veVAQiq2g/hqdefault.jpg"
+            "duration": "21:59",
+            "view_count": "244306",
+            "thumbnail_url": "https://i.ytimg.com/vi/TFG4Kx7K2zE/hqdefault.jpg"
         },
         {
             "video_id": "mCCzjndkWAo",
@@ -61,8 +34,35 @@
             "channel_name": "Noel - Topic",
             "category": "Music",
             "duration": "3:53",
-            "view_count": "60769",
+            "view_count": "62593",
             "thumbnail_url": "https://i.ytimg.com/vi/mCCzjndkWAo/hqdefault.jpg"
+        },
+        {
+            "video_id": "rVOzlcUPe7Q",
+            "title": "몬스터헌터 와일즈 어센던스 - 발표 트레일러",
+            "channel_name": "캡콤아시아",
+            "category": "Gaming",
+            "duration": "1:59",
+            "view_count": "92765",
+            "thumbnail_url": "https://i.ytimg.com/vi/rVOzlcUPe7Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "v9veVAQiq2g",
+            "title": "확률주작은 실존한다",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "30:23",
+            "view_count": "267095",
+            "thumbnail_url": "https://i.ytimg.com/vi/v9veVAQiq2g/hqdefault.jpg"
+        },
+        {
+            "video_id": "-SqyHDIznEE",
+            "title": "BOYNEXTDOOR (보이넥스트도어) 'VIRAL' Official MV Teaser",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "0:27",
+            "view_count": "930399",
+            "thumbnail_url": "https://i.ytimg.com/vi/-SqyHDIznEE/hqdefault.jpg"
         },
         {
             "video_id": "MpeuI5116PE",
@@ -70,7 +70,7 @@
             "channel_name": "Michael Angelo",
             "category": "Gaming",
             "duration": "3:55",
-            "view_count": "44913",
+            "view_count": "45712",
             "thumbnail_url": "https://i.ytimg.com/vi/MpeuI5116PE/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "10:16",
-            "view_count": "211694",
+            "view_count": "239475",
             "thumbnail_url": "https://i.ytimg.com/vi/hYCoc1nZ4Qg/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "MAMAMOO - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "494908",
+            "view_count": "500633",
             "thumbnail_url": "https://i.ytimg.com/vi/4fOvCwmIOtw/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "LCK Global",
             "category": "Gaming",
             "duration": "5:41:46",
-            "view_count": "866467",
+            "view_count": "873706",
             "thumbnail_url": "https://i.ytimg.com/vi/UJlE_wWvQqA/hqdefault.jpg"
         },
         {
@@ -106,17 +106,17 @@
             "channel_name": "양정훈",
             "category": "Entertainment",
             "duration": "4:48",
-            "view_count": "22503",
+            "view_count": "23771",
             "thumbnail_url": "https://i.ytimg.com/vi/OGfb3UMgOYQ/hqdefault.jpg"
         },
         {
-            "video_id": "YwD6jwqd_j0",
-            "title": "감정없는 사이코패스",
-            "channel_name": "랄로",
+            "video_id": "MFJPmlmd4ms",
+            "title": "🔥혜안져스 미메시스 이제 잘하긴 ㄱㅐ뿔 더 무섭잖아",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "42:09",
-            "view_count": "783180",
-            "thumbnail_url": "https://i.ytimg.com/vi/YwD6jwqd_j0/hqdefault.jpg"
+            "duration": "46:36",
+            "view_count": "137429",
+            "thumbnail_url": "https://i.ytimg.com/vi/MFJPmlmd4ms/hqdefault.jpg"
         },
         {
             "video_id": "aSpBahBuy4A",
@@ -124,17 +124,17 @@
             "channel_name": "Seo Ja Yeong - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "52471",
+            "view_count": "54138",
             "thumbnail_url": "https://i.ytimg.com/vi/aSpBahBuy4A/hqdefault.jpg"
         },
         {
-            "video_id": "5wIR2-4R9iA",
-            "title": "복권 긁는 게임, 결국 파산했습니다...",
-            "channel_name": "혜안",
+            "video_id": "YwD6jwqd_j0",
+            "title": "감정없는 사이코패스",
+            "channel_name": "랄로",
             "category": "Gaming",
-            "duration": "47:40",
-            "view_count": "363048",
-            "thumbnail_url": "https://i.ytimg.com/vi/5wIR2-4R9iA/hqdefault.jpg"
+            "duration": "42:09",
+            "view_count": "793041",
+            "thumbnail_url": "https://i.ytimg.com/vi/YwD6jwqd_j0/hqdefault.jpg"
         },
         {
             "video_id": "6SxtAskLd3E",
@@ -142,44 +142,8 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "744938",
+            "view_count": "749932",
             "thumbnail_url": "https://i.ytimg.com/vi/6SxtAskLd3E/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ldb3QZcQNg8",
-            "title": "시뮬레이션이 예측한 대한민국의 월드컵 성적은?",
-            "channel_name": "피버노바",
-            "category": "Gaming",
-            "duration": "23:59",
-            "view_count": "138998",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ldb3QZcQNg8/hqdefault.jpg"
-        },
-        {
-            "video_id": "SzJXikN_4wA",
-            "title": "I Knew It, I Knew You",
-            "channel_name": "Taylor Swift - Topic",
-            "category": "Music",
-            "duration": "2:59",
-            "view_count": "3364374",
-            "thumbnail_url": "https://i.ytimg.com/vi/SzJXikN_4wA/hqdefault.jpg"
-        },
-        {
-            "video_id": "TDcotPeoSC4",
-            "title": "레전드 게임 떴습니다",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "28:46",
-            "view_count": "117641",
-            "thumbnail_url": "https://i.ytimg.com/vi/TDcotPeoSC4/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZZRcStcyalM",
-            "title": "RESCENE (리센느) 'LOVE ATTACK' Dance Practice (갸루 ver.)",
-            "channel_name": "RESCENE",
-            "category": "Entertainment",
-            "duration": "4:05",
-            "view_count": "567159",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZZRcStcyalM/hqdefault.jpg"
         },
         {
             "video_id": "0rC-Gbb4c_Y",
@@ -187,8 +151,44 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "47:05",
-            "view_count": "96452",
+            "view_count": "125037",
             "thumbnail_url": "https://i.ytimg.com/vi/0rC-Gbb4c_Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "SzJXikN_4wA",
+            "title": "I Knew It, I Knew You",
+            "channel_name": "Taylor Swift - Topic",
+            "category": "Music",
+            "duration": "2:59",
+            "view_count": "3442519",
+            "thumbnail_url": "https://i.ytimg.com/vi/SzJXikN_4wA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ldb3QZcQNg8",
+            "title": "시뮬레이션이 예측한 대한민국의 월드컵 성적은?",
+            "channel_name": "피버노바",
+            "category": "Gaming",
+            "duration": "23:59",
+            "view_count": "150554",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ldb3QZcQNg8/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZZRcStcyalM",
+            "title": "RESCENE (리센느) 'LOVE ATTACK' Dance Practice (갸루 ver.)",
+            "channel_name": "RESCENE",
+            "category": "Entertainment",
+            "duration": "4:05",
+            "view_count": "572514",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZZRcStcyalM/hqdefault.jpg"
+        },
+        {
+            "video_id": "TDcotPeoSC4",
+            "title": "레전드 게임 떴습니다",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "28:46",
+            "view_count": "130201",
+            "thumbnail_url": "https://i.ytimg.com/vi/TDcotPeoSC4/hqdefault.jpg"
         },
         {
             "video_id": "MCXms-tVWYo",
@@ -196,80 +196,8 @@
             "channel_name": "PATEKO - Topic",
             "category": "Music",
             "duration": "2:22",
-            "view_count": "55171",
+            "view_count": "56325",
             "thumbnail_url": "https://i.ytimg.com/vi/MCXms-tVWYo/hqdefault.jpg"
-        },
-        {
-            "video_id": "wTCtD83rVVM",
-            "title": "마인크래프트 천하통일 프로젝트",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "35:00",
-            "view_count": "278717",
-            "thumbnail_url": "https://i.ytimg.com/vi/wTCtD83rVVM/hqdefault.jpg"
-        },
-        {
-            "video_id": "fwvaRTe90UM",
-            "title": "성시경 ‘나의 하루처럼’ LIVE CLIP l SUNG SI KYUNG ‘Day dream’",
-            "channel_name": "성시경 SUNG SI KYUNG",
-            "category": "Entertainment",
-            "duration": "4:18",
-            "view_count": "95415",
-            "thumbnail_url": "https://i.ytimg.com/vi/fwvaRTe90UM/hqdefault.jpg"
-        },
-        {
-            "video_id": "Dq6L1AHD9kU",
-            "title": "키캡 타워가 있다고? 전재산 다써서 깨보기 ㅋㅋㅋㅋ",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "22:27",
-            "view_count": "157238",
-            "thumbnail_url": "https://i.ytimg.com/vi/Dq6L1AHD9kU/hqdefault.jpg"
-        },
-        {
-            "video_id": "QRSSyK8CgU0",
-            "title": "MEOVV(미야오) - ‘띠로리 (DDI RO RI)’ PERFORMANCE VIDEO",
-            "channel_name": "MEOVV",
-            "category": "Entertainment",
-            "duration": "3:23",
-            "view_count": "1173344",
-            "thumbnail_url": "https://i.ytimg.com/vi/QRSSyK8CgU0/hqdefault.jpg"
-        },
-        {
-            "video_id": "inVYmU4cVy4",
-            "title": "감스트 윤가놈 초대석 개웃김ㅋㅋㅋ",
-            "channel_name": "감스트GAMST",
-            "category": "People & Blogs",
-            "duration": "1:17:57",
-            "view_count": "635769",
-            "thumbnail_url": "https://i.ytimg.com/vi/inVYmU4cVy4/hqdefault.jpg"
-        },
-        {
-            "video_id": "Bj4a39rSBa4",
-            "title": "다비치 거북이 커버｜너에플리 리메이크",
-            "channel_name": "너에플리",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "97426",
-            "thumbnail_url": "https://i.ytimg.com/vi/Bj4a39rSBa4/hqdefault.jpg"
-        },
-        {
-            "video_id": "J1KnhsHS7a4",
-            "title": "[LIVE] 6월 7일 아이온2 서프라이즈 라이브 방송 (with. 스페셜 게스트)",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "1:25:30",
-            "view_count": "136380",
-            "thumbnail_url": "https://i.ytimg.com/vi/J1KnhsHS7a4/hqdefault.jpg"
-        },
-        {
-            "video_id": "N53oiP7KvbM",
-            "title": "Mood (Remix Version)",
-            "channel_name": "DPR IAN - Topic",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "147682",
-            "thumbnail_url": "https://i.ytimg.com/vi/N53oiP7KvbM/hqdefault.jpg"
         },
         {
             "video_id": "rTiQLIh7WWQ",
@@ -277,8 +205,44 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "18:18",
-            "view_count": "123677",
+            "view_count": "131798",
             "thumbnail_url": "https://i.ytimg.com/vi/rTiQLIh7WWQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "fwvaRTe90UM",
+            "title": "성시경 ‘나의 하루처럼’ LIVE CLIP l SUNG SI KYUNG ‘Day dream’",
+            "channel_name": "성시경 SUNG SI KYUNG",
+            "category": "Entertainment",
+            "duration": "4:18",
+            "view_count": "96449",
+            "thumbnail_url": "https://i.ytimg.com/vi/fwvaRTe90UM/hqdefault.jpg"
+        },
+        {
+            "video_id": "wTCtD83rVVM",
+            "title": "마인크래프트 천하통일 프로젝트",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "35:00",
+            "view_count": "283244",
+            "thumbnail_url": "https://i.ytimg.com/vi/wTCtD83rVVM/hqdefault.jpg"
+        },
+        {
+            "video_id": "QRSSyK8CgU0",
+            "title": "MEOVV(미야오) - ‘띠로리 (DDI RO RI)’ PERFORMANCE VIDEO",
+            "channel_name": "MEOVV",
+            "category": "Entertainment",
+            "duration": "3:23",
+            "view_count": "1190212",
+            "thumbnail_url": "https://i.ytimg.com/vi/QRSSyK8CgU0/hqdefault.jpg"
+        },
+        {
+            "video_id": "5cBZ_OdBtjE",
+            "title": "3-2에 6동특이 켜지면 생기는 일",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "16:13",
+            "view_count": "142453",
+            "thumbnail_url": "https://i.ytimg.com/vi/5cBZ_OdBtjE/hqdefault.jpg"
         },
         {
             "video_id": "QHIAJJ_Zt8Q",
@@ -286,7 +250,7 @@
             "channel_name": "김준수 XIA",
             "category": "Entertainment",
             "duration": "4:32",
-            "view_count": "13225",
+            "view_count": "16351",
             "thumbnail_url": "https://i.ytimg.com/vi/QHIAJJ_Zt8Q/hqdefault.jpg"
         },
         {
@@ -295,8 +259,44 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "44:34",
-            "view_count": "146793",
+            "view_count": "156082",
             "thumbnail_url": "https://i.ytimg.com/vi/4sYjtOMsZz8/hqdefault.jpg"
+        },
+        {
+            "video_id": "Bj4a39rSBa4",
+            "title": "다비치 거북이 커버｜너에플리 리메이크",
+            "channel_name": "너에플리",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "98106",
+            "thumbnail_url": "https://i.ytimg.com/vi/Bj4a39rSBa4/hqdefault.jpg"
+        },
+        {
+            "video_id": "inVYmU4cVy4",
+            "title": "감스트 윤가놈 초대석 개웃김ㅋㅋㅋ",
+            "channel_name": "감스트GAMST",
+            "category": "People & Blogs",
+            "duration": "1:17:57",
+            "view_count": "643800",
+            "thumbnail_url": "https://i.ytimg.com/vi/inVYmU4cVy4/hqdefault.jpg"
+        },
+        {
+            "video_id": "N53oiP7KvbM",
+            "title": "Mood (Remix Version)",
+            "channel_name": "DPR IAN - Topic",
+            "category": "Music",
+            "duration": "3:23",
+            "view_count": "149943",
+            "thumbnail_url": "https://i.ytimg.com/vi/N53oiP7KvbM/hqdefault.jpg"
+        },
+        {
+            "video_id": "Dq6L1AHD9kU",
+            "title": "키캡 타워가 있다고? 전재산 다써서 깨보기 ㅋㅋㅋㅋ",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "22:27",
+            "view_count": "158630",
+            "thumbnail_url": "https://i.ytimg.com/vi/Dq6L1AHD9kU/hqdefault.jpg"
         },
         {
             "video_id": "0zXoxBPaVHg",
@@ -304,17 +304,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "45511",
+            "view_count": "46090",
             "thumbnail_url": "https://i.ytimg.com/vi/0zXoxBPaVHg/hqdefault.jpg"
         },
         {
-            "video_id": "4FbcZNtpzVI",
-            "title": "\"왜 캐리가 안 되지..?\" 리신 니달리로 브실골부터 생배 배치고사를 보기 시작한 이상호?!",
-            "channel_name": "이상호",
+            "video_id": "J1KnhsHS7a4",
+            "title": "[LIVE] 6월 7일 아이온2 서프라이즈 라이브 방송 (with. 스페셜 게스트)",
+            "channel_name": "AION2",
             "category": "Gaming",
-            "duration": "34:46",
-            "view_count": "279085",
-            "thumbnail_url": "https://i.ytimg.com/vi/4FbcZNtpzVI/hqdefault.jpg"
+            "duration": "1:25:30",
+            "view_count": "137863",
+            "thumbnail_url": "https://i.ytimg.com/vi/J1KnhsHS7a4/hqdefault.jpg"
         },
         {
             "video_id": "cWB1ZCWhvdM",
@@ -322,17 +322,17 @@
             "channel_name": "Kassy - Topic",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "134188",
+            "view_count": "134874",
             "thumbnail_url": "https://i.ytimg.com/vi/cWB1ZCWhvdM/hqdefault.jpg"
         },
         {
-            "video_id": "vPV7YV0EcVE",
-            "title": "[LIVE] 6.3 잠실 부정선거 현장중계 I 올림픽공원 핸드볼경기장",
-            "channel_name": "1waynews 한길뉴스",
-            "category": "Entertainment",
-            "duration": "2:04:23",
-            "view_count": "283675",
-            "thumbnail_url": "https://i.ytimg.com/vi/vPV7YV0EcVE/hqdefault.jpg"
+            "video_id": "4FbcZNtpzVI",
+            "title": "\"왜 캐리가 안 되지..?\" 리신 니달리로 브실골부터 생배 배치고사를 보기 시작한 이상호?!",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "34:46",
+            "view_count": "284556",
+            "thumbnail_url": "https://i.ytimg.com/vi/4FbcZNtpzVI/hqdefault.jpg"
         },
         {
             "video_id": "i0zqeEAJEx8",
@@ -340,26 +340,8 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "175182",
+            "view_count": "178777",
             "thumbnail_url": "https://i.ytimg.com/vi/i0zqeEAJEx8/hqdefault.jpg"
-        },
-        {
-            "video_id": "5cBZ_OdBtjE",
-            "title": "3-2에 6동특이 켜지면 생기는 일",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "16:13",
-            "view_count": "115325",
-            "thumbnail_url": "https://i.ytimg.com/vi/5cBZ_OdBtjE/hqdefault.jpg"
-        },
-        {
-            "video_id": "8k2OCqVSgH8",
-            "title": "In Between Seasons",
-            "channel_name": "N.Flying - Topic",
-            "category": "Music",
-            "duration": "2:48",
-            "view_count": "398248",
-            "thumbnail_url": "https://i.ytimg.com/vi/8k2OCqVSgH8/hqdefault.jpg"
         },
         {
             "video_id": "hCdwELx94ew",
@@ -367,8 +349,26 @@
             "channel_name": "이루의 마인크래프트",
             "category": "Gaming",
             "duration": "20:48",
-            "view_count": "77753",
+            "view_count": "86430",
             "thumbnail_url": "https://i.ytimg.com/vi/hCdwELx94ew/hqdefault.jpg"
+        },
+        {
+            "video_id": "8k2OCqVSgH8",
+            "title": "In Between Seasons",
+            "channel_name": "N.Flying - Topic",
+            "category": "Music",
+            "duration": "2:48",
+            "view_count": "399848",
+            "thumbnail_url": "https://i.ytimg.com/vi/8k2OCqVSgH8/hqdefault.jpg"
+        },
+        {
+            "video_id": "epUb7ueh7rM",
+            "title": "리니지 클래식 오피 파글 고가 삽니다 수장삽니다",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "4:25:56",
+            "view_count": "131882",
+            "thumbnail_url": "https://i.ytimg.com/vi/epUb7ueh7rM/hqdefault.jpg"
         },
         {
             "video_id": "B9xzrtWfQEA",
@@ -376,7 +376,7 @@
             "channel_name": "LE SSERAFIM - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "370397",
+            "view_count": "376590",
             "thumbnail_url": "https://i.ytimg.com/vi/B9xzrtWfQEA/hqdefault.jpg"
         }
     ]
