@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-06-12 08:24:40",
+    "scraped_time": "2026-06-12 13:15:32",
     "videos": [
         {
             "video_id": "27C4pfRsf9g",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "10580968",
+            "view_count": "11437794",
             "thumbnail_url": "https://i.ytimg.com/vi/27C4pfRsf9g/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "PlayOverwatch",
             "category": "Gaming",
             "duration": "2:02",
-            "view_count": "650268",
+            "view_count": "798632",
             "thumbnail_url": "https://i.ytimg.com/vi/fEkFkFZyx5w/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "13:14",
-            "view_count": "200466",
+            "view_count": "220949",
             "thumbnail_url": "https://i.ytimg.com/vi/8rSWtwUc4lE/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "미스틱스토리 MYSTIC STORY",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "66311",
+            "view_count": "86979",
             "thumbnail_url": "https://i.ytimg.com/vi/oL3AtU6gMb0/hqdefault.jpg"
         },
         {
@@ -43,35 +43,8 @@
             "channel_name": "Disney Korea",
             "category": "Entertainment",
             "duration": "2:18",
-            "view_count": "300011",
+            "view_count": "345196",
             "thumbnail_url": "https://i.ytimg.com/vi/izunRLYzHU0/hqdefault.jpg"
-        },
-        {
-            "video_id": "xF_1VZI_uZ0",
-            "title": "드디어 김민교에게 존중 받는 임아니",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "45:02",
-            "view_count": "155056",
-            "thumbnail_url": "https://i.ytimg.com/vi/xF_1VZI_uZ0/hqdefault.jpg"
-        },
-        {
-            "video_id": "OJDxNt8LH6s",
-            "title": "Dream With Us",
-            "channel_name": "TWS - Topic",
-            "category": "Music",
-            "duration": "2:48",
-            "view_count": "67903",
-            "thumbnail_url": "https://i.ytimg.com/vi/OJDxNt8LH6s/hqdefault.jpg"
-        },
-        {
-            "video_id": "MmOXJaE9F14",
-            "title": "맨 끝줄 소년 | 공식 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "2:01",
-            "view_count": "80996",
-            "thumbnail_url": "https://i.ytimg.com/vi/MmOXJaE9F14/hqdefault.jpg"
         },
         {
             "video_id": "ZqH8mueA16Q",
@@ -79,17 +52,17 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "1:42:34",
-            "view_count": "142625",
+            "view_count": "187957",
             "thumbnail_url": "https://i.ytimg.com/vi/ZqH8mueA16Q/hqdefault.jpg"
         },
         {
-            "video_id": "yiprl7-dU04",
-            "title": "스텔라이브 (STELLIVE) Universe | '마음악보'",
-            "channel_name": "스텔라이브 StelLive Official",
-            "category": "Entertainment",
-            "duration": "3:45",
-            "view_count": "108508",
-            "thumbnail_url": "https://i.ytimg.com/vi/yiprl7-dU04/hqdefault.jpg"
+            "video_id": "OJDxNt8LH6s",
+            "title": "Dream With Us",
+            "channel_name": "TWS - Topic",
+            "category": "Music",
+            "duration": "2:48",
+            "view_count": "94905",
+            "thumbnail_url": "https://i.ytimg.com/vi/OJDxNt8LH6s/hqdefault.jpg"
         },
         {
             "video_id": "Tnu5xTRO1Gs",
@@ -97,17 +70,17 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:46",
-            "view_count": "40003",
+            "view_count": "43734",
             "thumbnail_url": "https://i.ytimg.com/vi/Tnu5xTRO1Gs/hqdefault.jpg"
         },
         {
-            "video_id": "3zq-qM0UIsU",
-            "title": "티원",
-            "channel_name": "PAKA",
+            "video_id": "xF_1VZI_uZ0",
+            "title": "드디어 김민교에게 존중 받는 임아니",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "21:32",
-            "view_count": "310042",
-            "thumbnail_url": "https://i.ytimg.com/vi/3zq-qM0UIsU/hqdefault.jpg"
+            "duration": "45:02",
+            "view_count": "170940",
+            "thumbnail_url": "https://i.ytimg.com/vi/xF_1VZI_uZ0/hqdefault.jpg"
         },
         {
             "video_id": "Cb6oC22cduA",
@@ -115,8 +88,35 @@
             "channel_name": "소니뮤직코리아 Sony Music Korea",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "25364",
+            "view_count": "40176",
             "thumbnail_url": "https://i.ytimg.com/vi/Cb6oC22cduA/hqdefault.jpg"
+        },
+        {
+            "video_id": "MmOXJaE9F14",
+            "title": "맨 끝줄 소년 | 공식 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "2:01",
+            "view_count": "83443",
+            "thumbnail_url": "https://i.ytimg.com/vi/MmOXJaE9F14/hqdefault.jpg"
+        },
+        {
+            "video_id": "3zq-qM0UIsU",
+            "title": "티원",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "21:32",
+            "view_count": "314798",
+            "thumbnail_url": "https://i.ytimg.com/vi/3zq-qM0UIsU/hqdefault.jpg"
+        },
+        {
+            "video_id": "6ICiSLbbBSE",
+            "title": "Heaven Can Wait",
+            "channel_name": "JUNNY - Topic",
+            "category": "Music",
+            "duration": "3:29",
+            "view_count": "30816",
+            "thumbnail_url": "https://i.ytimg.com/vi/6ICiSLbbBSE/hqdefault.jpg"
         },
         {
             "video_id": "udZgObzu__o",
@@ -124,7 +124,7 @@
             "channel_name": "20th Century Studios Korea",
             "category": "Film & Animation",
             "duration": "2:41",
-            "view_count": "235714",
+            "view_count": "249842",
             "thumbnail_url": "https://i.ytimg.com/vi/udZgObzu__o/hqdefault.jpg"
         },
         {
@@ -133,26 +133,26 @@
             "channel_name": "수찬 Suchan",
             "category": "Gaming",
             "duration": "21:04",
-            "view_count": "126877",
+            "view_count": "135467",
             "thumbnail_url": "https://i.ytimg.com/vi/n-BwumKh7Zo/hqdefault.jpg"
         },
         {
-            "video_id": "LKMCTq3ZfFk",
-            "title": "VIRAL",
-            "channel_name": "BOYNEXTDOOR - Topic",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "644576",
-            "thumbnail_url": "https://i.ytimg.com/vi/LKMCTq3ZfFk/hqdefault.jpg"
+            "video_id": "yiprl7-dU04",
+            "title": "스텔라이브 (STELLIVE) Universe | '마음악보'",
+            "channel_name": "스텔라이브 StelLive Official",
+            "category": "Entertainment",
+            "duration": "3:45",
+            "view_count": "116306",
+            "thumbnail_url": "https://i.ytimg.com/vi/yiprl7-dU04/hqdefault.jpg"
         },
         {
-            "video_id": "GP3zVF6Wce0",
-            "title": "[슈퍼걸] 3차 예고편",
-            "channel_name": "Warner Bros. Korea",
+            "video_id": "TZ8HaIgtUIY",
+            "title": "[하트 오브 비스트] 1차 예고편",
+            "channel_name": "ParamountKR",
             "category": "Film & Animation",
-            "duration": "2:11",
-            "view_count": "57610",
-            "thumbnail_url": "https://i.ytimg.com/vi/GP3zVF6Wce0/hqdefault.jpg"
+            "duration": "2:26",
+            "view_count": "43265",
+            "thumbnail_url": "https://i.ytimg.com/vi/TZ8HaIgtUIY/hqdefault.jpg"
         },
         {
             "video_id": "jxUFKZg5xkk",
@@ -160,17 +160,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:43",
-            "view_count": "333498",
+            "view_count": "339960",
             "thumbnail_url": "https://i.ytimg.com/vi/jxUFKZg5xkk/hqdefault.jpg"
         },
         {
-            "video_id": "1Da40WaRExo",
-            "title": "Love is",
-            "channel_name": "TRIANGLE - Topic",
+            "video_id": "65wXfUAaSx4",
+            "title": "이젤(EJel) '여름의 방정식' MV",
+            "channel_name": "이젤 EJel",
             "category": "Music",
-            "duration": "3:26",
-            "view_count": "181000",
-            "thumbnail_url": "https://i.ytimg.com/vi/1Da40WaRExo/hqdefault.jpg"
+            "duration": "3:00",
+            "view_count": "106096",
+            "thumbnail_url": "https://i.ytimg.com/vi/65wXfUAaSx4/hqdefault.jpg"
+        },
+        {
+            "video_id": "GP3zVF6Wce0",
+            "title": "[슈퍼걸] 3차 예고편",
+            "channel_name": "Warner Bros. Korea",
+            "category": "Film & Animation",
+            "duration": "2:11",
+            "view_count": "58663",
+            "thumbnail_url": "https://i.ytimg.com/vi/GP3zVF6Wce0/hqdefault.jpg"
         },
         {
             "video_id": "f5BgQinbGq4",
@@ -178,17 +187,17 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "27:51",
-            "view_count": "232404",
+            "view_count": "237844",
             "thumbnail_url": "https://i.ytimg.com/vi/f5BgQinbGq4/hqdefault.jpg"
         },
         {
-            "video_id": "SsuCimm5BIU",
-            "title": "BABYMONSTER - 'SUGAR HONEY ICE TEA' PERFORMANCE VIDEO",
-            "channel_name": "BABYMONSTER",
+            "video_id": "P7VgXIZSN_w",
+            "title": "stupid song",
+            "channel_name": "Olivia Rodrigo - Topic",
             "category": "Music",
-            "duration": "3:11",
-            "view_count": "6936887",
-            "thumbnail_url": "https://i.ytimg.com/vi/SsuCimm5BIU/hqdefault.jpg"
+            "duration": "3:30",
+            "view_count": "40706",
+            "thumbnail_url": "https://i.ytimg.com/vi/P7VgXIZSN_w/hqdefault.jpg"
         },
         {
             "video_id": "kdNFm6xgubw",
@@ -196,17 +205,17 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "16:33",
-            "view_count": "131503",
+            "view_count": "143611",
             "thumbnail_url": "https://i.ytimg.com/vi/kdNFm6xgubw/hqdefault.jpg"
         },
         {
-            "video_id": "HZ6x09XLUmU",
-            "title": "What If?",
-            "channel_name": "KIM JAE HWAN - Topic",
+            "video_id": "LKMCTq3ZfFk",
+            "title": "VIRAL",
+            "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
-            "duration": "3:20",
-            "view_count": "78975",
-            "thumbnail_url": "https://i.ytimg.com/vi/HZ6x09XLUmU/hqdefault.jpg"
+            "duration": "3:19",
+            "view_count": "683740",
+            "thumbnail_url": "https://i.ytimg.com/vi/LKMCTq3ZfFk/hqdefault.jpg"
         },
         {
             "video_id": "Qn3ylcUjFHw",
@@ -214,44 +223,8 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "16:19",
-            "view_count": "105614",
+            "view_count": "115165",
             "thumbnail_url": "https://i.ytimg.com/vi/Qn3ylcUjFHw/hqdefault.jpg"
-        },
-        {
-            "video_id": "pxDXVxa1nhQ",
-            "title": "Melting (사랑인 걸까)",
-            "channel_name": "DINDIN - Topic",
-            "category": "Music",
-            "duration": "3:28",
-            "view_count": "72384",
-            "thumbnail_url": "https://i.ytimg.com/vi/pxDXVxa1nhQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "Bb8FWc2KvqE",
-            "title": "돌아온 공포 게임의 계절 [더 미믹]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "30:15",
-            "view_count": "240463",
-            "thumbnail_url": "https://i.ytimg.com/vi/Bb8FWc2KvqE/hqdefault.jpg"
-        },
-        {
-            "video_id": "EMmSm7Nr-HQ",
-            "title": "Utopia",
-            "channel_name": "The Rose - Topic",
-            "category": "Music",
-            "duration": "2:38",
-            "view_count": "65013",
-            "thumbnail_url": "https://i.ytimg.com/vi/EMmSm7Nr-HQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "7B47ocru_jY",
-            "title": "마스터 선도부 메가동하보고 극락간 클리드 ㅋㅋㅋㅋㅋ",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "26:08",
-            "view_count": "147503",
-            "thumbnail_url": "https://i.ytimg.com/vi/7B47ocru_jY/hqdefault.jpg"
         },
         {
             "video_id": "P2v4gzKnrVc",
@@ -259,26 +232,98 @@
             "channel_name": "Mighty Mouth - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "48702",
+            "view_count": "62225",
             "thumbnail_url": "https://i.ytimg.com/vi/P2v4gzKnrVc/hqdefault.jpg"
         },
         {
-            "video_id": "FM7-6PQ_yFU",
-            "title": "덴파 덴파노 카이덴파 : 불꽃타입 하트골드【포켓몬 모든타입 깨기】#2",
-            "channel_name": "근가놈",
+            "video_id": "Bb8FWc2KvqE",
+            "title": "돌아온 공포 게임의 계절 [더 미믹]",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "21:53",
-            "view_count": "232679",
-            "thumbnail_url": "https://i.ytimg.com/vi/FM7-6PQ_yFU/hqdefault.jpg"
+            "duration": "30:15",
+            "view_count": "246196",
+            "thumbnail_url": "https://i.ytimg.com/vi/Bb8FWc2KvqE/hqdefault.jpg"
         },
         {
-            "video_id": "EaaG7ALu9CA",
-            "title": "Chocolate Love (Electronic Pop Ver.)",
-            "channel_name": "f(x) - Topic",
+            "video_id": "1Da40WaRExo",
+            "title": "Love is",
+            "channel_name": "TRIANGLE - Topic",
             "category": "Music",
-            "duration": "3:35",
-            "view_count": "228891",
-            "thumbnail_url": "https://i.ytimg.com/vi/EaaG7ALu9CA/hqdefault.jpg"
+            "duration": "3:26",
+            "view_count": "196540",
+            "thumbnail_url": "https://i.ytimg.com/vi/1Da40WaRExo/hqdefault.jpg"
+        },
+        {
+            "video_id": "JtUslJtduDs",
+            "title": "\"저라뎃 갓티어 급이다\"｜발망전 EP.12",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "1:15:16",
+            "view_count": "74331",
+            "thumbnail_url": "https://i.ytimg.com/vi/JtUslJtduDs/hqdefault.jpg"
+        },
+        {
+            "video_id": "pxDXVxa1nhQ",
+            "title": "Melting (사랑인 걸까)",
+            "channel_name": "DINDIN - Topic",
+            "category": "Music",
+            "duration": "3:28",
+            "view_count": "80935",
+            "thumbnail_url": "https://i.ytimg.com/vi/pxDXVxa1nhQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "7B47ocru_jY",
+            "title": "마스터 선도부 메가동하보고 극락간 클리드 ㅋㅋㅋㅋㅋ",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "26:08",
+            "view_count": "149860",
+            "thumbnail_url": "https://i.ytimg.com/vi/7B47ocru_jY/hqdefault.jpg"
+        },
+        {
+            "video_id": "SsuCimm5BIU",
+            "title": "BABYMONSTER - 'SUGAR HONEY ICE TEA' PERFORMANCE VIDEO",
+            "channel_name": "BABYMONSTER",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "7541760",
+            "thumbnail_url": "https://i.ytimg.com/vi/SsuCimm5BIU/hqdefault.jpg"
+        },
+        {
+            "video_id": "18V-S5n1WU0",
+            "title": "신지드의 한타 고점을 아는 사람: 🗣️🗣️🗣️",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "22:04",
+            "view_count": "89108",
+            "thumbnail_url": "https://i.ytimg.com/vi/18V-S5n1WU0/hqdefault.jpg"
+        },
+        {
+            "video_id": "HZ6x09XLUmU",
+            "title": "What If?",
+            "channel_name": "KIM JAE HWAN - Topic",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "88767",
+            "thumbnail_url": "https://i.ytimg.com/vi/HZ6x09XLUmU/hqdefault.jpg"
+        },
+        {
+            "video_id": "FjYdbO-1aNQ",
+            "title": "5노바 한 방에 뒷라인 전멸하는 레전드 아트 발생",
+            "channel_name": "잡상싱",
+            "category": "Gaming",
+            "duration": "13:38",
+            "view_count": "96260",
+            "thumbnail_url": "https://i.ytimg.com/vi/FjYdbO-1aNQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "EMmSm7Nr-HQ",
+            "title": "Utopia",
+            "channel_name": "The Rose - Topic",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "67007",
+            "thumbnail_url": "https://i.ytimg.com/vi/EMmSm7Nr-HQ/hqdefault.jpg"
         },
         {
             "video_id": "Ww_-a43cEXo",
@@ -286,7 +331,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "43:38",
-            "view_count": "108048",
+            "view_count": "114594",
             "thumbnail_url": "https://i.ytimg.com/vi/Ww_-a43cEXo/hqdefault.jpg"
         },
         {
@@ -295,26 +340,26 @@
             "channel_name": "YERIN - Topic",
             "category": "Music",
             "duration": "3:27",
-            "view_count": "26008",
+            "view_count": "31009",
             "thumbnail_url": "https://i.ytimg.com/vi/GOkYn4Xbsp4/hqdefault.jpg"
         },
         {
-            "video_id": "18V-S5n1WU0",
-            "title": "신지드의 한타 고점을 아는 사람: 🗣️🗣️🗣️",
-            "channel_name": "전략적죽음",
+            "video_id": "FM7-6PQ_yFU",
+            "title": "덴파 덴파노 카이덴파 : 불꽃타입 하트골드【포켓몬 모든타입 깨기】#2",
+            "channel_name": "근가놈",
             "category": "Gaming",
-            "duration": "22:04",
-            "view_count": "79509",
-            "thumbnail_url": "https://i.ytimg.com/vi/18V-S5n1WU0/hqdefault.jpg"
+            "duration": "21:53",
+            "view_count": "235730",
+            "thumbnail_url": "https://i.ytimg.com/vi/FM7-6PQ_yFU/hqdefault.jpg"
         },
         {
-            "video_id": "L_XY40CXqhs",
-            "title": "METRONOME",
-            "channel_name": "izna - Topic",
+            "video_id": "EaaG7ALu9CA",
+            "title": "Chocolate Love (Electronic Pop Ver.)",
+            "channel_name": "f(x) - Topic",
             "category": "Music",
-            "duration": "3:00",
-            "view_count": "353717",
-            "thumbnail_url": "https://i.ytimg.com/vi/L_XY40CXqhs/hqdefault.jpg"
+            "duration": "3:35",
+            "view_count": "249618",
+            "thumbnail_url": "https://i.ytimg.com/vi/EaaG7ALu9CA/hqdefault.jpg"
         },
         {
             "video_id": "qN_IEmkbdEg",
@@ -322,62 +367,17 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "24:29",
-            "view_count": "92185",
+            "view_count": "98541",
             "thumbnail_url": "https://i.ytimg.com/vi/qN_IEmkbdEg/hqdefault.jpg"
         },
         {
-            "video_id": "JXOistftICk",
-            "title": "A Midsummer Night’s Dream (feat. Lilly Choi)",
-            "channel_name": "Dept - Topic",
+            "video_id": "rMUnrVAlR74",
+            "title": "The Stranger of the 56th Street",
+            "channel_name": "UmYull - Topic",
             "category": "Music",
-            "duration": "2:28",
-            "view_count": "24506",
-            "thumbnail_url": "https://i.ytimg.com/vi/JXOistftICk/hqdefault.jpg"
-        },
-        {
-            "video_id": "FjYdbO-1aNQ",
-            "title": "5노바 한 방에 뒷라인 전멸하는 레전드 아트 발생",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "13:38",
-            "view_count": "80837",
-            "thumbnail_url": "https://i.ytimg.com/vi/FjYdbO-1aNQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "lP_j-OYrSPs",
-            "title": "음율 (UmYull) - '56번 거리의 뫼르소 (The Stranger of the 56th Street)' MV",
-            "channel_name": "음율 UmYull",
-            "category": "Music",
-            "duration": "3:58",
-            "view_count": "42463",
-            "thumbnail_url": "https://i.ytimg.com/vi/lP_j-OYrSPs/hqdefault.jpg"
-        },
-        {
-            "video_id": "JtUslJtduDs",
-            "title": "\"저라뎃 갓티어 급이다\"｜발망전 EP.12",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "1:15:16",
-            "view_count": "55250",
-            "thumbnail_url": "https://i.ytimg.com/vi/JtUslJtduDs/hqdefault.jpg"
-        },
-        {
-            "video_id": "6ICiSLbbBSE",
-            "title": "Heaven Can Wait",
-            "channel_name": "JUNNY - Topic",
-            "category": "Music",
-            "duration": "3:29",
-            "view_count": "9550",
-            "thumbnail_url": "https://i.ytimg.com/vi/6ICiSLbbBSE/hqdefault.jpg"
-        },
-        {
-            "video_id": "Q1QdzX-SVxM",
-            "title": "도파민에 뇌가 녹았습니다. 터지면 진짜 파산이라고? \"땡겨\"",
-            "channel_name": "찬해",
-            "category": "Gaming",
-            "duration": "19:26",
-            "view_count": "116223",
-            "thumbnail_url": "https://i.ytimg.com/vi/Q1QdzX-SVxM/hqdefault.jpg"
+            "duration": "3:54",
+            "view_count": "33606",
+            "thumbnail_url": "https://i.ytimg.com/vi/rMUnrVAlR74/hqdefault.jpg"
         }
     ]
 }
