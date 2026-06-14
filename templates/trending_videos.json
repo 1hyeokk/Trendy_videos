@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-06-15 03:15:26",
+    "scraped_time": "2026-06-15 05:19:59",
     "videos": [
         {
             "video_id": "nFpknCzOUTM",
@@ -7,7 +7,7 @@
             "channel_name": "BTS - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "2359475",
+            "view_count": "2399825",
             "thumbnail_url": "https://i.ytimg.com/vi/nFpknCzOUTM/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MBCdrama",
             "category": "Entertainment",
             "duration": "0:40",
-            "view_count": "33476",
+            "view_count": "33891",
             "thumbnail_url": "https://i.ytimg.com/vi/xbTthwkCRRc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK Global",
             "category": "Gaming",
             "duration": "6:22:35",
-            "view_count": "2814432",
+            "view_count": "2837433",
             "thumbnail_url": "https://i.ytimg.com/vi/0UG_SZpo750/hqdefault.jpg"
         },
         {
@@ -34,26 +34,8 @@
             "channel_name": "LE SSERAFIM - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "2089102",
+            "view_count": "2164864",
             "thumbnail_url": "https://i.ytimg.com/vi/LVcbpFaGc_o/hqdefault.jpg"
-        },
-        {
-            "video_id": "DP1UiWO7a8Y",
-            "title": "[LIVE] 6월 14일 AION2 SUMMER FESTA SHOWCASE 생중계",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "2:18:29",
-            "view_count": "221773",
-            "thumbnail_url": "https://i.ytimg.com/vi/DP1UiWO7a8Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "2rA2K0gwjoo",
-            "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Dance Practice",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "3109411",
-            "thumbnail_url": "https://i.ytimg.com/vi/2rA2K0gwjoo/hqdefault.jpg"
         },
         {
             "video_id": "5ci4oLPK0UE",
@@ -61,8 +43,26 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "1:13:59",
-            "view_count": "169681",
+            "view_count": "203122",
             "thumbnail_url": "https://i.ytimg.com/vi/5ci4oLPK0UE/hqdefault.jpg"
+        },
+        {
+            "video_id": "2rA2K0gwjoo",
+            "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Dance Practice",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "3240872",
+            "thumbnail_url": "https://i.ytimg.com/vi/2rA2K0gwjoo/hqdefault.jpg"
+        },
+        {
+            "video_id": "t9MWxBRApoU",
+            "title": "MSI까지 마지막 한자리, 결국 단두대에 오른 두 팀 | T1 vs GEN | 하이라이트 | 06.14 | 2026 LCK",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "58:37",
+            "view_count": "177041",
+            "thumbnail_url": "https://i.ytimg.com/vi/t9MWxBRApoU/hqdefault.jpg"
         },
         {
             "video_id": "bUMLC9lCgHo",
@@ -70,7 +70,7 @@
             "channel_name": "i-dle (아이들)",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "556883",
+            "view_count": "1000726",
             "thumbnail_url": "https://i.ytimg.com/vi/bUMLC9lCgHo/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "16:29",
-            "view_count": "291402",
+            "view_count": "307398",
             "thumbnail_url": "https://i.ytimg.com/vi/Emv_L3Fk5aI/hqdefault.jpg"
         },
         {
@@ -88,17 +88,17 @@
             "channel_name": "BOYNEXTDOOR",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "69554",
+            "view_count": "78536",
             "thumbnail_url": "https://i.ytimg.com/vi/yDRY3UIC-MM/hqdefault.jpg"
         },
         {
-            "video_id": "t9MWxBRApoU",
-            "title": "MSI까지 마지막 한자리, 결국 단두대에 오른 두 팀 | T1 vs GEN | 하이라이트 | 06.14 | 2026 LCK",
-            "channel_name": "클리드",
+            "video_id": "DP1UiWO7a8Y",
+            "title": "[LIVE] 6월 14일 AION2 SUMMER FESTA SHOWCASE 생중계",
+            "channel_name": "AION2",
             "category": "Gaming",
-            "duration": "58:37",
-            "view_count": "154413",
-            "thumbnail_url": "https://i.ytimg.com/vi/t9MWxBRApoU/hqdefault.jpg"
+            "duration": "2:18:29",
+            "view_count": "223569",
+            "thumbnail_url": "https://i.ytimg.com/vi/DP1UiWO7a8Y/hqdefault.jpg"
         },
         {
             "video_id": "7Mr3B6thNrQ",
@@ -106,7 +106,7 @@
             "channel_name": "Andrea Bocelli - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "206749",
+            "view_count": "213728",
             "thumbnail_url": "https://i.ytimg.com/vi/7Mr3B6thNrQ/hqdefault.jpg"
         },
         {
@@ -115,17 +115,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:53",
-            "view_count": "166037",
+            "view_count": "203672",
             "thumbnail_url": "https://i.ytimg.com/vi/dR4BWy27ZDE/hqdefault.jpg"
         },
         {
-            "video_id": "OJDxNt8LH6s",
-            "title": "Dream With Us",
-            "channel_name": "TWS - Topic",
-            "category": "Music",
-            "duration": "2:48",
-            "view_count": "274150",
-            "thumbnail_url": "https://i.ytimg.com/vi/OJDxNt8LH6s/hqdefault.jpg"
+            "video_id": "AkP6v3sMyh8",
+            "title": "'Pretender' Official髭男dism Covered by ZEROBASEONE (제로베이스원) HAN BIN",
+            "channel_name": "ZEROBASEONE",
+            "category": "Entertainment",
+            "duration": "3:43",
+            "view_count": "104805",
+            "thumbnail_url": "https://i.ytimg.com/vi/AkP6v3sMyh8/hqdefault.jpg"
         },
         {
             "video_id": "igO7UlojDVQ",
@@ -133,8 +133,26 @@
             "channel_name": "메이플스토리",
             "category": "Gaming",
             "duration": "3:28:24",
-            "view_count": "2225594",
+            "view_count": "2226476",
             "thumbnail_url": "https://i.ytimg.com/vi/igO7UlojDVQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "OJDxNt8LH6s",
+            "title": "Dream With Us",
+            "channel_name": "TWS - Topic",
+            "category": "Music",
+            "duration": "2:48",
+            "view_count": "275540",
+            "thumbnail_url": "https://i.ytimg.com/vi/OJDxNt8LH6s/hqdefault.jpg"
+        },
+        {
+            "video_id": "Xmxb_6YTmSQ",
+            "title": "옛날메이플(플래닛) : 서버급 자투 등장! 바로 투구 스펙업 드가자 [팡이요,  메이플스토리:플래닛]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "9:13",
+            "view_count": "202463",
+            "thumbnail_url": "https://i.ytimg.com/vi/Xmxb_6YTmSQ/hqdefault.jpg"
         },
         {
             "video_id": "unj6H3S7v70",
@@ -142,7 +160,7 @@
             "channel_name": "nowimyoung - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "65607",
+            "view_count": "66651",
             "thumbnail_url": "https://i.ytimg.com/vi/unj6H3S7v70/hqdefault.jpg"
         },
         {
@@ -151,7 +169,7 @@
             "channel_name": "Football Gamer Rony",
             "category": "Gaming",
             "duration": "19:41",
-            "view_count": "4714224",
+            "view_count": "4714590",
             "thumbnail_url": "https://i.ytimg.com/vi/qBqwnR_ODJc/hqdefault.jpg"
         },
         {
@@ -160,26 +178,8 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "30131",
+            "view_count": "30528",
             "thumbnail_url": "https://i.ytimg.com/vi/L6if3GE5GFs/hqdefault.jpg"
-        },
-        {
-            "video_id": "Xmxb_6YTmSQ",
-            "title": "옛날메이플(플래닛) : 서버급 자투 등장! 바로 투구 스펙업 드가자 [팡이요,  메이플스토리:플래닛]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "9:13",
-            "view_count": "197414",
-            "thumbnail_url": "https://i.ytimg.com/vi/Xmxb_6YTmSQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "3sw-XsWZpfc",
-            "title": "mosi mosi? (楽音) ／ダズビー COVER",
-            "channel_name": "DAZBEE official",
-            "category": "Music",
-            "duration": "2:43",
-            "view_count": "310855",
-            "thumbnail_url": "https://i.ytimg.com/vi/3sw-XsWZpfc/hqdefault.jpg"
         },
         {
             "video_id": "WwIr7bQaIXc",
@@ -187,17 +187,17 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "25:20",
-            "view_count": "337261",
+            "view_count": "343047",
             "thumbnail_url": "https://i.ytimg.com/vi/WwIr7bQaIXc/hqdefault.jpg"
         },
         {
-            "video_id": "oL3AtU6gMb0",
-            "title": "[MV] 손태진(SON TAEJIN) '노래하는 곳에' MV",
-            "channel_name": "미스틱스토리 MYSTIC STORY",
+            "video_id": "3sw-XsWZpfc",
+            "title": "mosi mosi? (楽音) ／ダズビー COVER",
+            "channel_name": "DAZBEE official",
             "category": "Music",
-            "duration": "3:43",
-            "view_count": "208814",
-            "thumbnail_url": "https://i.ytimg.com/vi/oL3AtU6gMb0/hqdefault.jpg"
+            "duration": "2:43",
+            "view_count": "316524",
+            "thumbnail_url": "https://i.ytimg.com/vi/3sw-XsWZpfc/hqdefault.jpg"
         },
         {
             "video_id": "QXWc0pvrPPM",
@@ -205,7 +205,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "59:11",
-            "view_count": "212338",
+            "view_count": "215205",
             "thumbnail_url": "https://i.ytimg.com/vi/QXWc0pvrPPM/hqdefault.jpg"
         },
         {
@@ -214,44 +214,8 @@
             "channel_name": "Lauv - Topic",
             "category": "Music",
             "duration": "2:27",
-            "view_count": "221829",
+            "view_count": "224574",
             "thumbnail_url": "https://i.ytimg.com/vi/1Ph0yRt46n4/hqdefault.jpg"
-        },
-        {
-            "video_id": "Bc91b6TJk1U",
-            "title": "A급 첩보 요원",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "26:53",
-            "view_count": "143925",
-            "thumbnail_url": "https://i.ytimg.com/vi/Bc91b6TJk1U/hqdefault.jpg"
-        },
-        {
-            "video_id": "4d9RSxd7Soo",
-            "title": "なとり - Puppet",
-            "channel_name": "なとり / natori",
-            "category": "Music",
-            "duration": "3:46",
-            "view_count": "466717",
-            "thumbnail_url": "https://i.ytimg.com/vi/4d9RSxd7Soo/hqdefault.jpg"
-        },
-        {
-            "video_id": "MqAHzHblCuI",
-            "title": "5일 테섭인데 신직업?! 메이플 레테 스킬 샅샅이 파헤쳐봤습니다",
-            "channel_name": "글자네",
-            "category": "Gaming",
-            "duration": "14:30",
-            "view_count": "152238",
-            "thumbnail_url": "https://i.ytimg.com/vi/MqAHzHblCuI/hqdefault.jpg"
-        },
-        {
-            "video_id": "P7VgXIZSN_w",
-            "title": "stupid song",
-            "channel_name": "Olivia Rodrigo - Topic",
-            "category": "Music",
-            "duration": "3:30",
-            "view_count": "684515",
-            "thumbnail_url": "https://i.ytimg.com/vi/P7VgXIZSN_w/hqdefault.jpg"
         },
         {
             "video_id": "uRezI1t3jCQ",
@@ -259,8 +223,44 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "1:28:56",
-            "view_count": "93817",
+            "view_count": "125291",
             "thumbnail_url": "https://i.ytimg.com/vi/uRezI1t3jCQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "4d9RSxd7Soo",
+            "title": "なとり - Puppet",
+            "channel_name": "なとり / natori",
+            "category": "Music",
+            "duration": "3:46",
+            "view_count": "472994",
+            "thumbnail_url": "https://i.ytimg.com/vi/4d9RSxd7Soo/hqdefault.jpg"
+        },
+        {
+            "video_id": "Bc91b6TJk1U",
+            "title": "A급 첩보 요원",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "26:53",
+            "view_count": "154255",
+            "thumbnail_url": "https://i.ytimg.com/vi/Bc91b6TJk1U/hqdefault.jpg"
+        },
+        {
+            "video_id": "P7VgXIZSN_w",
+            "title": "stupid song",
+            "channel_name": "Olivia Rodrigo - Topic",
+            "category": "Music",
+            "duration": "3:30",
+            "view_count": "701814",
+            "thumbnail_url": "https://i.ytimg.com/vi/P7VgXIZSN_w/hqdefault.jpg"
+        },
+        {
+            "video_id": "MqAHzHblCuI",
+            "title": "5일 테섭인데 신직업?! 메이플 레테 스킬 샅샅이 파헤쳐봤습니다",
+            "channel_name": "글자네",
+            "category": "Gaming",
+            "duration": "14:30",
+            "view_count": "155885",
+            "thumbnail_url": "https://i.ytimg.com/vi/MqAHzHblCuI/hqdefault.jpg"
         },
         {
             "video_id": "Cb6oC22cduA",
@@ -268,17 +268,17 @@
             "channel_name": "소니뮤직코리아 Sony Music Korea",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "128149",
+            "view_count": "128366",
             "thumbnail_url": "https://i.ytimg.com/vi/Cb6oC22cduA/hqdefault.jpg"
         },
         {
-            "video_id": "DxgpuBya8II",
-            "title": "충격 반전의 머더 미스테리?! 온갖 꼼수 다쓰는 더러운 머더!?!?ㅋㅋㅋ",
-            "channel_name": "멜로우TV",
+            "video_id": "2qIV09gWOso",
+            "title": "젠지의 선발전 무패 신화가 T1에게 깨졌습니다.. 페이즈가 만들어낸 역대급 원딜 차이!",
+            "channel_name": "붐바야",
             "category": "Gaming",
-            "duration": "21:42",
-            "view_count": "132510",
-            "thumbnail_url": "https://i.ytimg.com/vi/DxgpuBya8II/hqdefault.jpg"
+            "duration": "9:04",
+            "view_count": "82890",
+            "thumbnail_url": "https://i.ytimg.com/vi/2qIV09gWOso/hqdefault.jpg"
         },
         {
             "video_id": "43TOyuvo4no",
@@ -286,7 +286,7 @@
             "channel_name": "Dept - Topic",
             "category": "Music",
             "duration": "2:29",
-            "view_count": "73272",
+            "view_count": "73755",
             "thumbnail_url": "https://i.ytimg.com/vi/43TOyuvo4no/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "수찬 Suchan",
             "category": "Gaming",
             "duration": "14:26",
-            "view_count": "136314",
+            "view_count": "141185",
             "thumbnail_url": "https://i.ytimg.com/vi/WYml9B-cP6Q/hqdefault.jpg"
         },
         {
@@ -304,17 +304,35 @@
             "channel_name": "Monday Kiz - Topic",
             "category": "Music",
             "duration": "5:11",
-            "view_count": "6866",
+            "view_count": "7753",
             "thumbnail_url": "https://i.ytimg.com/vi/uBBz6H3B7F0/hqdefault.jpg"
         },
         {
-            "video_id": "zT74vKM8mtU",
-            "title": "억대 현질한 제 맨유 팀이 영포티 같다고요?",
-            "channel_name": "이상호",
+            "video_id": "DxgpuBya8II",
+            "title": "충격 반전의 머더 미스테리?! 온갖 꼼수 다쓰는 더러운 머더!?!?ㅋㅋㅋ",
+            "channel_name": "멜로우TV",
             "category": "Gaming",
-            "duration": "22:50",
-            "view_count": "287373",
-            "thumbnail_url": "https://i.ytimg.com/vi/zT74vKM8mtU/hqdefault.jpg"
+            "duration": "21:42",
+            "view_count": "132795",
+            "thumbnail_url": "https://i.ytimg.com/vi/DxgpuBya8II/hqdefault.jpg"
+        },
+        {
+            "video_id": "YBMVdtDeK18",
+            "title": "Karasu - Raven",
+            "channel_name": "Kenshi Yonezu - Topic",
+            "category": "Music",
+            "duration": "4:09",
+            "view_count": "12280",
+            "thumbnail_url": "https://i.ytimg.com/vi/YBMVdtDeK18/hqdefault.jpg"
+        },
+        {
+            "video_id": "3E3ZMzpQE_Q",
+            "title": "저포 권위자 팔협지의 저포 티모덱",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "15:34",
+            "view_count": "101958",
+            "thumbnail_url": "https://i.ytimg.com/vi/3E3ZMzpQE_Q/hqdefault.jpg"
         },
         {
             "video_id": "6ICiSLbbBSE",
@@ -322,17 +340,17 @@
             "channel_name": "JUNNY - Topic",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "106028",
+            "view_count": "106641",
             "thumbnail_url": "https://i.ytimg.com/vi/6ICiSLbbBSE/hqdefault.jpg"
         },
         {
-            "video_id": "2qIV09gWOso",
-            "title": "젠지의 선발전 무패 신화가 T1에게 깨졌습니다.. 페이즈가 만들어낸 역대급 원딜 차이!",
-            "channel_name": "붐바야",
+            "video_id": "zT74vKM8mtU",
+            "title": "억대 현질한 제 맨유 팀이 영포티 같다고요?",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "9:04",
-            "view_count": "71353",
-            "thumbnail_url": "https://i.ytimg.com/vi/2qIV09gWOso/hqdefault.jpg"
+            "duration": "22:50",
+            "view_count": "290783",
+            "thumbnail_url": "https://i.ytimg.com/vi/zT74vKM8mtU/hqdefault.jpg"
         },
         {
             "video_id": "vYq_Xzj8HUM",
@@ -340,7 +358,7 @@
             "channel_name": "MEOVV",
             "category": "Entertainment",
             "duration": "2:54",
-            "view_count": "1146347",
+            "view_count": "1160673",
             "thumbnail_url": "https://i.ytimg.com/vi/vYq_Xzj8HUM/hqdefault.jpg"
         },
         {
@@ -349,7 +367,7 @@
             "channel_name": "아리tv-롤정보통",
             "category": "Gaming",
             "duration": "5:39",
-            "view_count": "108881",
+            "view_count": "114625",
             "thumbnail_url": "https://i.ytimg.com/vi/YEExDDEbW0k/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "Yudai - Topic",
             "category": "Music",
             "duration": "3:55",
-            "view_count": "61698",
+            "view_count": "62548",
             "thumbnail_url": "https://i.ytimg.com/vi/Fnu7Yz_-xk4/hqdefault.jpg"
-        },
-        {
-            "video_id": "3E3ZMzpQE_Q",
-            "title": "저포 권위자 팔협지의 저포 티모덱",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "15:34",
-            "view_count": "92068",
-            "thumbnail_url": "https://i.ytimg.com/vi/3E3ZMzpQE_Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "EFTEigL1n0s",
-            "title": "[성시경 노래] 67. Michi Teyu Ku (With. Lilas (YOASOBI’s ikura)) l Sung Si Kyung Music",
-            "channel_name": "성시경 SUNG SI KYUNG",
-            "category": "Entertainment",
-            "duration": "8:14",
-            "view_count": "138659",
-            "thumbnail_url": "https://i.ytimg.com/vi/EFTEigL1n0s/hqdefault.jpg"
         }
     ]
 }
