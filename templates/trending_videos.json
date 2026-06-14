@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-06-14 14:51:08",
+    "scraped_time": "2026-06-14 18:38:57",
     "videos": [
         {
             "video_id": "nFpknCzOUTM",
@@ -7,7 +7,7 @@
             "channel_name": "BTS - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "2079700",
+            "view_count": "2167189",
             "thumbnail_url": "https://i.ytimg.com/vi/nFpknCzOUTM/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MBCdrama",
             "category": "Entertainment",
             "duration": "0:40",
-            "view_count": "21513",
+            "view_count": "26118",
             "thumbnail_url": "https://i.ytimg.com/vi/xbTthwkCRRc/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "메이플스토리",
             "category": "Gaming",
             "duration": "3:28:24",
-            "view_count": "2220574",
+            "view_count": "2225180",
             "thumbnail_url": "https://i.ytimg.com/vi/igO7UlojDVQ/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "LE SSERAFIM - Topic",
             "category": "Music",
             "duration": "2:58",
-            "view_count": "1692692",
+            "view_count": "1808377",
             "thumbnail_url": "https://i.ytimg.com/vi/LVcbpFaGc_o/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Football Gamer Rony",
             "category": "Gaming",
             "duration": "19:41",
-            "view_count": "4711002",
+            "view_count": "4712012",
             "thumbnail_url": "https://i.ytimg.com/vi/qBqwnR_ODJc/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "2188108",
+            "view_count": "2506798",
             "thumbnail_url": "https://i.ytimg.com/vi/2rA2K0gwjoo/hqdefault.jpg"
         },
         {
@@ -61,8 +61,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "25:20",
-            "view_count": "278395",
+            "view_count": "302556",
             "thumbnail_url": "https://i.ytimg.com/vi/WwIr7bQaIXc/hqdefault.jpg"
+        },
+        {
+            "video_id": "7Mr3B6thNrQ",
+            "title": "DNA (More Than A Game)",
+            "channel_name": "Andrea Bocelli - Topic",
+            "category": "Music",
+            "duration": "2:57",
+            "view_count": "173621",
+            "thumbnail_url": "https://i.ytimg.com/vi/7Mr3B6thNrQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Emv_L3Fk5aI",
+            "title": "내 몸에 그림을 그려서 숨는 숨바꼭질 게임",
+            "channel_name": "우주하마",
+            "category": "Gaming",
+            "duration": "16:29",
+            "view_count": "121129",
+            "thumbnail_url": "https://i.ytimg.com/vi/Emv_L3Fk5aI/hqdefault.jpg"
         },
         {
             "video_id": "OJDxNt8LH6s",
@@ -70,26 +88,8 @@
             "channel_name": "TWS - Topic",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "244990",
+            "view_count": "256478",
             "thumbnail_url": "https://i.ytimg.com/vi/OJDxNt8LH6s/hqdefault.jpg"
-        },
-        {
-            "video_id": "E3MkWHJ8DGE",
-            "title": "귀여운 할아버지",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "19:24",
-            "view_count": "227938",
-            "thumbnail_url": "https://i.ytimg.com/vi/E3MkWHJ8DGE/hqdefault.jpg"
-        },
-        {
-            "video_id": "HYIclJwMPus",
-            "title": "DNA (More Than A Game)",
-            "channel_name": "Andrea Bocelli - Topic",
-            "category": "Music",
-            "duration": "2:57",
-            "view_count": "346941",
-            "thumbnail_url": "https://i.ytimg.com/vi/HYIclJwMPus/hqdefault.jpg"
         },
         {
             "video_id": "QXWc0pvrPPM",
@@ -97,7 +97,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "59:11",
-            "view_count": "135987",
+            "view_count": "171709",
             "thumbnail_url": "https://i.ytimg.com/vi/QXWc0pvrPPM/hqdefault.jpg"
         },
         {
@@ -106,35 +106,35 @@
             "channel_name": "미스틱스토리 MYSTIC STORY",
             "category": "Music",
             "duration": "3:43",
-            "view_count": "186158",
+            "view_count": "198885",
             "thumbnail_url": "https://i.ytimg.com/vi/oL3AtU6gMb0/hqdefault.jpg"
         },
         {
-            "video_id": "zT74vKM8mtU",
-            "title": "억대 현질한 제 맨유 팀이 영포티 같다고요?",
-            "channel_name": "이상호",
+            "video_id": "E3MkWHJ8DGE",
+            "title": "귀여운 할아버지",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "22:50",
-            "view_count": "223366",
-            "thumbnail_url": "https://i.ytimg.com/vi/zT74vKM8mtU/hqdefault.jpg"
+            "duration": "19:24",
+            "view_count": "255372",
+            "thumbnail_url": "https://i.ytimg.com/vi/E3MkWHJ8DGE/hqdefault.jpg"
         },
         {
-            "video_id": "1Ph0yRt46n4",
-            "title": "Don't You Know",
-            "channel_name": "Lauv - Topic",
+            "video_id": "unj6H3S7v70",
+            "title": "HEAVEN",
+            "channel_name": "nowimyoung - Topic",
             "category": "Music",
-            "duration": "2:27",
-            "view_count": "188882",
-            "thumbnail_url": "https://i.ytimg.com/vi/1Ph0yRt46n4/hqdefault.jpg"
+            "duration": "3:30",
+            "view_count": "51519",
+            "thumbnail_url": "https://i.ytimg.com/vi/unj6H3S7v70/hqdefault.jpg"
         },
         {
-            "video_id": "lh8k92gtf34",
-            "title": "첫 캠방",
-            "channel_name": "진격캐넌",
+            "video_id": "Xmxb_6YTmSQ",
+            "title": "옛날메이플(플래닛) : 서버급 자투 등장! 바로 투구 스펙업 드가자 [팡이요,  메이플스토리:플래닛]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "9:55:56",
-            "view_count": "345772",
-            "thumbnail_url": "https://i.ytimg.com/vi/lh8k92gtf34/hqdefault.jpg"
+            "duration": "9:13",
+            "view_count": "136710",
+            "thumbnail_url": "https://i.ytimg.com/vi/Xmxb_6YTmSQ/hqdefault.jpg"
         },
         {
             "video_id": "3sw-XsWZpfc",
@@ -142,7 +142,7 @@
             "channel_name": "DAZBEE official",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "242254",
+            "view_count": "262674",
             "thumbnail_url": "https://i.ytimg.com/vi/3sw-XsWZpfc/hqdefault.jpg"
         },
         {
@@ -151,26 +151,26 @@
             "channel_name": "글자네",
             "category": "Gaming",
             "duration": "14:30",
-            "view_count": "83952",
+            "view_count": "118477",
             "thumbnail_url": "https://i.ytimg.com/vi/MqAHzHblCuI/hqdefault.jpg"
         },
         {
-            "video_id": "AkP6v3sMyh8",
-            "title": "'Pretender' Official髭男dism Covered by ZEROBASEONE (제로베이스원) HAN BIN",
-            "channel_name": "ZEROBASEONE",
-            "category": "Entertainment",
-            "duration": "3:43",
-            "view_count": "66746",
-            "thumbnail_url": "https://i.ytimg.com/vi/AkP6v3sMyh8/hqdefault.jpg"
+            "video_id": "1Ph0yRt46n4",
+            "title": "Don't You Know",
+            "channel_name": "Lauv - Topic",
+            "category": "Music",
+            "duration": "2:27",
+            "view_count": "201131",
+            "thumbnail_url": "https://i.ytimg.com/vi/1Ph0yRt46n4/hqdefault.jpg"
         },
         {
-            "video_id": "-Q-DM8yizkw",
-            "title": "종결 템 3명 VS 맨손 시청자 100명",
-            "channel_name": "말왕TV",
+            "video_id": "zT74vKM8mtU",
+            "title": "억대 현질한 제 맨유 팀이 영포티 같다고요?",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "39:38",
-            "view_count": "295536",
-            "thumbnail_url": "https://i.ytimg.com/vi/-Q-DM8yizkw/hqdefault.jpg"
+            "duration": "22:50",
+            "view_count": "252218",
+            "thumbnail_url": "https://i.ytimg.com/vi/zT74vKM8mtU/hqdefault.jpg"
         },
         {
             "video_id": "P7VgXIZSN_w",
@@ -178,26 +178,26 @@
             "channel_name": "Olivia Rodrigo - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "587778",
+            "view_count": "616147",
             "thumbnail_url": "https://i.ytimg.com/vi/P7VgXIZSN_w/hqdefault.jpg"
         },
         {
-            "video_id": "Xmxb_6YTmSQ",
-            "title": "옛날메이플(플래닛) : 서버급 자투 등장! 바로 투구 스펙업 드가자 [팡이요,  메이플스토리:플래닛]",
-            "channel_name": "팡이요",
+            "video_id": "lh8k92gtf34",
+            "title": "첫 캠방",
+            "channel_name": "진격캐넌",
             "category": "Gaming",
-            "duration": "9:13",
-            "view_count": "86515",
-            "thumbnail_url": "https://i.ytimg.com/vi/Xmxb_6YTmSQ/hqdefault.jpg"
+            "duration": "9:55:56",
+            "view_count": "348152",
+            "thumbnail_url": "https://i.ytimg.com/vi/lh8k92gtf34/hqdefault.jpg"
         },
         {
-            "video_id": "unj6H3S7v70",
-            "title": "HEAVEN",
-            "channel_name": "nowimyoung - Topic",
+            "video_id": "L6if3GE5GFs",
+            "title": "뚝섬 (Art. 멸종위기캥거루) - Anonymous Artists (어나니머스 아티스트)",
+            "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
-            "duration": "3:30",
-            "view_count": "42671",
-            "thumbnail_url": "https://i.ytimg.com/vi/unj6H3S7v70/hqdefault.jpg"
+            "duration": "2:49",
+            "view_count": "18128",
+            "thumbnail_url": "https://i.ytimg.com/vi/L6if3GE5GFs/hqdefault.jpg"
         },
         {
             "video_id": "savrYTWenVk",
@@ -205,7 +205,7 @@
             "channel_name": "메이플스토리맑음",
             "category": "Gaming",
             "duration": "19:06",
-            "view_count": "78088",
+            "view_count": "90551",
             "thumbnail_url": "https://i.ytimg.com/vi/savrYTWenVk/hqdefault.jpg"
         },
         {
@@ -214,53 +214,17 @@
             "channel_name": "Dept - Topic",
             "category": "Music",
             "duration": "2:29",
-            "view_count": "63045",
+            "view_count": "68169",
             "thumbnail_url": "https://i.ytimg.com/vi/43TOyuvo4no/hqdefault.jpg"
         },
         {
-            "video_id": "tyqZCOtMajs",
-            "title": "이기면 1시드 진출! 모두가 기다렸던 레전드 빅매치 ㄷㄷ | HLE vs T1 | 하이라이트 | 06.12 | 2026 LCK",
-            "channel_name": "클리드",
+            "video_id": "-Q-DM8yizkw",
+            "title": "종결 템 3명 VS 맨손 시청자 100명",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "1:22:34",
-            "view_count": "194084",
-            "thumbnail_url": "https://i.ytimg.com/vi/tyqZCOtMajs/hqdefault.jpg"
-        },
-        {
-            "video_id": "L6if3GE5GFs",
-            "title": "뚝섬 (Art. 멸종위기캥거루) - Anonymous Artists (어나니머스 아티스트)",
-            "channel_name": "Anonymous Artists (어나니머스 아티스트)",
-            "category": "Music",
-            "duration": "2:49",
-            "view_count": "13179",
-            "thumbnail_url": "https://i.ytimg.com/vi/L6if3GE5GFs/hqdefault.jpg"
-        },
-        {
-            "video_id": "jM2EPFX2UBY",
-            "title": "HLE vs T1 | 2026 LCK Road to MSI: Round 3",
-            "channel_name": "LCK Global",
-            "category": "Gaming",
-            "duration": "5:28:50",
-            "view_count": "2035868",
-            "thumbnail_url": "https://i.ytimg.com/vi/jM2EPFX2UBY/hqdefault.jpg"
-        },
-        {
-            "video_id": "Cb6oC22cduA",
-            "title": "[한글 가사] 매디슨 비어 (Madison Beer) - lovergirl",
-            "channel_name": "소니뮤직코리아 Sony Music Korea",
-            "category": "Music",
-            "duration": "3:22",
-            "view_count": "110114",
-            "thumbnail_url": "https://i.ytimg.com/vi/Cb6oC22cduA/hqdefault.jpg"
-        },
-        {
-            "video_id": "Us0Suvrw4SQ",
-            "title": "혜안, ≪복권 긁는 게임≫ 엔딩 바로 가쟈...!",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "45:04",
-            "view_count": "340983",
-            "thumbnail_url": "https://i.ytimg.com/vi/Us0Suvrw4SQ/hqdefault.jpg"
+            "duration": "39:38",
+            "view_count": "308526",
+            "thumbnail_url": "https://i.ytimg.com/vi/-Q-DM8yizkw/hqdefault.jpg"
         },
         {
             "video_id": "4d9RSxd7Soo",
@@ -268,17 +232,35 @@
             "channel_name": "なとり / natori",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "380307",
+            "view_count": "405713",
             "thumbnail_url": "https://i.ytimg.com/vi/4d9RSxd7Soo/hqdefault.jpg"
         },
         {
-            "video_id": "Emv_L3Fk5aI",
-            "title": "내 몸에 그림을 그려서 숨는 숨바꼭질 게임",
-            "channel_name": "우주하마",
+            "video_id": "DxgpuBya8II",
+            "title": "충격 반전의 머더 미스테리?! 온갖 꼼수 다쓰는 더러운 머더!?!?ㅋㅋㅋ",
+            "channel_name": "멜로우TV",
             "category": "Gaming",
-            "duration": "16:29",
-            "view_count": "38700",
-            "thumbnail_url": "https://i.ytimg.com/vi/Emv_L3Fk5aI/hqdefault.jpg"
+            "duration": "21:42",
+            "view_count": "82203",
+            "thumbnail_url": "https://i.ytimg.com/vi/DxgpuBya8II/hqdefault.jpg"
+        },
+        {
+            "video_id": "Cb6oC22cduA",
+            "title": "[한글 가사] 매디슨 비어 (Madison Beer) - lovergirl",
+            "channel_name": "소니뮤직코리아 Sony Music Korea",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "113520",
+            "thumbnail_url": "https://i.ytimg.com/vi/Cb6oC22cduA/hqdefault.jpg"
+        },
+        {
+            "video_id": "WYml9B-cP6Q",
+            "title": "전붕이 템은 사먹는게 맞다",
+            "channel_name": "수찬 Suchan",
+            "category": "Gaming",
+            "duration": "14:26",
+            "view_count": "82151",
+            "thumbnail_url": "https://i.ytimg.com/vi/WYml9B-cP6Q/hqdefault.jpg"
         },
         {
             "video_id": "6ICiSLbbBSE",
@@ -286,17 +268,17 @@
             "channel_name": "JUNNY - Topic",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "96763",
+            "view_count": "100907",
             "thumbnail_url": "https://i.ytimg.com/vi/6ICiSLbbBSE/hqdefault.jpg"
         },
         {
-            "video_id": "mmMGGmAEgm8",
-            "title": "증바람 바뀌자마자 SSS급 스몰더 만든사람",
-            "channel_name": "Official dopa",
+            "video_id": "tyqZCOtMajs",
+            "title": "이기면 1시드 진출! 모두가 기다렸던 레전드 빅매치 ㄷㄷ | HLE vs T1 | 하이라이트 | 06.12 | 2026 LCK",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "36:36",
-            "view_count": "248951",
-            "thumbnail_url": "https://i.ytimg.com/vi/mmMGGmAEgm8/hqdefault.jpg"
+            "duration": "1:22:34",
+            "view_count": "199259",
+            "thumbnail_url": "https://i.ytimg.com/vi/tyqZCOtMajs/hqdefault.jpg"
         },
         {
             "video_id": "vYq_Xzj8HUM",
@@ -304,17 +286,17 @@
             "channel_name": "MEOVV",
             "category": "Entertainment",
             "duration": "2:54",
-            "view_count": "1030143",
+            "view_count": "1062279",
             "thumbnail_url": "https://i.ytimg.com/vi/vYq_Xzj8HUM/hqdefault.jpg"
         },
         {
-            "video_id": "G5w4wt-ze_Y",
-            "title": "게임 시작부터 커맨드 위치를 구석으로 옮기고 본진 위치 속여보기, 상대는 아무리 찾아도 안보이자 황당해하는데?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "7fDxGUabqA0",
+            "title": "신규 직업 마족 소환술사 '레테', 테섭에서 직접 플레이해봤습니다",
+            "channel_name": "청묘",
             "category": "Gaming",
-            "duration": "23:02",
-            "view_count": "170643",
-            "thumbnail_url": "https://i.ytimg.com/vi/G5w4wt-ze_Y/hqdefault.jpg"
+            "duration": "14:26",
+            "view_count": "91294",
+            "thumbnail_url": "https://i.ytimg.com/vi/7fDxGUabqA0/hqdefault.jpg"
         },
         {
             "video_id": "EFTEigL1n0s",
@@ -322,35 +304,17 @@
             "channel_name": "성시경 SUNG SI KYUNG",
             "category": "Entertainment",
             "duration": "8:14",
-            "view_count": "116666",
+            "view_count": "122489",
             "thumbnail_url": "https://i.ytimg.com/vi/EFTEigL1n0s/hqdefault.jpg"
         },
         {
-            "video_id": "KJ8vBpCi2Rs",
-            "title": "백룸에서 소리 내면 죽는 게임! 더 클래스룸 4!",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "23:27",
-            "view_count": "169346",
-            "thumbnail_url": "https://i.ytimg.com/vi/KJ8vBpCi2Rs/hqdefault.jpg"
-        },
-        {
-            "video_id": "yiprl7-dU04",
-            "title": "스텔라이브 (STELLIVE) Universe | '마음악보'",
-            "channel_name": "스텔라이브 StelLive Official",
-            "category": "Entertainment",
-            "duration": "3:45",
-            "view_count": "161206",
-            "thumbnail_url": "https://i.ytimg.com/vi/yiprl7-dU04/hqdefault.jpg"
-        },
-        {
-            "video_id": "c7R97RRVTHY",
-            "title": "나비처럼 날아 대전 선착🚅│HLE vs T1│2026 LCK RTM│울챔스 하이라이트",
-            "channel_name": "Wolf",
+            "video_id": "Us0Suvrw4SQ",
+            "title": "혜안, ≪복권 긁는 게임≫ 엔딩 바로 가쟈...!",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "1:31:35",
-            "view_count": "130894",
-            "thumbnail_url": "https://i.ytimg.com/vi/c7R97RRVTHY/hqdefault.jpg"
+            "duration": "45:04",
+            "view_count": "350664",
+            "thumbnail_url": "https://i.ytimg.com/vi/Us0Suvrw4SQ/hqdefault.jpg"
         },
         {
             "video_id": "P2v4gzKnrVc",
@@ -358,26 +322,62 @@
             "channel_name": "Mighty Mouth - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "182844",
+            "view_count": "200261",
             "thumbnail_url": "https://i.ytimg.com/vi/P2v4gzKnrVc/hqdefault.jpg"
         },
         {
-            "video_id": "tWInJVYUVR4",
-            "title": "탱커 무시하고 딜러부터 패버리는 생선대가리 이즈리얼",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "14:45",
-            "view_count": "124738",
-            "thumbnail_url": "https://i.ytimg.com/vi/tWInJVYUVR4/hqdefault.jpg"
+            "video_id": "KJ8vBpCi2Rs",
+            "title": "백룸에서 소리 내면 죽는 게임! 더 클래스룸 4!",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "23:27",
+            "view_count": "190493",
+            "thumbnail_url": "https://i.ytimg.com/vi/KJ8vBpCi2Rs/hqdefault.jpg"
         },
         {
-            "video_id": "XyLJ5I6Y6-A",
-            "title": "김광석 - 사랑했지만 | 이 명곡을 스페인어로 들으면 어떨까요? | COVER by 라라 베니또",
-            "channel_name": "나야 라라 LaraLand",
+            "video_id": "Fnu7Yz_-xk4",
+            "title": "Pretender",
+            "channel_name": "Yudai - Topic",
             "category": "Music",
-            "duration": "5:19",
-            "view_count": "55435",
-            "thumbnail_url": "https://i.ytimg.com/vi/XyLJ5I6Y6-A/hqdefault.jpg"
+            "duration": "3:55",
+            "view_count": "48829",
+            "thumbnail_url": "https://i.ytimg.com/vi/Fnu7Yz_-xk4/hqdefault.jpg"
+        },
+        {
+            "video_id": "jM2EPFX2UBY",
+            "title": "HLE vs T1 | 2026 LCK Road to MSI: Round 3",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "5:28:50",
+            "view_count": "2040263",
+            "thumbnail_url": "https://i.ytimg.com/vi/jM2EPFX2UBY/hqdefault.jpg"
+        },
+        {
+            "video_id": "yiprl7-dU04",
+            "title": "스텔라이브 (STELLIVE) Universe | '마음악보'",
+            "channel_name": "스텔라이브 StelLive Official",
+            "category": "Entertainment",
+            "duration": "3:45",
+            "view_count": "164016",
+            "thumbnail_url": "https://i.ytimg.com/vi/yiprl7-dU04/hqdefault.jpg"
+        },
+        {
+            "video_id": "LoogQp7NiIE",
+            "title": "본무기 백줌 파괴의 아픔을 딛고.. 결국 제가 해냈습니다ㅋㅋㅋ!!",
+            "channel_name": "찬해",
+            "category": "Gaming",
+            "duration": "20:09",
+            "view_count": "85509",
+            "thumbnail_url": "https://i.ytimg.com/vi/LoogQp7NiIE/hqdefault.jpg"
+        },
+        {
+            "video_id": "fGROw7w4SVs",
+            "title": "Unsaid",
+            "channel_name": "Nilo - Topic",
+            "category": "Music",
+            "duration": "3:57",
+            "view_count": "38982",
+            "thumbnail_url": "https://i.ytimg.com/vi/fGROw7w4SVs/hqdefault.jpg"
         }
     ]
 }
