@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-06-17 00:57:04",
+    "scraped_time": "2026-06-17 04:42:27",
     "videos": [
         {
             "video_id": "HDGCTtuW-Yo",
@@ -7,7 +7,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "1013163",
+            "view_count": "1298595",
             "thumbnail_url": "https://i.ytimg.com/vi/HDGCTtuW-Yo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:03",
-            "view_count": "287132",
+            "view_count": "315583",
             "thumbnail_url": "https://i.ytimg.com/vi/nvnm3RMW278/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "25:19",
-            "view_count": "158876",
+            "view_count": "222496",
             "thumbnail_url": "https://i.ytimg.com/vi/zypM4WQHOmA/hqdefault.jpg"
         },
         {
@@ -34,26 +34,8 @@
             "channel_name": "RIIZE - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "192599",
+            "view_count": "202417",
             "thumbnail_url": "https://i.ytimg.com/vi/proAJg4sVhM/hqdefault.jpg"
-        },
-        {
-            "video_id": "2eCvWxJJ0As",
-            "title": "무슨 소리? 대전 가는 소리!🔊│T1 vs GEN│2026 LCK RTM│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "2:00:15",
-            "view_count": "395602",
-            "thumbnail_url": "https://i.ytimg.com/vi/2eCvWxJJ0As/hqdefault.jpg"
-        },
-        {
-            "video_id": "bUMLC9lCgHo",
-            "title": "i-dle (아이들) 'Crow' Official Music Video",
-            "channel_name": "i-dle (아이들)",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "4310461",
-            "thumbnail_url": "https://i.ytimg.com/vi/bUMLC9lCgHo/hqdefault.jpg"
         },
         {
             "video_id": "KkLhex4egvo",
@@ -61,8 +43,26 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "36:25",
-            "view_count": "96492",
+            "view_count": "138204",
             "thumbnail_url": "https://i.ytimg.com/vi/KkLhex4egvo/hqdefault.jpg"
+        },
+        {
+            "video_id": "bUMLC9lCgHo",
+            "title": "i-dle (아이들) 'Crow' Official Music Video",
+            "channel_name": "i-dle (아이들)",
+            "category": "Music",
+            "duration": "3:23",
+            "view_count": "4460073",
+            "thumbnail_url": "https://i.ytimg.com/vi/bUMLC9lCgHo/hqdefault.jpg"
+        },
+        {
+            "video_id": "2eCvWxJJ0As",
+            "title": "무슨 소리? 대전 가는 소리!🔊│T1 vs GEN│2026 LCK RTM│울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "2:00:15",
+            "view_count": "408968",
+            "thumbnail_url": "https://i.ytimg.com/vi/2eCvWxJJ0As/hqdefault.jpg"
         },
         {
             "video_id": "HgewvBTOJwU",
@@ -70,7 +70,7 @@
             "channel_name": "STAYC",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "195518",
+            "view_count": "301577",
             "thumbnail_url": "https://i.ytimg.com/vi/HgewvBTOJwU/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "50:07",
-            "view_count": "115210",
+            "view_count": "128132",
             "thumbnail_url": "https://i.ytimg.com/vi/hkwf4lBfQY4/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "Monday Kiz - Topic",
             "category": "Music",
             "duration": "5:11",
-            "view_count": "131365",
+            "view_count": "135135",
             "thumbnail_url": "https://i.ytimg.com/vi/uBBz6H3B7F0/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "1:20:38",
-            "view_count": "248143",
+            "view_count": "260066",
             "thumbnail_url": "https://i.ytimg.com/vi/WtLIsobR0iI/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "Kenshi Yonezu - Topic",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "241561",
+            "view_count": "256435",
             "thumbnail_url": "https://i.ytimg.com/vi/YBMVdtDeK18/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "프로관전러 P.S",
             "category": "Gaming",
             "duration": "39:15",
-            "view_count": "339085",
+            "view_count": "355115",
             "thumbnail_url": "https://i.ytimg.com/vi/OVXHuxid0EI/hqdefault.jpg"
         },
         {
@@ -124,62 +124,26 @@
             "channel_name": "Seori - Topic",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "44188",
+            "view_count": "45992",
             "thumbnail_url": "https://i.ytimg.com/vi/50zlkB2GHWQ/hqdefault.jpg"
         },
         {
-            "video_id": "uHT-vKBFpOg",
-            "title": "중간계 대망의 경매 시작! 과연 이상호는 이번에 어떤 감독에게 갈까?【중간계 시즌2 Ep.0 경매&조편성】",
-            "channel_name": "이상호",
+            "video_id": "7EiXMZXUCNM",
+            "title": "이번에도 돌아온 2026년 상반기 직업평가!!",
+            "channel_name": "진격캐넌",
             "category": "Gaming",
-            "duration": "24:11",
-            "view_count": "153473",
-            "thumbnail_url": "https://i.ytimg.com/vi/uHT-vKBFpOg/hqdefault.jpg"
+            "duration": "30:04",
+            "view_count": "119804",
+            "thumbnail_url": "https://i.ytimg.com/vi/7EiXMZXUCNM/hqdefault.jpg"
         },
         {
-            "video_id": "LVcbpFaGc_o",
-            "title": "ICONIC BY MISTAKE",
-            "channel_name": "LE SSERAFIM - Topic",
+            "video_id": "Z0bL5RgmjwU",
+            "title": "I Can",
+            "channel_name": "Isaac Hong - Topic",
             "category": "Music",
-            "duration": "2:58",
-            "view_count": "3628535",
-            "thumbnail_url": "https://i.ytimg.com/vi/LVcbpFaGc_o/hqdefault.jpg"
-        },
-        {
-            "video_id": "5ci4oLPK0UE",
-            "title": "MSI 진출 확정! 대전에서 만납시다! | T1 vs  GEN | 2026 LCK RTM",
-            "channel_name": "Untara",
-            "category": "Gaming",
-            "duration": "1:13:59",
-            "view_count": "392369",
-            "thumbnail_url": "https://i.ytimg.com/vi/5ci4oLPK0UE/hqdefault.jpg"
-        },
-        {
-            "video_id": "iL9fFSUP2ys",
-            "title": "없던 일",
-            "channel_name": "너에플리 - Topic",
-            "category": "Music",
-            "duration": "2:47",
-            "view_count": "38975",
-            "thumbnail_url": "https://i.ytimg.com/vi/iL9fFSUP2ys/hqdefault.jpg"
-        },
-        {
-            "video_id": "0UG_SZpo750",
-            "title": "T1 vs GEN | 2026 LCK Road to MSI: Final Round",
-            "channel_name": "LCK Global",
-            "category": "Gaming",
-            "duration": "6:22:35",
-            "view_count": "2961346",
-            "thumbnail_url": "https://i.ytimg.com/vi/0UG_SZpo750/hqdefault.jpg"
-        },
-        {
-            "video_id": "nFpknCzOUTM",
-            "title": "Come Over",
-            "channel_name": "BTS - Topic",
-            "category": "Music",
-            "duration": "2:59",
-            "view_count": "3413144",
-            "thumbnail_url": "https://i.ytimg.com/vi/nFpknCzOUTM/hqdefault.jpg"
+            "duration": "3:56",
+            "view_count": "12633",
+            "thumbnail_url": "https://i.ytimg.com/vi/Z0bL5RgmjwU/hqdefault.jpg"
         },
         {
             "video_id": "fORrojUKjrg",
@@ -187,7 +151,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "14:09",
-            "view_count": "82392",
+            "view_count": "116102",
             "thumbnail_url": "https://i.ytimg.com/vi/fORrojUKjrg/hqdefault.jpg"
         },
         {
@@ -196,17 +160,71 @@
             "channel_name": "RYU MIN HEE - Topic",
             "category": "Music",
             "duration": "4:48",
-            "view_count": "24394",
+            "view_count": "26341",
             "thumbnail_url": "https://i.ytimg.com/vi/-fe_VkJbgpY/hqdefault.jpg"
         },
         {
-            "video_id": "uRezI1t3jCQ",
-            "title": "메악회를 단체로 접게 만든 그 사건...",
-            "channel_name": "동수칸TV",
+            "video_id": "uHT-vKBFpOg",
+            "title": "중간계 대망의 경매 시작! 과연 이상호는 이번에 어떤 감독에게 갈까?【중간계 시즌2 Ep.0 경매&조편성】",
+            "channel_name": "이상호",
             "category": "Gaming",
-            "duration": "1:28:56",
-            "view_count": "414076",
-            "thumbnail_url": "https://i.ytimg.com/vi/uRezI1t3jCQ/hqdefault.jpg"
+            "duration": "24:11",
+            "view_count": "164691",
+            "thumbnail_url": "https://i.ytimg.com/vi/uHT-vKBFpOg/hqdefault.jpg"
+        },
+        {
+            "video_id": "LVcbpFaGc_o",
+            "title": "ICONIC BY MISTAKE",
+            "channel_name": "LE SSERAFIM - Topic",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "3768052",
+            "thumbnail_url": "https://i.ytimg.com/vi/LVcbpFaGc_o/hqdefault.jpg"
+        },
+        {
+            "video_id": "5ci4oLPK0UE",
+            "title": "MSI 진출 확정! 대전에서 만납시다! | T1 vs  GEN | 2026 LCK RTM",
+            "channel_name": "Untara",
+            "category": "Gaming",
+            "duration": "1:13:59",
+            "view_count": "396837",
+            "thumbnail_url": "https://i.ytimg.com/vi/5ci4oLPK0UE/hqdefault.jpg"
+        },
+        {
+            "video_id": "iL9fFSUP2ys",
+            "title": "없던 일",
+            "channel_name": "너에플리 - Topic",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "40731",
+            "thumbnail_url": "https://i.ytimg.com/vi/iL9fFSUP2ys/hqdefault.jpg"
+        },
+        {
+            "video_id": "hYJr2nlzYYg",
+            "title": "알파고를 순수 실력으로 압살 하더니 실력이 형편없다며 대놓고 조롱하는 상대... 알고 보니 초고수 랭커출신이었는데!?ㄷㄷ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "1:22:13",
+            "view_count": "112956",
+            "thumbnail_url": "https://i.ytimg.com/vi/hYJr2nlzYYg/hqdefault.jpg"
+        },
+        {
+            "video_id": "nFpknCzOUTM",
+            "title": "Come Over",
+            "channel_name": "BTS - Topic",
+            "category": "Music",
+            "duration": "2:59",
+            "view_count": "3508653",
+            "thumbnail_url": "https://i.ytimg.com/vi/nFpknCzOUTM/hqdefault.jpg"
+        },
+        {
+            "video_id": "Y6eE-90Um9s",
+            "title": "마크 유튜버 PVP 최강자전",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "30:42",
+            "view_count": "105978",
+            "thumbnail_url": "https://i.ytimg.com/vi/Y6eE-90Um9s/hqdefault.jpg"
         },
         {
             "video_id": "yDRY3UIC-MM",
@@ -214,17 +232,17 @@
             "channel_name": "BOYNEXTDOOR",
             "category": "Music",
             "duration": "3:31",
-            "view_count": "184416",
+            "view_count": "189210",
             "thumbnail_url": "https://i.ytimg.com/vi/yDRY3UIC-MM/hqdefault.jpg"
         },
         {
-            "video_id": "t9MWxBRApoU",
-            "title": "MSI까지 마지막 한자리, 결국 단두대에 오른 두 팀 | T1 vs GEN | 하이라이트 | 06.14 | 2026 LCK",
-            "channel_name": "클리드",
+            "video_id": "QpfkGne1cu4",
+            "title": "현재 말이 많이 나오고 있는 그 신직업 '레테' 초풀템으로도 별로인지 바로 해봤습니다",
+            "channel_name": "글자네",
             "category": "Gaming",
-            "duration": "58:37",
-            "view_count": "282375",
-            "thumbnail_url": "https://i.ytimg.com/vi/t9MWxBRApoU/hqdefault.jpg"
+            "duration": "12:43",
+            "view_count": "164117",
+            "thumbnail_url": "https://i.ytimg.com/vi/QpfkGne1cu4/hqdefault.jpg"
         },
         {
             "video_id": "xrL9ByDyJ1M",
@@ -232,80 +250,8 @@
             "channel_name": "7080 정미의 가요방",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "23165",
+            "view_count": "24063",
             "thumbnail_url": "https://i.ytimg.com/vi/xrL9ByDyJ1M/hqdefault.jpg"
-        },
-        {
-            "video_id": "qzvBX5LZAE8",
-            "title": "고인물이 말아주는 2026년 여름 메이플 \"좋은 직업 추천\"",
-            "channel_name": "도루",
-            "category": "Gaming",
-            "duration": "12:51",
-            "view_count": "110864",
-            "thumbnail_url": "https://i.ytimg.com/vi/qzvBX5LZAE8/hqdefault.jpg"
-        },
-        {
-            "video_id": "Z0bL5RgmjwU",
-            "title": "I Can",
-            "channel_name": "Isaac Hong - Topic",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "6351",
-            "thumbnail_url": "https://i.ytimg.com/vi/Z0bL5RgmjwU/hqdefault.jpg"
-        },
-        {
-            "video_id": "gmCICxWbqew",
-            "title": "🔥그날의 티원은 티황이다... 젠지 vs T1 최종 진출빵 MSI🔥 [2026 LCK 로드 투 MSI 리뷰 찍어x3]",
-            "channel_name": "[꿀템TV] 클템 유튜브",
-            "category": "Gaming",
-            "duration": "1:25:36",
-            "view_count": "195400",
-            "thumbnail_url": "https://i.ytimg.com/vi/gmCICxWbqew/hqdefault.jpg"
-        },
-        {
-            "video_id": "2rA2K0gwjoo",
-            "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Dance Practice",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "4824370",
-            "thumbnail_url": "https://i.ytimg.com/vi/2rA2K0gwjoo/hqdefault.jpg"
-        },
-        {
-            "video_id": "dR4BWy27ZDE",
-            "title": "젠쥐인",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "22:53",
-            "view_count": "388445",
-            "thumbnail_url": "https://i.ytimg.com/vi/dR4BWy27ZDE/hqdefault.jpg"
-        },
-        {
-            "video_id": "DJ0OKnJMCU0",
-            "title": "새빛 - 아네모이아 (Official Live Clip) with COLORPICKER",
-            "channel_name": "새빛 (Saebit)",
-            "category": "Music",
-            "duration": "4:42",
-            "view_count": "63821",
-            "thumbnail_url": "https://i.ytimg.com/vi/DJ0OKnJMCU0/hqdefault.jpg"
-        },
-        {
-            "video_id": "nzZCuT_oQjc",
-            "title": "감스트 본캐 드디어 대한민국 스쿼드 짭니다 서버 1위 한국 드가자",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "10:07",
-            "view_count": "96222",
-            "thumbnail_url": "https://i.ytimg.com/vi/nzZCuT_oQjc/hqdefault.jpg"
-        },
-        {
-            "video_id": "E52AXA2ue_4",
-            "title": "Still, Sometimes",
-            "channel_name": "KIMMUSEUM - Topic",
-            "category": "Music",
-            "duration": "4:37",
-            "view_count": "36016",
-            "thumbnail_url": "https://i.ytimg.com/vi/E52AXA2ue_4/hqdefault.jpg"
         },
         {
             "video_id": "XcdU4diMxJk",
@@ -313,8 +259,62 @@
             "channel_name": "채널 명예훈장",
             "category": "Gaming",
             "duration": "9:47:38",
-            "view_count": "148052",
+            "view_count": "159632",
             "thumbnail_url": "https://i.ytimg.com/vi/XcdU4diMxJk/hqdefault.jpg"
+        },
+        {
+            "video_id": "2rA2K0gwjoo",
+            "title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Dance Practice",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "4963674",
+            "thumbnail_url": "https://i.ytimg.com/vi/2rA2K0gwjoo/hqdefault.jpg"
+        },
+        {
+            "video_id": "nzZCuT_oQjc",
+            "title": "감스트 본캐 드디어 대한민국 스쿼드 짭니다 서버 1위 한국 드가자",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "10:07",
+            "view_count": "110120",
+            "thumbnail_url": "https://i.ytimg.com/vi/nzZCuT_oQjc/hqdefault.jpg"
+        },
+        {
+            "video_id": "DJ0OKnJMCU0",
+            "title": "새빛 - 아네모이아 (Official Live Clip) with COLORPICKER",
+            "channel_name": "새빛 (Saebit)",
+            "category": "Music",
+            "duration": "4:42",
+            "view_count": "65983",
+            "thumbnail_url": "https://i.ytimg.com/vi/DJ0OKnJMCU0/hqdefault.jpg"
+        },
+        {
+            "video_id": "qzvBX5LZAE8",
+            "title": "고인물이 말아주는 2026년 여름 메이플 \"좋은 직업 추천\"",
+            "channel_name": "도루",
+            "category": "Gaming",
+            "duration": "12:51",
+            "view_count": "117005",
+            "thumbnail_url": "https://i.ytimg.com/vi/qzvBX5LZAE8/hqdefault.jpg"
+        },
+        {
+            "video_id": "E52AXA2ue_4",
+            "title": "Still, Sometimes",
+            "channel_name": "KIMMUSEUM - Topic",
+            "category": "Music",
+            "duration": "4:37",
+            "view_count": "37234",
+            "thumbnail_url": "https://i.ytimg.com/vi/E52AXA2ue_4/hqdefault.jpg"
+        },
+        {
+            "video_id": "0UG_SZpo750",
+            "title": "T1 vs GEN | 2026 LCK Road to MSI: Final Round",
+            "channel_name": "LCK Global",
+            "category": "Gaming",
+            "duration": "6:22:35",
+            "view_count": "2965842",
+            "thumbnail_url": "https://i.ytimg.com/vi/0UG_SZpo750/hqdefault.jpg"
         },
         {
             "video_id": "VBSBs_bOP7M",
@@ -322,53 +322,17 @@
             "channel_name": "Park Da Hye - Topic",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "36160",
+            "view_count": "37340",
             "thumbnail_url": "https://i.ytimg.com/vi/VBSBs_bOP7M/hqdefault.jpg"
         },
         {
-            "video_id": "xJ9uLq1qqrg",
-            "title": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐒𝐈 T1, 오열하는 티원 스트리머, 넋이 나간 젠지 스트리머 | T1 vs GEN 스트리머 반응 리액션 모음 | 2026 LCK RoadtoMSI",
-            "channel_name": "독버섯통신",
+            "video_id": "gmCICxWbqew",
+            "title": "🔥그날의 티원은 티황이다... 젠지 vs T1 최종 진출빵 MSI🔥 [2026 LCK 로드 투 MSI 리뷰 찍어x3]",
+            "channel_name": "[꿀템TV] 클템 유튜브",
             "category": "Gaming",
-            "duration": "9:34:13",
-            "view_count": "250728",
-            "thumbnail_url": "https://i.ytimg.com/vi/xJ9uLq1qqrg/hqdefault.jpg"
-        },
-        {
-            "video_id": "7Mr3B6thNrQ",
-            "title": "DNA (More Than A Game)",
-            "channel_name": "Andrea Bocelli - Topic",
-            "category": "Music",
-            "duration": "2:57",
-            "view_count": "393714",
-            "thumbnail_url": "https://i.ytimg.com/vi/7Mr3B6thNrQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "Emv_L3Fk5aI",
-            "title": "내 몸에 그림을 그려서 숨는 숨바꼭질 게임",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "16:29",
-            "view_count": "571051",
-            "thumbnail_url": "https://i.ytimg.com/vi/Emv_L3Fk5aI/hqdefault.jpg"
-        },
-        {
-            "video_id": "wLmLB4Zzyiw",
-            "title": "drop dead",
-            "channel_name": "Olivia Rodrigo - Topic",
-            "category": "Music",
-            "duration": "3:45",
-            "view_count": "282044",
-            "thumbnail_url": "https://i.ytimg.com/vi/wLmLB4Zzyiw/hqdefault.jpg"
-        },
-        {
-            "video_id": "7EiXMZXUCNM",
-            "title": "이번에도 돌아온 2026년 상반기 직업평가!!",
-            "channel_name": "진격캐넌",
-            "category": "Gaming",
-            "duration": "30:04",
-            "view_count": "74212",
-            "thumbnail_url": "https://i.ytimg.com/vi/7EiXMZXUCNM/hqdefault.jpg"
+            "duration": "1:25:36",
+            "view_count": "202615",
+            "thumbnail_url": "https://i.ytimg.com/vi/gmCICxWbqew/hqdefault.jpg"
         },
         {
             "video_id": "FktrUAxHMn8",
@@ -376,8 +340,44 @@
             "channel_name": "Hearts2Hearts - Topic",
             "category": "Music",
             "duration": "0:19",
-            "view_count": "66519",
+            "view_count": "92210",
             "thumbnail_url": "https://i.ytimg.com/vi/FktrUAxHMn8/hqdefault.jpg"
+        },
+        {
+            "video_id": "uRezI1t3jCQ",
+            "title": "메악회를 단체로 접게 만든 그 사건...",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "1:28:56",
+            "view_count": "418577",
+            "thumbnail_url": "https://i.ytimg.com/vi/uRezI1t3jCQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "7Mr3B6thNrQ",
+            "title": "DNA (More Than A Game)",
+            "channel_name": "Andrea Bocelli - Topic",
+            "category": "Music",
+            "duration": "2:57",
+            "view_count": "406178",
+            "thumbnail_url": "https://i.ytimg.com/vi/7Mr3B6thNrQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "t9MWxBRApoU",
+            "title": "MSI까지 마지막 한자리, 결국 단두대에 오른 두 팀 | T1 vs GEN | 하이라이트 | 06.14 | 2026 LCK",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "58:37",
+            "view_count": "284510",
+            "thumbnail_url": "https://i.ytimg.com/vi/t9MWxBRApoU/hqdefault.jpg"
+        },
+        {
+            "video_id": "4QWfgIv7jzI",
+            "title": "정승환 '마치 오늘처럼' | SeungTUDIO",
+            "channel_name": "정승환 Jung Seung Hwan",
+            "category": "Music",
+            "duration": "4:33",
+            "view_count": "11366",
+            "thumbnail_url": "https://i.ytimg.com/vi/4QWfgIv7jzI/hqdefault.jpg"
         }
     ]
 }
