@@ -1,50 +1,23 @@
 {
-    "scraped_time": "2026-06-22 13:44:28",
+    "scraped_time": "2026-06-22 19:40:32",
     "videos": [
-        {
-            "video_id": "2derLGPaliE",
-            "title": "NCT WISH 엔시티 위시 'BOY MEETS GIRL' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "3:35",
-            "view_count": "293641",
-            "thumbnail_url": "https://i.ytimg.com/vi/2derLGPaliE/hqdefault.jpg"
-        },
-        {
-            "video_id": "SV7EDrgTmPw",
-            "title": "진짜 떴습니다. ≪스파이더맨: 브랜드뉴데이≫ 메인 예고편 리뷰 & 떡밥 나노 분석 총정리",
-            "channel_name": "무비띵크_Movie Think",
-            "category": "Film & Animation",
-            "duration": "15:53",
-            "view_count": "756916",
-            "thumbnail_url": "https://i.ytimg.com/vi/SV7EDrgTmPw/hqdefault.jpg"
-        },
-        {
-            "video_id": "gvzZg6Iebi8",
-            "title": "똘끼 리니지클래식   공  성  전                                            #솔인챈트#로드나인",
-            "channel_name": "똘끼100%",
-            "category": "Gaming",
-            "duration": "3:09:51",
-            "view_count": "313297",
-            "thumbnail_url": "https://i.ytimg.com/vi/gvzZg6Iebi8/hqdefault.jpg"
-        },
         {
             "video_id": "aiHwTftMP1E",
             "title": "BOY MEETS GIRL",
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "44427",
+            "view_count": "78909",
             "thumbnail_url": "https://i.ytimg.com/vi/aiHwTftMP1E/hqdefault.jpg"
         },
         {
-            "video_id": "s8cP1Vt5US8",
-            "title": "『チェンソーマン 刺客篇』ティザーPV②／Chainsaw Man –  Assassins Arc Official Trailer 2",
-            "channel_name": "MAPPA CHANNEL",
+            "video_id": "mCD2FDx0B4c",
+            "title": "와.. 이 장면은 그냥 미쳤다... ≪스파이더맨: 브랜드뉴데이≫ 메인 예고편 분석 3탄 & 떡밥 총정리",
+            "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
-            "duration": "1:31",
-            "view_count": "4963506",
-            "thumbnail_url": "https://i.ytimg.com/vi/s8cP1Vt5US8/hqdefault.jpg"
+            "duration": "10:52",
+            "view_count": "72567",
+            "thumbnail_url": "https://i.ytimg.com/vi/mCD2FDx0B4c/hqdefault.jpg"
         },
         {
             "video_id": "lFiLZuy2Zq4",
@@ -52,7 +25,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "14:58",
-            "view_count": "541105",
+            "view_count": "595902",
             "thumbnail_url": "https://i.ytimg.com/vi/lFiLZuy2Zq4/hqdefault.jpg"
         },
         {
@@ -61,8 +34,35 @@
             "channel_name": "M1NU - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "103343",
+            "view_count": "129513",
             "thumbnail_url": "https://i.ytimg.com/vi/bbZbzdmimDM/hqdefault.jpg"
+        },
+        {
+            "video_id": "s8cP1Vt5US8",
+            "title": "『チェンソーマン 刺客篇』ティザーPV②／Chainsaw Man –  Assassins Arc Official Trailer 2",
+            "channel_name": "MAPPA CHANNEL",
+            "category": "Film & Animation",
+            "duration": "1:31",
+            "view_count": "5059087",
+            "thumbnail_url": "https://i.ytimg.com/vi/s8cP1Vt5US8/hqdefault.jpg"
+        },
+        {
+            "video_id": "gvzZg6Iebi8",
+            "title": "똘끼 리니지클래식   공  성  전                                            #솔인챈트#로드나인",
+            "channel_name": "똘끼100%",
+            "category": "Gaming",
+            "duration": "3:09:51",
+            "view_count": "323401",
+            "thumbnail_url": "https://i.ytimg.com/vi/gvzZg6Iebi8/hqdefault.jpg"
+        },
+        {
+            "video_id": "cGYb0rEmPsU",
+            "title": "HW (feat. JIN)",
+            "channel_name": "Young B - Topic",
+            "category": "Music",
+            "duration": "2:34",
+            "view_count": "57373",
+            "thumbnail_url": "https://i.ytimg.com/vi/cGYb0rEmPsU/hqdefault.jpg"
         },
         {
             "video_id": "dosbhD_1LIo",
@@ -70,7 +70,7 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "2:35",
-            "view_count": "2132271",
+            "view_count": "2215426",
             "thumbnail_url": "https://i.ytimg.com/vi/dosbhD_1LIo/hqdefault.jpg"
         },
         {
@@ -79,35 +79,8 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:31",
-            "view_count": "296388",
+            "view_count": "347727",
             "thumbnail_url": "https://i.ytimg.com/vi/CbxFiQo6gLA/hqdefault.jpg"
-        },
-        {
-            "video_id": "cGYb0rEmPsU",
-            "title": "HW (feat. JIN)",
-            "channel_name": "Young B - Topic",
-            "category": "Music",
-            "duration": "2:34",
-            "view_count": "50151",
-            "thumbnail_url": "https://i.ytimg.com/vi/cGYb0rEmPsU/hqdefault.jpg"
-        },
-        {
-            "video_id": "1fISkRk70Lo",
-            "title": "[오십프로 11회 예고] ＂못할 게 뭐가 있어, 끝장을 내야지＂, MBC 260626 방송",
-            "channel_name": "MBCdrama",
-            "category": "Entertainment",
-            "duration": "0:51",
-            "view_count": "27491",
-            "thumbnail_url": "https://i.ytimg.com/vi/1fISkRk70Lo/hqdefault.jpg"
-        },
-        {
-            "video_id": "jhPoSlpd69U",
-            "title": "두 감독님들 화나게 만든 양 팀의 난타전 【중간계 EP.6】",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "56:40",
-            "view_count": "176378",
-            "thumbnail_url": "https://i.ytimg.com/vi/jhPoSlpd69U/hqdefault.jpg"
         },
         {
             "video_id": "OF42um7npH4",
@@ -115,8 +88,35 @@
             "channel_name": "BIG 9ULPO - Topic",
             "category": "Music",
             "duration": "1:43",
-            "view_count": "29565",
+            "view_count": "35606",
             "thumbnail_url": "https://i.ytimg.com/vi/OF42um7npH4/hqdefault.jpg"
+        },
+        {
+            "video_id": "1fISkRk70Lo",
+            "title": "[오십프로 11회 예고] ＂못할 게 뭐가 있어, 끝장을 내야지＂, MBC 260626 방송",
+            "channel_name": "MBCdrama",
+            "category": "Entertainment",
+            "duration": "0:51",
+            "view_count": "30109",
+            "thumbnail_url": "https://i.ytimg.com/vi/1fISkRk70Lo/hqdefault.jpg"
+        },
+        {
+            "video_id": "sciIv6i02BY",
+            "title": "대회 탈락 직전 감독 지시 거부하는 선수들 【중간계 EP.7】",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "1:01:04",
+            "view_count": "122443",
+            "thumbnail_url": "https://i.ytimg.com/vi/sciIv6i02BY/hqdefault.jpg"
+        },
+        {
+            "video_id": "lH-_GErw2CA",
+            "title": "SOS",
+            "channel_name": "tuki. - Topic",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "34295",
+            "thumbnail_url": "https://i.ytimg.com/vi/lH-_GErw2CA/hqdefault.jpg"
         },
         {
             "video_id": "uWVQszuyJmM",
@@ -124,8 +124,26 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "13:17",
-            "view_count": "265143",
+            "view_count": "309446",
             "thumbnail_url": "https://i.ytimg.com/vi/uWVQszuyJmM/hqdefault.jpg"
+        },
+        {
+            "video_id": "pDg0xYtPkcs",
+            "title": "dame's interlude",
+            "channel_name": "Dame Atlas - Topic",
+            "category": "Music",
+            "duration": "1:49",
+            "view_count": "83528",
+            "thumbnail_url": "https://i.ytimg.com/vi/pDg0xYtPkcs/hqdefault.jpg"
+        },
+        {
+            "video_id": "zRM82PsokFs",
+            "title": "중요할 때 한 번 | 마이크 체크 Ep.10 | 2026 LCK Road to MSI",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "12:59",
+            "view_count": "258209",
+            "thumbnail_url": "https://i.ytimg.com/vi/zRM82PsokFs/hqdefault.jpg"
         },
         {
             "video_id": "8IY44RZHyw8",
@@ -133,7 +151,7 @@
             "channel_name": "ISEGYE IDOL",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "468588",
+            "view_count": "495526",
             "thumbnail_url": "https://i.ytimg.com/vi/8IY44RZHyw8/hqdefault.jpg"
         },
         {
@@ -142,7 +160,7 @@
             "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
             "duration": "7:01:43",
-            "view_count": "215548",
+            "view_count": "219308",
             "thumbnail_url": "https://i.ytimg.com/vi/pBFEq2QT0Fg/hqdefault.jpg"
         },
         {
@@ -151,62 +169,8 @@
             "channel_name": "Seo Ja Yeong - Topic",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "27542",
+            "view_count": "34572",
             "thumbnail_url": "https://i.ytimg.com/vi/FWSpNQyaTlI/hqdefault.jpg"
-        },
-        {
-            "video_id": "zRM82PsokFs",
-            "title": "중요할 때 한 번 | 마이크 체크 Ep.10 | 2026 LCK Road to MSI",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "12:59",
-            "view_count": "212188",
-            "thumbnail_url": "https://i.ytimg.com/vi/zRM82PsokFs/hqdefault.jpg"
-        },
-        {
-            "video_id": "WGUOBBnljiM",
-            "title": "Homecoming in Busan | THE CITY ARIRANG BUSAN",
-            "channel_name": "BANGTANTV",
-            "category": "Music",
-            "duration": "2:14",
-            "view_count": "406885",
-            "thumbnail_url": "https://i.ytimg.com/vi/WGUOBBnljiM/hqdefault.jpg"
-        },
-        {
-            "video_id": "HkPEThS1tSA",
-            "title": "내 몸에 그림을 그려서 숨는 화제의 그 게임 ㅋㅋ *메챠 카멜레온*",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "36:12",
-            "view_count": "326619",
-            "thumbnail_url": "https://i.ytimg.com/vi/HkPEThS1tSA/hqdefault.jpg"
-        },
-        {
-            "video_id": "JqE4vkG-rQY",
-            "title": "Again",
-            "channel_name": "HaSeul - Topic",
-            "category": "Music",
-            "duration": "3:47",
-            "view_count": "34179",
-            "thumbnail_url": "https://i.ytimg.com/vi/JqE4vkG-rQY/hqdefault.jpg"
-        },
-        {
-            "video_id": "7q1XbvgnbvQ",
-            "title": "[ 불도그 LIVE 생방송 6/21 ] 리니지 클래식 공성전임박 마지막 스킬뽑기 갑니다. 2억아덴삽니다! #리니지클래식 #솔 인챈트",
-            "channel_name": "불도그",
-            "category": "Gaming",
-            "duration": "2:53:06",
-            "view_count": "143949",
-            "thumbnail_url": "https://i.ytimg.com/vi/7q1XbvgnbvQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "0e4vvG6tZMk",
-            "title": "TRUST ME",
-            "channel_name": "Jin - Topic",
-            "category": "Music",
-            "duration": "2:46",
-            "view_count": "25668",
-            "thumbnail_url": "https://i.ytimg.com/vi/0e4vvG6tZMk/hqdefault.jpg"
         },
         {
             "video_id": "SS359oYzCxY",
@@ -214,26 +178,26 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "20:47",
-            "view_count": "105045",
+            "view_count": "120127",
             "thumbnail_url": "https://i.ytimg.com/vi/SS359oYzCxY/hqdefault.jpg"
         },
         {
-            "video_id": "6WE2z7IIhb4",
-            "title": "[SPECIAL CLIP] DINDIN, YUJU(딘딘, 유주) - Melting(사랑인 걸까) (ENG SUB.) | 💍Maybe Meant to Be 어쩌다보니 천생연분 OST",
-            "channel_name": "MUSIC&NEW 뮤직앤뉴",
+            "video_id": "gLbzJRNfCpo",
+            "title": "Dont Tell Your Dreams To Everybody (feat. R. Young & Lenna J.)",
+            "channel_name": "Shumba Sounds - Topic",
             "category": "Music",
-            "duration": "3:36",
-            "view_count": "13194",
-            "thumbnail_url": "https://i.ytimg.com/vi/6WE2z7IIhb4/hqdefault.jpg"
+            "duration": "2:14",
+            "view_count": "63635",
+            "thumbnail_url": "https://i.ytimg.com/vi/gLbzJRNfCpo/hqdefault.jpg"
         },
         {
-            "video_id": "LIfU4L9PSsU",
-            "title": "리니지 클래식 강호라인 1선 기사 카르마, 공성전 시작합니다",
-            "channel_name": "카르마 Karma",
-            "category": "People & Blogs",
-            "duration": "5:53:00",
-            "view_count": "104566",
-            "thumbnail_url": "https://i.ytimg.com/vi/LIfU4L9PSsU/hqdefault.jpg"
+            "video_id": "0SZAhPP-AAs",
+            "title": "파문당했던 장미의 후계자, 가주 자리를 찬탈하러 돌아왔습니다만",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "41:49",
+            "view_count": "182967",
+            "thumbnail_url": "https://i.ytimg.com/vi/0SZAhPP-AAs/hqdefault.jpg"
         },
         {
             "video_id": "KA4ghQxv6ow",
@@ -241,7 +205,7 @@
             "channel_name": "can’t be blue - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "27635",
+            "view_count": "36645",
             "thumbnail_url": "https://i.ytimg.com/vi/KA4ghQxv6ow/hqdefault.jpg"
         },
         {
@@ -250,8 +214,62 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "16:12",
-            "view_count": "182215",
+            "view_count": "197742",
             "thumbnail_url": "https://i.ytimg.com/vi/wNVS9HFxByM/hqdefault.jpg"
+        },
+        {
+            "video_id": "WGUOBBnljiM",
+            "title": "Homecoming in Busan | THE CITY ARIRANG BUSAN",
+            "channel_name": "BANGTANTV",
+            "category": "Music",
+            "duration": "2:14",
+            "view_count": "444177",
+            "thumbnail_url": "https://i.ytimg.com/vi/WGUOBBnljiM/hqdefault.jpg"
+        },
+        {
+            "video_id": "7q1XbvgnbvQ",
+            "title": "[ 불도그 LIVE 생방송 6/21 ] 리니지 클래식 공성전임박 마지막 스킬뽑기 갑니다. 2억아덴삽니다! #리니지클래식 #솔 인챈트",
+            "channel_name": "불도그",
+            "category": "Gaming",
+            "duration": "2:53:06",
+            "view_count": "147165",
+            "thumbnail_url": "https://i.ytimg.com/vi/7q1XbvgnbvQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "0e4vvG6tZMk",
+            "title": "TRUST ME",
+            "channel_name": "Jin - Topic",
+            "category": "Music",
+            "duration": "2:46",
+            "view_count": "30714",
+            "thumbnail_url": "https://i.ytimg.com/vi/0e4vvG6tZMk/hqdefault.jpg"
+        },
+        {
+            "video_id": "Py3WO09ZbRA",
+            "title": "결국 본색을 드러낸 물소들 | 중간계 EP.5",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "43:53",
+            "view_count": "94791",
+            "thumbnail_url": "https://i.ytimg.com/vi/Py3WO09ZbRA/hqdefault.jpg"
+        },
+        {
+            "video_id": "FjBEe7_R2dc",
+            "title": "So Strawberry",
+            "channel_name": "MAZZEL - Topic",
+            "category": "Music",
+            "duration": "2:48",
+            "view_count": "163767",
+            "thumbnail_url": "https://i.ytimg.com/vi/FjBEe7_R2dc/hqdefault.jpg"
+        },
+        {
+            "video_id": "m14Fxk2yxnc",
+            "title": "탈락 위기에 등장한 구세주?! \"어어~ 사고친다\"｜중간계 EP.08",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "49:13",
+            "view_count": "102126",
+            "thumbnail_url": "https://i.ytimg.com/vi/m14Fxk2yxnc/hqdefault.jpg"
         },
         {
             "video_id": "_JMIndfzqaM",
@@ -259,8 +277,44 @@
             "channel_name": "조선힙합 - Topic",
             "category": "Music",
             "duration": "4:02",
-            "view_count": "21719",
+            "view_count": "30277",
             "thumbnail_url": "https://i.ytimg.com/vi/_JMIndfzqaM/hqdefault.jpg"
+        },
+        {
+            "video_id": "mvBCHxenTGI",
+            "title": "본캐급을 넘어버린 옵션을 띄웠습니다 부캐 제로 데스티니 해방!!! [메이플스토리]",
+            "channel_name": "채널 명예훈장",
+            "category": "Gaming",
+            "duration": "38:05",
+            "view_count": "152787",
+            "thumbnail_url": "https://i.ytimg.com/vi/mvBCHxenTGI/hqdefault.jpg"
+        },
+        {
+            "video_id": "JqE4vkG-rQY",
+            "title": "Again",
+            "channel_name": "HaSeul - Topic",
+            "category": "Music",
+            "duration": "3:47",
+            "view_count": "39054",
+            "thumbnail_url": "https://i.ytimg.com/vi/JqE4vkG-rQY/hqdefault.jpg"
+        },
+        {
+            "video_id": "LIfU4L9PSsU",
+            "title": "리니지 클래식 강호라인 1선 기사 카르마, 공성전 시작합니다",
+            "channel_name": "카르마 Karma",
+            "category": "People & Blogs",
+            "duration": "5:53:00",
+            "view_count": "106190",
+            "thumbnail_url": "https://i.ytimg.com/vi/LIfU4L9PSsU/hqdefault.jpg"
+        },
+        {
+            "video_id": "dC1r9pI6H20",
+            "title": "VIRAL (SANTOS BRAVOS Remix)",
+            "channel_name": "BOYNEXTDOOR - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "21980",
+            "thumbnail_url": "https://i.ytimg.com/vi/dC1r9pI6H20/hqdefault.jpg"
         },
         {
             "video_id": "l7YWsoopCss",
@@ -268,7 +322,7 @@
             "channel_name": "로스트아크 LOST ARK",
             "category": "Gaming",
             "duration": "2:27:14",
-            "view_count": "1189527",
+            "view_count": "1191204",
             "thumbnail_url": "https://i.ytimg.com/vi/l7YWsoopCss/hqdefault.jpg"
         },
         {
@@ -277,44 +331,8 @@
             "channel_name": "AN DA EUN - Topic",
             "category": "Music",
             "duration": "4:07",
-            "view_count": "54209",
+            "view_count": "60550",
             "thumbnail_url": "https://i.ytimg.com/vi/cj2UypRdN4U/hqdefault.jpg"
-        },
-        {
-            "video_id": "mvBCHxenTGI",
-            "title": "본캐급을 넘어버린 옵션을 띄웠습니다 부캐 제로 데스티니 해방!!! [메이플스토리]",
-            "channel_name": "채널 명예훈장",
-            "category": "Gaming",
-            "duration": "38:05",
-            "view_count": "144270",
-            "thumbnail_url": "https://i.ytimg.com/vi/mvBCHxenTGI/hqdefault.jpg"
-        },
-        {
-            "video_id": "lH-_GErw2CA",
-            "title": "SOS",
-            "channel_name": "tuki. - Topic",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "14174",
-            "thumbnail_url": "https://i.ytimg.com/vi/lH-_GErw2CA/hqdefault.jpg"
-        },
-        {
-            "video_id": "m14Fxk2yxnc",
-            "title": "탈락 위기에 등장한 구세주?! \"어어~ 사고친다\"｜중간계 EP.08",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "49:13",
-            "view_count": "91251",
-            "thumbnail_url": "https://i.ytimg.com/vi/m14Fxk2yxnc/hqdefault.jpg"
-        },
-        {
-            "video_id": "AFq7bY9UHrU",
-            "title": "SNAPBACK",
-            "channel_name": "HOSHI - Topic",
-            "category": "Music",
-            "duration": "2:33",
-            "view_count": "89088",
-            "thumbnail_url": "https://i.ytimg.com/vi/AFq7bY9UHrU/hqdefault.jpg"
         },
         {
             "video_id": "JaKQzt6Mf0M",
@@ -322,53 +340,17 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "15:21",
-            "view_count": "122052",
+            "view_count": "133788",
             "thumbnail_url": "https://i.ytimg.com/vi/JaKQzt6Mf0M/hqdefault.jpg"
         },
         {
-            "video_id": "FjBEe7_R2dc",
-            "title": "So Strawberry",
-            "channel_name": "MAZZEL - Topic",
+            "video_id": "6WE2z7IIhb4",
+            "title": "[SPECIAL CLIP] DINDIN, YUJU(딘딘, 유주) - Melting(사랑인 걸까) (ENG SUB.) | 💍Maybe Meant to Be 어쩌다보니 천생연분 OST",
+            "channel_name": "MUSIC&NEW 뮤직앤뉴",
             "category": "Music",
-            "duration": "2:48",
-            "view_count": "116188",
-            "thumbnail_url": "https://i.ytimg.com/vi/FjBEe7_R2dc/hqdefault.jpg"
-        },
-        {
-            "video_id": "t5XmvSrvI_I",
-            "title": "카혼목 먹자마자 혼줌 완작치는 사람",
-            "channel_name": "수찬 Suchan",
-            "category": "Gaming",
-            "duration": "11:06",
-            "view_count": "140678",
-            "thumbnail_url": "https://i.ytimg.com/vi/t5XmvSrvI_I/hqdefault.jpg"
-        },
-        {
-            "video_id": "pTaW9aKr2r0",
-            "title": "Heaven Knows",
-            "channel_name": "Sung Si Kyung - Topic",
-            "category": "Music",
-            "duration": "4:05",
-            "view_count": "86018",
-            "thumbnail_url": "https://i.ytimg.com/vi/pTaW9aKr2r0/hqdefault.jpg"
-        },
-        {
-            "video_id": "YGqSgNRwjqs",
-            "title": "챌섭 1일차, 쭉쭉 성장하는 레테 이거 못막습니다",
-            "channel_name": "청묘",
-            "category": "Gaming",
-            "duration": "19:06",
-            "view_count": "117149",
-            "thumbnail_url": "https://i.ytimg.com/vi/YGqSgNRwjqs/hqdefault.jpg"
-        },
-        {
-            "video_id": "pDg0xYtPkcs",
-            "title": "dame's interlude",
-            "channel_name": "Dame Atlas - Topic",
-            "category": "Music",
-            "duration": "1:49",
-            "view_count": "60805",
-            "thumbnail_url": "https://i.ytimg.com/vi/pDg0xYtPkcs/hqdefault.jpg"
+            "duration": "3:36",
+            "view_count": "17999",
+            "thumbnail_url": "https://i.ytimg.com/vi/6WE2z7IIhb4/hqdefault.jpg"
         },
         {
             "video_id": "tlKQyIx6jKo",
@@ -376,8 +358,26 @@
             "channel_name": "이석현",
             "category": "Gaming",
             "duration": "20:45",
-            "view_count": "131558",
+            "view_count": "142264",
             "thumbnail_url": "https://i.ytimg.com/vi/tlKQyIx6jKo/hqdefault.jpg"
+        },
+        {
+            "video_id": "AFq7bY9UHrU",
+            "title": "SNAPBACK",
+            "channel_name": "HOSHI - Topic",
+            "category": "Music",
+            "duration": "2:33",
+            "view_count": "102218",
+            "thumbnail_url": "https://i.ytimg.com/vi/AFq7bY9UHrU/hqdefault.jpg"
+        },
+        {
+            "video_id": "t5XmvSrvI_I",
+            "title": "카혼목 먹자마자 혼줌 완작치는 사람",
+            "channel_name": "수찬 Suchan",
+            "category": "Gaming",
+            "duration": "11:06",
+            "view_count": "150199",
+            "thumbnail_url": "https://i.ytimg.com/vi/t5XmvSrvI_I/hqdefault.jpg"
         }
     ]
 }
