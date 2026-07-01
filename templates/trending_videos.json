@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-07-01 09:07:55",
+    "scraped_time": "2026-07-01 14:23:10",
     "videos": [
         {
             "video_id": "UOKLtaE2U90",
@@ -7,17 +7,17 @@
             "channel_name": "TAEYEON - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "610303",
+            "view_count": "725397",
             "thumbnail_url": "https://i.ytimg.com/vi/UOKLtaE2U90/hqdefault.jpg"
         },
         {
-            "video_id": "mV7451mcw-E",
-            "title": "Cyberpunk: Edgerunners 2 | Official Teaser 2",
-            "channel_name": "Cyberpunk 2077",
-            "category": "Gaming",
-            "duration": "1:31",
-            "view_count": "2876730",
-            "thumbnail_url": "https://i.ytimg.com/vi/mV7451mcw-E/hqdefault.jpg"
+            "video_id": "kF9fNYN00WQ",
+            "title": "동궁 | 공식 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "2:01",
+            "view_count": "75741",
+            "thumbnail_url": "https://i.ytimg.com/vi/kF9fNYN00WQ/hqdefault.jpg"
         },
         {
             "video_id": "j5Hg7inAQdM",
@@ -25,7 +25,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "15:31",
-            "view_count": "348375",
+            "view_count": "373997",
             "thumbnail_url": "https://i.ytimg.com/vi/j5Hg7inAQdM/hqdefault.jpg"
         },
         {
@@ -34,17 +34,17 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:42",
-            "view_count": "1046397",
+            "view_count": "1126861",
             "thumbnail_url": "https://i.ytimg.com/vi/H0GbvPY_Yl8/hqdefault.jpg"
         },
         {
-            "video_id": "reEcxh7vB2o",
-            "title": "[3회 예고] 소지섭×최대훈×윤경호, 본격적으로 힘 합쳐 서수민 찾기 시작♨",
-            "channel_name": "SBS 스브스 Drama",
-            "category": "Entertainment",
-            "duration": "0:40",
-            "view_count": "263650",
-            "thumbnail_url": "https://i.ytimg.com/vi/reEcxh7vB2o/hqdefault.jpg"
+            "video_id": "mV7451mcw-E",
+            "title": "Cyberpunk: Edgerunners 2 | Official Teaser 2",
+            "channel_name": "Cyberpunk 2077",
+            "category": "Gaming",
+            "duration": "1:31",
+            "view_count": "3046595",
+            "thumbnail_url": "https://i.ytimg.com/vi/mV7451mcw-E/hqdefault.jpg"
         },
         {
             "video_id": "3B5lrocv_R8",
@@ -52,7 +52,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "22:45",
-            "view_count": "192989",
+            "view_count": "221234",
             "thumbnail_url": "https://i.ytimg.com/vi/3B5lrocv_R8/hqdefault.jpg"
         },
         {
@@ -61,17 +61,17 @@
             "channel_name": "Baek A Yeon - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "141005",
+            "view_count": "157196",
             "thumbnail_url": "https://i.ytimg.com/vi/M5xdvUGEuio/hqdefault.jpg"
         },
         {
-            "video_id": "8WhO5mirFSw",
-            "title": "​[김부장 3~4회 예고] 북한 최정예 전사 잠입에 특임국 개입까지.. 결국 봉인 해제된 김부장",
-            "channel_name": "드라마 오지랖",
+            "video_id": "reEcxh7vB2o",
+            "title": "[3회 예고] 소지섭×최대훈×윤경호, 본격적으로 힘 합쳐 서수민 찾기 시작♨",
+            "channel_name": "SBS 스브스 Drama",
             "category": "Entertainment",
-            "duration": "11:03",
-            "view_count": "48956",
-            "thumbnail_url": "https://i.ytimg.com/vi/8WhO5mirFSw/hqdefault.jpg"
+            "duration": "0:40",
+            "view_count": "274873",
+            "thumbnail_url": "https://i.ytimg.com/vi/reEcxh7vB2o/hqdefault.jpg"
         },
         {
             "video_id": "NLtrQXRYU-c",
@@ -79,7 +79,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "31:41",
-            "view_count": "211979",
+            "view_count": "239857",
             "thumbnail_url": "https://i.ytimg.com/vi/NLtrQXRYU-c/hqdefault.jpg"
         },
         {
@@ -88,8 +88,17 @@
             "channel_name": "Silica Gel - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "33744",
+            "view_count": "54500",
             "thumbnail_url": "https://i.ytimg.com/vi/lN0iWI69bR8/hqdefault.jpg"
+        },
+        {
+            "video_id": "8WhO5mirFSw",
+            "title": "​[김부장 3~4회 예고] 북한 최정예 전사 잠입에 특임국 개입까지.. 결국 봉인 해제된 김부장",
+            "channel_name": "드라마 오지랖",
+            "category": "Entertainment",
+            "duration": "11:03",
+            "view_count": "50844",
+            "thumbnail_url": "https://i.ytimg.com/vi/8WhO5mirFSw/hqdefault.jpg"
         },
         {
             "video_id": "jIuE6H0KxJk",
@@ -97,17 +106,17 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "26:23",
-            "view_count": "271480",
+            "view_count": "286873",
             "thumbnail_url": "https://i.ytimg.com/vi/jIuE6H0KxJk/hqdefault.jpg"
         },
         {
-            "video_id": "G3o0vC-iqoU",
-            "title": "Forever",
-            "channel_name": "DK - Topic",
+            "video_id": "xwrve3OWj60",
+            "title": "You, Unknown to Me",
+            "channel_name": "Jang Beom June - Topic",
             "category": "Music",
-            "duration": "4:20",
-            "view_count": "147773",
-            "thumbnail_url": "https://i.ytimg.com/vi/G3o0vC-iqoU/hqdefault.jpg"
+            "duration": "3:31",
+            "view_count": "35764",
+            "thumbnail_url": "https://i.ytimg.com/vi/xwrve3OWj60/hqdefault.jpg"
         },
         {
             "video_id": "gU02R2xA-p8",
@@ -115,7 +124,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "36:03",
-            "view_count": "1087085",
+            "view_count": "1112279",
             "thumbnail_url": "https://i.ytimg.com/vi/gU02R2xA-p8/hqdefault.jpg"
         },
         {
@@ -124,7 +133,7 @@
             "channel_name": "하데스 HADES",
             "category": "Entertainment",
             "duration": "3:26",
-            "view_count": "47074",
+            "view_count": "57348",
             "thumbnail_url": "https://i.ytimg.com/vi/paCZO7G3YKE/hqdefault.jpg"
         },
         {
@@ -133,26 +142,8 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "29:07",
-            "view_count": "414485",
+            "view_count": "424905",
             "thumbnail_url": "https://i.ytimg.com/vi/0J6b8UncZIc/hqdefault.jpg"
-        },
-        {
-            "video_id": "xwrve3OWj60",
-            "title": "You, Unknown to Me",
-            "channel_name": "Jang Beom June - Topic",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "22769",
-            "thumbnail_url": "https://i.ytimg.com/vi/xwrve3OWj60/hqdefault.jpg"
-        },
-        {
-            "video_id": "DuPjCb45PIo",
-            "title": "T1 vs KC - TLAW vs DCG | 플레이-인 스테이지 2라운드 | MSI 2026",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "5:56:50",
-            "view_count": "1151548",
-            "thumbnail_url": "https://i.ytimg.com/vi/DuPjCb45PIo/hqdefault.jpg"
         },
         {
             "video_id": "AkYhNW0JF2I",
@@ -160,8 +151,26 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "2:21",
-            "view_count": "27628",
+            "view_count": "44902",
             "thumbnail_url": "https://i.ytimg.com/vi/AkYhNW0JF2I/hqdefault.jpg"
+        },
+        {
+            "video_id": "DuPjCb45PIo",
+            "title": "T1 vs KC - TLAW vs DCG | 플레이-인 스테이지 2라운드 | MSI 2026",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "5:56:50",
+            "view_count": "1152555",
+            "thumbnail_url": "https://i.ytimg.com/vi/DuPjCb45PIo/hqdefault.jpg"
+        },
+        {
+            "video_id": "G3o0vC-iqoU",
+            "title": "Forever",
+            "channel_name": "DK - Topic",
+            "category": "Music",
+            "duration": "4:20",
+            "view_count": "167341",
+            "thumbnail_url": "https://i.ytimg.com/vi/G3o0vC-iqoU/hqdefault.jpg"
         },
         {
             "video_id": "AJedc2US3P8",
@@ -169,17 +178,17 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "47:24",
-            "view_count": "892127",
+            "view_count": "906242",
             "thumbnail_url": "https://i.ytimg.com/vi/AJedc2US3P8/hqdefault.jpg"
         },
         {
-            "video_id": "Gr6gLOYJzAA",
-            "title": "singasong",
-            "channel_name": "THE 8 - Topic",
+            "video_id": "avCsLZj7J8g",
+            "title": "YOU DON'T HAVE TO",
+            "channel_name": "Jay Park - Topic",
             "category": "Music",
-            "duration": "3:08",
-            "view_count": "130357",
-            "thumbnail_url": "https://i.ytimg.com/vi/Gr6gLOYJzAA/hqdefault.jpg"
+            "duration": "2:39",
+            "view_count": "49683",
+            "thumbnail_url": "https://i.ytimg.com/vi/avCsLZj7J8g/hqdefault.jpg"
         },
         {
             "video_id": "Qob34MHD7xw",
@@ -187,7 +196,7 @@
             "channel_name": "김블루",
             "category": "Gaming",
             "duration": "15:12",
-            "view_count": "296906",
+            "view_count": "306438",
             "thumbnail_url": "https://i.ytimg.com/vi/Qob34MHD7xw/hqdefault.jpg"
         },
         {
@@ -196,7 +205,7 @@
             "channel_name": "PATEKO - Topic",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "39547",
+            "view_count": "49403",
             "thumbnail_url": "https://i.ytimg.com/vi/sL0g7wG8og4/hqdefault.jpg"
         },
         {
@@ -205,71 +214,17 @@
             "channel_name": "AION2",
             "category": "Gaming",
             "duration": "1:21:29",
-            "view_count": "126615",
+            "view_count": "130198",
             "thumbnail_url": "https://i.ytimg.com/vi/4yUZqDUKpaQ/hqdefault.jpg"
         },
         {
-            "video_id": "pBpr9TnhhkE",
-            "title": "𝗩𝟴 'singasong' Official MV",
-            "channel_name": "HYBE LABELS",
+            "video_id": "Gr6gLOYJzAA",
+            "title": "singasong",
+            "channel_name": "THE 8 - Topic",
             "category": "Music",
-            "duration": "3:46",
-            "view_count": "3753688",
-            "thumbnail_url": "https://i.ytimg.com/vi/pBpr9TnhhkE/hqdefault.jpg"
-        },
-        {
-            "video_id": "KFFRxxM0QF4",
-            "title": "T1 vs KC│2026 MSI│Play-INS day2│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "1:08:48",
-            "view_count": "175416",
-            "thumbnail_url": "https://i.ytimg.com/vi/KFFRxxM0QF4/hqdefault.jpg"
-        },
-        {
-            "video_id": "wOWJslOeJrQ",
-            "title": "CHOI YOOJUNG 최유정 - '비장의 무기 (Perfect Target)’ M/V",
-            "channel_name": "fantagio 판타지오",
-            "category": "Entertainment",
-            "duration": "2:31",
-            "view_count": "1006794",
-            "thumbnail_url": "https://i.ytimg.com/vi/wOWJslOeJrQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "N0oxtJbsyyw",
-            "title": "이 이야기는 내가 포대장이 되기까지의 이야기다 : 1일차【봉켓몬】",
-            "channel_name": "윤가놈",
-            "category": "Gaming",
-            "duration": "20:14",
-            "view_count": "283634",
-            "thumbnail_url": "https://i.ytimg.com/vi/N0oxtJbsyyw/hqdefault.jpg"
-        },
-        {
-            "video_id": "rfOTjhdcxd4",
-            "title": "mia",
-            "channel_name": "Vernon - Topic",
-            "category": "Music",
-            "duration": "2:53",
-            "view_count": "81713",
-            "thumbnail_url": "https://i.ytimg.com/vi/rfOTjhdcxd4/hqdefault.jpg"
-        },
-        {
-            "video_id": "neMc3FS7hsw",
-            "title": "0.1% 확률로 2-1에 탐켄치 뽑은 사람",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "17:13",
-            "view_count": "122978",
-            "thumbnail_url": "https://i.ytimg.com/vi/neMc3FS7hsw/hqdefault.jpg"
-        },
-        {
-            "video_id": "avCsLZj7J8g",
-            "title": "YOU DON'T HAVE TO",
-            "channel_name": "Jay Park - Topic",
-            "category": "Music",
-            "duration": "2:39",
-            "view_count": "30943",
-            "thumbnail_url": "https://i.ytimg.com/vi/avCsLZj7J8g/hqdefault.jpg"
+            "duration": "3:08",
+            "view_count": "147792",
+            "thumbnail_url": "https://i.ytimg.com/vi/Gr6gLOYJzAA/hqdefault.jpg"
         },
         {
             "video_id": "XVq2d7aVUu0",
@@ -277,17 +232,71 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "28:24",
-            "view_count": "98893",
+            "view_count": "115791",
             "thumbnail_url": "https://i.ytimg.com/vi/XVq2d7aVUu0/hqdefault.jpg"
         },
         {
-            "video_id": "h2DaAYfmw_M",
-            "title": "All the Love in the World",
-            "channel_name": "ASHATREE - Topic",
+            "video_id": "aFRJC3yF_fY",
+            "title": "P.S. I Love You (From. LOVE WAR)",
+            "channel_name": "HYNN - Topic",
             "category": "Music",
-            "duration": "3:45",
-            "view_count": "77865",
-            "thumbnail_url": "https://i.ytimg.com/vi/h2DaAYfmw_M/hqdefault.jpg"
+            "duration": "3:56",
+            "view_count": "19779",
+            "thumbnail_url": "https://i.ytimg.com/vi/aFRJC3yF_fY/hqdefault.jpg"
+        },
+        {
+            "video_id": "KFFRxxM0QF4",
+            "title": "T1 vs KC│2026 MSI│Play-INS day2│울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "1:08:48",
+            "view_count": "185303",
+            "thumbnail_url": "https://i.ytimg.com/vi/KFFRxxM0QF4/hqdefault.jpg"
+        },
+        {
+            "video_id": "MP4iEK_btKU",
+            "title": "Goodbye Molten",
+            "channel_name": "Yorushika - Topic",
+            "category": "Music",
+            "duration": "4:56",
+            "view_count": "71659",
+            "thumbnail_url": "https://i.ytimg.com/vi/MP4iEK_btKU/hqdefault.jpg"
+        },
+        {
+            "video_id": "neMc3FS7hsw",
+            "title": "0.1% 확률로 2-1에 탐켄치 뽑은 사람",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "17:13",
+            "view_count": "134884",
+            "thumbnail_url": "https://i.ytimg.com/vi/neMc3FS7hsw/hqdefault.jpg"
+        },
+        {
+            "video_id": "pBpr9TnhhkE",
+            "title": "𝗩𝟴 'singasong' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:46",
+            "view_count": "3930207",
+            "thumbnail_url": "https://i.ytimg.com/vi/pBpr9TnhhkE/hqdefault.jpg"
+        },
+        {
+            "video_id": "N0oxtJbsyyw",
+            "title": "이 이야기는 내가 포대장이 되기까지의 이야기다 : 1일차【봉켓몬】",
+            "channel_name": "윤가놈",
+            "category": "Gaming",
+            "duration": "20:14",
+            "view_count": "294400",
+            "thumbnail_url": "https://i.ytimg.com/vi/N0oxtJbsyyw/hqdefault.jpg"
+        },
+        {
+            "video_id": "wOWJslOeJrQ",
+            "title": "CHOI YOOJUNG 최유정 - '비장의 무기 (Perfect Target)’ M/V",
+            "channel_name": "fantagio 판타지오",
+            "category": "Entertainment",
+            "duration": "2:31",
+            "view_count": "1317926",
+            "thumbnail_url": "https://i.ytimg.com/vi/wOWJslOeJrQ/hqdefault.jpg"
         },
         {
             "video_id": "_eQyq1KLIJg",
@@ -295,17 +304,17 @@
             "channel_name": "만만",
             "category": "Gaming",
             "duration": "10:19",
-            "view_count": "206149",
+            "view_count": "211643",
             "thumbnail_url": "https://i.ytimg.com/vi/_eQyq1KLIJg/hqdefault.jpg"
         },
         {
-            "video_id": "kVVfibWQ0AY",
-            "title": "Soft Candy",
-            "channel_name": "entoy - Topic",
+            "video_id": "rfOTjhdcxd4",
+            "title": "mia",
+            "channel_name": "Vernon - Topic",
             "category": "Music",
-            "duration": "2:48",
-            "view_count": "139960",
-            "thumbnail_url": "https://i.ytimg.com/vi/kVVfibWQ0AY/hqdefault.jpg"
+            "duration": "2:53",
+            "view_count": "90243",
+            "thumbnail_url": "https://i.ytimg.com/vi/rfOTjhdcxd4/hqdefault.jpg"
         },
         {
             "video_id": "k2Gw0OVaYhg",
@@ -313,44 +322,44 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "35:58",
-            "view_count": "115532",
+            "view_count": "123600",
             "thumbnail_url": "https://i.ytimg.com/vi/k2Gw0OVaYhg/hqdefault.jpg"
         },
         {
-            "video_id": "2YG-xf0WOUY",
-            "title": "AFTER THE TEARS",
-            "channel_name": "Class:y - Topic",
+            "video_id": "h2DaAYfmw_M",
+            "title": "All the Love in the World",
+            "channel_name": "ASHATREE - Topic",
             "category": "Music",
-            "duration": "2:57",
-            "view_count": "70165",
-            "thumbnail_url": "https://i.ytimg.com/vi/2YG-xf0WOUY/hqdefault.jpg"
+            "duration": "3:45",
+            "view_count": "85279",
+            "thumbnail_url": "https://i.ytimg.com/vi/h2DaAYfmw_M/hqdefault.jpg"
         },
         {
-            "video_id": "BJzAQ-6tYSo",
-            "title": "팡이요도 유일하게 사냥 하는 날 ㅋㅋㅋㅋ [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
+            "video_id": "jpbTYD-Wr2Q",
+            "title": "여기 어디야",
+            "channel_name": "발__젭",
             "category": "Gaming",
-            "duration": "14:51",
-            "view_count": "215373",
-            "thumbnail_url": "https://i.ytimg.com/vi/BJzAQ-6tYSo/hqdefault.jpg"
+            "duration": "1:00:29",
+            "view_count": "146414",
+            "thumbnail_url": "https://i.ytimg.com/vi/jpbTYD-Wr2Q/hqdefault.jpg"
         },
         {
-            "video_id": "3q0bZneAqyI",
-            "title": "Old Memories",
-            "channel_name": "An Nyeong - Topic",
+            "video_id": "kVVfibWQ0AY",
+            "title": "Soft Candy",
+            "channel_name": "entoy - Topic",
             "category": "Music",
-            "duration": "3:56",
-            "view_count": "41450",
-            "thumbnail_url": "https://i.ytimg.com/vi/3q0bZneAqyI/hqdefault.jpg"
+            "duration": "2:48",
+            "view_count": "148575",
+            "thumbnail_url": "https://i.ytimg.com/vi/kVVfibWQ0AY/hqdefault.jpg"
         },
         {
-            "video_id": "h9nf-4ezgaI",
-            "title": "육대빵 보다 맛있는 구대빵 먹으러 갑시다! | T1 vs  KC | 2026 MSI",
-            "channel_name": "Untara",
+            "video_id": "9w9cmY7kYu0",
+            "title": "【 탬탬버린 】 - 그렇게 됐어 강지야",
+            "channel_name": "탬탬버린",
             "category": "Gaming",
-            "duration": "1:12:28",
-            "view_count": "184455",
-            "thumbnail_url": "https://i.ytimg.com/vi/h9nf-4ezgaI/hqdefault.jpg"
+            "duration": "37:03",
+            "view_count": "168251",
+            "thumbnail_url": "https://i.ytimg.com/vi/9w9cmY7kYu0/hqdefault.jpg"
         },
         {
             "video_id": "epv29RSEylM",
@@ -358,26 +367,17 @@
             "channel_name": "조선힙합",
             "category": "Music",
             "duration": "4:07",
-            "view_count": "26655",
+            "view_count": "30823",
             "thumbnail_url": "https://i.ytimg.com/vi/epv29RSEylM/hqdefault.jpg"
         },
         {
-            "video_id": "XG_mW0CIvfI",
-            "title": "현실 마인크래프트 서버에 다녀왔습니다",
-            "channel_name": "잠뜰 TV",
+            "video_id": "BJzAQ-6tYSo",
+            "title": "팡이요도 유일하게 사냥 하는 날 ㅋㅋㅋㅋ [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "14:58",
-            "view_count": "127608",
-            "thumbnail_url": "https://i.ytimg.com/vi/XG_mW0CIvfI/hqdefault.jpg"
-        },
-        {
-            "video_id": "BZYx9QsG6s0",
-            "title": "Missing",
-            "channel_name": "BE:FIRST - Topic",
-            "category": "Music",
-            "duration": "2:53",
-            "view_count": "405015",
-            "thumbnail_url": "https://i.ytimg.com/vi/BZYx9QsG6s0/hqdefault.jpg"
+            "duration": "14:51",
+            "view_count": "218673",
+            "thumbnail_url": "https://i.ytimg.com/vi/BJzAQ-6tYSo/hqdefault.jpg"
         }
     ]
 }
