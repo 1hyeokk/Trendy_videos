@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-07-02 17:18:35",
+    "scraped_time": "2026-07-02 20:35:47",
     "videos": [
         {
             "video_id": "UOKLtaE2U90",
@@ -7,7 +7,7 @@
             "channel_name": "TAEYEON - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "1134899",
+            "view_count": "1204925",
             "thumbnail_url": "https://i.ytimg.com/vi/UOKLtaE2U90/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:01",
-            "view_count": "303240",
+            "view_count": "322683",
             "thumbnail_url": "https://i.ytimg.com/vi/kF9fNYN00WQ/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "3:26:30",
-            "view_count": "1211950",
+            "view_count": "1214534",
             "thumbnail_url": "https://i.ytimg.com/vi/otAPiHjEjyw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:42",
-            "view_count": "1468432",
+            "view_count": "1511327",
             "thumbnail_url": "https://i.ytimg.com/vi/H0GbvPY_Yl8/hqdefault.jpg"
         },
         {
@@ -43,8 +43,35 @@
             "channel_name": "엘플릭스 [LPLIX]",
             "category": "Film & Animation",
             "duration": "9:12",
-            "view_count": "88287",
+            "view_count": "97246",
             "thumbnail_url": "https://i.ytimg.com/vi/iTqzl1JxW-w/hqdefault.jpg"
+        },
+        {
+            "video_id": "Qp9wf6aC52A",
+            "title": "그림 숨바꼭질 진짜 뻔뻔하게 숨는 천재들",
+            "channel_name": "우주하마",
+            "category": "Gaming",
+            "duration": "14:54",
+            "view_count": "176204",
+            "thumbnail_url": "https://i.ytimg.com/vi/Qp9wf6aC52A/hqdefault.jpg"
+        },
+        {
+            "video_id": "nNgPxwyPDe0",
+            "title": "마음의 숲",
+            "channel_name": "조선힙합 - Topic",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "33106",
+            "thumbnail_url": "https://i.ytimg.com/vi/nNgPxwyPDe0/hqdefault.jpg"
+        },
+        {
+            "video_id": "zz2ZH13NOi8",
+            "title": "[오디세이] 파이널 예고편",
+            "channel_name": "유니버설 픽쳐스",
+            "category": "Film & Animation",
+            "duration": "2:25",
+            "view_count": "58737",
+            "thumbnail_url": "https://i.ytimg.com/vi/zz2ZH13NOi8/hqdefault.jpg"
         },
         {
             "video_id": "PAarEm-oRDg",
@@ -52,7 +79,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "22:19",
-            "view_count": "344801",
+            "view_count": "373109",
             "thumbnail_url": "https://i.ytimg.com/vi/PAarEm-oRDg/hqdefault.jpg"
         },
         {
@@ -61,17 +88,17 @@
             "channel_name": "Seo InGuk - Topic",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "42867",
+            "view_count": "50904",
             "thumbnail_url": "https://i.ytimg.com/vi/vDKIheHefbE/hqdefault.jpg"
         },
         {
-            "video_id": "QB0wKUoIvWI",
-            "title": "[피의 게임X] 다섯 팀의 예측 불가한 관계성과 관전 포인트까지! '피의 게임X' 제작발표회 풀버전ㅣ웨이브 오리지널",
-            "channel_name": "wavve 웨이브",
-            "category": "Entertainment",
-            "duration": "59:59",
-            "view_count": "19934",
-            "thumbnail_url": "https://i.ytimg.com/vi/QB0wKUoIvWI/hqdefault.jpg"
+            "video_id": "NVnaL67aDTA",
+            "title": "[스파이더맨: 브랜드 뉴 데이] 올 뉴 영상",
+            "channel_name": "소니픽쳐스코리아",
+            "category": "Film & Animation",
+            "duration": "0:31",
+            "view_count": "279312",
+            "thumbnail_url": "https://i.ytimg.com/vi/NVnaL67aDTA/hqdefault.jpg"
         },
         {
             "video_id": "KdJ1nQpR964",
@@ -79,7 +106,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "22:56",
-            "view_count": "261697",
+            "view_count": "274470",
             "thumbnail_url": "https://i.ytimg.com/vi/KdJ1nQpR964/hqdefault.jpg"
         },
         {
@@ -88,53 +115,26 @@
             "channel_name": "Silica Gel - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "111982",
+            "view_count": "120353",
             "thumbnail_url": "https://i.ytimg.com/vi/lN0iWI69bR8/hqdefault.jpg"
         },
         {
-            "video_id": "zz2ZH13NOi8",
-            "title": "[오디세이] 파이널 예고편",
-            "channel_name": "유니버설 픽쳐스",
-            "category": "Film & Animation",
-            "duration": "2:25",
-            "view_count": "51726",
-            "thumbnail_url": "https://i.ytimg.com/vi/zz2ZH13NOi8/hqdefault.jpg"
+            "video_id": "QB0wKUoIvWI",
+            "title": "[피의 게임X] 다섯 팀의 예측 불가한 관계성과 관전 포인트까지! '피의 게임X' 제작발표회 풀버전ㅣ웨이브 오리지널",
+            "channel_name": "wavve 웨이브",
+            "category": "Entertainment",
+            "duration": "59:59",
+            "view_count": "23425",
+            "thumbnail_url": "https://i.ytimg.com/vi/QB0wKUoIvWI/hqdefault.jpg"
         },
         {
-            "video_id": "lAy6IWIZtHI",
-            "title": "각성한 대황란 브래킷 진출 성공 \"BLG 나와!\" | T1 vs  TLAW | 2026 MSI",
-            "channel_name": "Untara",
+            "video_id": "kW6uRbwp2Fo",
+            "title": "교명보 스타포스 경우의 수",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "1:14:04",
-            "view_count": "135087",
-            "thumbnail_url": "https://i.ytimg.com/vi/lAy6IWIZtHI/hqdefault.jpg"
-        },
-        {
-            "video_id": "nNgPxwyPDe0",
-            "title": "마음의 숲",
-            "channel_name": "조선힙합 - Topic",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "25712",
-            "thumbnail_url": "https://i.ytimg.com/vi/nNgPxwyPDe0/hqdefault.jpg"
-        },
-        {
-            "video_id": "NVnaL67aDTA",
-            "title": "[스파이더맨: 브랜드 뉴 데이] 올 뉴 영상",
-            "channel_name": "소니픽쳐스코리아",
-            "category": "Film & Animation",
-            "duration": "0:31",
-            "view_count": "235934",
-            "thumbnail_url": "https://i.ytimg.com/vi/NVnaL67aDTA/hqdefault.jpg"
-        },
-        {
-            "video_id": "31r9l645cZo",
-            "title": "챌섭 두 번째 캐릭 \"신직업 레테\" 육성 시작합니다! [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "13:20",
-            "view_count": "187997",
-            "thumbnail_url": "https://i.ytimg.com/vi/31r9l645cZo/hqdefault.jpg"
+            "duration": "26:51",
+            "view_count": "126037",
+            "thumbnail_url": "https://i.ytimg.com/vi/kW6uRbwp2Fo/hqdefault.jpg"
         },
         {
             "video_id": "AkYhNW0JF2I",
@@ -142,7 +142,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "2:21",
-            "view_count": "105427",
+            "view_count": "111899",
             "thumbnail_url": "https://i.ytimg.com/vi/AkYhNW0JF2I/hqdefault.jpg"
         },
         {
@@ -151,35 +151,17 @@
             "channel_name": "Cyberpunk 2077",
             "category": "Gaming",
             "duration": "1:31",
-            "view_count": "3741775",
+            "view_count": "3789937",
             "thumbnail_url": "https://i.ytimg.com/vi/mV7451mcw-E/hqdefault.jpg"
         },
         {
-            "video_id": "Qp9wf6aC52A",
-            "title": "그림 숨바꼭질 진짜 뻔뻔하게 숨는 천재들",
-            "channel_name": "우주하마",
+            "video_id": "lAy6IWIZtHI",
+            "title": "각성한 대황란 브래킷 진출 성공 \"BLG 나와!\" | T1 vs  TLAW | 2026 MSI",
+            "channel_name": "Untara",
             "category": "Gaming",
-            "duration": "14:54",
-            "view_count": "108807",
-            "thumbnail_url": "https://i.ytimg.com/vi/Qp9wf6aC52A/hqdefault.jpg"
-        },
-        {
-            "video_id": "M5xdvUGEuio",
-            "title": "LISTEN",
-            "channel_name": "Baek A Yeon - Topic",
-            "category": "Music",
-            "duration": "2:53",
-            "view_count": "203270",
-            "thumbnail_url": "https://i.ytimg.com/vi/M5xdvUGEuio/hqdefault.jpg"
-        },
-        {
-            "video_id": "3B5lrocv_R8",
-            "title": "색맹이 메챠 카멜레온 하면 생기는 일",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "22:45",
-            "view_count": "343553",
-            "thumbnail_url": "https://i.ytimg.com/vi/3B5lrocv_R8/hqdefault.jpg"
+            "duration": "1:14:04",
+            "view_count": "145185",
+            "thumbnail_url": "https://i.ytimg.com/vi/lAy6IWIZtHI/hqdefault.jpg"
         },
         {
             "video_id": "aFRJC3yF_fY",
@@ -187,62 +169,26 @@
             "channel_name": "HYNN - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "57484",
+            "view_count": "65174",
             "thumbnail_url": "https://i.ytimg.com/vi/aFRJC3yF_fY/hqdefault.jpg"
         },
         {
-            "video_id": "S4llUdQ7Jzc",
-            "title": "속죄의 미트라 대장장이 교명보",
-            "channel_name": "튜브김민교",
+            "video_id": "31r9l645cZo",
+            "title": "챌섭 두 번째 캐릭 \"신직업 레테\" 육성 시작합니다! [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "21:49",
-            "view_count": "202793",
-            "thumbnail_url": "https://i.ytimg.com/vi/S4llUdQ7Jzc/hqdefault.jpg"
+            "duration": "13:20",
+            "view_count": "195354",
+            "thumbnail_url": "https://i.ytimg.com/vi/31r9l645cZo/hqdefault.jpg"
         },
         {
-            "video_id": "xwrve3OWj60",
-            "title": "You, Unknown to Me",
-            "channel_name": "Jang Beom June - Topic",
+            "video_id": "M5xdvUGEuio",
+            "title": "LISTEN",
+            "channel_name": "Baek A Yeon - Topic",
             "category": "Music",
-            "duration": "3:31",
-            "view_count": "69626",
-            "thumbnail_url": "https://i.ytimg.com/vi/xwrve3OWj60/hqdefault.jpg"
-        },
-        {
-            "video_id": "PkDie66eeg0",
-            "title": "갈드컵만 한 청년 : 불꽃타입 하트골드【포켓몬 모든타입 깨기】#8",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "18:09",
-            "view_count": "193116",
-            "thumbnail_url": "https://i.ytimg.com/vi/PkDie66eeg0/hqdefault.jpg"
-        },
-        {
-            "video_id": "avCsLZj7J8g",
-            "title": "YOU DON'T HAVE TO",
-            "channel_name": "Jay Park - Topic",
-            "category": "Music",
-            "duration": "2:39",
-            "view_count": "102489",
-            "thumbnail_url": "https://i.ytimg.com/vi/avCsLZj7J8g/hqdefault.jpg"
-        },
-        {
-            "video_id": "CQ1EM3rEU-s",
-            "title": "모두가 끝났다고 포기한 그 순간, 손에 땀을 쥐게한 초역대급 명승부..【치지직 롤 대회 EP.11】",
-            "channel_name": "이석현",
-            "category": "Gaming",
-            "duration": "31:10",
-            "view_count": "131865",
-            "thumbnail_url": "https://i.ytimg.com/vi/CQ1EM3rEU-s/hqdefault.jpg"
-        },
-        {
-            "video_id": "paCZO7G3YKE",
-            "title": "키마 (KYMA) - '어린 나 (Little Me)' Official MV",
-            "channel_name": "하데스 HADES",
-            "category": "Entertainment",
-            "duration": "3:26",
-            "view_count": "82700",
-            "thumbnail_url": "https://i.ytimg.com/vi/paCZO7G3YKE/hqdefault.jpg"
+            "duration": "2:53",
+            "view_count": "211563",
+            "thumbnail_url": "https://i.ytimg.com/vi/M5xdvUGEuio/hqdefault.jpg"
         },
         {
             "video_id": "AfBX1mTfQQk",
@@ -250,8 +196,62 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:08:23",
-            "view_count": "101888",
+            "view_count": "128695",
             "thumbnail_url": "https://i.ytimg.com/vi/AfBX1mTfQQk/hqdefault.jpg"
+        },
+        {
+            "video_id": "avCsLZj7J8g",
+            "title": "YOU DON'T HAVE TO",
+            "channel_name": "Jay Park - Topic",
+            "category": "Music",
+            "duration": "2:39",
+            "view_count": "109656",
+            "thumbnail_url": "https://i.ytimg.com/vi/avCsLZj7J8g/hqdefault.jpg"
+        },
+        {
+            "video_id": "3B5lrocv_R8",
+            "title": "색맹이 메챠 카멜레온 하면 생기는 일",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "22:45",
+            "view_count": "356075",
+            "thumbnail_url": "https://i.ytimg.com/vi/3B5lrocv_R8/hqdefault.jpg"
+        },
+        {
+            "video_id": "xwrve3OWj60",
+            "title": "You, Unknown to Me",
+            "channel_name": "Jang Beom June - Topic",
+            "category": "Music",
+            "duration": "3:31",
+            "view_count": "77766",
+            "thumbnail_url": "https://i.ytimg.com/vi/xwrve3OWj60/hqdefault.jpg"
+        },
+        {
+            "video_id": "CQ1EM3rEU-s",
+            "title": "모두가 끝났다고 포기한 그 순간, 손에 땀을 쥐게한 초역대급 명승부..【치지직 롤 대회 EP.11】",
+            "channel_name": "이석현",
+            "category": "Gaming",
+            "duration": "31:10",
+            "view_count": "141441",
+            "thumbnail_url": "https://i.ytimg.com/vi/CQ1EM3rEU-s/hqdefault.jpg"
+        },
+        {
+            "video_id": "phv2nE2kBPE",
+            "title": "[MV] Kim Gun Mo(김건모) - How Far Are You(어디쯤 가고 있을까)",
+            "channel_name": "MUSIC&NEW 뮤직앤뉴",
+            "category": "Music",
+            "duration": "3:14",
+            "view_count": "67988",
+            "thumbnail_url": "https://i.ytimg.com/vi/phv2nE2kBPE/hqdefault.jpg"
+        },
+        {
+            "video_id": "PkDie66eeg0",
+            "title": "갈드컵만 한 청년 : 불꽃타입 하트골드【포켓몬 모든타입 깨기】#8",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "18:09",
+            "view_count": "200302",
+            "thumbnail_url": "https://i.ytimg.com/vi/PkDie66eeg0/hqdefault.jpg"
         },
         {
             "video_id": "MP4iEK_btKU",
@@ -259,7 +259,7 @@
             "channel_name": "Yorushika - Topic",
             "category": "Music",
             "duration": "4:56",
-            "view_count": "223522",
+            "view_count": "243898",
             "thumbnail_url": "https://i.ytimg.com/vi/MP4iEK_btKU/hqdefault.jpg"
         },
         {
@@ -268,17 +268,17 @@
             "channel_name": "침착맨 플러스",
             "category": "Gaming",
             "duration": "18:03",
-            "view_count": "195283",
+            "view_count": "215062",
             "thumbnail_url": "https://i.ytimg.com/vi/0dkzi-gAgGY/hqdefault.jpg"
         },
         {
-            "video_id": "7bBtEEVCeHE",
-            "title": "슈퍼스타",
-            "channel_name": "KyoungSeo - Topic",
-            "category": "Music",
-            "duration": "2:50",
-            "view_count": "123880",
-            "thumbnail_url": "https://i.ytimg.com/vi/7bBtEEVCeHE/hqdefault.jpg"
+            "video_id": "paCZO7G3YKE",
+            "title": "키마 (KYMA) - '어린 나 (Little Me)' Official MV",
+            "channel_name": "하데스 HADES",
+            "category": "Entertainment",
+            "duration": "3:26",
+            "view_count": "86196",
+            "thumbnail_url": "https://i.ytimg.com/vi/paCZO7G3YKE/hqdefault.jpg"
         },
         {
             "video_id": "NLtrQXRYU-c",
@@ -286,17 +286,17 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "31:41",
-            "view_count": "341868",
+            "view_count": "351127",
             "thumbnail_url": "https://i.ytimg.com/vi/NLtrQXRYU-c/hqdefault.jpg"
         },
         {
-            "video_id": "phv2nE2kBPE",
-            "title": "[MV] Kim Gun Mo(김건모) - How Far Are You(어디쯤 가고 있을까)",
-            "channel_name": "MUSIC&NEW 뮤직앤뉴",
+            "video_id": "7bBtEEVCeHE",
+            "title": "슈퍼스타",
+            "channel_name": "KyoungSeo - Topic",
             "category": "Music",
-            "duration": "3:14",
-            "view_count": "46659",
-            "thumbnail_url": "https://i.ytimg.com/vi/phv2nE2kBPE/hqdefault.jpg"
+            "duration": "2:50",
+            "view_count": "133918",
+            "thumbnail_url": "https://i.ytimg.com/vi/7bBtEEVCeHE/hqdefault.jpg"
         },
         {
             "video_id": "_B3hidBK1Wo",
@@ -304,26 +304,8 @@
             "channel_name": "유봉훈",
             "category": "Gaming",
             "duration": "22:26",
-            "view_count": "120165",
+            "view_count": "131165",
             "thumbnail_url": "https://i.ytimg.com/vi/_B3hidBK1Wo/hqdefault.jpg"
-        },
-        {
-            "video_id": "G3o0vC-iqoU",
-            "title": "Forever",
-            "channel_name": "DK - Topic",
-            "category": "Music",
-            "duration": "4:20",
-            "view_count": "233086",
-            "thumbnail_url": "https://i.ytimg.com/vi/G3o0vC-iqoU/hqdefault.jpg"
-        },
-        {
-            "video_id": "hPypc1R0Rgo",
-            "title": "똘끼 리니지클래식 하이네1등요정 케릭 삭제식 본주님 엄청난 결정!   #솔인챈트",
-            "channel_name": "똘끼100%",
-            "category": "Gaming",
-            "duration": "3:18:23",
-            "view_count": "175878",
-            "thumbnail_url": "https://i.ytimg.com/vi/hPypc1R0Rgo/hqdefault.jpg"
         },
         {
             "video_id": "_lw0jM3HV8k",
@@ -331,26 +313,26 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "24361",
+            "view_count": "27595",
             "thumbnail_url": "https://i.ytimg.com/vi/_lw0jM3HV8k/hqdefault.jpg"
         },
         {
-            "video_id": "sFBR4KIVSRY",
-            "title": "3-2부터 정성스럽게 키운 +9강 그레이브즈",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "I3mzgX5a_n8",
+            "title": "'그저 페이즈의 루시안 극찬하는 영상'",
+            "channel_name": "프로관전러 P.S",
             "category": "Gaming",
-            "duration": "16:05",
-            "view_count": "116410",
-            "thumbnail_url": "https://i.ytimg.com/vi/sFBR4KIVSRY/hqdefault.jpg"
+            "duration": "25:36",
+            "view_count": "124208",
+            "thumbnail_url": "https://i.ytimg.com/vi/I3mzgX5a_n8/hqdefault.jpg"
         },
         {
-            "video_id": "Gr6gLOYJzAA",
-            "title": "singasong",
-            "channel_name": "THE 8 - Topic",
+            "video_id": "8XYz1ByUvWY",
+            "title": "Choreography｜BOYNEXTDOOR (보이넥스트도어) ‘ADIOS!’ Dance Practice",
+            "channel_name": "BOYNEXTDOOR",
             "category": "Music",
-            "duration": "3:08",
-            "view_count": "224742",
-            "thumbnail_url": "https://i.ytimg.com/vi/Gr6gLOYJzAA/hqdefault.jpg"
+            "duration": "2:59",
+            "view_count": "106347",
+            "thumbnail_url": "https://i.ytimg.com/vi/8XYz1ByUvWY/hqdefault.jpg"
         },
         {
             "video_id": "LTyWdiURjnw",
@@ -358,7 +340,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "33:14",
-            "view_count": "142146",
+            "view_count": "153023",
             "thumbnail_url": "https://i.ytimg.com/vi/LTyWdiURjnw/hqdefault.jpg"
         },
         {
@@ -367,17 +349,35 @@
             "channel_name": "PATEKO - Topic",
             "category": "Music",
             "duration": "2:47",
-            "view_count": "77149",
+            "view_count": "86372",
             "thumbnail_url": "https://i.ytimg.com/vi/sL0g7wG8og4/hqdefault.jpg"
         },
         {
-            "video_id": "YfGEQ7QJR6k",
-            "title": "인간 펜타킬｜T1 vs TLAW｜2026 MSI",
-            "channel_name": "Bang",
+            "video_id": "hPypc1R0Rgo",
+            "title": "똘끼 리니지클래식 하이네1등요정 케릭 삭제식 본주님 엄청난 결정!   #솔인챈트",
+            "channel_name": "똘끼100%",
             "category": "Gaming",
-            "duration": "44:52",
-            "view_count": "81540",
-            "thumbnail_url": "https://i.ytimg.com/vi/YfGEQ7QJR6k/hqdefault.jpg"
+            "duration": "3:18:23",
+            "view_count": "178127",
+            "thumbnail_url": "https://i.ytimg.com/vi/hPypc1R0Rgo/hqdefault.jpg"
+        },
+        {
+            "video_id": "G3o0vC-iqoU",
+            "title": "Forever",
+            "channel_name": "DK - Topic",
+            "category": "Music",
+            "duration": "4:20",
+            "view_count": "245393",
+            "thumbnail_url": "https://i.ytimg.com/vi/G3o0vC-iqoU/hqdefault.jpg"
+        },
+        {
+            "video_id": "sFBR4KIVSRY",
+            "title": "3-2부터 정성스럽게 키운 +9강 그레이브즈",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "16:05",
+            "view_count": "121464",
+            "thumbnail_url": "https://i.ytimg.com/vi/sFBR4KIVSRY/hqdefault.jpg"
         }
     ]
 }
