@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-07-03 17:11:07",
+    "scraped_time": "2026-07-03 20:34:17",
     "videos": [
         {
             "video_id": "UOKLtaE2U90",
@@ -7,7 +7,7 @@
             "channel_name": "TAEYEON - Topic",
             "category": "Music",
             "duration": "3:39",
-            "view_count": "1474744",
+            "view_count": "1547874",
             "thumbnail_url": "https://i.ytimg.com/vi/UOKLtaE2U90/hqdefault.jpg"
         },
         {
@@ -16,8 +16,35 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "2:01",
-            "view_count": "401413",
+            "view_count": "413154",
             "thumbnail_url": "https://i.ytimg.com/vi/kF9fNYN00WQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "JJ6H-368Qy8",
+            "title": "라꼬숟 감독관",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "21:34",
+            "view_count": "331751",
+            "thumbnail_url": "https://i.ytimg.com/vi/JJ6H-368Qy8/hqdefault.jpg"
+        },
+        {
+            "video_id": "Qi63-bxUdiA",
+            "title": "Crushed",
+            "channel_name": "10CM - Topic",
+            "category": "Music",
+            "duration": "4:02",
+            "view_count": "88929",
+            "thumbnail_url": "https://i.ytimg.com/vi/Qi63-bxUdiA/hqdefault.jpg"
+        },
+        {
+            "video_id": "iTqzl1JxW-w",
+            "title": "《동궁》 넷플릭스 최종 예고편 개쩐다..🔥 남주혁 VS 조승우 떡밥과 보스몹 할배 귀신 등장 ㄷㄷ 킹덤 넘냐..?",
+            "channel_name": "엘플릭스 [LPLIX]",
+            "category": "Film & Animation",
+            "duration": "9:12",
+            "view_count": "168605",
+            "thumbnail_url": "https://i.ytimg.com/vi/iTqzl1JxW-w/hqdefault.jpg"
         },
         {
             "video_id": "otAPiHjEjyw",
@@ -25,7 +52,7 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "3:26:30",
-            "view_count": "1221020",
+            "view_count": "1221795",
             "thumbnail_url": "https://i.ytimg.com/vi/otAPiHjEjyw/hqdefault.jpg"
         },
         {
@@ -34,35 +61,8 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:42",
-            "view_count": "1703680",
+            "view_count": "1739414",
             "thumbnail_url": "https://i.ytimg.com/vi/H0GbvPY_Yl8/hqdefault.jpg"
-        },
-        {
-            "video_id": "iTqzl1JxW-w",
-            "title": "《동궁》 넷플릭스 최종 예고편 개쩐다..🔥 남주혁 VS 조승우 떡밥과 보스몹 할배 귀신 등장 ㄷㄷ 킹덤 넘냐..?",
-            "channel_name": "엘플릭스 [LPLIX]",
-            "category": "Film & Animation",
-            "duration": "9:12",
-            "view_count": "160052",
-            "thumbnail_url": "https://i.ytimg.com/vi/iTqzl1JxW-w/hqdefault.jpg"
-        },
-        {
-            "video_id": "Qp9wf6aC52A",
-            "title": "그림 숨바꼭질 진짜 뻔뻔하게 숨는 천재들",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "14:54",
-            "view_count": "341585",
-            "thumbnail_url": "https://i.ytimg.com/vi/Qp9wf6aC52A/hqdefault.jpg"
-        },
-        {
-            "video_id": "Qi63-bxUdiA",
-            "title": "Crushed",
-            "channel_name": "10CM - Topic",
-            "category": "Music",
-            "duration": "4:02",
-            "view_count": "71903",
-            "thumbnail_url": "https://i.ytimg.com/vi/Qi63-bxUdiA/hqdefault.jpg"
         },
         {
             "video_id": "NVnaL67aDTA",
@@ -70,26 +70,26 @@
             "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
             "duration": "0:31",
-            "view_count": "635376",
+            "view_count": "702978",
             "thumbnail_url": "https://i.ytimg.com/vi/NVnaL67aDTA/hqdefault.jpg"
         },
         {
-            "video_id": "JJ6H-368Qy8",
-            "title": "라꼬숟 감독관",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "Qp9wf6aC52A",
+            "title": "그림 숨바꼭질 진짜 뻔뻔하게 숨는 천재들",
+            "channel_name": "우주하마",
             "category": "Gaming",
-            "duration": "21:34",
-            "view_count": "309180",
-            "thumbnail_url": "https://i.ytimg.com/vi/JJ6H-368Qy8/hqdefault.jpg"
+            "duration": "14:54",
+            "view_count": "357933",
+            "thumbnail_url": "https://i.ytimg.com/vi/Qp9wf6aC52A/hqdefault.jpg"
         },
         {
-            "video_id": "nNgPxwyPDe0",
-            "title": "마음의 숲",
-            "channel_name": "조선힙합 - Topic",
+            "video_id": "Jsm2uVtQhmY",
+            "title": "If It Hurts Me More (Feat. Lee Min Jeong)",
+            "channel_name": "KYOE - Topic",
             "category": "Music",
-            "duration": "3:09",
-            "view_count": "67522",
-            "thumbnail_url": "https://i.ytimg.com/vi/nNgPxwyPDe0/hqdefault.jpg"
+            "duration": "4:04",
+            "view_count": "23370",
+            "thumbnail_url": "https://i.ytimg.com/vi/Jsm2uVtQhmY/hqdefault.jpg"
         },
         {
             "video_id": "zz2ZH13NOi8",
@@ -97,7 +97,7 @@
             "channel_name": "유니버설 픽쳐스",
             "category": "Film & Animation",
             "duration": "2:25",
-            "view_count": "322287",
+            "view_count": "445711",
             "thumbnail_url": "https://i.ytimg.com/vi/zz2ZH13NOi8/hqdefault.jpg"
         },
         {
@@ -106,17 +106,17 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "48:43",
-            "view_count": "247953",
+            "view_count": "273771",
             "thumbnail_url": "https://i.ytimg.com/vi/TXKdJypdjsQ/hqdefault.jpg"
         },
         {
-            "video_id": "cRPDH72WP8c",
-            "title": "송가인 (Song Ga In) - ‘꽃이 아니면 어떤가’ Official MV",
-            "channel_name": "송가인",
+            "video_id": "nNgPxwyPDe0",
+            "title": "마음의 숲",
+            "channel_name": "조선힙합 - Topic",
             "category": "Music",
-            "duration": "3:42",
-            "view_count": "122859",
-            "thumbnail_url": "https://i.ytimg.com/vi/cRPDH72WP8c/hqdefault.jpg"
+            "duration": "3:09",
+            "view_count": "77835",
+            "thumbnail_url": "https://i.ytimg.com/vi/nNgPxwyPDe0/hqdefault.jpg"
         },
         {
             "video_id": "UFDmcvVvIEY",
@@ -124,7 +124,7 @@
             "channel_name": "Tooniverse-투니버스",
             "category": "Entertainment",
             "duration": "0:31",
-            "view_count": "2920",
+            "view_count": "4552",
             "thumbnail_url": "https://i.ytimg.com/vi/UFDmcvVvIEY/hqdefault.jpg"
         },
         {
@@ -133,17 +133,17 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "15:17",
-            "view_count": "222658",
+            "view_count": "244554",
             "thumbnail_url": "https://i.ytimg.com/vi/EuWF0fzbCd4/hqdefault.jpg"
         },
         {
-            "video_id": "vDKIheHefbE",
-            "title": "The one who fills me",
-            "channel_name": "Seo InGuk - Topic",
+            "video_id": "cRPDH72WP8c",
+            "title": "송가인 (Song Ga In) - ‘꽃이 아니면 어떤가’ Official MV",
+            "channel_name": "송가인",
             "category": "Music",
-            "duration": "3:26",
-            "view_count": "86468",
-            "thumbnail_url": "https://i.ytimg.com/vi/vDKIheHefbE/hqdefault.jpg"
+            "duration": "3:42",
+            "view_count": "131762",
+            "thumbnail_url": "https://i.ytimg.com/vi/cRPDH72WP8c/hqdefault.jpg"
         },
         {
             "video_id": "QB0wKUoIvWI",
@@ -151,7 +151,7 @@
             "channel_name": "wavve 웨이브",
             "category": "Entertainment",
             "duration": "59:59",
-            "view_count": "34826",
+            "view_count": "36395",
             "thumbnail_url": "https://i.ytimg.com/vi/QB0wKUoIvWI/hqdefault.jpg"
         },
         {
@@ -160,17 +160,17 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "1:12:08",
-            "view_count": "131293",
+            "view_count": "140497",
             "thumbnail_url": "https://i.ytimg.com/vi/DA1FM_S03x8/hqdefault.jpg"
         },
         {
-            "video_id": "UrFswVtWIts",
-            "title": "Our Night is more beautiful than your Day",
-            "channel_name": "NewJeans - Topic",
+            "video_id": "vDKIheHefbE",
+            "title": "The one who fills me",
+            "channel_name": "Seo InGuk - Topic",
             "category": "Music",
-            "duration": "3:13",
-            "view_count": "146229",
-            "thumbnail_url": "https://i.ytimg.com/vi/UrFswVtWIts/hqdefault.jpg"
+            "duration": "3:26",
+            "view_count": "92383",
+            "thumbnail_url": "https://i.ytimg.com/vi/vDKIheHefbE/hqdefault.jpg"
         },
         {
             "video_id": "kW6uRbwp2Fo",
@@ -178,17 +178,17 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "26:51",
-            "view_count": "201567",
+            "view_count": "206940",
             "thumbnail_url": "https://i.ytimg.com/vi/kW6uRbwp2Fo/hqdefault.jpg"
         },
         {
-            "video_id": "XxOlPmuIJB0",
-            "title": "하필 비가 내려 (Why Does It Have to Rain)",
-            "channel_name": "Zia - Topic",
+            "video_id": "UrFswVtWIts",
+            "title": "Our Night is more beautiful than your Day",
+            "channel_name": "NewJeans - Topic",
             "category": "Music",
-            "duration": "3:26",
-            "view_count": "23175",
-            "thumbnail_url": "https://i.ytimg.com/vi/XxOlPmuIJB0/hqdefault.jpg"
+            "duration": "3:13",
+            "view_count": "159850",
+            "thumbnail_url": "https://i.ytimg.com/vi/UrFswVtWIts/hqdefault.jpg"
         },
         {
             "video_id": "AfBX1mTfQQk",
@@ -196,8 +196,26 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:08:23",
-            "view_count": "205595",
+            "view_count": "209714",
             "thumbnail_url": "https://i.ytimg.com/vi/AfBX1mTfQQk/hqdefault.jpg"
+        },
+        {
+            "video_id": "XxOlPmuIJB0",
+            "title": "하필 비가 내려 (Why Does It Have to Rain)",
+            "channel_name": "Zia - Topic",
+            "category": "Music",
+            "duration": "3:26",
+            "view_count": "27508",
+            "thumbnail_url": "https://i.ytimg.com/vi/XxOlPmuIJB0/hqdefault.jpg"
+        },
+        {
+            "video_id": "ONoV_7EI-QE",
+            "title": "[로스트아크] 4K | 신규 클래스 '차원술사' 미리보기 | LOST ARK - New Class, Dimension Master",
+            "channel_name": "로스트아크 LOST ARK",
+            "category": "Gaming",
+            "duration": "3:23",
+            "view_count": "43859",
+            "thumbnail_url": "https://i.ytimg.com/vi/ONoV_7EI-QE/hqdefault.jpg"
         },
         {
             "video_id": "phv2nE2kBPE",
@@ -205,26 +223,8 @@
             "channel_name": "MUSIC&NEW 뮤직앤뉴",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "235668",
+            "view_count": "259087",
             "thumbnail_url": "https://i.ytimg.com/vi/phv2nE2kBPE/hqdefault.jpg"
-        },
-        {
-            "video_id": "KdJ1nQpR964",
-            "title": "기출 문제",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "22:56",
-            "view_count": "320958",
-            "thumbnail_url": "https://i.ytimg.com/vi/KdJ1nQpR964/hqdefault.jpg"
-        },
-        {
-            "video_id": "lN0iWI69bR8",
-            "title": "Molecular Gastronomy",
-            "channel_name": "Silica Gel - Topic",
-            "category": "Music",
-            "duration": "3:13",
-            "view_count": "142432",
-            "thumbnail_url": "https://i.ytimg.com/vi/lN0iWI69bR8/hqdefault.jpg"
         },
         {
             "video_id": "F8sT7_qSDQA",
@@ -232,8 +232,44 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "12:58",
-            "view_count": "118344",
+            "view_count": "127181",
             "thumbnail_url": "https://i.ytimg.com/vi/F8sT7_qSDQA/hqdefault.jpg"
+        },
+        {
+            "video_id": "lN0iWI69bR8",
+            "title": "Molecular Gastronomy",
+            "channel_name": "Silica Gel - Topic",
+            "category": "Music",
+            "duration": "3:13",
+            "view_count": "147542",
+            "thumbnail_url": "https://i.ytimg.com/vi/lN0iWI69bR8/hqdefault.jpg"
+        },
+        {
+            "video_id": "KdJ1nQpR964",
+            "title": "기출 문제",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "22:56",
+            "view_count": "326153",
+            "thumbnail_url": "https://i.ytimg.com/vi/KdJ1nQpR964/hqdefault.jpg"
+        },
+        {
+            "video_id": "qsRVNu1HXQQ",
+            "title": "Pretty Girl (Preview)",
+            "channel_name": "RESCENE - Topic",
+            "category": "Music",
+            "duration": "0:27",
+            "view_count": "53062",
+            "thumbnail_url": "https://i.ytimg.com/vi/qsRVNu1HXQQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "sMup6kI9IOs",
+            "title": "옛날메이플(플래닛) : 플래닛에 신규 템이 출시가 많이됐네요? [팡이요,  메이플스토리월드:플래닛 ]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "8:52",
+            "view_count": "109015",
+            "thumbnail_url": "https://i.ytimg.com/vi/sMup6kI9IOs/hqdefault.jpg"
         },
         {
             "video_id": "AkYhNW0JF2I",
@@ -241,7 +277,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "2:21",
-            "view_count": "150923",
+            "view_count": "156891",
             "thumbnail_url": "https://i.ytimg.com/vi/AkYhNW0JF2I/hqdefault.jpg"
         },
         {
@@ -250,26 +286,8 @@
             "channel_name": "Untara",
             "category": "Gaming",
             "duration": "1:14:04",
-            "view_count": "177729",
+            "view_count": "179955",
             "thumbnail_url": "https://i.ytimg.com/vi/lAy6IWIZtHI/hqdefault.jpg"
-        },
-        {
-            "video_id": "aFRJC3yF_fY",
-            "title": "P.S. I Love You (From. LOVE WAR)",
-            "channel_name": "HYNN - Topic",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "89539",
-            "thumbnail_url": "https://i.ytimg.com/vi/aFRJC3yF_fY/hqdefault.jpg"
-        },
-        {
-            "video_id": "sMup6kI9IOs",
-            "title": "옛날메이플(플래닛) : 플래닛에 신규 템이 출시가 많이됐네요? [팡이요,  메이플스토리월드:플래닛 ]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "8:52",
-            "view_count": "103440",
-            "thumbnail_url": "https://i.ytimg.com/vi/sMup6kI9IOs/hqdefault.jpg"
         },
         {
             "video_id": "7bBtEEVCeHE",
@@ -277,7 +295,7 @@
             "channel_name": "KyoungSeo - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "215597",
+            "view_count": "225191",
             "thumbnail_url": "https://i.ytimg.com/vi/7bBtEEVCeHE/hqdefault.jpg"
         },
         {
@@ -286,17 +304,17 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "20:54",
-            "view_count": "114584",
+            "view_count": "119102",
             "thumbnail_url": "https://i.ytimg.com/vi/nhf4Ngy1VGQ/hqdefault.jpg"
         },
         {
-            "video_id": "qsRVNu1HXQQ",
-            "title": "Pretty Girl (Preview)",
-            "channel_name": "RESCENE - Topic",
+            "video_id": "aFRJC3yF_fY",
+            "title": "P.S. I Love You (From. LOVE WAR)",
+            "channel_name": "HYNN - Topic",
             "category": "Music",
-            "duration": "0:27",
-            "view_count": "48193",
-            "thumbnail_url": "https://i.ytimg.com/vi/qsRVNu1HXQQ/hqdefault.jpg"
+            "duration": "3:56",
+            "view_count": "95578",
+            "thumbnail_url": "https://i.ytimg.com/vi/aFRJC3yF_fY/hqdefault.jpg"
         },
         {
             "video_id": "D_jmT6Pk8pQ",
@@ -304,17 +322,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "27:19",
-            "view_count": "87366",
+            "view_count": "92138",
             "thumbnail_url": "https://i.ytimg.com/vi/D_jmT6Pk8pQ/hqdefault.jpg"
         },
         {
-            "video_id": "MP4iEK_btKU",
-            "title": "Goodbye Molten",
-            "channel_name": "Yorushika - Topic",
+            "video_id": "vkyhmpfAcyg",
+            "title": "Haze",
+            "channel_name": "slowly - Topic",
             "category": "Music",
-            "duration": "4:56",
-            "view_count": "330112",
-            "thumbnail_url": "https://i.ytimg.com/vi/MP4iEK_btKU/hqdefault.jpg"
+            "duration": "3:19",
+            "view_count": "12724",
+            "thumbnail_url": "https://i.ytimg.com/vi/vkyhmpfAcyg/hqdefault.jpg"
         },
         {
             "video_id": "Dwa9S0J7lP8",
@@ -322,53 +340,17 @@
             "channel_name": "채널 명예훈장",
             "category": "Gaming",
             "duration": "16:16",
-            "view_count": "115090",
+            "view_count": "121895",
             "thumbnail_url": "https://i.ytimg.com/vi/Dwa9S0J7lP8/hqdefault.jpg"
         },
         {
-            "video_id": "avCsLZj7J8g",
-            "title": "YOU DON'T HAVE TO",
-            "channel_name": "Jay Park - Topic",
+            "video_id": "MP4iEK_btKU",
+            "title": "Goodbye Molten",
+            "channel_name": "Yorushika - Topic",
             "category": "Music",
-            "duration": "2:39",
-            "view_count": "136285",
-            "thumbnail_url": "https://i.ytimg.com/vi/avCsLZj7J8g/hqdefault.jpg"
-        },
-        {
-            "video_id": "CQ1EM3rEU-s",
-            "title": "모두가 끝났다고 포기한 그 순간, 손에 땀을 쥐게한 초역대급 명승부..【치지직 롤 대회 EP.11】",
-            "channel_name": "이석현",
-            "category": "Gaming",
-            "duration": "31:10",
-            "view_count": "168669",
-            "thumbnail_url": "https://i.ytimg.com/vi/CQ1EM3rEU-s/hqdefault.jpg"
-        },
-        {
-            "video_id": "xwrve3OWj60",
-            "title": "You, Unknown to Me",
-            "channel_name": "Jang Beom June - Topic",
-            "category": "Music",
-            "duration": "3:31",
-            "view_count": "95341",
-            "thumbnail_url": "https://i.ytimg.com/vi/xwrve3OWj60/hqdefault.jpg"
-        },
-        {
-            "video_id": "5NIqk7p75z0",
-            "title": "마크 맵 제작자가 도전장을 보냈습니다 ㄷㄷ.. 맵 퀄리티 미쳤는데?",
-            "channel_name": "YouTube지누",
-            "category": "Gaming",
-            "duration": "25:59",
-            "view_count": "118374",
-            "thumbnail_url": "https://i.ytimg.com/vi/5NIqk7p75z0/hqdefault.jpg"
-        },
-        {
-            "video_id": "M5xdvUGEuio",
-            "title": "LISTEN",
-            "channel_name": "Baek A Yeon - Topic",
-            "category": "Music",
-            "duration": "2:53",
-            "view_count": "247694",
-            "thumbnail_url": "https://i.ytimg.com/vi/M5xdvUGEuio/hqdefault.jpg"
+            "duration": "4:56",
+            "view_count": "347446",
+            "thumbnail_url": "https://i.ytimg.com/vi/MP4iEK_btKU/hqdefault.jpg"
         },
         {
             "video_id": "cWPL2jKXCfU",
@@ -376,8 +358,26 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:11",
-            "view_count": "162791",
+            "view_count": "179770",
             "thumbnail_url": "https://i.ytimg.com/vi/cWPL2jKXCfU/hqdefault.jpg"
+        },
+        {
+            "video_id": "lnddnsEbjMM",
+            "title": "If we love again",
+            "channel_name": "December - Topic",
+            "category": "Music",
+            "duration": "3:57",
+            "view_count": "87636",
+            "thumbnail_url": "https://i.ytimg.com/vi/lnddnsEbjMM/hqdefault.jpg"
+        },
+        {
+            "video_id": "CQ1EM3rEU-s",
+            "title": "모두가 끝났다고 포기한 그 순간, 손에 땀을 쥐게한 초역대급 명승부..【치지직 롤 대회 EP.11】",
+            "channel_name": "이석현",
+            "category": "Gaming",
+            "duration": "31:10",
+            "view_count": "171987",
+            "thumbnail_url": "https://i.ytimg.com/vi/CQ1EM3rEU-s/hqdefault.jpg"
         }
     ]
 }
