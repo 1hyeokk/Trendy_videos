@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-07-15 11:40:10",
+    "scraped_time": "2026-07-15 14:34:19",
     "videos": [
         {
             "video_id": "Ot1wUyuE3Vo",
@@ -7,17 +7,17 @@
             "channel_name": "idntt",
             "category": "Entertainment",
             "duration": "3:12",
-            "view_count": "2139710",
+            "view_count": "2289523",
             "thumbnail_url": "https://i.ytimg.com/vi/Ot1wUyuE3Vo/hqdefault.jpg"
         },
         {
-            "video_id": "CkeFV03nAus",
-            "title": "[김부장 7화 선공개] 김부장, 주강찬의 '이것'까지 해체하고 완전 몰락시킨다",
-            "channel_name": "드라마 온앤온",
+            "video_id": "mfl7dRT-5jU",
+            "title": "[디거] 2차 예고편",
+            "channel_name": "Warner Bros. Korea",
             "category": "Film & Animation",
-            "duration": "8:57",
-            "view_count": "1482826",
-            "thumbnail_url": "https://i.ytimg.com/vi/CkeFV03nAus/hqdefault.jpg"
+            "duration": "2:36",
+            "view_count": "89502",
+            "thumbnail_url": "https://i.ytimg.com/vi/mfl7dRT-5jU/hqdefault.jpg"
         },
         {
             "video_id": "p0grJGd6Frs",
@@ -25,7 +25,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "30:37",
-            "view_count": "682992",
+            "view_count": "693027",
             "thumbnail_url": "https://i.ytimg.com/vi/p0grJGd6Frs/hqdefault.jpg"
         },
         {
@@ -34,35 +34,8 @@
             "channel_name": "LEE YEJOON - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "329844",
+            "view_count": "342806",
             "thumbnail_url": "https://i.ytimg.com/vi/Q0OzS0cKuwc/hqdefault.jpg"
-        },
-        {
-            "video_id": "mfl7dRT-5jU",
-            "title": "[디거] 2차 예고편",
-            "channel_name": "Warner Bros. Korea",
-            "category": "Film & Animation",
-            "duration": "2:36",
-            "view_count": "83800",
-            "thumbnail_url": "https://i.ytimg.com/vi/mfl7dRT-5jU/hqdefault.jpg"
-        },
-        {
-            "video_id": "k5-puWcQyo8",
-            "title": "BLG vs HLE | 결승전 | MSI 2026",
-            "channel_name": "LCK",
-            "category": "Gaming",
-            "duration": "7:06:45",
-            "view_count": "3291421",
-            "thumbnail_url": "https://i.ytimg.com/vi/k5-puWcQyo8/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ur-UnLEKitc",
-            "title": "Rainy Day",
-            "channel_name": "Yountoven - Topic",
-            "category": "Music",
-            "duration": "3:24",
-            "view_count": "249373",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ur-UnLEKitc/hqdefault.jpg"
         },
         {
             "video_id": "Bp0ciNu2Oco",
@@ -70,7 +43,7 @@
             "channel_name": "매드무비 : MadMovie",
             "category": "Film & Animation",
             "duration": "8:40",
-            "view_count": "104544",
+            "view_count": "104846",
             "thumbnail_url": "https://i.ytimg.com/vi/Bp0ciNu2Oco/hqdefault.jpg"
         },
         {
@@ -79,17 +52,17 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "32:16",
-            "view_count": "630252",
+            "view_count": "638327",
             "thumbnail_url": "https://i.ytimg.com/vi/6qwlAZ2xAdc/hqdefault.jpg"
         },
         {
-            "video_id": "yQzOepuv_xI",
-            "title": "[성시경 노래] 69. You Are My Everything(With.거미) l Sung Si Kyung Music",
-            "channel_name": "성시경 SUNG SI KYUNG",
-            "category": "Entertainment",
-            "duration": "5:44",
-            "view_count": "232162",
-            "thumbnail_url": "https://i.ytimg.com/vi/yQzOepuv_xI/hqdefault.jpg"
+            "video_id": "Ur-UnLEKitc",
+            "title": "Rainy Day",
+            "channel_name": "Yountoven - Topic",
+            "category": "Music",
+            "duration": "3:24",
+            "view_count": "259534",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ur-UnLEKitc/hqdefault.jpg"
         },
         {
             "video_id": "DFaCPpKX3uM",
@@ -97,8 +70,26 @@
             "channel_name": "세상요정 밋돌세",
             "category": "News & Politics",
             "duration": "28:19",
-            "view_count": "215751",
+            "view_count": "217394",
             "thumbnail_url": "https://i.ytimg.com/vi/DFaCPpKX3uM/hqdefault.jpg"
+        },
+        {
+            "video_id": "k5-puWcQyo8",
+            "title": "BLG vs HLE | 결승전 | MSI 2026",
+            "channel_name": "LCK",
+            "category": "Gaming",
+            "duration": "7:06:45",
+            "view_count": "3290957",
+            "thumbnail_url": "https://i.ytimg.com/vi/k5-puWcQyo8/hqdefault.jpg"
+        },
+        {
+            "video_id": "yQzOepuv_xI",
+            "title": "[성시경 노래] 69. You Are My Everything(With.거미) l Sung Si Kyung Music",
+            "channel_name": "성시경 SUNG SI KYUNG",
+            "category": "Entertainment",
+            "duration": "5:44",
+            "view_count": "239891",
+            "thumbnail_url": "https://i.ytimg.com/vi/yQzOepuv_xI/hqdefault.jpg"
         },
         {
             "video_id": "LQTcUMD0X_I",
@@ -106,7 +97,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "51:29",
-            "view_count": "126168",
+            "view_count": "142072",
             "thumbnail_url": "https://i.ytimg.com/vi/LQTcUMD0X_I/hqdefault.jpg"
         },
         {
@@ -115,7 +106,7 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "133037",
+            "view_count": "138134",
             "thumbnail_url": "https://i.ytimg.com/vi/PuX7brzMxSE/hqdefault.jpg"
         },
         {
@@ -124,7 +115,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "28:21",
-            "view_count": "347132",
+            "view_count": "351913",
             "thumbnail_url": "https://i.ytimg.com/vi/jJhfxDGDtVY/hqdefault.jpg"
         },
         {
@@ -133,7 +124,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:00",
-            "view_count": "944628",
+            "view_count": "999753",
             "thumbnail_url": "https://i.ytimg.com/vi/E1d8dVSs0Bg/hqdefault.jpg"
         },
         {
@@ -142,7 +133,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "30:33",
-            "view_count": "175857",
+            "view_count": "193752",
             "thumbnail_url": "https://i.ytimg.com/vi/khypqQal_M8/hqdefault.jpg"
         },
         {
@@ -151,26 +142,8 @@
             "channel_name": "Mrs. GREEN APPLE - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "2130581",
+            "view_count": "2187723",
             "thumbnail_url": "https://i.ytimg.com/vi/UZ4an60Zmvc/hqdefault.jpg"
-        },
-        {
-            "video_id": "OENLOn8Tzjs",
-            "title": "냥코대전쟁 노 보물 폭무 100시간 정복기",
-            "channel_name": "테네트",
-            "category": "People & Blogs",
-            "duration": "30:30",
-            "view_count": "101169",
-            "thumbnail_url": "https://i.ytimg.com/vi/OENLOn8Tzjs/hqdefault.jpg"
-        },
-        {
-            "video_id": "lFxXpXk35Eo",
-            "title": "영파씨 (YOUNG POSSE) '미스터 2026' MV",
-            "channel_name": "YOUNG POSSE • 영파씨",
-            "category": "Entertainment",
-            "duration": "2:29",
-            "view_count": "126039",
-            "thumbnail_url": "https://i.ytimg.com/vi/lFxXpXk35Eo/hqdefault.jpg"
         },
         {
             "video_id": "YlGead3_Svc",
@@ -178,17 +151,17 @@
             "channel_name": "채널 명예훈장",
             "category": "Gaming",
             "duration": "14:01",
-            "view_count": "104714",
+            "view_count": "112002",
             "thumbnail_url": "https://i.ytimg.com/vi/YlGead3_Svc/hqdefault.jpg"
         },
         {
-            "video_id": "9hY5yk2UAHE",
-            "title": "Rain Drops (Feat. Chodan of QWER)",
-            "channel_name": "Mad Clown - Topic",
-            "category": "Music",
-            "duration": "3:04",
-            "view_count": "26659",
-            "thumbnail_url": "https://i.ytimg.com/vi/9hY5yk2UAHE/hqdefault.jpg"
+            "video_id": "lFxXpXk35Eo",
+            "title": "영파씨 (YOUNG POSSE) '미스터 2026' MV",
+            "channel_name": "YOUNG POSSE • 영파씨",
+            "category": "Entertainment",
+            "duration": "2:29",
+            "view_count": "136510",
+            "thumbnail_url": "https://i.ytimg.com/vi/lFxXpXk35Eo/hqdefault.jpg"
         },
         {
             "video_id": "PsczY599I9w",
@@ -196,8 +169,44 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "39:43",
-            "view_count": "112175",
+            "view_count": "117640",
             "thumbnail_url": "https://i.ytimg.com/vi/PsczY599I9w/hqdefault.jpg"
+        },
+        {
+            "video_id": "9hY5yk2UAHE",
+            "title": "Rain Drops (Feat. Chodan of QWER)",
+            "channel_name": "Mad Clown - Topic",
+            "category": "Music",
+            "duration": "3:04",
+            "view_count": "31283",
+            "thumbnail_url": "https://i.ytimg.com/vi/9hY5yk2UAHE/hqdefault.jpg"
+        },
+        {
+            "video_id": "hPIs2YOJPrI",
+            "title": "\"한화만의 색깔이 뚜렷해지다.\"",
+            "channel_name": "프로관전러 P.S",
+            "category": "Gaming",
+            "duration": "38:37",
+            "view_count": "112925",
+            "thumbnail_url": "https://i.ytimg.com/vi/hPIs2YOJPrI/hqdefault.jpg"
+        },
+        {
+            "video_id": "xMbpF72Wc8k",
+            "title": "Stay in me",
+            "channel_name": "BANG YEDAM - Topic",
+            "category": "Music",
+            "duration": "3:53",
+            "view_count": "16383",
+            "thumbnail_url": "https://i.ytimg.com/vi/xMbpF72Wc8k/hqdefault.jpg"
+        },
+        {
+            "video_id": "OENLOn8Tzjs",
+            "title": "냥코대전쟁 노 보물 폭무 100시간 정복기",
+            "channel_name": "테네트",
+            "category": "People & Blogs",
+            "duration": "30:30",
+            "view_count": "104021",
+            "thumbnail_url": "https://i.ytimg.com/vi/OENLOn8Tzjs/hqdefault.jpg"
         },
         {
             "video_id": "IF0hFLfZxH8",
@@ -205,7 +214,7 @@
             "channel_name": "楽音 - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "507361",
+            "view_count": "527994",
             "thumbnail_url": "https://i.ytimg.com/vi/IF0hFLfZxH8/hqdefault.jpg"
         },
         {
@@ -214,7 +223,7 @@
             "channel_name": "샤코타임 Shacotime",
             "category": "Gaming",
             "duration": "29:06",
-            "view_count": "98966",
+            "view_count": "103298",
             "thumbnail_url": "https://i.ytimg.com/vi/uyz_WjzNwJQ/hqdefault.jpg"
         },
         {
@@ -223,26 +232,8 @@
             "channel_name": "Kenshi Yonezu - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "193048",
+            "view_count": "198614",
             "thumbnail_url": "https://i.ytimg.com/vi/dgN0JbJfzFA/hqdefault.jpg"
-        },
-        {
-            "video_id": "hPIs2YOJPrI",
-            "title": "\"한화만의 색깔이 뚜렷해지다.\"",
-            "channel_name": "프로관전러 P.S",
-            "category": "Gaming",
-            "duration": "38:37",
-            "view_count": "95810",
-            "thumbnail_url": "https://i.ytimg.com/vi/hPIs2YOJPrI/hqdefault.jpg"
-        },
-        {
-            "video_id": "y5iH53UJTy0",
-            "title": "심장 무너 지는 노래",
-            "channel_name": "Kim suhud - Topic",
-            "category": "Music",
-            "duration": "5:08",
-            "view_count": "27082",
-            "thumbnail_url": "https://i.ytimg.com/vi/y5iH53UJTy0/hqdefault.jpg"
         },
         {
             "video_id": "N-G5s1XX8Ho",
@@ -250,17 +241,17 @@
             "channel_name": "수찬 Suchan",
             "category": "Gaming",
             "duration": "11:26",
-            "view_count": "122934",
+            "view_count": "127625",
             "thumbnail_url": "https://i.ytimg.com/vi/N-G5s1XX8Ho/hqdefault.jpg"
         },
         {
-            "video_id": "2lvylEACT7s",
-            "title": "STELLIVE Cliché 1st EP 「Colorful Strokes」 - HIGHLIGHT MEDLEY",
-            "channel_name": "스텔라이브 StelLive Official",
-            "category": "Entertainment",
-            "duration": "3:10",
-            "view_count": "86888",
-            "thumbnail_url": "https://i.ytimg.com/vi/2lvylEACT7s/hqdefault.jpg"
+            "video_id": "y5iH53UJTy0",
+            "title": "심장 무너 지는 노래",
+            "channel_name": "Kim suhud - Topic",
+            "category": "Music",
+            "duration": "5:08",
+            "view_count": "28791",
+            "thumbnail_url": "https://i.ytimg.com/vi/y5iH53UJTy0/hqdefault.jpg"
         },
         {
             "video_id": "msaxFRvYJYs",
@@ -268,62 +259,8 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "21:47",
-            "view_count": "81239",
+            "view_count": "85260",
             "thumbnail_url": "https://i.ytimg.com/vi/msaxFRvYJYs/hqdefault.jpg"
-        },
-        {
-            "video_id": "qInDrHMRhDE",
-            "title": "chukchuk (demo)",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:12",
-            "view_count": "14572",
-            "thumbnail_url": "https://i.ytimg.com/vi/qInDrHMRhDE/hqdefault.jpg"
-        },
-        {
-            "video_id": "or4MMciuFdQ",
-            "title": "탱커 캐리덱 권위자 고죠 팔토루의 역장전개",
-            "channel_name": "팔차선 [8LJAYWALKING]",
-            "category": "Gaming",
-            "duration": "17:58",
-            "view_count": "91415",
-            "thumbnail_url": "https://i.ytimg.com/vi/or4MMciuFdQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "cHp9dMHz_eA",
-            "title": "Stay There",
-            "channel_name": "December - Topic",
-            "category": "Music",
-            "duration": "3:36",
-            "view_count": "55165",
-            "thumbnail_url": "https://i.ytimg.com/vi/cHp9dMHz_eA/hqdefault.jpg"
-        },
-        {
-            "video_id": "uHjcwUvCkkM",
-            "title": "그림 숨바꼭질 대놓고 술래 놀리는 쌉고수",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "13:16",
-            "view_count": "169328",
-            "thumbnail_url": "https://i.ytimg.com/vi/uHjcwUvCkkM/hqdefault.jpg"
-        },
-        {
-            "video_id": "AdSurw0PLtc",
-            "title": "HAEMOO",
-            "channel_name": "TOIL - Topic",
-            "category": "Music",
-            "duration": "2:45",
-            "view_count": "87545",
-            "thumbnail_url": "https://i.ytimg.com/vi/AdSurw0PLtc/hqdefault.jpg"
-        },
-        {
-            "video_id": "S37maBJ_TYg",
-            "title": "난생 처음 보는 배그 자기장",
-            "channel_name": "주키니TV",
-            "category": "Gaming",
-            "duration": "23:00",
-            "view_count": "98065",
-            "thumbnail_url": "https://i.ytimg.com/vi/S37maBJ_TYg/hqdefault.jpg"
         },
         {
             "video_id": "Fc1k04PlWWE",
@@ -331,8 +268,80 @@
             "channel_name": "Rokudenashi - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "30677",
+            "view_count": "42146",
             "thumbnail_url": "https://i.ytimg.com/vi/Fc1k04PlWWE/hqdefault.jpg"
+        },
+        {
+            "video_id": "or4MMciuFdQ",
+            "title": "탱커 캐리덱 권위자 고죠 팔토루의 역장전개",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "17:58",
+            "view_count": "95756",
+            "thumbnail_url": "https://i.ytimg.com/vi/or4MMciuFdQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "qInDrHMRhDE",
+            "title": "chukchuk (demo)",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:12",
+            "view_count": "17325",
+            "thumbnail_url": "https://i.ytimg.com/vi/qInDrHMRhDE/hqdefault.jpg"
+        },
+        {
+            "video_id": "S37maBJ_TYg",
+            "title": "난생 처음 보는 배그 자기장",
+            "channel_name": "주키니TV",
+            "category": "Gaming",
+            "duration": "23:00",
+            "view_count": "108710",
+            "thumbnail_url": "https://i.ytimg.com/vi/S37maBJ_TYg/hqdefault.jpg"
+        },
+        {
+            "video_id": "2lvylEACT7s",
+            "title": "STELLIVE Cliché 1st EP 「Colorful Strokes」 - HIGHLIGHT MEDLEY",
+            "channel_name": "스텔라이브 StelLive Official",
+            "category": "Entertainment",
+            "duration": "3:10",
+            "view_count": "90665",
+            "thumbnail_url": "https://i.ytimg.com/vi/2lvylEACT7s/hqdefault.jpg"
+        },
+        {
+            "video_id": "uHjcwUvCkkM",
+            "title": "그림 숨바꼭질 대놓고 술래 놀리는 쌉고수",
+            "channel_name": "우주하마",
+            "category": "Gaming",
+            "duration": "13:16",
+            "view_count": "175816",
+            "thumbnail_url": "https://i.ytimg.com/vi/uHjcwUvCkkM/hqdefault.jpg"
+        },
+        {
+            "video_id": "cHp9dMHz_eA",
+            "title": "Stay There",
+            "channel_name": "December - Topic",
+            "category": "Music",
+            "duration": "3:36",
+            "view_count": "57479",
+            "thumbnail_url": "https://i.ytimg.com/vi/cHp9dMHz_eA/hqdefault.jpg"
+        },
+        {
+            "video_id": "9V8gOYYa9iM",
+            "title": "서버에 있는 레이 다 사버립니다...  리니지클래식【 똘끼 】",
+            "channel_name": "똘끼100%",
+            "category": "Gaming",
+            "duration": "12:16",
+            "view_count": "111528",
+            "thumbnail_url": "https://i.ytimg.com/vi/9V8gOYYa9iM/hqdefault.jpg"
+        },
+        {
+            "video_id": "AdSurw0PLtc",
+            "title": "HAEMOO",
+            "channel_name": "TOIL - Topic",
+            "category": "Music",
+            "duration": "2:45",
+            "view_count": "91543",
+            "thumbnail_url": "https://i.ytimg.com/vi/AdSurw0PLtc/hqdefault.jpg"
         },
         {
             "video_id": "SiWVHpD91eQ",
@@ -340,7 +349,7 @@
             "channel_name": "텔론",
             "category": "Gaming",
             "duration": "18:46",
-            "view_count": "129806",
+            "view_count": "134747",
             "thumbnail_url": "https://i.ytimg.com/vi/SiWVHpD91eQ/hqdefault.jpg"
         },
         {
@@ -349,7 +358,7 @@
             "channel_name": "조성확 (iHwak) OFFICIAL",
             "category": "Entertainment",
             "duration": "3:01",
-            "view_count": "107453",
+            "view_count": "113001",
             "thumbnail_url": "https://i.ytimg.com/vi/L361JG6zSc8/hqdefault.jpg"
         },
         {
@@ -358,26 +367,17 @@
             "channel_name": "백앤아",
             "category": "Gaming",
             "duration": "24:47",
-            "view_count": "86609",
+            "view_count": "87595",
             "thumbnail_url": "https://i.ytimg.com/vi/YYyMHm7AOsY/hqdefault.jpg"
         },
         {
-            "video_id": "xMbpF72Wc8k",
-            "title": "Stay in me",
-            "channel_name": "BANG YEDAM - Topic",
+            "video_id": "Re-kqxeU6o8",
+            "title": "HIGHLIGHT",
+            "channel_name": "woo!ah! - Topic",
             "category": "Music",
-            "duration": "3:53",
-            "view_count": "11424",
-            "thumbnail_url": "https://i.ytimg.com/vi/xMbpF72Wc8k/hqdefault.jpg"
-        },
-        {
-            "video_id": "6TmH5d0HKbw",
-            "title": "우리의 질주를 막지 마",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "21:56",
-            "view_count": "454164",
-            "thumbnail_url": "https://i.ytimg.com/vi/6TmH5d0HKbw/hqdefault.jpg"
+            "duration": "3:38",
+            "view_count": "57222",
+            "thumbnail_url": "https://i.ytimg.com/vi/Re-kqxeU6o8/hqdefault.jpg"
         }
     ]
 }
