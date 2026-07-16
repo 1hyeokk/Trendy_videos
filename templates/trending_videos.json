@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-07-16 15:20:59",
+    "scraped_time": "2026-07-16 18:16:46",
     "videos": [
         {
             "video_id": "Q2OhwjFoUn0",
@@ -7,7 +7,7 @@
             "channel_name": "Ha Yea Song - Topic",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "42745",
+            "view_count": "59799",
             "thumbnail_url": "https://i.ytimg.com/vi/Q2OhwjFoUn0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Warner Bros. Korea",
             "category": "Film & Animation",
             "duration": "2:36",
-            "view_count": "111349",
+            "view_count": "112776",
             "thumbnail_url": "https://i.ytimg.com/vi/mfl7dRT-5jU/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "35:05",
-            "view_count": "273059",
+            "view_count": "292216",
             "thumbnail_url": "https://i.ytimg.com/vi/SnRvPkzWzhg/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "SUNMI - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "55530",
+            "view_count": "73457",
             "thumbnail_url": "https://i.ytimg.com/vi/eyAEyOsj2y4/hqdefault.jpg"
         },
         {
@@ -43,44 +43,8 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:55",
-            "view_count": "277672",
+            "view_count": "299812",
             "thumbnail_url": "https://i.ytimg.com/vi/mrzr7fzcgow/hqdefault.jpg"
-        },
-        {
-            "video_id": "1K9uyj-o1bQ",
-            "title": "이민혁 (HUTA) 'Icy & Spicy' MV",
-            "channel_name": "1theK (원더케이)",
-            "category": "Music",
-            "duration": "2:45",
-            "view_count": "51349",
-            "thumbnail_url": "https://i.ytimg.com/vi/1K9uyj-o1bQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "0ETTy276jaU",
-            "title": "도끼든 왕자님",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "24:14",
-            "view_count": "247565",
-            "thumbnail_url": "https://i.ytimg.com/vi/0ETTy276jaU/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ot1wUyuE3Vo",
-            "title": "idntt 아이덴티티 ‘Kids Return’ Official MV",
-            "channel_name": "idntt",
-            "category": "Entertainment",
-            "duration": "3:12",
-            "view_count": "3551397",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ot1wUyuE3Vo/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ie8Ekdmjv6M",
-            "title": "'멸망전 쉬었음 청년' 서도일의 눈물 나는 스크림 면접",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "30:29",
-            "view_count": "197280",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ie8Ekdmjv6M/hqdefault.jpg"
         },
         {
             "video_id": "GnSaLQTrvt0",
@@ -88,8 +52,44 @@
             "channel_name": "HWASA",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "395677",
+            "view_count": "460951",
             "thumbnail_url": "https://i.ytimg.com/vi/GnSaLQTrvt0/hqdefault.jpg"
+        },
+        {
+            "video_id": "0ETTy276jaU",
+            "title": "도끼든 왕자님",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "24:14",
+            "view_count": "259663",
+            "thumbnail_url": "https://i.ytimg.com/vi/0ETTy276jaU/hqdefault.jpg"
+        },
+        {
+            "video_id": "1K9uyj-o1bQ",
+            "title": "이민혁 (HUTA) 'Icy & Spicy' MV",
+            "channel_name": "1theK (원더케이)",
+            "category": "Music",
+            "duration": "2:45",
+            "view_count": "59613",
+            "thumbnail_url": "https://i.ytimg.com/vi/1K9uyj-o1bQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ie8Ekdmjv6M",
+            "title": "'멸망전 쉬었음 청년' 서도일의 눈물 나는 스크림 면접",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "30:29",
+            "view_count": "214824",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ie8Ekdmjv6M/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ot1wUyuE3Vo",
+            "title": "idntt 아이덴티티 ‘Kids Return’ Official MV",
+            "channel_name": "idntt",
+            "category": "Entertainment",
+            "duration": "3:12",
+            "view_count": "3960016",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ot1wUyuE3Vo/hqdefault.jpg"
         },
         {
             "video_id": "rrVAV8nkq9I",
@@ -97,26 +97,8 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "53:55",
-            "view_count": "166114",
+            "view_count": "174866",
             "thumbnail_url": "https://i.ytimg.com/vi/rrVAV8nkq9I/hqdefault.jpg"
-        },
-        {
-            "video_id": "Q0OzS0cKuwc",
-            "title": "Walk through the rain",
-            "channel_name": "LEE YEJOON - Topic",
-            "category": "Music",
-            "duration": "4:06",
-            "view_count": "430167",
-            "thumbnail_url": "https://i.ytimg.com/vi/Q0OzS0cKuwc/hqdefault.jpg"
-        },
-        {
-            "video_id": "LBHk958G30g",
-            "title": "또 숨은 원석을 발견해버린 저라뎃ㅋㅋㅋㅋㅋ│멸망전 EP.02",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "37:49",
-            "view_count": "141603",
-            "thumbnail_url": "https://i.ytimg.com/vi/LBHk958G30g/hqdefault.jpg"
         },
         {
             "video_id": "qSjjsGsqMFE",
@@ -124,26 +106,26 @@
             "channel_name": "Jin Ah Kwon - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "31462",
+            "view_count": "36725",
             "thumbnail_url": "https://i.ytimg.com/vi/qSjjsGsqMFE/hqdefault.jpg"
         },
         {
-            "video_id": "p0grJGd6Frs",
-            "title": "노인 출현",
-            "channel_name": "랄로",
+            "video_id": "jp--BTy_8lE",
+            "title": "해기 야호~│멸망전 EP.03",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "30:37",
-            "view_count": "755951",
-            "thumbnail_url": "https://i.ytimg.com/vi/p0grJGd6Frs/hqdefault.jpg"
+            "duration": "42:21",
+            "view_count": "138789",
+            "thumbnail_url": "https://i.ytimg.com/vi/jp--BTy_8lE/hqdefault.jpg"
         },
         {
-            "video_id": "1g9jXi8WY0I",
-            "title": "Sky Without Grudges",
-            "channel_name": "DannyHO - Topic",
+            "video_id": "Q0OzS0cKuwc",
+            "title": "Walk through the rain",
+            "channel_name": "LEE YEJOON - Topic",
             "category": "Music",
-            "duration": "4:30",
-            "view_count": "113867",
-            "thumbnail_url": "https://i.ytimg.com/vi/1g9jXi8WY0I/hqdefault.jpg"
+            "duration": "4:06",
+            "view_count": "442047",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q0OzS0cKuwc/hqdefault.jpg"
         },
         {
             "video_id": "6qwlAZ2xAdc",
@@ -151,26 +133,26 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "32:16",
-            "view_count": "744930",
+            "view_count": "755349",
             "thumbnail_url": "https://i.ytimg.com/vi/6qwlAZ2xAdc/hqdefault.jpg"
         },
         {
-            "video_id": "Ur-UnLEKitc",
-            "title": "Rainy Day",
-            "channel_name": "Yountoven - Topic",
+            "video_id": "1g9jXi8WY0I",
+            "title": "Sky Without Grudges",
+            "channel_name": "DannyHO - Topic",
             "category": "Music",
-            "duration": "3:24",
-            "view_count": "324956",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ur-UnLEKitc/hqdefault.jpg"
+            "duration": "4:30",
+            "view_count": "133696",
+            "thumbnail_url": "https://i.ytimg.com/vi/1g9jXi8WY0I/hqdefault.jpg"
         },
         {
-            "video_id": "DOfwBZ4ud84",
-            "title": "T1 vs GAM Highlights | EWC 2026 Group Stage | T1 vs GAM Esports",
-            "channel_name": "OPLOLReplay",
+            "video_id": "p0grJGd6Frs",
+            "title": "노인 출현",
+            "channel_name": "랄로",
             "category": "Gaming",
-            "duration": "13:00",
-            "view_count": "139380",
-            "thumbnail_url": "https://i.ytimg.com/vi/DOfwBZ4ud84/hqdefault.jpg"
+            "duration": "30:37",
+            "view_count": "761118",
+            "thumbnail_url": "https://i.ytimg.com/vi/p0grJGd6Frs/hqdefault.jpg"
         },
         {
             "video_id": "xMbpF72Wc8k",
@@ -178,17 +160,35 @@
             "channel_name": "BANG YEDAM - Topic",
             "category": "Music",
             "duration": "3:53",
-            "view_count": "41388",
+            "view_count": "49746",
             "thumbnail_url": "https://i.ytimg.com/vi/xMbpF72Wc8k/hqdefault.jpg"
         },
         {
-            "video_id": "6yY8x-31Tbc",
-            "title": "칸 써밋 버돌 모두가 없는 세계선 \"이번엔 우승 가능할 거 같아요\" | 멸망전 EP.01",
-            "channel_name": "스맵",
+            "video_id": "DOfwBZ4ud84",
+            "title": "T1 vs GAM Highlights | EWC 2026 Group Stage | T1 vs GAM Esports",
+            "channel_name": "OPLOLReplay",
             "category": "Gaming",
-            "duration": "44:38",
-            "view_count": "104388",
-            "thumbnail_url": "https://i.ytimg.com/vi/6yY8x-31Tbc/hqdefault.jpg"
+            "duration": "13:00",
+            "view_count": "148183",
+            "thumbnail_url": "https://i.ytimg.com/vi/DOfwBZ4ud84/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ur-UnLEKitc",
+            "title": "Rainy Day",
+            "channel_name": "Yountoven - Topic",
+            "category": "Music",
+            "duration": "3:24",
+            "view_count": "334319",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ur-UnLEKitc/hqdefault.jpg"
+        },
+        {
+            "video_id": "jzoOxc7gck0",
+            "title": "심장 터지기 1초 전.. 공포의 숨바꼭질에서 살아남기",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "37:08",
+            "view_count": "148132",
+            "thumbnail_url": "https://i.ytimg.com/vi/jzoOxc7gck0/hqdefault.jpg"
         },
         {
             "video_id": "yQzOepuv_xI",
@@ -196,8 +196,26 @@
             "channel_name": "성시경 SUNG SI KYUNG",
             "category": "Entertainment",
             "duration": "5:44",
-            "view_count": "303518",
+            "view_count": "310466",
             "thumbnail_url": "https://i.ytimg.com/vi/yQzOepuv_xI/hqdefault.jpg"
+        },
+        {
+            "video_id": "6yY8x-31Tbc",
+            "title": "칸 써밋 버돌 모두가 없는 세계선 \"이번엔 우승 가능할 거 같아요\" | 멸망전 EP.01",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "44:38",
+            "view_count": "107732",
+            "thumbnail_url": "https://i.ytimg.com/vi/6yY8x-31Tbc/hqdefault.jpg"
+        },
+        {
+            "video_id": "DQcBKGBd_3c",
+            "title": "Summer Time : D",
+            "channel_name": "SYSTEM SEOUL - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "30990",
+            "thumbnail_url": "https://i.ytimg.com/vi/DQcBKGBd_3c/hqdefault.jpg"
         },
         {
             "video_id": "zNEZ_TUv7fM",
@@ -205,7 +223,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "17:15",
-            "view_count": "216273",
+            "view_count": "223208",
             "thumbnail_url": "https://i.ytimg.com/vi/zNEZ_TUv7fM/hqdefault.jpg"
         },
         {
@@ -214,7 +232,7 @@
             "channel_name": "Mad Clown - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "58242",
+            "view_count": "61196",
             "thumbnail_url": "https://i.ytimg.com/vi/9hY5yk2UAHE/hqdefault.jpg"
         },
         {
@@ -223,35 +241,17 @@
             "channel_name": "LCK",
             "category": "Gaming",
             "duration": "7:06:45",
-            "view_count": "3295181",
+            "view_count": "3295530",
             "thumbnail_url": "https://i.ytimg.com/vi/k5-puWcQyo8/hqdefault.jpg"
         },
         {
-            "video_id": "DQcBKGBd_3c",
-            "title": "Summer Time : D",
-            "channel_name": "SYSTEM SEOUL - Topic",
+            "video_id": "vFkk31GES1A",
+            "title": "Spark!",
+            "channel_name": "Kim Suyoung - Topic",
             "category": "Music",
-            "duration": "3:19",
-            "view_count": "27155",
-            "thumbnail_url": "https://i.ytimg.com/vi/DQcBKGBd_3c/hqdefault.jpg"
-        },
-        {
-            "video_id": "jzoOxc7gck0",
-            "title": "심장 터지기 1초 전.. 공포의 숨바꼭질에서 살아남기",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "37:08",
-            "view_count": "137955",
-            "thumbnail_url": "https://i.ytimg.com/vi/jzoOxc7gck0/hqdefault.jpg"
-        },
-        {
-            "video_id": "PuX7brzMxSE",
-            "title": "YO-I-DON!",
-            "channel_name": "NCT WISH - Topic",
-            "category": "Music",
-            "duration": "2:44",
-            "view_count": "179821",
-            "thumbnail_url": "https://i.ytimg.com/vi/PuX7brzMxSE/hqdefault.jpg"
+            "duration": "4:08",
+            "view_count": "16155",
+            "thumbnail_url": "https://i.ytimg.com/vi/vFkk31GES1A/hqdefault.jpg"
         },
         {
             "video_id": "O1h82YbNFNI",
@@ -259,7 +259,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "21:37",
-            "view_count": "153406",
+            "view_count": "156750",
             "thumbnail_url": "https://i.ytimg.com/vi/O1h82YbNFNI/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "654195",
+            "view_count": "679036",
             "thumbnail_url": "https://i.ytimg.com/vi/Zt_37l7NiJw/hqdefault.jpg"
         },
         {
@@ -277,35 +277,17 @@
             "channel_name": "롤박사 해도리",
             "category": "Gaming",
             "duration": "8:05",
-            "view_count": "347893",
+            "view_count": "352761",
             "thumbnail_url": "https://i.ytimg.com/vi/c-NA27E1elY/hqdefault.jpg"
         },
         {
-            "video_id": "y5iH53UJTy0",
-            "title": "심장 무너 지는 노래",
-            "channel_name": "Kim suhud - Topic",
+            "video_id": "PuX7brzMxSE",
+            "title": "YO-I-DON!",
+            "channel_name": "NCT WISH - Topic",
             "category": "Music",
-            "duration": "5:08",
-            "view_count": "43330",
-            "thumbnail_url": "https://i.ytimg.com/vi/y5iH53UJTy0/hqdefault.jpg"
-        },
-        {
-            "video_id": "gB-CP0Bk0Ag",
-            "title": "트페 미래 먹거리 빌드",
-            "channel_name": "Official dopa",
-            "category": "Gaming",
-            "duration": "25:07",
-            "view_count": "92929",
-            "thumbnail_url": "https://i.ytimg.com/vi/gB-CP0Bk0Ag/hqdefault.jpg"
-        },
-        {
-            "video_id": "4iRThhHVlT4",
-            "title": "Sunset Promise",
-            "channel_name": "Jeong Dong Won - Topic",
-            "category": "Music",
-            "duration": "4:00",
-            "view_count": "24229",
-            "thumbnail_url": "https://i.ytimg.com/vi/4iRThhHVlT4/hqdefault.jpg"
+            "duration": "2:44",
+            "view_count": "185597",
+            "thumbnail_url": "https://i.ytimg.com/vi/PuX7brzMxSE/hqdefault.jpg"
         },
         {
             "video_id": "8603ejXjQyU",
@@ -313,35 +295,35 @@
             "channel_name": "마주 - 로블록스",
             "category": "Gaming",
             "duration": "15:18",
-            "view_count": "83959",
+            "view_count": "92337",
             "thumbnail_url": "https://i.ytimg.com/vi/8603ejXjQyU/hqdefault.jpg"
         },
         {
-            "video_id": "vFkk31GES1A",
-            "title": "Spark!",
-            "channel_name": "Kim Suyoung - Topic",
+            "video_id": "4iRThhHVlT4",
+            "title": "Sunset Promise",
+            "channel_name": "Jeong Dong Won - Topic",
             "category": "Music",
-            "duration": "4:08",
-            "view_count": "12730",
-            "thumbnail_url": "https://i.ytimg.com/vi/vFkk31GES1A/hqdefault.jpg"
+            "duration": "4:00",
+            "view_count": "27024",
+            "thumbnail_url": "https://i.ytimg.com/vi/4iRThhHVlT4/hqdefault.jpg"
         },
         {
-            "video_id": "ZQcCbrex02E",
-            "title": "🔴 EWC 2026 - League of Legends - DAY 1 COSTREAM ( •̀ ω •́ )✧",
-            "channel_name": "feviknight 페비나이트",
+            "video_id": "gB-CP0Bk0Ag",
+            "title": "트페 미래 먹거리 빌드",
+            "channel_name": "Official dopa",
             "category": "Gaming",
-            "duration": "9:23:19",
-            "view_count": "100300",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZQcCbrex02E/hqdefault.jpg"
+            "duration": "25:07",
+            "view_count": "98108",
+            "thumbnail_url": "https://i.ytimg.com/vi/gB-CP0Bk0Ag/hqdefault.jpg"
         },
         {
-            "video_id": "lFxXpXk35Eo",
-            "title": "영파씨 (YOUNG POSSE) '미스터 2026' MV",
-            "channel_name": "YOUNG POSSE • 영파씨",
-            "category": "Entertainment",
-            "duration": "2:29",
-            "view_count": "196143",
-            "thumbnail_url": "https://i.ytimg.com/vi/lFxXpXk35Eo/hqdefault.jpg"
+            "video_id": "y5iH53UJTy0",
+            "title": "심장 무너 지는 노래",
+            "channel_name": "Kim suhud - Topic",
+            "category": "Music",
+            "duration": "5:08",
+            "view_count": "45890",
+            "thumbnail_url": "https://i.ytimg.com/vi/y5iH53UJTy0/hqdefault.jpg"
         },
         {
             "video_id": "CYbJklkrphc",
@@ -349,7 +331,7 @@
             "channel_name": "채널 명예훈장",
             "category": "Gaming",
             "duration": "32:35",
-            "view_count": "123496",
+            "view_count": "129801",
             "thumbnail_url": "https://i.ytimg.com/vi/CYbJklkrphc/hqdefault.jpg"
         },
         {
@@ -358,17 +340,35 @@
             "channel_name": "woo!ah! - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "104007",
+            "view_count": "112794",
             "thumbnail_url": "https://i.ytimg.com/vi/Re-kqxeU6o8/hqdefault.jpg"
         },
         {
-            "video_id": "Bu0dDEAcdUo",
-            "title": "시작 전부터 건방지다고 참교육 예고하더니 순수 실력으로 알파고를 찍어누르는 상대ㄷㄷ;;",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "NpoRPBrqmWI",
+            "title": "[멸망전 1편] 숲티비한테 공개 저격당했습니다..",
+            "channel_name": "샤코타임 Shacotime",
             "category": "Gaming",
-            "duration": "59:29",
-            "view_count": "118107",
-            "thumbnail_url": "https://i.ytimg.com/vi/Bu0dDEAcdUo/hqdefault.jpg"
+            "duration": "34:43",
+            "view_count": "80509",
+            "thumbnail_url": "https://i.ytimg.com/vi/NpoRPBrqmWI/hqdefault.jpg"
+        },
+        {
+            "video_id": "lFxXpXk35Eo",
+            "title": "영파씨 (YOUNG POSSE) '미스터 2026' MV",
+            "channel_name": "YOUNG POSSE • 영파씨",
+            "category": "Entertainment",
+            "duration": "2:29",
+            "view_count": "201908",
+            "thumbnail_url": "https://i.ytimg.com/vi/lFxXpXk35Eo/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZQcCbrex02E",
+            "title": "🔴 EWC 2026 - League of Legends - DAY 1 COSTREAM ( •̀ ω •́ )✧",
+            "channel_name": "feviknight 페비나이트",
+            "category": "Gaming",
+            "duration": "9:23:19",
+            "view_count": "100695",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZQcCbrex02E/hqdefault.jpg"
         },
         {
             "video_id": "qInDrHMRhDE",
@@ -376,7 +376,7 @@
             "channel_name": "Loco - Topic",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "36329",
+            "view_count": "39432",
             "thumbnail_url": "https://i.ytimg.com/vi/qInDrHMRhDE/hqdefault.jpg"
         }
     ]
