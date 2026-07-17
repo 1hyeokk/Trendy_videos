@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-07-17 07:58:31",
+    "scraped_time": "2026-07-17 09:06:02",
     "videos": [
         {
             "video_id": "5ZLMJyoJIsk",
@@ -7,26 +7,8 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "0:21",
-            "view_count": "3168662",
+            "view_count": "3191475",
             "thumbnail_url": "https://i.ytimg.com/vi/5ZLMJyoJIsk/hqdefault.jpg"
-        },
-        {
-            "video_id": "3nLMycUTSqQ",
-            "title": "Maple Now | 김창섭 디렉터 (26.07.16)",
-            "channel_name": "메이플스토리",
-            "category": "Gaming",
-            "duration": "1:41:07",
-            "view_count": "160452",
-            "thumbnail_url": "https://i.ytimg.com/vi/3nLMycUTSqQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "Q2OhwjFoUn0",
-            "title": "to the Sea (2026)",
-            "channel_name": "Ha Yea Song - Topic",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "89038",
-            "thumbnail_url": "https://i.ytimg.com/vi/Q2OhwjFoUn0/hqdefault.jpg"
         },
         {
             "video_id": "S2XGH9Mz0Fw",
@@ -34,8 +16,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:11",
-            "view_count": "190582",
+            "view_count": "199204",
             "thumbnail_url": "https://i.ytimg.com/vi/S2XGH9Mz0Fw/hqdefault.jpg"
+        },
+        {
+            "video_id": "Q2OhwjFoUn0",
+            "title": "to the Sea (2026)",
+            "channel_name": "Ha Yea Song - Topic",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "90325",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q2OhwjFoUn0/hqdefault.jpg"
+        },
+        {
+            "video_id": "3nLMycUTSqQ",
+            "title": "Maple Now | 김창섭 디렉터 (26.07.16)",
+            "channel_name": "메이플스토리",
+            "category": "Gaming",
+            "duration": "1:41:07",
+            "view_count": "160717",
+            "thumbnail_url": "https://i.ytimg.com/vi/3nLMycUTSqQ/hqdefault.jpg"
         },
         {
             "video_id": "GnSaLQTrvt0",
@@ -43,7 +43,7 @@
             "channel_name": "HWASA",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "884862",
+            "view_count": "898647",
             "thumbnail_url": "https://i.ytimg.com/vi/GnSaLQTrvt0/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
             "duration": "7:17:51",
-            "view_count": "245189",
+            "view_count": "245528",
             "thumbnail_url": "https://i.ytimg.com/vi/BWoB_IC4Z_A/hqdefault.jpg"
         },
         {
@@ -61,26 +61,8 @@
             "channel_name": "SUNMI - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "102895",
+            "view_count": "103590",
             "thumbnail_url": "https://i.ytimg.com/vi/eyAEyOsj2y4/hqdefault.jpg"
-        },
-        {
-            "video_id": "SnRvPkzWzhg",
-            "title": "3% 확률로 초전설 잡아버린 씩씩맨 [마크 코블몬 EP.03]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "35:05",
-            "view_count": "348421",
-            "thumbnail_url": "https://i.ytimg.com/vi/SnRvPkzWzhg/hqdefault.jpg"
-        },
-        {
-            "video_id": "XnFkB8UBF7Q",
-            "title": "NCT WISH 엔시티 위시 'YO-I-DON!' @NCTzen WISH-JAPAN FANMEETING 2026",
-            "channel_name": "NCT WISH",
-            "category": "Music",
-            "duration": "3:11",
-            "view_count": "65340",
-            "thumbnail_url": "https://i.ytimg.com/vi/XnFkB8UBF7Q/hqdefault.jpg"
         },
         {
             "video_id": "Yomnm2bSz6w",
@@ -88,7 +70,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "41:09",
-            "view_count": "109484",
+            "view_count": "114293",
             "thumbnail_url": "https://i.ytimg.com/vi/Yomnm2bSz6w/hqdefault.jpg"
         },
         {
@@ -97,17 +79,35 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "86941",
+            "view_count": "89099",
             "thumbnail_url": "https://i.ytimg.com/vi/1K9uyj-o1bQ/hqdefault.jpg"
         },
         {
-            "video_id": "0ETTy276jaU",
-            "title": "도끼든 왕자님",
-            "channel_name": "PAKA",
+            "video_id": "SnRvPkzWzhg",
+            "title": "3% 확률로 초전설 잡아버린 씩씩맨 [마크 코블몬 EP.03]",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "24:14",
-            "view_count": "296580",
-            "thumbnail_url": "https://i.ytimg.com/vi/0ETTy276jaU/hqdefault.jpg"
+            "duration": "35:05",
+            "view_count": "348896",
+            "thumbnail_url": "https://i.ytimg.com/vi/SnRvPkzWzhg/hqdefault.jpg"
+        },
+        {
+            "video_id": "XnFkB8UBF7Q",
+            "title": "NCT WISH 엔시티 위시 'YO-I-DON!' @NCTzen WISH-JAPAN FANMEETING 2026",
+            "channel_name": "NCT WISH",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "66754",
+            "thumbnail_url": "https://i.ytimg.com/vi/XnFkB8UBF7Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "uGCxABN1cac",
+            "title": "\"오빠 어깨빵 당해 본 적 있어?\"｜멸망전 EP.04",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "54:40",
+            "view_count": "108987",
+            "thumbnail_url": "https://i.ytimg.com/vi/uGCxABN1cac/hqdefault.jpg"
         },
         {
             "video_id": "ZNnzzLyMYK0",
@@ -115,7 +115,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:59",
-            "view_count": "81999",
+            "view_count": "83955",
             "thumbnail_url": "https://i.ytimg.com/vi/ZNnzzLyMYK0/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "48:29",
-            "view_count": "108642",
+            "view_count": "111060",
             "thumbnail_url": "https://i.ytimg.com/vi/M4WGiIRcO0c/hqdefault.jpg"
         },
         {
@@ -133,35 +133,17 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "4:36",
-            "view_count": "52928",
+            "view_count": "53986",
             "thumbnail_url": "https://i.ytimg.com/vi/Yhm3gQdXisA/hqdefault.jpg"
         },
         {
-            "video_id": "uGCxABN1cac",
-            "title": "\"오빠 어깨빵 당해 본 적 있어?\"｜멸망전 EP.04",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "video_id": "0ETTy276jaU",
+            "title": "도끼든 왕자님",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "54:40",
-            "view_count": "105517",
-            "thumbnail_url": "https://i.ytimg.com/vi/uGCxABN1cac/hqdefault.jpg"
-        },
-        {
-            "video_id": "qSjjsGsqMFE",
-            "title": "MONSTER",
-            "channel_name": "Jin Ah Kwon - Topic",
-            "category": "Music",
-            "duration": "3:35",
-            "view_count": "53264",
-            "thumbnail_url": "https://i.ytimg.com/vi/qSjjsGsqMFE/hqdefault.jpg"
-        },
-        {
-            "video_id": "eMCOZa9StJo",
-            "title": "저랑 팀하기 싫은 사람은 디코 나가주세요 | 멸망전 EP.2",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "33:45",
-            "view_count": "113140",
-            "thumbnail_url": "https://i.ytimg.com/vi/eMCOZa9StJo/hqdefault.jpg"
+            "duration": "24:14",
+            "view_count": "297408",
+            "thumbnail_url": "https://i.ytimg.com/vi/0ETTy276jaU/hqdefault.jpg"
         },
         {
             "video_id": "dglF9_PJqto",
@@ -169,8 +151,26 @@
             "channel_name": "RESCENE",
             "category": "Entertainment",
             "duration": "3:33",
-            "view_count": "96959",
+            "view_count": "98388",
             "thumbnail_url": "https://i.ytimg.com/vi/dglF9_PJqto/hqdefault.jpg"
+        },
+        {
+            "video_id": "eMCOZa9StJo",
+            "title": "저랑 팀하기 싫은 사람은 디코 나가주세요 | 멸망전 EP.2",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "33:45",
+            "view_count": "115460",
+            "thumbnail_url": "https://i.ytimg.com/vi/eMCOZa9StJo/hqdefault.jpg"
+        },
+        {
+            "video_id": "qSjjsGsqMFE",
+            "title": "MONSTER",
+            "channel_name": "Jin Ah Kwon - Topic",
+            "category": "Music",
+            "duration": "3:35",
+            "view_count": "53921",
+            "thumbnail_url": "https://i.ytimg.com/vi/qSjjsGsqMFE/hqdefault.jpg"
         },
         {
             "video_id": "v5RzInecF3E",
@@ -178,7 +178,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "12:35",
-            "view_count": "167559",
+            "view_count": "170849",
             "thumbnail_url": "https://i.ytimg.com/vi/v5RzInecF3E/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "BANG YEDAM - Topic",
             "category": "Music",
             "duration": "3:53",
-            "view_count": "75257",
+            "view_count": "76044",
             "thumbnail_url": "https://i.ytimg.com/vi/xMbpF72Wc8k/hqdefault.jpg"
         },
         {
@@ -196,26 +196,8 @@
             "channel_name": "정준홍",
             "category": "Gaming",
             "duration": "11:15",
-            "view_count": "98894",
+            "view_count": "99960",
             "thumbnail_url": "https://i.ytimg.com/vi/E48Wk5GDYkE/hqdefault.jpg"
-        },
-        {
-            "video_id": "1g9jXi8WY0I",
-            "title": "Sky Without Grudges",
-            "channel_name": "DannyHO - Topic",
-            "category": "Music",
-            "duration": "4:30",
-            "view_count": "237770",
-            "thumbnail_url": "https://i.ytimg.com/vi/1g9jXi8WY0I/hqdefault.jpg"
-        },
-        {
-            "video_id": "FOJTnH0DY2A",
-            "title": "오늘 팀 확정 내겠습니다 \"그래서 제 선택은요..\" | 멸망전 EP.03",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "49:12",
-            "view_count": "73424",
-            "thumbnail_url": "https://i.ytimg.com/vi/FOJTnH0DY2A/hqdefault.jpg"
         },
         {
             "video_id": "Ot1wUyuE3Vo",
@@ -223,8 +205,26 @@
             "channel_name": "idntt",
             "category": "Entertainment",
             "duration": "3:12",
-            "view_count": "5904147",
+            "view_count": "5947193",
             "thumbnail_url": "https://i.ytimg.com/vi/Ot1wUyuE3Vo/hqdefault.jpg"
+        },
+        {
+            "video_id": "FOJTnH0DY2A",
+            "title": "오늘 팀 확정 내겠습니다 \"그래서 제 선택은요..\" | 멸망전 EP.03",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "49:12",
+            "view_count": "74379",
+            "thumbnail_url": "https://i.ytimg.com/vi/FOJTnH0DY2A/hqdefault.jpg"
+        },
+        {
+            "video_id": "1g9jXi8WY0I",
+            "title": "Sky Without Grudges",
+            "channel_name": "DannyHO - Topic",
+            "category": "Music",
+            "duration": "4:30",
+            "view_count": "242439",
+            "thumbnail_url": "https://i.ytimg.com/vi/1g9jXi8WY0I/hqdefault.jpg"
         },
         {
             "video_id": "jOR4kOdVrmE",
@@ -232,7 +232,7 @@
             "channel_name": "feviknight 페비나이트",
             "category": "Gaming",
             "duration": "6:59:47",
-            "view_count": "93485",
+            "view_count": "93674",
             "thumbnail_url": "https://i.ytimg.com/vi/jOR4kOdVrmE/hqdefault.jpg"
         },
         {
@@ -241,7 +241,7 @@
             "channel_name": "LEE YEJOON - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "476734",
+            "view_count": "478355",
             "thumbnail_url": "https://i.ytimg.com/vi/Q0OzS0cKuwc/hqdefault.jpg"
         },
         {
@@ -250,7 +250,7 @@
             "channel_name": "우주하마",
             "category": "Gaming",
             "duration": "17:41",
-            "view_count": "150948",
+            "view_count": "152059",
             "thumbnail_url": "https://i.ytimg.com/vi/qAXEK0Qo5og/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "Jeong Dong Won - Topic",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "39672",
+            "view_count": "40085",
             "thumbnail_url": "https://i.ytimg.com/vi/4iRThhHVlT4/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "카사딘하는사람",
             "category": "Gaming",
             "duration": "30:08",
-            "view_count": "95676",
+            "view_count": "96610",
             "thumbnail_url": "https://i.ytimg.com/vi/kXnniuq2QmM/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "SYSTEM SEOUL - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "43780",
+            "view_count": "44053",
             "thumbnail_url": "https://i.ytimg.com/vi/DQcBKGBd_3c/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "러끼",
             "category": "Gaming",
             "duration": "14:20",
-            "view_count": "86960",
+            "view_count": "88565",
             "thumbnail_url": "https://i.ytimg.com/vi/rlBF4MvGhSk/hqdefault.jpg"
         },
         {
@@ -295,26 +295,8 @@
             "channel_name": "Yountoven - Topic",
             "category": "Music",
             "duration": "3:24",
-            "view_count": "363182",
+            "view_count": "364165",
             "thumbnail_url": "https://i.ytimg.com/vi/Ur-UnLEKitc/hqdefault.jpg"
-        },
-        {
-            "video_id": "QUK5CBqgamQ",
-            "title": "설거지 1위 '뽀득뽀득소마' 본섭 시작ㅋㅋㅋ",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "11:14",
-            "view_count": "98476",
-            "thumbnail_url": "https://i.ytimg.com/vi/QUK5CBqgamQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "vFkk31GES1A",
-            "title": "Spark!",
-            "channel_name": "Kim Suyoung - Topic",
-            "category": "Music",
-            "duration": "4:08",
-            "view_count": "22311",
-            "thumbnail_url": "https://i.ytimg.com/vi/vFkk31GES1A/hqdefault.jpg"
         },
         {
             "video_id": "0I4LR-5kbcI",
@@ -322,8 +304,26 @@
             "channel_name": "샤코타임 Shacotime",
             "category": "Gaming",
             "duration": "21:05",
-            "view_count": "73272",
+            "view_count": "77643",
             "thumbnail_url": "https://i.ytimg.com/vi/0I4LR-5kbcI/hqdefault.jpg"
+        },
+        {
+            "video_id": "vFkk31GES1A",
+            "title": "Spark!",
+            "channel_name": "Kim Suyoung - Topic",
+            "category": "Music",
+            "duration": "4:08",
+            "view_count": "22423",
+            "thumbnail_url": "https://i.ytimg.com/vi/vFkk31GES1A/hqdefault.jpg"
+        },
+        {
+            "video_id": "QUK5CBqgamQ",
+            "title": "설거지 1위 '뽀득뽀득소마' 본섭 시작ㅋㅋㅋ",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "11:14",
+            "view_count": "100120",
+            "thumbnail_url": "https://i.ytimg.com/vi/QUK5CBqgamQ/hqdefault.jpg"
         },
         {
             "video_id": "9hY5yk2UAHE",
@@ -331,7 +331,7 @@
             "channel_name": "Mad Clown - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "71696",
+            "view_count": "72108",
             "thumbnail_url": "https://i.ytimg.com/vi/9hY5yk2UAHE/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "33:58",
-            "view_count": "96460",
+            "view_count": "97471",
             "thumbnail_url": "https://i.ytimg.com/vi/PUKXqnvu1bA/hqdefault.jpg"
         },
         {
@@ -349,26 +349,8 @@
             "channel_name": "성시경 SUNG SI KYUNG",
             "category": "Entertainment",
             "duration": "5:44",
-            "view_count": "339641",
+            "view_count": "340362",
             "thumbnail_url": "https://i.ytimg.com/vi/yQzOepuv_xI/hqdefault.jpg"
-        },
-        {
-            "video_id": "r6KMhPUROyM",
-            "title": "EWC 2026 — League of Legends Group Stage [DAY 2 - JDG vs MIBR - Stream B]",
-            "channel_name": "OPLOLReplay",
-            "category": "Gaming",
-            "duration": "5:20:42",
-            "view_count": "157599",
-            "thumbnail_url": "https://i.ytimg.com/vi/r6KMhPUROyM/hqdefault.jpg"
-        },
-        {
-            "video_id": "y5iH53UJTy0",
-            "title": "심장 무너 지는 노래",
-            "channel_name": "Kim suhud - Topic",
-            "category": "Music",
-            "duration": "5:08",
-            "view_count": "54102",
-            "thumbnail_url": "https://i.ytimg.com/vi/y5iH53UJTy0/hqdefault.jpg"
         },
         {
             "video_id": "v2qVE-lRq3A",
@@ -376,8 +358,26 @@
             "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
             "duration": "19:21",
-            "view_count": "69435",
+            "view_count": "72649",
             "thumbnail_url": "https://i.ytimg.com/vi/v2qVE-lRq3A/hqdefault.jpg"
+        },
+        {
+            "video_id": "9GwwZLH2VYU",
+            "title": "OHYUL of LNGSHOT - 'Thinking Out Loud' (원곡: Ed Sheeran) | 4SHOCOVER",
+            "channel_name": "LNGSHOT",
+            "category": "Music",
+            "duration": "2:18",
+            "view_count": "178824",
+            "thumbnail_url": "https://i.ytimg.com/vi/9GwwZLH2VYU/hqdefault.jpg"
+        },
+        {
+            "video_id": "r6KMhPUROyM",
+            "title": "EWC 2026 — League of Legends Group Stage [DAY 2 - JDG vs MIBR - Stream B]",
+            "channel_name": "OPLOLReplay",
+            "category": "Gaming",
+            "duration": "5:20:42",
+            "view_count": "157674",
+            "thumbnail_url": "https://i.ytimg.com/vi/r6KMhPUROyM/hqdefault.jpg"
         }
     ]
 }
