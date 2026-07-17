@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-07-17 22:43:19",
+    "scraped_time": "2026-07-18 00:15:22",
     "videos": [
         {
             "video_id": "AFpImN9O4bY",
@@ -7,7 +7,7 @@
             "channel_name": "하예일기장",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "208495",
+            "view_count": "215173",
             "thumbnail_url": "https://i.ytimg.com/vi/AFpImN9O4bY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "27:27",
-            "view_count": "304838",
+            "view_count": "352142",
             "thumbnail_url": "https://i.ytimg.com/vi/OBy0fi86A8g/hqdefault.jpg"
         },
         {
@@ -25,26 +25,8 @@
             "channel_name": "HWASA",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "1420157",
+            "view_count": "1511207",
             "thumbnail_url": "https://i.ytimg.com/vi/GnSaLQTrvt0/hqdefault.jpg"
-        },
-        {
-            "video_id": "S2XGH9Mz0Fw",
-            "title": "라꼬숟과 정통 원딜",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "20:11",
-            "view_count": "340425",
-            "thumbnail_url": "https://i.ytimg.com/vi/S2XGH9Mz0Fw/hqdefault.jpg"
-        },
-        {
-            "video_id": "5ZLMJyoJIsk",
-            "title": "BTS (방탄소년단) ‘NORMAL’ Official Teaser",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "0:21",
-            "view_count": "3937392",
-            "thumbnail_url": "https://i.ytimg.com/vi/5ZLMJyoJIsk/hqdefault.jpg"
         },
         {
             "video_id": "RvrMrXaoegc",
@@ -52,8 +34,26 @@
             "channel_name": "윤가놈",
             "category": "Gaming",
             "duration": "19:14",
-            "view_count": "115776",
+            "view_count": "146592",
             "thumbnail_url": "https://i.ytimg.com/vi/RvrMrXaoegc/hqdefault.jpg"
+        },
+        {
+            "video_id": "5ZLMJyoJIsk",
+            "title": "BTS (방탄소년단) ‘NORMAL’ Official Teaser",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "0:21",
+            "view_count": "4036852",
+            "thumbnail_url": "https://i.ytimg.com/vi/5ZLMJyoJIsk/hqdefault.jpg"
+        },
+        {
+            "video_id": "S2XGH9Mz0Fw",
+            "title": "라꼬숟과 정통 원딜",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "20:11",
+            "view_count": "347654",
+            "thumbnail_url": "https://i.ytimg.com/vi/S2XGH9Mz0Fw/hqdefault.jpg"
         },
         {
             "video_id": "ZNnzzLyMYK0",
@@ -61,7 +61,7 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:59",
-            "view_count": "155006",
+            "view_count": "166517",
             "thumbnail_url": "https://i.ytimg.com/vi/ZNnzzLyMYK0/hqdefault.jpg"
         },
         {
@@ -70,8 +70,26 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "41:09",
-            "view_count": "209679",
+            "view_count": "212278",
             "thumbnail_url": "https://i.ytimg.com/vi/Yomnm2bSz6w/hqdefault.jpg"
+        },
+        {
+            "video_id": "uV-PoNLiFCI",
+            "title": "산들 Sandeul - 뭐라할까 What to say Official M/V",
+            "channel_name": "GENIE MUSIC",
+            "category": "Music",
+            "duration": "4:14",
+            "view_count": "17370",
+            "thumbnail_url": "https://i.ytimg.com/vi/uV-PoNLiFCI/hqdefault.jpg"
+        },
+        {
+            "video_id": "6c7lM3E2BFk",
+            "title": "난쟁이 도둑",
+            "channel_name": "이도원",
+            "category": "Gaming",
+            "duration": "40:11",
+            "view_count": "119413",
+            "thumbnail_url": "https://i.ytimg.com/vi/6c7lM3E2BFk/hqdefault.jpg"
         },
         {
             "video_id": "XnFkB8UBF7Q",
@@ -79,8 +97,26 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "3:11",
-            "view_count": "96095",
+            "view_count": "99907",
             "thumbnail_url": "https://i.ytimg.com/vi/XnFkB8UBF7Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "qTsebf5DmQw",
+            "title": "FS vs NS / KRX vs DFM - VCT 퍼시픽 - 스테이지 2 - 그룹 스테이지 - Day 2",
+            "channel_name": "발로란트 챔피언스 투어",
+            "category": "Gaming",
+            "duration": "6:44:49",
+            "view_count": "147204",
+            "thumbnail_url": "https://i.ytimg.com/vi/qTsebf5DmQw/hqdefault.jpg"
+        },
+        {
+            "video_id": "1K9uyj-o1bQ",
+            "title": "이민혁 (HUTA) 'Icy & Spicy' MV",
+            "channel_name": "1theK (원더케이)",
+            "category": "Music",
+            "duration": "2:45",
+            "view_count": "123710",
+            "thumbnail_url": "https://i.ytimg.com/vi/1K9uyj-o1bQ/hqdefault.jpg"
         },
         {
             "video_id": "uGCxABN1cac",
@@ -88,7 +124,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "54:40",
-            "view_count": "178904",
+            "view_count": "182361",
             "thumbnail_url": "https://i.ytimg.com/vi/uGCxABN1cac/hqdefault.jpg"
         },
         {
@@ -97,35 +133,17 @@
             "channel_name": "Jin Ah Kwon - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "76253",
+            "view_count": "77677",
             "thumbnail_url": "https://i.ytimg.com/vi/qSjjsGsqMFE/hqdefault.jpg"
         },
         {
-            "video_id": "6c7lM3E2BFk",
-            "title": "난쟁이 도둑",
-            "channel_name": "이도원",
+            "video_id": "OE2_Ge19FPA",
+            "title": "무섭노.. 조명부터 무섭노.. [돈 플레이 디스]",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "40:11",
-            "view_count": "98297",
-            "thumbnail_url": "https://i.ytimg.com/vi/6c7lM3E2BFk/hqdefault.jpg"
-        },
-        {
-            "video_id": "1K9uyj-o1bQ",
-            "title": "이민혁 (HUTA) 'Icy & Spicy' MV",
-            "channel_name": "1theK (원더케이)",
-            "category": "Music",
-            "duration": "2:45",
-            "view_count": "119893",
-            "thumbnail_url": "https://i.ytimg.com/vi/1K9uyj-o1bQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "M4WGiIRcO0c",
-            "title": "\"IAM 최고 아웃풋\" 에피나 첫 경기부터 증명했습니다. [GEN vs ZETA]",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "48:29",
-            "view_count": "179008",
-            "thumbnail_url": "https://i.ytimg.com/vi/M4WGiIRcO0c/hqdefault.jpg"
+            "duration": "29:08",
+            "view_count": "114942",
+            "thumbnail_url": "https://i.ytimg.com/vi/OE2_Ge19FPA/hqdefault.jpg"
         },
         {
             "video_id": "eyAEyOsj2y4",
@@ -133,17 +151,17 @@
             "channel_name": "SUNMI - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "122005",
+            "view_count": "123852",
             "thumbnail_url": "https://i.ytimg.com/vi/eyAEyOsj2y4/hqdefault.jpg"
         },
         {
-            "video_id": "tCbej9Ix_rU",
-            "title": "거대 왁뿌볼 5000개 부수기! 행벅ㅜㅜ",
-            "channel_name": "흔한남매",
-            "category": "Entertainment",
-            "duration": "22:43",
-            "view_count": "102449",
-            "thumbnail_url": "https://i.ytimg.com/vi/tCbej9Ix_rU/hqdefault.jpg"
+            "video_id": "M4WGiIRcO0c",
+            "title": "\"IAM 최고 아웃풋\" 에피나 첫 경기부터 증명했습니다. [GEN vs ZETA]",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "48:29",
+            "view_count": "182056",
+            "thumbnail_url": "https://i.ytimg.com/vi/M4WGiIRcO0c/hqdefault.jpg"
         },
         {
             "video_id": "0kFht_Ckh1U",
@@ -151,26 +169,62 @@
             "channel_name": "청나음악",
             "category": "Music",
             "duration": "5:57",
-            "view_count": "18053",
+            "view_count": "18803",
             "thumbnail_url": "https://i.ytimg.com/vi/0kFht_Ckh1U/hqdefault.jpg"
         },
         {
-            "video_id": "eMCOZa9StJo",
-            "title": "저랑 팀하기 싫은 사람은 디코 나가주세요 | 멸망전 EP.2",
-            "channel_name": "클리드",
+            "video_id": "v0cYKnAwYfo",
+            "title": "\"틱레이트 1000\" 스카이블럭 드래곤 잡기",
+            "channel_name": "이루의 마인크래프트",
             "category": "Gaming",
-            "duration": "33:45",
-            "view_count": "164442",
-            "thumbnail_url": "https://i.ytimg.com/vi/eMCOZa9StJo/hqdefault.jpg"
+            "duration": "33:11",
+            "view_count": "69956",
+            "thumbnail_url": "https://i.ytimg.com/vi/v0cYKnAwYfo/hqdefault.jpg"
         },
         {
-            "video_id": "uV-PoNLiFCI",
-            "title": "산들 Sandeul - 뭐라할까 What to say Official M/V",
-            "channel_name": "GENIE MUSIC",
+            "video_id": "leEfApehoXs",
+            "title": "MASTERNI - Durgesh Thapa,Babina Kiratee/Priyanka Karki,Aaryan Sigdel,Ayushman Joshi/Films song 2026",
+            "channel_name": "Durgesh Thapa",
+            "category": "Entertainment",
+            "duration": "4:47",
+            "view_count": "1410710",
+            "thumbnail_url": "https://i.ytimg.com/vi/leEfApehoXs/hqdefault.jpg"
+        },
+        {
+            "video_id": "tCbej9Ix_rU",
+            "title": "거대 왁뿌볼 5000개 부수기! 행벅ㅜㅜ",
+            "channel_name": "흔한남매",
+            "category": "Entertainment",
+            "duration": "22:43",
+            "view_count": "117303",
+            "thumbnail_url": "https://i.ytimg.com/vi/tCbej9Ix_rU/hqdefault.jpg"
+        },
+        {
+            "video_id": "U-8XBE1y02o",
+            "title": "It's Strange, With You",
+            "channel_name": "LEE BYEONGCHAN - Topic",
             "category": "Music",
-            "duration": "4:14",
-            "view_count": "11145",
-            "thumbnail_url": "https://i.ytimg.com/vi/uV-PoNLiFCI/hqdefault.jpg"
+            "duration": "4:07",
+            "view_count": "42860",
+            "thumbnail_url": "https://i.ytimg.com/vi/U-8XBE1y02o/hqdefault.jpg"
+        },
+        {
+            "video_id": "4-3odYFTEb4",
+            "title": "너가 랭킹 8등이라고? 진짜 짜증나네 ㅋㅋ",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "20:34",
+            "view_count": "148529",
+            "thumbnail_url": "https://i.ytimg.com/vi/4-3odYFTEb4/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZWzO50OCbqs",
+            "title": "브브걸 (BBGIRLS) ⎮ 'BODY WAVE' Official M/V",
+            "channel_name": "브브걸 (BBGIRLS)",
+            "category": "Entertainment",
+            "duration": "2:52",
+            "view_count": "145869",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZWzO50OCbqs/hqdefault.jpg"
         },
         {
             "video_id": "eteB4OHwtY8",
@@ -178,7 +232,7 @@
             "channel_name": "스맵",
             "category": "Gaming",
             "duration": "43:45",
-            "view_count": "138828",
+            "view_count": "141751",
             "thumbnail_url": "https://i.ytimg.com/vi/eteB4OHwtY8/hqdefault.jpg"
         },
         {
@@ -187,62 +241,8 @@
             "channel_name": "BANG YEDAM - Topic",
             "category": "Music",
             "duration": "3:53",
-            "view_count": "99897",
+            "view_count": "101575",
             "thumbnail_url": "https://i.ytimg.com/vi/xMbpF72Wc8k/hqdefault.jpg"
-        },
-        {
-            "video_id": "OE2_Ge19FPA",
-            "title": "무섭노.. 조명부터 무섭노.. [돈 플레이 디스]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "29:08",
-            "view_count": "88936",
-            "thumbnail_url": "https://i.ytimg.com/vi/OE2_Ge19FPA/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZWzO50OCbqs",
-            "title": "브브걸 (BBGIRLS) ⎮ 'BODY WAVE' Official M/V",
-            "channel_name": "브브걸 (BBGIRLS)",
-            "category": "Entertainment",
-            "duration": "2:52",
-            "view_count": "136352",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZWzO50OCbqs/hqdefault.jpg"
-        },
-        {
-            "video_id": "3nLMycUTSqQ",
-            "title": "Maple Now | 김창섭 디렉터 (26.07.16)",
-            "channel_name": "메이플스토리",
-            "category": "Gaming",
-            "duration": "1:41:07",
-            "view_count": "165121",
-            "thumbnail_url": "https://i.ytimg.com/vi/3nLMycUTSqQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "U-8XBE1y02o",
-            "title": "It's Strange, With You",
-            "channel_name": "LEE BYEONGCHAN - Topic",
-            "category": "Music",
-            "duration": "4:07",
-            "view_count": "39231",
-            "thumbnail_url": "https://i.ytimg.com/vi/U-8XBE1y02o/hqdefault.jpg"
-        },
-        {
-            "video_id": "SjJoEyDKqeU",
-            "title": "LimbusCompany [000] LCE E.G.O::차원찢개 이상 /  E.G.O 5단계 환상 해석 개방",
-            "channel_name": "ProjectMoon Official",
-            "category": "Gaming",
-            "duration": "1:59",
-            "view_count": "236984",
-            "thumbnail_url": "https://i.ytimg.com/vi/SjJoEyDKqeU/hqdefault.jpg"
-        },
-        {
-            "video_id": "leEfApehoXs",
-            "title": "MASTERNI - Durgesh Thapa,Babina Kiratee/Priyanka Karki,Aaryan Sigdel,Ayushman Joshi/Films song 2026",
-            "channel_name": "Durgesh Thapa",
-            "category": "Entertainment",
-            "duration": "4:47",
-            "view_count": "1340674",
-            "thumbnail_url": "https://i.ytimg.com/vi/leEfApehoXs/hqdefault.jpg"
         },
         {
             "video_id": "cpKvsktrN-c",
@@ -250,7 +250,7 @@
             "channel_name": "자몽티비",
             "category": "Gaming",
             "duration": "14:28",
-            "view_count": "62094",
+            "view_count": "73610",
             "thumbnail_url": "https://i.ytimg.com/vi/cpKvsktrN-c/hqdefault.jpg"
         },
         {
@@ -259,17 +259,17 @@
             "channel_name": "idntt",
             "category": "Entertainment",
             "duration": "3:12",
-            "view_count": "9985620",
+            "view_count": "10419249",
             "thumbnail_url": "https://i.ytimg.com/vi/Ot1wUyuE3Vo/hqdefault.jpg"
         },
         {
-            "video_id": "v5RzInecF3E",
-            "title": "메이플 하면서 역대급 억울한 일을 당했습니다... [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
+            "video_id": "eMCOZa9StJo",
+            "title": "저랑 팀하기 싫은 사람은 디코 나가주세요 | 멸망전 EP.2",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "12:35",
-            "view_count": "217104",
-            "thumbnail_url": "https://i.ytimg.com/vi/v5RzInecF3E/hqdefault.jpg"
+            "duration": "33:45",
+            "view_count": "166100",
+            "thumbnail_url": "https://i.ytimg.com/vi/eMCOZa9StJo/hqdefault.jpg"
         },
         {
             "video_id": "4iRThhHVlT4",
@@ -277,17 +277,17 @@
             "channel_name": "Jeong Dong Won - Topic",
             "category": "Music",
             "duration": "4:00",
-            "view_count": "52288",
+            "view_count": "53774",
             "thumbnail_url": "https://i.ytimg.com/vi/4iRThhHVlT4/hqdefault.jpg"
         },
         {
-            "video_id": "4-3odYFTEb4",
-            "title": "너가 랭킹 8등이라고? 진짜 짜증나네 ㅋㅋ",
-            "channel_name": "이상호",
+            "video_id": "SjJoEyDKqeU",
+            "title": "LimbusCompany [000] LCE E.G.O::차원찢개 이상 /  E.G.O 5단계 환상 해석 개방",
+            "channel_name": "ProjectMoon Official",
             "category": "Gaming",
-            "duration": "20:34",
-            "view_count": "122076",
-            "thumbnail_url": "https://i.ytimg.com/vi/4-3odYFTEb4/hqdefault.jpg"
+            "duration": "1:59",
+            "view_count": "282518",
+            "thumbnail_url": "https://i.ytimg.com/vi/SjJoEyDKqeU/hqdefault.jpg"
         },
         {
             "video_id": "6ldj6UCf2VY",
@@ -295,17 +295,17 @@
             "channel_name": "BTS - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "289975",
+            "view_count": "355607",
             "thumbnail_url": "https://i.ytimg.com/vi/6ldj6UCf2VY/hqdefault.jpg"
         },
         {
-            "video_id": "1r3DmVUVWAs",
-            "title": "아츠토츠카 개소리 모음집 42",
-            "channel_name": "아츠토츠카",
+            "video_id": "3nLMycUTSqQ",
+            "title": "Maple Now | 김창섭 디렉터 (26.07.16)",
+            "channel_name": "메이플스토리",
             "category": "Gaming",
-            "duration": "8:12",
-            "view_count": "123587",
-            "thumbnail_url": "https://i.ytimg.com/vi/1r3DmVUVWAs/hqdefault.jpg"
+            "duration": "1:41:07",
+            "view_count": "165476",
+            "thumbnail_url": "https://i.ytimg.com/vi/3nLMycUTSqQ/hqdefault.jpg"
         },
         {
             "video_id": "Q8C30AITzWA",
@@ -313,26 +313,8 @@
             "channel_name": "Y:SY - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "15411",
+            "view_count": "15851",
             "thumbnail_url": "https://i.ytimg.com/vi/Q8C30AITzWA/hqdefault.jpg"
-        },
-        {
-            "video_id": "v0cYKnAwYfo",
-            "title": "\"틱레이트 1000\" 스카이블럭 드래곤 잡기",
-            "channel_name": "이루의 마인크래프트",
-            "category": "Gaming",
-            "duration": "33:11",
-            "view_count": "52623",
-            "thumbnail_url": "https://i.ytimg.com/vi/v0cYKnAwYfo/hqdefault.jpg"
-        },
-        {
-            "video_id": "rxEwUEC2jXM",
-            "title": "I'M BAD",
-            "channel_name": "KIMMUSEUM - Topic",
-            "category": "Music",
-            "duration": "3:02",
-            "view_count": "18621",
-            "thumbnail_url": "https://i.ytimg.com/vi/rxEwUEC2jXM/hqdefault.jpg"
         },
         {
             "video_id": "C5icJDtcJ3U",
@@ -340,8 +322,44 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "1:50:48",
-            "view_count": "76392",
+            "view_count": "83875",
             "thumbnail_url": "https://i.ytimg.com/vi/C5icJDtcJ3U/hqdefault.jpg"
+        },
+        {
+            "video_id": "rxEwUEC2jXM",
+            "title": "I'M BAD",
+            "channel_name": "KIMMUSEUM - Topic",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "19126",
+            "thumbnail_url": "https://i.ytimg.com/vi/rxEwUEC2jXM/hqdefault.jpg"
+        },
+        {
+            "video_id": "1r3DmVUVWAs",
+            "title": "아츠토츠카 개소리 모음집 42",
+            "channel_name": "아츠토츠카",
+            "category": "Gaming",
+            "duration": "8:12",
+            "view_count": "130089",
+            "thumbnail_url": "https://i.ytimg.com/vi/1r3DmVUVWAs/hqdefault.jpg"
+        },
+        {
+            "video_id": "D7kzSaRnnD4",
+            "title": "fromis_9 (프로미스나인) 'Glow ME' HIGHLIGHT MEDLEY",
+            "channel_name": "fromis_9",
+            "category": "Music",
+            "duration": "3:22",
+            "view_count": "28637",
+            "thumbnail_url": "https://i.ytimg.com/vi/D7kzSaRnnD4/hqdefault.jpg"
+        },
+        {
+            "video_id": "v5RzInecF3E",
+            "title": "메이플 하면서 역대급 억울한 일을 당했습니다... [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "12:35",
+            "view_count": "219316",
+            "thumbnail_url": "https://i.ytimg.com/vi/v5RzInecF3E/hqdefault.jpg"
         },
         {
             "video_id": "DQcBKGBd_3c",
@@ -349,7 +367,7 @@
             "channel_name": "SYSTEM SEOUL - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "57636",
+            "view_count": "59103",
             "thumbnail_url": "https://i.ytimg.com/vi/DQcBKGBd_3c/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "샤코타임 Shacotime",
             "category": "Gaming",
             "duration": "21:05",
-            "view_count": "133464",
+            "view_count": "135802",
             "thumbnail_url": "https://i.ytimg.com/vi/0I4LR-5kbcI/hqdefault.jpg"
-        },
-        {
-            "video_id": "1g9jXi8WY0I",
-            "title": "Sky Without Grudges",
-            "channel_name": "DannyHO - Topic",
-            "category": "Music",
-            "duration": "4:30",
-            "view_count": "290909",
-            "thumbnail_url": "https://i.ytimg.com/vi/1g9jXi8WY0I/hqdefault.jpg"
-        },
-        {
-            "video_id": "BWoB_IC4Z_A",
-            "title": "GEN vs ZETA / TS vs VL - VCT 퍼시픽 - 스테이지 2 - 그룹 스테이지 - Day 1",
-            "channel_name": "발로란트 챔피언스 투어",
-            "category": "Gaming",
-            "duration": "7:17:51",
-            "view_count": "251617",
-            "thumbnail_url": "https://i.ytimg.com/vi/BWoB_IC4Z_A/hqdefault.jpg"
         }
     ]
 }
