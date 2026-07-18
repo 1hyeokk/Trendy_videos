@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-07-19 00:59:45",
+    "scraped_time": "2026-07-19 02:06:56",
     "videos": [
         {
             "video_id": "VNLUaTxDs_4",
@@ -7,7 +7,7 @@
             "channel_name": "HEEDAE - Topic",
             "category": "Music",
             "duration": "2:35",
-            "view_count": "71576",
+            "view_count": "78796",
             "thumbnail_url": "https://i.ytimg.com/vi/VNLUaTxDs_4/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Dramatic Drama",
             "category": "Film & Animation",
             "duration": "9:25",
-            "view_count": "90475",
+            "view_count": "92156",
             "thumbnail_url": "https://i.ytimg.com/vi/8hCj0Auu2Bw/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "27:27",
-            "view_count": "641040",
+            "view_count": "649749",
             "thumbnail_url": "https://i.ytimg.com/vi/OBy0fi86A8g/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "3:32",
-            "view_count": "98638",
+            "view_count": "119968",
             "thumbnail_url": "https://i.ytimg.com/vi/kH_wiFwqpXA/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "일상톡톡",
             "category": "Film & Animation",
             "duration": "10:36",
-            "view_count": "13663",
+            "view_count": "13977",
             "thumbnail_url": "https://i.ytimg.com/vi/VdztlbJM4Ao/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "갱맘 GBM",
             "category": "Gaming",
             "duration": "37:24",
-            "view_count": "276950",
+            "view_count": "287519",
             "thumbnail_url": "https://i.ytimg.com/vi/AeTP4Mnc4Zs/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "하예일기장",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "289890",
+            "view_count": "292919",
             "thumbnail_url": "https://i.ytimg.com/vi/AFpImN9O4bY/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "29:09",
-            "view_count": "155048",
+            "view_count": "175012",
             "thumbnail_url": "https://i.ytimg.com/vi/Ym99HZSRvIU/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "GENIE MUSIC",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "71751",
+            "view_count": "74326",
             "thumbnail_url": "https://i.ytimg.com/vi/uV-PoNLiFCI/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "43:00",
-            "view_count": "178522",
+            "view_count": "181072",
             "thumbnail_url": "https://i.ytimg.com/vi/Ku-7N4YvCeA/hqdefault.jpg"
         },
         {
@@ -97,17 +97,17 @@
             "channel_name": "HWASA",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "2228583",
+            "view_count": "2279036",
             "thumbnail_url": "https://i.ytimg.com/vi/GnSaLQTrvt0/hqdefault.jpg"
         },
         {
-            "video_id": "RvrMrXaoegc",
-            "title": "한 명 한 명이 대장급인 사천왕들 등장 : 4일차【봉켓몬】",
-            "channel_name": "윤가놈",
+            "video_id": "KHmpQp01FMQ",
+            "title": "RRQ vs GE / PRX vs T1 - VCT 퍼시픽 - 스테이지 2 - 그룹 스테이지 - Day 3",
+            "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
-            "duration": "19:14",
-            "view_count": "285247",
-            "thumbnail_url": "https://i.ytimg.com/vi/RvrMrXaoegc/hqdefault.jpg"
+            "duration": "7:22:50",
+            "view_count": "217073",
+            "thumbnail_url": "https://i.ytimg.com/vi/KHmpQp01FMQ/hqdefault.jpg"
         },
         {
             "video_id": "U-8XBE1y02o",
@@ -115,8 +115,17 @@
             "channel_name": "LEE BYEONGCHAN - Topic",
             "category": "Music",
             "duration": "4:07",
-            "view_count": "96300",
+            "view_count": "98651",
             "thumbnail_url": "https://i.ytimg.com/vi/U-8XBE1y02o/hqdefault.jpg"
+        },
+        {
+            "video_id": "RvrMrXaoegc",
+            "title": "한 명 한 명이 대장급인 사천왕들 등장 : 4일차【봉켓몬】",
+            "channel_name": "윤가놈",
+            "category": "Gaming",
+            "duration": "19:14",
+            "view_count": "287613",
+            "thumbnail_url": "https://i.ytimg.com/vi/RvrMrXaoegc/hqdefault.jpg"
         },
         {
             "video_id": "ZNnzzLyMYK0",
@@ -124,17 +133,17 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:59",
-            "view_count": "239528",
+            "view_count": "242526",
             "thumbnail_url": "https://i.ytimg.com/vi/ZNnzzLyMYK0/hqdefault.jpg"
         },
         {
-            "video_id": "6c7lM3E2BFk",
-            "title": "난쟁이 도둑",
-            "channel_name": "이도원",
+            "video_id": "aK5wqLPg8aE",
+            "title": "MZ 원딜",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "40:11",
-            "view_count": "263941",
-            "thumbnail_url": "https://i.ytimg.com/vi/6c7lM3E2BFk/hqdefault.jpg"
+            "duration": "25:49",
+            "view_count": "111073",
+            "thumbnail_url": "https://i.ytimg.com/vi/aK5wqLPg8aE/hqdefault.jpg"
         },
         {
             "video_id": "5ZLMJyoJIsk",
@@ -142,7 +151,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "0:21",
-            "view_count": "4596074",
+            "view_count": "4612945",
             "thumbnail_url": "https://i.ytimg.com/vi/5ZLMJyoJIsk/hqdefault.jpg"
         },
         {
@@ -151,7 +160,7 @@
             "channel_name": "웃소 Wootso",
             "category": "Entertainment",
             "duration": "22:42",
-            "view_count": "71900",
+            "view_count": "82979",
             "thumbnail_url": "https://i.ytimg.com/vi/XMcCN0R_Ifk/hqdefault.jpg"
         },
         {
@@ -160,7 +169,7 @@
             "channel_name": "NCT WISH",
             "category": "Music",
             "duration": "3:45",
-            "view_count": "180023",
+            "view_count": "183125",
             "thumbnail_url": "https://i.ytimg.com/vi/-Dnmyrk0uxI/hqdefault.jpg"
         },
         {
@@ -169,7 +178,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "11:29",
-            "view_count": "143660",
+            "view_count": "158542",
             "thumbnail_url": "https://i.ytimg.com/vi/INlxaNCx56g/hqdefault.jpg"
         },
         {
@@ -178,17 +187,17 @@
             "channel_name": "BBGIRLS - Topic",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "57204",
+            "view_count": "58351",
             "thumbnail_url": "https://i.ytimg.com/vi/QYAf1NR4Vmk/hqdefault.jpg"
         },
         {
-            "video_id": "v0cYKnAwYfo",
-            "title": "\"틱레이트 1000\" 스카이블럭 드래곤 잡기",
-            "channel_name": "이루의 마인크래프트",
+            "video_id": "6c7lM3E2BFk",
+            "title": "난쟁이 도둑",
+            "channel_name": "이도원",
             "category": "Gaming",
-            "duration": "33:11",
-            "view_count": "186528",
-            "thumbnail_url": "https://i.ytimg.com/vi/v0cYKnAwYfo/hqdefault.jpg"
+            "duration": "40:11",
+            "view_count": "268518",
+            "thumbnail_url": "https://i.ytimg.com/vi/6c7lM3E2BFk/hqdefault.jpg"
         },
         {
             "video_id": "pJDpg0X47FM",
@@ -196,17 +205,17 @@
             "channel_name": "GIRLSET - Topic",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "78665",
+            "view_count": "81614",
             "thumbnail_url": "https://i.ytimg.com/vi/pJDpg0X47FM/hqdefault.jpg"
         },
         {
-            "video_id": "OE2_Ge19FPA",
-            "title": "무섭노.. 조명부터 무섭노.. [돈 플레이 디스]",
-            "channel_name": "말왕TV",
+            "video_id": "v0cYKnAwYfo",
+            "title": "\"틱레이트 1000\" 스카이블럭 드래곤 잡기",
+            "channel_name": "이루의 마인크래프트",
             "category": "Gaming",
-            "duration": "29:08",
-            "view_count": "274587",
-            "thumbnail_url": "https://i.ytimg.com/vi/OE2_Ge19FPA/hqdefault.jpg"
+            "duration": "33:11",
+            "view_count": "189669",
+            "thumbnail_url": "https://i.ytimg.com/vi/v0cYKnAwYfo/hqdefault.jpg"
         },
         {
             "video_id": "0kFht_Ckh1U",
@@ -214,8 +223,26 @@
             "channel_name": "청나음악",
             "category": "Music",
             "duration": "5:57",
-            "view_count": "28807",
+            "view_count": "29338",
             "thumbnail_url": "https://i.ytimg.com/vi/0kFht_Ckh1U/hqdefault.jpg"
+        },
+        {
+            "video_id": "OE2_Ge19FPA",
+            "title": "무섭노.. 조명부터 무섭노.. [돈 플레이 디스]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "29:08",
+            "view_count": "278529",
+            "thumbnail_url": "https://i.ytimg.com/vi/OE2_Ge19FPA/hqdefault.jpg"
+        },
+        {
+            "video_id": "dglF9_PJqto",
+            "title": "RESCENE (리센느) 'Pretty Girl' Dance Practice",
+            "channel_name": "RESCENE",
+            "category": "Entertainment",
+            "duration": "3:33",
+            "view_count": "159646",
+            "thumbnail_url": "https://i.ytimg.com/vi/dglF9_PJqto/hqdefault.jpg"
         },
         {
             "video_id": "j9k-HIBJ_TU",
@@ -223,7 +250,7 @@
             "channel_name": "김블루",
             "category": "Gaming",
             "duration": "15:37",
-            "view_count": "58725",
+            "view_count": "70328",
             "thumbnail_url": "https://i.ytimg.com/vi/j9k-HIBJ_TU/hqdefault.jpg"
         },
         {
@@ -232,35 +259,17 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "162498",
+            "view_count": "164418",
             "thumbnail_url": "https://i.ytimg.com/vi/1K9uyj-o1bQ/hqdefault.jpg"
         },
         {
-            "video_id": "4-3odYFTEb4",
-            "title": "너가 랭킹 8등이라고? 진짜 짜증나네 ㅋㅋ",
-            "channel_name": "이상호",
+            "video_id": "DxMf5saKxnQ",
+            "title": "'멸망전 마지막 퍼즐' 김민교팀 정글 고르기",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "20:34",
-            "view_count": "339772",
-            "thumbnail_url": "https://i.ytimg.com/vi/4-3odYFTEb4/hqdefault.jpg"
-        },
-        {
-            "video_id": "dglF9_PJqto",
-            "title": "RESCENE (리센느) 'Pretty Girl' Dance Practice",
-            "channel_name": "RESCENE",
-            "category": "Entertainment",
-            "duration": "3:33",
-            "view_count": "157906",
-            "thumbnail_url": "https://i.ytimg.com/vi/dglF9_PJqto/hqdefault.jpg"
-        },
-        {
-            "video_id": "e9orNMmPySU",
-            "title": "알파고가 래더 3000점이라는 말을 듣고 방제까지 바꾸며 이겨줄 사람들을 모집하는 방장... 수많은 초고수들이 줄을 서며 지원하기 시작하는데!?",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "1:03:55",
-            "view_count": "68901",
-            "thumbnail_url": "https://i.ytimg.com/vi/e9orNMmPySU/hqdefault.jpg"
+            "duration": "38:22",
+            "view_count": "60284",
+            "thumbnail_url": "https://i.ytimg.com/vi/DxMf5saKxnQ/hqdefault.jpg"
         },
         {
             "video_id": "KuQwKoPq5gY",
@@ -268,17 +277,17 @@
             "channel_name": "화란사운드 | 보컬화란",
             "category": "Music",
             "duration": "3:48",
-            "view_count": "26809",
+            "view_count": "27288",
             "thumbnail_url": "https://i.ytimg.com/vi/KuQwKoPq5gY/hqdefault.jpg"
         },
         {
-            "video_id": "LuntdujWeM0",
-            "title": "드디어 집어 든 삽자루... \"저도 할 말이 있습니다\" | 멸망전 EP.05",
-            "channel_name": "스맵",
+            "video_id": "e9orNMmPySU",
+            "title": "알파고가 래더 3000점이라는 말을 듣고 방제까지 바꾸며 이겨줄 사람들을 모집하는 방장... 수많은 초고수들이 줄을 서며 지원하기 시작하는데!?",
+            "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
-            "duration": "53:23",
-            "view_count": "112164",
-            "thumbnail_url": "https://i.ytimg.com/vi/LuntdujWeM0/hqdefault.jpg"
+            "duration": "1:03:55",
+            "view_count": "80264",
+            "thumbnail_url": "https://i.ytimg.com/vi/e9orNMmPySU/hqdefault.jpg"
         },
         {
             "video_id": "qSjjsGsqMFE",
@@ -286,35 +295,17 @@
             "channel_name": "Jin Ah Kwon - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "97930",
+            "view_count": "98634",
             "thumbnail_url": "https://i.ytimg.com/vi/qSjjsGsqMFE/hqdefault.jpg"
         },
         {
-            "video_id": "S2XGH9Mz0Fw",
-            "title": "라꼬숟과 정통 원딜",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "AHxpQfcCnVU",
+            "title": "자~ 감스트 님 찾겠습니다",
+            "channel_name": "침착맨 플러스",
             "category": "Gaming",
-            "duration": "20:11",
-            "view_count": "418545",
-            "thumbnail_url": "https://i.ytimg.com/vi/S2XGH9Mz0Fw/hqdefault.jpg"
-        },
-        {
-            "video_id": "eyAEyOsj2y4",
-            "title": "Forever July",
-            "channel_name": "SUNMI - Topic",
-            "category": "Music",
-            "duration": "2:41",
-            "view_count": "150329",
-            "thumbnail_url": "https://i.ytimg.com/vi/eyAEyOsj2y4/hqdefault.jpg"
-        },
-        {
-            "video_id": "slXFhigk4qk",
-            "title": "키보드탈출에서 \"무과금\"으로 3세계까지 달려봤습니다! [+1 스피드 키보드 탈출]",
-            "channel_name": "마쟈TV",
-            "category": "Gaming",
-            "duration": "21:57",
-            "view_count": "68448",
-            "thumbnail_url": "https://i.ytimg.com/vi/slXFhigk4qk/hqdefault.jpg"
+            "duration": "25:40",
+            "view_count": "109894",
+            "thumbnail_url": "https://i.ytimg.com/vi/AHxpQfcCnVU/hqdefault.jpg"
         },
         {
             "video_id": "mlFhQCZ-Bkw",
@@ -322,17 +313,35 @@
             "channel_name": "비원",
             "category": "People & Blogs",
             "duration": "4:58",
-            "view_count": "3897",
+            "view_count": "4764",
             "thumbnail_url": "https://i.ytimg.com/vi/mlFhQCZ-Bkw/hqdefault.jpg"
         },
         {
-            "video_id": "ArZK1U7VjNc",
-            "title": "리니지 클래식 군업효과 +13싸울아비 장검 대미지 확인해볼게요",
-            "channel_name": "이문주",
+            "video_id": "gqb3mcTy0bc",
+            "title": "레전드 템뽑고 집 떠나가라 소리 지르기",
+            "channel_name": "킴성태TV",
             "category": "Gaming",
-            "duration": "9:26:08",
-            "view_count": "162245",
-            "thumbnail_url": "https://i.ytimg.com/vi/ArZK1U7VjNc/hqdefault.jpg"
+            "duration": "34:34",
+            "view_count": "58130",
+            "thumbnail_url": "https://i.ytimg.com/vi/gqb3mcTy0bc/hqdefault.jpg"
+        },
+        {
+            "video_id": "eyAEyOsj2y4",
+            "title": "Forever July",
+            "channel_name": "SUNMI - Topic",
+            "category": "Music",
+            "duration": "2:41",
+            "view_count": "151263",
+            "thumbnail_url": "https://i.ytimg.com/vi/eyAEyOsj2y4/hqdefault.jpg"
+        },
+        {
+            "video_id": "4-3odYFTEb4",
+            "title": "너가 랭킹 8등이라고? 진짜 짜증나네 ㅋㅋ",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "20:34",
+            "view_count": "344239",
+            "thumbnail_url": "https://i.ytimg.com/vi/4-3odYFTEb4/hqdefault.jpg"
         },
         {
             "video_id": "43F9dl8sBQU",
@@ -340,7 +349,7 @@
             "channel_name": "December - Topic",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "63672",
+            "view_count": "64136",
             "thumbnail_url": "https://i.ytimg.com/vi/43F9dl8sBQU/hqdefault.jpg"
         },
         {
@@ -349,7 +358,7 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "31:17",
-            "view_count": "90747",
+            "view_count": "98494",
             "thumbnail_url": "https://i.ytimg.com/vi/Ods9HdZwI48/hqdefault.jpg"
         },
         {
@@ -358,17 +367,17 @@
             "channel_name": "BANG YEDAM - Topic",
             "category": "Music",
             "duration": "3:53",
-            "view_count": "123102",
+            "view_count": "123900",
             "thumbnail_url": "https://i.ytimg.com/vi/xMbpF72Wc8k/hqdefault.jpg"
         },
         {
-            "video_id": "IqFVNOxTIro",
-            "title": "충격! 한화생명과 BLG 동시 탈락… T1 도란과 DK 쇼메이커가 완벽하게 부활했다고??",
-            "channel_name": "붐바야",
+            "video_id": "LuntdujWeM0",
+            "title": "드디어 집어 든 삽자루... \"저도 할 말이 있습니다\" | 멸망전 EP.05",
+            "channel_name": "스맵",
             "category": "Gaming",
-            "duration": "8:42",
-            "view_count": "123584",
-            "thumbnail_url": "https://i.ytimg.com/vi/IqFVNOxTIro/hqdefault.jpg"
+            "duration": "53:23",
+            "view_count": "112874",
+            "thumbnail_url": "https://i.ytimg.com/vi/LuntdujWeM0/hqdefault.jpg"
         }
     ]
 }
