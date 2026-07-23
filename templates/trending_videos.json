@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-07-23 11:56:44",
+    "scraped_time": "2026-07-23 15:06:05",
     "videos": [
         {
             "video_id": "sLk8zWUuYTA",
@@ -7,7 +7,7 @@
             "channel_name": "fromis_9",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "4712331",
+            "view_count": "5258048",
             "thumbnail_url": "https://i.ytimg.com/vi/sLk8zWUuYTA/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "2:35",
-            "view_count": "2060773",
+            "view_count": "2130594",
             "thumbnail_url": "https://i.ytimg.com/vi/0_1tNq4Isys/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "1:23:07",
-            "view_count": "247664",
+            "view_count": "269986",
             "thumbnail_url": "https://i.ytimg.com/vi/vYXCDUoiExI/hqdefault.jpg"
         },
         {
-            "video_id": "uh_DpK2xFiE",
-            "title": "피철인 (Picheolin) '미쳐 미쳐' Official MV",
-            "channel_name": "HYBE LABELS",
+            "video_id": "_cSciVF1FpY",
+            "title": "Please Summer!",
+            "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "3:02",
-            "view_count": "706438",
-            "thumbnail_url": "https://i.ytimg.com/vi/uh_DpK2xFiE/hqdefault.jpg"
+            "duration": "3:49",
+            "view_count": "69486",
+            "thumbnail_url": "https://i.ytimg.com/vi/_cSciVF1FpY/hqdefault.jpg"
         },
         {
             "video_id": "y5emGQPTVBA",
@@ -43,8 +43,35 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "12:20",
-            "view_count": "680554",
+            "view_count": "687302",
             "thumbnail_url": "https://i.ytimg.com/vi/y5emGQPTVBA/hqdefault.jpg"
+        },
+        {
+            "video_id": "s5mbvXLmcko",
+            "title": "드디어 맨유 버리고 팀갈 슈웃?",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "25:52",
+            "view_count": "337308",
+            "thumbnail_url": "https://i.ytimg.com/vi/s5mbvXLmcko/hqdefault.jpg"
+        },
+        {
+            "video_id": "uh_DpK2xFiE",
+            "title": "피철인 (Picheolin) '미쳐 미쳐' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "920693",
+            "thumbnail_url": "https://i.ytimg.com/vi/uh_DpK2xFiE/hqdefault.jpg"
+        },
+        {
+            "video_id": "KRarob7gwC4",
+            "title": "[스파이더맨: 브랜드 뉴 데이] 파이널 예고편",
+            "channel_name": "소니픽쳐스코리아",
+            "category": "Film & Animation",
+            "duration": "2:31",
+            "view_count": "766999",
+            "thumbnail_url": "https://i.ytimg.com/vi/KRarob7gwC4/hqdefault.jpg"
         },
         {
             "video_id": "bigvTBKPtpE",
@@ -52,7 +79,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "21:22",
-            "view_count": "242307",
+            "view_count": "260357",
             "thumbnail_url": "https://i.ytimg.com/vi/bigvTBKPtpE/hqdefault.jpg"
         },
         {
@@ -61,35 +88,8 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "3:47",
-            "view_count": "351436",
+            "view_count": "377124",
             "thumbnail_url": "https://i.ytimg.com/vi/7LjFAoWvsbE/hqdefault.jpg"
-        },
-        {
-            "video_id": "KRarob7gwC4",
-            "title": "[스파이더맨: 브랜드 뉴 데이] 파이널 예고편",
-            "channel_name": "소니픽쳐스코리아",
-            "category": "Film & Animation",
-            "duration": "2:31",
-            "view_count": "703123",
-            "thumbnail_url": "https://i.ytimg.com/vi/KRarob7gwC4/hqdefault.jpg"
-        },
-        {
-            "video_id": "s5mbvXLmcko",
-            "title": "드디어 맨유 버리고 팀갈 슈웃?",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "25:52",
-            "view_count": "310275",
-            "thumbnail_url": "https://i.ytimg.com/vi/s5mbvXLmcko/hqdefault.jpg"
-        },
-        {
-            "video_id": "_cSciVF1FpY",
-            "title": "Please Summer!",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:49",
-            "view_count": "47997",
-            "thumbnail_url": "https://i.ytimg.com/vi/_cSciVF1FpY/hqdefault.jpg"
         },
         {
             "video_id": "PopdRtPx08U",
@@ -97,7 +97,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:06",
-            "view_count": "296230",
+            "view_count": "331785",
             "thumbnail_url": "https://i.ytimg.com/vi/PopdRtPx08U/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "28:33",
-            "view_count": "271294",
+            "view_count": "291115",
             "thumbnail_url": "https://i.ytimg.com/vi/fxZYKf93A_k/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "JUNE - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "48683",
+            "view_count": "65156",
             "thumbnail_url": "https://i.ytimg.com/vi/YdP7O2HSY68/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "엘플릭스 [LPLIX]",
             "category": "Film & Animation",
             "duration": "12:49",
-            "view_count": "148741",
+            "view_count": "152343",
             "thumbnail_url": "https://i.ytimg.com/vi/blKl-9GeOSk/hqdefault.jpg"
         },
         {
@@ -133,17 +133,17 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "1:37:06",
-            "view_count": "205815",
+            "view_count": "212029",
             "thumbnail_url": "https://i.ytimg.com/vi/defqM5JbHLA/hqdefault.jpg"
         },
         {
-            "video_id": "PuWwh0w4z7c",
-            "title": "8TURN (에잇턴) 'Stagefright' M/V",
-            "channel_name": "8TURN",
-            "category": "Entertainment",
-            "duration": "2:51",
-            "view_count": "337290",
-            "thumbnail_url": "https://i.ytimg.com/vi/PuWwh0w4z7c/hqdefault.jpg"
+            "video_id": "T-vq8ZBEFpo",
+            "title": "ChecK",
+            "channel_name": "Hyorin - Topic",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "91057",
+            "thumbnail_url": "https://i.ytimg.com/vi/T-vq8ZBEFpo/hqdefault.jpg"
         },
         {
             "video_id": "7J8K_JpsgFo",
@@ -151,35 +151,8 @@
             "channel_name": "Warner Bros. Korea",
             "category": "Film & Animation",
             "duration": "2:24",
-            "view_count": "37318",
+            "view_count": "55726",
             "thumbnail_url": "https://i.ytimg.com/vi/7J8K_JpsgFo/hqdefault.jpg"
-        },
-        {
-            "video_id": "x9WR275VOsw",
-            "title": "📌 [리니지클래식] 켄라우헬 - 조우 반갑습니다  홍가네 LIVE🔥",
-            "channel_name": "홍가네",
-            "category": "Gaming",
-            "duration": "8:07:36",
-            "view_count": "107221",
-            "thumbnail_url": "https://i.ytimg.com/vi/x9WR275VOsw/hqdefault.jpg"
-        },
-        {
-            "video_id": "v7aBko2tWEE",
-            "title": "Blank Letter",
-            "channel_name": "PATEKO - Topic",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "153514",
-            "thumbnail_url": "https://i.ytimg.com/vi/v7aBko2tWEE/hqdefault.jpg"
-        },
-        {
-            "video_id": "l7XHzSjoduU",
-            "title": "[아더 마미] 1차 예고편",
-            "channel_name": "유니버설 픽쳐스",
-            "category": "Film & Animation",
-            "duration": "2:15",
-            "view_count": "187480",
-            "thumbnail_url": "https://i.ytimg.com/vi/l7XHzSjoduU/hqdefault.jpg"
         },
         {
             "video_id": "1VgTyGbbxrc",
@@ -187,8 +160,35 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "57:53",
-            "view_count": "202129",
+            "view_count": "231942",
             "thumbnail_url": "https://i.ytimg.com/vi/1VgTyGbbxrc/hqdefault.jpg"
+        },
+        {
+            "video_id": "PuWwh0w4z7c",
+            "title": "8TURN (에잇턴) 'Stagefright' M/V",
+            "channel_name": "8TURN",
+            "category": "Entertainment",
+            "duration": "2:51",
+            "view_count": "366964",
+            "thumbnail_url": "https://i.ytimg.com/vi/PuWwh0w4z7c/hqdefault.jpg"
+        },
+        {
+            "video_id": "l7XHzSjoduU",
+            "title": "[아더 마미] 1차 예고편",
+            "channel_name": "유니버설 픽쳐스",
+            "category": "Film & Animation",
+            "duration": "2:15",
+            "view_count": "201344",
+            "thumbnail_url": "https://i.ytimg.com/vi/l7XHzSjoduU/hqdefault.jpg"
+        },
+        {
+            "video_id": "x9WR275VOsw",
+            "title": "📌 [리니지클래식] 켄라우헬 - 조우 반갑습니다  홍가네 LIVE🔥",
+            "channel_name": "홍가네",
+            "category": "Gaming",
+            "duration": "8:07:36",
+            "view_count": "110887",
+            "thumbnail_url": "https://i.ytimg.com/vi/x9WR275VOsw/hqdefault.jpg"
         },
         {
             "video_id": "TV-XtsA9oz8",
@@ -196,7 +196,7 @@
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "Music",
             "duration": "3:44",
-            "view_count": "77625",
+            "view_count": "83974",
             "thumbnail_url": "https://i.ytimg.com/vi/TV-XtsA9oz8/hqdefault.jpg"
         },
         {
@@ -205,44 +205,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "1:14:59",
-            "view_count": "120961",
+            "view_count": "143142",
             "thumbnail_url": "https://i.ytimg.com/vi/mygc5gzJFpA/hqdefault.jpg"
         },
         {
-            "video_id": "T-vq8ZBEFpo",
-            "title": "ChecK",
-            "channel_name": "Hyorin - Topic",
+            "video_id": "v7aBko2tWEE",
+            "title": "Blank Letter",
+            "channel_name": "PATEKO - Topic",
             "category": "Music",
-            "duration": "2:38",
-            "view_count": "73053",
-            "thumbnail_url": "https://i.ytimg.com/vi/T-vq8ZBEFpo/hqdefault.jpg"
+            "duration": "3:03",
+            "view_count": "161148",
+            "thumbnail_url": "https://i.ytimg.com/vi/v7aBko2tWEE/hqdefault.jpg"
         },
         {
-            "video_id": "EZ28ebHwId8",
-            "title": "⚔️리니지 클래식 데포로쥬 중립1짱 김팥순 ❤️",
-            "channel_name": "김팥순",
+            "video_id": "jKUlb54vCuM",
+            "title": "리니지 클래식 잊혀진섬 업데이트",
+            "channel_name": "이문주",
             "category": "Gaming",
-            "duration": "3:04:49",
-            "view_count": "81937",
-            "thumbnail_url": "https://i.ytimg.com/vi/EZ28ebHwId8/hqdefault.jpg"
-        },
-        {
-            "video_id": "tdvHArMcx2w",
-            "title": "Heartfall",
-            "channel_name": "Coogie - Topic",
-            "category": "Music",
-            "duration": "2:01",
-            "view_count": "117219",
-            "thumbnail_url": "https://i.ytimg.com/vi/tdvHArMcx2w/hqdefault.jpg"
-        },
-        {
-            "video_id": "XhW-DkaQVdk",
-            "title": "공포의 주객전도",
-            "channel_name": "이도원",
-            "category": "Gaming",
-            "duration": "23:35",
-            "view_count": "178644",
-            "thumbnail_url": "https://i.ytimg.com/vi/XhW-DkaQVdk/hqdefault.jpg"
+            "duration": "5:37:22",
+            "view_count": "122585",
+            "thumbnail_url": "https://i.ytimg.com/vi/jKUlb54vCuM/hqdefault.jpg"
         },
         {
             "video_id": "TzSUGDraTc4",
@@ -250,53 +232,35 @@
             "channel_name": "Shin In Ryu - Topic",
             "category": "Music",
             "duration": "4:11",
-            "view_count": "17817",
+            "view_count": "22919",
             "thumbnail_url": "https://i.ytimg.com/vi/TzSUGDraTc4/hqdefault.jpg"
         },
         {
-            "video_id": "AhfL_4mGxAY",
-            "title": "리니지 클래식 잊혀진섬 고로브 만들어봅니다",
-            "channel_name": "이문주",
+            "video_id": "XhW-DkaQVdk",
+            "title": "공포의 주객전도",
+            "channel_name": "이도원",
             "category": "Gaming",
-            "duration": "2:56:39",
-            "view_count": "150513",
-            "thumbnail_url": "https://i.ytimg.com/vi/AhfL_4mGxAY/hqdefault.jpg"
+            "duration": "23:35",
+            "view_count": "195923",
+            "thumbnail_url": "https://i.ytimg.com/vi/XhW-DkaQVdk/hqdefault.jpg"
         },
         {
-            "video_id": "FI5yUzefJO8",
-            "title": "My love, my boss",
-            "channel_name": "Jeon Sang Keun - Topic",
+            "video_id": "5XkblADYyHM",
+            "title": "Thursday (Feat. Leellamarz, Crush)",
+            "channel_name": "Coogie - Topic",
             "category": "Music",
-            "duration": "4:06",
-            "view_count": "39470",
-            "thumbnail_url": "https://i.ytimg.com/vi/FI5yUzefJO8/hqdefault.jpg"
+            "duration": "2:59",
+            "view_count": "138710",
+            "thumbnail_url": "https://i.ytimg.com/vi/5XkblADYyHM/hqdefault.jpg"
         },
         {
-            "video_id": "autJG9uImhg",
-            "title": "2026년 첫 배치 주키니형과 브론즈부터 출발합니다ㅋㅋ (배그형 이거 맞아?)",
-            "channel_name": "김블루",
+            "video_id": "EZ28ebHwId8",
+            "title": "⚔️리니지 클래식 데포로쥬 중립1짱 김팥순 ❤️",
+            "channel_name": "김팥순",
             "category": "Gaming",
-            "duration": "27:18",
-            "view_count": "128472",
-            "thumbnail_url": "https://i.ytimg.com/vi/autJG9uImhg/hqdefault.jpg"
-        },
-        {
-            "video_id": "2CL4aE44D0Q",
-            "title": "FTISLAND (FT아일랜드) - Butter-Fly (디지몬 어드벤처) | Cover | Original Song : 전영호",
-            "channel_name": "FTISLAND (FT아일랜드)",
-            "category": "Entertainment",
-            "duration": "3:21",
-            "view_count": "112909",
-            "thumbnail_url": "https://i.ytimg.com/vi/2CL4aE44D0Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "oQYxLwPyEKM",
-            "title": "[리니지클래식]🔴켄라우헬 더케이연합 \"너는 밀어붙여 나는 퍼부서불랑게\"",
-            "channel_name": "차래현",
-            "category": "Gaming",
-            "duration": "4:23:43",
-            "view_count": "69220",
-            "thumbnail_url": "https://i.ytimg.com/vi/oQYxLwPyEKM/hqdefault.jpg"
+            "duration": "3:04:49",
+            "view_count": "84496",
+            "thumbnail_url": "https://i.ytimg.com/vi/EZ28ebHwId8/hqdefault.jpg"
         },
         {
             "video_id": "hrkELy64_zA",
@@ -304,26 +268,26 @@
             "channel_name": "볼빨간사춘기 BOL4",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "38556",
+            "view_count": "45812",
             "thumbnail_url": "https://i.ytimg.com/vi/hrkELy64_zA/hqdefault.jpg"
         },
         {
-            "video_id": "uWENw32XftQ",
-            "title": "[멸망전 6편] 팀원들에게 람머스 1:5 하드캐리 보여줬습니다",
-            "channel_name": "샤코타임 Shacotime",
+            "video_id": "autJG9uImhg",
+            "title": "2026년 첫 배치 주키니형과 브론즈부터 출발합니다ㅋㅋ (배그형 이거 맞아?)",
+            "channel_name": "김블루",
             "category": "Gaming",
-            "duration": "27:47",
-            "view_count": "119976",
-            "thumbnail_url": "https://i.ytimg.com/vi/uWENw32XftQ/hqdefault.jpg"
+            "duration": "27:18",
+            "view_count": "155199",
+            "thumbnail_url": "https://i.ytimg.com/vi/autJG9uImhg/hqdefault.jpg"
         },
         {
-            "video_id": "LH9doiUN6Fc",
-            "title": "BUCKET LIST",
-            "channel_name": "TRADE L - Topic",
+            "video_id": "FI5yUzefJO8",
+            "title": "My love, my boss",
+            "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
-            "duration": "3:02",
-            "view_count": "43769",
-            "thumbnail_url": "https://i.ytimg.com/vi/LH9doiUN6Fc/hqdefault.jpg"
+            "duration": "4:06",
+            "view_count": "43490",
+            "thumbnail_url": "https://i.ytimg.com/vi/FI5yUzefJO8/hqdefault.jpg"
         },
         {
             "video_id": "nXOcjzBmZtg",
@@ -331,8 +295,62 @@
             "channel_name": "글자네",
             "category": "Gaming",
             "duration": "13:49",
-            "view_count": "141527",
+            "view_count": "151109",
             "thumbnail_url": "https://i.ytimg.com/vi/nXOcjzBmZtg/hqdefault.jpg"
+        },
+        {
+            "video_id": "2CL4aE44D0Q",
+            "title": "FTISLAND (FT아일랜드) - Butter-Fly (디지몬 어드벤처) | Cover | Original Song : 전영호",
+            "channel_name": "FTISLAND (FT아일랜드)",
+            "category": "Entertainment",
+            "duration": "3:21",
+            "view_count": "125667",
+            "thumbnail_url": "https://i.ytimg.com/vi/2CL4aE44D0Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "1cljEsT6jck",
+            "title": "[메이플스토리 맑음] 울티마 스쿼드 완벽 공략! / 이 공략만 알면 누구나 할 수 있습니다 / 막히는 스테이지 공략 / 모르면 못깨는 보스 공략 / 알아두면 좋은 중요 꿀팁까지",
+            "channel_name": "메이플스토리맑음",
+            "category": "Gaming",
+            "duration": "10:14",
+            "view_count": "52649",
+            "thumbnail_url": "https://i.ytimg.com/vi/1cljEsT6jck/hqdefault.jpg"
+        },
+        {
+            "video_id": "LH9doiUN6Fc",
+            "title": "BUCKET LIST",
+            "channel_name": "TRADE L - Topic",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "45634",
+            "thumbnail_url": "https://i.ytimg.com/vi/LH9doiUN6Fc/hqdefault.jpg"
+        },
+        {
+            "video_id": "uWENw32XftQ",
+            "title": "[멸망전 6편] 팀원들에게 람머스 1:5 하드캐리 보여줬습니다",
+            "channel_name": "샤코타임 Shacotime",
+            "category": "Gaming",
+            "duration": "27:47",
+            "view_count": "125330",
+            "thumbnail_url": "https://i.ytimg.com/vi/uWENw32XftQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "WZHTP6XHdNM",
+            "title": "GG EZ",
+            "channel_name": "M.Sasuke - Topic",
+            "category": "Music",
+            "duration": "2:49",
+            "view_count": "43818",
+            "thumbnail_url": "https://i.ytimg.com/vi/WZHTP6XHdNM/hqdefault.jpg"
+        },
+        {
+            "video_id": "oQYxLwPyEKM",
+            "title": "[리니지클래식]🔴켄라우헬 더케이연합 \"너는 밀어붙여 나는 퍼부서불랑게\"",
+            "channel_name": "차래현",
+            "category": "Gaming",
+            "duration": "4:23:43",
+            "view_count": "70728",
+            "thumbnail_url": "https://i.ytimg.com/vi/oQYxLwPyEKM/hqdefault.jpg"
         },
         {
             "video_id": "lQB7lFZMA80",
@@ -340,26 +358,8 @@
             "channel_name": "Kaive Noir - Topic",
             "category": "Music",
             "duration": "2:30",
-            "view_count": "87039",
+            "view_count": "92127",
             "thumbnail_url": "https://i.ytimg.com/vi/lQB7lFZMA80/hqdefault.jpg"
-        },
-        {
-            "video_id": "fPiGo0u0o9A",
-            "title": "[생] [7/22] \" 리니지 클래식 \" 54요정 #이문주 #내가수영#만만 #똘끼 #빅보스 #불도그 #훅팀 #개철 #카즈야 #사또 #랑쯔 #박다소",
-            "channel_name": "내가수영TV",
-            "category": "Gaming",
-            "duration": "3:12:35",
-            "view_count": "77466",
-            "thumbnail_url": "https://i.ytimg.com/vi/fPiGo0u0o9A/hqdefault.jpg"
-        },
-        {
-            "video_id": "Hb06Iem3FWg",
-            "title": "BTS (방탄소년단) 'NORMAL' Live Clip",
-            "channel_name": "BANGTANTV",
-            "category": "Music",
-            "duration": "3:08",
-            "view_count": "2473534",
-            "thumbnail_url": "https://i.ytimg.com/vi/Hb06Iem3FWg/hqdefault.jpg"
         },
         {
             "video_id": "ZM3d2Lc15e8",
@@ -367,7 +367,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "9:14",
-            "view_count": "142097",
+            "view_count": "147369",
             "thumbnail_url": "https://i.ytimg.com/vi/ZM3d2Lc15e8/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "10CM - Topic",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "28525",
+            "view_count": "33234",
             "thumbnail_url": "https://i.ytimg.com/vi/ecdkXVNR2Yk/hqdefault.jpg"
         }
     ]
