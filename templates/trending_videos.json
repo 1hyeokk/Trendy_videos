@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-07-28 04:37:14",
+    "scraped_time": "2026-07-28 06:12:55",
     "videos": [
         {
             "video_id": "1PVUTUFxq8g",
@@ -7,7 +7,7 @@
             "channel_name": "JENNIE - Topic",
             "category": "Music",
             "duration": "2:26",
-            "view_count": "1005811",
+            "view_count": "1007712",
             "thumbnail_url": "https://i.ytimg.com/vi/1PVUTUFxq8g/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "9:47",
-            "view_count": "348387",
+            "view_count": "349128",
             "thumbnail_url": "https://i.ytimg.com/vi/1OnA9aS5E5g/hqdefault.jpg"
         },
         {
@@ -25,35 +25,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "1:14:24",
-            "view_count": "290425",
+            "view_count": "296725",
             "thumbnail_url": "https://i.ytimg.com/vi/2X1Y0djVpmo/hqdefault.jpg"
-        },
-        {
-            "video_id": "W9SBhNLTDVw",
-            "title": "Young K \"Shut The Door\" M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "734178",
-            "thumbnail_url": "https://i.ytimg.com/vi/W9SBhNLTDVw/hqdefault.jpg"
-        },
-        {
-            "video_id": "xp4SxfJ3ZzY",
-            "title": "[스파이더맨: 브랜드 뉴 데이] 브랜드 뉴 스파이디",
-            "channel_name": "소니픽쳐스코리아",
-            "category": "Film & Animation",
-            "duration": "0:31",
-            "view_count": "219664",
-            "thumbnail_url": "https://i.ytimg.com/vi/xp4SxfJ3ZzY/hqdefault.jpg"
-        },
-        {
-            "video_id": "YyCZQ99Y21Q",
-            "title": "충신 테스트",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "21:48",
-            "view_count": "361436",
-            "thumbnail_url": "https://i.ytimg.com/vi/YyCZQ99Y21Q/hqdefault.jpg"
         },
         {
             "video_id": "gw9dm2tHf9k",
@@ -61,17 +34,17 @@
             "channel_name": "Young K - Topic",
             "category": "Music",
             "duration": "2:52",
-            "view_count": "43635",
+            "view_count": "44653",
             "thumbnail_url": "https://i.ytimg.com/vi/gw9dm2tHf9k/hqdefault.jpg"
         },
         {
-            "video_id": "_5GRXsaDDJE",
-            "title": "류승룡 느와르 영화 《비광》 떴다..🔥 국내 미공개 예고편부터 톰 크루즈, 신병4, 스파이더맨 신작까지 존잼만 엄선..!",
-            "channel_name": "엘플릭스 [LPLIX]",
+            "video_id": "xp4SxfJ3ZzY",
+            "title": "[스파이더맨: 브랜드 뉴 데이] 브랜드 뉴 스파이디",
+            "channel_name": "소니픽쳐스코리아",
             "category": "Film & Animation",
-            "duration": "13:11",
-            "view_count": "190429",
-            "thumbnail_url": "https://i.ytimg.com/vi/_5GRXsaDDJE/hqdefault.jpg"
+            "duration": "0:31",
+            "view_count": "228938",
+            "thumbnail_url": "https://i.ytimg.com/vi/xp4SxfJ3ZzY/hqdefault.jpg"
         },
         {
             "video_id": "IoCkpl2Q9VE",
@@ -79,7 +52,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "25:49",
-            "view_count": "143130",
+            "view_count": "157468",
             "thumbnail_url": "https://i.ytimg.com/vi/IoCkpl2Q9VE/hqdefault.jpg"
         },
         {
@@ -88,8 +61,35 @@
             "channel_name": "DK - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "61541",
+            "view_count": "62432",
             "thumbnail_url": "https://i.ytimg.com/vi/Nm755ll3-co/hqdefault.jpg"
+        },
+        {
+            "video_id": "_5GRXsaDDJE",
+            "title": "류승룡 느와르 영화 《비광》 떴다..🔥 국내 미공개 예고편부터 톰 크루즈, 신병4, 스파이더맨 신작까지 존잼만 엄선..!",
+            "channel_name": "엘플릭스 [LPLIX]",
+            "category": "Film & Animation",
+            "duration": "13:11",
+            "view_count": "190745",
+            "thumbnail_url": "https://i.ytimg.com/vi/_5GRXsaDDJE/hqdefault.jpg"
+        },
+        {
+            "video_id": "YyCZQ99Y21Q",
+            "title": "충신 테스트",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "21:48",
+            "view_count": "365099",
+            "thumbnail_url": "https://i.ytimg.com/vi/YyCZQ99Y21Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "75CuM4ZawAw",
+            "title": "Nual Beach",
+            "channel_name": "jisokuryClub - Topic",
+            "category": "Music",
+            "duration": "3:21",
+            "view_count": "51452",
+            "thumbnail_url": "https://i.ytimg.com/vi/75CuM4ZawAw/hqdefault.jpg"
         },
         {
             "video_id": "5gJl3NcCAJA",
@@ -97,7 +97,7 @@
             "channel_name": "왁씨 Waackxxxy",
             "category": "People & Blogs",
             "duration": "16:39",
-            "view_count": "9868",
+            "view_count": "10382",
             "thumbnail_url": "https://i.ytimg.com/vi/5gJl3NcCAJA/hqdefault.jpg"
         },
         {
@@ -106,26 +106,8 @@
             "channel_name": "빅보스",
             "category": "Gaming",
             "duration": "2:50:00",
-            "view_count": "250319",
+            "view_count": "250428",
             "thumbnail_url": "https://i.ytimg.com/vi/mb5lukov_sY/hqdefault.jpg"
-        },
-        {
-            "video_id": "75CuM4ZawAw",
-            "title": "Nual Beach",
-            "channel_name": "jisokuryClub - Topic",
-            "category": "Music",
-            "duration": "3:21",
-            "view_count": "51209",
-            "thumbnail_url": "https://i.ytimg.com/vi/75CuM4ZawAw/hqdefault.jpg"
-        },
-        {
-            "video_id": "EIaGDd1TlHQ",
-            "title": "저자본용 흙맹 팔아요~ [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "10:16",
-            "view_count": "171518",
-            "thumbnail_url": "https://i.ytimg.com/vi/EIaGDd1TlHQ/hqdefault.jpg"
         },
         {
             "video_id": "E0_JjmtuHF8",
@@ -133,8 +115,44 @@
             "channel_name": "RIIZE - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "42012",
+            "view_count": "42296",
             "thumbnail_url": "https://i.ytimg.com/vi/E0_JjmtuHF8/hqdefault.jpg"
+        },
+        {
+            "video_id": "EIaGDd1TlHQ",
+            "title": "저자본용 흙맹 팔아요~ [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "10:16",
+            "view_count": "175634",
+            "thumbnail_url": "https://i.ytimg.com/vi/EIaGDd1TlHQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "vOfyxPRunFM",
+            "title": "Animal",
+            "channel_name": "KATSEYE - Topic",
+            "category": "Music",
+            "duration": "2:39",
+            "view_count": "5419708",
+            "thumbnail_url": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg"
+        },
+        {
+            "video_id": "JInX6it30rE",
+            "title": "Q. 너 소속팀이 어디야?   A. 왜요?ㅣ펨플릭스 뉴캐슬 EP.04",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "47:56",
+            "view_count": "118657",
+            "thumbnail_url": "https://i.ytimg.com/vi/JInX6it30rE/hqdefault.jpg"
+        },
+        {
+            "video_id": "KVkHH2rm_Ys",
+            "title": "[성시경 노래] 71. 여우야 (With.김광진) l Sung Si Kyung Music",
+            "channel_name": "성시경 SUNG SI KYUNG",
+            "category": "Entertainment",
+            "duration": "6:20",
+            "view_count": "50612",
+            "thumbnail_url": "https://i.ytimg.com/vi/KVkHH2rm_Ys/hqdefault.jpg"
         },
         {
             "video_id": "_dzXtSvoFw8",
@@ -146,30 +164,12 @@
             "thumbnail_url": "https://i.ytimg.com/vi/_dzXtSvoFw8/hqdefault.jpg"
         },
         {
-            "video_id": "vOfyxPRunFM",
-            "title": "Animal",
-            "channel_name": "KATSEYE - Topic",
-            "category": "Music",
-            "duration": "2:39",
-            "view_count": "5325047",
-            "thumbnail_url": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg"
-        },
-        {
-            "video_id": "JInX6it30rE",
-            "title": "Q. 너 소속팀이 어디야?   A. 왜요?ㅣ펨플릭스 뉴캐슬 EP.04",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "47:56",
-            "view_count": "113086",
-            "thumbnail_url": "https://i.ytimg.com/vi/JInX6it30rE/hqdefault.jpg"
-        },
-        {
             "video_id": "UCPwHlZ2EDI",
             "title": "I Got Your Back (Feat. JISOO, MOMOKA of HANA)",
             "channel_name": "ILLIT - Topic",
             "category": "Music",
             "duration": "2:23",
-            "view_count": "305916",
+            "view_count": "310717",
             "thumbnail_url": "https://i.ytimg.com/vi/UCPwHlZ2EDI/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "16:28",
-            "view_count": "212025",
+            "view_count": "222754",
             "thumbnail_url": "https://i.ytimg.com/vi/4x9URG-cyyM/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "kenessi - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "30092",
+            "view_count": "30394",
             "thumbnail_url": "https://i.ytimg.com/vi/j1u8ASMM0ME/hqdefault.jpg"
         },
         {
@@ -196,26 +196,8 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "22:19",
-            "view_count": "142617",
+            "view_count": "147096",
             "thumbnail_url": "https://i.ytimg.com/vi/pOadzR04RlA/hqdefault.jpg"
-        },
-        {
-            "video_id": "KVkHH2rm_Ys",
-            "title": "[성시경 노래] 71. 여우야 (With.김광진) l Sung Si Kyung Music",
-            "channel_name": "성시경 SUNG SI KYUNG",
-            "category": "Entertainment",
-            "duration": "6:20",
-            "view_count": "49333",
-            "thumbnail_url": "https://i.ytimg.com/vi/KVkHH2rm_Ys/hqdefault.jpg"
-        },
-        {
-            "video_id": "fMcoyE7ZwaI",
-            "title": "T1 vs NS 하이라이트 | MATCH 23 | 2026 LoL KeSPA CUP",
-            "channel_name": "한국e스포츠협회",
-            "category": "Gaming",
-            "duration": "16:28",
-            "view_count": "180420",
-            "thumbnail_url": "https://i.ytimg.com/vi/fMcoyE7ZwaI/hqdefault.jpg"
         },
         {
             "video_id": "uPsJaoXUpUM",
@@ -223,17 +205,17 @@
             "channel_name": "Red Velvet",
             "category": "Music",
             "duration": "2:23",
-            "view_count": "331461",
+            "view_count": "337799",
             "thumbnail_url": "https://i.ytimg.com/vi/uPsJaoXUpUM/hqdefault.jpg"
         },
         {
-            "video_id": "Ufrmf67nOzY",
-            "title": "제석천의 번개가 떨어지는 예언자 게임ㅋㅋㅋ",
-            "channel_name": "왈도쿤",
+            "video_id": "fMcoyE7ZwaI",
+            "title": "T1 vs NS 하이라이트 | MATCH 23 | 2026 LoL KeSPA CUP",
+            "channel_name": "한국e스포츠협회",
             "category": "Gaming",
-            "duration": "20:08",
-            "view_count": "102874",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ufrmf67nOzY/hqdefault.jpg"
+            "duration": "16:28",
+            "view_count": "186623",
+            "thumbnail_url": "https://i.ytimg.com/vi/fMcoyE7ZwaI/hqdefault.jpg"
         },
         {
             "video_id": "6yvxHpIO5NY",
@@ -241,17 +223,17 @@
             "channel_name": "BANGTANTV",
             "category": "Music",
             "duration": "3:18",
-            "view_count": "1068640",
+            "view_count": "1090183",
             "thumbnail_url": "https://i.ytimg.com/vi/6yvxHpIO5NY/hqdefault.jpg"
         },
         {
-            "video_id": "qJL7Ijn5D38",
-            "title": "벌써 고인물이 되어버린 웃소 메챠 카멜레온ㅋㅋㅋㅋ 레전드 찍었다🤣",
-            "channel_name": "웃소 Wootso",
+            "video_id": "Ufrmf67nOzY",
+            "title": "제석천의 번개가 떨어지는 예언자 게임ㅋㅋㅋ",
+            "channel_name": "왈도쿤",
             "category": "Gaming",
-            "duration": "26:06",
-            "view_count": "231275",
-            "thumbnail_url": "https://i.ytimg.com/vi/qJL7Ijn5D38/hqdefault.jpg"
+            "duration": "20:08",
+            "view_count": "107507",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ufrmf67nOzY/hqdefault.jpg"
         },
         {
             "video_id": "cUyRcyWUMrE",
@@ -259,17 +241,17 @@
             "channel_name": "Ha Hyun Woo - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "24974",
+            "view_count": "25037",
             "thumbnail_url": "https://i.ytimg.com/vi/cUyRcyWUMrE/hqdefault.jpg"
         },
         {
-            "video_id": "1EU_UoYe7n8",
-            "title": "소개팅해서 여자친구 생겼습니다",
-            "channel_name": "핑맨",
+            "video_id": "qJL7Ijn5D38",
+            "title": "벌써 고인물이 되어버린 웃소 메챠 카멜레온ㅋㅋㅋㅋ 레전드 찍었다🤣",
+            "channel_name": "웃소 Wootso",
             "category": "Gaming",
-            "duration": "37:48",
-            "view_count": "371699",
-            "thumbnail_url": "https://i.ytimg.com/vi/1EU_UoYe7n8/hqdefault.jpg"
+            "duration": "26:06",
+            "view_count": "231660",
+            "thumbnail_url": "https://i.ytimg.com/vi/qJL7Ijn5D38/hqdefault.jpg"
         },
         {
             "video_id": "BgPBgTEvi08",
@@ -277,17 +259,17 @@
             "channel_name": "TAK / DORIDORI",
             "category": "Music",
             "duration": "2:37",
-            "view_count": "280416",
+            "view_count": "286704",
             "thumbnail_url": "https://i.ytimg.com/vi/BgPBgTEvi08/hqdefault.jpg"
         },
         {
-            "video_id": "Drm6dKQtBUU",
-            "title": "[멸망전 10편] 애디 vs 노령진 멸망전 최고의 사파 대결",
-            "channel_name": "샤코타임 Shacotime",
+            "video_id": "1EU_UoYe7n8",
+            "title": "소개팅해서 여자친구 생겼습니다",
+            "channel_name": "핑맨",
             "category": "Gaming",
-            "duration": "41:57",
-            "view_count": "100683",
-            "thumbnail_url": "https://i.ytimg.com/vi/Drm6dKQtBUU/hqdefault.jpg"
+            "duration": "37:48",
+            "view_count": "374762",
+            "thumbnail_url": "https://i.ytimg.com/vi/1EU_UoYe7n8/hqdefault.jpg"
         },
         {
             "video_id": "Wos0ya0mKi8",
@@ -295,17 +277,17 @@
             "channel_name": "ONEWE - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "12322",
+            "view_count": "13163",
             "thumbnail_url": "https://i.ytimg.com/vi/Wos0ya0mKi8/hqdefault.jpg"
         },
         {
-            "video_id": "7pYZ3196HPs",
-            "title": "26.07.27(월) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
-            "channel_name": "인피쉰",
+            "video_id": "Drm6dKQtBUU",
+            "title": "[멸망전 10편] 애디 vs 노령진 멸망전 최고의 사파 대결",
+            "channel_name": "샤코타임 Shacotime",
             "category": "Gaming",
-            "duration": "5:00:55",
-            "view_count": "89239",
-            "thumbnail_url": "https://i.ytimg.com/vi/7pYZ3196HPs/hqdefault.jpg"
+            "duration": "41:57",
+            "view_count": "103539",
+            "thumbnail_url": "https://i.ytimg.com/vi/Drm6dKQtBUU/hqdefault.jpg"
         },
         {
             "video_id": "_cSciVF1FpY",
@@ -313,17 +295,17 @@
             "channel_name": "BOL4 - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "990266",
+            "view_count": "992107",
             "thumbnail_url": "https://i.ytimg.com/vi/_cSciVF1FpY/hqdefault.jpg"
         },
         {
-            "video_id": "TvhvKKLeM5o",
-            "title": "📌 [리니지클래식] 켄라우헬 서버이전 6일차 홍가네 LIVE🔥",
-            "channel_name": "홍가네",
+            "video_id": "7pYZ3196HPs",
+            "title": "26.07.27(월) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
             "category": "Gaming",
-            "duration": "10:20:06",
-            "view_count": "91085",
-            "thumbnail_url": "https://i.ytimg.com/vi/TvhvKKLeM5o/hqdefault.jpg"
+            "duration": "5:00:55",
+            "view_count": "90176",
+            "thumbnail_url": "https://i.ytimg.com/vi/7pYZ3196HPs/hqdefault.jpg"
         },
         {
             "video_id": "Kn6BHCOt2pQ",
@@ -331,17 +313,17 @@
             "channel_name": "청나음악",
             "category": "Music",
             "duration": "5:33",
-            "view_count": "12630",
+            "view_count": "12832",
             "thumbnail_url": "https://i.ytimg.com/vi/Kn6BHCOt2pQ/hqdefault.jpg"
         },
         {
-            "video_id": "S1JO2eX3Kow",
-            "title": "지금까지 저로듀스lol 이었습니다｜멸망전 비하인드",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "video_id": "TvhvKKLeM5o",
+            "title": "📌 [리니지클래식] 켄라우헬 서버이전 6일차 홍가네 LIVE🔥",
+            "channel_name": "홍가네",
             "category": "Gaming",
-            "duration": "24:12",
-            "view_count": "87615",
-            "thumbnail_url": "https://i.ytimg.com/vi/S1JO2eX3Kow/hqdefault.jpg"
+            "duration": "10:20:06",
+            "view_count": "95387",
+            "thumbnail_url": "https://i.ytimg.com/vi/TvhvKKLeM5o/hqdefault.jpg"
         },
         {
             "video_id": "iITTWYBUsC4",
@@ -349,17 +331,17 @@
             "channel_name": "Moon Sujin - Topic",
             "category": "Music",
             "duration": "2:30",
-            "view_count": "10254",
+            "view_count": "10846",
             "thumbnail_url": "https://i.ytimg.com/vi/iITTWYBUsC4/hqdefault.jpg"
         },
         {
-            "video_id": "L-3N6QDttSE",
-            "title": "이것을 절대 집에서 따라하지 마세요 (Do not try this at home)",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "S1JO2eX3Kow",
+            "title": "지금까지 저로듀스lol 이었습니다｜멸망전 비하인드",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "14:32",
-            "view_count": "87880",
-            "thumbnail_url": "https://i.ytimg.com/vi/L-3N6QDttSE/hqdefault.jpg"
+            "duration": "24:12",
+            "view_count": "91559",
+            "thumbnail_url": "https://i.ytimg.com/vi/S1JO2eX3Kow/hqdefault.jpg"
         },
         {
             "video_id": "2ONJ1CJLxMw",
@@ -367,17 +349,35 @@
             "channel_name": "DAY6",
             "category": "People & Blogs",
             "duration": "2:01",
-            "view_count": "13183",
+            "view_count": "13654",
             "thumbnail_url": "https://i.ytimg.com/vi/2ONJ1CJLxMw/hqdefault.jpg"
         },
         {
-            "video_id": "7CFkhsIn8Vo",
-            "title": "239만 유튜버가 개최한 마인크래프트 쟁탈전",
-            "channel_name": "시미베",
+            "video_id": "L-3N6QDttSE",
+            "title": "이것을 절대 집에서 따라하지 마세요 (Do not try this at home)",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "13:57",
-            "view_count": "183415",
-            "thumbnail_url": "https://i.ytimg.com/vi/7CFkhsIn8Vo/hqdefault.jpg"
+            "duration": "14:32",
+            "view_count": "92027",
+            "thumbnail_url": "https://i.ytimg.com/vi/L-3N6QDttSE/hqdefault.jpg"
+        },
+        {
+            "video_id": "QhdzD2exioM",
+            "title": "KISS N TELL",
+            "channel_name": "aespa - Topic",
+            "category": "Music",
+            "duration": "2:46",
+            "view_count": "243821",
+            "thumbnail_url": "https://i.ytimg.com/vi/QhdzD2exioM/hqdefault.jpg"
+        },
+        {
+            "video_id": "hRhabDRfcLs",
+            "title": "예전에 프로게이머들이 자주 이용하던 피지투어서버 10500점 초고수 상대를 만난 알파고.. 시작부터 한 끼 식사 취급하며 무시하는데!?ㄷㄷ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "27:56",
+            "view_count": "79744",
+            "thumbnail_url": "https://i.ytimg.com/vi/hRhabDRfcLs/hqdefault.jpg"
         }
     ]
 }
