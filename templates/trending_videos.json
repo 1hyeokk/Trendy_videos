@@ -1,23 +1,68 @@
 {
-    "scraped_time": "2026-07-31 21:01:17",
+    "scraped_time": "2026-08-01 00:20:32",
     "videos": [
+        {
+            "video_id": "8W64YPnRu1Y",
+            "title": "MOTION (feat. Juicy J)",
+            "channel_name": "CORTIS - Topic",
+            "category": "Music",
+            "duration": "2:38",
+            "view_count": "320756",
+            "thumbnail_url": "https://i.ytimg.com/vi/8W64YPnRu1Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "UjreUuD-CAM",
+            "title": "죽는 게 무섭지 않아요? | [킬러들의 쇼핑몰 시즌2] 5-6회 예고편 | 디즈니+",
+            "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
+            "category": "Film & Animation",
+            "duration": "1:12",
+            "view_count": "236693",
+            "thumbnail_url": "https://i.ytimg.com/vi/UjreUuD-CAM/hqdefault.jpg"
+        },
+        {
+            "video_id": "pRXEgfmcHbs",
+            "title": "롤 클래식 체험기",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "29:44",
+            "view_count": "175953",
+            "thumbnail_url": "https://i.ytimg.com/vi/pRXEgfmcHbs/hqdefault.jpg"
+        },
+        {
+            "video_id": "_SPsjENFqbc",
+            "title": "like i do",
+            "channel_name": "Ariana Grande - Topic",
+            "category": "Music",
+            "duration": "2:48",
+            "view_count": "341340",
+            "thumbnail_url": "https://i.ytimg.com/vi/_SPsjENFqbc/hqdefault.jpg"
+        },
+        {
+            "video_id": "_gJQREv6PVI",
+            "title": "들쥐 | 공식 티저 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "1:30",
+            "view_count": "192881",
+            "thumbnail_url": "https://i.ytimg.com/vi/_gJQREv6PVI/hqdefault.jpg"
+        },
+        {
+            "video_id": "DHGFIp42BZY",
+            "title": "TS vs PRX / GE vs GEN - VCT 퍼시픽 - 스테이지 2 - 그룹 스테이지 - Day 10",
+            "channel_name": "발로란트 챔피언스 투어",
+            "category": "Gaming",
+            "duration": "6:32:04",
+            "view_count": "226480",
+            "thumbnail_url": "https://i.ytimg.com/vi/DHGFIp42BZY/hqdefault.jpg"
+        },
         {
             "video_id": "g16sDYTn8j0",
             "title": "NO BATIDÃO",
             "channel_name": "slxughter - Topic",
             "category": "Music",
             "duration": "1:30",
-            "view_count": "2488073",
+            "view_count": "2681182",
             "thumbnail_url": "https://i.ytimg.com/vi/g16sDYTn8j0/hqdefault.jpg"
-        },
-        {
-            "video_id": "L_TE-YfFSWo",
-            "title": "[쥬만지: 오픈 월드] 티저 예고편",
-            "channel_name": "소니픽쳐스코리아",
-            "category": "Film & Animation",
-            "duration": "2:59",
-            "view_count": "498718",
-            "thumbnail_url": "https://i.ytimg.com/vi/L_TE-YfFSWo/hqdefault.jpg"
         },
         {
             "video_id": "KRqmdRa_KLc",
@@ -25,7 +70,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "23:01",
-            "view_count": "341267",
+            "view_count": "361622",
             "thumbnail_url": "https://i.ytimg.com/vi/KRqmdRa_KLc/hqdefault.jpg"
         },
         {
@@ -34,17 +79,8 @@
             "channel_name": "george - Topic",
             "category": "Music",
             "duration": "3:45",
-            "view_count": "143501",
+            "view_count": "152412",
             "thumbnail_url": "https://i.ytimg.com/vi/KgIsVeN4g0E/hqdefault.jpg"
-        },
-        {
-            "video_id": "lNaSdnz2I8g",
-            "title": "Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman",
-            "channel_name": "World Of Ramayana",
-            "category": "Entertainment",
-            "duration": "4:10",
-            "view_count": "26156770",
-            "thumbnail_url": "https://i.ytimg.com/vi/lNaSdnz2I8g/hqdefault.jpg"
         },
         {
             "video_id": "m-TGDtknQoI",
@@ -52,7 +88,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "57:22",
-            "view_count": "216223",
+            "view_count": "228206",
             "thumbnail_url": "https://i.ytimg.com/vi/m-TGDtknQoI/hqdefault.jpg"
         },
         {
@@ -61,26 +97,8 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "38710",
+            "view_count": "45559",
             "thumbnail_url": "https://i.ytimg.com/vi/DMJHreaNruc/hqdefault.jpg"
-        },
-        {
-            "video_id": "MEwTNUWEJRw",
-            "title": "39살 인생 첫 치킨 [배틀그라운드]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "25:42",
-            "view_count": "325590",
-            "thumbnail_url": "https://i.ytimg.com/vi/MEwTNUWEJRw/hqdefault.jpg"
-        },
-        {
-            "video_id": "gw9dm2tHf9k",
-            "title": "Shut The Door",
-            "channel_name": "Young K - Topic",
-            "category": "Music",
-            "duration": "2:52",
-            "view_count": "550351",
-            "thumbnail_url": "https://i.ytimg.com/vi/gw9dm2tHf9k/hqdefault.jpg"
         },
         {
             "video_id": "svbECk9KKRA",
@@ -88,26 +106,44 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "31:36",
-            "view_count": "319086",
+            "view_count": "340859",
             "thumbnail_url": "https://i.ytimg.com/vi/svbECk9KKRA/hqdefault.jpg"
         },
         {
-            "video_id": "q1Ch72anGMw",
-            "title": "Still Choosing You",
-            "channel_name": "POW - Topic",
+            "video_id": "h7ITAdTxdxM",
+            "title": "CORTIS (코르티스) ‘MOTION (feat. Juicy J)’ Official Visualizer",
+            "channel_name": "HYBE LABELS",
             "category": "Music",
-            "duration": "3:28",
-            "view_count": "51633",
-            "thumbnail_url": "https://i.ytimg.com/vi/q1Ch72anGMw/hqdefault.jpg"
+            "duration": "2:38",
+            "view_count": "872769",
+            "thumbnail_url": "https://i.ytimg.com/vi/h7ITAdTxdxM/hqdefault.jpg"
         },
         {
-            "video_id": "zIlHGlGgyGQ",
-            "title": "오랜만에 돌아온 꿀잼 코디 대회 ㅋㅋ [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
+            "video_id": "DuR7FH3tY6w",
+            "title": "GEN vs T1 - BRO vs KRX | 2026 LCK",
+            "channel_name": "LCK Global",
             "category": "Gaming",
-            "duration": "16:36",
-            "view_count": "148770",
-            "thumbnail_url": "https://i.ytimg.com/vi/zIlHGlGgyGQ/hqdefault.jpg"
+            "duration": "6:04:45",
+            "view_count": "832561",
+            "thumbnail_url": "https://i.ytimg.com/vi/DuR7FH3tY6w/hqdefault.jpg"
+        },
+        {
+            "video_id": "gw9dm2tHf9k",
+            "title": "Shut The Door",
+            "channel_name": "Young K - Topic",
+            "category": "Music",
+            "duration": "2:52",
+            "view_count": "571662",
+            "thumbnail_url": "https://i.ytimg.com/vi/gw9dm2tHf9k/hqdefault.jpg"
+        },
+        {
+            "video_id": "MEwTNUWEJRw",
+            "title": "39살 인생 첫 치킨 [배틀그라운드]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "25:42",
+            "view_count": "345961",
+            "thumbnail_url": "https://i.ytimg.com/vi/MEwTNUWEJRw/hqdefault.jpg"
         },
         {
             "video_id": "yAvnjSemp9w",
@@ -115,8 +151,62 @@
             "channel_name": "WAVE CALL - Topic",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "58293",
+            "view_count": "68372",
             "thumbnail_url": "https://i.ytimg.com/vi/yAvnjSemp9w/hqdefault.jpg"
+        },
+        {
+            "video_id": "sb_7BnOdgrA",
+            "title": "원신｜7.0 버전 특별 방송",
+            "channel_name": "원신",
+            "category": "Entertainment",
+            "duration": "1:07:24",
+            "view_count": "77876",
+            "thumbnail_url": "https://i.ytimg.com/vi/sb_7BnOdgrA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Iu4J1YyRb_c",
+            "title": "다짐",
+            "channel_name": "강문경 - Topic",
+            "category": "Music",
+            "duration": "3:28",
+            "view_count": "10288",
+            "thumbnail_url": "https://i.ytimg.com/vi/Iu4J1YyRb_c/hqdefault.jpg"
+        },
+        {
+            "video_id": "QJ7FGV02RTQ",
+            "title": "메이린 선착순 보상부터 부티크까지!  [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "13:38",
+            "view_count": "80156",
+            "thumbnail_url": "https://i.ytimg.com/vi/QJ7FGV02RTQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "TLqgvD9_TR8",
+            "title": "Feathers",
+            "channel_name": "Redoor - Topic",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "8295",
+            "thumbnail_url": "https://i.ytimg.com/vi/TLqgvD9_TR8/hqdefault.jpg"
+        },
+        {
+            "video_id": "N678RgiOYDU",
+            "title": "[로스트아크] 4K | 그림자 레이드 '죽음의 계율자, 벨가르딘' Teaser | LOST ARK - Shadow Raid Belgardin, the Arbiter of Death",
+            "channel_name": "로스트아크 LOST ARK",
+            "category": "Gaming",
+            "duration": "4:50",
+            "view_count": "81767",
+            "thumbnail_url": "https://i.ytimg.com/vi/N678RgiOYDU/hqdefault.jpg"
+        },
+        {
+            "video_id": "q1Ch72anGMw",
+            "title": "Still Choosing You",
+            "channel_name": "POW - Topic",
+            "category": "Music",
+            "duration": "3:28",
+            "view_count": "54297",
+            "thumbnail_url": "https://i.ytimg.com/vi/q1Ch72anGMw/hqdefault.jpg"
         },
         {
             "video_id": "-Hbf6Cycqpw",
@@ -124,8 +214,26 @@
             "channel_name": "승상싱",
             "category": "Gaming",
             "duration": "20:47",
-            "view_count": "324375",
+            "view_count": "335578",
             "thumbnail_url": "https://i.ytimg.com/vi/-Hbf6Cycqpw/hqdefault.jpg"
+        },
+        {
+            "video_id": "QaqakjrT5nY",
+            "title": "Vaundy / 날아오를 때 (飛ぶ時)┃𝐂𝐨𝐯𝐞𝐫 𝐛𝐲 𝐇𝐞𝐛𝐢",
+            "channel_name": "Hebi.",
+            "category": "Music",
+            "duration": "4:14",
+            "view_count": "185502",
+            "thumbnail_url": "https://i.ytimg.com/vi/QaqakjrT5nY/hqdefault.jpg"
+        },
+        {
+            "video_id": "gpvKe_lY1hM",
+            "title": "본캐 알나스르 맞췄는데 왜 좋은 거지..?",
+            "channel_name": "정준홍",
+            "category": "Gaming",
+            "duration": "14:38",
+            "view_count": "69570",
+            "thumbnail_url": "https://i.ytimg.com/vi/gpvKe_lY1hM/hqdefault.jpg"
         },
         {
             "video_id": "0qSI_SNjYBY",
@@ -133,7 +241,7 @@
             "channel_name": "entoy - Topic",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "82393",
+            "view_count": "90977",
             "thumbnail_url": "https://i.ytimg.com/vi/0qSI_SNjYBY/hqdefault.jpg"
         },
         {
@@ -142,44 +250,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "1:00:44",
-            "view_count": "400901",
+            "view_count": "404238",
             "thumbnail_url": "https://i.ytimg.com/vi/i2ZuZn8EFY8/hqdefault.jpg"
-        },
-        {
-            "video_id": "QaqakjrT5nY",
-            "title": "Vaundy / 날아오를 때 (飛ぶ時)┃𝐂𝐨𝐯𝐞𝐫 𝐛𝐲 𝐇𝐞𝐛𝐢",
-            "channel_name": "Hebi.",
-            "category": "Music",
-            "duration": "4:14",
-            "view_count": "162817",
-            "thumbnail_url": "https://i.ytimg.com/vi/QaqakjrT5nY/hqdefault.jpg"
-        },
-        {
-            "video_id": "xtT9AlPO-sQ",
-            "title": "본캐 신규패키지만 종류별로 500만원 폭풍현질 꼭 보세요!",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "41:01",
-            "view_count": "141827",
-            "thumbnail_url": "https://i.ytimg.com/vi/xtT9AlPO-sQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "VCqKgW6Lvb4",
-            "title": "Sometimes",
-            "channel_name": "Cha ga eul - Topic",
-            "category": "Music",
-            "duration": "4:01",
-            "view_count": "69545",
-            "thumbnail_url": "https://i.ytimg.com/vi/VCqKgW6Lvb4/hqdefault.jpg"
-        },
-        {
-            "video_id": "fG5UQxKMpio",
-            "title": "결승 진출 직전 역대급 교창 발생 | 멸망전 EP.13",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "55:32",
-            "view_count": "127684",
-            "thumbnail_url": "https://i.ytimg.com/vi/fG5UQxKMpio/hqdefault.jpg"
         },
         {
             "video_id": "-GihehvB2Pc",
@@ -187,17 +259,35 @@
             "channel_name": "no na - Topic",
             "category": "Music",
             "duration": "2:16",
-            "view_count": "234438",
+            "view_count": "257434",
             "thumbnail_url": "https://i.ytimg.com/vi/-GihehvB2Pc/hqdefault.jpg"
         },
         {
-            "video_id": "hN2mS9jkRSU",
-            "title": "키보드탈출에서 베리티 키캡을 찾았습니다..",
-            "channel_name": "싸모스",
+            "video_id": "PkeNckIk6ak",
+            "title": "호랑이 굴에 들어가도 정신만 차리면 산다｜T1 vs GEN｜2026 LCK",
+            "channel_name": "Bang",
             "category": "Gaming",
-            "duration": "16:41",
-            "view_count": "155543",
-            "thumbnail_url": "https://i.ytimg.com/vi/hN2mS9jkRSU/hqdefault.jpg"
+            "duration": "22:20",
+            "view_count": "45211",
+            "thumbnail_url": "https://i.ytimg.com/vi/PkeNckIk6ak/hqdefault.jpg"
+        },
+        {
+            "video_id": "VCqKgW6Lvb4",
+            "title": "Sometimes",
+            "channel_name": "Cha ga eul - Topic",
+            "category": "Music",
+            "duration": "4:01",
+            "view_count": "73869",
+            "thumbnail_url": "https://i.ytimg.com/vi/VCqKgW6Lvb4/hqdefault.jpg"
+        },
+        {
+            "video_id": "uFwbucsakxc",
+            "title": "[리니지클래식]🔴켄라우헬 -중대발표- \"사나이 가는길\"",
+            "channel_name": "차래현",
+            "category": "Gaming",
+            "duration": "3:01:49",
+            "view_count": "37172",
+            "thumbnail_url": "https://i.ytimg.com/vi/uFwbucsakxc/hqdefault.jpg"
         },
         {
             "video_id": "hO9C9iF-yI4",
@@ -205,17 +295,17 @@
             "channel_name": "로이킴 Roy Kim",
             "category": "Music",
             "duration": "4:59",
-            "view_count": "52063",
+            "view_count": "60742",
             "thumbnail_url": "https://i.ytimg.com/vi/hO9C9iF-yI4/hqdefault.jpg"
         },
         {
-            "video_id": "yZZvUD_Fam8",
-            "title": "탑 아무무의 새로운 패러다임, 버프 된 제국으로 깡패가 되어 돌아온 \"탑 제국 아무무 전략\"🤕",
-            "channel_name": "전략적죽음",
+            "video_id": "a_N9D9QFHkM",
+            "title": "하드코어에서 역대급 난이도의 탈출맵 만들기",
+            "channel_name": "프뚜",
             "category": "Gaming",
-            "duration": "29:31",
-            "view_count": "105084",
-            "thumbnail_url": "https://i.ytimg.com/vi/yZZvUD_Fam8/hqdefault.jpg"
+            "duration": "38:59",
+            "view_count": "65913",
+            "thumbnail_url": "https://i.ytimg.com/vi/a_N9D9QFHkM/hqdefault.jpg"
         },
         {
             "video_id": "M_aHacodV2U",
@@ -223,71 +313,17 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "38939",
+            "view_count": "44581",
             "thumbnail_url": "https://i.ytimg.com/vi/M_aHacodV2U/hqdefault.jpg"
         },
         {
-            "video_id": "e2MQPIyou9M",
-            "title": "갱플랭크 공략 1위가 직접 알려주는 그때 그시절 갱플랭크 ㅎㄷㄷ | 눈쟁이 장인초대석 [테스터훈]",
-            "channel_name": "테스터훈 TesterHoon",
+            "video_id": "xtT9AlPO-sQ",
+            "title": "본캐 신규패키지만 종류별로 500만원 폭풍현질 꼭 보세요!",
+            "channel_name": "두치와뿌꾸",
             "category": "Gaming",
-            "duration": "33:28",
-            "view_count": "269722",
-            "thumbnail_url": "https://i.ytimg.com/vi/e2MQPIyou9M/hqdefault.jpg"
-        },
-        {
-            "video_id": "Fdi_h18znj0",
-            "title": "Deep Dive",
-            "channel_name": "Alice Syndrome - Topic",
-            "category": "Music",
-            "duration": "2:21",
-            "view_count": "69107",
-            "thumbnail_url": "https://i.ytimg.com/vi/Fdi_h18znj0/hqdefault.jpg"
-        },
-        {
-            "video_id": "EDs_VH-VphQ",
-            "title": "이 타이쿤 뭔가 성장 속도가 엄청남 ㄷㄷ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "21:26",
-            "view_count": "121519",
-            "thumbnail_url": "https://i.ytimg.com/vi/EDs_VH-VphQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "KcDvGQXYSyI",
-            "title": "GO GHOST",
-            "channel_name": "King Gnu - Topic",
-            "category": "Music",
-            "duration": "2:51",
-            "view_count": "206095",
-            "thumbnail_url": "https://i.ytimg.com/vi/KcDvGQXYSyI/hqdefault.jpg"
-        },
-        {
-            "video_id": "vcZf2y_uNJs",
-            "title": "초 부자 10000 로벅스 쓰고 동물병원 변칙성 깨보겠습니다 ㅋㅋ",
-            "channel_name": "백앤아",
-            "category": "Gaming",
-            "duration": "23:28",
-            "view_count": "108086",
-            "thumbnail_url": "https://i.ytimg.com/vi/vcZf2y_uNJs/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZW_tAiAXCV8",
-            "title": "Back To Life",
-            "channel_name": "KARD - Topic",
-            "category": "Music",
-            "duration": "2:40",
-            "view_count": "270032",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZW_tAiAXCV8/hqdefault.jpg"
-        },
-        {
-            "video_id": "HQJXYSeesqI",
-            "title": "운영자 앞에 가서 하고싶은 말 다 했습니다",
-            "channel_name": "수찬 Suchan",
-            "category": "Gaming",
-            "duration": "18:31",
-            "view_count": "118555",
-            "thumbnail_url": "https://i.ytimg.com/vi/HQJXYSeesqI/hqdefault.jpg"
+            "duration": "41:01",
+            "view_count": "145754",
+            "thumbnail_url": "https://i.ytimg.com/vi/xtT9AlPO-sQ/hqdefault.jpg"
         },
         {
             "video_id": "6DaKkXFsfq0",
@@ -295,35 +331,35 @@
             "channel_name": "KINGDOMMUSIC - Topic",
             "category": "Music",
             "duration": "2:41",
-            "view_count": "124750",
+            "view_count": "146436",
             "thumbnail_url": "https://i.ytimg.com/vi/6DaKkXFsfq0/hqdefault.jpg"
         },
         {
-            "video_id": "7NA-Lm2Q_k0",
-            "title": "리니지M / 미친 유일검 나왔는데.. 가격이 미쳤는데..?",
-            "channel_name": "빅보스",
+            "video_id": "E4_zZ5n1Y4Q",
+            "title": "크아 썩은물과 서버 종료 멸망전💦",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "8:17",
-            "view_count": "146016",
-            "thumbnail_url": "https://i.ytimg.com/vi/7NA-Lm2Q_k0/hqdefault.jpg"
+            "duration": "28:58",
+            "view_count": "90185",
+            "thumbnail_url": "https://i.ytimg.com/vi/E4_zZ5n1Y4Q/hqdefault.jpg"
         },
         {
-            "video_id": "cnamzDpu430",
-            "title": "Remedied",
-            "channel_name": "FLO - Topic",
+            "video_id": "Fdi_h18znj0",
+            "title": "Deep Dive",
+            "channel_name": "Alice Syndrome - Topic",
             "category": "Music",
-            "duration": "2:08",
-            "view_count": "391460",
-            "thumbnail_url": "https://i.ytimg.com/vi/cnamzDpu430/hqdefault.jpg"
+            "duration": "2:21",
+            "view_count": "74207",
+            "thumbnail_url": "https://i.ytimg.com/vi/Fdi_h18znj0/hqdefault.jpg"
         },
         {
-            "video_id": "f3DLA1EU8vw",
-            "title": "[메이플스토리 맑음] 울티마 스쿼드 이 공략 아셔야만 최고 효율 뽑을 수 있습니다! / 울티마 스쿼드 카오스 100% 클리어 공략 / 울티마 스쿼드 3-10 공략까지 / 핵심 요약",
-            "channel_name": "메이플스토리맑음",
+            "video_id": "fG5UQxKMpio",
+            "title": "결승 진출 직전 역대급 교창 발생 | 멸망전 EP.13",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "17:03",
-            "view_count": "129139",
-            "thumbnail_url": "https://i.ytimg.com/vi/f3DLA1EU8vw/hqdefault.jpg"
+            "duration": "55:32",
+            "view_count": "135627",
+            "thumbnail_url": "https://i.ytimg.com/vi/fG5UQxKMpio/hqdefault.jpg"
         },
         {
             "video_id": "jsdbYg8xrvE",
@@ -331,53 +367,17 @@
             "channel_name": "JM - Topic",
             "category": "Music",
             "duration": "2:26",
-            "view_count": "186822",
+            "view_count": "209869",
             "thumbnail_url": "https://i.ytimg.com/vi/jsdbYg8xrvE/hqdefault.jpg"
         },
         {
-            "video_id": "VqHgQVtAYKA",
-            "title": "초반러쉬를 극도로 싫어하는 상대한테 극초반러쉬만 미친 듯이 하는 알파고.. 결국 상대는 이성을 잃고 폭주하는데?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "hN2mS9jkRSU",
+            "title": "키보드탈출에서 베리티 키캡을 찾았습니다..",
+            "channel_name": "싸모스",
             "category": "Gaming",
-            "duration": "44:44",
-            "view_count": "91372",
-            "thumbnail_url": "https://i.ytimg.com/vi/VqHgQVtAYKA/hqdefault.jpg"
-        },
-        {
-            "video_id": "yLmT-vuLixg",
-            "title": "Hey! My Love",
-            "channel_name": "chunbok - Topic",
-            "category": "Music",
-            "duration": "3:56",
-            "view_count": "63580",
-            "thumbnail_url": "https://i.ytimg.com/vi/yLmT-vuLixg/hqdefault.jpg"
-        },
-        {
-            "video_id": "cbviLxu-NWg",
-            "title": "야르한 왁뿌볼 부수기 겜",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "19:57",
-            "view_count": "211940",
-            "thumbnail_url": "https://i.ytimg.com/vi/cbviLxu-NWg/hqdefault.jpg"
-        },
-        {
-            "video_id": "nxSrfGR93TU",
-            "title": "[Special Live Clip] 송가인 (Song Ga In) - ‘꽃이 아니면 어떤가’",
-            "channel_name": "송가인",
-            "category": "Entertainment",
-            "duration": "3:35",
-            "view_count": "30011",
-            "thumbnail_url": "https://i.ytimg.com/vi/nxSrfGR93TU/hqdefault.jpg"
-        },
-        {
-            "video_id": "4mxXWv2Yf3E",
-            "title": "26.07.30(목) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
-            "channel_name": "인피쉰",
-            "category": "Gaming",
-            "duration": "4:53:36",
-            "view_count": "99682",
-            "thumbnail_url": "https://i.ytimg.com/vi/4mxXWv2Yf3E/hqdefault.jpg"
+            "duration": "16:41",
+            "view_count": "166279",
+            "thumbnail_url": "https://i.ytimg.com/vi/hN2mS9jkRSU/hqdefault.jpg"
         }
     ]
 }
