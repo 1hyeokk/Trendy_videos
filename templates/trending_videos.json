@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-08-11 12:46:37",
+    "scraped_time": "2026-08-11 14:11:07",
     "videos": [
         {
             "video_id": "cQPXraDIvS4",
@@ -7,7 +7,7 @@
             "channel_name": "KiiiKiii - Topic",
             "category": "Music",
             "duration": "2:22",
-            "view_count": "114534",
+            "view_count": "126361",
             "thumbnail_url": "https://i.ytimg.com/vi/cQPXraDIvS4/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "1:05:15",
-            "view_count": "257341",
+            "view_count": "259115",
             "thumbnail_url": "https://i.ytimg.com/vi/8H1HZjmqocA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "27:31",
-            "view_count": "357005",
+            "view_count": "377002",
             "thumbnail_url": "https://i.ytimg.com/vi/ebMjxxmQqoI/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "2:23",
-            "view_count": "1537018",
+            "view_count": "1582037",
             "thumbnail_url": "https://i.ytimg.com/vi/UsbRoaH6y-Q/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:14",
-            "view_count": "388271",
+            "view_count": "389248",
             "thumbnail_url": "https://i.ytimg.com/vi/GqCh4lcO5m4/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "48:06",
-            "view_count": "390773",
+            "view_count": "419014",
             "thumbnail_url": "https://i.ytimg.com/vi/xm0rGo666iE/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "aespa - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "679964",
+            "view_count": "699675",
             "thumbnail_url": "https://i.ytimg.com/vi/R30DHQSos8I/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "Tooniverse-투니버스",
             "category": "Entertainment",
             "duration": "2:02",
-            "view_count": "34128",
+            "view_count": "35585",
             "thumbnail_url": "https://i.ytimg.com/vi/NZ9YLg6coGg/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "33:30",
-            "view_count": "649180",
+            "view_count": "656190",
             "thumbnail_url": "https://i.ytimg.com/vi/yYGiPaSerVc/hqdefault.jpg"
         },
         {
@@ -88,8 +88,17 @@
             "channel_name": "Hearts2Hearts - Topic",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "78537",
+            "view_count": "81298",
             "thumbnail_url": "https://i.ytimg.com/vi/hl7_dxuytRQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "i_51kYspALo",
+            "title": "[옵세션] 니키니키니키니키 예고편",
+            "channel_name": "유니버설 픽쳐스",
+            "category": "Film & Animation",
+            "duration": "0:47",
+            "view_count": "3921",
+            "thumbnail_url": "https://i.ytimg.com/vi/i_51kYspALo/hqdefault.jpg"
         },
         {
             "video_id": "aqD1ckB0c-0",
@@ -97,62 +106,8 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "23:45",
-            "view_count": "228965",
+            "view_count": "238930",
             "thumbnail_url": "https://i.ytimg.com/vi/aqD1ckB0c-0/hqdefault.jpg"
-        },
-        {
-            "video_id": "0IjXY6ccn8Y",
-            "title": "Midnight Hearts Flow",
-            "channel_name": "NOYA - Topic",
-            "category": "Music",
-            "duration": "2:52",
-            "view_count": "354735",
-            "thumbnail_url": "https://i.ytimg.com/vi/0IjXY6ccn8Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "Mkm_wgUe78Y",
-            "title": "HLE vs GEN 하이라이트 | MATCH 33 | 2026 LoL KeSPA CUP",
-            "channel_name": "한국e스포츠협회",
-            "category": "Gaming",
-            "duration": "36:13",
-            "view_count": "180484",
-            "thumbnail_url": "https://i.ytimg.com/vi/Mkm_wgUe78Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "-Gv1oUyuzgA",
-            "title": "[MV] JUEUN(주은) _ Heartbeat(너랑 나는) (Feat.SHIRT)",
-            "channel_name": "1theK (원더케이)",
-            "category": "Music",
-            "duration": "2:06",
-            "view_count": "86707",
-            "thumbnail_url": "https://i.ytimg.com/vi/-Gv1oUyuzgA/hqdefault.jpg"
-        },
-        {
-            "video_id": "LIX1whgrNs4",
-            "title": "도전중독",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "27:00",
-            "view_count": "202363",
-            "thumbnail_url": "https://i.ytimg.com/vi/LIX1whgrNs4/hqdefault.jpg"
-        },
-        {
-            "video_id": "l2dYvtmwaLk",
-            "title": "Be my first love",
-            "channel_name": "EJel - Topic",
-            "category": "Music",
-            "duration": "3:33",
-            "view_count": "38540",
-            "thumbnail_url": "https://i.ytimg.com/vi/l2dYvtmwaLk/hqdefault.jpg"
-        },
-        {
-            "video_id": "nkWA_VyWGHw",
-            "title": "교랑스 스쿼드 보고 직접 등판한 팀갈 일타강사 유봉훈",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "20:53",
-            "view_count": "185139",
-            "thumbnail_url": "https://i.ytimg.com/vi/nkWA_VyWGHw/hqdefault.jpg"
         },
         {
             "video_id": "3Pbrd5piZNM",
@@ -160,8 +115,62 @@
             "channel_name": "태민 (TAEMIN)",
             "category": "Education",
             "duration": "2:13",
-            "view_count": "116572",
+            "view_count": "140328",
             "thumbnail_url": "https://i.ytimg.com/vi/3Pbrd5piZNM/hqdefault.jpg"
+        },
+        {
+            "video_id": "nkWA_VyWGHw",
+            "title": "교랑스 스쿼드 보고 직접 등판한 팀갈 일타강사 유봉훈",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "20:53",
+            "view_count": "201135",
+            "thumbnail_url": "https://i.ytimg.com/vi/nkWA_VyWGHw/hqdefault.jpg"
+        },
+        {
+            "video_id": "0IjXY6ccn8Y",
+            "title": "Midnight Hearts Flow",
+            "channel_name": "NOYA - Topic",
+            "category": "Music",
+            "duration": "2:52",
+            "view_count": "362801",
+            "thumbnail_url": "https://i.ytimg.com/vi/0IjXY6ccn8Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "LIX1whgrNs4",
+            "title": "도전중독",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "27:00",
+            "view_count": "212881",
+            "thumbnail_url": "https://i.ytimg.com/vi/LIX1whgrNs4/hqdefault.jpg"
+        },
+        {
+            "video_id": "-Gv1oUyuzgA",
+            "title": "[MV] JUEUN(주은) _ Heartbeat(너랑 나는) (Feat.SHIRT)",
+            "channel_name": "1theK (원더케이)",
+            "category": "Music",
+            "duration": "2:06",
+            "view_count": "90107",
+            "thumbnail_url": "https://i.ytimg.com/vi/-Gv1oUyuzgA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Mkm_wgUe78Y",
+            "title": "HLE vs GEN 하이라이트 | MATCH 33 | 2026 LoL KeSPA CUP",
+            "channel_name": "한국e스포츠협회",
+            "category": "Gaming",
+            "duration": "36:13",
+            "view_count": "183910",
+            "thumbnail_url": "https://i.ytimg.com/vi/Mkm_wgUe78Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "l2dYvtmwaLk",
+            "title": "Be my first love",
+            "channel_name": "EJel - Topic",
+            "category": "Music",
+            "duration": "3:33",
+            "view_count": "40212",
+            "thumbnail_url": "https://i.ytimg.com/vi/l2dYvtmwaLk/hqdefault.jpg"
         },
         {
             "video_id": "L6v_iyhGp6w",
@@ -169,7 +178,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "1:03:20",
-            "view_count": "118501",
+            "view_count": "130974",
             "thumbnail_url": "https://i.ytimg.com/vi/L6v_iyhGp6w/hqdefault.jpg"
         },
         {
@@ -178,7 +187,7 @@
             "channel_name": "ZEROBASEONE - Topic",
             "category": "Music",
             "duration": "3:33",
-            "view_count": "53621",
+            "view_count": "56849",
             "thumbnail_url": "https://i.ytimg.com/vi/-tyPjuXmddE/hqdefault.jpg"
         },
         {
@@ -187,98 +196,8 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "13:41",
-            "view_count": "184125",
+            "view_count": "187987",
             "thumbnail_url": "https://i.ytimg.com/vi/onABsQHTzaI/hqdefault.jpg"
-        },
-        {
-            "video_id": "otJ5wfKpVgs",
-            "title": "So Strange",
-            "channel_name": "Ashatree - Topic",
-            "category": "Music",
-            "duration": "3:27",
-            "view_count": "34811",
-            "thumbnail_url": "https://i.ytimg.com/vi/otJ5wfKpVgs/hqdefault.jpg"
-        },
-        {
-            "video_id": "e5EMuliLiA4",
-            "title": "스맵 왔다! 본캐 다팔고 새팀 현질해서 맞췄습니다ㅋㅋ 최초 공개!",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "48:36",
-            "view_count": "155377",
-            "thumbnail_url": "https://i.ytimg.com/vi/e5EMuliLiA4/hqdefault.jpg"
-        },
-        {
-            "video_id": "VZw-AWiukNw",
-            "title": "This & That (Chill Version)",
-            "channel_name": "Stray Kids - Topic",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "186083",
-            "thumbnail_url": "https://i.ytimg.com/vi/VZw-AWiukNw/hqdefault.jpg"
-        },
-        {
-            "video_id": "47yQSOQEUOs",
-            "title": "드림을 꿈꾸는 말왕의 3vs1 맨헌트",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "38:20",
-            "view_count": "340510",
-            "thumbnail_url": "https://i.ytimg.com/vi/47yQSOQEUOs/hqdefault.jpg"
-        },
-        {
-            "video_id": "FgUtOcBJoVI",
-            "title": "All I Can Say Is",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "2:49",
-            "view_count": "94360",
-            "thumbnail_url": "https://i.ytimg.com/vi/FgUtOcBJoVI/hqdefault.jpg"
-        },
-        {
-            "video_id": "n1T1h-1ynfk",
-            "title": "탑은 장소가 아니다",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "26:35",
-            "view_count": "314002",
-            "thumbnail_url": "https://i.ytimg.com/vi/n1T1h-1ynfk/hqdefault.jpg"
-        },
-        {
-            "video_id": "EW7Ou55qJlo",
-            "title": "Bottoms up(ver.sexxxxy)",
-            "channel_name": "Mylo Morrow - Topic",
-            "category": "Music",
-            "duration": "2:07",
-            "view_count": "20544",
-            "thumbnail_url": "https://i.ytimg.com/vi/EW7Ou55qJlo/hqdefault.jpg"
-        },
-        {
-            "video_id": "j1xmoRunADo",
-            "title": "현금 1000만원, 메이플에 현질하면 생기는 일 ㅋㅋㅋ | 청묘 장인초대석 [테스터훈]",
-            "channel_name": "테스터훈 TesterHoon",
-            "category": "Gaming",
-            "duration": "41:10",
-            "view_count": "253466",
-            "thumbnail_url": "https://i.ytimg.com/vi/j1xmoRunADo/hqdefault.jpg"
-        },
-        {
-            "video_id": "cIVgxlVAjzk",
-            "title": "그래 늦지 않았어",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "51061",
-            "thumbnail_url": "https://i.ytimg.com/vi/cIVgxlVAjzk/hqdefault.jpg"
-        },
-        {
-            "video_id": "DZgEYywXjBo",
-            "title": "12시 원정대 : 8비트 보스 잡기",
-            "channel_name": "왈도쿤",
-            "category": "Gaming",
-            "duration": "19:47",
-            "view_count": "118576",
-            "thumbnail_url": "https://i.ytimg.com/vi/DZgEYywXjBo/hqdefault.jpg"
         },
         {
             "video_id": "DBr5cpplzWA",
@@ -286,26 +205,98 @@
             "channel_name": "Nno Signal - Topic",
             "category": "Music",
             "duration": "2:02",
-            "view_count": "12429",
+            "view_count": "15803",
             "thumbnail_url": "https://i.ytimg.com/vi/DBr5cpplzWA/hqdefault.jpg"
         },
         {
-            "video_id": "0J_UhTlg2AU",
-            "title": "26.08.10(월) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
-            "channel_name": "인피쉰",
+            "video_id": "e5EMuliLiA4",
+            "title": "스맵 왔다! 본캐 다팔고 새팀 현질해서 맞췄습니다ㅋㅋ 최초 공개!",
+            "channel_name": "두치와뿌꾸",
             "category": "Gaming",
-            "duration": "7:18:19",
-            "view_count": "120054",
-            "thumbnail_url": "https://i.ytimg.com/vi/0J_UhTlg2AU/hqdefault.jpg"
+            "duration": "48:36",
+            "view_count": "157947",
+            "thumbnail_url": "https://i.ytimg.com/vi/e5EMuliLiA4/hqdefault.jpg"
         },
         {
-            "video_id": "7MAs5b7EJyc",
-            "title": "Babydoll",
+            "video_id": "otJ5wfKpVgs",
+            "title": "So Strange",
+            "channel_name": "Ashatree - Topic",
+            "category": "Music",
+            "duration": "3:27",
+            "view_count": "36863",
+            "thumbnail_url": "https://i.ytimg.com/vi/otJ5wfKpVgs/hqdefault.jpg"
+        },
+        {
+            "video_id": "47yQSOQEUOs",
+            "title": "드림을 꿈꾸는 말왕의 3vs1 맨헌트",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "38:20",
+            "view_count": "344021",
+            "thumbnail_url": "https://i.ytimg.com/vi/47yQSOQEUOs/hqdefault.jpg"
+        },
+        {
+            "video_id": "VZw-AWiukNw",
+            "title": "This & That (Chill Version)",
+            "channel_name": "Stray Kids - Topic",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "194684",
+            "thumbnail_url": "https://i.ytimg.com/vi/VZw-AWiukNw/hqdefault.jpg"
+        },
+        {
+            "video_id": "n1T1h-1ynfk",
+            "title": "탑은 장소가 아니다",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "26:35",
+            "view_count": "316751",
+            "thumbnail_url": "https://i.ytimg.com/vi/n1T1h-1ynfk/hqdefault.jpg"
+        },
+        {
+            "video_id": "FgUtOcBJoVI",
+            "title": "All I Can Say Is",
             "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "2:59",
-            "view_count": "201102",
-            "thumbnail_url": "https://i.ytimg.com/vi/7MAs5b7EJyc/hqdefault.jpg"
+            "duration": "2:49",
+            "view_count": "97728",
+            "thumbnail_url": "https://i.ytimg.com/vi/FgUtOcBJoVI/hqdefault.jpg"
+        },
+        {
+            "video_id": "j1xmoRunADo",
+            "title": "현금 1000만원, 메이플에 현질하면 생기는 일 ㅋㅋㅋ | 청묘 장인초대석 [테스터훈]",
+            "channel_name": "테스터훈 TesterHoon",
+            "category": "Gaming",
+            "duration": "41:10",
+            "view_count": "256345",
+            "thumbnail_url": "https://i.ytimg.com/vi/j1xmoRunADo/hqdefault.jpg"
+        },
+        {
+            "video_id": "7ARyExOTfW0",
+            "title": "Diamond Horizon",
+            "channel_name": "Oliver Wells - Topic",
+            "category": "Music",
+            "duration": "2:11",
+            "view_count": "43302",
+            "thumbnail_url": "https://i.ytimg.com/vi/7ARyExOTfW0/hqdefault.jpg"
+        },
+        {
+            "video_id": "DZgEYywXjBo",
+            "title": "12시 원정대 : 8비트 보스 잡기",
+            "channel_name": "왈도쿤",
+            "category": "Gaming",
+            "duration": "19:47",
+            "view_count": "123704",
+            "thumbnail_url": "https://i.ytimg.com/vi/DZgEYywXjBo/hqdefault.jpg"
+        },
+        {
+            "video_id": "EW7Ou55qJlo",
+            "title": "Bottoms up(ver.sexxxxy)",
+            "channel_name": "Mylo Morrow - Topic",
+            "category": "Music",
+            "duration": "2:07",
+            "view_count": "23021",
+            "thumbnail_url": "https://i.ytimg.com/vi/EW7Ou55qJlo/hqdefault.jpg"
         },
         {
             "video_id": "Yw2kbw9Z0RA",
@@ -313,8 +304,26 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "36:00",
-            "view_count": "114813",
+            "view_count": "119469",
             "thumbnail_url": "https://i.ytimg.com/vi/Yw2kbw9Z0RA/hqdefault.jpg"
+        },
+        {
+            "video_id": "cIVgxlVAjzk",
+            "title": "그래 늦지 않았어",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "52186",
+            "thumbnail_url": "https://i.ytimg.com/vi/cIVgxlVAjzk/hqdefault.jpg"
+        },
+        {
+            "video_id": "0J_UhTlg2AU",
+            "title": "26.08.10(월) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
+            "category": "Gaming",
+            "duration": "7:18:19",
+            "view_count": "120521",
+            "thumbnail_url": "https://i.ytimg.com/vi/0J_UhTlg2AU/hqdefault.jpg"
         },
         {
             "video_id": "fWeJIxs_D5U",
@@ -322,7 +331,7 @@
             "channel_name": "SEO EUNKWANG - Topic",
             "category": "Music",
             "duration": "2:27",
-            "view_count": "20400",
+            "view_count": "21785",
             "thumbnail_url": "https://i.ytimg.com/vi/fWeJIxs_D5U/hqdefault.jpg"
         },
         {
@@ -331,17 +340,17 @@
             "channel_name": "돌잼",
             "category": "Comedy",
             "duration": "20:42",
-            "view_count": "106614",
+            "view_count": "111944",
             "thumbnail_url": "https://i.ytimg.com/vi/VME5Dqhm2og/hqdefault.jpg"
         },
         {
-            "video_id": "7ARyExOTfW0",
-            "title": "Diamond Horizon",
-            "channel_name": "Oliver Wells - Topic",
+            "video_id": "7MAs5b7EJyc",
+            "title": "Babydoll",
+            "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "2:11",
-            "view_count": "20797",
-            "thumbnail_url": "https://i.ytimg.com/vi/7ARyExOTfW0/hqdefault.jpg"
+            "duration": "2:59",
+            "view_count": "206149",
+            "thumbnail_url": "https://i.ytimg.com/vi/7MAs5b7EJyc/hqdefault.jpg"
         },
         {
             "video_id": "Xi52HRfSRZE",
@@ -349,17 +358,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "54:26",
-            "view_count": "108774",
+            "view_count": "113239",
             "thumbnail_url": "https://i.ytimg.com/vi/Xi52HRfSRZE/hqdefault.jpg"
         },
         {
-            "video_id": "WySinJBB8OY",
-            "title": "wave to earth - you",
-            "channel_name": "wave to earth",
+            "video_id": "qLT2WfUTuKs",
+            "title": "1 to 10 (feat. Shane)",
+            "channel_name": "oftn - Topic",
             "category": "Music",
-            "duration": "4:21",
-            "view_count": "102675",
-            "thumbnail_url": "https://i.ytimg.com/vi/WySinJBB8OY/hqdefault.jpg"
+            "duration": "3:19",
+            "view_count": "49995",
+            "thumbnail_url": "https://i.ytimg.com/vi/qLT2WfUTuKs/hqdefault.jpg"
         },
         {
             "video_id": "eSD2u0-5q_o",
@@ -367,17 +376,8 @@
             "channel_name": "이석현",
             "category": "Gaming",
             "duration": "20:42",
-            "view_count": "94510",
+            "view_count": "97748",
             "thumbnail_url": "https://i.ytimg.com/vi/eSD2u0-5q_o/hqdefault.jpg"
-        },
-        {
-            "video_id": "WWlUAzzalIo",
-            "title": "Afterparty (5 a.m.)",
-            "channel_name": "WayV - Topic",
-            "category": "Music",
-            "duration": "3:34",
-            "view_count": "31281",
-            "thumbnail_url": "https://i.ytimg.com/vi/WWlUAzzalIo/hqdefault.jpg"
         }
     ]
 }
