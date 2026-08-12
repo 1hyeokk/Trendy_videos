@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-08-12 19:07:55",
+    "scraped_time": "2026-08-12 20:48:11",
     "videos": [
         {
             "video_id": "cQPXraDIvS4",
@@ -7,7 +7,7 @@
             "channel_name": "KiiiKiii - Topic",
             "category": "Music",
             "duration": "2:22",
-            "view_count": "341531",
+            "view_count": "355700",
             "thumbnail_url": "https://i.ytimg.com/vi/cQPXraDIvS4/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "1:05:15",
-            "view_count": "279326",
+            "view_count": "280074",
             "thumbnail_url": "https://i.ytimg.com/vi/8H1HZjmqocA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "26:28",
-            "view_count": "307145",
+            "view_count": "313093",
             "thumbnail_url": "https://i.ytimg.com/vi/Wyi2rn2t0LI/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "STARSHIP",
             "category": "Music",
             "duration": "2:23",
-            "view_count": "2157062",
+            "view_count": "2174511",
             "thumbnail_url": "https://i.ytimg.com/vi/UsbRoaH6y-Q/hqdefault.jpg"
         },
         {
@@ -43,62 +43,8 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "27:31",
-            "view_count": "519504",
+            "view_count": "521938",
             "thumbnail_url": "https://i.ytimg.com/vi/ebMjxxmQqoI/hqdefault.jpg"
-        },
-        {
-            "video_id": "R30DHQSos8I",
-            "title": "Serenade (KARINA & WINTER)",
-            "channel_name": "aespa - Topic",
-            "category": "Music",
-            "duration": "3:05",
-            "view_count": "948931",
-            "thumbnail_url": "https://i.ytimg.com/vi/R30DHQSos8I/hqdefault.jpg"
-        },
-        {
-            "video_id": "xm0rGo666iE",
-            "title": "이번엔 \"마트 정리하는 게임\" 하다하다 안돼서 혜안져스를 불렀습니다...",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "48:06",
-            "view_count": "654508",
-            "thumbnail_url": "https://i.ytimg.com/vi/xm0rGo666iE/hqdefault.jpg"
-        },
-        {
-            "video_id": "Zt939FWYipg",
-            "title": "KiiiKiii 키키 'Pop Off Pop Off'｜On the Spot｜온더스팟",
-            "channel_name": "1theK Originals - 원더케이 오리지널",
-            "category": "Entertainment",
-            "duration": "2:48",
-            "view_count": "298127",
-            "thumbnail_url": "https://i.ytimg.com/vi/Zt939FWYipg/hqdefault.jpg"
-        },
-        {
-            "video_id": "1P38KnT-LZE",
-            "title": "꺼내고 싶지 않았는데",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "27:08",
-            "view_count": "397976",
-            "thumbnail_url": "https://i.ytimg.com/vi/1P38KnT-LZE/hqdefault.jpg"
-        },
-        {
-            "video_id": "s8BOZFalBI8",
-            "title": "NCT 127 엔시티 127 'Piñata' Track Video",
-            "channel_name": "NCT 127",
-            "category": "Music",
-            "duration": "2:43",
-            "view_count": "620108",
-            "thumbnail_url": "https://i.ytimg.com/vi/s8BOZFalBI8/hqdefault.jpg"
-        },
-        {
-            "video_id": "--sgEQXAC4c",
-            "title": "\"저치기 저치기 야야야\"｜시그니처CK",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "54:40",
-            "view_count": "149675",
-            "thumbnail_url": "https://i.ytimg.com/vi/--sgEQXAC4c/hqdefault.jpg"
         },
         {
             "video_id": "chl0R8C4NJ8",
@@ -106,8 +52,62 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:53",
-            "view_count": "1302612",
+            "view_count": "1389849",
             "thumbnail_url": "https://i.ytimg.com/vi/chl0R8C4NJ8/hqdefault.jpg"
+        },
+        {
+            "video_id": "xm0rGo666iE",
+            "title": "이번엔 \"마트 정리하는 게임\" 하다하다 안돼서 혜안져스를 불렀습니다...",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "48:06",
+            "view_count": "660775",
+            "thumbnail_url": "https://i.ytimg.com/vi/xm0rGo666iE/hqdefault.jpg"
+        },
+        {
+            "video_id": "R30DHQSos8I",
+            "title": "Serenade (KARINA & WINTER)",
+            "channel_name": "aespa - Topic",
+            "category": "Music",
+            "duration": "3:05",
+            "view_count": "961232",
+            "thumbnail_url": "https://i.ytimg.com/vi/R30DHQSos8I/hqdefault.jpg"
+        },
+        {
+            "video_id": "1P38KnT-LZE",
+            "title": "꺼내고 싶지 않았는데",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "27:08",
+            "view_count": "406589",
+            "thumbnail_url": "https://i.ytimg.com/vi/1P38KnT-LZE/hqdefault.jpg"
+        },
+        {
+            "video_id": "Zt939FWYipg",
+            "title": "KiiiKiii 키키 'Pop Off Pop Off'｜On the Spot｜온더스팟",
+            "channel_name": "1theK Originals - 원더케이 오리지널",
+            "category": "Entertainment",
+            "duration": "2:48",
+            "view_count": "310708",
+            "thumbnail_url": "https://i.ytimg.com/vi/Zt939FWYipg/hqdefault.jpg"
+        },
+        {
+            "video_id": "--sgEQXAC4c",
+            "title": "\"저치기 저치기 야야야\"｜시그니처CK",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "54:40",
+            "view_count": "155547",
+            "thumbnail_url": "https://i.ytimg.com/vi/--sgEQXAC4c/hqdefault.jpg"
+        },
+        {
+            "video_id": "s8BOZFalBI8",
+            "title": "NCT 127 엔시티 127 'Piñata' Track Video",
+            "channel_name": "NCT 127",
+            "category": "Music",
+            "duration": "2:43",
+            "view_count": "651475",
+            "thumbnail_url": "https://i.ytimg.com/vi/s8BOZFalBI8/hqdefault.jpg"
         },
         {
             "video_id": "86WTMl2vd2o",
@@ -115,7 +115,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "4:01:22",
-            "view_count": "162073",
+            "view_count": "168564",
             "thumbnail_url": "https://i.ytimg.com/vi/86WTMl2vd2o/hqdefault.jpg"
         },
         {
@@ -124,17 +124,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "38923",
+            "view_count": "40988",
             "thumbnail_url": "https://i.ytimg.com/vi/Oqy2PggxUqs/hqdefault.jpg"
         },
         {
-            "video_id": "0WzxVwSzUek",
-            "title": "[ 불도그 LIVE 생방송 8/11 ] 리니지클래식 신섭 9검4셋 고장연합 혈원으로 인사드립니다.",
-            "channel_name": "불도그",
+            "video_id": "b5fJHVhOvVs",
+            "title": "무한다이노 오우너 [마크 코블몬 EP.05]",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "3:42:03",
-            "view_count": "166912",
-            "thumbnail_url": "https://i.ytimg.com/vi/0WzxVwSzUek/hqdefault.jpg"
+            "duration": "50:07",
+            "view_count": "66945",
+            "thumbnail_url": "https://i.ytimg.com/vi/b5fJHVhOvVs/hqdefault.jpg"
         },
         {
             "video_id": "DBr5cpplzWA",
@@ -142,7 +142,7 @@
             "channel_name": "Nno Signal - Topic",
             "category": "Music",
             "duration": "2:02",
-            "view_count": "50721",
+            "view_count": "52731",
             "thumbnail_url": "https://i.ytimg.com/vi/DBr5cpplzWA/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "38:43",
-            "view_count": "121411",
+            "view_count": "128414",
             "thumbnail_url": "https://i.ytimg.com/vi/KwlQcyeJguU/hqdefault.jpg"
         },
         {
@@ -160,8 +160,44 @@
             "channel_name": "Oliver Wells - Topic",
             "category": "Music",
             "duration": "2:11",
-            "view_count": "239039",
+            "view_count": "252303",
             "thumbnail_url": "https://i.ytimg.com/vi/7ARyExOTfW0/hqdefault.jpg"
+        },
+        {
+            "video_id": "rK0bhx5FfKk",
+            "title": "오늘 8등부터 1등까지 전부 결정.. 뿌꾸 이상호 김민교 스맵 임유진 클리드 도현 서도일",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "1:03:49",
+            "view_count": "57224",
+            "thumbnail_url": "https://i.ytimg.com/vi/rK0bhx5FfKk/hqdefault.jpg"
+        },
+        {
+            "video_id": "-dfadHvMr64",
+            "title": "망고빙수 (Mango Bingsu)",
+            "channel_name": "Zayvo - Topic",
+            "category": "Music",
+            "duration": "2:15",
+            "view_count": "19629",
+            "thumbnail_url": "https://i.ytimg.com/vi/-dfadHvMr64/hqdefault.jpg"
+        },
+        {
+            "video_id": "0WzxVwSzUek",
+            "title": "[ 불도그 LIVE 생방송 8/11 ] 리니지클래식 신섭 9검4셋 고장연합 혈원으로 인사드립니다.",
+            "channel_name": "불도그",
+            "category": "Gaming",
+            "duration": "3:42:03",
+            "view_count": "167839",
+            "thumbnail_url": "https://i.ytimg.com/vi/0WzxVwSzUek/hqdefault.jpg"
+        },
+        {
+            "video_id": "kmBYatrA_2g",
+            "title": "i love LOVE",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:00",
+            "view_count": "36707",
+            "thumbnail_url": "https://i.ytimg.com/vi/kmBYatrA_2g/hqdefault.jpg"
         },
         {
             "video_id": "yYGiPaSerVc",
@@ -169,7 +205,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "33:30",
-            "view_count": "747958",
+            "view_count": "750676",
             "thumbnail_url": "https://i.ytimg.com/vi/yYGiPaSerVc/hqdefault.jpg"
         },
         {
@@ -178,35 +214,17 @@
             "channel_name": "URBAN ZAKAPA - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "25298",
+            "view_count": "26454",
             "thumbnail_url": "https://i.ytimg.com/vi/vkVhx6mvGA0/hqdefault.jpg"
         },
         {
-            "video_id": "HGSVNeI9AkE",
-            "title": "[LIVE] 8월 11일 아이온2 업데이트 프리뷰 방송",
-            "channel_name": "AION2",
+            "video_id": "DoviaBAqcao",
+            "title": "승리에 미친 사람",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "1:13:52",
-            "view_count": "97121",
-            "thumbnail_url": "https://i.ytimg.com/vi/HGSVNeI9AkE/hqdefault.jpg"
-        },
-        {
-            "video_id": "kmBYatrA_2g",
-            "title": "i love LOVE",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:00",
-            "view_count": "34317",
-            "thumbnail_url": "https://i.ytimg.com/vi/kmBYatrA_2g/hqdefault.jpg"
-        },
-        {
-            "video_id": "KTfYhclnbGg",
-            "title": "팔척귀신 연애 시뮬레이터",
-            "channel_name": "우주하마",
-            "category": "Gaming",
-            "duration": "44:47",
-            "view_count": "200548",
-            "thumbnail_url": "https://i.ytimg.com/vi/KTfYhclnbGg/hqdefault.jpg"
+            "duration": "22:40",
+            "view_count": "69379",
+            "thumbnail_url": "https://i.ytimg.com/vi/DoviaBAqcao/hqdefault.jpg"
         },
         {
             "video_id": "3Pbrd5piZNM",
@@ -214,17 +232,35 @@
             "channel_name": "태민 (TAEMIN)",
             "category": "Education",
             "duration": "2:13",
-            "view_count": "322752",
+            "view_count": "327073",
             "thumbnail_url": "https://i.ytimg.com/vi/3Pbrd5piZNM/hqdefault.jpg"
         },
         {
-            "video_id": "BFoWrGYM-YY",
-            "title": "[이게 진짜 게밥쇼] 서도일 본캐 구단가치 x3 됨 ㅁㅊ;;",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "KTfYhclnbGg",
+            "title": "팔척귀신 연애 시뮬레이터",
+            "channel_name": "우주하마",
             "category": "Gaming",
-            "duration": "43:26",
-            "view_count": "157686",
-            "thumbnail_url": "https://i.ytimg.com/vi/BFoWrGYM-YY/hqdefault.jpg"
+            "duration": "44:47",
+            "view_count": "203820",
+            "thumbnail_url": "https://i.ytimg.com/vi/KTfYhclnbGg/hqdefault.jpg"
+        },
+        {
+            "video_id": "hl7_dxuytRQ",
+            "title": "ICONIC HEART",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "137683",
+            "thumbnail_url": "https://i.ytimg.com/vi/hl7_dxuytRQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "HGSVNeI9AkE",
+            "title": "[LIVE] 8월 11일 아이온2 업데이트 프리뷰 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "1:13:52",
+            "view_count": "97265",
+            "thumbnail_url": "https://i.ytimg.com/vi/HGSVNeI9AkE/hqdefault.jpg"
         },
         {
             "video_id": "BZB3xSI4QYg",
@@ -232,7 +268,7 @@
             "channel_name": "Jueun - Topic",
             "category": "Music",
             "duration": "2:06",
-            "view_count": "107473",
+            "view_count": "111628",
             "thumbnail_url": "https://i.ytimg.com/vi/BZB3xSI4QYg/hqdefault.jpg"
         },
         {
@@ -241,26 +277,8 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "23:45",
-            "view_count": "314046",
+            "view_count": "315667",
             "thumbnail_url": "https://i.ytimg.com/vi/aqD1ckB0c-0/hqdefault.jpg"
-        },
-        {
-            "video_id": "hl7_dxuytRQ",
-            "title": "ICONIC HEART",
-            "channel_name": "Hearts2Hearts - Topic",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "134173",
-            "thumbnail_url": "https://i.ytimg.com/vi/hl7_dxuytRQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "8xo5EsDS9RA",
-            "title": "소비해서 너프하자",
-            "channel_name": "Official dopa",
-            "category": "Gaming",
-            "duration": "30:58",
-            "view_count": "141394",
-            "thumbnail_url": "https://i.ytimg.com/vi/8xo5EsDS9RA/hqdefault.jpg"
         },
         {
             "video_id": "QYKFqw7ke5E",
@@ -268,53 +286,17 @@
             "channel_name": "DAVICHI - Topic",
             "category": "Music",
             "duration": "4:03",
-            "view_count": "12246",
+            "view_count": "13682",
             "thumbnail_url": "https://i.ytimg.com/vi/QYKFqw7ke5E/hqdefault.jpg"
         },
         {
-            "video_id": "it9bk0kAIo4",
-            "title": "'유명 코스플레이어'와 둘이서 배그하다가 결국 들켰습니다..",
-            "channel_name": "김블루",
+            "video_id": "dKrxg4BUI54",
+            "title": "영창 1타 강사",
+            "channel_name": "이도원",
             "category": "Gaming",
-            "duration": "15:38",
-            "view_count": "164550",
-            "thumbnail_url": "https://i.ytimg.com/vi/it9bk0kAIo4/hqdefault.jpg"
-        },
-        {
-            "video_id": "otJ5wfKpVgs",
-            "title": "So Strange",
-            "channel_name": "Ashatree - Topic",
-            "category": "Music",
-            "duration": "3:27",
-            "view_count": "73601",
-            "thumbnail_url": "https://i.ytimg.com/vi/otJ5wfKpVgs/hqdefault.jpg"
-        },
-        {
-            "video_id": "jTzfQsFSD1c",
-            "title": "초패스트 7지옥불이 켜지면 벌어지는 일",
-            "channel_name": "잡상싱",
-            "category": "Gaming",
-            "duration": "12:31",
-            "view_count": "128761",
-            "thumbnail_url": "https://i.ytimg.com/vi/jTzfQsFSD1c/hqdefault.jpg"
-        },
-        {
-            "video_id": "UMinXZIMfQc",
-            "title": "술탄 오브 더 디스코 - 신나는 음악, 잘못된 인생 Good Beats, Ruined Life (Official Visualizer)",
-            "channel_name": "Sultan Of The Disco",
-            "category": "Entertainment",
-            "duration": "4:01",
-            "view_count": "35846",
-            "thumbnail_url": "https://i.ytimg.com/vi/UMinXZIMfQc/hqdefault.jpg"
-        },
-        {
-            "video_id": "mWgFHv2bpQQ",
-            "title": "배그 개발자 : ????????",
-            "channel_name": "주키니TV",
-            "category": "Gaming",
-            "duration": "21:33",
-            "view_count": "120186",
-            "thumbnail_url": "https://i.ytimg.com/vi/mWgFHv2bpQQ/hqdefault.jpg"
+            "duration": "17:49",
+            "view_count": "55531",
+            "thumbnail_url": "https://i.ytimg.com/vi/dKrxg4BUI54/hqdefault.jpg"
         },
         {
             "video_id": "n4-xCpxMmt0",
@@ -322,35 +304,53 @@
             "channel_name": "Anonymous Artists (어나니머스 아티스트)",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "19129",
+            "view_count": "20915",
             "thumbnail_url": "https://i.ytimg.com/vi/n4-xCpxMmt0/hqdefault.jpg"
         },
         {
-            "video_id": "hV1r7U3zRIM",
-            "title": "유저를 대놓고 '호구' 취급하는 마비노기 모바일의 충격적인 근황",
-            "channel_name": "펭귄몬스터",
+            "video_id": "5vtaN7VRrNk",
+            "title": "[아이온2] 쉽게 깨는 신규 초월 \"노이란의 숨겨진 유산\" 핵심 공략법 - 강타 아르카나 획득",
+            "channel_name": "쵸튜브[쵸피]",
             "category": "Gaming",
-            "duration": "14:02",
-            "view_count": "178532",
-            "thumbnail_url": "https://i.ytimg.com/vi/hV1r7U3zRIM/hqdefault.jpg"
+            "duration": "10:03",
+            "view_count": "23146",
+            "thumbnail_url": "https://i.ytimg.com/vi/5vtaN7VRrNk/hqdefault.jpg"
         },
         {
-            "video_id": "-Gv1oUyuzgA",
-            "title": "[MV] JUEUN(주은) _ Heartbeat(너랑 나는) (Feat.SHIRT)",
-            "channel_name": "1theK (원더케이)",
+            "video_id": "UMinXZIMfQc",
+            "title": "술탄 오브 더 디스코 - 신나는 음악, 잘못된 인생 Good Beats, Ruined Life (Official Visualizer)",
+            "channel_name": "Sultan Of The Disco",
+            "category": "Entertainment",
+            "duration": "4:01",
+            "view_count": "37544",
+            "thumbnail_url": "https://i.ytimg.com/vi/UMinXZIMfQc/hqdefault.jpg"
+        },
+        {
+            "video_id": "IMQ95BZxnNw",
+            "title": "【 탬탬버린 】 - 메이플 현명하게 하는 법 일단 쇼핑을해",
+            "channel_name": "탬탬버린",
+            "category": "Gaming",
+            "duration": "18:48",
+            "view_count": "47033",
+            "thumbnail_url": "https://i.ytimg.com/vi/IMQ95BZxnNw/hqdefault.jpg"
+        },
+        {
+            "video_id": "otJ5wfKpVgs",
+            "title": "So Strange",
+            "channel_name": "Ashatree - Topic",
             "category": "Music",
-            "duration": "2:06",
-            "view_count": "144061",
-            "thumbnail_url": "https://i.ytimg.com/vi/-Gv1oUyuzgA/hqdefault.jpg"
+            "duration": "3:27",
+            "view_count": "75881",
+            "thumbnail_url": "https://i.ytimg.com/vi/otJ5wfKpVgs/hqdefault.jpg"
         },
         {
-            "video_id": "jJXeV_u3kfs",
-            "title": "팡이 흡수 완료 [메이플스토리]",
-            "channel_name": "채널 명예훈장",
+            "video_id": "8xo5EsDS9RA",
+            "title": "소비해서 너프하자",
+            "channel_name": "Official dopa",
             "category": "Gaming",
-            "duration": "29:27",
-            "view_count": "113267",
-            "thumbnail_url": "https://i.ytimg.com/vi/jJXeV_u3kfs/hqdefault.jpg"
+            "duration": "30:58",
+            "view_count": "142896",
+            "thumbnail_url": "https://i.ytimg.com/vi/8xo5EsDS9RA/hqdefault.jpg"
         },
         {
             "video_id": "fWeJIxs_D5U",
@@ -358,26 +358,26 @@
             "channel_name": "SEO EUNKWANG - Topic",
             "category": "Music",
             "duration": "2:27",
-            "view_count": "40398",
+            "view_count": "41670",
             "thumbnail_url": "https://i.ytimg.com/vi/fWeJIxs_D5U/hqdefault.jpg"
         },
         {
-            "video_id": "5G9Jby8V4hk",
-            "title": "스펙업 상담을 가장한 진캐의 엔버 패기..",
-            "channel_name": "안녕수야",
+            "video_id": "it9bk0kAIo4",
+            "title": "'유명 코스플레이어'와 둘이서 배그하다가 결국 들켰습니다..",
+            "channel_name": "김블루",
             "category": "Gaming",
-            "duration": "14:53",
-            "view_count": "97572",
-            "thumbnail_url": "https://i.ytimg.com/vi/5G9Jby8V4hk/hqdefault.jpg"
+            "duration": "15:38",
+            "view_count": "166935",
+            "thumbnail_url": "https://i.ytimg.com/vi/it9bk0kAIo4/hqdefault.jpg"
         },
         {
-            "video_id": "-tyPjuXmddE",
-            "title": "Existence",
-            "channel_name": "ZEROBASEONE - Topic",
+            "video_id": "-Gv1oUyuzgA",
+            "title": "[MV] JUEUN(주은) _ Heartbeat(너랑 나는) (Feat.SHIRT)",
+            "channel_name": "1theK (원더케이)",
             "category": "Music",
-            "duration": "3:33",
-            "view_count": "92367",
-            "thumbnail_url": "https://i.ytimg.com/vi/-tyPjuXmddE/hqdefault.jpg"
+            "duration": "2:06",
+            "view_count": "146355",
+            "thumbnail_url": "https://i.ytimg.com/vi/-Gv1oUyuzgA/hqdefault.jpg"
         }
     ]
 }
