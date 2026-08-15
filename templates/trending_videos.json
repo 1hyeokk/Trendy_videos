@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-08-15 14:26:21",
+    "scraped_time": "2026-08-15 15:40:57",
     "videos": [
         {
             "video_id": "wlUvFCbMXms",
@@ -7,17 +7,17 @@
             "channel_name": "pH-1 - Topic",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "163806",
+            "view_count": "167822",
             "thumbnail_url": "https://i.ytimg.com/vi/wlUvFCbMXms/hqdefault.jpg"
         },
         {
-            "video_id": "zXcxXddFEP0",
-            "title": "들쥐 | 공식 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "video_id": "Bk6DeEedYGs",
+            "title": "[어벤져스: 둠스데이] '둠의 심판' 예고편",
+            "channel_name": "MarvelKorea",
             "category": "Entertainment",
-            "duration": "1:58",
-            "view_count": "114657",
-            "thumbnail_url": "https://i.ytimg.com/vi/zXcxXddFEP0/hqdefault.jpg"
+            "duration": "2:17",
+            "view_count": "249389",
+            "thumbnail_url": "https://i.ytimg.com/vi/Bk6DeEedYGs/hqdefault.jpg"
         },
         {
             "video_id": "6WXz925Y9v0",
@@ -25,7 +25,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "20:34",
-            "view_count": "430175",
+            "view_count": "450211",
             "thumbnail_url": "https://i.ytimg.com/vi/6WXz925Y9v0/hqdefault.jpg"
         },
         {
@@ -34,35 +34,17 @@
             "channel_name": "AxMxP",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "1335438",
+            "view_count": "1340378",
             "thumbnail_url": "https://i.ytimg.com/vi/E30TvxRbZJs/hqdefault.jpg"
         },
         {
-            "video_id": "T0pBKOLOKLM",
-            "title": "「침향 외전」공식 예고편 | Trailer Modern AU Spin-off | AI BL Drama [CHIMHYANG: Scent of the Needle]",
-            "channel_name": "Late Blue Night",
+            "video_id": "oSVTAUKyrL8",
+            "title": "Marvel Television’s VisionQuest | Official Trailer",
+            "channel_name": "Marvel Entertainment",
             "category": "Entertainment",
-            "duration": "1:26",
-            "view_count": "88907",
-            "thumbnail_url": "https://i.ytimg.com/vi/T0pBKOLOKLM/hqdefault.jpg"
-        },
-        {
-            "video_id": "0bNUmc3uRM4",
-            "title": "아내 첫 공개 하자마자 울려버린 남자",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "50:35",
-            "view_count": "534234",
-            "thumbnail_url": "https://i.ytimg.com/vi/0bNUmc3uRM4/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZIBoYP1MIt8",
-            "title": "Three days after",
-            "channel_name": "HYNN - Topic",
-            "category": "Music",
-            "duration": "3:26",
-            "view_count": "114921",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZIBoYP1MIt8/hqdefault.jpg"
+            "duration": "2:05",
+            "view_count": "1158186",
+            "thumbnail_url": "https://i.ytimg.com/vi/oSVTAUKyrL8/hqdefault.jpg"
         },
         {
             "video_id": "5fqHAoZO7kk",
@@ -70,8 +52,35 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "38:54",
-            "view_count": "314090",
+            "view_count": "333676",
             "thumbnail_url": "https://i.ytimg.com/vi/5fqHAoZO7kk/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZIBoYP1MIt8",
+            "title": "Three days after",
+            "channel_name": "HYNN - Topic",
+            "category": "Music",
+            "duration": "3:26",
+            "view_count": "118683",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZIBoYP1MIt8/hqdefault.jpg"
+        },
+        {
+            "video_id": "zXcxXddFEP0",
+            "title": "들쥐 | 공식 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "1:58",
+            "view_count": "116096",
+            "thumbnail_url": "https://i.ytimg.com/vi/zXcxXddFEP0/hqdefault.jpg"
+        },
+        {
+            "video_id": "0bNUmc3uRM4",
+            "title": "아내 첫 공개 하자마자 울려버린 남자",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "50:35",
+            "view_count": "557611",
+            "thumbnail_url": "https://i.ytimg.com/vi/0bNUmc3uRM4/hqdefault.jpg"
         },
         {
             "video_id": "1XOZO-M0l_Q",
@@ -79,8 +88,17 @@
             "channel_name": "KATSEYE - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "560559",
+            "view_count": "574483",
             "thumbnail_url": "https://i.ytimg.com/vi/1XOZO-M0l_Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "T0pBKOLOKLM",
+            "title": "「침향 외전」공식 예고편 | Trailer Modern AU Spin-off | AI BL Drama [CHIMHYANG: Scent of the Needle]",
+            "channel_name": "Late Blue Night",
+            "category": "Entertainment",
+            "duration": "1:26",
+            "view_count": "89182",
+            "thumbnail_url": "https://i.ytimg.com/vi/T0pBKOLOKLM/hqdefault.jpg"
         },
         {
             "video_id": "rLk5glVDLPA",
@@ -88,7 +106,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:07",
-            "view_count": "237133",
+            "view_count": "250104",
             "thumbnail_url": "https://i.ytimg.com/vi/rLk5glVDLPA/hqdefault.jpg"
         },
         {
@@ -97,7 +115,7 @@
             "channel_name": "Jae - Topic",
             "category": "Music",
             "duration": "2:18",
-            "view_count": "91195",
+            "view_count": "92996",
             "thumbnail_url": "https://i.ytimg.com/vi/HqDB6iYh2uA/hqdefault.jpg"
         },
         {
@@ -106,7 +124,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "29:55",
-            "view_count": "259471",
+            "view_count": "263915",
             "thumbnail_url": "https://i.ytimg.com/vi/YNphWVRZPhs/hqdefault.jpg"
         },
         {
@@ -115,7 +133,7 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "81459",
+            "view_count": "83216",
             "thumbnail_url": "https://i.ytimg.com/vi/BPjkepatFRI/hqdefault.jpg"
         },
         {
@@ -124,7 +142,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "13:01",
-            "view_count": "222594",
+            "view_count": "229373",
             "thumbnail_url": "https://i.ytimg.com/vi/eNBKaxYZzqE/hqdefault.jpg"
         },
         {
@@ -133,7 +151,7 @@
             "channel_name": "KiiiKiii - Topic",
             "category": "Music",
             "duration": "2:22",
-            "view_count": "777106",
+            "view_count": "789505",
             "thumbnail_url": "https://i.ytimg.com/vi/cQPXraDIvS4/hqdefault.jpg"
         },
         {
@@ -142,7 +160,7 @@
             "channel_name": "skibidi",
             "category": "Entertainment",
             "duration": "11:07",
-            "view_count": "4279152",
+            "view_count": "4455936",
             "thumbnail_url": "https://i.ytimg.com/vi/R7ZbszVLFQs/hqdefault.jpg"
         },
         {
@@ -151,7 +169,7 @@
             "channel_name": "이찬원",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "25221",
+            "view_count": "26703",
             "thumbnail_url": "https://i.ytimg.com/vi/iurAHmIHdc8/hqdefault.jpg"
         },
         {
@@ -160,17 +178,17 @@
             "channel_name": "LCK Global",
             "category": "Gaming",
             "duration": "5:47:41",
-            "view_count": "934579",
+            "view_count": "936191",
             "thumbnail_url": "https://i.ytimg.com/vi/kFfNqa59BzQ/hqdefault.jpg"
         },
         {
-            "video_id": "An0vA4ZLqkk",
-            "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' Dance Practice",
-            "channel_name": "Hearts2Hearts",
+            "video_id": "DCvpKYN_dgo",
+            "title": "Jaywalking",
+            "channel_name": "ROCKY - Topic",
             "category": "Music",
-            "duration": "3:27",
-            "view_count": "619156",
-            "thumbnail_url": "https://i.ytimg.com/vi/An0vA4ZLqkk/hqdefault.jpg"
+            "duration": "4:08",
+            "view_count": "36277",
+            "thumbnail_url": "https://i.ytimg.com/vi/DCvpKYN_dgo/hqdefault.jpg"
         },
         {
             "video_id": "aN22HaIV8Aw",
@@ -178,7 +196,7 @@
             "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
             "duration": "27:07",
-            "view_count": "158406",
+            "view_count": "164171",
             "thumbnail_url": "https://i.ytimg.com/vi/aN22HaIV8Aw/hqdefault.jpg"
         },
         {
@@ -187,7 +205,7 @@
             "channel_name": "Yeoro - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "29017",
+            "view_count": "30613",
             "thumbnail_url": "https://i.ytimg.com/vi/cZY37KJx89c/hqdefault.jpg"
         },
         {
@@ -196,35 +214,17 @@
             "channel_name": "김군 유튜브",
             "category": "Gaming",
             "duration": "1:03:52",
-            "view_count": "86093",
+            "view_count": "89943",
             "thumbnail_url": "https://i.ytimg.com/vi/u9Eu449Gy6E/hqdefault.jpg"
         },
         {
-            "video_id": "DCvpKYN_dgo",
-            "title": "Jaywalking",
-            "channel_name": "ROCKY - Topic",
+            "video_id": "An0vA4ZLqkk",
+            "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' Dance Practice",
+            "channel_name": "Hearts2Hearts",
             "category": "Music",
-            "duration": "4:08",
-            "view_count": "33538",
-            "thumbnail_url": "https://i.ytimg.com/vi/DCvpKYN_dgo/hqdefault.jpg"
-        },
-        {
-            "video_id": "YfpCi4F8ZfA",
-            "title": "그냥 신특 쓸게요.. 안 까불겠습니다.. ^^;;",
-            "channel_name": "유봉훈",
-            "category": "Gaming",
-            "duration": "10:51",
-            "view_count": "148929",
-            "thumbnail_url": "https://i.ytimg.com/vi/YfpCi4F8ZfA/hqdefault.jpg"
-        },
-        {
-            "video_id": "cTKVXh9f1XA",
-            "title": "멜로를 본대",
-            "channel_name": "Nno Signal - Topic",
-            "category": "Music",
-            "duration": "2:08",
-            "view_count": "16941",
-            "thumbnail_url": "https://i.ytimg.com/vi/cTKVXh9f1XA/hqdefault.jpg"
+            "duration": "3:27",
+            "view_count": "632553",
+            "thumbnail_url": "https://i.ytimg.com/vi/An0vA4ZLqkk/hqdefault.jpg"
         },
         {
             "video_id": "H1TviNf6HAs",
@@ -232,8 +232,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "27:16",
-            "view_count": "130596",
+            "view_count": "136831",
             "thumbnail_url": "https://i.ytimg.com/vi/H1TviNf6HAs/hqdefault.jpg"
+        },
+        {
+            "video_id": "cTKVXh9f1XA",
+            "title": "멜로를 본대",
+            "channel_name": "Nno Signal - Topic",
+            "category": "Music",
+            "duration": "2:08",
+            "view_count": "18487",
+            "thumbnail_url": "https://i.ytimg.com/vi/cTKVXh9f1XA/hqdefault.jpg"
+        },
+        {
+            "video_id": "YfpCi4F8ZfA",
+            "title": "그냥 신특 쓸게요.. 안 까불겠습니다.. ^^;;",
+            "channel_name": "유봉훈",
+            "category": "Gaming",
+            "duration": "10:51",
+            "view_count": "155397",
+            "thumbnail_url": "https://i.ytimg.com/vi/YfpCi4F8ZfA/hqdefault.jpg"
         },
         {
             "video_id": "ULL6h9tp0n4",
@@ -241,7 +259,7 @@
             "channel_name": "nafla - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "41241",
+            "view_count": "42454",
             "thumbnail_url": "https://i.ytimg.com/vi/ULL6h9tp0n4/hqdefault.jpg"
         },
         {
@@ -250,17 +268,17 @@
             "channel_name": "아오니 AONI",
             "category": "Gaming",
             "duration": "15:46",
-            "view_count": "128626",
+            "view_count": "136052",
             "thumbnail_url": "https://i.ytimg.com/vi/YmFwRw88yGI/hqdefault.jpg"
         },
         {
-            "video_id": "hMdlsHF_bbA",
-            "title": "Nice Day",
-            "channel_name": "Shin In Ryu - Topic",
+            "video_id": "g4hyI5xxYcA",
+            "title": "lonely",
+            "channel_name": "yedira - Topic",
             "category": "Music",
-            "duration": "2:58",
-            "view_count": "64296",
-            "thumbnail_url": "https://i.ytimg.com/vi/hMdlsHF_bbA/hqdefault.jpg"
+            "duration": "3:16",
+            "view_count": "42168",
+            "thumbnail_url": "https://i.ytimg.com/vi/g4hyI5xxYcA/hqdefault.jpg"
         },
         {
             "video_id": "28YLyV41aWA",
@@ -268,17 +286,17 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "3:13:39",
-            "view_count": "105023",
+            "view_count": "105843",
             "thumbnail_url": "https://i.ytimg.com/vi/28YLyV41aWA/hqdefault.jpg"
         },
         {
-            "video_id": "chl0R8C4NJ8",
-            "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
-            "channel_name": "SMTOWN",
+            "video_id": "hMdlsHF_bbA",
+            "title": "Nice Day",
+            "channel_name": "Shin In Ryu - Topic",
             "category": "Music",
-            "duration": "3:53",
-            "view_count": "3036241",
-            "thumbnail_url": "https://i.ytimg.com/vi/chl0R8C4NJ8/hqdefault.jpg"
+            "duration": "2:58",
+            "view_count": "64982",
+            "thumbnail_url": "https://i.ytimg.com/vi/hMdlsHF_bbA/hqdefault.jpg"
         },
         {
             "video_id": "BToj2s21KYc",
@@ -286,35 +304,17 @@
             "channel_name": "Official dopa",
             "category": "Gaming",
             "duration": "36:56",
-            "view_count": "92345",
+            "view_count": "96566",
             "thumbnail_url": "https://i.ytimg.com/vi/BToj2s21KYc/hqdefault.jpg"
         },
         {
-            "video_id": "UsbRoaH6y-Q",
-            "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
-            "channel_name": "STARSHIP",
+            "video_id": "chl0R8C4NJ8",
+            "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
+            "channel_name": "SMTOWN",
             "category": "Music",
-            "duration": "2:23",
-            "view_count": "2796931",
-            "thumbnail_url": "https://i.ytimg.com/vi/UsbRoaH6y-Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "ALedlp1aELc",
-            "title": "이것은 내가 최고의 팀을 만들기까지의 이야기이다ㅣ펨플릭스 뉴캐슬 EP.完",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "1:22:07",
-            "view_count": "180368",
-            "thumbnail_url": "https://i.ytimg.com/vi/ALedlp1aELc/hqdefault.jpg"
-        },
-        {
-            "video_id": "_nEDvyj1Q_E",
-            "title": "Tipsy",
-            "channel_name": "Seo InGuk - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "92649",
-            "thumbnail_url": "https://i.ytimg.com/vi/_nEDvyj1Q_E/hqdefault.jpg"
+            "duration": "3:53",
+            "view_count": "3064085",
+            "thumbnail_url": "https://i.ytimg.com/vi/chl0R8C4NJ8/hqdefault.jpg"
         },
         {
             "video_id": "1phSRRD6P3c",
@@ -322,7 +322,7 @@
             "channel_name": "수탉",
             "category": "Gaming",
             "duration": "1:00:21",
-            "view_count": "101401",
+            "view_count": "107850",
             "thumbnail_url": "https://i.ytimg.com/vi/1phSRRD6P3c/hqdefault.jpg"
         },
         {
@@ -331,8 +331,26 @@
             "channel_name": "NavyQuokka - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "24996",
+            "view_count": "26145",
             "thumbnail_url": "https://i.ytimg.com/vi/ov-fyYFfeXQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "ALedlp1aELc",
+            "title": "이것은 내가 최고의 팀을 만들기까지의 이야기이다ㅣ펨플릭스 뉴캐슬 EP.完",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "1:22:07",
+            "view_count": "182804",
+            "thumbnail_url": "https://i.ytimg.com/vi/ALedlp1aELc/hqdefault.jpg"
+        },
+        {
+            "video_id": "UsbRoaH6y-Q",
+            "title": "KiiiKiii 키키 'Pop Off Pop Off' MV",
+            "channel_name": "STARSHIP",
+            "category": "Music",
+            "duration": "2:23",
+            "view_count": "2807490",
+            "thumbnail_url": "https://i.ytimg.com/vi/UsbRoaH6y-Q/hqdefault.jpg"
         },
         {
             "video_id": "EYPQRgM64E8",
@@ -340,17 +358,17 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "34:09",
-            "view_count": "171724",
+            "view_count": "173547",
             "thumbnail_url": "https://i.ytimg.com/vi/EYPQRgM64E8/hqdefault.jpg"
         },
         {
-            "video_id": "g4hyI5xxYcA",
-            "title": "lonely",
-            "channel_name": "yedira - Topic",
+            "video_id": "_nEDvyj1Q_E",
+            "title": "Tipsy",
+            "channel_name": "Seo InGuk - Topic",
             "category": "Music",
-            "duration": "3:16",
-            "view_count": "36422",
-            "thumbnail_url": "https://i.ytimg.com/vi/g4hyI5xxYcA/hqdefault.jpg"
+            "duration": "3:06",
+            "view_count": "94292",
+            "thumbnail_url": "https://i.ytimg.com/vi/_nEDvyj1Q_E/hqdefault.jpg"
         },
         {
             "video_id": "x3VLSiGzOb8",
@@ -358,26 +376,8 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "20:59",
-            "view_count": "91213",
+            "view_count": "94539",
             "thumbnail_url": "https://i.ytimg.com/vi/x3VLSiGzOb8/hqdefault.jpg"
-        },
-        {
-            "video_id": "Zt939FWYipg",
-            "title": "KiiiKiii 키키 'Pop Off Pop Off'｜On the Spot｜온더스팟",
-            "channel_name": "1theK Originals - 원더케이 오리지널",
-            "category": "Entertainment",
-            "duration": "2:48",
-            "view_count": "715418",
-            "thumbnail_url": "https://i.ytimg.com/vi/Zt939FWYipg/hqdefault.jpg"
-        },
-        {
-            "video_id": "Z3gT-3NtaSc",
-            "title": "🔥방송 시작 이래 폼 최고조🔥 멸망전 우승이 우연이 아니라는걸 증명하겠습니다",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "42:57",
-            "view_count": "167356",
-            "thumbnail_url": "https://i.ytimg.com/vi/Z3gT-3NtaSc/hqdefault.jpg"
         }
     ]
 }
