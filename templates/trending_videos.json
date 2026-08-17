@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-08-18 03:41:47",
+    "scraped_time": "2026-08-18 04:29:33",
     "videos": [
         {
             "video_id": "ntLoF0LnAwY",
@@ -7,7 +7,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "143992",
+            "view_count": "162746",
             "thumbnail_url": "https://i.ytimg.com/vi/ntLoF0LnAwY/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "2:17",
-            "view_count": "2466218",
+            "view_count": "2471302",
             "thumbnail_url": "https://i.ytimg.com/vi/Bk6DeEedYGs/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "27:05",
-            "view_count": "315373",
+            "view_count": "333597",
             "thumbnail_url": "https://i.ytimg.com/vi/cYr2aAyK6-8/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "TOMORROW X TOGETHER - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "242048",
+            "view_count": "246820",
             "thumbnail_url": "https://i.ytimg.com/vi/TqWNFVAEmwU/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "11:20",
-            "view_count": "724147",
+            "view_count": "725811",
             "thumbnail_url": "https://i.ytimg.com/vi/8DEjQH80qWw/hqdefault.jpg"
         },
         {
@@ -52,26 +52,8 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "5:55:51",
-            "view_count": "247150",
+            "view_count": "256232",
             "thumbnail_url": "https://i.ytimg.com/vi/vdduP8ocrVs/hqdefault.jpg"
-        },
-        {
-            "video_id": "wDlgvn_uApo",
-            "title": "Still Missing You",
-            "channel_name": "Punch - Topic",
-            "category": "Music",
-            "duration": "1:54",
-            "view_count": "40363",
-            "thumbnail_url": "https://i.ytimg.com/vi/wDlgvn_uApo/hqdefault.jpg"
-        },
-        {
-            "video_id": "EYldIX8Dpbw",
-            "title": "그냥 골동품 청소하는 게임인데 왤캐 재밌지?",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "22:48",
-            "view_count": "189739",
-            "thumbnail_url": "https://i.ytimg.com/vi/EYldIX8Dpbw/hqdefault.jpg"
         },
         {
             "video_id": "CvLwwA0EXjA",
@@ -79,8 +61,26 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "1:59",
-            "view_count": "32745",
+            "view_count": "33168",
             "thumbnail_url": "https://i.ytimg.com/vi/CvLwwA0EXjA/hqdefault.jpg"
+        },
+        {
+            "video_id": "EYldIX8Dpbw",
+            "title": "그냥 골동품 청소하는 게임인데 왤캐 재밌지?",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "22:48",
+            "view_count": "199117",
+            "thumbnail_url": "https://i.ytimg.com/vi/EYldIX8Dpbw/hqdefault.jpg"
+        },
+        {
+            "video_id": "wDlgvn_uApo",
+            "title": "Still Missing You",
+            "channel_name": "Punch - Topic",
+            "category": "Music",
+            "duration": "1:54",
+            "view_count": "41006",
+            "thumbnail_url": "https://i.ytimg.com/vi/wDlgvn_uApo/hqdefault.jpg"
         },
         {
             "video_id": "HozYVkNRc3Q",
@@ -88,7 +88,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "21:50",
-            "view_count": "171441",
+            "view_count": "173748",
             "thumbnail_url": "https://i.ytimg.com/vi/HozYVkNRc3Q/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "HYUKOH",
             "category": "Music",
             "duration": "5:06",
-            "view_count": "28306",
+            "view_count": "31941",
             "thumbnail_url": "https://i.ytimg.com/vi/-czMu2ADVu4/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "24:08",
-            "view_count": "247421",
+            "view_count": "249414",
             "thumbnail_url": "https://i.ytimg.com/vi/7f4-Mag0X88/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "Rubin - Topic",
             "category": "Music",
             "duration": "2:21",
-            "view_count": "26767",
+            "view_count": "27023",
             "thumbnail_url": "https://i.ytimg.com/vi/Y05UHetBlLs/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "윤가놈",
             "category": "Gaming",
             "duration": "44:53",
-            "view_count": "309240",
+            "view_count": "310744",
             "thumbnail_url": "https://i.ytimg.com/vi/AEN-ojfSvbc/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "Jason Lee - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "14618",
+            "view_count": "17848",
             "thumbnail_url": "https://i.ytimg.com/vi/WVKaQL46c3c/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "김성회의 G식백과",
             "category": "Gaming",
             "duration": "28:16",
-            "view_count": "229320",
+            "view_count": "231519",
             "thumbnail_url": "https://i.ytimg.com/vi/CKbonfP8OjA/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "JEONG EUNJI - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "44477",
+            "view_count": "44754",
             "thumbnail_url": "https://i.ytimg.com/vi/Dg2gaBEoE5Y/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:35",
-            "view_count": "340383",
+            "view_count": "343714",
             "thumbnail_url": "https://i.ytimg.com/vi/XisxpqJy2Pk/hqdefault.jpg"
         },
         {
@@ -169,26 +169,8 @@
             "channel_name": "HYNN - Topic",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "245043",
+            "view_count": "245622",
             "thumbnail_url": "https://i.ytimg.com/vi/ZIBoYP1MIt8/hqdefault.jpg"
-        },
-        {
-            "video_id": "lvKfQN8qjlQ",
-            "title": "95즈 전체 버스 태우는 김민교의 역대급 아지르",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "44:54",
-            "view_count": "277295",
-            "thumbnail_url": "https://i.ytimg.com/vi/lvKfQN8qjlQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "E30TvxRbZJs",
-            "title": "AxMxP (에이엠피) - 나를 만나야 할 10가지 이유 MV",
-            "channel_name": "AxMxP",
-            "category": "Music",
-            "duration": "2:56",
-            "view_count": "1632283",
-            "thumbnail_url": "https://i.ytimg.com/vi/E30TvxRbZJs/hqdefault.jpg"
         },
         {
             "video_id": "yVbeDod2EnU",
@@ -196,8 +178,26 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "10:28",
-            "view_count": "105909",
+            "view_count": "121983",
             "thumbnail_url": "https://i.ytimg.com/vi/yVbeDod2EnU/hqdefault.jpg"
+        },
+        {
+            "video_id": "E30TvxRbZJs",
+            "title": "AxMxP (에이엠피) - 나를 만나야 할 10가지 이유 MV",
+            "channel_name": "AxMxP",
+            "category": "Music",
+            "duration": "2:56",
+            "view_count": "1632789",
+            "thumbnail_url": "https://i.ytimg.com/vi/E30TvxRbZJs/hqdefault.jpg"
+        },
+        {
+            "video_id": "lvKfQN8qjlQ",
+            "title": "95즈 전체 버스 태우는 김민교의 역대급 아지르",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "44:54",
+            "view_count": "278810",
+            "thumbnail_url": "https://i.ytimg.com/vi/lvKfQN8qjlQ/hqdefault.jpg"
         },
         {
             "video_id": "MCLX7anEh5s",
@@ -205,7 +205,7 @@
             "channel_name": "Stray Kids",
             "category": "Entertainment",
             "duration": "3:52",
-            "view_count": "209639",
+            "view_count": "233146",
             "thumbnail_url": "https://i.ytimg.com/vi/MCLX7anEh5s/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "스트리머 사또 live-streamer satto",
             "category": "Gaming",
             "duration": "21:04",
-            "view_count": "117717",
+            "view_count": "119250",
             "thumbnail_url": "https://i.ytimg.com/vi/sHkOFgZKnec/hqdefault.jpg"
         },
         {
@@ -223,26 +223,8 @@
             "channel_name": "pH-1 - Topic",
             "category": "Music",
             "duration": "2:38",
-            "view_count": "288736",
+            "view_count": "289262",
             "thumbnail_url": "https://i.ytimg.com/vi/wlUvFCbMXms/hqdefault.jpg"
-        },
-        {
-            "video_id": "7SfvqWV9MEc",
-            "title": "리니지 클래식 안타라스 10크로 민반 오벨삽니다",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "9:25:20",
-            "view_count": "190800",
-            "thumbnail_url": "https://i.ytimg.com/vi/7SfvqWV9MEc/hqdefault.jpg"
-        },
-        {
-            "video_id": "GsCFASVtbr4",
-            "title": "Sorry, I’m on Vacation",
-            "channel_name": "Muse Petal - Topic",
-            "category": "Music",
-            "duration": "3:49",
-            "view_count": "22257",
-            "thumbnail_url": "https://i.ytimg.com/vi/GsCFASVtbr4/hqdefault.jpg"
         },
         {
             "video_id": "cVkCsYF5mC8",
@@ -250,17 +232,17 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "53:34",
-            "view_count": "120896",
+            "view_count": "124987",
             "thumbnail_url": "https://i.ytimg.com/vi/cVkCsYF5mC8/hqdefault.jpg"
         },
         {
-            "video_id": "lMWQEXAM14M",
-            "title": "[XHBD_Project: 0818] 忘れられないの - Sakanaction | Covered by Xdinary Heroes Jun Han",
-            "channel_name": "Xdinary Heroes",
+            "video_id": "GsCFASVtbr4",
+            "title": "Sorry, I’m on Vacation",
+            "channel_name": "Muse Petal - Topic",
             "category": "Music",
-            "duration": "4:00",
-            "view_count": "15007",
-            "thumbnail_url": "https://i.ytimg.com/vi/lMWQEXAM14M/hqdefault.jpg"
+            "duration": "3:49",
+            "view_count": "22778",
+            "thumbnail_url": "https://i.ytimg.com/vi/GsCFASVtbr4/hqdefault.jpg"
         },
         {
             "video_id": "8432ojUkz9A",
@@ -268,8 +250,26 @@
             "channel_name": "유봉훈",
             "category": "Gaming",
             "duration": "9:07",
-            "view_count": "71908",
+            "view_count": "77523",
             "thumbnail_url": "https://i.ytimg.com/vi/8432ojUkz9A/hqdefault.jpg"
+        },
+        {
+            "video_id": "lMWQEXAM14M",
+            "title": "[XHBD_Project: 0818] 忘れられないの - Sakanaction | Covered by Xdinary Heroes Jun Han",
+            "channel_name": "Xdinary Heroes",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "18644",
+            "thumbnail_url": "https://i.ytimg.com/vi/lMWQEXAM14M/hqdefault.jpg"
+        },
+        {
+            "video_id": "7SfvqWV9MEc",
+            "title": "리니지 클래식 안타라스 10크로 민반 오벨삽니다",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "9:25:20",
+            "view_count": "191237",
+            "thumbnail_url": "https://i.ytimg.com/vi/7SfvqWV9MEc/hqdefault.jpg"
         },
         {
             "video_id": "B-zN_Y8w7Us",
@@ -277,7 +277,7 @@
             "channel_name": "Juho - Topic",
             "category": "Music",
             "duration": "4:44",
-            "view_count": "4887",
+            "view_count": "5128",
             "thumbnail_url": "https://i.ytimg.com/vi/B-zN_Y8w7Us/hqdefault.jpg"
         },
         {
@@ -286,44 +286,8 @@
             "channel_name": "서도일",
             "category": "Gaming",
             "duration": "18:42",
-            "view_count": "100810",
+            "view_count": "103950",
             "thumbnail_url": "https://i.ytimg.com/vi/9uHv8CFYqQM/hqdefault.jpg"
-        },
-        {
-            "video_id": "1XOZO-M0l_Q",
-            "title": "That Way",
-            "channel_name": "KATSEYE - Topic",
-            "category": "Music",
-            "duration": "2:57",
-            "view_count": "1136289",
-            "thumbnail_url": "https://i.ytimg.com/vi/1XOZO-M0l_Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "HMEx9892xWg",
-            "title": "26.08.17(월) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
-            "channel_name": "인피쉰",
-            "category": "Gaming",
-            "duration": "4:42:04",
-            "view_count": "90126",
-            "thumbnail_url": "https://i.ytimg.com/vi/HMEx9892xWg/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZMGNAvNs_20",
-            "title": "Heaven Baby",
-            "channel_name": "Ayra Starr - Topic",
-            "category": "Music",
-            "duration": "2:39",
-            "view_count": "409643",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZMGNAvNs_20/hqdefault.jpg"
-        },
-        {
-            "video_id": "1GHjR82dizI",
-            "title": "스킬 1개 = 100만원..? PVP까지 가능하다는 아스가르드 최신 근황 | 아스가르드 똥갓겜 with.만기퇴소 [테스터훈]",
-            "channel_name": "테스터훈 TesterHoon",
-            "category": "Gaming",
-            "duration": "31:03",
-            "view_count": "197871",
-            "thumbnail_url": "https://i.ytimg.com/vi/1GHjR82dizI/hqdefault.jpg"
         },
         {
             "video_id": "v82HlNPKgmA",
@@ -331,8 +295,44 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "6913",
+            "view_count": "7798",
             "thumbnail_url": "https://i.ytimg.com/vi/v82HlNPKgmA/hqdefault.jpg"
+        },
+        {
+            "video_id": "HMEx9892xWg",
+            "title": "26.08.17(월) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
+            "category": "Gaming",
+            "duration": "4:42:04",
+            "view_count": "92301",
+            "thumbnail_url": "https://i.ytimg.com/vi/HMEx9892xWg/hqdefault.jpg"
+        },
+        {
+            "video_id": "1XOZO-M0l_Q",
+            "title": "That Way",
+            "channel_name": "KATSEYE - Topic",
+            "category": "Music",
+            "duration": "2:57",
+            "view_count": "1143308",
+            "thumbnail_url": "https://i.ytimg.com/vi/1XOZO-M0l_Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "1GHjR82dizI",
+            "title": "스킬 1개 = 100만원..? PVP까지 가능하다는 아스가르드 최신 근황 | 아스가르드 똥갓겜 with.만기퇴소 [테스터훈]",
+            "channel_name": "테스터훈 TesterHoon",
+            "category": "Gaming",
+            "duration": "31:03",
+            "view_count": "199738",
+            "thumbnail_url": "https://i.ytimg.com/vi/1GHjR82dizI/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZMGNAvNs_20",
+            "title": "Heaven Baby",
+            "channel_name": "Ayra Starr - Topic",
+            "category": "Music",
+            "duration": "2:39",
+            "view_count": "416108",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZMGNAvNs_20/hqdefault.jpg"
         },
         {
             "video_id": "d9UFeSD9lDM",
@@ -340,26 +340,8 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:01",
-            "view_count": "35217",
+            "view_count": "36985",
             "thumbnail_url": "https://i.ytimg.com/vi/d9UFeSD9lDM/hqdefault.jpg"
-        },
-        {
-            "video_id": "fTpmlvUmO7Q",
-            "title": "ILLIT (아일릿) 'It's Me' @ LuckyFes'26",
-            "channel_name": "ILLIT",
-            "category": "Music",
-            "duration": "2:23",
-            "view_count": "356057",
-            "thumbnail_url": "https://i.ytimg.com/vi/fTpmlvUmO7Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "whGqqLxTiaw",
-            "title": "팀나빠와 백룸에 떨어지면 어떻게 될까? (살려줘)",
-            "channel_name": "멜로우TV",
-            "category": "Gaming",
-            "duration": "22:49",
-            "view_count": "112216",
-            "thumbnail_url": "https://i.ytimg.com/vi/whGqqLxTiaw/hqdefault.jpg"
         },
         {
             "video_id": "pGXzXB9e6qw",
@@ -367,7 +349,7 @@
             "channel_name": "ZEROBASEONE",
             "category": "Music",
             "duration": "0:21",
-            "view_count": "13267",
+            "view_count": "14711",
             "thumbnail_url": "https://i.ytimg.com/vi/pGXzXB9e6qw/hqdefault.jpg"
         },
         {
@@ -376,8 +358,26 @@
             "channel_name": "수탉",
             "category": "Gaming",
             "duration": "2:14:02",
-            "view_count": "158768",
+            "view_count": "161206",
             "thumbnail_url": "https://i.ytimg.com/vi/XtjrFlFUTxc/hqdefault.jpg"
+        },
+        {
+            "video_id": "fTpmlvUmO7Q",
+            "title": "ILLIT (아일릿) 'It's Me' @ LuckyFes'26",
+            "channel_name": "ILLIT",
+            "category": "Music",
+            "duration": "2:23",
+            "view_count": "361181",
+            "thumbnail_url": "https://i.ytimg.com/vi/fTpmlvUmO7Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "Hpkm5RMU-Xg",
+            "title": "우리 서커스 천막이... 😱🐅│T1 vs GEN│2026 LCK│울챔스 하이라이트",
+            "channel_name": "Wolf",
+            "category": "Gaming",
+            "duration": "55:03",
+            "view_count": "97699",
+            "thumbnail_url": "https://i.ytimg.com/vi/Hpkm5RMU-Xg/hqdefault.jpg"
         }
     ]
 }
