@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-08-18 17:39:02",
+    "scraped_time": "2026-08-18 18:35:42",
     "videos": [
         {
             "video_id": "WVKaQL46c3c",
@@ -7,7 +7,7 @@
             "channel_name": "Jason Lee - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "102292",
+            "view_count": "108245",
             "thumbnail_url": "https://i.ytimg.com/vi/WVKaQL46c3c/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "2:17",
-            "view_count": "2533188",
+            "view_count": "2538682",
             "thumbnail_url": "https://i.ytimg.com/vi/Bk6DeEedYGs/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "27:05",
-            "view_count": "494935",
+            "view_count": "502024",
             "thumbnail_url": "https://i.ytimg.com/vi/cYr2aAyK6-8/hqdefault.jpg"
         },
         {
@@ -34,17 +34,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "455382",
+            "view_count": "471924",
             "thumbnail_url": "https://i.ytimg.com/vi/ntLoF0LnAwY/hqdefault.jpg"
         },
         {
-            "video_id": "8DEjQH80qWw",
-            "title": "마블이 돌아왔습니다.. ≪어벤져스: 둠스데이≫ 공식 예고편 떡밥 분석 & 총정리",
+            "video_id": "QqcjHD22WSM",
+            "title": "과연 둠이 토니 스타크일까? ≪어벤져스: 둠스데이≫ 공식 예고편 떡밥 분석 2탄 총정리",
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
-            "duration": "11:20",
-            "view_count": "746685",
-            "thumbnail_url": "https://i.ytimg.com/vi/8DEjQH80qWw/hqdefault.jpg"
+            "duration": "12:36",
+            "view_count": "76477",
+            "thumbnail_url": "https://i.ytimg.com/vi/QqcjHD22WSM/hqdefault.jpg"
         },
         {
             "video_id": "0E7c3WWZ9mo",
@@ -52,7 +52,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "30:57",
-            "view_count": "118961",
+            "view_count": "135466",
             "thumbnail_url": "https://i.ytimg.com/vi/0E7c3WWZ9mo/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "92989",
+            "view_count": "99107",
             "thumbnail_url": "https://i.ytimg.com/vi/v82HlNPKgmA/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
             "category": "Film & Animation",
             "duration": "1:55",
-            "view_count": "186511",
+            "view_count": "224264",
             "thumbnail_url": "https://i.ytimg.com/vi/zYu_T7bCc08/hqdefault.jpg"
-        },
-        {
-            "video_id": "vdduP8ocrVs",
-            "title": "똘끼 리니지클래식 도파민 중독 주머니좀 깔게요 공성 다들 고생하셨습니다!                    #데포로쥬#아스테어#파아그리오",
-            "channel_name": "똘끼100%",
-            "category": "Gaming",
-            "duration": "5:55:51",
-            "view_count": "293514",
-            "thumbnail_url": "https://i.ytimg.com/vi/vdduP8ocrVs/hqdefault.jpg"
-        },
-        {
-            "video_id": "B-zN_Y8w7Us",
-            "title": "Rusted Heart",
-            "channel_name": "Juho - Topic",
-            "category": "Music",
-            "duration": "4:44",
-            "view_count": "32496",
-            "thumbnail_url": "https://i.ytimg.com/vi/B-zN_Y8w7Us/hqdefault.jpg"
         },
         {
             "video_id": "EYldIX8Dpbw",
@@ -97,8 +79,26 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "22:48",
-            "view_count": "281064",
+            "view_count": "286264",
             "thumbnail_url": "https://i.ytimg.com/vi/EYldIX8Dpbw/hqdefault.jpg"
+        },
+        {
+            "video_id": "B-zN_Y8w7Us",
+            "title": "Rusted Heart",
+            "channel_name": "Juho - Topic",
+            "category": "Music",
+            "duration": "4:44",
+            "view_count": "36911",
+            "thumbnail_url": "https://i.ytimg.com/vi/B-zN_Y8w7Us/hqdefault.jpg"
+        },
+        {
+            "video_id": "vdduP8ocrVs",
+            "title": "똘끼 리니지클래식 도파민 중독 주머니좀 깔게요 공성 다들 고생하셨습니다!                    #데포로쥬#아스테어#파아그리오",
+            "channel_name": "똘끼100%",
+            "category": "Gaming",
+            "duration": "5:55:51",
+            "view_count": "294549",
+            "thumbnail_url": "https://i.ytimg.com/vi/vdduP8ocrVs/hqdefault.jpg"
         },
         {
             "video_id": "CvLwwA0EXjA",
@@ -106,7 +106,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "1:59",
-            "view_count": "61015",
+            "view_count": "63111",
             "thumbnail_url": "https://i.ytimg.com/vi/CvLwwA0EXjA/hqdefault.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "10:28",
-            "view_count": "246710",
+            "view_count": "250127",
             "thumbnail_url": "https://i.ytimg.com/vi/yVbeDod2EnU/hqdefault.jpg"
         },
         {
@@ -124,7 +124,7 @@
             "channel_name": "TOMORROW X TOGETHER - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "327635",
+            "view_count": "333415",
             "thumbnail_url": "https://i.ytimg.com/vi/TqWNFVAEmwU/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "21:50",
-            "view_count": "195671",
+            "view_count": "196789",
             "thumbnail_url": "https://i.ytimg.com/vi/HozYVkNRc3Q/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "Punch - Topic",
             "category": "Music",
             "duration": "1:54",
-            "view_count": "67934",
+            "view_count": "69146",
             "thumbnail_url": "https://i.ytimg.com/vi/wDlgvn_uApo/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "김성회의 G식백과",
             "category": "Gaming",
             "duration": "28:16",
-            "view_count": "276998",
+            "view_count": "279186",
             "thumbnail_url": "https://i.ytimg.com/vi/CKbonfP8OjA/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "HYUKOH",
             "category": "Music",
             "duration": "5:06",
-            "view_count": "72111",
+            "view_count": "75670",
             "thumbnail_url": "https://i.ytimg.com/vi/-czMu2ADVu4/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "유봉훈",
             "category": "Gaming",
             "duration": "9:07",
-            "view_count": "118392",
+            "view_count": "119760",
             "thumbnail_url": "https://i.ytimg.com/vi/8432ojUkz9A/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "31924",
+            "view_count": "33646",
             "thumbnail_url": "https://i.ytimg.com/vi/1U-5AL9RMUQ/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "윤가놈",
             "category": "Gaming",
             "duration": "44:53",
-            "view_count": "327654",
+            "view_count": "329203",
             "thumbnail_url": "https://i.ytimg.com/vi/AEN-ojfSvbc/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "Muse Petal - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "42477",
+            "view_count": "43965",
             "thumbnail_url": "https://i.ytimg.com/vi/GsCFASVtbr4/hqdefault.jpg"
         },
         {
@@ -205,7 +205,7 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "53:34",
-            "view_count": "168582",
+            "view_count": "170869",
             "thumbnail_url": "https://i.ytimg.com/vi/cVkCsYF5mC8/hqdefault.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "channel_name": "tripleS - Topic",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "11719",
+            "view_count": "12380",
             "thumbnail_url": "https://i.ytimg.com/vi/dVJ_CVEkECs/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "스트리머 사또 live-streamer satto",
             "category": "Gaming",
             "duration": "21:04",
-            "view_count": "143210",
+            "view_count": "144511",
             "thumbnail_url": "https://i.ytimg.com/vi/sHkOFgZKnec/hqdefault.jpg"
         },
         {
@@ -232,7 +232,7 @@
             "channel_name": "Neoepli - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "18019",
+            "view_count": "19012",
             "thumbnail_url": "https://i.ytimg.com/vi/RzWbL-1g7sI/hqdefault.jpg"
         },
         {
@@ -241,26 +241,8 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:35",
-            "view_count": "373496",
+            "view_count": "375427",
             "thumbnail_url": "https://i.ytimg.com/vi/XisxpqJy2Pk/hqdefault.jpg"
-        },
-        {
-            "video_id": "Dg2gaBEoE5Y",
-            "title": "empty",
-            "channel_name": "JEONG EUNJI - Topic",
-            "category": "Music",
-            "duration": "3:15",
-            "view_count": "54990",
-            "thumbnail_url": "https://i.ytimg.com/vi/Dg2gaBEoE5Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "lvKfQN8qjlQ",
-            "title": "95즈 전체 버스 태우는 김민교의 역대급 아지르",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "44:54",
-            "view_count": "298325",
-            "thumbnail_url": "https://i.ytimg.com/vi/lvKfQN8qjlQ/hqdefault.jpg"
         },
         {
             "video_id": "EFYL8Fi3_jk",
@@ -268,26 +250,26 @@
             "channel_name": "melodywalk - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "23147",
+            "view_count": "23893",
             "thumbnail_url": "https://i.ytimg.com/vi/EFYL8Fi3_jk/hqdefault.jpg"
         },
         {
-            "video_id": "d9UFeSD9lDM",
-            "title": "빨무맵 본선 첫경기! 토스의 초반 빌드는!? [ASL 시즌22 24강 A조 승자전]",
-            "channel_name": "도멘TV [DOTUBE]",
+            "video_id": "lvKfQN8qjlQ",
+            "title": "95즈 전체 버스 태우는 김민교의 역대급 아지르",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "9:01",
-            "view_count": "59703",
-            "thumbnail_url": "https://i.ytimg.com/vi/d9UFeSD9lDM/hqdefault.jpg"
+            "duration": "44:54",
+            "view_count": "299634",
+            "thumbnail_url": "https://i.ytimg.com/vi/lvKfQN8qjlQ/hqdefault.jpg"
         },
         {
-            "video_id": "Sdmo-zGV7s8",
-            "title": "Sweetest",
-            "channel_name": "Rothy - Topic",
+            "video_id": "AJ3pIJjSJnU",
+            "title": "Busy Being Happy Now",
+            "channel_name": "plimate - Topic",
             "category": "Music",
-            "duration": "3:02",
-            "view_count": "10237",
-            "thumbnail_url": "https://i.ytimg.com/vi/Sdmo-zGV7s8/hqdefault.jpg"
+            "duration": "2:35",
+            "view_count": "16918",
+            "thumbnail_url": "https://i.ytimg.com/vi/AJ3pIJjSJnU/hqdefault.jpg"
         },
         {
             "video_id": "whGqqLxTiaw",
@@ -295,8 +277,26 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "22:49",
-            "view_count": "150611",
+            "view_count": "153037",
             "thumbnail_url": "https://i.ytimg.com/vi/whGqqLxTiaw/hqdefault.jpg"
+        },
+        {
+            "video_id": "Dg2gaBEoE5Y",
+            "title": "empty",
+            "channel_name": "JEONG EUNJI - Topic",
+            "category": "Music",
+            "duration": "3:15",
+            "view_count": "55935",
+            "thumbnail_url": "https://i.ytimg.com/vi/Dg2gaBEoE5Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "d9UFeSD9lDM",
+            "title": "빨무맵 본선 첫경기! 토스의 초반 빌드는!? [ASL 시즌22 24강 A조 승자전]",
+            "channel_name": "도멘TV [DOTUBE]",
+            "category": "Gaming",
+            "duration": "9:01",
+            "view_count": "60518",
+            "thumbnail_url": "https://i.ytimg.com/vi/d9UFeSD9lDM/hqdefault.jpg"
         },
         {
             "video_id": "Y05UHetBlLs",
@@ -304,7 +304,7 @@
             "channel_name": "Rubin - Topic",
             "category": "Music",
             "duration": "2:21",
-            "view_count": "36009",
+            "view_count": "36896",
             "thumbnail_url": "https://i.ytimg.com/vi/Y05UHetBlLs/hqdefault.jpg"
         },
         {
@@ -313,26 +313,8 @@
             "channel_name": "서도일",
             "category": "Gaming",
             "duration": "18:42",
-            "view_count": "136148",
+            "view_count": "137874",
             "thumbnail_url": "https://i.ytimg.com/vi/9uHv8CFYqQM/hqdefault.jpg"
-        },
-        {
-            "video_id": "AJ3pIJjSJnU",
-            "title": "Busy Being Happy Now",
-            "channel_name": "plimate - Topic",
-            "category": "Music",
-            "duration": "2:35",
-            "view_count": "15477",
-            "thumbnail_url": "https://i.ytimg.com/vi/AJ3pIJjSJnU/hqdefault.jpg"
-        },
-        {
-            "video_id": "VjfhBoYQXXs",
-            "title": "리니지 클래식 / 어떻게 방송와서 2시간동안 설계를 치냐고!!!!ㅁㅊ놈아!!",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "18:58",
-            "view_count": "114633",
-            "thumbnail_url": "https://i.ytimg.com/vi/VjfhBoYQXXs/hqdefault.jpg"
         },
         {
             "video_id": "MCLX7anEh5s",
@@ -340,8 +322,26 @@
             "channel_name": "Stray Kids",
             "category": "Entertainment",
             "duration": "3:52",
-            "view_count": "476828",
+            "view_count": "485477",
             "thumbnail_url": "https://i.ytimg.com/vi/MCLX7anEh5s/hqdefault.jpg"
+        },
+        {
+            "video_id": "VjfhBoYQXXs",
+            "title": "리니지 클래식 / 어떻게 방송와서 2시간동안 설계를 치냐고!!!!ㅁㅊ놈아!!",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "18:58",
+            "view_count": "116376",
+            "thumbnail_url": "https://i.ytimg.com/vi/VjfhBoYQXXs/hqdefault.jpg"
+        },
+        {
+            "video_id": "Sdmo-zGV7s8",
+            "title": "Sweetest",
+            "channel_name": "Rothy - Topic",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "10844",
+            "thumbnail_url": "https://i.ytimg.com/vi/Sdmo-zGV7s8/hqdefault.jpg"
         },
         {
             "video_id": "i1IqfT-CQlc",
@@ -349,7 +349,7 @@
             "channel_name": "멘파",
             "category": "Gaming",
             "duration": "6:01:38",
-            "view_count": "100448",
+            "view_count": "100492",
             "thumbnail_url": "https://i.ytimg.com/vi/i1IqfT-CQlc/hqdefault.jpg"
         },
         {
@@ -358,7 +358,7 @@
             "channel_name": "Mad Clown - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "18513",
+            "view_count": "19191",
             "thumbnail_url": "https://i.ytimg.com/vi/LTDgIdOEB8I/hqdefault.jpg"
         },
         {
@@ -367,7 +367,7 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "55:03",
-            "view_count": "109770",
+            "view_count": "110505",
             "thumbnail_url": "https://i.ytimg.com/vi/Hpkm5RMU-Xg/hqdefault.jpg"
         },
         {
@@ -376,7 +376,7 @@
             "channel_name": "YECHAN - Topic",
             "category": "Music",
             "duration": "2:18",
-            "view_count": "29568",
+            "view_count": "30282",
             "thumbnail_url": "https://i.ytimg.com/vi/puwde-bjZ9I/hqdefault.jpg"
         }
     ]
