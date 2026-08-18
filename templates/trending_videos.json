@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-08-18 11:57:03",
+    "scraped_time": "2026-08-18 12:50:02",
     "videos": [
         {
             "video_id": "WVKaQL46c3c",
@@ -7,7 +7,7 @@
             "channel_name": "Jason Lee - Topic",
             "category": "Music",
             "duration": "3:13",
-            "view_count": "68362",
+            "view_count": "75655",
             "thumbnail_url": "https://i.ytimg.com/vi/WVKaQL46c3c/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "MarvelKorea",
             "category": "Entertainment",
             "duration": "2:17",
-            "view_count": "2502777",
+            "view_count": "2507603",
             "thumbnail_url": "https://i.ytimg.com/vi/Bk6DeEedYGs/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "27:05",
-            "view_count": "435573",
+            "view_count": "446593",
             "thumbnail_url": "https://i.ytimg.com/vi/cYr2aAyK6-8/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "353996",
+            "view_count": "373530",
             "thumbnail_url": "https://i.ytimg.com/vi/ntLoF0LnAwY/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "11:20",
-            "view_count": "736601",
+            "view_count": "738143",
             "thumbnail_url": "https://i.ytimg.com/vi/8DEjQH80qWw/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "5:55:51",
-            "view_count": "284994",
+            "view_count": "286794",
             "thumbnail_url": "https://i.ytimg.com/vi/vdduP8ocrVs/hqdefault.jpg"
         },
         {
@@ -61,8 +61,17 @@
             "channel_name": "BOYNEXTDOOR - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "52307",
+            "view_count": "59950",
             "thumbnail_url": "https://i.ytimg.com/vi/v82HlNPKgmA/hqdefault.jpg"
+        },
+        {
+            "video_id": "zYu_T7bCc08",
+            "title": "메이드 인 코리아 시즌2 | 메인 예고편 | 디즈니+",
+            "channel_name": "Disney Plus Korea 디즈니 플러스 코리아",
+            "category": "Film & Animation",
+            "duration": "1:55",
+            "view_count": "11233",
+            "thumbnail_url": "https://i.ytimg.com/vi/zYu_T7bCc08/hqdefault.jpg"
         },
         {
             "video_id": "EYldIX8Dpbw",
@@ -70,7 +79,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "22:48",
-            "view_count": "249789",
+            "view_count": "254279",
             "thumbnail_url": "https://i.ytimg.com/vi/EYldIX8Dpbw/hqdefault.jpg"
         },
         {
@@ -79,26 +88,8 @@
             "channel_name": "TOMORROW X TOGETHER - Topic",
             "category": "Music",
             "duration": "3:22",
-            "view_count": "291547",
+            "view_count": "298276",
             "thumbnail_url": "https://i.ytimg.com/vi/TqWNFVAEmwU/hqdefault.jpg"
-        },
-        {
-            "video_id": "HozYVkNRc3Q",
-            "title": "본캐 다 팝니다 600경 새로운팀 짭니다 구국의결단!",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "21:50",
-            "view_count": "186213",
-            "thumbnail_url": "https://i.ytimg.com/vi/HozYVkNRc3Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "wDlgvn_uApo",
-            "title": "Still Missing You",
-            "channel_name": "Punch - Topic",
-            "category": "Music",
-            "duration": "1:54",
-            "view_count": "55327",
-            "thumbnail_url": "https://i.ytimg.com/vi/wDlgvn_uApo/hqdefault.jpg"
         },
         {
             "video_id": "yVbeDod2EnU",
@@ -106,8 +97,26 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "10:28",
-            "view_count": "211749",
+            "view_count": "218775",
             "thumbnail_url": "https://i.ytimg.com/vi/yVbeDod2EnU/hqdefault.jpg"
+        },
+        {
+            "video_id": "wDlgvn_uApo",
+            "title": "Still Missing You",
+            "channel_name": "Punch - Topic",
+            "category": "Music",
+            "duration": "1:54",
+            "view_count": "58882",
+            "thumbnail_url": "https://i.ytimg.com/vi/wDlgvn_uApo/hqdefault.jpg"
+        },
+        {
+            "video_id": "HozYVkNRc3Q",
+            "title": "본캐 다 팝니다 600경 새로운팀 짭니다 구국의결단!",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "21:50",
+            "view_count": "187756",
+            "thumbnail_url": "https://i.ytimg.com/vi/HozYVkNRc3Q/hqdefault.jpg"
         },
         {
             "video_id": "CvLwwA0EXjA",
@@ -115,7 +124,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "1:59",
-            "view_count": "47075",
+            "view_count": "49893",
             "thumbnail_url": "https://i.ytimg.com/vi/CvLwwA0EXjA/hqdefault.jpg"
         },
         {
@@ -124,7 +133,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "24:08",
-            "view_count": "261953",
+            "view_count": "264307",
             "thumbnail_url": "https://i.ytimg.com/vi/7f4-Mag0X88/hqdefault.jpg"
         },
         {
@@ -133,7 +142,7 @@
             "channel_name": "HYUKOH",
             "category": "Music",
             "duration": "5:06",
-            "view_count": "52883",
+            "view_count": "55507",
             "thumbnail_url": "https://i.ytimg.com/vi/-czMu2ADVu4/hqdefault.jpg"
         },
         {
@@ -142,7 +151,7 @@
             "channel_name": "김성회의 G식백과",
             "category": "Gaming",
             "duration": "28:16",
-            "view_count": "255740",
+            "view_count": "258727",
             "thumbnail_url": "https://i.ytimg.com/vi/CKbonfP8OjA/hqdefault.jpg"
         },
         {
@@ -151,7 +160,7 @@
             "channel_name": "Juho - Topic",
             "category": "Music",
             "duration": "4:44",
-            "view_count": "12145",
+            "view_count": "14412",
             "thumbnail_url": "https://i.ytimg.com/vi/B-zN_Y8w7Us/hqdefault.jpg"
         },
         {
@@ -160,7 +169,7 @@
             "channel_name": "윤가놈",
             "category": "Gaming",
             "duration": "44:53",
-            "view_count": "318792",
+            "view_count": "320017",
             "thumbnail_url": "https://i.ytimg.com/vi/AEN-ojfSvbc/hqdefault.jpg"
         },
         {
@@ -169,26 +178,8 @@
             "channel_name": "Rubin - Topic",
             "category": "Music",
             "duration": "2:21",
-            "view_count": "31088",
+            "view_count": "31953",
             "thumbnail_url": "https://i.ytimg.com/vi/Y05UHetBlLs/hqdefault.jpg"
-        },
-        {
-            "video_id": "XisxpqJy2Pk",
-            "title": "골목대장",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "21:35",
-            "view_count": "361291",
-            "thumbnail_url": "https://i.ytimg.com/vi/XisxpqJy2Pk/hqdefault.jpg"
-        },
-        {
-            "video_id": "GsCFASVtbr4",
-            "title": "Sorry, I’m on Vacation",
-            "channel_name": "Muse Petal - Topic",
-            "category": "Music",
-            "duration": "3:49",
-            "view_count": "32751",
-            "thumbnail_url": "https://i.ytimg.com/vi/GsCFASVtbr4/hqdefault.jpg"
         },
         {
             "video_id": "8432ojUkz9A",
@@ -196,8 +187,26 @@
             "channel_name": "유봉훈",
             "category": "Gaming",
             "duration": "9:07",
-            "view_count": "104704",
+            "view_count": "107446",
             "thumbnail_url": "https://i.ytimg.com/vi/8432ojUkz9A/hqdefault.jpg"
+        },
+        {
+            "video_id": "GsCFASVtbr4",
+            "title": "Sorry, I’m on Vacation",
+            "channel_name": "Muse Petal - Topic",
+            "category": "Music",
+            "duration": "3:49",
+            "view_count": "34630",
+            "thumbnail_url": "https://i.ytimg.com/vi/GsCFASVtbr4/hqdefault.jpg"
+        },
+        {
+            "video_id": "XisxpqJy2Pk",
+            "title": "골목대장",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "21:35",
+            "view_count": "362926",
+            "thumbnail_url": "https://i.ytimg.com/vi/XisxpqJy2Pk/hqdefault.jpg"
         },
         {
             "video_id": "1U-5AL9RMUQ",
@@ -205,7 +214,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "24779",
+            "view_count": "26296",
             "thumbnail_url": "https://i.ytimg.com/vi/1U-5AL9RMUQ/hqdefault.jpg"
         },
         {
@@ -214,26 +223,8 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "44:54",
-            "view_count": "288473",
+            "view_count": "289845",
             "thumbnail_url": "https://i.ytimg.com/vi/lvKfQN8qjlQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "Dg2gaBEoE5Y",
-            "title": "empty",
-            "channel_name": "JEONG EUNJI - Topic",
-            "category": "Music",
-            "duration": "3:15",
-            "view_count": "49469",
-            "thumbnail_url": "https://i.ytimg.com/vi/Dg2gaBEoE5Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "sHkOFgZKnec",
-            "title": "[리니지 클래식] 적혈 군주의 현피 도발? 레전드 사건 터짐!",
-            "channel_name": "스트리머 사또 live-streamer satto",
-            "category": "Gaming",
-            "duration": "21:04",
-            "view_count": "133615",
-            "thumbnail_url": "https://i.ytimg.com/vi/sHkOFgZKnec/hqdefault.jpg"
         },
         {
             "video_id": "EFYL8Fi3_jk",
@@ -241,8 +232,26 @@
             "channel_name": "melodywalk - Topic",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "18343",
+            "view_count": "19416",
             "thumbnail_url": "https://i.ytimg.com/vi/EFYL8Fi3_jk/hqdefault.jpg"
+        },
+        {
+            "video_id": "sHkOFgZKnec",
+            "title": "[리니지 클래식] 적혈 군주의 현피 도발? 레전드 사건 터짐!",
+            "channel_name": "스트리머 사또 live-streamer satto",
+            "category": "Gaming",
+            "duration": "21:04",
+            "view_count": "135383",
+            "thumbnail_url": "https://i.ytimg.com/vi/sHkOFgZKnec/hqdefault.jpg"
+        },
+        {
+            "video_id": "Dg2gaBEoE5Y",
+            "title": "empty",
+            "channel_name": "JEONG EUNJI - Topic",
+            "category": "Music",
+            "duration": "3:15",
+            "view_count": "50330",
+            "thumbnail_url": "https://i.ytimg.com/vi/Dg2gaBEoE5Y/hqdefault.jpg"
         },
         {
             "video_id": "cVkCsYF5mC8",
@@ -250,7 +259,7 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "53:34",
-            "view_count": "150958",
+            "view_count": "153690",
             "thumbnail_url": "https://i.ytimg.com/vi/cVkCsYF5mC8/hqdefault.jpg"
         },
         {
@@ -259,7 +268,7 @@
             "channel_name": "Rothy - Topic",
             "category": "Music",
             "duration": "3:02",
-            "view_count": "6295",
+            "view_count": "7048",
             "thumbnail_url": "https://i.ytimg.com/vi/Sdmo-zGV7s8/hqdefault.jpg"
         },
         {
@@ -268,7 +277,7 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:01",
-            "view_count": "51738",
+            "view_count": "53240",
             "thumbnail_url": "https://i.ytimg.com/vi/d9UFeSD9lDM/hqdefault.jpg"
         },
         {
@@ -277,7 +286,7 @@
             "channel_name": "Stray Kids",
             "category": "Entertainment",
             "duration": "3:52",
-            "view_count": "412460",
+            "view_count": "425414",
             "thumbnail_url": "https://i.ytimg.com/vi/MCLX7anEh5s/hqdefault.jpg"
         },
         {
@@ -286,7 +295,7 @@
             "channel_name": "멜로우TV",
             "category": "Gaming",
             "duration": "22:49",
-            "view_count": "128649",
+            "view_count": "133055",
             "thumbnail_url": "https://i.ytimg.com/vi/whGqqLxTiaw/hqdefault.jpg"
         },
         {
@@ -295,26 +304,8 @@
             "channel_name": "tripleS - Topic",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "7567",
+            "view_count": "8162",
             "thumbnail_url": "https://i.ytimg.com/vi/dVJ_CVEkECs/hqdefault.jpg"
-        },
-        {
-            "video_id": "i1IqfT-CQlc",
-            "title": "260817 지렁이게임",
-            "channel_name": "멘파",
-            "category": "Gaming",
-            "duration": "6:01:38",
-            "view_count": "100160",
-            "thumbnail_url": "https://i.ytimg.com/vi/i1IqfT-CQlc/hqdefault.jpg"
-        },
-        {
-            "video_id": "lMWQEXAM14M",
-            "title": "[XHBD_Project: 0818] 忘れられないの - Sakanaction | Covered by Xdinary Heroes Jun Han",
-            "channel_name": "Xdinary Heroes",
-            "category": "Music",
-            "duration": "4:00",
-            "view_count": "37536",
-            "thumbnail_url": "https://i.ytimg.com/vi/lMWQEXAM14M/hqdefault.jpg"
         },
         {
             "video_id": "9uHv8CFYqQM",
@@ -322,7 +313,7 @@
             "channel_name": "서도일",
             "category": "Gaming",
             "duration": "18:42",
-            "view_count": "123228",
+            "view_count": "125380",
             "thumbnail_url": "https://i.ytimg.com/vi/9uHv8CFYqQM/hqdefault.jpg"
         },
         {
@@ -331,8 +322,26 @@
             "channel_name": "Mad Clown - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "14724",
+            "view_count": "15398",
             "thumbnail_url": "https://i.ytimg.com/vi/LTDgIdOEB8I/hqdefault.jpg"
+        },
+        {
+            "video_id": "i1IqfT-CQlc",
+            "title": "260817 지렁이게임",
+            "channel_name": "멘파",
+            "category": "Gaming",
+            "duration": "6:01:38",
+            "view_count": "100230",
+            "thumbnail_url": "https://i.ytimg.com/vi/i1IqfT-CQlc/hqdefault.jpg"
+        },
+        {
+            "video_id": "lMWQEXAM14M",
+            "title": "[XHBD_Project: 0818] 忘れられないの - Sakanaction | Covered by Xdinary Heroes Jun Han",
+            "channel_name": "Xdinary Heroes",
+            "category": "Music",
+            "duration": "4:00",
+            "view_count": "39188",
+            "thumbnail_url": "https://i.ytimg.com/vi/lMWQEXAM14M/hqdefault.jpg"
         },
         {
             "video_id": "7SfvqWV9MEc",
@@ -340,26 +349,8 @@
             "channel_name": "이문주",
             "category": "Gaming",
             "duration": "9:25:20",
-            "view_count": "193763",
+            "view_count": "194039",
             "thumbnail_url": "https://i.ytimg.com/vi/7SfvqWV9MEc/hqdefault.jpg"
-        },
-        {
-            "video_id": "E30TvxRbZJs",
-            "title": "AxMxP (에이엠피) - 나를 만나야 할 10가지 이유 MV",
-            "channel_name": "AxMxP",
-            "category": "Music",
-            "duration": "2:56",
-            "view_count": "1646018",
-            "thumbnail_url": "https://i.ytimg.com/vi/E30TvxRbZJs/hqdefault.jpg"
-        },
-        {
-            "video_id": "Hpkm5RMU-Xg",
-            "title": "우리 서커스 천막이... 😱🐅│T1 vs GEN│2026 LCK│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "55:03",
-            "view_count": "104286",
-            "thumbnail_url": "https://i.ytimg.com/vi/Hpkm5RMU-Xg/hqdefault.jpg"
         },
         {
             "video_id": "RzWbL-1g7sI",
@@ -367,17 +358,26 @@
             "channel_name": "Neoepli - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "13410",
+            "view_count": "14042",
             "thumbnail_url": "https://i.ytimg.com/vi/RzWbL-1g7sI/hqdefault.jpg"
         },
         {
-            "video_id": "1GHjR82dizI",
-            "title": "스킬 1개 = 100만원..? PVP까지 가능하다는 아스가르드 최신 근황 | 아스가르드 똥갓겜 with.만기퇴소 [테스터훈]",
-            "channel_name": "테스터훈 TesterHoon",
+            "video_id": "Hpkm5RMU-Xg",
+            "title": "우리 서커스 천막이... 😱🐅│T1 vs GEN│2026 LCK│울챔스 하이라이트",
+            "channel_name": "Wolf",
             "category": "Gaming",
-            "duration": "31:03",
-            "view_count": "210802",
-            "thumbnail_url": "https://i.ytimg.com/vi/1GHjR82dizI/hqdefault.jpg"
+            "duration": "55:03",
+            "view_count": "105078",
+            "thumbnail_url": "https://i.ytimg.com/vi/Hpkm5RMU-Xg/hqdefault.jpg"
+        },
+        {
+            "video_id": "E30TvxRbZJs",
+            "title": "AxMxP (에이엠피) - 나를 만나야 할 10가지 이유 MV",
+            "channel_name": "AxMxP",
+            "category": "Music",
+            "duration": "2:56",
+            "view_count": "1651715",
+            "thumbnail_url": "https://i.ytimg.com/vi/E30TvxRbZJs/hqdefault.jpg"
         }
     ]
 }
