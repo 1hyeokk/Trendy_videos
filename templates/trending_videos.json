@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-08-21 21:52:09",
+    "scraped_time": "2026-08-21 22:47:40",
     "videos": [
         {
             "video_id": "L8ZnXgbyUuc",
@@ -7,7 +7,7 @@
             "channel_name": "BIGBANG",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "7135887",
+            "view_count": "7222755",
             "thumbnail_url": "https://i.ytimg.com/vi/L8ZnXgbyUuc/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "12:52",
-            "view_count": "265773",
+            "view_count": "267585",
             "thumbnail_url": "https://i.ytimg.com/vi/740gIc6vWSE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "38:55",
-            "view_count": "486737",
+            "view_count": "497512",
             "thumbnail_url": "https://i.ytimg.com/vi/gnfllbM5g7Y/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "Lim Ga Young - Topic",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "222279",
+            "view_count": "225259",
             "thumbnail_url": "https://i.ytimg.com/vi/j1PSgXzdbpI/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "시온",
             "category": "Gaming",
             "duration": "1:17",
-            "view_count": "90496",
+            "view_count": "93491",
             "thumbnail_url": "https://i.ytimg.com/vi/Z5Z0zb9NNwE/hqdefault.jpg"
         },
         {
@@ -52,35 +52,8 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "6:21:18",
-            "view_count": "253656",
+            "view_count": "255303",
             "thumbnail_url": "https://i.ytimg.com/vi/k4kl4iuGv1g/hqdefault.jpg"
-        },
-        {
-            "video_id": "GFU-RLTxSk4",
-            "title": "bgf",
-            "channel_name": "george - Topic",
-            "category": "Music",
-            "duration": "3:23",
-            "view_count": "85524",
-            "thumbnail_url": "https://i.ytimg.com/vi/GFU-RLTxSk4/hqdefault.jpg"
-        },
-        {
-            "video_id": "Bk6DeEedYGs",
-            "title": "[어벤져스: 둠스데이] '둠의 심판' 예고편",
-            "channel_name": "MarvelKorea",
-            "category": "Entertainment",
-            "duration": "2:17",
-            "view_count": "2790574",
-            "thumbnail_url": "https://i.ytimg.com/vi/Bk6DeEedYGs/hqdefault.jpg"
-        },
-        {
-            "video_id": "X5nKP86GO-0",
-            "title": "뜨뜨뜨뜨식 기적의 딜교환",
-            "channel_name": "뜨뜨뜨뜨",
-            "category": "Gaming",
-            "duration": "29:24",
-            "view_count": "204050",
-            "thumbnail_url": "https://i.ytimg.com/vi/X5nKP86GO-0/hqdefault.jpg"
         },
         {
             "video_id": "YJhEsDa2o8w",
@@ -88,7 +61,7 @@
             "channel_name": "ENHYPEN - Topic",
             "category": "Music",
             "duration": "2:12",
-            "view_count": "302546",
+            "view_count": "330946",
             "thumbnail_url": "https://i.ytimg.com/vi/YJhEsDa2o8w/hqdefault.jpg"
         },
         {
@@ -97,17 +70,44 @@
             "channel_name": "Netflix Anime",
             "category": "Film & Animation",
             "duration": "1:28",
-            "view_count": "670886",
+            "view_count": "701140",
             "thumbnail_url": "https://i.ytimg.com/vi/iiuRyNg3giw/hqdefault.jpg"
         },
         {
-            "video_id": "ETaJdYqc67g",
-            "title": "짜장귀신",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "vlTtOgL-FWw",
+            "title": "대통령이 된 마인크래프트 서버 생존기",
+            "channel_name": "코마",
             "category": "Gaming",
-            "duration": "19:28",
-            "view_count": "280142",
-            "thumbnail_url": "https://i.ytimg.com/vi/ETaJdYqc67g/hqdefault.jpg"
+            "duration": "16:10",
+            "view_count": "216744",
+            "thumbnail_url": "https://i.ytimg.com/vi/vlTtOgL-FWw/hqdefault.jpg"
+        },
+        {
+            "video_id": "GFU-RLTxSk4",
+            "title": "bgf",
+            "channel_name": "george - Topic",
+            "category": "Music",
+            "duration": "3:23",
+            "view_count": "88062",
+            "thumbnail_url": "https://i.ytimg.com/vi/GFU-RLTxSk4/hqdefault.jpg"
+        },
+        {
+            "video_id": "Bk6DeEedYGs",
+            "title": "[어벤져스: 둠스데이] '둠의 심판' 예고편",
+            "channel_name": "MarvelKorea",
+            "category": "Entertainment",
+            "duration": "2:17",
+            "view_count": "2793853",
+            "thumbnail_url": "https://i.ytimg.com/vi/Bk6DeEedYGs/hqdefault.jpg"
+        },
+        {
+            "video_id": "X5nKP86GO-0",
+            "title": "뜨뜨뜨뜨식 기적의 딜교환",
+            "channel_name": "뜨뜨뜨뜨",
+            "category": "Gaming",
+            "duration": "29:24",
+            "view_count": "207351",
+            "thumbnail_url": "https://i.ytimg.com/vi/X5nKP86GO-0/hqdefault.jpg"
         },
         {
             "video_id": "LlFB4Tk49kI",
@@ -115,7 +115,7 @@
             "channel_name": "LEE SUHYUN - Topic",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "404880",
+            "view_count": "410435",
             "thumbnail_url": "https://i.ytimg.com/vi/LlFB4Tk49kI/hqdefault.jpg"
         },
         {
@@ -124,17 +124,17 @@
             "channel_name": "엘플릭스 [LPLIX]",
             "category": "Film & Animation",
             "duration": "10:14",
-            "view_count": "209145",
+            "view_count": "209529",
             "thumbnail_url": "https://i.ytimg.com/vi/U_v5uXrjbwM/hqdefault.jpg"
         },
         {
-            "video_id": "vlTtOgL-FWw",
-            "title": "대통령이 된 마인크래프트 서버 생존기",
-            "channel_name": "코마",
+            "video_id": "ETaJdYqc67g",
+            "title": "짜장귀신",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "16:10",
-            "view_count": "186106",
-            "thumbnail_url": "https://i.ytimg.com/vi/vlTtOgL-FWw/hqdefault.jpg"
+            "duration": "19:28",
+            "view_count": "284241",
+            "thumbnail_url": "https://i.ytimg.com/vi/ETaJdYqc67g/hqdefault.jpg"
         },
         {
             "video_id": "Qo-d1UELXPE",
@@ -142,7 +142,7 @@
             "channel_name": "Raina - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "87071",
+            "view_count": "90530",
             "thumbnail_url": "https://i.ytimg.com/vi/Qo-d1UELXPE/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "20:22",
-            "view_count": "152104",
+            "view_count": "155082",
             "thumbnail_url": "https://i.ytimg.com/vi/Gh3zvQyU8A4/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "Silica Gel - Topic",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "49247",
+            "view_count": "50547",
             "thumbnail_url": "https://i.ytimg.com/vi/MNAfJ2AJ5AQ/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "23:16",
-            "view_count": "197835",
+            "view_count": "200841",
             "thumbnail_url": "https://i.ytimg.com/vi/SWyuU315s6A/hqdefault.jpg"
         },
         {
@@ -178,17 +178,17 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "3:53",
-            "view_count": "42933",
+            "view_count": "44378",
             "thumbnail_url": "https://i.ytimg.com/vi/OdFKpPV4VlE/hqdefault.jpg"
         },
         {
-            "video_id": "TSKs_Cjh8pg",
-            "title": "본캐 서버최초 토츠 11카 확정팩 떴다! 모든팩 몸빵현질 종결!",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "uER5x88Emu4",
+            "title": "역대 최강 포켓몬을 손에 넣은 씩씩맨 [마크 코블몬 EP.06]",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "35:38",
-            "view_count": "169468",
-            "thumbnail_url": "https://i.ytimg.com/vi/TSKs_Cjh8pg/hqdefault.jpg"
+            "duration": "36:12",
+            "view_count": "113792",
+            "thumbnail_url": "https://i.ytimg.com/vi/uER5x88Emu4/hqdefault.jpg"
         },
         {
             "video_id": "wgYtOvTTS6k",
@@ -196,17 +196,17 @@
             "channel_name": "E:um - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "64759",
+            "view_count": "66464",
             "thumbnail_url": "https://i.ytimg.com/vi/wgYtOvTTS6k/hqdefault.jpg"
         },
         {
-            "video_id": "OunML7sB9zo",
-            "title": "상호형한테 피파 발리고 찐텐 터진 서도일ㅋㅋㅋㅋ[클상도 피파2]",
-            "channel_name": "서도일",
+            "video_id": "TSKs_Cjh8pg",
+            "title": "본캐 서버최초 토츠 11카 확정팩 떴다! 모든팩 몸빵현질 종결!",
+            "channel_name": "두치와뿌꾸",
             "category": "Gaming",
-            "duration": "21:40",
-            "view_count": "93845",
-            "thumbnail_url": "https://i.ytimg.com/vi/OunML7sB9zo/hqdefault.jpg"
+            "duration": "35:38",
+            "view_count": "170429",
+            "thumbnail_url": "https://i.ytimg.com/vi/TSKs_Cjh8pg/hqdefault.jpg"
         },
         {
             "video_id": "3IOOGXWDttQ",
@@ -214,17 +214,17 @@
             "channel_name": "Tiffany - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "58661",
+            "view_count": "60296",
             "thumbnail_url": "https://i.ytimg.com/vi/3IOOGXWDttQ/hqdefault.jpg"
         },
         {
-            "video_id": "Ku0VPRVeeP8",
-            "title": "도파 나서스",
-            "channel_name": "Official dopa",
+            "video_id": "Wv7eZs652ag",
+            "title": "드롭킥 문도",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "36:19",
-            "view_count": "230747",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ku0VPRVeeP8/hqdefault.jpg"
+            "duration": "24:08",
+            "view_count": "108945",
+            "thumbnail_url": "https://i.ytimg.com/vi/Wv7eZs652ag/hqdefault.jpg"
         },
         {
             "video_id": "JgdrtpK3PeQ",
@@ -232,17 +232,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:47",
-            "view_count": "284983",
+            "view_count": "286926",
             "thumbnail_url": "https://i.ytimg.com/vi/JgdrtpK3PeQ/hqdefault.jpg"
         },
         {
-            "video_id": "f2Uol3Eq7Sc",
-            "title": "강지 누나는 구경만 해 [데바데]",
-            "channel_name": "김블루",
+            "video_id": "OunML7sB9zo",
+            "title": "상호형한테 피파 발리고 찐텐 터진 서도일ㅋㅋㅋㅋ[클상도 피파2]",
+            "channel_name": "서도일",
             "category": "Gaming",
-            "duration": "16:53",
-            "view_count": "182630",
-            "thumbnail_url": "https://i.ytimg.com/vi/f2Uol3Eq7Sc/hqdefault.jpg"
+            "duration": "21:40",
+            "view_count": "94602",
+            "thumbnail_url": "https://i.ytimg.com/vi/OunML7sB9zo/hqdefault.jpg"
         },
         {
             "video_id": "CsrN8hcXCqY",
@@ -250,17 +250,17 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "1:59",
-            "view_count": "106104",
+            "view_count": "108654",
             "thumbnail_url": "https://i.ytimg.com/vi/CsrN8hcXCqY/hqdefault.jpg"
         },
         {
-            "video_id": "LLFIH_qOCqQ",
-            "title": "메이플 최초 먼데이 샤타포스🌟",
-            "channel_name": "타튜브 TATUBE",
+            "video_id": "Ku0VPRVeeP8",
+            "title": "도파 나서스",
+            "channel_name": "Official dopa",
             "category": "Gaming",
-            "duration": "18:08",
-            "view_count": "159972",
-            "thumbnail_url": "https://i.ytimg.com/vi/LLFIH_qOCqQ/hqdefault.jpg"
+            "duration": "36:19",
+            "view_count": "232172",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ku0VPRVeeP8/hqdefault.jpg"
         },
         {
             "video_id": "KwSk5vEK34I",
@@ -268,17 +268,17 @@
             "channel_name": "Han Dong Geun - Topic",
             "category": "Music",
             "duration": "4:10",
-            "view_count": "136506",
+            "view_count": "140503",
             "thumbnail_url": "https://i.ytimg.com/vi/KwSk5vEK34I/hqdefault.jpg"
         },
         {
-            "video_id": "cp1vWSHVink",
-            "title": "메이플스토리 벨로나 공략",
-            "channel_name": "후닝",
+            "video_id": "f2Uol3Eq7Sc",
+            "title": "강지 누나는 구경만 해 [데바데]",
+            "channel_name": "김블루",
             "category": "Gaming",
-            "duration": "12:14",
-            "view_count": "90418",
-            "thumbnail_url": "https://i.ytimg.com/vi/cp1vWSHVink/hqdefault.jpg"
+            "duration": "16:53",
+            "view_count": "186094",
+            "thumbnail_url": "https://i.ytimg.com/vi/f2Uol3Eq7Sc/hqdefault.jpg"
         },
         {
             "video_id": "d2b9OwP4PFU",
@@ -286,17 +286,53 @@
             "channel_name": "WAVE CALL - Topic",
             "category": "Music",
             "duration": "1:59",
-            "view_count": "72295",
+            "view_count": "75249",
             "thumbnail_url": "https://i.ytimg.com/vi/d2b9OwP4PFU/hqdefault.jpg"
         },
         {
-            "video_id": "_vXVvJf-62s",
-            "title": "개돌 전문 스쿼드 [배틀그라운드]",
-            "channel_name": "말왕TV",
+            "video_id": "LLFIH_qOCqQ",
+            "title": "메이플 최초 먼데이 샤타포스🌟",
+            "channel_name": "타튜브 TATUBE",
             "category": "Gaming",
-            "duration": "39:16",
-            "view_count": "265637",
-            "thumbnail_url": "https://i.ytimg.com/vi/_vXVvJf-62s/hqdefault.jpg"
+            "duration": "18:08",
+            "view_count": "161054",
+            "thumbnail_url": "https://i.ytimg.com/vi/LLFIH_qOCqQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "g7FE94-5HQk",
+            "title": "Nothing",
+            "channel_name": "Shane - Topic",
+            "category": "Music",
+            "duration": "2:44",
+            "view_count": "47408",
+            "thumbnail_url": "https://i.ytimg.com/vi/g7FE94-5HQk/hqdefault.jpg"
+        },
+        {
+            "video_id": "cp1vWSHVink",
+            "title": "메이플스토리 벨로나 공략",
+            "channel_name": "후닝",
+            "category": "Gaming",
+            "duration": "12:14",
+            "view_count": "92387",
+            "thumbnail_url": "https://i.ytimg.com/vi/cp1vWSHVink/hqdefault.jpg"
+        },
+        {
+            "video_id": "Tvhjbj-WrF8",
+            "title": "I PROMISE YOU THAT SEVEN KINDS (Feat. KYURI)",
+            "channel_name": "iHwak - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "108764",
+            "thumbnail_url": "https://i.ytimg.com/vi/Tvhjbj-WrF8/hqdefault.jpg"
+        },
+        {
+            "video_id": "NbdZ21IwJ9g",
+            "title": "메챠 카멜레온 스토리모드",
+            "channel_name": "YouTube지누",
+            "category": "Gaming",
+            "duration": "46:31",
+            "view_count": "83734",
+            "thumbnail_url": "https://i.ytimg.com/vi/NbdZ21IwJ9g/hqdefault.jpg"
         },
         {
             "video_id": "C0co7EyYxRU",
@@ -304,7 +340,7 @@
             "channel_name": "로이킴 Roy Kim",
             "category": "Music",
             "duration": "4:33",
-            "view_count": "35851",
+            "view_count": "36806",
             "thumbnail_url": "https://i.ytimg.com/vi/C0co7EyYxRU/hqdefault.jpg"
         },
         {
@@ -313,26 +349,8 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "48:37",
-            "view_count": "103703",
+            "view_count": "105241",
             "thumbnail_url": "https://i.ytimg.com/vi/M1uJWZyj7g0/hqdefault.jpg"
-        },
-        {
-            "video_id": "Tvhjbj-WrF8",
-            "title": "I PROMISE YOU THAT SEVEN KINDS (Feat. KYURI)",
-            "channel_name": "iHwak - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "105472",
-            "thumbnail_url": "https://i.ytimg.com/vi/Tvhjbj-WrF8/hqdefault.jpg"
-        },
-        {
-            "video_id": "uhDKvAaILxs",
-            "title": "\"클리드가 ㅈ밥인 세계관?!\" 클상도 지옥의 피파 합숙 시작 ㄷㄷ | 클상도 피파편 EP.1",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "20:22",
-            "view_count": "172815",
-            "thumbnail_url": "https://i.ytimg.com/vi/uhDKvAaILxs/hqdefault.jpg"
         },
         {
             "video_id": "dONXkc638nk",
@@ -340,7 +358,7 @@
             "channel_name": "Cloud koh - Topic",
             "category": "Music",
             "duration": "3:56",
-            "view_count": "70665",
+            "view_count": "71668",
             "thumbnail_url": "https://i.ytimg.com/vi/dONXkc638nk/hqdefault.jpg"
         },
         {
@@ -349,7 +367,7 @@
             "channel_name": "안녕수야",
             "category": "Gaming",
             "duration": "11:57",
-            "view_count": "121597",
+            "view_count": "123139",
             "thumbnail_url": "https://i.ytimg.com/vi/sMq3eyE9eKc/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "Juho - Topic",
             "category": "Music",
             "duration": "4:44",
-            "view_count": "251644",
+            "view_count": "254710",
             "thumbnail_url": "https://i.ytimg.com/vi/B-zN_Y8w7Us/hqdefault.jpg"
-        },
-        {
-            "video_id": "I12QhXIc78A",
-            "title": "전재산을 박아 템셋했던 메린이 1300만좌가 다시 찾아오셨습니다..",
-            "channel_name": "글자네",
-            "category": "Gaming",
-            "duration": "11:57",
-            "view_count": "136492",
-            "thumbnail_url": "https://i.ytimg.com/vi/I12QhXIc78A/hqdefault.jpg"
-        },
-        {
-            "video_id": "w9CWN-GcACw",
-            "title": "Crazy",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:14",
-            "view_count": "61385",
-            "thumbnail_url": "https://i.ytimg.com/vi/w9CWN-GcACw/hqdefault.jpg"
         }
     ]
 }
