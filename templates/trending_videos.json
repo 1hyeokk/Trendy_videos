@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-08-23 13:39:13",
+    "scraped_time": "2026-08-23 14:31:10",
     "videos": [
         {
             "video_id": "ZBFzUSdS2nI",
@@ -7,7 +7,7 @@
             "channel_name": "BIGBANG - Topic",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "2927085",
+            "view_count": "2961089",
             "thumbnail_url": "https://i.ytimg.com/vi/ZBFzUSdS2nI/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "12:52",
-            "view_count": "293211",
+            "view_count": "293536",
             "thumbnail_url": "https://i.ytimg.com/vi/740gIc6vWSE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "32:34",
-            "view_count": "325591",
+            "view_count": "345161",
             "thumbnail_url": "https://i.ytimg.com/vi/AdHKI8pI6Mg/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "ENHYPEN - Topic",
             "category": "Music",
             "duration": "2:12",
-            "view_count": "833795",
+            "view_count": "840483",
             "thumbnail_url": "https://i.ytimg.com/vi/YJhEsDa2o8w/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "1:18:14",
-            "view_count": "353420",
+            "view_count": "370871",
             "thumbnail_url": "https://i.ytimg.com/vi/HxRcNPQHPCE/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "Lim Ga Young - Topic",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "308700",
+            "view_count": "311354",
             "thumbnail_url": "https://i.ytimg.com/vi/j1PSgXzdbpI/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "뜨뜨뜨뜨",
             "category": "Gaming",
             "duration": "43:08",
-            "view_count": "189196",
+            "view_count": "201998",
             "thumbnail_url": "https://i.ytimg.com/vi/nXhbYxkDcY0/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:15",
-            "view_count": "11695137",
+            "view_count": "12025298",
             "thumbnail_url": "https://i.ytimg.com/vi/MT-4Bk1Lw8g/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "1:12:29",
-            "view_count": "423800",
+            "view_count": "440191",
             "thumbnail_url": "https://i.ytimg.com/vi/6ieFR9FlNmE/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "george - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "162908",
+            "view_count": "165353",
             "thumbnail_url": "https://i.ytimg.com/vi/GFU-RLTxSk4/hqdefault.jpg"
-        },
-        {
-            "video_id": "kd7LyY_O9a8",
-            "title": "벌레타입 체육관 관장이 되었습니다【소원의별】",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "1:38:49",
-            "view_count": "458821",
-            "thumbnail_url": "https://i.ytimg.com/vi/kd7LyY_O9a8/hqdefault.jpg"
-        },
-        {
-            "video_id": "Qo-d1UELXPE",
-            "title": "Tears Keep Falling (Feat. iHwak)",
-            "channel_name": "Raina - Topic",
-            "category": "Music",
-            "duration": "2:59",
-            "view_count": "208591",
-            "thumbnail_url": "https://i.ytimg.com/vi/Qo-d1UELXPE/hqdefault.jpg"
         },
         {
             "video_id": "3qM81IKC5P4",
@@ -115,8 +97,26 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "23:40",
-            "view_count": "200357",
+            "view_count": "208118",
             "thumbnail_url": "https://i.ytimg.com/vi/3qM81IKC5P4/hqdefault.jpg"
+        },
+        {
+            "video_id": "Qo-d1UELXPE",
+            "title": "Tears Keep Falling (Feat. iHwak)",
+            "channel_name": "Raina - Topic",
+            "category": "Music",
+            "duration": "2:59",
+            "view_count": "212067",
+            "thumbnail_url": "https://i.ytimg.com/vi/Qo-d1UELXPE/hqdefault.jpg"
+        },
+        {
+            "video_id": "kd7LyY_O9a8",
+            "title": "벌레타입 체육관 관장이 되었습니다【소원의별】",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "1:38:49",
+            "view_count": "464429",
+            "thumbnail_url": "https://i.ytimg.com/vi/kd7LyY_O9a8/hqdefault.jpg"
         },
         {
             "video_id": "t9LFfR_6ar8",
@@ -124,7 +124,7 @@
             "channel_name": "J-JUN - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "40466",
+            "view_count": "42029",
             "thumbnail_url": "https://i.ytimg.com/vi/t9LFfR_6ar8/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "32:31",
-            "view_count": "399539",
+            "view_count": "402938",
             "thumbnail_url": "https://i.ytimg.com/vi/qko4xEHvAWU/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "Stray Kids",
             "category": "Entertainment",
             "duration": "4:01",
-            "view_count": "326183",
+            "view_count": "333773",
             "thumbnail_url": "https://i.ytimg.com/vi/-gkDGDEfznU/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "코마",
             "category": "Gaming",
             "duration": "16:10",
-            "view_count": "514402",
+            "view_count": "517685",
             "thumbnail_url": "https://i.ytimg.com/vi/vlTtOgL-FWw/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "Kim Gyeol - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "58881",
+            "view_count": "60102",
             "thumbnail_url": "https://i.ytimg.com/vi/tRiasfFdA64/hqdefault.jpg"
         },
         {
@@ -169,17 +169,17 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "36:12",
-            "view_count": "361164",
+            "view_count": "363489",
             "thumbnail_url": "https://i.ytimg.com/vi/uER5x88Emu4/hqdefault.jpg"
         },
         {
-            "video_id": "OdFKpPV4VlE",
-            "title": "황영웅 팬 정모_빗속에서",
-            "channel_name": "황영웅 Tv",
+            "video_id": "Imb4p6lLahQ",
+            "title": "이찬원 '나의 오랜 여행' Live Clip [2026 이찬원 콘서트 '찬가 : 찬란한 하루']",
+            "channel_name": "이찬원",
             "category": "Music",
-            "duration": "3:53",
-            "view_count": "76223",
-            "thumbnail_url": "https://i.ytimg.com/vi/OdFKpPV4VlE/hqdefault.jpg"
+            "duration": "3:51",
+            "view_count": "40517",
+            "thumbnail_url": "https://i.ytimg.com/vi/Imb4p6lLahQ/hqdefault.jpg"
         },
         {
             "video_id": "f4EcT4dnpXY",
@@ -187,7 +187,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "34:58",
-            "view_count": "276545",
+            "view_count": "283094",
             "thumbnail_url": "https://i.ytimg.com/vi/f4EcT4dnpXY/hqdefault.jpg"
         },
         {
@@ -196,7 +196,7 @@
             "channel_name": "LEE SUHYUN - Topic",
             "category": "Music",
             "duration": "3:41",
-            "view_count": "577839",
+            "view_count": "592076",
             "thumbnail_url": "https://i.ytimg.com/vi/LlFB4Tk49kI/hqdefault.jpg"
         },
         {
@@ -205,35 +205,17 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "24:47",
-            "view_count": "177808",
+            "view_count": "180205",
             "thumbnail_url": "https://i.ytimg.com/vi/04ITXqmu6U4/hqdefault.jpg"
         },
         {
-            "video_id": "Imb4p6lLahQ",
-            "title": "이찬원 '나의 오랜 여행' Live Clip [2026 이찬원 콘서트 '찬가 : 찬란한 하루']",
-            "channel_name": "이찬원",
+            "video_id": "OdFKpPV4VlE",
+            "title": "황영웅 팬 정모_빗속에서",
+            "channel_name": "황영웅 Tv",
             "category": "Music",
-            "duration": "3:51",
-            "view_count": "39732",
-            "thumbnail_url": "https://i.ytimg.com/vi/Imb4p6lLahQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "Wv7eZs652ag",
-            "title": "드롭킥 문도",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "24:08",
-            "view_count": "302590",
-            "thumbnail_url": "https://i.ytimg.com/vi/Wv7eZs652ag/hqdefault.jpg"
-        },
-        {
-            "video_id": "v0osSqmiliA",
-            "title": "행복이 그거래요",
-            "channel_name": "E:um - Topic",
-            "category": "Music",
-            "duration": "3:12",
-            "view_count": "47291",
-            "thumbnail_url": "https://i.ytimg.com/vi/v0osSqmiliA/hqdefault.jpg"
+            "duration": "3:53",
+            "view_count": "77084",
+            "thumbnail_url": "https://i.ytimg.com/vi/OdFKpPV4VlE/hqdefault.jpg"
         },
         {
             "video_id": "TzYWpUCZ1mE",
@@ -241,8 +223,26 @@
             "channel_name": "Wolf",
             "category": "Gaming",
             "duration": "1:18:17",
-            "view_count": "163120",
+            "view_count": "166157",
             "thumbnail_url": "https://i.ytimg.com/vi/TzYWpUCZ1mE/hqdefault.jpg"
+        },
+        {
+            "video_id": "v0osSqmiliA",
+            "title": "행복이 그거래요",
+            "channel_name": "E:um - Topic",
+            "category": "Music",
+            "duration": "3:12",
+            "view_count": "48416",
+            "thumbnail_url": "https://i.ytimg.com/vi/v0osSqmiliA/hqdefault.jpg"
+        },
+        {
+            "video_id": "Wv7eZs652ag",
+            "title": "드롭킥 문도",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "24:08",
+            "view_count": "304636",
+            "thumbnail_url": "https://i.ytimg.com/vi/Wv7eZs652ag/hqdefault.jpg"
         },
         {
             "video_id": "MNAfJ2AJ5AQ",
@@ -250,7 +250,7 @@
             "channel_name": "Silica Gel - Topic",
             "category": "Music",
             "duration": "4:14",
-            "view_count": "79609",
+            "view_count": "80665",
             "thumbnail_url": "https://i.ytimg.com/vi/MNAfJ2AJ5AQ/hqdefault.jpg"
         },
         {
@@ -259,7 +259,7 @@
             "channel_name": "흔한남매",
             "category": "Entertainment",
             "duration": "24:44",
-            "view_count": "186605",
+            "view_count": "193712",
             "thumbnail_url": "https://i.ytimg.com/vi/CwjSKYkKjc0/hqdefault.jpg"
         },
         {
@@ -268,8 +268,26 @@
             "channel_name": "WAVE CALL - Topic",
             "category": "Music",
             "duration": "1:59",
-            "view_count": "153714",
+            "view_count": "155956",
             "thumbnail_url": "https://i.ytimg.com/vi/d2b9OwP4PFU/hqdefault.jpg"
+        },
+        {
+            "video_id": "nJbm9BN5o1U",
+            "title": "내 최애 날씨가 술래잡기 사기 능력이 된다면?🌦️",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "29:07",
+            "view_count": "125545",
+            "thumbnail_url": "https://i.ytimg.com/vi/nJbm9BN5o1U/hqdefault.jpg"
+        },
+        {
+            "video_id": "cZvSq1KIXVs",
+            "title": "Our Youth!",
+            "channel_name": "Kim MinSeok - Topic",
+            "category": "Music",
+            "duration": "3:28",
+            "view_count": "27841",
+            "thumbnail_url": "https://i.ytimg.com/vi/cZvSq1KIXVs/hqdefault.jpg"
         },
         {
             "video_id": "e9YxjU8wJSM",
@@ -277,7 +295,7 @@
             "channel_name": "프뚜",
             "category": "Gaming",
             "duration": "34:33",
-            "view_count": "283424",
+            "view_count": "286611",
             "thumbnail_url": "https://i.ytimg.com/vi/e9YxjU8wJSM/hqdefault.jpg"
         },
         {
@@ -286,44 +304,8 @@
             "channel_name": "Mac Miller - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "533041",
+            "view_count": "537268",
             "thumbnail_url": "https://i.ytimg.com/vi/Xq8OEjvTxMw/hqdefault.jpg"
-        },
-        {
-            "video_id": "7yefyNZYNW4",
-            "title": "샤타포스로 죽은 동생들 살려주기 ㅋㅋ [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "12:37",
-            "view_count": "165414",
-            "thumbnail_url": "https://i.ytimg.com/vi/7yefyNZYNW4/hqdefault.jpg"
-        },
-        {
-            "video_id": "cZvSq1KIXVs",
-            "title": "Our Youth!",
-            "channel_name": "Kim MinSeok - Topic",
-            "category": "Music",
-            "duration": "3:28",
-            "view_count": "26656",
-            "thumbnail_url": "https://i.ytimg.com/vi/cZvSq1KIXVs/hqdefault.jpg"
-        },
-        {
-            "video_id": "nJbm9BN5o1U",
-            "title": "내 최애 날씨가 술래잡기 사기 능력이 된다면?🌦️",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "29:07",
-            "view_count": "121603",
-            "thumbnail_url": "https://i.ytimg.com/vi/nJbm9BN5o1U/hqdefault.jpg"
-        },
-        {
-            "video_id": "kmXbDDvV4u4",
-            "title": "[MV] 손태진 (SON TAEJIN)-첫 마음 그대로 (Like the First Heart) (사랑이 온다 OST)",
-            "channel_name": "OGAM Entertainment",
-            "category": "Music",
-            "duration": "3:47",
-            "view_count": "9263",
-            "thumbnail_url": "https://i.ytimg.com/vi/kmXbDDvV4u4/hqdefault.jpg"
         },
         {
             "video_id": "T8s4v2IU7qc",
@@ -331,7 +313,7 @@
             "channel_name": "아오니 AONI",
             "category": "Gaming",
             "duration": "13:19",
-            "view_count": "149733",
+            "view_count": "157380",
             "thumbnail_url": "https://i.ytimg.com/vi/T8s4v2IU7qc/hqdefault.jpg"
         },
         {
@@ -340,8 +322,44 @@
             "channel_name": "Shane - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "96979",
+            "view_count": "98076",
             "thumbnail_url": "https://i.ytimg.com/vi/g7FE94-5HQk/hqdefault.jpg"
+        },
+        {
+            "video_id": "7yefyNZYNW4",
+            "title": "샤타포스로 죽은 동생들 살려주기 ㅋㅋ [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "12:37",
+            "view_count": "168275",
+            "thumbnail_url": "https://i.ytimg.com/vi/7yefyNZYNW4/hqdefault.jpg"
+        },
+        {
+            "video_id": "kmXbDDvV4u4",
+            "title": "[MV] 손태진 (SON TAEJIN)-첫 마음 그대로 (Like the First Heart) (사랑이 온다 OST)",
+            "channel_name": "OGAM Entertainment",
+            "category": "Music",
+            "duration": "3:47",
+            "view_count": "9581",
+            "thumbnail_url": "https://i.ytimg.com/vi/kmXbDDvV4u4/hqdefault.jpg"
+        },
+        {
+            "video_id": "t1xxu2hzvVY",
+            "title": "\"여기서도 황밸\" FC온라인에서 성사된 저밧록ㅋㅋㅋㅋ",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "25:54",
+            "view_count": "80569",
+            "thumbnail_url": "https://i.ytimg.com/vi/t1xxu2hzvVY/hqdefault.jpg"
+        },
+        {
+            "video_id": "XF9ylbYGopQ",
+            "title": "Bubble",
+            "channel_name": "tuki. - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "14095",
+            "thumbnail_url": "https://i.ytimg.com/vi/XF9ylbYGopQ/hqdefault.jpg"
         },
         {
             "video_id": "kV1kFv5RpCg",
@@ -349,7 +367,7 @@
             "channel_name": "이석현",
             "category": "Gaming",
             "duration": "18:08",
-            "view_count": "103984",
+            "view_count": "107336",
             "thumbnail_url": "https://i.ytimg.com/vi/kV1kFv5RpCg/hqdefault.jpg"
         },
         {
@@ -358,26 +376,8 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "1:59",
-            "view_count": "170125",
+            "view_count": "171848",
             "thumbnail_url": "https://i.ytimg.com/vi/CsrN8hcXCqY/hqdefault.jpg"
-        },
-        {
-            "video_id": "4W5miE-A1QA",
-            "title": "깨달은 나서스 정신",
-            "channel_name": "Official dopa",
-            "category": "Gaming",
-            "duration": "26:01",
-            "view_count": "209308",
-            "thumbnail_url": "https://i.ytimg.com/vi/4W5miE-A1QA/hqdefault.jpg"
-        },
-        {
-            "video_id": "KwSk5vEK34I",
-            "title": "DOWNPOUR",
-            "channel_name": "Han Dong Geun - Topic",
-            "category": "Music",
-            "duration": "4:10",
-            "view_count": "227841",
-            "thumbnail_url": "https://i.ytimg.com/vi/KwSk5vEK34I/hqdefault.jpg"
         }
     ]
 }
