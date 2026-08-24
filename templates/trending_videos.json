@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-08-25 01:39:28",
+    "scraped_time": "2026-08-25 02:32:06",
     "videos": [
         {
             "video_id": "B5u8JiGVI_k",
@@ -7,7 +7,7 @@
             "channel_name": "BIGBANG",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "708146",
+            "view_count": "748950",
             "thumbnail_url": "https://i.ytimg.com/vi/B5u8JiGVI_k/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "기묘한 케이지",
             "category": "Film & Animation",
             "duration": "7:38",
-            "view_count": "14287",
+            "view_count": "15765",
             "thumbnail_url": "https://i.ytimg.com/vi/xqA_SCLcL0A/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "19:14",
-            "view_count": "513508",
+            "view_count": "516325",
             "thumbnail_url": "https://i.ytimg.com/vi/nxwUdAna5BU/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:36",
-            "view_count": "513710",
+            "view_count": "565700",
             "thumbnail_url": "https://i.ytimg.com/vi/BjFX1eugZ-Y/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "43:05",
-            "view_count": "482339",
+            "view_count": "485630",
             "thumbnail_url": "https://i.ytimg.com/vi/OTk5uaRmHjA/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "CORTIS - Topic",
             "category": "Music",
             "duration": "1:53",
-            "view_count": "546983",
+            "view_count": "555202",
             "thumbnail_url": "https://i.ytimg.com/vi/Eg4-vCHc7eQ/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "27:27",
-            "view_count": "99150",
+            "view_count": "105999",
             "thumbnail_url": "https://i.ytimg.com/vi/D2DV02qHs6w/hqdefault.jpg"
         },
         {
@@ -70,44 +70,8 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "698809",
+            "view_count": "808393",
             "thumbnail_url": "https://i.ytimg.com/vi/46h0LvDHgIs/hqdefault.jpg"
-        },
-        {
-            "video_id": "HxRcNPQHPCE",
-            "title": "이젠 백화점을 정리하라고요? 혜안져스 어셈블...😭 (※1시간 순삭)",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "1:18:14",
-            "view_count": "617317",
-            "thumbnail_url": "https://i.ytimg.com/vi/HxRcNPQHPCE/hqdefault.jpg"
-        },
-        {
-            "video_id": "i5DfRfEf7s4",
-            "title": "MANGO",
-            "channel_name": "JUNE - Topic",
-            "category": "Music",
-            "duration": "3:38",
-            "view_count": "48565",
-            "thumbnail_url": "https://i.ytimg.com/vi/i5DfRfEf7s4/hqdefault.jpg"
-        },
-        {
-            "video_id": "UUgUYme0VSo",
-            "title": "어디로든 문",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "27:20",
-            "view_count": "284244",
-            "thumbnail_url": "https://i.ytimg.com/vi/UUgUYme0VSo/hqdefault.jpg"
-        },
-        {
-            "video_id": "g9Q58A_k-HU",
-            "title": "ALPHA DRIVE ONE 'BORN DIRE' MV",
-            "channel_name": "ALPHA DRIVE ONE",
-            "category": "Music",
-            "duration": "3:18",
-            "view_count": "713808",
-            "thumbnail_url": "https://i.ytimg.com/vi/g9Q58A_k-HU/hqdefault.jpg"
         },
         {
             "video_id": "BufzSS-cVXk",
@@ -115,8 +79,44 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "10:24",
-            "view_count": "148587",
+            "view_count": "158813",
             "thumbnail_url": "https://i.ytimg.com/vi/BufzSS-cVXk/hqdefault.jpg"
+        },
+        {
+            "video_id": "i5DfRfEf7s4",
+            "title": "MANGO",
+            "channel_name": "JUNE - Topic",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "49300",
+            "thumbnail_url": "https://i.ytimg.com/vi/i5DfRfEf7s4/hqdefault.jpg"
+        },
+        {
+            "video_id": "HxRcNPQHPCE",
+            "title": "이젠 백화점을 정리하라고요? 혜안져스 어셈블...😭 (※1시간 순삭)",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "1:18:14",
+            "view_count": "620135",
+            "thumbnail_url": "https://i.ytimg.com/vi/HxRcNPQHPCE/hqdefault.jpg"
+        },
+        {
+            "video_id": "g9Q58A_k-HU",
+            "title": "ALPHA DRIVE ONE 'BORN DIRE' MV",
+            "channel_name": "ALPHA DRIVE ONE",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "901176",
+            "thumbnail_url": "https://i.ytimg.com/vi/g9Q58A_k-HU/hqdefault.jpg"
+        },
+        {
+            "video_id": "UUgUYme0VSo",
+            "title": "어디로든 문",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "27:20",
+            "view_count": "286836",
+            "thumbnail_url": "https://i.ytimg.com/vi/UUgUYme0VSo/hqdefault.jpg"
         },
         {
             "video_id": "8oxdWxVPR24",
@@ -124,7 +124,7 @@
             "channel_name": "NCT 127 - Topic",
             "category": "Music",
             "duration": "3:21",
-            "view_count": "33552",
+            "view_count": "35595",
             "thumbnail_url": "https://i.ytimg.com/vi/8oxdWxVPR24/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "49:12",
-            "view_count": "361349",
+            "view_count": "363874",
             "thumbnail_url": "https://i.ytimg.com/vi/hYt4KzhFsJY/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "9Lana - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "246030",
+            "view_count": "252051",
             "thumbnail_url": "https://i.ytimg.com/vi/CTdGQIeWQM0/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "GCL 지씨엘",
             "category": "Gaming",
             "duration": "1:04:46",
-            "view_count": "287354",
+            "view_count": "292170",
             "thumbnail_url": "https://i.ytimg.com/vi/yOh0UewG0oU/hqdefault.jpg"
         },
         {
@@ -160,26 +160,8 @@
             "channel_name": "Ryeojin - Topic",
             "category": "Music",
             "duration": "2:18",
-            "view_count": "49178",
+            "view_count": "49748",
             "thumbnail_url": "https://i.ytimg.com/vi/mlqn0TmPwMg/hqdefault.jpg"
-        },
-        {
-            "video_id": "KUZK1-ZwF1c",
-            "title": "굿바이 즐라탄.. 현 프로가 알려주는 \"드리블러의 필수 꿀팁\"",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "24:15",
-            "view_count": "102988",
-            "thumbnail_url": "https://i.ytimg.com/vi/KUZK1-ZwF1c/hqdefault.jpg"
-        },
-        {
-            "video_id": "DWGROwMNFek",
-            "title": "SUN KISS",
-            "channel_name": "TUIDE - Topic",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "30914",
-            "thumbnail_url": "https://i.ytimg.com/vi/DWGROwMNFek/hqdefault.jpg"
         },
         {
             "video_id": "094PPi4Zhac",
@@ -187,7 +169,7 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "26:24",
-            "view_count": "58591",
+            "view_count": "67856",
             "thumbnail_url": "https://i.ytimg.com/vi/094PPi4Zhac/hqdefault.jpg"
         },
         {
@@ -196,17 +178,35 @@
             "channel_name": "ENHYPEN",
             "category": "Entertainment",
             "duration": "2:22",
-            "view_count": "227757",
+            "view_count": "251182",
             "thumbnail_url": "https://i.ytimg.com/vi/bPjrHu60278/hqdefault.jpg"
         },
         {
-            "video_id": "nXhbYxkDcY0",
-            "title": "뜨뜨뜨뜨 갱생 프로젝트, 칸 사부님 모셨습니다.",
+            "video_id": "KUZK1-ZwF1c",
+            "title": "굿바이 즐라탄.. 현 프로가 알려주는 \"드리블러의 필수 꿀팁\"",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "24:15",
+            "view_count": "105294",
+            "thumbnail_url": "https://i.ytimg.com/vi/KUZK1-ZwF1c/hqdefault.jpg"
+        },
+        {
+            "video_id": "DWGROwMNFek",
+            "title": "SUN KISS",
+            "channel_name": "TUIDE - Topic",
+            "category": "Music",
+            "duration": "3:01",
+            "view_count": "33820",
+            "thumbnail_url": "https://i.ytimg.com/vi/DWGROwMNFek/hqdefault.jpg"
+        },
+        {
+            "video_id": "hGUCq7KvDoc",
+            "title": "카밀이 괴물이 된 이유",
             "channel_name": "뜨뜨뜨뜨",
             "category": "Gaming",
-            "duration": "43:08",
-            "view_count": "361027",
-            "thumbnail_url": "https://i.ytimg.com/vi/nXhbYxkDcY0/hqdefault.jpg"
+            "duration": "28:26",
+            "view_count": "78931",
+            "thumbnail_url": "https://i.ytimg.com/vi/hGUCq7KvDoc/hqdefault.jpg"
         },
         {
             "video_id": "XF9ylbYGopQ",
@@ -214,7 +214,7 @@
             "channel_name": "tuki. - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "115650",
+            "view_count": "116884",
             "thumbnail_url": "https://i.ytimg.com/vi/XF9ylbYGopQ/hqdefault.jpg"
         },
         {
@@ -223,7 +223,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "1:12:29",
-            "view_count": "678452",
+            "view_count": "681354",
             "thumbnail_url": "https://i.ytimg.com/vi/6ieFR9FlNmE/hqdefault.jpg"
         },
         {
@@ -232,26 +232,8 @@
             "channel_name": "V.O.S - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "33399",
+            "view_count": "33680",
             "thumbnail_url": "https://i.ytimg.com/vi/I1a8fW-mdwk/hqdefault.jpg"
-        },
-        {
-            "video_id": "SM7dqL3fzFA",
-            "title": "7년만에 채팅 치고 좋아죽는 도서스",
-            "channel_name": "Official dopa",
-            "category": "Gaming",
-            "duration": "29:02",
-            "view_count": "239956",
-            "thumbnail_url": "https://i.ytimg.com/vi/SM7dqL3fzFA/hqdefault.jpg"
-        },
-        {
-            "video_id": "MJAveqDtLyc",
-            "title": "소연 (SOYEON) 'STAR'",
-            "channel_name": "i-dle (아이들)",
-            "category": "Music",
-            "duration": "2:14",
-            "view_count": "284712",
-            "thumbnail_url": "https://i.ytimg.com/vi/MJAveqDtLyc/hqdefault.jpg"
         },
         {
             "video_id": "B3AacOMBQQI",
@@ -259,8 +241,26 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "1:00:08",
-            "view_count": "103598",
+            "view_count": "111186",
             "thumbnail_url": "https://i.ytimg.com/vi/B3AacOMBQQI/hqdefault.jpg"
+        },
+        {
+            "video_id": "MJAveqDtLyc",
+            "title": "소연 (SOYEON) 'STAR'",
+            "channel_name": "i-dle (아이들)",
+            "category": "Music",
+            "duration": "2:14",
+            "view_count": "289209",
+            "thumbnail_url": "https://i.ytimg.com/vi/MJAveqDtLyc/hqdefault.jpg"
+        },
+        {
+            "video_id": "SM7dqL3fzFA",
+            "title": "7년만에 채팅 치고 좋아죽는 도서스",
+            "channel_name": "Official dopa",
+            "category": "Gaming",
+            "duration": "29:02",
+            "view_count": "241848",
+            "thumbnail_url": "https://i.ytimg.com/vi/SM7dqL3fzFA/hqdefault.jpg"
         },
         {
             "video_id": "j1PSgXzdbpI",
@@ -268,7 +268,7 @@
             "channel_name": "Lim Ga Young - Topic",
             "category": "Music",
             "duration": "4:12",
-            "view_count": "386931",
+            "view_count": "387732",
             "thumbnail_url": "https://i.ytimg.com/vi/j1PSgXzdbpI/hqdefault.jpg"
         },
         {
@@ -277,7 +277,7 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:01",
-            "view_count": "29214",
+            "view_count": "32373",
             "thumbnail_url": "https://i.ytimg.com/vi/p_T7yBmC9dQ/hqdefault.jpg"
         },
         {
@@ -286,7 +286,7 @@
             "channel_name": "J-JUN - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "81296",
+            "view_count": "81653",
             "thumbnail_url": "https://i.ytimg.com/vi/t9LFfR_6ar8/hqdefault.jpg"
         },
         {
@@ -295,7 +295,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "33:29",
-            "view_count": "209552",
+            "view_count": "210676",
             "thumbnail_url": "https://i.ytimg.com/vi/Qv8Qzdqbwxw/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "Chris James - Topic",
             "category": "Music",
             "duration": "2:26",
-            "view_count": "31565",
+            "view_count": "32121",
             "thumbnail_url": "https://i.ytimg.com/vi/Q-mVpz2f-qM/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "27:33",
-            "view_count": "48662",
+            "view_count": "55597",
             "thumbnail_url": "https://i.ytimg.com/vi/vPHPwPjlrcc/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "Marino - Topic",
             "category": "Music",
             "duration": "1:51",
-            "view_count": "416098",
+            "view_count": "421642",
             "thumbnail_url": "https://i.ytimg.com/vi/wv3eZb0rnYY/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "MOVIESTAR",
             "category": "Film & Animation",
             "duration": "7:36",
-            "view_count": "130829",
+            "view_count": "134813",
             "thumbnail_url": "https://i.ytimg.com/vi/wWTunlXEDLE/hqdefault.jpg"
         },
         {
@@ -340,26 +340,8 @@
             "channel_name": "george - Topic",
             "category": "Music",
             "duration": "3:23",
-            "view_count": "238190",
+            "view_count": "238757",
             "thumbnail_url": "https://i.ytimg.com/vi/GFU-RLTxSk4/hqdefault.jpg"
-        },
-        {
-            "video_id": "QyJCC7hbdgk",
-            "title": "뽕구차와 칸린이",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "58:37",
-            "view_count": "142281",
-            "thumbnail_url": "https://i.ytimg.com/vi/QyJCC7hbdgk/hqdefault.jpg"
-        },
-        {
-            "video_id": "tRiasfFdA64",
-            "title": "one′s love",
-            "channel_name": "Kim Gyeol - Topic",
-            "category": "Music",
-            "duration": "3:16",
-            "view_count": "93627",
-            "thumbnail_url": "https://i.ytimg.com/vi/tRiasfFdA64/hqdefault.jpg"
         },
         {
             "video_id": "F-RKhAX1Xc4",
@@ -367,8 +349,26 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "45:11",
-            "view_count": "157818",
+            "view_count": "159166",
             "thumbnail_url": "https://i.ytimg.com/vi/F-RKhAX1Xc4/hqdefault.jpg"
+        },
+        {
+            "video_id": "tRiasfFdA64",
+            "title": "one′s love",
+            "channel_name": "Kim Gyeol - Topic",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "93953",
+            "thumbnail_url": "https://i.ytimg.com/vi/tRiasfFdA64/hqdefault.jpg"
+        },
+        {
+            "video_id": "QyJCC7hbdgk",
+            "title": "뽕구차와 칸린이",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "58:37",
+            "view_count": "143337",
+            "thumbnail_url": "https://i.ytimg.com/vi/QyJCC7hbdgk/hqdefault.jpg"
         },
         {
             "video_id": "Qo-d1UELXPE",
@@ -376,7 +376,7 @@
             "channel_name": "Raina - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "336213",
+            "view_count": "337321",
             "thumbnail_url": "https://i.ytimg.com/vi/Qo-d1UELXPE/hqdefault.jpg"
         }
     ]
