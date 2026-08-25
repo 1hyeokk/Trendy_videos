@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-08-25 10:22:05",
+    "scraped_time": "2026-08-25 12:00:08",
     "videos": [
         {
             "video_id": "B5u8JiGVI_k",
@@ -7,8 +7,35 @@
             "channel_name": "BIGBANG",
             "category": "Music",
             "duration": "2:48",
-            "view_count": "946953",
+            "view_count": "982243",
             "thumbnail_url": "https://i.ytimg.com/vi/B5u8JiGVI_k/hqdefault.jpg"
+        },
+        {
+            "video_id": "k_PWSLFMSAk",
+            "title": "스캔들 | 공식 티저 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "1:05",
+            "view_count": "7686",
+            "thumbnail_url": "https://i.ytimg.com/vi/k_PWSLFMSAk/hqdefault.jpg"
+        },
+        {
+            "video_id": "5InU3aIHxdo",
+            "title": "협곡에서 만나기 싫은 듀오",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "37:57",
+            "view_count": "270175",
+            "thumbnail_url": "https://i.ytimg.com/vi/5InU3aIHxdo/hqdefault.jpg"
+        },
+        {
+            "video_id": "BjFX1eugZ-Y",
+            "title": "NCT 127 엔시티 127 'Blingy' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "3:36",
+            "view_count": "793034",
+            "thumbnail_url": "https://i.ytimg.com/vi/BjFX1eugZ-Y/hqdefault.jpg"
         },
         {
             "video_id": "cNngfCSQDp8",
@@ -16,7 +43,7 @@
             "channel_name": "JX",
             "category": "Entertainment",
             "duration": "1:38",
-            "view_count": "10769",
+            "view_count": "12631",
             "thumbnail_url": "https://i.ytimg.com/vi/cNngfCSQDp8/hqdefault.jpg"
         },
         {
@@ -25,35 +52,8 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "19:14",
-            "view_count": "532726",
+            "view_count": "535226",
             "thumbnail_url": "https://i.ytimg.com/vi/nxwUdAna5BU/hqdefault.jpg"
-        },
-        {
-            "video_id": "BjFX1eugZ-Y",
-            "title": "NCT 127 엔시티 127 'Blingy' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "3:36",
-            "view_count": "759814",
-            "thumbnail_url": "https://i.ytimg.com/vi/BjFX1eugZ-Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "xqA_SCLcL0A",
-            "title": "'다크 엘사'가 떴다..🔥 《겨울왕국 3》 예고편 분석 | 3+4편 연결 확정?!",
-            "channel_name": "기묘한 케이지",
-            "category": "Film & Animation",
-            "duration": "7:38",
-            "view_count": "24593",
-            "thumbnail_url": "https://i.ytimg.com/vi/xqA_SCLcL0A/hqdefault.jpg"
-        },
-        {
-            "video_id": "5InU3aIHxdo",
-            "title": "협곡에서 만나기 싫은 듀오",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "37:57",
-            "view_count": "261199",
-            "thumbnail_url": "https://i.ytimg.com/vi/5InU3aIHxdo/hqdefault.jpg"
         },
         {
             "video_id": "46h0LvDHgIs",
@@ -61,8 +61,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:20",
-            "view_count": "1201845",
+            "view_count": "1266577",
             "thumbnail_url": "https://i.ytimg.com/vi/46h0LvDHgIs/hqdefault.jpg"
+        },
+        {
+            "video_id": "dtpyrKDJPRg",
+            "title": "[인턴] 2차 예고편",
+            "channel_name": "Warner Bros. Korea",
+            "category": "Film & Animation",
+            "duration": "1:32",
+            "view_count": "7460",
+            "thumbnail_url": "https://i.ytimg.com/vi/dtpyrKDJPRg/hqdefault.jpg"
         },
         {
             "video_id": "D2DV02qHs6w",
@@ -70,7 +79,7 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "27:27",
-            "view_count": "139344",
+            "view_count": "142888",
             "thumbnail_url": "https://i.ytimg.com/vi/D2DV02qHs6w/hqdefault.jpg"
         },
         {
@@ -79,8 +88,17 @@
             "channel_name": "CORTIS - Topic",
             "category": "Music",
             "duration": "1:53",
-            "view_count": "637012",
+            "view_count": "654382",
             "thumbnail_url": "https://i.ytimg.com/vi/Eg4-vCHc7eQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "xqA_SCLcL0A",
+            "title": "'다크 엘사'가 떴다..🔥 《겨울왕국 3》 예고편 분석 | 3+4편 연결 확정?!",
+            "channel_name": "기묘한 케이지",
+            "category": "Film & Animation",
+            "duration": "7:38",
+            "view_count": "26808",
+            "thumbnail_url": "https://i.ytimg.com/vi/xqA_SCLcL0A/hqdefault.jpg"
         },
         {
             "video_id": "hGUCq7KvDoc",
@@ -88,7 +106,7 @@
             "channel_name": "뜨뜨뜨뜨",
             "category": "Gaming",
             "duration": "28:26",
-            "view_count": "155284",
+            "view_count": "164773",
             "thumbnail_url": "https://i.ytimg.com/vi/hGUCq7KvDoc/hqdefault.jpg"
         },
         {
@@ -97,26 +115,8 @@
             "channel_name": "JUNE - Topic",
             "category": "Music",
             "duration": "3:38",
-            "view_count": "54236",
+            "view_count": "56018",
             "thumbnail_url": "https://i.ytimg.com/vi/i5DfRfEf7s4/hqdefault.jpg"
-        },
-        {
-            "video_id": "BufzSS-cVXk",
-            "title": "미친 스펙업한 제논 딜 공개합니다! ㄷㄷ [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "10:24",
-            "view_count": "213397",
-            "thumbnail_url": "https://i.ytimg.com/vi/BufzSS-cVXk/hqdefault.jpg"
-        },
-        {
-            "video_id": "8oxdWxVPR24",
-            "title": "Blingy",
-            "channel_name": "NCT 127 - Topic",
-            "category": "Music",
-            "duration": "3:21",
-            "view_count": "51338",
-            "thumbnail_url": "https://i.ytimg.com/vi/8oxdWxVPR24/hqdefault.jpg"
         },
         {
             "video_id": "094PPi4Zhac",
@@ -124,26 +124,26 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "26:24",
-            "view_count": "111812",
+            "view_count": "117715",
             "thumbnail_url": "https://i.ytimg.com/vi/094PPi4Zhac/hqdefault.jpg"
         },
         {
-            "video_id": "g9Q58A_k-HU",
-            "title": "ALPHA DRIVE ONE 'BORN DIRE' MV",
-            "channel_name": "ALPHA DRIVE ONE",
+            "video_id": "8oxdWxVPR24",
+            "title": "Blingy",
+            "channel_name": "NCT 127 - Topic",
             "category": "Music",
-            "duration": "3:18",
-            "view_count": "1168048",
-            "thumbnail_url": "https://i.ytimg.com/vi/g9Q58A_k-HU/hqdefault.jpg"
+            "duration": "3:21",
+            "view_count": "59372",
+            "thumbnail_url": "https://i.ytimg.com/vi/8oxdWxVPR24/hqdefault.jpg"
         },
         {
-            "video_id": "UUgUYme0VSo",
-            "title": "어디로든 문",
-            "channel_name": "PAKA",
+            "video_id": "BufzSS-cVXk",
+            "title": "미친 스펙업한 제논 딜 공개합니다! ㄷㄷ [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "27:20",
-            "view_count": "303019",
-            "thumbnail_url": "https://i.ytimg.com/vi/UUgUYme0VSo/hqdefault.jpg"
+            "duration": "10:24",
+            "view_count": "219382",
+            "thumbnail_url": "https://i.ytimg.com/vi/BufzSS-cVXk/hqdefault.jpg"
         },
         {
             "video_id": "DWGROwMNFek",
@@ -151,8 +151,26 @@
             "channel_name": "TUIDE - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "61148",
+            "view_count": "71393",
             "thumbnail_url": "https://i.ytimg.com/vi/DWGROwMNFek/hqdefault.jpg"
+        },
+        {
+            "video_id": "UUgUYme0VSo",
+            "title": "어디로든 문",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "27:20",
+            "view_count": "305086",
+            "thumbnail_url": "https://i.ytimg.com/vi/UUgUYme0VSo/hqdefault.jpg"
+        },
+        {
+            "video_id": "g9Q58A_k-HU",
+            "title": "ALPHA DRIVE ONE 'BORN DIRE' MV",
+            "channel_name": "ALPHA DRIVE ONE",
+            "category": "Music",
+            "duration": "3:18",
+            "view_count": "1307621",
+            "thumbnail_url": "https://i.ytimg.com/vi/g9Q58A_k-HU/hqdefault.jpg"
         },
         {
             "video_id": "HxRcNPQHPCE",
@@ -160,7 +178,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "1:18:14",
-            "view_count": "636215",
+            "view_count": "638185",
             "thumbnail_url": "https://i.ytimg.com/vi/HxRcNPQHPCE/hqdefault.jpg"
         },
         {
@@ -169,62 +187,8 @@
             "channel_name": "9Lana - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "301895",
+            "view_count": "315104",
             "thumbnail_url": "https://i.ytimg.com/vi/CTdGQIeWQM0/hqdefault.jpg"
-        },
-        {
-            "video_id": "KUZK1-ZwF1c",
-            "title": "굿바이 즐라탄.. 현 프로가 알려주는 \"드리블러의 필수 꿀팁\"",
-            "channel_name": "스맵",
-            "category": "Gaming",
-            "duration": "24:15",
-            "view_count": "118881",
-            "thumbnail_url": "https://i.ytimg.com/vi/KUZK1-ZwF1c/hqdefault.jpg"
-        },
-        {
-            "video_id": "bPjrHu60278",
-            "title": "ENHYPEN (엔하이픈) ‘Bloody Paradise’ Dance Practice",
-            "channel_name": "ENHYPEN",
-            "category": "Entertainment",
-            "duration": "2:22",
-            "view_count": "412147",
-            "thumbnail_url": "https://i.ytimg.com/vi/bPjrHu60278/hqdefault.jpg"
-        },
-        {
-            "video_id": "hYt4KzhFsJY",
-            "title": "마개조 촉각 슈트 입고 배그 치킨 먹기",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "49:12",
-            "view_count": "376421",
-            "thumbnail_url": "https://i.ytimg.com/vi/hYt4KzhFsJY/hqdefault.jpg"
-        },
-        {
-            "video_id": "mlqn0TmPwMg",
-            "title": "Favorite Boy",
-            "channel_name": "Ryeojin - Topic",
-            "category": "Music",
-            "duration": "2:18",
-            "view_count": "55328",
-            "thumbnail_url": "https://i.ytimg.com/vi/mlqn0TmPwMg/hqdefault.jpg"
-        },
-        {
-            "video_id": "yOh0UewG0oU",
-            "title": "\"스타크래프트의 전설이 시작된 첫 번째 이야기\"  |  스타크래프트 스토리 한눈에 보기",
-            "channel_name": "GCL 지씨엘",
-            "category": "Gaming",
-            "duration": "1:04:46",
-            "view_count": "321646",
-            "thumbnail_url": "https://i.ytimg.com/vi/yOh0UewG0oU/hqdefault.jpg"
-        },
-        {
-            "video_id": "XF9ylbYGopQ",
-            "title": "Bubble",
-            "channel_name": "tuki. - Topic",
-            "category": "Music",
-            "duration": "3:19",
-            "view_count": "128592",
-            "thumbnail_url": "https://i.ytimg.com/vi/XF9ylbYGopQ/hqdefault.jpg"
         },
         {
             "video_id": "vPHPwPjlrcc",
@@ -232,17 +196,35 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "27:33",
-            "view_count": "109609",
+            "view_count": "116353",
             "thumbnail_url": "https://i.ytimg.com/vi/vPHPwPjlrcc/hqdefault.jpg"
         },
         {
-            "video_id": "I1a8fW-mdwk",
-            "title": "Not Who We Were",
-            "channel_name": "V.O.S - Topic",
+            "video_id": "bPjrHu60278",
+            "title": "ENHYPEN (엔하이픈) ‘Bloody Paradise’ Dance Practice",
+            "channel_name": "ENHYPEN",
+            "category": "Entertainment",
+            "duration": "2:22",
+            "view_count": "437613",
+            "thumbnail_url": "https://i.ytimg.com/vi/bPjrHu60278/hqdefault.jpg"
+        },
+        {
+            "video_id": "KUZK1-ZwF1c",
+            "title": "굿바이 즐라탄.. 현 프로가 알려주는 \"드리블러의 필수 꿀팁\"",
+            "channel_name": "스맵",
+            "category": "Gaming",
+            "duration": "24:15",
+            "view_count": "120602",
+            "thumbnail_url": "https://i.ytimg.com/vi/KUZK1-ZwF1c/hqdefault.jpg"
+        },
+        {
+            "video_id": "mlqn0TmPwMg",
+            "title": "Favorite Boy",
+            "channel_name": "Ryeojin - Topic",
             "category": "Music",
-            "duration": "4:20",
-            "view_count": "36822",
-            "thumbnail_url": "https://i.ytimg.com/vi/I1a8fW-mdwk/hqdefault.jpg"
+            "duration": "2:18",
+            "view_count": "57738",
+            "thumbnail_url": "https://i.ytimg.com/vi/mlqn0TmPwMg/hqdefault.jpg"
         },
         {
             "video_id": "B3AacOMBQQI",
@@ -250,8 +232,44 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "1:00:08",
-            "view_count": "153299",
+            "view_count": "158790",
             "thumbnail_url": "https://i.ytimg.com/vi/B3AacOMBQQI/hqdefault.jpg"
+        },
+        {
+            "video_id": "XF9ylbYGopQ",
+            "title": "Bubble",
+            "channel_name": "tuki. - Topic",
+            "category": "Music",
+            "duration": "3:19",
+            "view_count": "132656",
+            "thumbnail_url": "https://i.ytimg.com/vi/XF9ylbYGopQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "yOh0UewG0oU",
+            "title": "\"스타크래프트의 전설이 시작된 첫 번째 이야기\"  |  스타크래프트 스토리 한눈에 보기",
+            "channel_name": "GCL 지씨엘",
+            "category": "Gaming",
+            "duration": "1:04:46",
+            "view_count": "325403",
+            "thumbnail_url": "https://i.ytimg.com/vi/yOh0UewG0oU/hqdefault.jpg"
+        },
+        {
+            "video_id": "I1a8fW-mdwk",
+            "title": "Not Who We Were",
+            "channel_name": "V.O.S - Topic",
+            "category": "Music",
+            "duration": "4:20",
+            "view_count": "38385",
+            "thumbnail_url": "https://i.ytimg.com/vi/I1a8fW-mdwk/hqdefault.jpg"
+        },
+        {
+            "video_id": "hYt4KzhFsJY",
+            "title": "마개조 촉각 슈트 입고 배그 치킨 먹기",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "49:12",
+            "view_count": "378612",
+            "thumbnail_url": "https://i.ytimg.com/vi/hYt4KzhFsJY/hqdefault.jpg"
         },
         {
             "video_id": "MJAveqDtLyc",
@@ -259,7 +277,7 @@
             "channel_name": "i-dle (아이들)",
             "category": "Music",
             "duration": "2:14",
-            "view_count": "322024",
+            "view_count": "327130",
             "thumbnail_url": "https://i.ytimg.com/vi/MJAveqDtLyc/hqdefault.jpg"
         },
         {
@@ -268,7 +286,7 @@
             "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
             "duration": "9:01",
-            "view_count": "45559",
+            "view_count": "47448",
             "thumbnail_url": "https://i.ytimg.com/vi/p_T7yBmC9dQ/hqdefault.jpg"
         },
         {
@@ -277,7 +295,7 @@
             "channel_name": "Chris James - Topic",
             "category": "Music",
             "duration": "2:26",
-            "view_count": "38183",
+            "view_count": "40717",
             "thumbnail_url": "https://i.ytimg.com/vi/Q-mVpz2f-qM/hqdefault.jpg"
         },
         {
@@ -286,80 +304,8 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "1:12:29",
-            "view_count": "699700",
+            "view_count": "701992",
             "thumbnail_url": "https://i.ytimg.com/vi/6ieFR9FlNmE/hqdefault.jpg"
-        },
-        {
-            "video_id": "j1PSgXzdbpI",
-            "title": "Forced nostalgia",
-            "channel_name": "Lim Ga Young - Topic",
-            "category": "Music",
-            "duration": "4:12",
-            "view_count": "396475",
-            "thumbnail_url": "https://i.ytimg.com/vi/j1PSgXzdbpI/hqdefault.jpg"
-        },
-        {
-            "video_id": "SM7dqL3fzFA",
-            "title": "7년만에 채팅 치고 좋아죽는 도서스",
-            "channel_name": "Official dopa",
-            "category": "Gaming",
-            "duration": "29:02",
-            "view_count": "253900",
-            "thumbnail_url": "https://i.ytimg.com/vi/SM7dqL3fzFA/hqdefault.jpg"
-        },
-        {
-            "video_id": "t9LFfR_6ar8",
-            "title": "Echoes of Us",
-            "channel_name": "J-JUN - Topic",
-            "category": "Music",
-            "duration": "4:15",
-            "view_count": "85530",
-            "thumbnail_url": "https://i.ytimg.com/vi/t9LFfR_6ar8/hqdefault.jpg"
-        },
-        {
-            "video_id": "s9uv7pF9lGY",
-            "title": "피파 ㅈ밥 문파로 찍힐 위기의 클상도;;; 결국 특단조치 내렸습니다",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "23:10",
-            "view_count": "90474",
-            "thumbnail_url": "https://i.ytimg.com/vi/s9uv7pF9lGY/hqdefault.jpg"
-        },
-        {
-            "video_id": "wv3eZb0rnYY",
-            "title": "Im Sorry Mom (Remix)",
-            "channel_name": "Marino - Topic",
-            "category": "Music",
-            "duration": "1:51",
-            "view_count": "476844",
-            "thumbnail_url": "https://i.ytimg.com/vi/wv3eZb0rnYY/hqdefault.jpg"
-        },
-        {
-            "video_id": "KIQ9Aurangk",
-            "title": "리니지 클래식 안타라스 호랩이상 트리플 소울요정 삽니다",
-            "channel_name": "이문주",
-            "category": "Gaming",
-            "duration": "3:05:49",
-            "view_count": "95371",
-            "thumbnail_url": "https://i.ytimg.com/vi/KIQ9Aurangk/hqdefault.jpg"
-        },
-        {
-            "video_id": "tmc4iG2uWvE",
-            "title": "푸르른 계절도 내겐 의미 없어요",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "4:19",
-            "view_count": "55838",
-            "thumbnail_url": "https://i.ytimg.com/vi/tmc4iG2uWvE/hqdefault.jpg"
-        },
-        {
-            "video_id": "31c8E4pGRxU",
-            "title": "(랄로톤으로)",
-            "channel_name": "피닉스박",
-            "category": "Gaming",
-            "duration": "36:23",
-            "view_count": "79071",
-            "thumbnail_url": "https://i.ytimg.com/vi/31c8E4pGRxU/hqdefault.jpg"
         },
         {
             "video_id": "3Z-CrAeQRi8",
@@ -367,17 +313,71 @@
             "channel_name": "HYUN SEO - Topic",
             "category": "Music",
             "duration": "2:13",
-            "view_count": "11526",
+            "view_count": "12992",
             "thumbnail_url": "https://i.ytimg.com/vi/3Z-CrAeQRi8/hqdefault.jpg"
         },
         {
-            "video_id": "QyJCC7hbdgk",
-            "title": "뽕구차와 칸린이",
-            "channel_name": "동수칸TV",
+            "video_id": "SM7dqL3fzFA",
+            "title": "7년만에 채팅 치고 좋아죽는 도서스",
+            "channel_name": "Official dopa",
             "category": "Gaming",
-            "duration": "58:37",
-            "view_count": "149695",
-            "thumbnail_url": "https://i.ytimg.com/vi/QyJCC7hbdgk/hqdefault.jpg"
+            "duration": "29:02",
+            "view_count": "255547",
+            "thumbnail_url": "https://i.ytimg.com/vi/SM7dqL3fzFA/hqdefault.jpg"
+        },
+        {
+            "video_id": "tmc4iG2uWvE",
+            "title": "푸르른 계절도 내겐 의미 없어요",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "4:19",
+            "view_count": "57140",
+            "thumbnail_url": "https://i.ytimg.com/vi/tmc4iG2uWvE/hqdefault.jpg"
+        },
+        {
+            "video_id": "s9uv7pF9lGY",
+            "title": "피파 ㅈ밥 문파로 찍힐 위기의 클상도;;; 결국 특단조치 내렸습니다",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "23:10",
+            "view_count": "94729",
+            "thumbnail_url": "https://i.ytimg.com/vi/s9uv7pF9lGY/hqdefault.jpg"
+        },
+        {
+            "video_id": "j1PSgXzdbpI",
+            "title": "Forced nostalgia",
+            "channel_name": "Lim Ga Young - Topic",
+            "category": "Music",
+            "duration": "4:12",
+            "view_count": "400481",
+            "thumbnail_url": "https://i.ytimg.com/vi/j1PSgXzdbpI/hqdefault.jpg"
+        },
+        {
+            "video_id": "KIQ9Aurangk",
+            "title": "리니지 클래식 안타라스 호랩이상 트리플 소울요정 삽니다",
+            "channel_name": "이문주",
+            "category": "Gaming",
+            "duration": "3:05:49",
+            "view_count": "96524",
+            "thumbnail_url": "https://i.ytimg.com/vi/KIQ9Aurangk/hqdefault.jpg"
+        },
+        {
+            "video_id": "wv3eZb0rnYY",
+            "title": "Im Sorry Mom (Remix)",
+            "channel_name": "Marino - Topic",
+            "category": "Music",
+            "duration": "1:51",
+            "view_count": "487405",
+            "thumbnail_url": "https://i.ytimg.com/vi/wv3eZb0rnYY/hqdefault.jpg"
+        },
+        {
+            "video_id": "31c8E4pGRxU",
+            "title": "(랄로톤으로)",
+            "channel_name": "피닉스박",
+            "category": "Gaming",
+            "duration": "36:23",
+            "view_count": "80673",
+            "thumbnail_url": "https://i.ytimg.com/vi/31c8E4pGRxU/hqdefault.jpg"
         }
     ]
 }
