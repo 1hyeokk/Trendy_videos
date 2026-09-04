@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-09-05 02:26:16",
+    "scraped_time": "2026-09-05 05:27:56",
     "videos": [
         {
             "video_id": "sf02ugzPFE4",
@@ -7,7 +7,7 @@
             "channel_name": "JISOO",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "8740557",
+            "view_count": "10420628",
             "thumbnail_url": "https://i.ytimg.com/vi/sf02ugzPFE4/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Crimson Desert",
             "category": "Gaming",
             "duration": "1:52",
-            "view_count": "613320",
+            "view_count": "639425",
             "thumbnail_url": "https://i.ytimg.com/vi/HaCtG1F_hfE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "34:20",
-            "view_count": "853106",
+            "view_count": "879141",
             "thumbnail_url": "https://i.ytimg.com/vi/M1JHeFf10Ns/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "LISAOfficialVEVO",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "56866209",
+            "view_count": "64855613",
             "thumbnail_url": "https://i.ytimg.com/vi/FyS5dAywkEo/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "NVIDIA GeForce",
             "category": "Gaming",
             "duration": "1:14",
-            "view_count": "55314",
+            "view_count": "86301",
             "thumbnail_url": "https://i.ytimg.com/vi/LHUzFnq70b8/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "15:51",
-            "view_count": "379602",
+            "view_count": "547050",
             "thumbnail_url": "https://i.ytimg.com/vi/EiBODDDXxeI/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Tablo - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "44224",
+            "view_count": "81559",
             "thumbnail_url": "https://i.ytimg.com/vi/6ytdGqMxxrI/hqdefault.jpg"
         },
         {
@@ -70,26 +70,8 @@
             "channel_name": "시온",
             "category": "Gaming",
             "duration": "3:56",
-            "view_count": "71065",
+            "view_count": "73726",
             "thumbnail_url": "https://i.ytimg.com/vi/7o_QzfOvjzY/hqdefault.jpg"
-        },
-        {
-            "video_id": "qSih38r4mpI",
-            "title": "돌아온 협곡의 빌런들 【뜨교 마스터 달리기5】",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "32:01",
-            "view_count": "378155",
-            "thumbnail_url": "https://i.ytimg.com/vi/qSih38r4mpI/hqdefault.jpg"
-        },
-        {
-            "video_id": "b6_eL4vuFzU",
-            "title": "U",
-            "channel_name": "Sik-K - Topic",
-            "category": "Music",
-            "duration": "4:02",
-            "view_count": "126610",
-            "thumbnail_url": "https://i.ytimg.com/vi/b6_eL4vuFzU/hqdefault.jpg"
         },
         {
             "video_id": "Ur7lCLyYbpk",
@@ -97,17 +79,17 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "59:06",
-            "view_count": "127982",
+            "view_count": "195550",
             "thumbnail_url": "https://i.ytimg.com/vi/Ur7lCLyYbpk/hqdefault.jpg"
         },
         {
-            "video_id": "oAwzFFEYm38",
-            "title": "Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video",
-            "channel_name": "SMTOWN",
+            "video_id": "b6_eL4vuFzU",
+            "title": "U",
+            "channel_name": "Sik-K - Topic",
             "category": "Music",
-            "duration": "3:11",
-            "view_count": "7495134",
-            "thumbnail_url": "https://i.ytimg.com/vi/oAwzFFEYm38/hqdefault.jpg"
+            "duration": "4:02",
+            "view_count": "131396",
+            "thumbnail_url": "https://i.ytimg.com/vi/b6_eL4vuFzU/hqdefault.jpg"
         },
         {
             "video_id": "6MdbGceJnqw",
@@ -115,8 +97,26 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "14:04",
-            "view_count": "202058",
+            "view_count": "277592",
             "thumbnail_url": "https://i.ytimg.com/vi/6MdbGceJnqw/hqdefault.jpg"
+        },
+        {
+            "video_id": "oAwzFFEYm38",
+            "title": "Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "7592390",
+            "thumbnail_url": "https://i.ytimg.com/vi/oAwzFFEYm38/hqdefault.jpg"
+        },
+        {
+            "video_id": "qSih38r4mpI",
+            "title": "돌아온 협곡의 빌런들 【뜨교 마스터 달리기5】",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "32:01",
+            "view_count": "392322",
+            "thumbnail_url": "https://i.ytimg.com/vi/qSih38r4mpI/hqdefault.jpg"
         },
         {
             "video_id": "pOmJ65UnPEY",
@@ -124,7 +124,7 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "3:13",
-            "view_count": "572589",
+            "view_count": "647022",
             "thumbnail_url": "https://i.ytimg.com/vi/pOmJ65UnPEY/hqdefault.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "1:42:40",
-            "view_count": "247570",
+            "view_count": "331030",
             "thumbnail_url": "https://i.ytimg.com/vi/vbak4PUWoCg/hqdefault.jpg"
         },
         {
@@ -142,17 +142,17 @@
             "channel_name": "동네친구 강나미 [Kangnami]",
             "category": "Entertainment",
             "duration": "4:34",
-            "view_count": "662019",
+            "view_count": "685601",
             "thumbnail_url": "https://i.ytimg.com/vi/buPhYiIXMTM/hqdefault.jpg"
         },
         {
-            "video_id": "b0ovZEJb7uM",
-            "title": "아내에게 인생을 가르쳐줬습니다",
-            "channel_name": "말왕TV",
+            "video_id": "zaRAi6HTgAo",
+            "title": "출제자의 의도 파악하기",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "54:34",
-            "view_count": "714816",
-            "thumbnail_url": "https://i.ytimg.com/vi/b0ovZEJb7uM/hqdefault.jpg"
+            "duration": "21:32",
+            "view_count": "256076",
+            "thumbnail_url": "https://i.ytimg.com/vi/zaRAi6HTgAo/hqdefault.jpg"
         },
         {
             "video_id": "EIc13cn7tWo",
@@ -160,7 +160,7 @@
             "channel_name": "BIG Naughty - Topic",
             "category": "Music",
             "duration": "3:15",
-            "view_count": "1111369",
+            "view_count": "1128735",
             "thumbnail_url": "https://i.ytimg.com/vi/EIc13cn7tWo/hqdefault.jpg"
         },
         {
@@ -178,17 +178,17 @@
             "channel_name": "한인사회(Korean Community) - Topic",
             "category": "Music",
             "duration": "2:27",
-            "view_count": "228758",
+            "view_count": "233197",
             "thumbnail_url": "https://i.ytimg.com/vi/--S1W8CRBqQ/hqdefault.jpg"
         },
         {
-            "video_id": "4g-ag5n_UFY",
-            "title": "1.5군 영상 모음",
-            "channel_name": "이도원",
+            "video_id": "b0ovZEJb7uM",
+            "title": "아내에게 인생을 가르쳐줬습니다",
+            "channel_name": "말왕TV",
             "category": "Gaming",
-            "duration": "30:03",
-            "view_count": "235402",
-            "thumbnail_url": "https://i.ytimg.com/vi/4g-ag5n_UFY/hqdefault.jpg"
+            "duration": "54:34",
+            "view_count": "722279",
+            "thumbnail_url": "https://i.ytimg.com/vi/b0ovZEJb7uM/hqdefault.jpg"
         },
         {
             "video_id": "1j20eJKxjS8",
@@ -196,17 +196,17 @@
             "channel_name": "Young Roddo - Topic",
             "category": "Music",
             "duration": "1:01",
-            "view_count": "232503",
+            "view_count": "257461",
             "thumbnail_url": "https://i.ytimg.com/vi/1j20eJKxjS8/hqdefault.jpg"
         },
         {
-            "video_id": "5Irh7yU7mgA",
-            "title": "KT vs DK | 2026 Wooribank LCK Playoffs Lower Bracket Round 2",
-            "channel_name": "LCK Global",
+            "video_id": "4g-ag5n_UFY",
+            "title": "1.5군 영상 모음",
+            "channel_name": "이도원",
             "category": "Gaming",
-            "duration": "4:53:15",
-            "view_count": "1124757",
-            "thumbnail_url": "https://i.ytimg.com/vi/5Irh7yU7mgA/hqdefault.jpg"
+            "duration": "30:03",
+            "view_count": "272793",
+            "thumbnail_url": "https://i.ytimg.com/vi/4g-ag5n_UFY/hqdefault.jpg"
         },
         {
             "video_id": "hpfCp3CSWQo",
@@ -214,26 +214,26 @@
             "channel_name": "황영웅 Tv",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "57269",
+            "view_count": "58093",
             "thumbnail_url": "https://i.ytimg.com/vi/hpfCp3CSWQo/hqdefault.jpg"
         },
         {
-            "video_id": "zaRAi6HTgAo",
-            "title": "출제자의 의도 파악하기",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "5Irh7yU7mgA",
+            "title": "KT vs DK | 2026 Wooribank LCK Playoffs Lower Bracket Round 2",
+            "channel_name": "LCK Global",
             "category": "Gaming",
-            "duration": "21:32",
-            "view_count": "114665",
-            "thumbnail_url": "https://i.ytimg.com/vi/zaRAi6HTgAo/hqdefault.jpg"
+            "duration": "4:53:15",
+            "view_count": "1138411",
+            "thumbnail_url": "https://i.ytimg.com/vi/5Irh7yU7mgA/hqdefault.jpg"
         },
         {
-            "video_id": "qs5ni1R3sJ4",
-            "title": "DEJAVU",
-            "channel_name": "KWON EUNBI - Topic",
+            "video_id": "ZBDIWHHaQKY",
+            "title": "TUKUTZISM (Prod. by GroovyRoom, Crush, 3RACHA of Stray Kids)",
+            "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "3:02",
-            "view_count": "48238",
-            "thumbnail_url": "https://i.ytimg.com/vi/qs5ni1R3sJ4/hqdefault.jpg"
+            "duration": "2:22",
+            "view_count": "61545",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZBDIWHHaQKY/hqdefault.jpg"
         },
         {
             "video_id": "8wCpxMv3MXs",
@@ -241,8 +241,26 @@
             "channel_name": "ProjectMoon Official",
             "category": "Gaming",
             "duration": "2:38",
-            "view_count": "497142",
+            "view_count": "571340",
             "thumbnail_url": "https://i.ytimg.com/vi/8wCpxMv3MXs/hqdefault.jpg"
+        },
+        {
+            "video_id": "qs5ni1R3sJ4",
+            "title": "DEJAVU",
+            "channel_name": "KWON EUNBI - Topic",
+            "category": "Music",
+            "duration": "3:02",
+            "view_count": "51426",
+            "thumbnail_url": "https://i.ytimg.com/vi/qs5ni1R3sJ4/hqdefault.jpg"
+        },
+        {
+            "video_id": "XZEBuKR58HM",
+            "title": "🌊여름휴가 특집🌊≪혜안져스 메차카멜레온≫ 한방에 레전드편 몰아보기!",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "2:06:50",
+            "view_count": "172019",
+            "thumbnail_url": "https://i.ytimg.com/vi/XZEBuKR58HM/hqdefault.jpg"
         },
         {
             "video_id": "_2eH8PvM8UA",
@@ -250,7 +268,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "3:30",
-            "view_count": "112301",
+            "view_count": "117268",
             "thumbnail_url": "https://i.ytimg.com/vi/_2eH8PvM8UA/hqdefault.jpg"
         },
         {
@@ -259,7 +277,7 @@
             "channel_name": "뜨뜨뜨뜨",
             "category": "Gaming",
             "duration": "22:15",
-            "view_count": "341366",
+            "view_count": "347211",
             "thumbnail_url": "https://i.ytimg.com/vi/CV8gm86XHOM/hqdefault.jpg"
         },
         {
@@ -268,26 +286,8 @@
             "channel_name": "Kim Gyeol - Topic",
             "category": "Music",
             "duration": "2:33",
-            "view_count": "301182",
+            "view_count": "306802",
             "thumbnail_url": "https://i.ytimg.com/vi/orMeGkf79Ow/hqdefault.jpg"
-        },
-        {
-            "video_id": "XZEBuKR58HM",
-            "title": "🌊여름휴가 특집🌊≪혜안져스 메차카멜레온≫ 한방에 레전드편 몰아보기!",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "2:06:50",
-            "view_count": "126899",
-            "thumbnail_url": "https://i.ytimg.com/vi/XZEBuKR58HM/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZBDIWHHaQKY",
-            "title": "TUKUTZISM (Prod. by GroovyRoom, Crush, 3RACHA of Stray Kids)",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "2:22",
-            "view_count": "42832",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZBDIWHHaQKY/hqdefault.jpg"
         },
         {
             "video_id": "TsB01t-rwr4",
@@ -295,7 +295,7 @@
             "channel_name": "스트리머 사또 live-streamer satto",
             "category": "Gaming",
             "duration": "4:42:58",
-            "view_count": "200926",
+            "view_count": "201160",
             "thumbnail_url": "https://i.ytimg.com/vi/TsB01t-rwr4/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "Kim Na Young - Topic",
             "category": "Music",
             "duration": "3:59",
-            "view_count": "73056",
+            "view_count": "97273",
             "thumbnail_url": "https://i.ytimg.com/vi/YTi7pjVcUoo/hqdefault.jpg"
         },
         {
@@ -313,7 +313,7 @@
             "channel_name": "똘끼100%",
             "category": "Gaming",
             "duration": "5:22:23",
-            "view_count": "388714",
+            "view_count": "368515",
             "thumbnail_url": "https://i.ytimg.com/vi/to3RAOnFLzg/hqdefault.jpg"
         },
         {
@@ -322,7 +322,7 @@
             "channel_name": "MITHRA JIN - Topic",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "18061",
+            "view_count": "25425",
             "thumbnail_url": "https://i.ytimg.com/vi/2eaDZjzysIo/hqdefault.jpg"
         },
         {
@@ -331,7 +331,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "32:52",
-            "view_count": "351410",
+            "view_count": "351599",
             "thumbnail_url": "https://i.ytimg.com/vi/aWE7U3qS1RA/hqdefault.jpg"
         },
         {
@@ -340,17 +340,17 @@
             "channel_name": "Ashatree - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "15019",
+            "view_count": "16857",
             "thumbnail_url": "https://i.ytimg.com/vi/BXBW19oOAV4/hqdefault.jpg"
         },
         {
-            "video_id": "p-wZrgI88dE",
-            "title": "어뷰징과 핵을 잡아달래서 와본 한국서버",
-            "channel_name": "김된모",
+            "video_id": "q6wrYOdehkM",
+            "title": "남은 시드권 단 1장 | KT vs DK | 하이라이트 | 09.04 | 2026 LCK",
+            "channel_name": "클리드",
             "category": "Gaming",
-            "duration": "18:37",
-            "view_count": "288706",
-            "thumbnail_url": "https://i.ytimg.com/vi/p-wZrgI88dE/hqdefault.jpg"
+            "duration": "46:36",
+            "view_count": "90194",
+            "thumbnail_url": "https://i.ytimg.com/vi/q6wrYOdehkM/hqdefault.jpg"
         },
         {
             "video_id": "x2-8cOZ0dTA",
@@ -358,17 +358,17 @@
             "channel_name": "DIMO REX - Topic",
             "category": "Music",
             "duration": "3:14",
-            "view_count": "11444",
+            "view_count": "18735",
             "thumbnail_url": "https://i.ytimg.com/vi/x2-8cOZ0dTA/hqdefault.jpg"
         },
         {
-            "video_id": "gbhXiGDsgYI",
-            "title": "잠뜰삐가 각별라더수현공룡또니티티되는 영상",
-            "channel_name": "잠뜰 TV",
+            "video_id": "p-wZrgI88dE",
+            "title": "어뷰징과 핵을 잡아달래서 와본 한국서버",
+            "channel_name": "김된모",
             "category": "Gaming",
-            "duration": "34:02",
-            "view_count": "152559",
-            "thumbnail_url": "https://i.ytimg.com/vi/gbhXiGDsgYI/hqdefault.jpg"
+            "duration": "18:37",
+            "view_count": "290907",
+            "thumbnail_url": "https://i.ytimg.com/vi/p-wZrgI88dE/hqdefault.jpg"
         },
         {
             "video_id": "qxxOgqxosds",
@@ -376,7 +376,7 @@
             "channel_name": "Girls' Generation-HRS - Topic",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "592004",
+            "view_count": "602465",
             "thumbnail_url": "https://i.ytimg.com/vi/qxxOgqxosds/hqdefault.jpg"
         }
     ]
