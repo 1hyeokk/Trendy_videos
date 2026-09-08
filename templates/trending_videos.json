@@ -1,14 +1,14 @@
 {
-    "scraped_time": "2026-09-09 03:30:33",
+    "scraped_time": "2026-09-09 06:40:06",
     "videos": [
         {
-            "video_id": "6KckN5hZl80",
-            "title": "[MV] Lim Young Woong(임영웅) _ ToTo(또또)",
-            "channel_name": "1theK (원더케이)",
+            "video_id": "d6rrtRhN9YM",
+            "title": "임영웅 '또또' Official M/V",
+            "channel_name": "임영웅",
             "category": "Music",
             "duration": "3:40",
-            "view_count": "243790",
-            "thumbnail_url": "https://i.ytimg.com/vi/6KckN5hZl80/hqdefault.jpg"
+            "view_count": "638334",
+            "thumbnail_url": "https://i.ytimg.com/vi/d6rrtRhN9YM/hqdefault.jpg"
         },
         {
             "video_id": "siNk-uYGQ1c",
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:35",
-            "view_count": "398580",
+            "view_count": "410394",
             "thumbnail_url": "https://i.ytimg.com/vi/siNk-uYGQ1c/hqdefault.jpg"
         },
         {
@@ -25,35 +25,17 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "25:09",
-            "view_count": "717178",
+            "view_count": "726018",
             "thumbnail_url": "https://i.ytimg.com/vi/U7R9JZ_ehb4/hqdefault.jpg"
         },
         {
-            "video_id": "PEpWLTge234",
-            "title": "Please Be Happy",
-            "channel_name": "Lim Young Woong - Topic",
+            "video_id": "7mDDM0eBWR0",
+            "title": "소연 (SOYEON) '퇴사할게여 (Narr. 기안84)' Official Music Video",
+            "channel_name": "i-dle (아이들)",
             "category": "Music",
-            "duration": "4:30",
-            "view_count": "88002",
-            "thumbnail_url": "https://i.ytimg.com/vi/PEpWLTge234/hqdefault.jpg"
-        },
-        {
-            "video_id": "TSLNXTHgaHk",
-            "title": "같은 팀 되자마자 먹방 부터 시작하는 봉준X이상호 ㅋㅋㅋㅋ",
-            "channel_name": "게임대장봉준",
-            "category": "Gaming",
-            "duration": "24:01",
-            "view_count": "306988",
-            "thumbnail_url": "https://i.ytimg.com/vi/TSLNXTHgaHk/hqdefault.jpg"
-        },
-        {
-            "video_id": "svHUxtHIljw",
-            "title": "Guitarist",
-            "channel_name": "D.O. - Topic",
-            "category": "Music",
-            "duration": "2:43",
-            "view_count": "111386",
-            "thumbnail_url": "https://i.ytimg.com/vi/svHUxtHIljw/hqdefault.jpg"
+            "duration": "3:32",
+            "view_count": "1690655",
+            "thumbnail_url": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg"
         },
         {
             "video_id": "biZr_CLFN8k",
@@ -61,8 +43,26 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "24:38",
-            "view_count": "304642",
+            "view_count": "343421",
             "thumbnail_url": "https://i.ytimg.com/vi/biZr_CLFN8k/hqdefault.jpg"
+        },
+        {
+            "video_id": "svHUxtHIljw",
+            "title": "Guitarist",
+            "channel_name": "D.O. - Topic",
+            "category": "Music",
+            "duration": "2:43",
+            "view_count": "122641",
+            "thumbnail_url": "https://i.ytimg.com/vi/svHUxtHIljw/hqdefault.jpg"
+        },
+        {
+            "video_id": "TSLNXTHgaHk",
+            "title": "같은 팀 되자마자 먹방 부터 시작하는 봉준X이상호 ㅋㅋㅋㅋ",
+            "channel_name": "게임대장봉준",
+            "category": "Gaming",
+            "duration": "24:01",
+            "view_count": "327589",
+            "thumbnail_url": "https://i.ytimg.com/vi/TSLNXTHgaHk/hqdefault.jpg"
         },
         {
             "video_id": "nxdxwZztGj0",
@@ -70,7 +70,7 @@
             "channel_name": "SOYEON - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "123036",
+            "view_count": "127614",
             "thumbnail_url": "https://i.ytimg.com/vi/nxdxwZztGj0/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "통깡이",
             "category": "Comedy",
             "duration": "23:09",
-            "view_count": "240134",
+            "view_count": "259419",
             "thumbnail_url": "https://i.ytimg.com/vi/CGv7QNmqNxg/hqdefault.jpg"
         },
         {
@@ -88,26 +88,8 @@
             "channel_name": "Shin Ye Young - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "134618",
+            "view_count": "137113",
             "thumbnail_url": "https://i.ytimg.com/vi/0EwRAjF7aRg/hqdefault.jpg"
-        },
-        {
-            "video_id": "nIwC-wyt388",
-            "title": "[LIVE] 9월 8일 아이온2 업데이트 프리뷰 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "1:08:27",
-            "view_count": "114988",
-            "thumbnail_url": "https://i.ytimg.com/vi/nIwC-wyt388/hqdefault.jpg"
-        },
-        {
-            "video_id": "a9JXlsvjYLA",
-            "title": "Mark on Me",
-            "channel_name": "&TEAM - Topic",
-            "category": "Music",
-            "duration": "2:51",
-            "view_count": "83630",
-            "thumbnail_url": "https://i.ytimg.com/vi/a9JXlsvjYLA/hqdefault.jpg"
         },
         {
             "video_id": "HOPVV_muhd0",
@@ -115,8 +97,26 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "15:46",
-            "view_count": "224175",
+            "view_count": "254774",
             "thumbnail_url": "https://i.ytimg.com/vi/HOPVV_muhd0/hqdefault.jpg"
+        },
+        {
+            "video_id": "a9JXlsvjYLA",
+            "title": "Mark on Me",
+            "channel_name": "&TEAM - Topic",
+            "category": "Music",
+            "duration": "2:51",
+            "view_count": "104277",
+            "thumbnail_url": "https://i.ytimg.com/vi/a9JXlsvjYLA/hqdefault.jpg"
+        },
+        {
+            "video_id": "nIwC-wyt388",
+            "title": "[LIVE] 9월 8일 아이온2 업데이트 프리뷰 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "1:08:27",
+            "view_count": "118226",
+            "thumbnail_url": "https://i.ytimg.com/vi/nIwC-wyt388/hqdefault.jpg"
         },
         {
             "video_id": "5vW-tT5VioI",
@@ -124,7 +124,7 @@
             "channel_name": "Jay Park - Topic",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "141295",
+            "view_count": "147468",
             "thumbnail_url": "https://i.ytimg.com/vi/5vW-tT5VioI/hqdefault.jpg"
         },
         {
@@ -133,26 +133,8 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "23:08",
-            "view_count": "500901",
+            "view_count": "509770",
             "thumbnail_url": "https://i.ytimg.com/vi/o512WZnU-0U/hqdefault.jpg"
-        },
-        {
-            "video_id": "rVnM_3Ljx_c",
-            "title": "Noise",
-            "channel_name": "EVAN - Topic",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "364940",
-            "thumbnail_url": "https://i.ytimg.com/vi/rVnM_3Ljx_c/hqdefault.jpg"
-        },
-        {
-            "video_id": "9jNmYK9jFh8",
-            "title": "우리 란이 뽀뽀~쪽😘│2026 LCK│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "1:38:36",
-            "view_count": "485198",
-            "thumbnail_url": "https://i.ytimg.com/vi/9jNmYK9jFh8/hqdefault.jpg"
         },
         {
             "video_id": "luTz3QoowrU",
@@ -160,17 +142,35 @@
             "channel_name": "UNIS",
             "category": "Entertainment",
             "duration": "3:40",
-            "view_count": "161827",
+            "view_count": "196941",
             "thumbnail_url": "https://i.ytimg.com/vi/luTz3QoowrU/hqdefault.jpg"
         },
         {
-            "video_id": "L77YfiwF0aQ",
-            "title": "*마크판* 0.1초 차이로 냄비 태워 먹는 추억의 개막장 라면가게",
-            "channel_name": "잠뜰 TV",
+            "video_id": "9jNmYK9jFh8",
+            "title": "우리 란이 뽀뽀~쪽😘│2026 LCK│울챔스 하이라이트",
+            "channel_name": "Wolf",
             "category": "Gaming",
-            "duration": "31:46",
-            "view_count": "181936",
-            "thumbnail_url": "https://i.ytimg.com/vi/L77YfiwF0aQ/hqdefault.jpg"
+            "duration": "1:38:36",
+            "view_count": "491201",
+            "thumbnail_url": "https://i.ytimg.com/vi/9jNmYK9jFh8/hqdefault.jpg"
+        },
+        {
+            "video_id": "rVnM_3Ljx_c",
+            "title": "Noise",
+            "channel_name": "EVAN - Topic",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "377275",
+            "thumbnail_url": "https://i.ytimg.com/vi/rVnM_3Ljx_c/hqdefault.jpg"
+        },
+        {
+            "video_id": "YnZsZvvZuBc",
+            "title": "술상문의 노래 [ASL 시즌22 16강 B조 승자전 3경기]",
+            "channel_name": "도멘TV [DOTUBE]",
+            "category": "Gaming",
+            "duration": "9:01",
+            "view_count": "59262",
+            "thumbnail_url": "https://i.ytimg.com/vi/YnZsZvvZuBc/hqdefault.jpg"
         },
         {
             "video_id": "xstuwBzZRBo",
@@ -178,17 +178,35 @@
             "channel_name": "Chan - Topic",
             "category": "Music",
             "duration": "2:12",
-            "view_count": "86809",
+            "view_count": "87464",
             "thumbnail_url": "https://i.ytimg.com/vi/xstuwBzZRBo/hqdefault.jpg"
         },
         {
-            "video_id": "4bJL3Z27DVo",
-            "title": "벌써 제논이 데티 1차 해방을 완료했습니다! ㄷㄷ [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
+            "video_id": "L77YfiwF0aQ",
+            "title": "*마크판* 0.1초 차이로 냄비 태워 먹는 추억의 개막장 라면가게",
+            "channel_name": "잠뜰 TV",
             "category": "Gaming",
-            "duration": "11:29",
-            "view_count": "396042",
-            "thumbnail_url": "https://i.ytimg.com/vi/4bJL3Z27DVo/hqdefault.jpg"
+            "duration": "31:46",
+            "view_count": "190267",
+            "thumbnail_url": "https://i.ytimg.com/vi/L77YfiwF0aQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "8_hW-GGWGJw",
+            "title": "Do you want to walk with me?",
+            "channel_name": "Oh yeonha - Topic",
+            "category": "Music",
+            "duration": "3:47",
+            "view_count": "72227",
+            "thumbnail_url": "https://i.ytimg.com/vi/8_hW-GGWGJw/hqdefault.jpg"
+        },
+        {
+            "video_id": "KkU4hyS6RbM",
+            "title": "260908 지렁이게임 (잔잔한렁이)",
+            "channel_name": "멘파",
+            "category": "Gaming",
+            "duration": "5:15:25",
+            "view_count": "406779",
+            "thumbnail_url": "https://i.ytimg.com/vi/KkU4hyS6RbM/hqdefault.jpg"
         },
         {
             "video_id": "B2jTp3H0JS4",
@@ -196,17 +214,17 @@
             "channel_name": "So Soo Bin - Topic",
             "category": "Music",
             "duration": "3:37",
-            "view_count": "106492",
+            "view_count": "108085",
             "thumbnail_url": "https://i.ytimg.com/vi/B2jTp3H0JS4/hqdefault.jpg"
         },
         {
-            "video_id": "MfpqMuarx58",
-            "title": "1000억 배메 랭킹1위 달리기 시작!!!",
-            "channel_name": "레고77",
+            "video_id": "4bJL3Z27DVo",
+            "title": "벌써 제논이 데티 1차 해방을 완료했습니다! ㄷㄷ [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "20:45",
-            "view_count": "235175",
-            "thumbnail_url": "https://i.ytimg.com/vi/MfpqMuarx58/hqdefault.jpg"
+            "duration": "11:29",
+            "view_count": "398636",
+            "thumbnail_url": "https://i.ytimg.com/vi/4bJL3Z27DVo/hqdefault.jpg"
         },
         {
             "video_id": "6ytdGqMxxrI",
@@ -214,8 +232,26 @@
             "channel_name": "Tablo - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "823797",
+            "view_count": "829529",
             "thumbnail_url": "https://i.ytimg.com/vi/6ytdGqMxxrI/hqdefault.jpg"
+        },
+        {
+            "video_id": "MfpqMuarx58",
+            "title": "1000억 배메 랭킹1위 달리기 시작!!!",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "20:45",
+            "view_count": "247943",
+            "thumbnail_url": "https://i.ytimg.com/vi/MfpqMuarx58/hqdefault.jpg"
+        },
+        {
+            "video_id": "F-NcvXY8_vU",
+            "title": "&TEAM 'Mark on Me' Official MV",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "1250863",
+            "thumbnail_url": "https://i.ytimg.com/vi/F-NcvXY8_vU/hqdefault.jpg"
         },
         {
             "video_id": "MIxz0jLSAdg",
@@ -223,7 +259,7 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "18:42",
-            "view_count": "131214",
+            "view_count": "147254",
             "thumbnail_url": "https://i.ytimg.com/vi/MIxz0jLSAdg/hqdefault.jpg"
         },
         {
@@ -232,7 +268,7 @@
             "channel_name": "VERIVERY - Topic",
             "category": "Music",
             "duration": "2:37",
-            "view_count": "41352",
+            "view_count": "42674",
             "thumbnail_url": "https://i.ytimg.com/vi/QhVoM5g74gQ/hqdefault.jpg"
         },
         {
@@ -241,35 +277,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "37:59",
-            "view_count": "141479",
+            "view_count": "167190",
             "thumbnail_url": "https://i.ytimg.com/vi/E1DotZOlA7g/hqdefault.jpg"
         },
         {
-            "video_id": "8_hW-GGWGJw",
-            "title": "Do you want to walk with me?",
-            "channel_name": "Oh yeonha - Topic",
+            "video_id": "vAv7P8AEJPQ",
+            "title": "Hearts2Hearts 하츠투하츠 'Moonride' MV Teaser",
+            "channel_name": "Hearts2Hearts",
             "category": "Music",
-            "duration": "3:47",
-            "view_count": "46917",
-            "thumbnail_url": "https://i.ytimg.com/vi/8_hW-GGWGJw/hqdefault.jpg"
-        },
-        {
-            "video_id": "hUfJYDitF80",
-            "title": "지금 보자마자 쯥 했죠~? [ASL 시즌22 16강 B조 승자전 1경기]",
-            "channel_name": "도멘TV [DOTUBE]",
-            "category": "Gaming",
-            "duration": "9:00",
-            "view_count": "40693",
-            "thumbnail_url": "https://i.ytimg.com/vi/hUfJYDitF80/hqdefault.jpg"
-        },
-        {
-            "video_id": "F-NcvXY8_vU",
-            "title": "&TEAM 'Mark on Me' Official MV",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "1142519",
-            "thumbnail_url": "https://i.ytimg.com/vi/F-NcvXY8_vU/hqdefault.jpg"
+            "duration": "0:19",
+            "view_count": "752642",
+            "thumbnail_url": "https://i.ytimg.com/vi/vAv7P8AEJPQ/hqdefault.jpg"
         },
         {
             "video_id": "Y8lkyOz6iP4",
@@ -277,7 +295,7 @@
             "channel_name": "정준홍",
             "category": "Gaming",
             "duration": "15:33",
-            "view_count": "169093",
+            "view_count": "187086",
             "thumbnail_url": "https://i.ytimg.com/vi/Y8lkyOz6iP4/hqdefault.jpg"
         },
         {
@@ -286,17 +304,17 @@
             "channel_name": "Wonstein - Topic",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "28465",
+            "view_count": "29320",
             "thumbnail_url": "https://i.ytimg.com/vi/7IPaEhIgsS0/hqdefault.jpg"
         },
         {
-            "video_id": "63faN_TCdzI",
-            "title": "길 가다 수아레스 추천하면 다 팬다",
-            "channel_name": "유봉훈",
+            "video_id": "n9NG1AJcDVc",
+            "title": "데이브 더 다이버 100일동안 정글에서 장사하기",
+            "channel_name": "치랜",
             "category": "Gaming",
-            "duration": "13:15",
-            "view_count": "369830",
-            "thumbnail_url": "https://i.ytimg.com/vi/63faN_TCdzI/hqdefault.jpg"
+            "duration": "55:22",
+            "view_count": "180931",
+            "thumbnail_url": "https://i.ytimg.com/vi/n9NG1AJcDVc/hqdefault.jpg"
         },
         {
             "video_id": "nxf9yHZgWqc",
@@ -304,17 +322,17 @@
             "channel_name": "Ado - Topic",
             "category": "Music",
             "duration": "4:06",
-            "view_count": "576204",
+            "view_count": "583633",
             "thumbnail_url": "https://i.ytimg.com/vi/nxf9yHZgWqc/hqdefault.jpg"
         },
         {
-            "video_id": "8K2RVMjZZWc",
-            "title": "CORT1S - 늙크크 | T1 vs DK 게임 3 하이라이트 | 2026 우리은행 LCK 플레이오프",
-            "channel_name": "LCK",
+            "video_id": "cRNIgjGTJIk",
+            "title": "바보형과 쥐창 난사광 [림월드 어게인 EP.05]",
+            "channel_name": "동수칸TV",
             "category": "Gaming",
-            "duration": "13:38",
-            "view_count": "293043",
-            "thumbnail_url": "https://i.ytimg.com/vi/8K2RVMjZZWc/hqdefault.jpg"
+            "duration": "36:24",
+            "view_count": "204628",
+            "thumbnail_url": "https://i.ytimg.com/vi/cRNIgjGTJIk/hqdefault.jpg"
         },
         {
             "video_id": "OuxJ2yZKvtU",
@@ -322,26 +340,8 @@
             "channel_name": "THE FIRST TAKE",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "415444",
+            "view_count": "426923",
             "thumbnail_url": "https://i.ytimg.com/vi/OuxJ2yZKvtU/hqdefault.jpg"
-        },
-        {
-            "video_id": "z0iq_UWsdKg",
-            "title": "우리개는 안물어요",
-            "channel_name": "뜨뜨뜨뜨",
-            "category": "Gaming",
-            "duration": "25:14",
-            "view_count": "319208",
-            "thumbnail_url": "https://i.ytimg.com/vi/z0iq_UWsdKg/hqdefault.jpg"
-        },
-        {
-            "video_id": "vAv7P8AEJPQ",
-            "title": "Hearts2Hearts 하츠투하츠 'Moonride' MV Teaser",
-            "channel_name": "Hearts2Hearts",
-            "category": "Music",
-            "duration": "0:19",
-            "view_count": "733225",
-            "thumbnail_url": "https://i.ytimg.com/vi/vAv7P8AEJPQ/hqdefault.jpg"
         },
         {
             "video_id": "HYVeX58Ik0M",
@@ -349,17 +349,17 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "18:38",
-            "view_count": "96246",
+            "view_count": "110787",
             "thumbnail_url": "https://i.ytimg.com/vi/HYVeX58Ik0M/hqdefault.jpg"
         },
         {
-            "video_id": "14S_yVILRSA",
-            "title": "Just Say it",
-            "channel_name": "Nam Gyu ri - Topic",
+            "video_id": "OOvyHpNmGD8",
+            "title": "소연 (SOYEON) - 퇴사할게여 (Narr. 기안84)｜야외녹음실｜Beyond the Studio｜LIVE",
+            "channel_name": "1theK Live - 원더케이 라이브",
             "category": "Music",
-            "duration": "3:15",
-            "view_count": "53815",
-            "thumbnail_url": "https://i.ytimg.com/vi/14S_yVILRSA/hqdefault.jpg"
+            "duration": "4:06",
+            "view_count": "90596",
+            "thumbnail_url": "https://i.ytimg.com/vi/OOvyHpNmGD8/hqdefault.jpg"
         },
         {
             "video_id": "JdVjvsEIYUM",
@@ -367,17 +367,17 @@
             "channel_name": "잡상싱",
             "category": "Gaming",
             "duration": "14:54",
-            "view_count": "120651",
+            "view_count": "149636",
             "thumbnail_url": "https://i.ytimg.com/vi/JdVjvsEIYUM/hqdefault.jpg"
         },
         {
-            "video_id": "DI27WcmtRsc",
-            "title": "When the World Becomes a Dream",
-            "channel_name": "GyeongseoYeji - Topic",
+            "video_id": "14S_yVILRSA",
+            "title": "Just Say it",
+            "channel_name": "Nam Gyu ri - Topic",
             "category": "Music",
-            "duration": "3:29",
-            "view_count": "69574",
-            "thumbnail_url": "https://i.ytimg.com/vi/DI27WcmtRsc/hqdefault.jpg"
+            "duration": "3:15",
+            "view_count": "54349",
+            "thumbnail_url": "https://i.ytimg.com/vi/14S_yVILRSA/hqdefault.jpg"
         }
     ]
 }
