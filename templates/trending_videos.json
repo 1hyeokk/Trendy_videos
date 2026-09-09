@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-09-09 22:32:35",
+    "scraped_time": "2026-09-10 02:40:38",
     "videos": [
         {
             "video_id": "PEpWLTge234",
@@ -7,7 +7,7 @@
             "channel_name": "Lim Young Woong - Topic",
             "category": "Music",
             "duration": "4:30",
-            "view_count": "247175",
+            "view_count": "275718",
             "thumbnail_url": "https://i.ytimg.com/vi/PEpWLTge234/hqdefault.jpg"
         },
         {
@@ -16,26 +16,8 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:35",
-            "view_count": "537455",
+            "view_count": "569806",
             "thumbnail_url": "https://i.ytimg.com/vi/siNk-uYGQ1c/hqdefault.jpg"
-        },
-        {
-            "video_id": "mz31Z7FM2hU",
-            "title": "[아이온2] 2연속 퍼클 도전! 성역4 퍼클런 갑니다!!! . 비탄의설원",
-            "channel_name": "전하TV",
-            "category": "Gaming",
-            "duration": "7:16:11",
-            "view_count": "138548",
-            "thumbnail_url": "https://i.ytimg.com/vi/mz31Z7FM2hU/hqdefault.jpg"
-        },
-        {
-            "video_id": "svHUxtHIljw",
-            "title": "Guitarist",
-            "channel_name": "D.O. - Topic",
-            "category": "Music",
-            "duration": "2:43",
-            "view_count": "330233",
-            "thumbnail_url": "https://i.ytimg.com/vi/svHUxtHIljw/hqdefault.jpg"
         },
         {
             "video_id": "SQ7tpUm0zkc",
@@ -43,17 +25,17 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "20:24",
-            "view_count": "166596",
+            "view_count": "321297",
             "thumbnail_url": "https://i.ytimg.com/vi/SQ7tpUm0zkc/hqdefault.jpg"
         },
         {
-            "video_id": "7mDDM0eBWR0",
-            "title": "소연 (SOYEON) '퇴사할게여 (Narr. 기안84)' Official Music Video",
-            "channel_name": "i-dle (아이들)",
+            "video_id": "svHUxtHIljw",
+            "title": "Guitarist",
+            "channel_name": "D.O. - Topic",
             "category": "Music",
-            "duration": "3:32",
-            "view_count": "2603855",
-            "thumbnail_url": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg"
+            "duration": "2:43",
+            "view_count": "362556",
+            "thumbnail_url": "https://i.ytimg.com/vi/svHUxtHIljw/hqdefault.jpg"
         },
         {
             "video_id": "2L-hKOytmio",
@@ -61,17 +43,17 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "22:35",
-            "view_count": "163247",
+            "view_count": "292807",
             "thumbnail_url": "https://i.ytimg.com/vi/2L-hKOytmio/hqdefault.jpg"
         },
         {
-            "video_id": "nxdxwZztGj0",
-            "title": "I’m gonna TOESA (Narr. KIAN84)",
-            "channel_name": "SOYEON - Topic",
+            "video_id": "7mDDM0eBWR0",
+            "title": "소연 (SOYEON) '퇴사할게여 (Narr. 기안84)' Official Music Video",
+            "channel_name": "i-dle (아이들)",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "277750",
-            "thumbnail_url": "https://i.ytimg.com/vi/nxdxwZztGj0/hqdefault.jpg"
+            "view_count": "3015994",
+            "thumbnail_url": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg"
         },
         {
             "video_id": "N4l5RUJAEpQ",
@@ -79,8 +61,44 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "27:29",
-            "view_count": "94176",
+            "view_count": "203824",
             "thumbnail_url": "https://i.ytimg.com/vi/N4l5RUJAEpQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "nxdxwZztGj0",
+            "title": "I’m gonna TOESA (Narr. KIAN84)",
+            "channel_name": "SOYEON - Topic",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "308902",
+            "thumbnail_url": "https://i.ytimg.com/vi/nxdxwZztGj0/hqdefault.jpg"
+        },
+        {
+            "video_id": "mz31Z7FM2hU",
+            "title": "[아이온2] 2연속 퍼클 도전! 성역4 퍼클런 갑니다!!! . 비탄의설원",
+            "channel_name": "전하TV",
+            "category": "Gaming",
+            "duration": "7:16:11",
+            "view_count": "143060",
+            "thumbnail_url": "https://i.ytimg.com/vi/mz31Z7FM2hU/hqdefault.jpg"
+        },
+        {
+            "video_id": "hfftbNrp_lw",
+            "title": "Moonride",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "2:57",
+            "view_count": "89061",
+            "thumbnail_url": "https://i.ytimg.com/vi/hfftbNrp_lw/hqdefault.jpg"
+        },
+        {
+            "video_id": "52-poTWyZmI",
+            "title": "브레이크 없이 폭주하는 *노빠꾸 토크쇼* 2부",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "22:51",
+            "view_count": "172157",
+            "thumbnail_url": "https://i.ytimg.com/vi/52-poTWyZmI/hqdefault.jpg"
         },
         {
             "video_id": "luTz3QoowrU",
@@ -88,7 +106,7 @@
             "channel_name": "UNIS",
             "category": "Entertainment",
             "duration": "3:40",
-            "view_count": "413558",
+            "view_count": "464052",
             "thumbnail_url": "https://i.ytimg.com/vi/luTz3QoowrU/hqdefault.jpg"
         },
         {
@@ -97,26 +115,8 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "25:09",
-            "view_count": "774246",
+            "view_count": "784448",
             "thumbnail_url": "https://i.ytimg.com/vi/U7R9JZ_ehb4/hqdefault.jpg"
-        },
-        {
-            "video_id": "gNUMxMuxH20",
-            "title": "Hearts2Hearts 하츠투하츠 'Moonride' MV",
-            "channel_name": "Hearts2Hearts",
-            "category": "Music",
-            "duration": "3:14",
-            "view_count": "359510",
-            "thumbnail_url": "https://i.ytimg.com/vi/gNUMxMuxH20/hqdefault.jpg"
-        },
-        {
-            "video_id": "CGv7QNmqNxg",
-            "title": "단체로 뇌 또 또 또 빠진 날",
-            "channel_name": "통깡이",
-            "category": "Comedy",
-            "duration": "23:09",
-            "view_count": "323196",
-            "thumbnail_url": "https://i.ytimg.com/vi/CGv7QNmqNxg/hqdefault.jpg"
         },
         {
             "video_id": "8_hW-GGWGJw",
@@ -124,17 +124,17 @@
             "channel_name": "Oh yeonha - Topic",
             "category": "Music",
             "duration": "3:47",
-            "view_count": "248448",
+            "view_count": "253751",
             "thumbnail_url": "https://i.ytimg.com/vi/8_hW-GGWGJw/hqdefault.jpg"
         },
         {
-            "video_id": "HOPVV_muhd0",
-            "title": "원작 재현율 100%의 예언자 게임ㅋㅋㅋ",
-            "channel_name": "왈도쿤",
-            "category": "Gaming",
-            "duration": "15:46",
-            "view_count": "365136",
-            "thumbnail_url": "https://i.ytimg.com/vi/HOPVV_muhd0/hqdefault.jpg"
+            "video_id": "CGv7QNmqNxg",
+            "title": "단체로 뇌 또 또 또 빠진 날",
+            "channel_name": "통깡이",
+            "category": "Comedy",
+            "duration": "23:09",
+            "view_count": "334619",
+            "thumbnail_url": "https://i.ytimg.com/vi/CGv7QNmqNxg/hqdefault.jpg"
         },
         {
             "video_id": "a9JXlsvjYLA",
@@ -142,17 +142,17 @@
             "channel_name": "&TEAM - Topic",
             "category": "Music",
             "duration": "2:51",
-            "view_count": "180762",
+            "view_count": "192185",
             "thumbnail_url": "https://i.ytimg.com/vi/a9JXlsvjYLA/hqdefault.jpg"
         },
         {
-            "video_id": "52-poTWyZmI",
-            "title": "브레이크 없이 폭주하는 *노빠꾸 토크쇼* 2부",
-            "channel_name": "잠뜰 TV",
+            "video_id": "HOPVV_muhd0",
+            "title": "원작 재현율 100%의 예언자 게임ㅋㅋㅋ",
+            "channel_name": "왈도쿤",
             "category": "Gaming",
-            "duration": "22:51",
-            "view_count": "116742",
-            "thumbnail_url": "https://i.ytimg.com/vi/52-poTWyZmI/hqdefault.jpg"
+            "duration": "15:46",
+            "view_count": "380047",
+            "thumbnail_url": "https://i.ytimg.com/vi/HOPVV_muhd0/hqdefault.jpg"
         },
         {
             "video_id": "0EwRAjF7aRg",
@@ -160,7 +160,7 @@
             "channel_name": "Shin Ye Young - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "186831",
+            "view_count": "198143",
             "thumbnail_url": "https://i.ytimg.com/vi/0EwRAjF7aRg/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "청묘",
             "category": "Gaming",
             "duration": "46:29",
-            "view_count": "138005",
+            "view_count": "164579",
             "thumbnail_url": "https://i.ytimg.com/vi/qu946MXGHz4/hqdefault.jpg"
         },
         {
@@ -178,17 +178,17 @@
             "channel_name": "Jay Park - Topic",
             "category": "Music",
             "duration": "2:46",
-            "view_count": "202596",
+            "view_count": "211813",
             "thumbnail_url": "https://i.ytimg.com/vi/5vW-tT5VioI/hqdefault.jpg"
         },
         {
-            "video_id": "YGmjvU5GxPI",
-            "title": "마지막퍼즐 \"티에리 앙리\" 영입했습니다",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "video_id": "UWKlnoL_F_Y",
+            "title": "이번시즌 최고의 도파민 \"4코 3성을 먹인 루덴 베이가\"",
+            "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
-            "duration": "23:56",
-            "view_count": "235749",
-            "thumbnail_url": "https://i.ytimg.com/vi/YGmjvU5GxPI/hqdefault.jpg"
+            "duration": "15:57",
+            "view_count": "115548",
+            "thumbnail_url": "https://i.ytimg.com/vi/UWKlnoL_F_Y/hqdefault.jpg"
         },
         {
             "video_id": "q8DtWo3pFNM",
@@ -196,8 +196,26 @@
             "channel_name": "DONGHAE - Topic",
             "category": "Music",
             "duration": "2:50",
-            "view_count": "53057",
+            "view_count": "56356",
             "thumbnail_url": "https://i.ytimg.com/vi/q8DtWo3pFNM/hqdefault.jpg"
+        },
+        {
+            "video_id": "m7vbnaQCq7c",
+            "title": "아츠토츠카 개소리 모음집 44",
+            "channel_name": "아츠토츠카",
+            "category": "Gaming",
+            "duration": "8:11",
+            "view_count": "198858",
+            "thumbnail_url": "https://i.ytimg.com/vi/m7vbnaQCq7c/hqdefault.jpg"
+        },
+        {
+            "video_id": "OOvyHpNmGD8",
+            "title": "소연 (SOYEON) - 퇴사할게여 (Narr. 기안84)｜야외녹음실｜Beyond the Studio｜LIVE",
+            "channel_name": "1theK Live - 원더케이 라이브",
+            "category": "Music",
+            "duration": "4:06",
+            "view_count": "193968",
+            "thumbnail_url": "https://i.ytimg.com/vi/OOvyHpNmGD8/hqdefault.jpg"
         },
         {
             "video_id": "JD1-wF208TU",
@@ -205,7 +223,7 @@
             "channel_name": "클리드",
             "category": "Gaming",
             "duration": "33:01",
-            "view_count": "273427",
+            "view_count": "294739",
             "thumbnail_url": "https://i.ytimg.com/vi/JD1-wF208TU/hqdefault.jpg"
         },
         {
@@ -214,35 +232,17 @@
             "channel_name": "EVAN - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "436838",
+            "view_count": "448915",
             "thumbnail_url": "https://i.ytimg.com/vi/rVnM_3Ljx_c/hqdefault.jpg"
         },
         {
-            "video_id": "5Tv9XRfrzx0",
-            "title": "시작부터 억 소리… 매물 없으면 직접 띄웁니다, 회장님 템세팅 스케일 ㄷㄷ",
-            "channel_name": "찬해",
+            "video_id": "YGmjvU5GxPI",
+            "title": "마지막퍼즐 \"티에리 앙리\" 영입했습니다",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
-            "duration": "17:01",
-            "view_count": "127040",
-            "thumbnail_url": "https://i.ytimg.com/vi/5Tv9XRfrzx0/hqdefault.jpg"
-        },
-        {
-            "video_id": "OOvyHpNmGD8",
-            "title": "소연 (SOYEON) - 퇴사할게여 (Narr. 기안84)｜야외녹음실｜Beyond the Studio｜LIVE",
-            "channel_name": "1theK Live - 원더케이 라이브",
-            "category": "Music",
-            "duration": "4:06",
-            "view_count": "171751",
-            "thumbnail_url": "https://i.ytimg.com/vi/OOvyHpNmGD8/hqdefault.jpg"
-        },
-        {
-            "video_id": "nIwC-wyt388",
-            "title": "[LIVE] 9월 8일 아이온2 업데이트 프리뷰 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "1:08:27",
-            "view_count": "129660",
-            "thumbnail_url": "https://i.ytimg.com/vi/nIwC-wyt388/hqdefault.jpg"
+            "duration": "23:56",
+            "view_count": "249218",
+            "thumbnail_url": "https://i.ytimg.com/vi/YGmjvU5GxPI/hqdefault.jpg"
         },
         {
             "video_id": "7IPaEhIgsS0",
@@ -250,17 +250,17 @@
             "channel_name": "Wonstein - Topic",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "49387",
+            "view_count": "51394",
             "thumbnail_url": "https://i.ytimg.com/vi/7IPaEhIgsS0/hqdefault.jpg"
         },
         {
-            "video_id": "1DJYKCSGHr0",
-            "title": "본캐에서 이런일이;; 토츠 케인 11카 떴습니다 실제상황ㅋㅋㅋ",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "5Tv9XRfrzx0",
+            "title": "시작부터 억 소리… 매물 없으면 직접 띄웁니다, 회장님 템세팅 스케일 ㄷㄷ",
+            "channel_name": "찬해",
             "category": "Gaming",
             "duration": "17:01",
-            "view_count": "209265",
-            "thumbnail_url": "https://i.ytimg.com/vi/1DJYKCSGHr0/hqdefault.jpg"
+            "view_count": "147454",
+            "thumbnail_url": "https://i.ytimg.com/vi/5Tv9XRfrzx0/hqdefault.jpg"
         },
         {
             "video_id": "F-NcvXY8_vU",
@@ -268,17 +268,17 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "3:09",
-            "view_count": "3714347",
+            "view_count": "4769389",
             "thumbnail_url": "https://i.ytimg.com/vi/F-NcvXY8_vU/hqdefault.jpg"
         },
         {
-            "video_id": "o512WZnU-0U",
-            "title": "지나갑니다",
-            "channel_name": "PAKA",
+            "video_id": "1DJYKCSGHr0",
+            "title": "본캐에서 토츠 케인 11카 떴습니다!! 진짜 실제상황!!!",
+            "channel_name": "두치와뿌꾸",
             "category": "Gaming",
-            "duration": "23:08",
-            "view_count": "541247",
-            "thumbnail_url": "https://i.ytimg.com/vi/o512WZnU-0U/hqdefault.jpg"
+            "duration": "17:01",
+            "view_count": "239387",
+            "thumbnail_url": "https://i.ytimg.com/vi/1DJYKCSGHr0/hqdefault.jpg"
         },
         {
             "video_id": "QhVoM5g74gQ",
@@ -286,17 +286,17 @@
             "channel_name": "VERIVERY - Topic",
             "category": "Music",
             "duration": "2:37",
-            "view_count": "61759",
+            "view_count": "64033",
             "thumbnail_url": "https://i.ytimg.com/vi/QhVoM5g74gQ/hqdefault.jpg"
         },
         {
-            "video_id": "m7vbnaQCq7c",
-            "title": "아츠토츠카 개소리 모음집 44",
-            "channel_name": "아츠토츠카",
+            "video_id": "M68lkFIRHzQ",
+            "title": "랭킹1위 고목나무스태프 ㅋㅋㅋㅋㅋ",
+            "channel_name": "레고77",
             "category": "Gaming",
-            "duration": "8:11",
-            "view_count": "111307",
-            "thumbnail_url": "https://i.ytimg.com/vi/m7vbnaQCq7c/hqdefault.jpg"
+            "duration": "15:06",
+            "view_count": "189212",
+            "thumbnail_url": "https://i.ytimg.com/vi/M68lkFIRHzQ/hqdefault.jpg"
         },
         {
             "video_id": "xstuwBzZRBo",
@@ -304,26 +304,8 @@
             "channel_name": "Chan - Topic",
             "category": "Music",
             "duration": "2:12",
-            "view_count": "97728",
+            "view_count": "98996",
             "thumbnail_url": "https://i.ytimg.com/vi/xstuwBzZRBo/hqdefault.jpg"
-        },
-        {
-            "video_id": "9jNmYK9jFh8",
-            "title": "우리 란이 뽀뽀~쪽😘│2026 LCK│울챔스 하이라이트",
-            "channel_name": "Wolf",
-            "category": "Gaming",
-            "duration": "1:38:36",
-            "view_count": "518843",
-            "thumbnail_url": "https://i.ytimg.com/vi/9jNmYK9jFh8/hqdefault.jpg"
-        },
-        {
-            "video_id": "B2jTp3H0JS4",
-            "title": "Know you, Feel you",
-            "channel_name": "So Soo Bin - Topic",
-            "category": "Music",
-            "duration": "3:37",
-            "view_count": "125703",
-            "thumbnail_url": "https://i.ytimg.com/vi/B2jTp3H0JS4/hqdefault.jpg"
         },
         {
             "video_id": "n9NG1AJcDVc",
@@ -331,8 +313,26 @@
             "channel_name": "치랜",
             "category": "Gaming",
             "duration": "55:22",
-            "view_count": "293200",
+            "view_count": "324287",
             "thumbnail_url": "https://i.ytimg.com/vi/n9NG1AJcDVc/hqdefault.jpg"
+        },
+        {
+            "video_id": "B2jTp3H0JS4",
+            "title": "Know you, Feel you",
+            "channel_name": "So Soo Bin - Topic",
+            "category": "Music",
+            "duration": "3:37",
+            "view_count": "128043",
+            "thumbnail_url": "https://i.ytimg.com/vi/B2jTp3H0JS4/hqdefault.jpg"
+        },
+        {
+            "video_id": "nIwC-wyt388",
+            "title": "[LIVE] 9월 8일 아이온2 업데이트 프리뷰 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "1:08:27",
+            "view_count": "130645",
+            "thumbnail_url": "https://i.ytimg.com/vi/nIwC-wyt388/hqdefault.jpg"
         },
         {
             "video_id": "6ytdGqMxxrI",
@@ -340,17 +340,17 @@
             "channel_name": "Tablo - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "915177",
+            "view_count": "929729",
             "thumbnail_url": "https://i.ytimg.com/vi/6ytdGqMxxrI/hqdefault.jpg"
         },
         {
-            "video_id": "E1DotZOlA7g",
-            "title": "공방에선 절대 지지않는다는 '공방의 왕' 을 만났습니다ㄷㄷ",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "OHoxSYV0zlE",
+            "title": "돌아온 상변 도파민",
+            "channel_name": "잡상싱",
             "category": "Gaming",
-            "duration": "37:59",
-            "view_count": "240683",
-            "thumbnail_url": "https://i.ytimg.com/vi/E1DotZOlA7g/hqdefault.jpg"
+            "duration": "14:09",
+            "view_count": "94796",
+            "thumbnail_url": "https://i.ytimg.com/vi/OHoxSYV0zlE/hqdefault.jpg"
         },
         {
             "video_id": "YXj4W-wfXSs",
@@ -358,17 +358,17 @@
             "channel_name": "한인사회(Korean Community) - Topic",
             "category": "Music",
             "duration": "2:24",
-            "view_count": "65529",
+            "view_count": "67882",
             "thumbnail_url": "https://i.ytimg.com/vi/YXj4W-wfXSs/hqdefault.jpg"
         },
         {
-            "video_id": "plhMmtth5_U",
-            "title": "식중땐은 오빠고 나는 왜 청묘님이야?",
-            "channel_name": "안녕수야",
+            "video_id": "o512WZnU-0U",
+            "title": "지나갑니다",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "30:01",
-            "view_count": "200563",
-            "thumbnail_url": "https://i.ytimg.com/vi/plhMmtth5_U/hqdefault.jpg"
+            "duration": "23:08",
+            "view_count": "548667",
+            "thumbnail_url": "https://i.ytimg.com/vi/o512WZnU-0U/hqdefault.jpg"
         },
         {
             "video_id": "11dbl_yAPrI",
@@ -376,7 +376,7 @@
             "channel_name": "조선힙합",
             "category": "Music",
             "duration": "3:26",
-            "view_count": "85393",
+            "view_count": "88431",
             "thumbnail_url": "https://i.ytimg.com/vi/11dbl_yAPrI/hqdefault.jpg"
         }
     ]
