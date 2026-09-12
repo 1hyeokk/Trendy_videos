@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-09-12 18:04:33",
+    "scraped_time": "2026-09-12 22:24:38",
     "videos": [
         {
             "video_id": "IHIt9S2DWcQ",
@@ -7,26 +7,17 @@
             "channel_name": "IU - Topic",
             "category": "Music",
             "duration": "2:36",
-            "view_count": "1339259",
+            "view_count": "1505230",
             "thumbnail_url": "https://i.ytimg.com/vi/IHIt9S2DWcQ/hqdefault.jpg"
         },
         {
-            "video_id": "fksdxa-ylzE",
-            "title": "나를 충전해줘 | 공식 티저 예고편 | 넷플릭스",
-            "channel_name": "Netflix Korea 넷플릭스 코리아",
-            "category": "Entertainment",
-            "duration": "1:32",
-            "view_count": "510848",
-            "thumbnail_url": "https://i.ytimg.com/vi/fksdxa-ylzE/hqdefault.jpg"
-        },
-        {
-            "video_id": "NiUP1Pg14RQ",
-            "title": "리뷰3000개 전부 극찬!! 혜안져스 목숨걸고 하는 생존게임(※40분 순삭)",
-            "channel_name": "혜안",
+            "video_id": "f9IOOQFgZnw",
+            "title": "HLE vs T1 | 2026 Wooribank LCK Lower Finals",
+            "channel_name": "LCK Global",
             "category": "Gaming",
-            "duration": "42:08",
-            "view_count": "497962",
-            "thumbnail_url": "https://i.ytimg.com/vi/NiUP1Pg14RQ/hqdefault.jpg"
+            "duration": "4:54:36",
+            "view_count": "2634402",
+            "thumbnail_url": "https://i.ytimg.com/vi/f9IOOQFgZnw/hqdefault.jpg"
         },
         {
             "video_id": "JJx_WQXOeK0",
@@ -34,17 +25,17 @@
             "channel_name": "meomuru - Topic",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "148582",
+            "view_count": "195625",
             "thumbnail_url": "https://i.ytimg.com/vi/JJx_WQXOeK0/hqdefault.jpg"
         },
         {
-            "video_id": "rCHln-ke9bw",
-            "title": "아저씨가 잠시 빌려갈게",
-            "channel_name": "랄로",
+            "video_id": "NiUP1Pg14RQ",
+            "title": "리뷰3000개 전부 극찬!! 혜안져스 목숨걸고 하는 생존게임(※40분 순삭)",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "1:03:39",
-            "view_count": "1117834",
-            "thumbnail_url": "https://i.ytimg.com/vi/rCHln-ke9bw/hqdefault.jpg"
+            "duration": "42:08",
+            "view_count": "563062",
+            "thumbnail_url": "https://i.ytimg.com/vi/NiUP1Pg14RQ/hqdefault.jpg"
         },
         {
             "video_id": "xplsbbSxkEg",
@@ -52,8 +43,26 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "4:20",
-            "view_count": "54759",
+            "view_count": "80189",
             "thumbnail_url": "https://i.ytimg.com/vi/xplsbbSxkEg/hqdefault.jpg"
+        },
+        {
+            "video_id": "rCHln-ke9bw",
+            "title": "아저씨가 잠시 빌려갈게",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "1:03:39",
+            "view_count": "1155823",
+            "thumbnail_url": "https://i.ytimg.com/vi/rCHln-ke9bw/hqdefault.jpg"
+        },
+        {
+            "video_id": "GpsX1d-iMlY",
+            "title": "Made My Night",
+            "channel_name": "LE SSERAFIM - Topic",
+            "category": "Music",
+            "duration": "2:06",
+            "view_count": "421327",
+            "thumbnail_url": "https://i.ytimg.com/vi/GpsX1d-iMlY/hqdefault.jpg"
         },
         {
             "video_id": "GjaniHnS2ak",
@@ -61,7 +70,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "21:11",
-            "view_count": "481120",
+            "view_count": "523292",
             "thumbnail_url": "https://i.ytimg.com/vi/GjaniHnS2ak/hqdefault.jpg"
         },
         {
@@ -70,44 +79,8 @@
             "channel_name": "Mark Lee - Topic",
             "category": "Music",
             "duration": "2:55",
-            "view_count": "406461",
+            "view_count": "443169",
             "thumbnail_url": "https://i.ytimg.com/vi/mw0gC7ML-UA/hqdefault.jpg"
-        },
-        {
-            "video_id": "h5eR27Gle1U",
-            "title": "[Limbus Company - PV] Chapter.10 - PUNCTUM",
-            "channel_name": "ProjectMoon Official",
-            "category": "Gaming",
-            "duration": "6:31",
-            "view_count": "832905",
-            "thumbnail_url": "https://i.ytimg.com/vi/h5eR27Gle1U/hqdefault.jpg"
-        },
-        {
-            "video_id": "GpsX1d-iMlY",
-            "title": "Made My Night",
-            "channel_name": "LE SSERAFIM - Topic",
-            "category": "Music",
-            "duration": "2:06",
-            "view_count": "372199",
-            "thumbnail_url": "https://i.ytimg.com/vi/GpsX1d-iMlY/hqdefault.jpg"
-        },
-        {
-            "video_id": "OjBs-IbAYhk",
-            "title": "3만명이 놀란 민교님 상대로 보여준 인생 역대급 골 vs감스트팀",
-            "channel_name": "정준홍",
-            "category": "Gaming",
-            "duration": "16:33",
-            "view_count": "251331",
-            "thumbnail_url": "https://i.ytimg.com/vi/OjBs-IbAYhk/hqdefault.jpg"
-        },
-        {
-            "video_id": "PEpWLTge234",
-            "title": "Please Be Happy",
-            "channel_name": "Lim Young Woong - Topic",
-            "category": "Music",
-            "duration": "4:30",
-            "view_count": "671932",
-            "thumbnail_url": "https://i.ytimg.com/vi/PEpWLTge234/hqdefault.jpg"
         },
         {
             "video_id": "lik5SoLyxnY",
@@ -115,8 +88,26 @@
             "channel_name": "두치와뿌꾸",
             "category": "Gaming",
             "duration": "14:40",
-            "view_count": "111935",
+            "view_count": "205316",
             "thumbnail_url": "https://i.ytimg.com/vi/lik5SoLyxnY/hqdefault.jpg"
+        },
+        {
+            "video_id": "PEpWLTge234",
+            "title": "Please Be Happy",
+            "channel_name": "Lim Young Woong - Topic",
+            "category": "Music",
+            "duration": "4:30",
+            "view_count": "702738",
+            "thumbnail_url": "https://i.ytimg.com/vi/PEpWLTge234/hqdefault.jpg"
+        },
+        {
+            "video_id": "OjBs-IbAYhk",
+            "title": "3만명이 놀란 민교님 상대로 보여준 인생 역대급 골 vs감스트팀",
+            "channel_name": "정준홍",
+            "category": "Gaming",
+            "duration": "16:33",
+            "view_count": "269258",
+            "thumbnail_url": "https://i.ytimg.com/vi/OjBs-IbAYhk/hqdefault.jpg"
         },
         {
             "video_id": "svHUxtHIljw",
@@ -124,17 +115,17 @@
             "channel_name": "D.O. - Topic",
             "category": "Music",
             "duration": "2:43",
-            "view_count": "934825",
+            "view_count": "992036",
             "thumbnail_url": "https://i.ytimg.com/vi/svHUxtHIljw/hqdefault.jpg"
         },
         {
-            "video_id": "dfJsDEoJBMo",
-            "title": "기100 ~기생충이 되기 전에 하고 싶은 100가지~",
-            "channel_name": "왈도쿤",
+            "video_id": "h5eR27Gle1U",
+            "title": "[Limbus Company - PV] Chapter.10 - PUNCTUM",
+            "channel_name": "ProjectMoon Official",
             "category": "Gaming",
-            "duration": "30:42",
-            "view_count": "282612",
-            "thumbnail_url": "https://i.ytimg.com/vi/dfJsDEoJBMo/hqdefault.jpg"
+            "duration": "6:31",
+            "view_count": "865444",
+            "thumbnail_url": "https://i.ytimg.com/vi/h5eR27Gle1U/hqdefault.jpg"
         },
         {
             "video_id": "5mESl85XgyI",
@@ -142,8 +133,26 @@
             "channel_name": "Stray Kids - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "949636",
+            "view_count": "985336",
             "thumbnail_url": "https://i.ytimg.com/vi/5mESl85XgyI/hqdefault.jpg"
+        },
+        {
+            "video_id": "dfJsDEoJBMo",
+            "title": "기100 ~기생충이 되기 전에 하고 싶은 100가지~",
+            "channel_name": "왈도쿤",
+            "category": "Gaming",
+            "duration": "30:42",
+            "view_count": "303467",
+            "thumbnail_url": "https://i.ytimg.com/vi/dfJsDEoJBMo/hqdefault.jpg"
+        },
+        {
+            "video_id": "co6Dwx1kNRw",
+            "title": "one life",
+            "channel_name": "charlieonnafriday - Topic",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "137910",
+            "thumbnail_url": "https://i.ytimg.com/vi/co6Dwx1kNRw/hqdefault.jpg"
         },
         {
             "video_id": "iH_fAkPmh34",
@@ -151,7 +160,7 @@
             "channel_name": "1vsAll",
             "category": "Gaming",
             "duration": "1:26:14",
-            "view_count": "195454",
+            "view_count": "207368",
             "thumbnail_url": "https://i.ytimg.com/vi/iH_fAkPmh34/hqdefault.jpg"
         },
         {
@@ -160,7 +169,7 @@
             "channel_name": "welldonehit - Topic",
             "category": "Music",
             "duration": "3:25",
-            "view_count": "126434",
+            "view_count": "131713",
             "thumbnail_url": "https://i.ytimg.com/vi/ZyI5bmN2p1I/hqdefault.jpg"
         },
         {
@@ -169,7 +178,7 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "24:08",
-            "view_count": "183192",
+            "view_count": "205388",
             "thumbnail_url": "https://i.ytimg.com/vi/c2o031P_bmw/hqdefault.jpg"
         },
         {
@@ -178,134 +187,8 @@
             "channel_name": "Hearts2Hearts - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "535094",
+            "view_count": "564992",
             "thumbnail_url": "https://i.ytimg.com/vi/hfftbNrp_lw/hqdefault.jpg"
-        },
-        {
-            "video_id": "YvcSMp2cexE",
-            "title": "미션 임파서블",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "26:43",
-            "view_count": "496778",
-            "thumbnail_url": "https://i.ytimg.com/vi/YvcSMp2cexE/hqdefault.jpg"
-        },
-        {
-            "video_id": "co6Dwx1kNRw",
-            "title": "one life",
-            "channel_name": "charlieonnafriday - Topic",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "109192",
-            "thumbnail_url": "https://i.ytimg.com/vi/co6Dwx1kNRw/hqdefault.jpg"
-        },
-        {
-            "video_id": "jTpNc7UNk1o",
-            "title": "살아있는 고래 안에 집 짓기!? [ 마인크래프트 : 집 짓기 ]",
-            "channel_name": "로빈",
-            "category": "Gaming",
-            "duration": "20:07",
-            "view_count": "134184",
-            "thumbnail_url": "https://i.ytimg.com/vi/jTpNc7UNk1o/hqdefault.jpg"
-        },
-        {
-            "video_id": "UuoYKHIYq4Q",
-            "title": "ALL(H)OURS (올아워즈) ‘DANG DANG’ Official M/V",
-            "channel_name": "올아워즈 ALL(H)OURS ",
-            "category": "Entertainment",
-            "duration": "3:15",
-            "view_count": "4845278",
-            "thumbnail_url": "https://i.ytimg.com/vi/UuoYKHIYq4Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "2t0BRegeS_U",
-            "title": "배그 세계 1위 vs 배린이 4명",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "49:02",
-            "view_count": "522717",
-            "thumbnail_url": "https://i.ytimg.com/vi/2t0BRegeS_U/hqdefault.jpg"
-        },
-        {
-            "video_id": "Y1Lah0BM0KQ",
-            "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
-            "channel_name": "HYBE LABELS",
-            "category": "Music",
-            "duration": "2:47",
-            "view_count": "4786245",
-            "thumbnail_url": "https://i.ytimg.com/vi/Y1Lah0BM0KQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "zHpGSnhqXFk",
-            "title": "감스트 넥슨 장사 잘하네 1000만원 현질 fc온라인",
-            "channel_name": "감스트GAMST",
-            "category": "Gaming",
-            "duration": "10:54",
-            "view_count": "904526",
-            "thumbnail_url": "https://i.ytimg.com/vi/zHpGSnhqXFk/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ggaks-34Fuc",
-            "title": "Coward",
-            "channel_name": "PENTAGON - Topic",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "40051",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ggaks-34Fuc/hqdefault.jpg"
-        },
-        {
-            "video_id": "Px0T2f52Gok",
-            "title": "배그 주술회전 전부 뽑았습니다",
-            "channel_name": "주키니TV",
-            "category": "Gaming",
-            "duration": "25:29",
-            "view_count": "345809",
-            "thumbnail_url": "https://i.ytimg.com/vi/Px0T2f52Gok/hqdefault.jpg"
-        },
-        {
-            "video_id": "90ssj9w_P4I",
-            "title": "Sparkle 미리 불러 봄",
-            "channel_name": "로이킴 Roy Kim",
-            "category": "Music",
-            "duration": "4:27",
-            "view_count": "397539",
-            "thumbnail_url": "https://i.ytimg.com/vi/90ssj9w_P4I/hqdefault.jpg"
-        },
-        {
-            "video_id": "vC7rSeKGAA8",
-            "title": "재해의 아이",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "1:02:36",
-            "view_count": "234736",
-            "thumbnail_url": "https://i.ytimg.com/vi/vC7rSeKGAA8/hqdefault.jpg"
-        },
-        {
-            "video_id": "7mDDM0eBWR0",
-            "title": "소연 (SOYEON) '퇴사할게여 (Narr. 기안84)' Official Music Video",
-            "channel_name": "i-dle (아이들)",
-            "category": "Music",
-            "duration": "3:32",
-            "view_count": "9341533",
-            "thumbnail_url": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg"
-        },
-        {
-            "video_id": "K_9jJbNrD-k",
-            "title": "수환아 그건 좀 아닌 거 같아 [T1scord 2026 vs DK]",
-            "channel_name": "T1",
-            "category": "Gaming",
-            "duration": "13:59",
-            "view_count": "509993",
-            "thumbnail_url": "https://i.ytimg.com/vi/K_9jJbNrD-k/hqdefault.jpg"
-        },
-        {
-            "video_id": "LYxbUm2hSq0",
-            "title": "You Have A Crush On Me",
-            "channel_name": "No Brain - Topic",
-            "category": "Music",
-            "duration": "3:10",
-            "view_count": "28283",
-            "thumbnail_url": "https://i.ytimg.com/vi/LYxbUm2hSq0/hqdefault.jpg"
         },
         {
             "video_id": "ie0OtX60i7o",
@@ -313,44 +196,134 @@
             "channel_name": "김블루",
             "category": "Gaming",
             "duration": "14:34",
-            "view_count": "227120",
+            "view_count": "314353",
             "thumbnail_url": "https://i.ytimg.com/vi/ie0OtX60i7o/hqdefault.jpg"
         },
         {
-            "video_id": "sQAxbyhxUPU",
-            "title": "Catching the Sunset",
-            "channel_name": "Forrest Rose - Topic",
-            "category": "Music",
-            "duration": "3:34",
-            "view_count": "268316",
-            "thumbnail_url": "https://i.ytimg.com/vi/sQAxbyhxUPU/hqdefault.jpg"
-        },
-        {
-            "video_id": "zYjMqn83koo",
-            "title": "위기의 롤토체스, 역대급 운빨이 필요한 전략으로 1등하는 장인.. | 팔차선 장인초대석 [테스터훈]",
-            "channel_name": "테스터훈 TesterHoon",
-            "category": "Gaming",
-            "duration": "32:31",
-            "view_count": "249306",
-            "thumbnail_url": "https://i.ytimg.com/vi/zYjMqn83koo/hqdefault.jpg"
-        },
-        {
-            "video_id": "nxdxwZztGj0",
-            "title": "I’m gonna TOESA (Narr. KIAN84)",
-            "channel_name": "SOYEON - Topic",
+            "video_id": "Ggaks-34Fuc",
+            "title": "Coward",
+            "channel_name": "PENTAGON - Topic",
             "category": "Music",
             "duration": "3:32",
-            "view_count": "1059508",
-            "thumbnail_url": "https://i.ytimg.com/vi/nxdxwZztGj0/hqdefault.jpg"
+            "view_count": "54212",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ggaks-34Fuc/hqdefault.jpg"
         },
         {
-            "video_id": "paXgcTOqNbg",
-            "title": "돌아온 상대방의 멘탈을 파괴하는 카드 게임 ㅋㅋㅋ",
-            "channel_name": "하우카우",
+            "video_id": "jTpNc7UNk1o",
+            "title": "살아있는 고래 안에 집 짓기!? [ 마인크래프트 : 집 짓기 ]",
+            "channel_name": "로빈",
             "category": "Gaming",
-            "duration": "26:34",
-            "view_count": "141401",
-            "thumbnail_url": "https://i.ytimg.com/vi/paXgcTOqNbg/hqdefault.jpg"
+            "duration": "20:07",
+            "view_count": "151671",
+            "thumbnail_url": "https://i.ytimg.com/vi/jTpNc7UNk1o/hqdefault.jpg"
+        },
+        {
+            "video_id": "LYxbUm2hSq0",
+            "title": "You Have A Crush On Me",
+            "channel_name": "No Brain - Topic",
+            "category": "Music",
+            "duration": "3:10",
+            "view_count": "38970",
+            "thumbnail_url": "https://i.ytimg.com/vi/LYxbUm2hSq0/hqdefault.jpg"
+        },
+        {
+            "video_id": "HJE0TTFs9j4",
+            "title": "김봉준 감독의 첫 전략 \"먹어\" [VS 뿌꾸팀 스크림]",
+            "channel_name": "게임대장봉준",
+            "category": "Gaming",
+            "duration": "1:04:06",
+            "view_count": "52952",
+            "thumbnail_url": "https://i.ytimg.com/vi/HJE0TTFs9j4/hqdefault.jpg"
+        },
+        {
+            "video_id": "UuoYKHIYq4Q",
+            "title": "ALL(H)OURS (올아워즈) ‘DANG DANG’ Official M/V",
+            "channel_name": "올아워즈 ALL(H)OURS ",
+            "category": "Entertainment",
+            "duration": "3:15",
+            "view_count": "5172492",
+            "thumbnail_url": "https://i.ytimg.com/vi/UuoYKHIYq4Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "vC7rSeKGAA8",
+            "title": "재해의 아이",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "1:02:36",
+            "view_count": "269760",
+            "thumbnail_url": "https://i.ytimg.com/vi/vC7rSeKGAA8/hqdefault.jpg"
+        },
+        {
+            "video_id": "Y1Lah0BM0KQ",
+            "title": "LE SSERAFIM (르세라핌) 'Made My Night' OFFICIAL MV with OVERWATCH",
+            "channel_name": "HYBE LABELS",
+            "category": "Music",
+            "duration": "2:47",
+            "view_count": "5517541",
+            "thumbnail_url": "https://i.ytimg.com/vi/Y1Lah0BM0KQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "z6Sn_vSbqX0",
+            "title": "불안형 남편 & 안정형 아내 [공포게임 MADiSON]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "30:18",
+            "view_count": "60519",
+            "thumbnail_url": "https://i.ytimg.com/vi/z6Sn_vSbqX0/hqdefault.jpg"
+        },
+        {
+            "video_id": "4XycAo8rQJw",
+            "title": "Polaroid Stains",
+            "channel_name": "Forrest Rose - Topic",
+            "category": "Music",
+            "duration": "3:15",
+            "view_count": "46342",
+            "thumbnail_url": "https://i.ytimg.com/vi/4XycAo8rQJw/hqdefault.jpg"
+        },
+        {
+            "video_id": "QVpJj6SrT6U",
+            "title": "과거 명작 골드버전을 30분만에 클리어?!【포켓몬 골드버전 타임어택】",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "14:39",
+            "view_count": "73353",
+            "thumbnail_url": "https://i.ytimg.com/vi/QVpJj6SrT6U/hqdefault.jpg"
+        },
+        {
+            "video_id": "90ssj9w_P4I",
+            "title": "Sparkle 미리 불러 봄",
+            "channel_name": "로이킴 Roy Kim",
+            "category": "Music",
+            "duration": "4:27",
+            "view_count": "426211",
+            "thumbnail_url": "https://i.ytimg.com/vi/90ssj9w_P4I/hqdefault.jpg"
+        },
+        {
+            "video_id": "YvcSMp2cexE",
+            "title": "미션 임파서블",
+            "channel_name": "PAKA",
+            "category": "Gaming",
+            "duration": "26:43",
+            "view_count": "505907",
+            "thumbnail_url": "https://i.ytimg.com/vi/YvcSMp2cexE/hqdefault.jpg"
+        },
+        {
+            "video_id": "7mDDM0eBWR0",
+            "title": "소연 (SOYEON) '퇴사할게여 (Narr. 기안84)' Official Music Video",
+            "channel_name": "i-dle (아이들)",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "9492746",
+            "thumbnail_url": "https://i.ytimg.com/vi/7mDDM0eBWR0/hqdefault.jpg"
+        },
+        {
+            "video_id": "wBE05gwLISw",
+            "title": "랭킹 1위로 배틀메이지 3차 찍기 ㅁㅊㅋㅋㅋㅋㅋ",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "17:07",
+            "view_count": "169547",
+            "thumbnail_url": "https://i.ytimg.com/vi/wBE05gwLISw/hqdefault.jpg"
         },
         {
             "video_id": "UnI4f4AsSAQ",
@@ -358,17 +331,35 @@
             "channel_name": "조선힙합 - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "22183",
+            "view_count": "31728",
             "thumbnail_url": "https://i.ytimg.com/vi/UnI4f4AsSAQ/hqdefault.jpg"
         },
         {
-            "video_id": "QPhGs4u9RE4",
-            "title": "260911 전설 무한의 계단 시참",
-            "channel_name": "전설",
+            "video_id": "7e6wwBnN4M4",
+            "title": "한대치면 서렌나오는 '주문력 1만' 초극딜 레나타",
+            "channel_name": "무지개맛 Rainbow Flavor",
             "category": "Gaming",
-            "duration": "4:02:45",
-            "view_count": "1180585",
-            "thumbnail_url": "https://i.ytimg.com/vi/QPhGs4u9RE4/hqdefault.jpg"
+            "duration": "10:14",
+            "view_count": "276961",
+            "thumbnail_url": "https://i.ytimg.com/vi/7e6wwBnN4M4/hqdefault.jpg"
+        },
+        {
+            "video_id": "nxdxwZztGj0",
+            "title": "I’m gonna TOESA (Narr. KIAN84)",
+            "channel_name": "SOYEON - Topic",
+            "category": "Music",
+            "duration": "3:32",
+            "view_count": "1138773",
+            "thumbnail_url": "https://i.ytimg.com/vi/nxdxwZztGj0/hqdefault.jpg"
+        },
+        {
+            "video_id": "zHpGSnhqXFk",
+            "title": "감스트 넥슨 장사 잘하네 1000만원 현질 fc온라인",
+            "channel_name": "감스트GAMST",
+            "category": "Gaming",
+            "duration": "10:54",
+            "view_count": "924415",
+            "thumbnail_url": "https://i.ytimg.com/vi/zHpGSnhqXFk/hqdefault.jpg"
         },
         {
             "video_id": "Y3ztk_1bln8",
@@ -376,8 +367,17 @@
             "channel_name": "soonflow - Topic",
             "category": "Music",
             "duration": "2:14",
-            "view_count": "82578",
+            "view_count": "109537",
             "thumbnail_url": "https://i.ytimg.com/vi/Y3ztk_1bln8/hqdefault.jpg"
+        },
+        {
+            "video_id": "Px0T2f52Gok",
+            "title": "배그 주술회전 전부 뽑았습니다",
+            "channel_name": "주키니TV",
+            "category": "Gaming",
+            "duration": "25:29",
+            "view_count": "368128",
+            "thumbnail_url": "https://i.ytimg.com/vi/Px0T2f52Gok/hqdefault.jpg"
         }
     ]
 }
