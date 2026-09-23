@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-09-24 04:59:59",
+    "scraped_time": "2026-09-24 07:54:28",
     "videos": [
         {
             "video_id": "62qQxaFZFZo",
@@ -7,7 +7,7 @@
             "channel_name": "QWER - Topic",
             "category": "Music",
             "duration": "3:07",
-            "view_count": "649629",
+            "view_count": "655613",
             "thumbnail_url": "https://i.ytimg.com/vi/62qQxaFZFZo/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "무비띵크_Movie Think",
             "category": "Film & Animation",
             "duration": "17:36",
-            "view_count": "880885",
+            "view_count": "1001253",
             "thumbnail_url": "https://i.ytimg.com/vi/C-NKIKiQCNE/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "김성회의 G식백과",
             "category": "Gaming",
             "duration": "15:36",
-            "view_count": "655398",
+            "view_count": "696319",
             "thumbnail_url": "https://i.ytimg.com/vi/cSV9Q9CJrbw/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:04",
-            "view_count": "10581160",
+            "view_count": "10610327",
             "thumbnail_url": "https://i.ytimg.com/vi/1Qx6ktR3CEk/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "20:04",
-            "view_count": "476077",
+            "view_count": "516927",
             "thumbnail_url": "https://i.ytimg.com/vi/YPs10IOxXEE/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "이지금 [IU Official]",
             "category": "Entertainment",
             "duration": "2:50",
-            "view_count": "975735",
+            "view_count": "1006926",
             "thumbnail_url": "https://i.ytimg.com/vi/3RwRrxiG5j4/hqdefault.jpg"
         },
         {
@@ -61,8 +61,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "1:06:36",
-            "view_count": "703410",
+            "view_count": "711391",
             "thumbnail_url": "https://i.ytimg.com/vi/EKL2T2L2A8c/hqdefault.jpg"
+        },
+        {
+            "video_id": "OBIXeXfd3Oc",
+            "title": "Milky Way",
+            "channel_name": "UNIS - Topic",
+            "category": "Music",
+            "duration": "3:35",
+            "view_count": "126285",
+            "thumbnail_url": "https://i.ytimg.com/vi/OBIXeXfd3Oc/hqdefault.jpg"
+        },
+        {
+            "video_id": "E2WMtyE2G5g",
+            "title": "김씨표류기",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "4:24:00",
+            "view_count": "511142",
+            "thumbnail_url": "https://i.ytimg.com/vi/E2WMtyE2G5g/hqdefault.jpg"
         },
         {
             "video_id": "LzW15vQNwPQ",
@@ -70,7 +88,7 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "196433",
+            "view_count": "198644",
             "thumbnail_url": "https://i.ytimg.com/vi/LzW15vQNwPQ/hqdefault.jpg"
         },
         {
@@ -79,17 +97,17 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "28:44",
-            "view_count": "613742",
+            "view_count": "619932",
             "thumbnail_url": "https://i.ytimg.com/vi/QNBoAnethQ0/hqdefault.jpg"
         },
         {
-            "video_id": "OBIXeXfd3Oc",
-            "title": "Milky Way",
-            "channel_name": "UNIS - Topic",
+            "video_id": "Ra9rIXtlt6M",
+            "title": "Toy",
+            "channel_name": "PATEKO - Topic",
             "category": "Music",
-            "duration": "3:35",
-            "view_count": "112914",
-            "thumbnail_url": "https://i.ytimg.com/vi/OBIXeXfd3Oc/hqdefault.jpg"
+            "duration": "2:58",
+            "view_count": "18115",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ra9rIXtlt6M/hqdefault.jpg"
         },
         {
             "video_id": "6qEi5xVUNiE",
@@ -97,7 +115,7 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "1:09:11",
-            "view_count": "242849",
+            "view_count": "260819",
             "thumbnail_url": "https://i.ytimg.com/vi/6qEi5xVUNiE/hqdefault.jpg"
         },
         {
@@ -106,26 +124,8 @@
             "channel_name": "HWASA",
             "category": "Music",
             "duration": "6:22",
-            "view_count": "344241",
+            "view_count": "396654",
             "thumbnail_url": "https://i.ytimg.com/vi/8SsctW_2ICc/hqdefault.jpg"
-        },
-        {
-            "video_id": "E2WMtyE2G5g",
-            "title": "김씨표류기",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "4:24:00",
-            "view_count": "437104",
-            "thumbnail_url": "https://i.ytimg.com/vi/E2WMtyE2G5g/hqdefault.jpg"
-        },
-        {
-            "video_id": "ly-6Zd4RStY",
-            "title": "CAN′T KILL ME",
-            "channel_name": "BAILEY - Topic",
-            "category": "Music",
-            "duration": "2:30",
-            "view_count": "37009",
-            "thumbnail_url": "https://i.ytimg.com/vi/ly-6Zd4RStY/hqdefault.jpg"
         },
         {
             "video_id": "7c43iILPM-o",
@@ -133,17 +133,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "20:50",
-            "view_count": "546395",
+            "view_count": "555251",
             "thumbnail_url": "https://i.ytimg.com/vi/7c43iILPM-o/hqdefault.jpg"
         },
         {
-            "video_id": "wbz0Vquh3fM",
-            "title": "Heart Stage",
-            "channel_name": "Catch! Teenieping - Topic",
-            "category": "Music",
-            "duration": "2:26",
-            "view_count": "171806",
-            "thumbnail_url": "https://i.ytimg.com/vi/wbz0Vquh3fM/hqdefault.jpg"
+            "video_id": "ZEBkfRxoHbQ",
+            "title": "LIGHTSUM (ライトサム)  -「どうして (Doshite)」Official Music Video",
+            "channel_name": "LIGHTSUM",
+            "category": "Entertainment",
+            "duration": "4:10",
+            "view_count": "109959",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZEBkfRxoHbQ/hqdefault.jpg"
         },
         {
             "video_id": "RjlglCG9kyU",
@@ -151,17 +151,17 @@
             "channel_name": "프뚜",
             "category": "Gaming",
             "duration": "41:34",
-            "view_count": "196075",
+            "view_count": "212782",
             "thumbnail_url": "https://i.ytimg.com/vi/RjlglCG9kyU/hqdefault.jpg"
         },
         {
-            "video_id": "IaHckvXqW6w",
-            "title": "sauganb",
-            "channel_name": "Paul Blanco - Topic",
+            "video_id": "ly-6Zd4RStY",
+            "title": "CAN′T KILL ME",
+            "channel_name": "BAILEY - Topic",
             "category": "Music",
             "duration": "2:30",
-            "view_count": "125379",
-            "thumbnail_url": "https://i.ytimg.com/vi/IaHckvXqW6w/hqdefault.jpg"
+            "view_count": "39441",
+            "thumbnail_url": "https://i.ytimg.com/vi/ly-6Zd4RStY/hqdefault.jpg"
         },
         {
             "video_id": "P0yYzKcmzrY",
@@ -169,35 +169,17 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "21:48",
-            "view_count": "449945",
+            "view_count": "454308",
             "thumbnail_url": "https://i.ytimg.com/vi/P0yYzKcmzrY/hqdefault.jpg"
         },
         {
-            "video_id": "6Xr3nCSxs_A",
-            "title": "Swingin’ Magic (Korean Ver.)",
-            "channel_name": "ILLIT - Topic",
+            "video_id": "wbz0Vquh3fM",
+            "title": "Heart Stage",
+            "channel_name": "Catch! Teenieping - Topic",
             "category": "Music",
-            "duration": "2:58",
-            "view_count": "311906",
-            "thumbnail_url": "https://i.ytimg.com/vi/6Xr3nCSxs_A/hqdefault.jpg"
-        },
-        {
-            "video_id": "21CTXo_5_Jc",
-            "title": "[ 불도그 LIVE 생방송 9/23 ] 리니지m 2시간잤습니다. 명코대박터지면 할파스가능?",
-            "channel_name": "불도그",
-            "category": "Gaming",
-            "duration": "9:57:30",
-            "view_count": "481989",
-            "thumbnail_url": "https://i.ytimg.com/vi/21CTXo_5_Jc/hqdefault.jpg"
-        },
-        {
-            "video_id": "NN_m4mP1HiM",
-            "title": "Billlie | ただ君に晴れ | COVER BY TSUKI",
-            "channel_name": "Billlie",
-            "category": "Music",
-            "duration": "2:23",
-            "view_count": "283247",
-            "thumbnail_url": "https://i.ytimg.com/vi/NN_m4mP1HiM/hqdefault.jpg"
+            "duration": "2:26",
+            "view_count": "173547",
+            "thumbnail_url": "https://i.ytimg.com/vi/wbz0Vquh3fM/hqdefault.jpg"
         },
         {
             "video_id": "EoKuSLFOHnU",
@@ -205,17 +187,35 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "16:33",
-            "view_count": "296821",
+            "view_count": "316341",
             "thumbnail_url": "https://i.ytimg.com/vi/EoKuSLFOHnU/hqdefault.jpg"
         },
         {
-            "video_id": "sM3a7JCrxmo",
-            "title": "Focus On You",
-            "channel_name": "Release - Topic",
+            "video_id": "xnfSjN6bBg8",
+            "title": "BTS (방탄소년단) '2.0' Stage CAM @ iHeartRadio Music Festival 2026",
+            "channel_name": "BANGTANTV",
             "category": "Music",
-            "duration": "3:45",
-            "view_count": "752155",
-            "thumbnail_url": "https://i.ytimg.com/vi/sM3a7JCrxmo/hqdefault.jpg"
+            "duration": "3:02",
+            "view_count": "513160",
+            "thumbnail_url": "https://i.ytimg.com/vi/xnfSjN6bBg8/hqdefault.jpg"
+        },
+        {
+            "video_id": "21CTXo_5_Jc",
+            "title": "[ 불도그 LIVE 생방송 9/23 ] 리니지m 2시간잤습니다. 명코대박터지면 할파스가능?",
+            "channel_name": "불도그",
+            "category": "Gaming",
+            "duration": "9:57:30",
+            "view_count": "485301",
+            "thumbnail_url": "https://i.ytimg.com/vi/21CTXo_5_Jc/hqdefault.jpg"
+        },
+        {
+            "video_id": "IaHckvXqW6w",
+            "title": "sauganb",
+            "channel_name": "Paul Blanco - Topic",
+            "category": "Music",
+            "duration": "2:30",
+            "view_count": "126963",
+            "thumbnail_url": "https://i.ytimg.com/vi/IaHckvXqW6w/hqdefault.jpg"
         },
         {
             "video_id": "jHpuEGZ8fbo",
@@ -223,89 +223,17 @@
             "channel_name": "지존조세",
             "category": "Gaming",
             "duration": "14:42",
-            "view_count": "409565",
+            "view_count": "436327",
             "thumbnail_url": "https://i.ytimg.com/vi/jHpuEGZ8fbo/hqdefault.jpg"
         },
         {
-            "video_id": "2bdfXyE_bnw",
-            "title": "감기(2026)",
-            "channel_name": "Ki Chan Lee - Topic",
+            "video_id": "NN_m4mP1HiM",
+            "title": "Billlie | ただ君に晴れ | COVER BY TSUKI",
+            "channel_name": "Billlie",
             "category": "Music",
-            "duration": "3:31",
-            "view_count": "34072",
-            "thumbnail_url": "https://i.ytimg.com/vi/2bdfXyE_bnw/hqdefault.jpg"
-        },
-        {
-            "video_id": "HPRPsgcCu7k",
-            "title": "결국 랭킹1위 성공했습니다 ㅠㅠㅠㅠㅠㅠ",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "18:35",
-            "view_count": "228359",
-            "thumbnail_url": "https://i.ytimg.com/vi/HPRPsgcCu7k/hqdefault.jpg"
-        },
-        {
-            "video_id": "JIJa3HULV7U",
-            "title": "A year gone",
-            "channel_name": "gitae - Topic",
-            "category": "Music",
-            "duration": "4:23",
-            "view_count": "78156",
-            "thumbnail_url": "https://i.ytimg.com/vi/JIJa3HULV7U/hqdefault.jpg"
-        },
-        {
-            "video_id": "9pXlG_Dt54Q",
-            "title": "\"오늘부로 배그 접습니다\" 한국 버리고 베트남 택한 대가⎜핵심만 3분",
-            "channel_name": "연합뉴스경제TV",
-            "category": "News & Politics",
-            "duration": "5:28",
-            "view_count": "552989",
-            "thumbnail_url": "https://i.ytimg.com/vi/9pXlG_Dt54Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "sXenh_TnWeg",
-            "title": "Say Yes!",
-            "channel_name": "ONEUS - Topic",
-            "category": "Music",
-            "duration": "3:05",
-            "view_count": "14784",
-            "thumbnail_url": "https://i.ytimg.com/vi/sXenh_TnWeg/hqdefault.jpg"
-        },
-        {
-            "video_id": "nqzb4scVEkI",
-            "title": "돌아온 영웅 【커비 도팡 일당의 습격 켠왕】",
-            "channel_name": "윤가놈",
-            "category": "Gaming",
-            "duration": "18:03",
-            "view_count": "517194",
-            "thumbnail_url": "https://i.ytimg.com/vi/nqzb4scVEkI/hqdefault.jpg"
-        },
-        {
-            "video_id": "uvcpylgYDSU",
-            "title": "Felix \"다시 사랑한다 말할까\" Cover (원곡 : 김동률) | [Stray Kids : SKZ-RECORD]",
-            "channel_name": "Stray Kids",
-            "category": "Entertainment",
-            "duration": "4:12",
-            "view_count": "1720275",
-            "thumbnail_url": "https://i.ytimg.com/vi/uvcpylgYDSU/hqdefault.jpg"
-        },
-        {
-            "video_id": "9i0fAZi77o0",
-            "title": "테란전은 절대 안진다며 알파고의 주종 테란을 깔보며 무시하는 상대... 대체 얼마나 잘하길래?",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "46:43",
-            "view_count": "222360",
-            "thumbnail_url": "https://i.ytimg.com/vi/9i0fAZi77o0/hqdefault.jpg"
-        },
-        {
-            "video_id": "rJlR-b2OvBg",
-            "title": "new trick",
-            "channel_name": "ROSÉ - Topic",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "1035725",
-            "thumbnail_url": "https://i.ytimg.com/vi/rJlR-b2OvBg/hqdefault.jpg"
+            "duration": "2:23",
+            "view_count": "288242",
+            "thumbnail_url": "https://i.ytimg.com/vi/NN_m4mP1HiM/hqdefault.jpg"
         },
         {
             "video_id": "xtqGpKj1_yw",
@@ -313,35 +241,53 @@
             "channel_name": "뜨뜨뜨뜨",
             "category": "Gaming",
             "duration": "18:00",
-            "view_count": "166029",
+            "view_count": "202772",
             "thumbnail_url": "https://i.ytimg.com/vi/xtqGpKj1_yw/hqdefault.jpg"
         },
         {
-            "video_id": "5s59iCsv4IY",
-            "title": "엔플라잉 (N.Flying) 9th Mini Album [Still] HIGHLIGHT MEDLEY",
-            "channel_name": "N.Flying (엔플라잉)",
-            "category": "Entertainment",
-            "duration": "4:13",
-            "view_count": "39909",
-            "thumbnail_url": "https://i.ytimg.com/vi/5s59iCsv4IY/hqdefault.jpg"
-        },
-        {
-            "video_id": "EqBNF-HYcwI",
-            "title": "으뜸기사 해체쇼",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "20:21",
-            "view_count": "371788",
-            "thumbnail_url": "https://i.ytimg.com/vi/EqBNF-HYcwI/hqdefault.jpg"
-        },
-        {
-            "video_id": "p_OF4pULMxU",
-            "title": "Wacka Wak",
-            "channel_name": "TAEYONG - Topic",
+            "video_id": "6Xr3nCSxs_A",
+            "title": "Swingin’ Magic (Korean Ver.)",
+            "channel_name": "ILLIT - Topic",
             "category": "Music",
-            "duration": "2:12",
-            "view_count": "30093",
-            "thumbnail_url": "https://i.ytimg.com/vi/p_OF4pULMxU/hqdefault.jpg"
+            "duration": "2:58",
+            "view_count": "312846",
+            "thumbnail_url": "https://i.ytimg.com/vi/6Xr3nCSxs_A/hqdefault.jpg"
+        },
+        {
+            "video_id": "HPRPsgcCu7k",
+            "title": "결국 랭킹1위 성공했습니다 ㅠㅠㅠㅠㅠㅠ",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "18:35",
+            "view_count": "236102",
+            "thumbnail_url": "https://i.ytimg.com/vi/HPRPsgcCu7k/hqdefault.jpg"
+        },
+        {
+            "video_id": "sM3a7JCrxmo",
+            "title": "Focus On You",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:45",
+            "view_count": "759754",
+            "thumbnail_url": "https://i.ytimg.com/vi/sM3a7JCrxmo/hqdefault.jpg"
+        },
+        {
+            "video_id": "9i0fAZi77o0",
+            "title": "테란전은 절대 안진다며 알파고의 주종 테란을 깔보며 무시하는 상대... 대체 얼마나 잘하길래?",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "46:43",
+            "view_count": "230140",
+            "thumbnail_url": "https://i.ytimg.com/vi/9i0fAZi77o0/hqdefault.jpg"
+        },
+        {
+            "video_id": "2bdfXyE_bnw",
+            "title": "감기(2026)",
+            "channel_name": "Ki Chan Lee - Topic",
+            "category": "Music",
+            "duration": "3:31",
+            "view_count": "34446",
+            "thumbnail_url": "https://i.ytimg.com/vi/2bdfXyE_bnw/hqdefault.jpg"
         },
         {
             "video_id": "-riazWEe3Ik",
@@ -349,26 +295,44 @@
             "channel_name": "채현찌",
             "category": "Gaming",
             "duration": "26:44",
-            "view_count": "120102",
+            "view_count": "130032",
             "thumbnail_url": "https://i.ytimg.com/vi/-riazWEe3Ik/hqdefault.jpg"
         },
         {
-            "video_id": "HjI3Vj4BjK4",
-            "title": "[LIVE] 해야 뜨지 말아 줘 + 행복했던 날들이었다｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞ FINALE in SEOUL",
-            "channel_name": "DAY6",
-            "category": "People & Blogs",
-            "duration": "7:04",
-            "view_count": "25460",
-            "thumbnail_url": "https://i.ytimg.com/vi/HjI3Vj4BjK4/hqdefault.jpg"
+            "video_id": "sXenh_TnWeg",
+            "title": "Say Yes!",
+            "channel_name": "ONEUS - Topic",
+            "category": "Music",
+            "duration": "3:05",
+            "view_count": "17900",
+            "thumbnail_url": "https://i.ytimg.com/vi/sXenh_TnWeg/hqdefault.jpg"
         },
         {
-            "video_id": "5qqS2NI2eIo",
-            "title": "드디어 완성한 2000억 본캐 프랑스!!!! 구단가치 1위 찍냐???",
-            "channel_name": "두치와뿌꾸",
+            "video_id": "9pXlG_Dt54Q",
+            "title": "\"오늘부로 배그 접습니다\" 한국 버리고 베트남 택한 대가⎜핵심만 3분",
+            "channel_name": "연합뉴스경제TV",
+            "category": "News & Politics",
+            "duration": "5:28",
+            "view_count": "559311",
+            "thumbnail_url": "https://i.ytimg.com/vi/9pXlG_Dt54Q/hqdefault.jpg"
+        },
+        {
+            "video_id": "JIJa3HULV7U",
+            "title": "A year gone",
+            "channel_name": "gitae - Topic",
+            "category": "Music",
+            "duration": "4:23",
+            "view_count": "79230",
+            "thumbnail_url": "https://i.ytimg.com/vi/JIJa3HULV7U/hqdefault.jpg"
+        },
+        {
+            "video_id": "nqzb4scVEkI",
+            "title": "돌아온 영웅 【커비 도팡 일당의 습격 켠왕】",
+            "channel_name": "윤가놈",
             "category": "Gaming",
-            "duration": "20:55",
-            "view_count": "154863",
-            "thumbnail_url": "https://i.ytimg.com/vi/5qqS2NI2eIo/hqdefault.jpg"
+            "duration": "18:03",
+            "view_count": "524537",
+            "thumbnail_url": "https://i.ytimg.com/vi/nqzb4scVEkI/hqdefault.jpg"
         },
         {
             "video_id": "ZN02P7uvMiU",
@@ -376,8 +340,44 @@
             "channel_name": "영탁스클럽 YOUNGTAKsClub",
             "category": "Entertainment",
             "duration": "2:44",
-            "view_count": "13377",
+            "view_count": "15542",
             "thumbnail_url": "https://i.ytimg.com/vi/ZN02P7uvMiU/hqdefault.jpg"
+        },
+        {
+            "video_id": "8kE2T75QGWI",
+            "title": "근본 야수출신 팔협지의 10협곡야수덱",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "18:07",
+            "view_count": "162343",
+            "thumbnail_url": "https://i.ytimg.com/vi/8kE2T75QGWI/hqdefault.jpg"
+        },
+        {
+            "video_id": "uvcpylgYDSU",
+            "title": "Felix \"다시 사랑한다 말할까\" Cover (원곡 : 김동률) | [Stray Kids : SKZ-RECORD]",
+            "channel_name": "Stray Kids",
+            "category": "Entertainment",
+            "duration": "4:12",
+            "view_count": "1727229",
+            "thumbnail_url": "https://i.ytimg.com/vi/uvcpylgYDSU/hqdefault.jpg"
+        },
+        {
+            "video_id": "5qqS2NI2eIo",
+            "title": "드디어 완성한 2000억 본캐 프랑스!!!! 구단가치 1위 찍냐???",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "20:55",
+            "view_count": "167965",
+            "thumbnail_url": "https://i.ytimg.com/vi/5qqS2NI2eIo/hqdefault.jpg"
+        },
+        {
+            "video_id": "rJlR-b2OvBg",
+            "title": "new trick",
+            "channel_name": "ROSÉ - Topic",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "1038150",
+            "thumbnail_url": "https://i.ytimg.com/vi/rJlR-b2OvBg/hqdefault.jpg"
         }
     ]
 }
