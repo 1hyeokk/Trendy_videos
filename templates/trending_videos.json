@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-09-30 05:30:45",
+    "scraped_time": "2026-09-30 09:07:15",
     "videos": [
         {
             "video_id": "lQ-w9M447w0",
@@ -7,7 +7,7 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "10694595",
+            "view_count": "10977896",
             "thumbnail_url": "https://i.ytimg.com/vi/lQ-w9M447w0/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "The Witcher",
             "category": "Gaming",
             "duration": "2:00",
-            "view_count": "1974819",
+            "view_count": "2428542",
             "thumbnail_url": "https://i.ytimg.com/vi/OlmuIckOX0c/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "1:20:11",
-            "view_count": "469566",
+            "view_count": "501302",
             "thumbnail_url": "https://i.ytimg.com/vi/kbG6sOAmVto/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "ALLDAY PROJECT - Topic",
             "category": "Music",
             "duration": "2:53",
-            "view_count": "260752",
+            "view_count": "269225",
             "thumbnail_url": "https://i.ytimg.com/vi/-JInUb_G6Jc/hqdefault.jpg"
         },
         {
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "0:47",
-            "view_count": "93923",
+            "view_count": "97177",
             "thumbnail_url": "https://i.ytimg.com/vi/h47Vd8BuITA/hqdefault.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "13:17",
-            "view_count": "268453",
+            "view_count": "292509",
             "thumbnail_url": "https://i.ytimg.com/vi/-JH7uZFB1-I/hqdefault.jpg"
         },
         {
@@ -61,7 +61,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "2:34",
-            "view_count": "160860",
+            "view_count": "164812",
             "thumbnail_url": "https://i.ytimg.com/vi/uQmd-ivRvdw/hqdefault.jpg"
         },
         {
@@ -70,7 +70,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "7:32:51",
-            "view_count": "428696",
+            "view_count": "432883",
             "thumbnail_url": "https://i.ytimg.com/vi/DfCcrRKUo8o/hqdefault.jpg"
         },
         {
@@ -79,26 +79,8 @@
             "channel_name": "HYBE LABELS",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "5487247",
+            "view_count": "5671253",
             "thumbnail_url": "https://i.ytimg.com/vi/WI4__7z_dJw/hqdefault.jpg"
-        },
-        {
-            "video_id": "Ps6Ig4mlRpo",
-            "title": "PRX vs G2 / NRG vs KC - 챔피언스 상하이 - 그룹 스테이지 - 5일차",
-            "channel_name": "발로란트 챔피언스 투어",
-            "category": "Gaming",
-            "duration": "7:38:00",
-            "view_count": "351680",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ps6Ig4mlRpo/hqdefault.jpg"
-        },
-        {
-            "video_id": "sDqaiKIFTDQ",
-            "title": "CLICHE",
-            "channel_name": "BOYNEXTDOOR - Topic",
-            "category": "Music",
-            "duration": "2:46",
-            "view_count": "182185",
-            "thumbnail_url": "https://i.ytimg.com/vi/sDqaiKIFTDQ/hqdefault.jpg"
         },
         {
             "video_id": "SMSL0x2Kzu4",
@@ -106,8 +88,26 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "25:16",
-            "view_count": "310804",
+            "view_count": "368687",
             "thumbnail_url": "https://i.ytimg.com/vi/SMSL0x2Kzu4/hqdefault.jpg"
+        },
+        {
+            "video_id": "sDqaiKIFTDQ",
+            "title": "CLICHE",
+            "channel_name": "BOYNEXTDOOR - Topic",
+            "category": "Music",
+            "duration": "2:46",
+            "view_count": "186440",
+            "thumbnail_url": "https://i.ytimg.com/vi/sDqaiKIFTDQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "Ps6Ig4mlRpo",
+            "title": "PRX vs G2 / NRG vs KC - 챔피언스 상하이 - 그룹 스테이지 - 5일차",
+            "channel_name": "발로란트 챔피언스 투어",
+            "category": "Gaming",
+            "duration": "7:38:00",
+            "view_count": "353433",
+            "thumbnail_url": "https://i.ytimg.com/vi/Ps6Ig4mlRpo/hqdefault.jpg"
         },
         {
             "video_id": "786OXxbw2aM",
@@ -115,71 +115,17 @@
             "channel_name": "AnythingBecomeMoe",
             "category": "Music",
             "duration": "2:23",
-            "view_count": "863508",
+            "view_count": "916079",
             "thumbnail_url": "https://i.ytimg.com/vi/786OXxbw2aM/hqdefault.jpg"
         },
         {
-            "video_id": "Hbo-084aB2w",
-            "title": "돈 버리는 게임 *심약자 시청 금지..*",
+            "video_id": "yHxzp0nlB20",
+            "title": "다소 의역 : 산악회 해체는 노돌리 탓 [산악회 추석 합방 1화]",
             "channel_name": "동수칸TV",
             "category": "Gaming",
-            "duration": "47:18",
-            "view_count": "467360",
-            "thumbnail_url": "https://i.ytimg.com/vi/Hbo-084aB2w/hqdefault.jpg"
-        },
-        {
-            "video_id": "4-05oQzlu70",
-            "title": "엔플라잉 (N.Flying) '아는 결말 (Our Ending)' Special Clip",
-            "channel_name": "N.Flying (엔플라잉)",
-            "category": "Entertainment",
-            "duration": "2:35",
-            "view_count": "316498",
-            "thumbnail_url": "https://i.ytimg.com/vi/4-05oQzlu70/hqdefault.jpg"
-        },
-        {
-            "video_id": "6X_xzenTyq4",
-            "title": "저그의 시대에 낭만 한 스푼 [ASL 시즌22 8강 D조 2경기]",
-            "channel_name": "도멘TV [DOTUBE]",
-            "category": "Gaming",
-            "duration": "9:01",
-            "view_count": "47981",
-            "thumbnail_url": "https://i.ytimg.com/vi/6X_xzenTyq4/hqdefault.jpg"
-        },
-        {
-            "video_id": "I3_jV2zO0l0",
-            "title": "Vaundy LIVE ＂怪獣の花唄＂| Vaundy ASIA ARENA TOUR 2026 \"HORO\" @ INSPIRE ARENA in SEOUL",
-            "channel_name": "Vaundy",
-            "category": "Music",
-            "duration": "3:49",
-            "view_count": "691340",
-            "thumbnail_url": "https://i.ytimg.com/vi/I3_jV2zO0l0/hqdefault.jpg"
-        },
-        {
-            "video_id": "UKI1B-GSbkU",
-            "title": "개가 된 이유",
-            "channel_name": "뜨뜨뜨뜨",
-            "category": "Gaming",
-            "duration": "23:12",
-            "view_count": "379207",
-            "thumbnail_url": "https://i.ytimg.com/vi/UKI1B-GSbkU/hqdefault.jpg"
-        },
-        {
-            "video_id": "fPRPmaPQ4TY",
-            "title": "With You",
-            "channel_name": "KyoungSeo - Topic",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "72607",
-            "thumbnail_url": "https://i.ytimg.com/vi/fPRPmaPQ4TY/hqdefault.jpg"
-        },
-        {
-            "video_id": "wa6N6OiikMw",
-            "title": "피파 수천만원 현질한 스쿼드로 여캠 울리는 한남 김태민",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "33:11",
-            "view_count": "434503",
-            "thumbnail_url": "https://i.ytimg.com/vi/wa6N6OiikMw/hqdefault.jpg"
+            "duration": "44:05",
+            "view_count": "315827",
+            "thumbnail_url": "https://i.ytimg.com/vi/yHxzp0nlB20/hqdefault.jpg"
         },
         {
             "video_id": "rE2gwiBwg9s",
@@ -187,17 +133,17 @@
             "channel_name": "Parc Jae Jung - Topic",
             "category": "Music",
             "duration": "5:26",
-            "view_count": "13401",
+            "view_count": "15784",
             "thumbnail_url": "https://i.ytimg.com/vi/rE2gwiBwg9s/hqdefault.jpg"
         },
         {
-            "video_id": "hQABwN9YXrs",
-            "title": "카직스 3성과 주문력 강화를 4개나 먹은 최고점의 극딜 아지르 탄생",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "6X_xzenTyq4",
+            "title": "저그의 시대에 낭만 한 스푼 [ASL 시즌22 8강 D조 2경기]",
+            "channel_name": "도멘TV [DOTUBE]",
             "category": "Gaming",
-            "duration": "21:43",
-            "view_count": "154388",
-            "thumbnail_url": "https://i.ytimg.com/vi/hQABwN9YXrs/hqdefault.jpg"
+            "duration": "9:01",
+            "view_count": "51950",
+            "thumbnail_url": "https://i.ytimg.com/vi/6X_xzenTyq4/hqdefault.jpg"
         },
         {
             "video_id": "coFwpB5y5zo",
@@ -205,8 +151,62 @@
             "channel_name": "ONEW - Topic",
             "category": "Music",
             "duration": "2:19",
-            "view_count": "28598",
+            "view_count": "33614",
             "thumbnail_url": "https://i.ytimg.com/vi/coFwpB5y5zo/hqdefault.jpg"
+        },
+        {
+            "video_id": "UKI1B-GSbkU",
+            "title": "개가 된 이유",
+            "channel_name": "뜨뜨뜨뜨",
+            "category": "Gaming",
+            "duration": "23:12",
+            "view_count": "383395",
+            "thumbnail_url": "https://i.ytimg.com/vi/UKI1B-GSbkU/hqdefault.jpg"
+        },
+        {
+            "video_id": "4-05oQzlu70",
+            "title": "엔플라잉 (N.Flying) '아는 결말 (Our Ending)' Special Clip",
+            "channel_name": "N.Flying (엔플라잉)",
+            "category": "Entertainment",
+            "duration": "2:35",
+            "view_count": "328207",
+            "thumbnail_url": "https://i.ytimg.com/vi/4-05oQzlu70/hqdefault.jpg"
+        },
+        {
+            "video_id": "hQABwN9YXrs",
+            "title": "카직스 3성과 주문력 강화를 4개나 먹은 최고점의 극딜 아지르 탄생",
+            "channel_name": "팔차선 [8LJAYWALKING]",
+            "category": "Gaming",
+            "duration": "21:43",
+            "view_count": "166776",
+            "thumbnail_url": "https://i.ytimg.com/vi/hQABwN9YXrs/hqdefault.jpg"
+        },
+        {
+            "video_id": "I3_jV2zO0l0",
+            "title": "Vaundy LIVE ＂怪獣の花唄＂| Vaundy ASIA ARENA TOUR 2026 \"HORO\" @ INSPIRE ARENA in SEOUL",
+            "channel_name": "Vaundy",
+            "category": "Music",
+            "duration": "3:49",
+            "view_count": "698032",
+            "thumbnail_url": "https://i.ytimg.com/vi/I3_jV2zO0l0/hqdefault.jpg"
+        },
+        {
+            "video_id": "wa6N6OiikMw",
+            "title": "피파 수천만원 현질한 스쿼드로 여캠 울리는 한남 김태민",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "33:11",
+            "view_count": "440071",
+            "thumbnail_url": "https://i.ytimg.com/vi/wa6N6OiikMw/hqdefault.jpg"
+        },
+        {
+            "video_id": "fPRPmaPQ4TY",
+            "title": "With You",
+            "channel_name": "KyoungSeo - Topic",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "74026",
+            "thumbnail_url": "https://i.ytimg.com/vi/fPRPmaPQ4TY/hqdefault.jpg"
         },
         {
             "video_id": "-O4bjFBkmgg",
@@ -214,7 +214,7 @@
             "channel_name": "발스타홍구",
             "category": "Gaming",
             "duration": "34:25",
-            "view_count": "318201",
+            "view_count": "326515",
             "thumbnail_url": "https://i.ytimg.com/vi/-O4bjFBkmgg/hqdefault.jpg"
         },
         {
@@ -223,44 +223,8 @@
             "channel_name": "Mrs. GREEN APPLE - Topic",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "458261",
+            "view_count": "476814",
             "thumbnail_url": "https://i.ytimg.com/vi/nKl2Xqw5t4Q/hqdefault.jpg"
-        },
-        {
-            "video_id": "psvT_F_-6QE",
-            "title": "극T 부부의 좀비 사태 끝장 토론 [아내와 마크 EP.03]",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "39:14",
-            "view_count": "362645",
-            "thumbnail_url": "https://i.ytimg.com/vi/psvT_F_-6QE/hqdefault.jpg"
-        },
-        {
-            "video_id": "1ngBRBxz3CA",
-            "title": "AI RYEON",
-            "channel_name": "S.Papa - Topic",
-            "category": "Music",
-            "duration": "3:45",
-            "view_count": "98511",
-            "thumbnail_url": "https://i.ytimg.com/vi/1ngBRBxz3CA/hqdefault.jpg"
-        },
-        {
-            "video_id": "QM3ft1Xwgpk",
-            "title": "도파민 중독자들의 보법이 다른 현질 방식..",
-            "channel_name": "게임대장봉준",
-            "category": "Gaming",
-            "duration": "30:17",
-            "view_count": "400838",
-            "thumbnail_url": "https://i.ytimg.com/vi/QM3ft1Xwgpk/hqdefault.jpg"
-        },
-        {
-            "video_id": "I2Akn5oSvLY",
-            "title": "Acts of Goodbye",
-            "channel_name": "Cha ga eul - Topic",
-            "category": "Music",
-            "duration": "4:04",
-            "view_count": "57650",
-            "thumbnail_url": "https://i.ytimg.com/vi/I2Akn5oSvLY/hqdefault.jpg"
         },
         {
             "video_id": "x8YWHt8giVY",
@@ -268,26 +232,8 @@
             "channel_name": "이렐킹 IRELKING",
             "category": "Gaming",
             "duration": "27:39",
-            "view_count": "176846",
+            "view_count": "183456",
             "thumbnail_url": "https://i.ytimg.com/vi/x8YWHt8giVY/hqdefault.jpg"
-        },
-        {
-            "video_id": "54j8NrQm3lU",
-            "title": "피노키오",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:33",
-            "view_count": "389628",
-            "thumbnail_url": "https://i.ytimg.com/vi/54j8NrQm3lU/hqdefault.jpg"
-        },
-        {
-            "video_id": "qT5lt-iQwx8",
-            "title": "260929 지렁이게임 (잔잔하게)",
-            "channel_name": "멘파",
-            "category": "Gaming",
-            "duration": "6:44:28",
-            "view_count": "532050",
-            "thumbnail_url": "https://i.ytimg.com/vi/qT5lt-iQwx8/hqdefault.jpg"
         },
         {
             "video_id": "f_gNlO0U9BU",
@@ -295,26 +241,8 @@
             "channel_name": "1theK (원더케이)",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "49875",
+            "view_count": "54614",
             "thumbnail_url": "https://i.ytimg.com/vi/f_gNlO0U9BU/hqdefault.jpg"
-        },
-        {
-            "video_id": "3SBvFiEcxTI",
-            "title": "[리니지 클래식] 서버에 단 하나뿐인 아이템을 띄웠습니다!",
-            "channel_name": "스트리머 사또 live-streamer satto",
-            "category": "Gaming",
-            "duration": "14:09",
-            "view_count": "199787",
-            "thumbnail_url": "https://i.ytimg.com/vi/3SBvFiEcxTI/hqdefault.jpg"
-        },
-        {
-            "video_id": "ETrIe1sDwh8",
-            "title": "As If We Have Returned to Our Days",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:51",
-            "view_count": "31469",
-            "thumbnail_url": "https://i.ytimg.com/vi/ETrIe1sDwh8/hqdefault.jpg"
         },
         {
             "video_id": "JjAxc4QK2MA",
@@ -322,17 +250,71 @@
             "channel_name": "강 지",
             "category": "Gaming",
             "duration": "19:52",
-            "view_count": "201578",
+            "view_count": "211844",
             "thumbnail_url": "https://i.ytimg.com/vi/JjAxc4QK2MA/hqdefault.jpg"
         },
         {
-            "video_id": "3bLurEgiD0c",
-            "title": "KickFlip(킥플립) \"미완성(Puzzle Piece)\" M/V",
-            "channel_name": "JYP Entertainment",
+            "video_id": "1ngBRBxz3CA",
+            "title": "AI RYEON",
+            "channel_name": "S.Papa - Topic",
             "category": "Music",
-            "duration": "2:58",
-            "view_count": "3443928",
-            "thumbnail_url": "https://i.ytimg.com/vi/3bLurEgiD0c/hqdefault.jpg"
+            "duration": "3:45",
+            "view_count": "101173",
+            "thumbnail_url": "https://i.ytimg.com/vi/1ngBRBxz3CA/hqdefault.jpg"
+        },
+        {
+            "video_id": "3SBvFiEcxTI",
+            "title": "[리니지 클래식] 서버에 단 하나뿐인 아이템을 띄웠습니다!",
+            "channel_name": "스트리머 사또 live-streamer satto",
+            "category": "Gaming",
+            "duration": "14:09",
+            "view_count": "207688",
+            "thumbnail_url": "https://i.ytimg.com/vi/3SBvFiEcxTI/hqdefault.jpg"
+        },
+        {
+            "video_id": "I2Akn5oSvLY",
+            "title": "Acts of Goodbye",
+            "channel_name": "Cha ga eul - Topic",
+            "category": "Music",
+            "duration": "4:04",
+            "view_count": "59249",
+            "thumbnail_url": "https://i.ytimg.com/vi/I2Akn5oSvLY/hqdefault.jpg"
+        },
+        {
+            "video_id": "psvT_F_-6QE",
+            "title": "극T 부부의 좀비 사태 끝장 토론 [아내와 마크 EP.03]",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "39:14",
+            "view_count": "366464",
+            "thumbnail_url": "https://i.ytimg.com/vi/psvT_F_-6QE/hqdefault.jpg"
+        },
+        {
+            "video_id": "54j8NrQm3lU",
+            "title": "피노키오",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:33",
+            "view_count": "391542",
+            "thumbnail_url": "https://i.ytimg.com/vi/54j8NrQm3lU/hqdefault.jpg"
+        },
+        {
+            "video_id": "QM3ft1Xwgpk",
+            "title": "도파민 중독자들의 보법이 다른 현질 방식..",
+            "channel_name": "게임대장봉준",
+            "category": "Gaming",
+            "duration": "30:17",
+            "view_count": "403509",
+            "thumbnail_url": "https://i.ytimg.com/vi/QM3ft1Xwgpk/hqdefault.jpg"
+        },
+        {
+            "video_id": "ETrIe1sDwh8",
+            "title": "As If We Have Returned to Our Days",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:51",
+            "view_count": "32620",
+            "thumbnail_url": "https://i.ytimg.com/vi/ETrIe1sDwh8/hqdefault.jpg"
         },
         {
             "video_id": "IkTKTj6wyWo",
@@ -340,35 +322,17 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "38:10",
-            "view_count": "167920",
+            "view_count": "173773",
             "thumbnail_url": "https://i.ytimg.com/vi/IkTKTj6wyWo/hqdefault.jpg"
         },
         {
-            "video_id": "66fEe9CBmtQ",
-            "title": "Destination",
-            "channel_name": "JUNE - Topic",
+            "video_id": "lO3lG-qXU14",
+            "title": "이승환 + 정준일  '어떻게 사랑이 그래요'",
+            "channel_name": "이승환 LEE SEUNG HWAN",
             "category": "Music",
-            "duration": "3:07",
-            "view_count": "138444",
-            "thumbnail_url": "https://i.ytimg.com/vi/66fEe9CBmtQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "baKToesC2XM",
-            "title": "곽튜브 본캐 폭풍현질 갑니다 드디어 떴다!!!!!",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "15:11",
-            "view_count": "223908",
-            "thumbnail_url": "https://i.ytimg.com/vi/baKToesC2XM/hqdefault.jpg"
-        },
-        {
-            "video_id": "S_qgYRNP2Kk",
-            "title": "RAIN",
-            "channel_name": "SOOSOJIN - Topic",
-            "category": "Music",
-            "duration": "2:55",
-            "view_count": "355784",
-            "thumbnail_url": "https://i.ytimg.com/vi/S_qgYRNP2Kk/hqdefault.jpg"
+            "duration": "6:35",
+            "view_count": "98704",
+            "thumbnail_url": "https://i.ytimg.com/vi/lO3lG-qXU14/hqdefault.jpg"
         },
         {
             "video_id": "zcQi3bFdTJk",
@@ -376,8 +340,44 @@
             "channel_name": "김된모",
             "category": "Gaming",
             "duration": "22:15",
-            "view_count": "155418",
+            "view_count": "162169",
             "thumbnail_url": "https://i.ytimg.com/vi/zcQi3bFdTJk/hqdefault.jpg"
+        },
+        {
+            "video_id": "3bLurEgiD0c",
+            "title": "KickFlip(킥플립) \"미완성(Puzzle Piece)\" M/V",
+            "channel_name": "JYP Entertainment",
+            "category": "Music",
+            "duration": "2:58",
+            "view_count": "3519969",
+            "thumbnail_url": "https://i.ytimg.com/vi/3bLurEgiD0c/hqdefault.jpg"
+        },
+        {
+            "video_id": "baKToesC2XM",
+            "title": "곽튜브 본캐 폭풍현질 갑니다 드디어 떴다!!!!!",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "15:11",
+            "view_count": "228599",
+            "thumbnail_url": "https://i.ytimg.com/vi/baKToesC2XM/hqdefault.jpg"
+        },
+        {
+            "video_id": "66fEe9CBmtQ",
+            "title": "Destination",
+            "channel_name": "JUNE - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "140325",
+            "thumbnail_url": "https://i.ytimg.com/vi/66fEe9CBmtQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "qT5lt-iQwx8",
+            "title": "260929 지렁이게임 (잔잔하게)",
+            "channel_name": "멘파",
+            "category": "Gaming",
+            "duration": "6:44:28",
+            "view_count": "568915",
+            "thumbnail_url": "https://i.ytimg.com/vi/qT5lt-iQwx8/hqdefault.jpg"
         }
     ]
 }
