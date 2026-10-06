@@ -1,41 +1,59 @@
 {
-    "scraped_time": "2026-10-06 03:05:25",
+    "scraped_time": "2026-10-06 09:39:11",
     "videos": [
+        {
+            "video_id": "iUNLe0iD9P8",
+            "title": "ICONIC HEART (Korean Version)",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "80255",
+            "thumbnail_url": "https://i.ytimg.com/vi/iUNLe0iD9P8/hqdefault.jpg"
+        },
+        {
+            "video_id": "W2zvgtCTDdU",
+            "title": "예고편 4천만 뷰 터진 일본판 우영우, 전세계가 발칵 뒤집어진 이유",
+            "channel_name": "이상하TV",
+            "category": "People & Blogs",
+            "duration": "22:09",
+            "view_count": "29302",
+            "thumbnail_url": "https://i.ytimg.com/vi/W2zvgtCTDdU/hqdefault.jpg"
+        },
+        {
+            "video_id": "ICETZPwgu-Q",
+            "title": "더욱 풍성하게 돌아온 그 ㅅㄲ들의 하드코어 좀보이드 [좀비원정대 리벤지 1화]",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "1:04:17",
+            "view_count": "477781",
+            "thumbnail_url": "https://i.ytimg.com/vi/ICETZPwgu-Q/hqdefault.jpg"
+        },
         {
             "video_id": "C8j3hMJIeFg",
             "title": "Call Me",
             "channel_name": "CHANGMO - Topic",
             "category": "Music",
             "duration": "2:56",
-            "view_count": "483480",
+            "view_count": "495050",
             "thumbnail_url": "https://i.ytimg.com/vi/C8j3hMJIeFg/hqdefault.jpg"
         },
         {
-            "video_id": "_prDFd4mgVk",
-            "title": "사람 미치게 하는 노인",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "22:32",
-            "view_count": "602003",
-            "thumbnail_url": "https://i.ytimg.com/vi/_prDFd4mgVk/hqdefault.jpg"
+            "video_id": "gR0BUG7lxeA",
+            "title": "[킬러랭킹 살모사편] 나의 자존심 예고편",
+            "channel_name": "고순호",
+            "category": "Film & Animation",
+            "duration": "0:34",
+            "view_count": "38072",
+            "thumbnail_url": "https://i.ytimg.com/vi/gR0BUG7lxeA/hqdefault.jpg"
         },
         {
-            "video_id": "VDxg_Shr_4U",
-            "title": "Dime Girl",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "2:28",
-            "view_count": "193583",
-            "thumbnail_url": "https://i.ytimg.com/vi/VDxg_Shr_4U/hqdefault.jpg"
-        },
-        {
-            "video_id": "pywxif8NAUo",
-            "title": "\"현 클리드는 LCK에서 먹힐까?\" 실제 프로들과 멸망전 했습니다 ㄷㄷ",
-            "channel_name": "클리드",
+            "video_id": "o9XDkwN5D6s",
+            "title": "이번 크로스 메타 최대 실수 '공격수 반다이크' 발견..",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "58:03",
-            "view_count": "404344",
-            "thumbnail_url": "https://i.ytimg.com/vi/pywxif8NAUo/hqdefault.jpg"
+            "duration": "24:54",
+            "view_count": "422104",
+            "thumbnail_url": "https://i.ytimg.com/vi/o9XDkwN5D6s/hqdefault.jpg"
         },
         {
             "video_id": "3UqfwnJlAKc",
@@ -43,26 +61,8 @@
             "channel_name": "Mili - Topic",
             "category": "Music",
             "duration": "3:29",
-            "view_count": "167953",
+            "view_count": "209268",
             "thumbnail_url": "https://i.ytimg.com/vi/3UqfwnJlAKc/hqdefault.jpg"
-        },
-        {
-            "video_id": "yyAGypUiai0",
-            "title": "'1억 쓰고 받은 넥슨의 선물' 현 메타 레알 최고 공격수 벤제마",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "18:12",
-            "view_count": "579361",
-            "thumbnail_url": "https://i.ytimg.com/vi/yyAGypUiai0/hqdefault.jpg"
-        },
-        {
-            "video_id": "Vu0sdxb3A8I",
-            "title": "Period",
-            "channel_name": "Woody - Topic",
-            "category": "Music",
-            "duration": "3:20",
-            "view_count": "305852",
-            "thumbnail_url": "https://i.ytimg.com/vi/Vu0sdxb3A8I/hqdefault.jpg"
         },
         {
             "video_id": "dkv5RdBPD14",
@@ -70,224 +70,8 @@
             "channel_name": "이도원",
             "category": "Gaming",
             "duration": "28:35",
-            "view_count": "299841",
+            "view_count": "351197",
             "thumbnail_url": "https://i.ytimg.com/vi/dkv5RdBPD14/hqdefault.jpg"
-        },
-        {
-            "video_id": "7AkqZ5snmDQ",
-            "title": "크게 울어라 미리 불러 봄",
-            "channel_name": "로이킴 Roy Kim",
-            "category": "Music",
-            "duration": "4:03",
-            "view_count": "204338",
-            "thumbnail_url": "https://i.ytimg.com/vi/7AkqZ5snmDQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "fxU6GwD7c2A",
-            "title": "진짜 버그급 속가 26토츠 음바페ㅋㅋㅋㅋㅋ 진짜 음바페 영입했습니다",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "26:32",
-            "view_count": "296864",
-            "thumbnail_url": "https://i.ytimg.com/vi/fxU6GwD7c2A/hqdefault.jpg"
-        },
-        {
-            "video_id": "GeMgnJU2rnU",
-            "title": "Only You",
-            "channel_name": "Jin Hyuk - Topic",
-            "category": "Music",
-            "duration": "3:43",
-            "view_count": "791721",
-            "thumbnail_url": "https://i.ytimg.com/vi/GeMgnJU2rnU/hqdefault.jpg"
-        },
-        {
-            "video_id": "f7o66ATk2Do",
-            "title": "플루토와 플루토가 싸우면 어떤 종족이 최강일까?",
-            "channel_name": "[ALTUBE] 김성현TV",
-            "category": "Gaming",
-            "duration": "53:40",
-            "view_count": "649554",
-            "thumbnail_url": "https://i.ytimg.com/vi/f7o66ATk2Do/hqdefault.jpg"
-        },
-        {
-            "video_id": "-wGXnDzPovw",
-            "title": "임영웅 [Baila] Live Clip. @2026 IMHERO 10 : THE STADIUM CONCERT 2",
-            "channel_name": "임영웅",
-            "category": "Music",
-            "duration": "3:11",
-            "view_count": "678513",
-            "thumbnail_url": "https://i.ytimg.com/vi/-wGXnDzPovw/hqdefault.jpg"
-        },
-        {
-            "video_id": "bBG_PHWcoIs",
-            "title": "장난전화 마피아 게임 [산악회 추석 합방 2화]",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "45:05",
-            "view_count": "355868",
-            "thumbnail_url": "https://i.ytimg.com/vi/bBG_PHWcoIs/hqdefault.jpg"
-        },
-        {
-            "video_id": "aKSWEs6FDdo",
-            "title": "Best Day of My Week",
-            "channel_name": "D2ear - Topic",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "82294",
-            "thumbnail_url": "https://i.ytimg.com/vi/aKSWEs6FDdo/hqdefault.jpg"
-        },
-        {
-            "video_id": "jn4Zp-GmTVI",
-            "title": "잔디 겁나게 베서 돈 버는 맵 ㅋㅋㅋㅋㅋㅋ(마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "17:01",
-            "view_count": "332780",
-            "thumbnail_url": "https://i.ytimg.com/vi/jn4Zp-GmTVI/hqdefault.jpg"
-        },
-        {
-            "video_id": "iUNLe0iD9P8",
-            "title": "ICONIC HEART (Korean Version)",
-            "channel_name": "Hearts2Hearts - Topic",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "62701",
-            "thumbnail_url": "https://i.ytimg.com/vi/iUNLe0iD9P8/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZEIZtsaMmEg",
-            "title": "이제부터 진짜 검소하게 살겠습니다!! [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "9:04",
-            "view_count": "409909",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZEIZtsaMmEg/hqdefault.jpg"
-        },
-        {
-            "video_id": "XI_CnaZeGJg",
-            "title": "Look for You",
-            "channel_name": "JJEONG24 - Topic",
-            "category": "Music",
-            "duration": "2:57",
-            "view_count": "58470",
-            "thumbnail_url": "https://i.ytimg.com/vi/XI_CnaZeGJg/hqdefault.jpg"
-        },
-        {
-            "video_id": "MNNEXAXaYas",
-            "title": "실력파 마크 유튜버 증명하겠습니다",
-            "channel_name": "말왕TV",
-            "category": "Gaming",
-            "duration": "37:51",
-            "view_count": "374394",
-            "thumbnail_url": "https://i.ytimg.com/vi/MNNEXAXaYas/hqdefault.jpg"
-        },
-        {
-            "video_id": "5L8HtOh-RMw",
-            "title": "Come Back To Me",
-            "channel_name": "Russ - Topic",
-            "category": "Music",
-            "duration": "3:07",
-            "view_count": "751389",
-            "thumbnail_url": "https://i.ytimg.com/vi/5L8HtOh-RMw/hqdefault.jpg"
-        },
-        {
-            "video_id": "FivoywcI6ok",
-            "title": "그냥 야구공 줍는 게임 (※30분 순삭)",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "21:27",
-            "view_count": "538046",
-            "thumbnail_url": "https://i.ytimg.com/vi/FivoywcI6ok/hqdefault.jpg"
-        },
-        {
-            "video_id": "HdjrIrRDhic",
-            "title": "musubi",
-            "channel_name": "Ayumu Imazu - Topic",
-            "category": "Music",
-            "duration": "3:27",
-            "view_count": "747394",
-            "thumbnail_url": "https://i.ytimg.com/vi/HdjrIrRDhic/hqdefault.jpg"
-        },
-        {
-            "video_id": "ly7Sq2qo3Kg",
-            "title": "무과금 뉴비의 첫 디바인",
-            "channel_name": "단포",
-            "category": "Gaming",
-            "duration": "14:32",
-            "view_count": "113893",
-            "thumbnail_url": "https://i.ytimg.com/vi/ly7Sq2qo3Kg/hqdefault.jpg"
-        },
-        {
-            "video_id": "2rhLKnWCo6Y",
-            "title": "AIYOU - Eve Music Video",
-            "channel_name": "Eve",
-            "category": "Music",
-            "duration": "2:45",
-            "view_count": "1814313",
-            "thumbnail_url": "https://i.ytimg.com/vi/2rhLKnWCo6Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "XwvYuUO7jQ0",
-            "title": "키즈존에서 살아남기",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "23:32",
-            "view_count": "528140",
-            "thumbnail_url": "https://i.ytimg.com/vi/XwvYuUO7jQ0/hqdefault.jpg"
-        },
-        {
-            "video_id": "16RfOon7X5U",
-            "title": "[MV] YENA(최예나) _ Dime Girl(보기 드문 여자) (Feat. NOWIMYOUNG (나우아임영))",
-            "channel_name": "1theK (원더케이)",
-            "category": "Music",
-            "duration": "2:30",
-            "view_count": "190636",
-            "thumbnail_url": "https://i.ytimg.com/vi/16RfOon7X5U/hqdefault.jpg"
-        },
-        {
-            "video_id": "d0qG4GztbHQ",
-            "title": "LOUD vs GE / FUT vs T1 - 챔피언스 상하이 - 그룹 스테이지 - 10일차",
-            "channel_name": "발로란트 챔피언스 투어",
-            "category": "Gaming",
-            "duration": "5:36:54",
-            "view_count": "382006",
-            "thumbnail_url": "https://i.ytimg.com/vi/d0qG4GztbHQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "MtF-L4uG9IU",
-            "title": "POKER FACE",
-            "channel_name": "Kid Milli - Topic",
-            "category": "Music",
-            "duration": "2:50",
-            "view_count": "9161",
-            "thumbnail_url": "https://i.ytimg.com/vi/MtF-L4uG9IU/hqdefault.jpg"
-        },
-        {
-            "video_id": "ZFb6eOrqpBk",
-            "title": "355억 배메템 판매완! 본캐 만렙 갑니다",
-            "channel_name": "레고77",
-            "category": "Gaming",
-            "duration": "13:36",
-            "view_count": "225803",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZFb6eOrqpBk/hqdefault.jpg"
-        },
-        {
-            "video_id": "-JInUb_G6Jc",
-            "title": "CRASH",
-            "channel_name": "ALLDAY PROJECT - Topic",
-            "category": "Music",
-            "duration": "2:53",
-            "view_count": "1659783",
-            "thumbnail_url": "https://i.ytimg.com/vi/-JInUb_G6Jc/hqdefault.jpg"
-        },
-        {
-            "video_id": "zVea6mWpE28",
-            "title": "최초로 먹었던 신규 디바인에 모든 특성을 다 붙였더니 큰일났습니다 ㅋㅋㅋㅋ (로블록스 계란을 훔치다)",
-            "channel_name": "밍",
-            "category": "Gaming",
-            "duration": "14:13",
-            "view_count": "131096",
-            "thumbnail_url": "https://i.ytimg.com/vi/zVea6mWpE28/hqdefault.jpg"
         },
         {
             "video_id": "IfRNyaUgEC8",
@@ -295,17 +79,269 @@
             "channel_name": "Kim Gyeol - Topic",
             "category": "Music",
             "duration": "3:01",
-            "view_count": "253863",
+            "view_count": "258033",
             "thumbnail_url": "https://i.ytimg.com/vi/IfRNyaUgEC8/hqdefault.jpg"
         },
         {
-            "video_id": "tOekKAKYJ90",
-            "title": "8년 동안 했던 그래니중 제일 무서워요...",
-            "channel_name": "김왼팔",
+            "video_id": "0yPW7OnpYa0",
+            "title": "[ 불도그 LIVE 생방송 10/5 ] 리니지m 기란,하이네 월드 적연합(15개) 탄생! 재밌게놀아봅시다!! (신화변신 1트실패중)",
+            "channel_name": "불도그",
             "category": "Gaming",
-            "duration": "29:18",
-            "view_count": "227053",
-            "thumbnail_url": "https://i.ytimg.com/vi/tOekKAKYJ90/hqdefault.jpg"
+            "duration": "10:23:38",
+            "view_count": "361139",
+            "thumbnail_url": "https://i.ytimg.com/vi/0yPW7OnpYa0/hqdefault.jpg"
+        },
+        {
+            "video_id": "VDxg_Shr_4U",
+            "title": "Dime Girl",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "2:28",
+            "view_count": "199047",
+            "thumbnail_url": "https://i.ytimg.com/vi/VDxg_Shr_4U/hqdefault.jpg"
+        },
+        {
+            "video_id": "_prDFd4mgVk",
+            "title": "사람 미치게 하는 노인",
+            "channel_name": "괴물쥐 유튜브",
+            "category": "Gaming",
+            "duration": "22:32",
+            "view_count": "631160",
+            "thumbnail_url": "https://i.ytimg.com/vi/_prDFd4mgVk/hqdefault.jpg"
+        },
+        {
+            "video_id": "7AkqZ5snmDQ",
+            "title": "크게 울어라 미리 불러 봄",
+            "channel_name": "로이킴 Roy Kim",
+            "category": "Music",
+            "duration": "4:03",
+            "view_count": "210279",
+            "thumbnail_url": "https://i.ytimg.com/vi/7AkqZ5snmDQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "9kUvDvuJX-0",
+            "title": "아니; 어디까지 커짐??? ≪움직이는 성 키우기≫ 갈수록 스케일 미쳤습니다ㄷㄷ",
+            "channel_name": "혜안",
+            "category": "Gaming",
+            "duration": "39:30",
+            "view_count": "574439",
+            "thumbnail_url": "https://i.ytimg.com/vi/9kUvDvuJX-0/hqdefault.jpg"
+        },
+        {
+            "video_id": "Vu0sdxb3A8I",
+            "title": "Period",
+            "channel_name": "Woody - Topic",
+            "category": "Music",
+            "duration": "3:20",
+            "view_count": "312024",
+            "thumbnail_url": "https://i.ytimg.com/vi/Vu0sdxb3A8I/hqdefault.jpg"
+        },
+        {
+            "video_id": "0Fb0UKiLxmE",
+            "title": "티모 선픽? 내 성격 까먹었나보네",
+            "channel_name": "뜨뜨뜨뜨",
+            "category": "Gaming",
+            "duration": "15:14",
+            "view_count": "244560",
+            "thumbnail_url": "https://i.ytimg.com/vi/0Fb0UKiLxmE/hqdefault.jpg"
+        },
+        {
+            "video_id": "GeMgnJU2rnU",
+            "title": "Only You",
+            "channel_name": "Jin Hyuk - Topic",
+            "category": "Music",
+            "duration": "3:43",
+            "view_count": "793663",
+            "thumbnail_url": "https://i.ytimg.com/vi/GeMgnJU2rnU/hqdefault.jpg"
+        },
+        {
+            "video_id": "0E0qU_KeA24",
+            "title": "스타 유료 강의 만드는 중이라면서 대놓고 알파고를 교보재 취급하는 상대 만남;;",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "31:46",
+            "view_count": "262868",
+            "thumbnail_url": "https://i.ytimg.com/vi/0E0qU_KeA24/hqdefault.jpg"
+        },
+        {
+            "video_id": "-wGXnDzPovw",
+            "title": "임영웅 [Baila] Live Clip. @2026 IMHERO 10 : THE STADIUM CONCERT 2",
+            "channel_name": "임영웅",
+            "category": "Music",
+            "duration": "3:11",
+            "view_count": "689278",
+            "thumbnail_url": "https://i.ytimg.com/vi/-wGXnDzPovw/hqdefault.jpg"
+        },
+        {
+            "video_id": "pywxif8NAUo",
+            "title": "\"현 클리드는 LCK에서 먹힐까?\" 실제 프로들과 멸망전 했습니다 ㄷㄷ",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "58:03",
+            "view_count": "416993",
+            "thumbnail_url": "https://i.ytimg.com/vi/pywxif8NAUo/hqdefault.jpg"
+        },
+        {
+            "video_id": "XI_CnaZeGJg",
+            "title": "Look for You",
+            "channel_name": "JJEONG24 - Topic",
+            "category": "Music",
+            "duration": "2:57",
+            "view_count": "63446",
+            "thumbnail_url": "https://i.ytimg.com/vi/XI_CnaZeGJg/hqdefault.jpg"
+        },
+        {
+            "video_id": "fxU6GwD7c2A",
+            "title": "진짜 버그급 속가 26토츠 음바페ㅋㅋㅋㅋㅋ 진짜 음바페 영입했습니다",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "26:32",
+            "view_count": "304646",
+            "thumbnail_url": "https://i.ytimg.com/vi/fxU6GwD7c2A/hqdefault.jpg"
+        },
+        {
+            "video_id": "aKSWEs6FDdo",
+            "title": "Best Day of My Week",
+            "channel_name": "D2ear - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "85523",
+            "thumbnail_url": "https://i.ytimg.com/vi/aKSWEs6FDdo/hqdefault.jpg"
+        },
+        {
+            "video_id": "2U9SWvIgi10",
+            "title": "여자 사람 친구가 수상하게 많은 97년생 김블루씨 (아니라고!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)",
+            "channel_name": "김블루",
+            "category": "Gaming",
+            "duration": "15:21",
+            "view_count": "388374",
+            "thumbnail_url": "https://i.ytimg.com/vi/2U9SWvIgi10/hqdefault.jpg"
+        },
+        {
+            "video_id": "MtF-L4uG9IU",
+            "title": "POKER FACE",
+            "channel_name": "Kid Milli - Topic",
+            "category": "Music",
+            "duration": "2:50",
+            "view_count": "11779",
+            "thumbnail_url": "https://i.ytimg.com/vi/MtF-L4uG9IU/hqdefault.jpg"
+        },
+        {
+            "video_id": "JnwZsCMNrmo",
+            "title": "이런 딜은 처음봤습니다. 패시브 버프로 스태틱 번개 딸깍에 전부 원콤내는 \"스태틱 극딜 볼베 전략\" 🐻‍❄️⚡",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "21:12",
+            "view_count": "200825",
+            "thumbnail_url": "https://i.ytimg.com/vi/JnwZsCMNrmo/hqdefault.jpg"
+        },
+        {
+            "video_id": "5L8HtOh-RMw",
+            "title": "Come Back To Me",
+            "channel_name": "Russ - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "824186",
+            "thumbnail_url": "https://i.ytimg.com/vi/5L8HtOh-RMw/hqdefault.jpg"
+        },
+        {
+            "video_id": "jn4Zp-GmTVI",
+            "title": "잔디 겁나게 베서 돈 버는 맵 ㅋㅋㅋㅋㅋㅋ(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "17:01",
+            "view_count": "345546",
+            "thumbnail_url": "https://i.ytimg.com/vi/jn4Zp-GmTVI/hqdefault.jpg"
+        },
+        {
+            "video_id": "HdjrIrRDhic",
+            "title": "musubi",
+            "channel_name": "Ayumu Imazu - Topic",
+            "category": "Music",
+            "duration": "3:27",
+            "view_count": "779750",
+            "thumbnail_url": "https://i.ytimg.com/vi/HdjrIrRDhic/hqdefault.jpg"
+        },
+        {
+            "video_id": "iPlMNaH5bCI",
+            "title": "ASL 상공에 미그기 띄운 북재호!? [ASL 시즌22 4강 A조 2경기]",
+            "channel_name": "도멘TV [DOTUBE]",
+            "category": "Gaming",
+            "duration": "9:01",
+            "view_count": "42930",
+            "thumbnail_url": "https://i.ytimg.com/vi/iPlMNaH5bCI/hqdefault.jpg"
+        },
+        {
+            "video_id": "2rhLKnWCo6Y",
+            "title": "AIYOU - Eve Music Video",
+            "channel_name": "Eve",
+            "category": "Music",
+            "duration": "2:45",
+            "view_count": "1893414",
+            "thumbnail_url": "https://i.ytimg.com/vi/2rhLKnWCo6Y/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZEIZtsaMmEg",
+            "title": "이제부터 진짜 검소하게 살겠습니다!! [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "9:04",
+            "view_count": "416683",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZEIZtsaMmEg/hqdefault.jpg"
+        },
+        {
+            "video_id": "16RfOon7X5U",
+            "title": "[MV] YENA(최예나) _ Dime Girl(보기 드문 여자) (Feat. NOWIMYOUNG (나우아임영))",
+            "channel_name": "1theK (원더케이)",
+            "category": "Music",
+            "duration": "2:30",
+            "view_count": "195667",
+            "thumbnail_url": "https://i.ytimg.com/vi/16RfOon7X5U/hqdefault.jpg"
+        },
+        {
+            "video_id": "MNNEXAXaYas",
+            "title": "실력파 마크 유튜버 증명하겠습니다",
+            "channel_name": "말왕TV",
+            "category": "Gaming",
+            "duration": "37:51",
+            "view_count": "384342",
+            "thumbnail_url": "https://i.ytimg.com/vi/MNNEXAXaYas/hqdefault.jpg"
+        },
+        {
+            "video_id": "-JInUb_G6Jc",
+            "title": "CRASH",
+            "channel_name": "ALLDAY PROJECT - Topic",
+            "category": "Music",
+            "duration": "2:53",
+            "view_count": "1685248",
+            "thumbnail_url": "https://i.ytimg.com/vi/-JInUb_G6Jc/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZFb6eOrqpBk",
+            "title": "355억 배메템 판매완! 본캐 만렙 갑니다",
+            "channel_name": "레고77",
+            "category": "Gaming",
+            "duration": "13:36",
+            "view_count": "240612",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZFb6eOrqpBk/hqdefault.jpg"
+        },
+        {
+            "video_id": "MEYFXA2Uyyo",
+            "title": "그래서 나는 언제 행복했지?",
+            "channel_name": "E:um - Topic",
+            "category": "Music",
+            "duration": "3:34",
+            "view_count": "7210",
+            "thumbnail_url": "https://i.ytimg.com/vi/MEYFXA2Uyyo/hqdefault.jpg"
+        },
+        {
+            "video_id": "ly7Sq2qo3Kg",
+            "title": "무과금 뉴비의 첫 디바인",
+            "channel_name": "단포",
+            "category": "Gaming",
+            "duration": "14:32",
+            "view_count": "117322",
+            "thumbnail_url": "https://i.ytimg.com/vi/ly7Sq2qo3Kg/hqdefault.jpg"
         },
         {
             "video_id": "apZeMNBM5Gw",
@@ -313,71 +349,35 @@
             "channel_name": "FTISLAND - Topic",
             "category": "Music",
             "duration": "3:51",
-            "view_count": "271521",
+            "view_count": "278876",
             "thumbnail_url": "https://i.ytimg.com/vi/apZeMNBM5Gw/hqdefault.jpg"
         },
         {
-            "video_id": "LRTjHPAtvYY",
-            "title": "3성 8개 햇빛은 졸업하고 르블랑 실험실까지 열어버린 팔협지,,",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "RKZZ_rfAR6Y",
+            "title": "04년생 방송 15일차 챌 1900점 생배 에메랄드구간 학살중",
+            "channel_name": "정민경",
             "category": "Gaming",
-            "duration": "18:20",
-            "view_count": "221291",
-            "thumbnail_url": "https://i.ytimg.com/vi/LRTjHPAtvYY/hqdefault.jpg"
+            "duration": "11:42:41",
+            "view_count": "468737",
+            "thumbnail_url": "https://i.ytimg.com/vi/RKZZ_rfAR6Y/hqdefault.jpg"
         },
         {
-            "video_id": "rE2gwiBwg9s",
-            "title": "Epilogue",
-            "channel_name": "Parc Jae Jung - Topic",
-            "category": "Music",
-            "duration": "5:26",
-            "view_count": "473312",
-            "thumbnail_url": "https://i.ytimg.com/vi/rE2gwiBwg9s/hqdefault.jpg"
-        },
-        {
-            "video_id": "tvPOJS2rJew",
-            "title": "교정국 해체 위기 [봉누도2 8화]",
-            "channel_name": "채현찌",
+            "video_id": "UdxLWZ-7Fkk",
+            "title": "26.10.05(월) 【 인피쉰 생방송 다시보기 】 스타 빨무 스타크래프트 Starcraft",
+            "channel_name": "인피쉰",
             "category": "Gaming",
-            "duration": "15:52",
-            "view_count": "159028",
-            "thumbnail_url": "https://i.ytimg.com/vi/tvPOJS2rJew/hqdefault.jpg"
+            "duration": "4:43:58",
+            "view_count": "158079",
+            "thumbnail_url": "https://i.ytimg.com/vi/UdxLWZ-7Fkk/hqdefault.jpg"
         },
         {
-            "video_id": "xeITqiXr5YA",
-            "title": "Orange Clockwork",
-            "channel_name": "UmYull - Topic",
-            "category": "Music",
-            "duration": "4:28",
-            "view_count": "88558",
-            "thumbnail_url": "https://i.ytimg.com/vi/xeITqiXr5YA/hqdefault.jpg"
-        },
-        {
-            "video_id": "qA4Pg1f-Bwc",
-            "title": "10/4녹) 리니지클래식 사또 안타라스 첫공성전 갑니다 3성목표",
-            "channel_name": "스트리머 사또 live-streamer satto",
-            "category": "Entertainment",
-            "duration": "3:44:43",
-            "view_count": "184129",
-            "thumbnail_url": "https://i.ytimg.com/vi/qA4Pg1f-Bwc/hqdefault.jpg"
-        },
-        {
-            "video_id": "lQ-w9M447w0",
-            "title": "ALLDAY PROJECT - ‘CRASH’ M/V",
-            "channel_name": "THEBLACKLABEL",
-            "category": "Music",
-            "duration": "3:05",
-            "view_count": "13038759",
-            "thumbnail_url": "https://i.ytimg.com/vi/lQ-w9M447w0/hqdefault.jpg"
-        },
-        {
-            "video_id": "5-7K94-cD3o",
-            "title": "머더에서 가장 작은 스킨을썼더니? ㅋㅋ 근데 나보다 더한것이 나오네? (로블록스 머더미스테리2)",
-            "channel_name": "집사TV",
+            "video_id": "XwvYuUO7jQ0",
+            "title": "키즈존에서 살아남기",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "18:31",
-            "view_count": "94453",
-            "thumbnail_url": "https://i.ytimg.com/vi/5-7K94-cD3o/hqdefault.jpg"
+            "duration": "23:32",
+            "view_count": "538839",
+            "thumbnail_url": "https://i.ytimg.com/vi/XwvYuUO7jQ0/hqdefault.jpg"
         }
     ]
 }
