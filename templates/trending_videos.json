@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-10-08 16:05:28",
+    "scraped_time": "2026-10-09 00:20:32",
     "videos": [
         {
             "video_id": "R4kmk4CDVHM",
@@ -7,8 +7,17 @@
             "channel_name": "Roy Kim - Topic",
             "category": "Music",
             "duration": "3:57",
-            "view_count": "347240",
+            "view_count": "429518",
             "thumbnail_url": "https://i.ytimg.com/vi/R4kmk4CDVHM/hqdefault.jpg"
+        },
+        {
+            "video_id": "uhiQFGuniyo",
+            "title": "와.. 뒤지게 재밌겠다.. ≪비전퀘스트≫ 메인 예고편 리뷰 & 떡밥 총정리",
+            "channel_name": "무비띵크_Movie Think",
+            "category": "Film & Animation",
+            "duration": "14:22",
+            "view_count": "282498",
+            "thumbnail_url": "https://i.ytimg.com/vi/uhiQFGuniyo/hqdefault.jpg"
         },
         {
             "video_id": "Orh_Ab7OGNk",
@@ -16,7 +25,7 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "34:28",
-            "view_count": "438369",
+            "view_count": "517567",
             "thumbnail_url": "https://i.ytimg.com/vi/Orh_Ab7OGNk/hqdefault.jpg"
         },
         {
@@ -25,7 +34,7 @@
             "channel_name": "KIM JAE HWAN - Topic",
             "category": "Music",
             "duration": "3:52",
-            "view_count": "48829",
+            "view_count": "66741",
             "thumbnail_url": "https://i.ytimg.com/vi/gOcj3W_KKlI/hqdefault.jpg"
         },
         {
@@ -34,35 +43,17 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "27:30",
-            "view_count": "468645",
+            "view_count": "525800",
             "thumbnail_url": "https://i.ytimg.com/vi/tx3tyTI3NW0/hqdefault.jpg"
         },
         {
-            "video_id": "ZnPMTLKEh9g",
-            "title": "나를 건 미래에 우린",
+            "video_id": "RHc2-jncx4w",
+            "title": "눈부신 계절을 달려",
             "channel_name": "Boramiyu - Topic",
             "category": "Music",
-            "duration": "2:56",
-            "view_count": "113438",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZnPMTLKEh9g/hqdefault.jpg"
-        },
-        {
-            "video_id": "hZ3Zfla4JrQ",
-            "title": "똘끼 리니지클래식 돌아왔구나  인형! 예전별명이 인형공장장이였습니다",
-            "channel_name": "똘끼100%",
-            "category": "Gaming",
-            "duration": "4:16:08",
-            "view_count": "427500",
-            "thumbnail_url": "https://i.ytimg.com/vi/hZ3Zfla4JrQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "3nt47m2hpgo",
-            "title": "지는 날",
-            "channel_name": "HYUKOH - Topic",
-            "category": "Music",
-            "duration": "6:21",
-            "view_count": "36286",
-            "thumbnail_url": "https://i.ytimg.com/vi/3nt47m2hpgo/hqdefault.jpg"
+            "duration": "3:20",
+            "view_count": "83157",
+            "thumbnail_url": "https://i.ytimg.com/vi/RHc2-jncx4w/hqdefault.jpg"
         },
         {
             "video_id": "g44ssBXNz2M",
@@ -70,8 +61,26 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "38:21",
-            "view_count": "310739",
+            "view_count": "381282",
             "thumbnail_url": "https://i.ytimg.com/vi/g44ssBXNz2M/hqdefault.jpg"
+        },
+        {
+            "video_id": "3nt47m2hpgo",
+            "title": "지는 날",
+            "channel_name": "HYUKOH - Topic",
+            "category": "Music",
+            "duration": "6:21",
+            "view_count": "50919",
+            "thumbnail_url": "https://i.ytimg.com/vi/3nt47m2hpgo/hqdefault.jpg"
+        },
+        {
+            "video_id": "bq38PVplP4A",
+            "title": "좀비보다 지독한 ㅈ간 듀오 [좀비원정대 2화]",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "1:02:55",
+            "view_count": "343180",
+            "thumbnail_url": "https://i.ytimg.com/vi/bq38PVplP4A/hqdefault.jpg"
         },
         {
             "video_id": "tNRpc6Ffyfo",
@@ -79,7 +88,7 @@
             "channel_name": "ONEW - Topic",
             "category": "Music",
             "duration": "2:37",
-            "view_count": "59918",
+            "view_count": "78819",
             "thumbnail_url": "https://i.ytimg.com/vi/tNRpc6Ffyfo/hqdefault.jpg"
         },
         {
@@ -88,7 +97,7 @@
             "channel_name": "침착맨 플러스",
             "category": "Gaming",
             "duration": "53:06",
-            "view_count": "353532",
+            "view_count": "456429",
             "thumbnail_url": "https://i.ytimg.com/vi/gf_R5FoiopY/hqdefault.jpg"
         },
         {
@@ -97,8 +106,26 @@
             "channel_name": "HWANG MIN HYUN - Topic",
             "category": "Music",
             "duration": "2:37",
-            "view_count": "26444",
+            "view_count": "36773",
             "thumbnail_url": "https://i.ytimg.com/vi/1MIFesF8xPA/hqdefault.jpg"
+        },
+        {
+            "video_id": "hZ3Zfla4JrQ",
+            "title": "똘끼 리니지클래식 돌아왔구나  인형! 예전별명이 인형공장장이였습니다",
+            "channel_name": "똘끼100%",
+            "category": "Gaming",
+            "duration": "4:16:08",
+            "view_count": "433899",
+            "thumbnail_url": "https://i.ytimg.com/vi/hZ3Zfla4JrQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "T86rBo1d_yk",
+            "title": "김다현 자작곡 : \"광양에서 만난사랑\" 조부모님께 바치는 헌정곡 2026.10.8일 정오 발매 #광양에서만난사랑 #김다현 #광양시 #홍보대사 ",
+            "channel_name": "김다현TV",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "84639",
+            "thumbnail_url": "https://i.ytimg.com/vi/T86rBo1d_yk/hqdefault.jpg"
         },
         {
             "video_id": "kHvGu0eKshI",
@@ -106,26 +133,8 @@
             "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
             "duration": "5:31:09",
-            "view_count": "425703",
+            "view_count": "431870",
             "thumbnail_url": "https://i.ytimg.com/vi/kHvGu0eKshI/hqdefault.jpg"
-        },
-        {
-            "video_id": "iUNLe0iD9P8",
-            "title": "ICONIC HEART (Korean Version)",
-            "channel_name": "Hearts2Hearts - Topic",
-            "category": "Music",
-            "duration": "3:09",
-            "view_count": "340122",
-            "thumbnail_url": "https://i.ytimg.com/vi/iUNLe0iD9P8/hqdefault.jpg"
-        },
-        {
-            "video_id": "A6EOkqQNHs4",
-            "title": "\"맞으면 피가 찹니다\" 흡혈신 + 균열 템트리로 무적이 되어버린 \"흡혈 람머스 전략\" 🧛🩸",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "20:37",
-            "view_count": "247816",
-            "thumbnail_url": "https://i.ytimg.com/vi/A6EOkqQNHs4/hqdefault.jpg"
         },
         {
             "video_id": "J997YfFCw2I",
@@ -133,17 +142,17 @@
             "channel_name": "YOUNG POSSE • 영파씨",
             "category": "Entertainment",
             "duration": "2:32",
-            "view_count": "189634",
+            "view_count": "246396",
             "thumbnail_url": "https://i.ytimg.com/vi/J997YfFCw2I/hqdefault.jpg"
         },
         {
-            "video_id": "DmJYG5Ps2EY",
-            "title": "\"그냥 현금 2천만원 쓴 청년 ㅋㅋ\" 트릭두 보다 비싼 트릭(마)두 등장 ㅋㅋ",
-            "channel_name": "이상호",
+            "video_id": "A6EOkqQNHs4",
+            "title": "\"맞으면 피가 찹니다\" 흡혈신 + 균열 템트리로 무적이 되어버린 \"흡혈 람머스 전략\" 🧛🩸",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "28:11",
-            "view_count": "836640",
-            "thumbnail_url": "https://i.ytimg.com/vi/DmJYG5Ps2EY/hqdefault.jpg"
+            "duration": "20:37",
+            "view_count": "274188",
+            "thumbnail_url": "https://i.ytimg.com/vi/A6EOkqQNHs4/hqdefault.jpg"
         },
         {
             "video_id": "g-rL4skq4K4",
@@ -151,8 +160,26 @@
             "channel_name": "Rokudenashi - Topic",
             "category": "Music",
             "duration": "3:10",
-            "view_count": "69885",
+            "view_count": "94949",
             "thumbnail_url": "https://i.ytimg.com/vi/g-rL4skq4K4/hqdefault.jpg"
+        },
+        {
+            "video_id": "DmJYG5Ps2EY",
+            "title": "\"그냥 현금 2천만원 쓴 청년 ㅋㅋ\" 트릭두 보다 비싼 트릭(마)두 등장 ㅋㅋ",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "28:11",
+            "view_count": "868319",
+            "thumbnail_url": "https://i.ytimg.com/vi/DmJYG5Ps2EY/hqdefault.jpg"
+        },
+        {
+            "video_id": "iUNLe0iD9P8",
+            "title": "ICONIC HEART (Korean Version)",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "3:09",
+            "view_count": "392679",
+            "thumbnail_url": "https://i.ytimg.com/vi/iUNLe0iD9P8/hqdefault.jpg"
         },
         {
             "video_id": "pgNgAIBq0ys",
@@ -160,7 +187,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "16:01",
-            "view_count": "396500",
+            "view_count": "439446",
             "thumbnail_url": "https://i.ytimg.com/vi/pgNgAIBq0ys/hqdefault.jpg"
         },
         {
@@ -169,26 +196,8 @@
             "channel_name": "Bangssong - Topic",
             "category": "Music",
             "duration": "4:15",
-            "view_count": "45795",
+            "view_count": "63919",
             "thumbnail_url": "https://i.ytimg.com/vi/7lhg38sKq_Y/hqdefault.jpg"
-        },
-        {
-            "video_id": "Fcp-YAu9Tu4",
-            "title": "이블린 견제",
-            "channel_name": "PAKA",
-            "category": "Gaming",
-            "duration": "22:04",
-            "view_count": "510393",
-            "thumbnail_url": "https://i.ytimg.com/vi/Fcp-YAu9Tu4/hqdefault.jpg"
-        },
-        {
-            "video_id": "IfRNyaUgEC8",
-            "title": "OK",
-            "channel_name": "Kim Gyeol - Topic",
-            "category": "Music",
-            "duration": "3:01",
-            "view_count": "340434",
-            "thumbnail_url": "https://i.ytimg.com/vi/IfRNyaUgEC8/hqdefault.jpg"
         },
         {
             "video_id": "tZ0p5qIj5Gw",
@@ -196,80 +205,26 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "37:44",
-            "view_count": "276750",
+            "view_count": "319262",
             "thumbnail_url": "https://i.ytimg.com/vi/tZ0p5qIj5Gw/hqdefault.jpg"
         },
         {
-            "video_id": "2YrUvQ7KGHg",
-            "title": "Own Pace (각자의 길)",
-            "channel_name": "Release - Topic",
+            "video_id": "IfRNyaUgEC8",
+            "title": "OK",
+            "channel_name": "Kim Gyeol - Topic",
             "category": "Music",
-            "duration": "3:48",
-            "view_count": "11461",
-            "thumbnail_url": "https://i.ytimg.com/vi/2YrUvQ7KGHg/hqdefault.jpg"
+            "duration": "3:01",
+            "view_count": "344063",
+            "thumbnail_url": "https://i.ytimg.com/vi/IfRNyaUgEC8/hqdefault.jpg"
         },
         {
-            "video_id": "uyEmR2phxOU",
-            "title": "진짜 현질 해주러 온 케이X킹기훈",
-            "channel_name": "게임대장봉준",
+            "video_id": "Fcp-YAu9Tu4",
+            "title": "이블린 견제",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "12:49",
-            "view_count": "359393",
-            "thumbnail_url": "https://i.ytimg.com/vi/uyEmR2phxOU/hqdefault.jpg"
-        },
-        {
-            "video_id": "0MjKlniDQfo",
-            "title": "Pedazos",
-            "channel_name": "YESUNG - Topic",
-            "category": "Music",
-            "duration": "3:52",
-            "view_count": "43222",
-            "thumbnail_url": "https://i.ytimg.com/vi/0MjKlniDQfo/hqdefault.jpg"
-        },
-        {
-            "video_id": "bq38PVplP4A",
-            "title": "좀비보다 지독한 ㅈ간 듀오 [좀비원정대 리벤지 2화]",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "1:02:55",
-            "view_count": "140658",
-            "thumbnail_url": "https://i.ytimg.com/vi/bq38PVplP4A/hqdefault.jpg"
-        },
-        {
-            "video_id": "-B3P2pS4l5g",
-            "title": "this song for you",
-            "channel_name": "Gooxy Studio - Topic",
-            "category": "Music",
-            "duration": "3:52",
-            "view_count": "55730",
-            "thumbnail_url": "https://i.ytimg.com/vi/-B3P2pS4l5g/hqdefault.jpg"
-        },
-        {
-            "video_id": "JiWExQe44bY",
-            "title": "(개꿀잼 보장) 랜챗에서 만난 멘헤라녀의 \"L을 가져가\" , 진짜 발음부터 그루브가 다르넼ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-            "channel_name": "김된모",
-            "category": "Gaming",
-            "duration": "24:56",
-            "view_count": "155123",
-            "thumbnail_url": "https://i.ytimg.com/vi/JiWExQe44bY/hqdefault.jpg"
-        },
-        {
-            "video_id": "fv0ebPWwtVg",
-            "title": "Money On The Dash",
-            "channel_name": "LUCØ - Topic",
-            "category": "Music",
-            "duration": "2:00",
-            "view_count": "930218",
-            "thumbnail_url": "https://i.ytimg.com/vi/fv0ebPWwtVg/hqdefault.jpg"
-        },
-        {
-            "video_id": "5z9DJ1fE2h8",
-            "title": "미스터리 수사반 시즌2 새로운 에피소드 예고편",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "1:24",
-            "view_count": "173306",
-            "thumbnail_url": "https://i.ytimg.com/vi/5z9DJ1fE2h8/hqdefault.jpg"
+            "duration": "22:04",
+            "view_count": "526455",
+            "thumbnail_url": "https://i.ytimg.com/vi/Fcp-YAu9Tu4/hqdefault.jpg"
         },
         {
             "video_id": "QjSEPMmccWQ",
@@ -277,8 +232,116 @@
             "channel_name": "Choi Yeolum - Topic",
             "category": "Music",
             "duration": "4:13",
-            "view_count": "37264",
+            "view_count": "43735",
             "thumbnail_url": "https://i.ytimg.com/vi/QjSEPMmccWQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "uyEmR2phxOU",
+            "title": "진짜 현질 해주러 온 케이X킹기훈",
+            "channel_name": "게임대장봉준",
+            "category": "Gaming",
+            "duration": "12:49",
+            "view_count": "402311",
+            "thumbnail_url": "https://i.ytimg.com/vi/uyEmR2phxOU/hqdefault.jpg"
+        },
+        {
+            "video_id": "-B3P2pS4l5g",
+            "title": "this song for you",
+            "channel_name": "Gooxy Studio - Topic",
+            "category": "Music",
+            "duration": "3:52",
+            "view_count": "76675",
+            "thumbnail_url": "https://i.ytimg.com/vi/-B3P2pS4l5g/hqdefault.jpg"
+        },
+        {
+            "video_id": "JiWExQe44bY",
+            "title": "(개꿀잼 보장) 랜챗에서 만난 멘헤라녀의 현역 \"L을 가져가\" , 진짜 발음부터 그루브가 다르넼ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "channel_name": "김된모",
+            "category": "Gaming",
+            "duration": "24:56",
+            "view_count": "211242",
+            "thumbnail_url": "https://i.ytimg.com/vi/JiWExQe44bY/hqdefault.jpg"
+        },
+        {
+            "video_id": "2YrUvQ7KGHg",
+            "title": "Own Pace (각자의 길)",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:48",
+            "view_count": "14735",
+            "thumbnail_url": "https://i.ytimg.com/vi/2YrUvQ7KGHg/hqdefault.jpg"
+        },
+        {
+            "video_id": "5z9DJ1fE2h8",
+            "title": "미스터리 수사반 시즌2 새로운 에피소드 예고편",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "1:24",
+            "view_count": "231383",
+            "thumbnail_url": "https://i.ytimg.com/vi/5z9DJ1fE2h8/hqdefault.jpg"
+        },
+        {
+            "video_id": "fv0ebPWwtVg",
+            "title": "Money On The Dash",
+            "channel_name": "LUCØ - Topic",
+            "category": "Music",
+            "duration": "2:00",
+            "view_count": "1019956",
+            "thumbnail_url": "https://i.ytimg.com/vi/fv0ebPWwtVg/hqdefault.jpg"
+        },
+        {
+            "video_id": "X0RmxVngKh8",
+            "title": "나무에 묶여서 불타는 고블린때문에 정신나간 클리드 ㅋㅋㅋㅋㅋ",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "44:26",
+            "view_count": "276280",
+            "thumbnail_url": "https://i.ytimg.com/vi/X0RmxVngKh8/hqdefault.jpg"
+        },
+        {
+            "video_id": "P0XMgOFqwt0",
+            "title": "Know you, Feel you",
+            "channel_name": "So Soo Bin - Topic",
+            "category": "Music",
+            "duration": "3:37",
+            "view_count": "21700",
+            "thumbnail_url": "https://i.ytimg.com/vi/P0XMgOFqwt0/hqdefault.jpg"
+        },
+        {
+            "video_id": "VCtc0Mr8ZeY",
+            "title": "추석연휴 때마다 스타 하는 삼촌들 손목 비틀며 노는 게 취미라는 상대.. 그런데 악마삼촌 알파고를 마주치고 마는데?ㅋㅋ",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "42:53",
+            "view_count": "216277",
+            "thumbnail_url": "https://i.ytimg.com/vi/VCtc0Mr8ZeY/hqdefault.jpg"
+        },
+        {
+            "video_id": "zz5AX5MCwhs",
+            "title": "미완성 (Puzzle Piece)",
+            "channel_name": "KickFlip - Topic",
+            "category": "Music",
+            "duration": "2:55",
+            "view_count": "67150",
+            "thumbnail_url": "https://i.ytimg.com/vi/zz5AX5MCwhs/hqdefault.jpg"
+        },
+        {
+            "video_id": "N6ceFVPx_nQ",
+            "title": "[LOL] 프레이 정글 퀸 : 갱 필요해? 6렙부터 가능 (with. 뜨뜨뜨뜨)",
+            "channel_name": "프레이 TV",
+            "category": "Gaming",
+            "duration": "37:20",
+            "view_count": "165044",
+            "thumbnail_url": "https://i.ytimg.com/vi/N6ceFVPx_nQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "0MjKlniDQfo",
+            "title": "Pedazos",
+            "channel_name": "YESUNG - Topic",
+            "category": "Music",
+            "duration": "3:52",
+            "view_count": "46951",
+            "thumbnail_url": "https://i.ytimg.com/vi/0MjKlniDQfo/hqdefault.jpg"
         },
         {
             "video_id": "VX7qVibmUrc",
@@ -286,7 +349,7 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "11:38",
-            "view_count": "261941",
+            "view_count": "276796",
             "thumbnail_url": "https://i.ytimg.com/vi/VX7qVibmUrc/hqdefault.jpg"
         },
         {
@@ -295,53 +358,17 @@
             "channel_name": "Mili",
             "category": "Music",
             "duration": "3:46",
-            "view_count": "2070845",
+            "view_count": "2188885",
             "thumbnail_url": "https://i.ytimg.com/vi/3gkSzjp-aoY/hqdefault.jpg"
         },
         {
-            "video_id": "VCtc0Mr8ZeY",
-            "title": "추석연휴 때마다 스타 하는 삼촌들 손목 비틀며 노는 게 취미라는 상대.. 그런데 악마삼촌 알파고를 마주치고 마는데?ㅋㅋ",
-            "channel_name": "[ALTUBE] 김성현TV",
+            "video_id": "mz-NFLhkXgQ",
+            "title": "점검 끝! 신규팩 떴습니다 시세 영향 있겠는데요;;;",
+            "channel_name": "두치와뿌꾸",
             "category": "Gaming",
-            "duration": "42:53",
-            "view_count": "202453",
-            "thumbnail_url": "https://i.ytimg.com/vi/VCtc0Mr8ZeY/hqdefault.jpg"
-        },
-        {
-            "video_id": "T86rBo1d_yk",
-            "title": "김다현 자작곡 : \"광양에서 만난사랑\" 조부모님께 바치는 헌정곡 2026.10.8일 정오 발매 #광양에서만난사랑 #김다현 #광양시 #홍보대사 ",
-            "channel_name": "김다현TV",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "14078",
-            "thumbnail_url": "https://i.ytimg.com/vi/T86rBo1d_yk/hqdefault.jpg"
-        },
-        {
-            "video_id": "N6ceFVPx_nQ",
-            "title": "[LOL] 프레이 정글 퀸 : 갱 필요해? 6렙부터 가능 (with. 뜨뜨뜨뜨)",
-            "channel_name": "프레이 TV",
-            "category": "Gaming",
-            "duration": "37:20",
-            "view_count": "140429",
-            "thumbnail_url": "https://i.ytimg.com/vi/N6ceFVPx_nQ/hqdefault.jpg"
-        },
-        {
-            "video_id": "zz5AX5MCwhs",
-            "title": "미완성 (Puzzle Piece)",
-            "channel_name": "KickFlip - Topic",
-            "category": "Music",
-            "duration": "2:55",
-            "view_count": "45453",
-            "thumbnail_url": "https://i.ytimg.com/vi/zz5AX5MCwhs/hqdefault.jpg"
-        },
-        {
-            "video_id": "EbZdDDU_YTM",
-            "title": "이보다 더 완벽할 수 없는 이렐킹 레전드 플레이 나왔습니다🔥 【언랭부터 챌까지 #9】",
-            "channel_name": "이렐킹 IRELKING",
-            "category": "Gaming",
-            "duration": "20:29",
-            "view_count": "146154",
-            "thumbnail_url": "https://i.ytimg.com/vi/EbZdDDU_YTM/hqdefault.jpg"
+            "duration": "20:01",
+            "view_count": "155046",
+            "thumbnail_url": "https://i.ytimg.com/vi/mz-NFLhkXgQ/hqdefault.jpg"
         },
         {
             "video_id": "pC9QdZiLBtE",
@@ -349,35 +376,8 @@
             "channel_name": "조선힙합 - Topic",
             "category": "Music",
             "duration": "4:04",
-            "view_count": "12831",
+            "view_count": "17239",
             "thumbnail_url": "https://i.ytimg.com/vi/pC9QdZiLBtE/hqdefault.jpg"
-        },
-        {
-            "video_id": "X0RmxVngKh8",
-            "title": "나무에 묶여서 불타는 고블린때문에 정신나간 클리드 ㅋㅋㅋㅋㅋ",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "44:26",
-            "view_count": "178701",
-            "thumbnail_url": "https://i.ytimg.com/vi/X0RmxVngKh8/hqdefault.jpg"
-        },
-        {
-            "video_id": "9r1oIQiPsvE",
-            "title": "나도 나를 데리고 여기까지 왔구나",
-            "channel_name": "E:um - Topic",
-            "category": "Music",
-            "duration": "2:48",
-            "view_count": "13411",
-            "thumbnail_url": "https://i.ytimg.com/vi/9r1oIQiPsvE/hqdefault.jpg"
-        },
-        {
-            "video_id": "mgtg8Rf1oLw",
-            "title": "힐러로 바뀌고 개재밌어진 솜브라 ㅋㅋㅋㅋㅋ 바로 해봤습니다",
-            "channel_name": "쪼낙 JJONAK",
-            "category": "Gaming",
-            "duration": "17:55",
-            "view_count": "242254",
-            "thumbnail_url": "https://i.ytimg.com/vi/mgtg8Rf1oLw/hqdefault.jpg"
         }
     ]
 }
