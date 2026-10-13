@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-10-13 12:23:55",
+    "scraped_time": "2026-10-13 20:30:40",
     "videos": [
         {
             "video_id": "TBmE7m0yEwY",
@@ -7,17 +7,17 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "3:39",
-            "view_count": "392003",
+            "view_count": "514395",
             "thumbnail_url": "https://i.ytimg.com/vi/TBmE7m0yEwY/hqdefault.jpg"
         },
         {
-            "video_id": "CBbZm0Xhs7c",
-            "title": "Tekken 8 Yujiro Reveal Trailer | EVO France 2026",
-            "channel_name": "GamersPrey",
-            "category": "Gaming",
-            "duration": "1:18",
-            "view_count": "1439252",
-            "thumbnail_url": "https://i.ytimg.com/vi/CBbZm0Xhs7c/hqdefault.jpg"
+            "video_id": "6Qt-7vh49NI",
+            "title": "데블스 플랜: 데드 어게인 | 공식 티저 예고편 | 넷플릭스",
+            "channel_name": "Netflix Korea 넷플릭스 코리아",
+            "category": "Entertainment",
+            "duration": "1:01",
+            "view_count": "322845",
+            "thumbnail_url": "https://i.ytimg.com/vi/6Qt-7vh49NI/hqdefault.jpg"
         },
         {
             "video_id": "L3RpIEKxqas",
@@ -25,44 +25,8 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:45",
-            "view_count": "422871",
+            "view_count": "480065",
             "thumbnail_url": "https://i.ytimg.com/vi/L3RpIEKxqas/hqdefault.jpg"
-        },
-        {
-            "video_id": "xIlFjHHUfI0",
-            "title": "NCT WISH 엔시티 위시 'I SPY' MV",
-            "channel_name": "SMTOWN",
-            "category": "Music",
-            "duration": "3:16",
-            "view_count": "2107992",
-            "thumbnail_url": "https://i.ytimg.com/vi/xIlFjHHUfI0/hqdefault.jpg"
-        },
-        {
-            "video_id": "_5vf07Yn57s",
-            "title": "쉬어가는 타입  : 강철타입 하트골드【포켓몬 모든타입 깨기】#1",
-            "channel_name": "근가놈",
-            "category": "Gaming",
-            "duration": "40:19",
-            "view_count": "467495",
-            "thumbnail_url": "https://i.ytimg.com/vi/_5vf07Yn57s/hqdefault.jpg"
-        },
-        {
-            "video_id": "8aKR2Ho--5k",
-            "title": "MEOVV(미야오) - ‘GO HARD’ M/V",
-            "channel_name": "THEBLACKLABEL",
-            "category": "Music",
-            "duration": "3:12",
-            "view_count": "6085149",
-            "thumbnail_url": "https://i.ytimg.com/vi/8aKR2Ho--5k/hqdefault.jpg"
-        },
-        {
-            "video_id": "-KWk8HVTh38",
-            "title": "전 국민께 사과드립니다... [좀비원정대 5화]",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "1:00:18",
-            "view_count": "356631",
-            "thumbnail_url": "https://i.ytimg.com/vi/-KWk8HVTh38/hqdefault.jpg"
         },
         {
             "video_id": "TNC6ZdLylXM",
@@ -70,8 +34,71 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "146206",
+            "view_count": "217842",
             "thumbnail_url": "https://i.ytimg.com/vi/TNC6ZdLylXM/hqdefault.jpg"
+        },
+        {
+            "video_id": "LZdmL3jUpOI",
+            "title": "[슬픈 열대] 티저 예고편",
+            "channel_name": "마인드마크",
+            "category": "People & Blogs",
+            "duration": "0:39",
+            "view_count": "62935",
+            "thumbnail_url": "https://i.ytimg.com/vi/LZdmL3jUpOI/hqdefault.jpg"
+        },
+        {
+            "video_id": "_5vf07Yn57s",
+            "title": "쉬어가는 타입  : 강철타입 하트골드【포켓몬 모든타입 깨기】#1",
+            "channel_name": "근가놈",
+            "category": "Gaming",
+            "duration": "40:19",
+            "view_count": "547676",
+            "thumbnail_url": "https://i.ytimg.com/vi/_5vf07Yn57s/hqdefault.jpg"
+        },
+        {
+            "video_id": "xIlFjHHUfI0",
+            "title": "NCT WISH 엔시티 위시 'I SPY' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "3280421",
+            "thumbnail_url": "https://i.ytimg.com/vi/xIlFjHHUfI0/hqdefault.jpg"
+        },
+        {
+            "video_id": "d8zHj4bk1bU",
+            "title": "[티저 예고편] 잘하면 우승도 할 수 있겠는데? | 데블스 플랜: 데드 어게인",
+            "channel_name": "TEO 테오",
+            "category": "Entertainment",
+            "duration": "0:51",
+            "view_count": "78607",
+            "thumbnail_url": "https://i.ytimg.com/vi/d8zHj4bk1bU/hqdefault.jpg"
+        },
+        {
+            "video_id": "-KWk8HVTh38",
+            "title": "전 국민께 사과드립니다... [좀비원정대 5화]",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "1:00:18",
+            "view_count": "407482",
+            "thumbnail_url": "https://i.ytimg.com/vi/-KWk8HVTh38/hqdefault.jpg"
+        },
+        {
+            "video_id": "8aKR2Ho--5k",
+            "title": "MEOVV(미야오) - ‘GO HARD’ M/V",
+            "channel_name": "THEBLACKLABEL",
+            "category": "Music",
+            "duration": "3:12",
+            "view_count": "7782432",
+            "thumbnail_url": "https://i.ytimg.com/vi/8aKR2Ho--5k/hqdefault.jpg"
+        },
+        {
+            "video_id": "CBbZm0Xhs7c",
+            "title": "Tekken 8 Yujiro Reveal Trailer | EVO France 2026",
+            "channel_name": "GamersPrey",
+            "category": "Gaming",
+            "duration": "1:18",
+            "view_count": "1528041",
+            "thumbnail_url": "https://i.ytimg.com/vi/CBbZm0Xhs7c/hqdefault.jpg"
         },
         {
             "video_id": "Z29wvdNeyAo",
@@ -79,7 +106,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "21:10",
-            "view_count": "526725",
+            "view_count": "624354",
             "thumbnail_url": "https://i.ytimg.com/vi/Z29wvdNeyAo/hqdefault.jpg"
         },
         {
@@ -88,7 +115,7 @@
             "channel_name": "장한별 JANG HAN BYUL",
             "category": "Music",
             "duration": "4:09",
-            "view_count": "117070",
+            "view_count": "152457",
             "thumbnail_url": "https://i.ytimg.com/vi/T7EugiNQ9RA/hqdefault.jpg"
         },
         {
@@ -97,44 +124,26 @@
             "channel_name": "뜨뜨뜨뜨",
             "category": "Gaming",
             "duration": "19:13",
-            "view_count": "292354",
+            "view_count": "367176",
             "thumbnail_url": "https://i.ytimg.com/vi/fsMXQQuIAfg/hqdefault.jpg"
         },
         {
-            "video_id": "10_1vuZAeP0",
-            "title": "Xdinary Heroes(엑스디너리 히어로즈) \"Obsessed with Youth\" M/V",
-            "channel_name": "JYP Entertainment",
-            "category": "Music",
-            "duration": "3:34",
-            "view_count": "1160715",
-            "thumbnail_url": "https://i.ytimg.com/vi/10_1vuZAeP0/hqdefault.jpg"
-        },
-        {
-            "video_id": "Qs5v6OL8J0U",
-            "title": "일일 1조 메소로 템세팅을 해보자! [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
-            "category": "Gaming",
-            "duration": "16:01",
-            "view_count": "279679",
-            "thumbnail_url": "https://i.ytimg.com/vi/Qs5v6OL8J0U/hqdefault.jpg"
-        },
-        {
-            "video_id": "i6HW_p5V1-8",
-            "title": "Sunset",
+            "video_id": "OMw2MhB8Mss",
+            "title": "Someday, Again",
             "channel_name": "Lim Ga Young - Topic",
             "category": "Music",
-            "duration": "3:51",
-            "view_count": "297435",
-            "thumbnail_url": "https://i.ytimg.com/vi/i6HW_p5V1-8/hqdefault.jpg"
+            "duration": "3:06",
+            "view_count": "211828",
+            "thumbnail_url": "https://i.ytimg.com/vi/OMw2MhB8Mss/hqdefault.jpg"
         },
         {
-            "video_id": "lFCA46lMWKU",
-            "title": "\"평타 3방=원딜 삭제💀\" 악마사냥꾼으로 육식 거북이가 되어버린 \"탑 악사 람머스 전략\"",
-            "channel_name": "전략적죽음",
+            "video_id": "svH5m_zJzYY",
+            "title": "[ 불도그 LIVE 생방송 10/12 ] 3부 리니지m 신화변신 + 8전설부츠 !! 석살어요!",
+            "channel_name": "불도그",
             "category": "Gaming",
-            "duration": "28:40",
-            "view_count": "215290",
-            "thumbnail_url": "https://i.ytimg.com/vi/lFCA46lMWKU/hqdefault.jpg"
+            "duration": "11:55:00",
+            "view_count": "445106",
+            "thumbnail_url": "https://i.ytimg.com/vi/svH5m_zJzYY/hqdefault.jpg"
         },
         {
             "video_id": "LPhWz3_-gzk",
@@ -142,8 +151,62 @@
             "channel_name": "MEOVV - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "26202",
+            "view_count": "47023",
             "thumbnail_url": "https://i.ytimg.com/vi/LPhWz3_-gzk/hqdefault.jpg"
+        },
+        {
+            "video_id": "Qs5v6OL8J0U",
+            "title": "일일 1조 메소로 템세팅을 해보자! [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
+            "category": "Gaming",
+            "duration": "16:01",
+            "view_count": "337498",
+            "thumbnail_url": "https://i.ytimg.com/vi/Qs5v6OL8J0U/hqdefault.jpg"
+        },
+        {
+            "video_id": "mHAkko__z-8",
+            "title": "Everything about you",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "270139",
+            "thumbnail_url": "https://i.ytimg.com/vi/mHAkko__z-8/hqdefault.jpg"
+        },
+        {
+            "video_id": "lFCA46lMWKU",
+            "title": "\"평타 3방=원딜 삭제💀\" 악마사냥꾼으로 육식 거북이가 되어버린 \"탑 악사 람머스 전략\"",
+            "channel_name": "전략적죽음",
+            "category": "Gaming",
+            "duration": "28:40",
+            "view_count": "243285",
+            "thumbnail_url": "https://i.ytimg.com/vi/lFCA46lMWKU/hqdefault.jpg"
+        },
+        {
+            "video_id": "S-SH-j6l5UA",
+            "title": "사랑한 만큼",
+            "channel_name": "JONG HO - Topic",
+            "category": "Music",
+            "duration": "4:37",
+            "view_count": "46456",
+            "thumbnail_url": "https://i.ytimg.com/vi/S-SH-j6l5UA/hqdefault.jpg"
+        },
+        {
+            "video_id": "T1kqk5y7kvk",
+            "title": "하루만에 이렇게 잘해진다고?｜DNS Chase 초대석 2부",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "45:32",
+            "view_count": "231627",
+            "thumbnail_url": "https://i.ytimg.com/vi/T1kqk5y7kvk/hqdefault.jpg"
+        },
+        {
+            "video_id": "XmDTuNJE-t4",
+            "title": "소원빌기",
+            "channel_name": "Woo Yerin - Topic",
+            "category": "Music",
+            "duration": "2:45",
+            "view_count": "62201",
+            "thumbnail_url": "https://i.ytimg.com/vi/XmDTuNJE-t4/hqdefault.jpg"
         },
         {
             "video_id": "c9SG3vin4qQ",
@@ -151,7 +214,7 @@
             "channel_name": "게임대장봉준",
             "category": "Gaming",
             "duration": "23:08",
-            "view_count": "252980",
+            "view_count": "298251",
             "thumbnail_url": "https://i.ytimg.com/vi/c9SG3vin4qQ/hqdefault.jpg"
         },
         {
@@ -160,26 +223,26 @@
             "channel_name": "Xdinary Heroes - Topic",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "53952",
+            "view_count": "78353",
             "thumbnail_url": "https://i.ytimg.com/vi/HAu_F5NdaIY/hqdefault.jpg"
         },
         {
-            "video_id": "T1kqk5y7kvk",
-            "title": "하루만에 이렇게 잘해진다고?｜DNS Chase 초대석 2부",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "video_id": "7ePQLM5GB48",
+            "title": "최진혁 1년만에 왔다! 나락간 팀 폭풍현질 수리갑니다ㅋㅋ",
+            "channel_name": "두치와뿌꾸",
             "category": "Gaming",
-            "duration": "45:32",
-            "view_count": "206860",
-            "thumbnail_url": "https://i.ytimg.com/vi/T1kqk5y7kvk/hqdefault.jpg"
+            "duration": "18:52",
+            "view_count": "221719",
+            "thumbnail_url": "https://i.ytimg.com/vi/7ePQLM5GB48/hqdefault.jpg"
         },
         {
-            "video_id": "MAIWvlrymlE",
-            "title": "Recharge Me",
-            "channel_name": "WENDY - Topic",
+            "video_id": "10_1vuZAeP0",
+            "title": "Xdinary Heroes(엑스디너리 히어로즈) \"Obsessed with Youth\" M/V",
+            "channel_name": "JYP Entertainment",
             "category": "Music",
-            "duration": "2:51",
-            "view_count": "202792",
-            "thumbnail_url": "https://i.ytimg.com/vi/MAIWvlrymlE/hqdefault.jpg"
+            "duration": "3:34",
+            "view_count": "1583908",
+            "thumbnail_url": "https://i.ytimg.com/vi/10_1vuZAeP0/hqdefault.jpg"
         },
         {
             "video_id": "ZoQ8e0MOQJI",
@@ -187,89 +250,17 @@
             "channel_name": "팔차선 [8LJAYWALKING]",
             "category": "Gaming",
             "duration": "19:24",
-            "view_count": "223411",
+            "view_count": "249217",
             "thumbnail_url": "https://i.ytimg.com/vi/ZoQ8e0MOQJI/hqdefault.jpg"
         },
         {
-            "video_id": "JqdlzX5zFzg",
-            "title": "Still",
-            "channel_name": "N.Flying - Topic",
+            "video_id": "AQm8oKS2wk8",
+            "title": "Lonely Night",
+            "channel_name": "YESUNG - Topic",
             "category": "Music",
-            "duration": "3:07",
-            "view_count": "566627",
-            "thumbnail_url": "https://i.ytimg.com/vi/JqdlzX5zFzg/hqdefault.jpg"
-        },
-        {
-            "video_id": "fzojFD8moyk",
-            "title": "롤 알려달라는 애착인형 임유진 참교육ㅋㅋ",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "26:28",
-            "view_count": "669197",
-            "thumbnail_url": "https://i.ytimg.com/vi/fzojFD8moyk/hqdefault.jpg"
-        },
-        {
-            "video_id": "cEDGsUIZ_WY",
-            "title": "Stay Awake (Doctor X : Mafia in White : Original Television Soundtrack)",
-            "channel_name": "Moon Sujin - Topic",
-            "category": "Music",
-            "duration": "3:12",
-            "view_count": "51629",
-            "thumbnail_url": "https://i.ytimg.com/vi/cEDGsUIZ_WY/hqdefault.jpg"
-        },
-        {
-            "video_id": "0qF4wVy9hEk",
-            "title": "봉누도2 역대급 클립 월드컵 ㅋㅋㅋ+ 빨간약 알아보기",
-            "channel_name": "채현찌",
-            "category": "Entertainment",
-            "duration": "20:22",
-            "view_count": "177619",
-            "thumbnail_url": "https://i.ytimg.com/vi/0qF4wVy9hEk/hqdefault.jpg"
-        },
-        {
-            "video_id": "9yZrRf0UcIY",
-            "title": "긴 소원 (Birthday Wish) (Preview)",
-            "channel_name": "NMIXX - Topic",
-            "category": "Music",
-            "duration": "0:16",
-            "view_count": "101774",
-            "thumbnail_url": "https://i.ytimg.com/vi/9yZrRf0UcIY/hqdefault.jpg"
-        },
-        {
-            "video_id": "zXz6NC_q3jM",
-            "title": "바다밖에 없는 마인크래프트 세계에서 100일동안 살아남기",
-            "channel_name": "프뚜",
-            "category": "Gaming",
-            "duration": "40:13",
-            "view_count": "424955",
-            "thumbnail_url": "https://i.ytimg.com/vi/zXz6NC_q3jM/hqdefault.jpg"
-        },
-        {
-            "video_id": "hG8LcldJBzc",
-            "title": "A Starry Night",
-            "channel_name": "Girls' Generation-HRS - Topic",
-            "category": "Music",
-            "duration": "2:29",
-            "view_count": "44723",
-            "thumbnail_url": "https://i.ytimg.com/vi/hG8LcldJBzc/hqdefault.jpg"
-        },
-        {
-            "video_id": "PZH3GE_dLjE",
-            "title": "혼자 성을 지키는 디펜스게임.. 2시간이 사라져버렸습니다 (※시간 순삭)",
-            "channel_name": "혜안",
-            "category": "Gaming",
-            "duration": "34:24",
-            "view_count": "460409",
-            "thumbnail_url": "https://i.ytimg.com/vi/PZH3GE_dLjE/hqdefault.jpg"
-        },
-        {
-            "video_id": "S-SH-j6l5UA",
-            "title": "사랑한 만큼",
-            "channel_name": "JONG HO - Topic",
-            "category": "Music",
-            "duration": "4:37",
-            "view_count": "30961",
-            "thumbnail_url": "https://i.ytimg.com/vi/S-SH-j6l5UA/hqdefault.jpg"
+            "duration": "3:30",
+            "view_count": "66520",
+            "thumbnail_url": "https://i.ytimg.com/vi/AQm8oKS2wk8/hqdefault.jpg"
         },
         {
             "video_id": "8OoMJhAr5Vs",
@@ -277,53 +268,53 @@
             "channel_name": "프레이 TV",
             "category": "Gaming",
             "duration": "55:47",
-            "view_count": "147170",
+            "view_count": "174826",
             "thumbnail_url": "https://i.ytimg.com/vi/8OoMJhAr5Vs/hqdefault.jpg"
         },
         {
-            "video_id": "iYfKo5djpFk",
-            "title": "전유진 (Jeon Yu Jin) - 사랑만하소｜야외녹음실｜Beyond the Studio｜LIVE",
-            "channel_name": "1theK Live - 원더케이 라이브",
+            "video_id": "hG8LcldJBzc",
+            "title": "A Starry Night",
+            "channel_name": "Girls' Generation-HRS - Topic",
             "category": "Music",
-            "duration": "4:24",
-            "view_count": "49192",
-            "thumbnail_url": "https://i.ytimg.com/vi/iYfKo5djpFk/hqdefault.jpg"
+            "duration": "2:29",
+            "view_count": "64478",
+            "thumbnail_url": "https://i.ytimg.com/vi/hG8LcldJBzc/hqdefault.jpg"
         },
         {
-            "video_id": "0RGksPM_I0s",
-            "title": "배틀그라운드 최신 근황, 유저가 없는지 있는지 장인 모셔봤습니다.. | 김블루 배그 장인초대석 [테스터훈]",
-            "channel_name": "테스터훈 TesterHoon",
+            "video_id": "0qF4wVy9hEk",
+            "title": "봉누도2 역대급 클립 월드컵 ㅋㅋㅋ+ 빨간약 알아보기",
+            "channel_name": "채현찌",
+            "category": "Entertainment",
+            "duration": "20:22",
+            "view_count": "219764",
+            "thumbnail_url": "https://i.ytimg.com/vi/0qF4wVy9hEk/hqdefault.jpg"
+        },
+        {
+            "video_id": "77sRWlOTfkA",
+            "title": "Propose",
+            "channel_name": "썸데이(Someday) - Topic",
+            "category": "Music",
+            "duration": "4:17",
+            "view_count": "102325",
+            "thumbnail_url": "https://i.ytimg.com/vi/77sRWlOTfkA/hqdefault.jpg"
+        },
+        {
+            "video_id": "PZH3GE_dLjE",
+            "title": "혼자 성을 지키는 디펜스게임.. 2시간이 사라져버렸습니다 (※시간 순삭)",
+            "channel_name": "혜안",
             "category": "Gaming",
-            "duration": "37:46",
-            "view_count": "949000",
-            "thumbnail_url": "https://i.ytimg.com/vi/0RGksPM_I0s/hqdefault.jpg"
+            "duration": "34:24",
+            "view_count": "569109",
+            "thumbnail_url": "https://i.ytimg.com/vi/PZH3GE_dLjE/hqdefault.jpg"
         },
         {
-            "video_id": "ZwrhdH77o1I",
-            "title": "Candy Box Lover",
-            "channel_name": "Hearts2Hearts - Topic",
+            "video_id": "S_vYDZEjehM",
+            "title": "A Universe of Memories",
+            "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
-            "duration": "2:58",
-            "view_count": "85787",
-            "thumbnail_url": "https://i.ytimg.com/vi/ZwrhdH77o1I/hqdefault.jpg"
-        },
-        {
-            "video_id": "CKLIYy6ESZY",
-            "title": "신호인가요?",
-            "channel_name": "괴물쥐 유튜브",
-            "category": "Gaming",
-            "duration": "21:40",
-            "view_count": "488673",
-            "thumbnail_url": "https://i.ytimg.com/vi/CKLIYy6ESZY/hqdefault.jpg"
-        },
-        {
-            "video_id": "DVMk1cNaGn4",
-            "title": "스카이민혁 (Skyminhyuk) - 푸른소나무 (Feat. 올티) [Official Music Video]",
-            "channel_name": "스카이민혁",
-            "category": "Music",
-            "duration": "2:50",
-            "view_count": "59198",
-            "thumbnail_url": "https://i.ytimg.com/vi/DVMk1cNaGn4/hqdefault.jpg"
+            "duration": "3:45",
+            "view_count": "38752",
+            "thumbnail_url": "https://i.ytimg.com/vi/S_vYDZEjehM/hqdefault.jpg"
         },
         {
             "video_id": "gD-IqrmDPCE",
@@ -331,53 +322,62 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "17:38",
-            "view_count": "238528",
+            "view_count": "276519",
             "thumbnail_url": "https://i.ytimg.com/vi/gD-IqrmDPCE/hqdefault.jpg"
         },
         {
-            "video_id": "kGN8p-Z3DZw",
-            "title": "Vanish",
-            "channel_name": "entoy - Topic",
+            "video_id": "cEDGsUIZ_WY",
+            "title": "Stay Awake (Doctor X : Mafia in White : Original Television Soundtrack)",
+            "channel_name": "Moon Sujin - Topic",
             "category": "Music",
-            "duration": "2:45",
-            "view_count": "91347",
-            "thumbnail_url": "https://i.ytimg.com/vi/kGN8p-Z3DZw/hqdefault.jpg"
+            "duration": "3:12",
+            "view_count": "61405",
+            "thumbnail_url": "https://i.ytimg.com/vi/cEDGsUIZ_WY/hqdefault.jpg"
         },
         {
-            "video_id": "sPEy3T1rTRc",
-            "title": "NRG vs 100T / G2 vs T1 - 챔피언스 상하이- 플레이오프 - 15일차",
-            "channel_name": "발로란트 챔피언스 투어",
+            "video_id": "fzojFD8moyk",
+            "title": "롤 알려달라는 애착인형 임유진 참교육ㅋㅋ",
+            "channel_name": "튜브김민교",
             "category": "Gaming",
-            "duration": "6:10:32",
-            "view_count": "519739",
-            "thumbnail_url": "https://i.ytimg.com/vi/sPEy3T1rTRc/hqdefault.jpg"
+            "duration": "26:28",
+            "view_count": "692658",
+            "thumbnail_url": "https://i.ytimg.com/vi/fzojFD8moyk/hqdefault.jpg"
         },
         {
-            "video_id": "n9h7WZg1oYs",
-            "title": "Waste My Time",
-            "channel_name": "Marc Atlas - Topic",
+            "video_id": "MAIWvlrymlE",
+            "title": "Recharge Me",
+            "channel_name": "WENDY - Topic",
             "category": "Music",
-            "duration": "3:10",
-            "view_count": "301429",
-            "thumbnail_url": "https://i.ytimg.com/vi/n9h7WZg1oYs/hqdefault.jpg"
+            "duration": "2:51",
+            "view_count": "221769",
+            "thumbnail_url": "https://i.ytimg.com/vi/MAIWvlrymlE/hqdefault.jpg"
         },
         {
-            "video_id": "1cG3b-EkK78",
-            "title": "3만명의 축하에 결국 울보가 된 Lv.200 대머리",
-            "channel_name": "레고77",
+            "video_id": "PNTFS6JxFmo",
+            "title": "공무원 7명을 익사시킨 극악무도한 범죄자 최루탄 【봉누도 시즌2_2】",
+            "channel_name": "빅헤드",
             "category": "Gaming",
-            "duration": "17:07",
-            "view_count": "330214",
-            "thumbnail_url": "https://i.ytimg.com/vi/1cG3b-EkK78/hqdefault.jpg"
+            "duration": "1:07:46",
+            "view_count": "170079",
+            "thumbnail_url": "https://i.ytimg.com/vi/PNTFS6JxFmo/hqdefault.jpg"
         },
         {
-            "video_id": "Ra_1B0woG2E",
-            "title": "Only Love",
-            "channel_name": "JEON YU JIN - Topic",
+            "video_id": "JqdlzX5zFzg",
+            "title": "Still",
+            "channel_name": "N.Flying - Topic",
             "category": "Music",
-            "duration": "3:50",
-            "view_count": "54630",
-            "thumbnail_url": "https://i.ytimg.com/vi/Ra_1B0woG2E/hqdefault.jpg"
+            "duration": "3:07",
+            "view_count": "612644",
+            "thumbnail_url": "https://i.ytimg.com/vi/JqdlzX5zFzg/hqdefault.jpg"
+        },
+        {
+            "video_id": "mBy7wtUJSqI",
+            "title": "아니 그냥 맵이 감탄 밖에 안 나옴(마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "32:51",
+            "view_count": "220421",
+            "thumbnail_url": "https://i.ytimg.com/vi/mBy7wtUJSqI/hqdefault.jpg"
         }
     ]
 }
