@@ -1,14 +1,14 @@
 {
-    "scraped_time": "2026-10-14 08:38:15",
+    "scraped_time": "2026-10-14 13:03:38",
     "videos": [
         {
-            "video_id": "F_EGihOgXsg",
-            "title": "Mise en scène",
-            "channel_name": "Epik High - Topic",
+            "video_id": "rlYOsUfpi3M",
+            "title": "NEON",
+            "channel_name": "Release - Topic",
             "category": "Music",
-            "duration": "2:59",
-            "view_count": "109506",
-            "thumbnail_url": "https://i.ytimg.com/vi/F_EGihOgXsg/hqdefault.jpg"
+            "duration": "3:28",
+            "view_count": "297935",
+            "thumbnail_url": "https://i.ytimg.com/vi/rlYOsUfpi3M/hqdefault.jpg"
         },
         {
             "video_id": "6Qt-7vh49NI",
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:01",
-            "view_count": "418366",
+            "view_count": "432987",
             "thumbnail_url": "https://i.ytimg.com/vi/6Qt-7vh49NI/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "감스트GAMST",
             "category": "Gaming",
             "duration": "16:31",
-            "view_count": "544836",
+            "view_count": "647779",
             "thumbnail_url": "https://i.ytimg.com/vi/i6JzDqr93mw/hqdefault.jpg"
         },
         {
-            "video_id": "rlYOsUfpi3M",
-            "title": "NEON",
-            "channel_name": "A2O - Topic",
+            "video_id": "F_EGihOgXsg",
+            "title": "Mise en scène",
+            "channel_name": "Epik High - Topic",
             "category": "Music",
-            "duration": "3:28",
-            "view_count": "129350",
-            "thumbnail_url": "https://i.ytimg.com/vi/rlYOsUfpi3M/hqdefault.jpg"
+            "duration": "2:59",
+            "view_count": "236095",
+            "thumbnail_url": "https://i.ytimg.com/vi/F_EGihOgXsg/hqdefault.jpg"
         },
         {
             "video_id": "LZdmL3jUpOI",
@@ -43,7 +43,7 @@
             "channel_name": "마인드마크",
             "category": "People & Blogs",
             "duration": "0:39",
-            "view_count": "104361",
+            "view_count": "111879",
             "thumbnail_url": "https://i.ytimg.com/vi/LZdmL3jUpOI/hqdefault.jpg"
         },
         {
@@ -52,17 +52,17 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "26:45",
-            "view_count": "526082",
+            "view_count": "533586",
             "thumbnail_url": "https://i.ytimg.com/vi/L3RpIEKxqas/hqdefault.jpg"
         },
         {
-            "video_id": "pTziJ4RaYnk",
-            "title": "에픽하이 x 다비치 '미장센' Official M/V",
-            "channel_name": "GENIE MUSIC",
+            "video_id": "KGK2KZOFAPE",
+            "title": "A2O LITE - NEON Official Video",
+            "channel_name": "STONE MUSIC",
             "category": "Music",
-            "duration": "3:03",
-            "view_count": "503739",
-            "thumbnail_url": "https://i.ytimg.com/vi/pTziJ4RaYnk/hqdefault.jpg"
+            "duration": "3:43",
+            "view_count": "709613",
+            "thumbnail_url": "https://i.ytimg.com/vi/KGK2KZOFAPE/hqdefault.jpg"
         },
         {
             "video_id": "40TTPzoePK0",
@@ -70,8 +70,35 @@
             "channel_name": "Baasuri Films",
             "category": "Film & Animation",
             "duration": "4:22",
-            "view_count": "576393",
+            "view_count": "668978",
             "thumbnail_url": "https://i.ytimg.com/vi/40TTPzoePK0/hqdefault.jpg"
+        },
+        {
+            "video_id": "R1di5C7w154",
+            "title": "이제 그만 좀 먹고 탑갱 오라고",
+            "channel_name": "뜨뜨뜨뜨",
+            "category": "Gaming",
+            "duration": "27:48",
+            "view_count": "274483",
+            "thumbnail_url": "https://i.ytimg.com/vi/R1di5C7w154/hqdefault.jpg"
+        },
+        {
+            "video_id": "pTziJ4RaYnk",
+            "title": "에픽하이 x 다비치 '미장센' Official M/V",
+            "channel_name": "GENIE MUSIC",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "595215",
+            "thumbnail_url": "https://i.ytimg.com/vi/pTziJ4RaYnk/hqdefault.jpg"
+        },
+        {
+            "video_id": "d8zHj4bk1bU",
+            "title": "[티저 예고편] 잘하면 우승도 할 수 있겠는데? | 데블스 플랜: 데드 어게인",
+            "channel_name": "TEO 테오",
+            "category": "Entertainment",
+            "duration": "0:51",
+            "view_count": "115358",
+            "thumbnail_url": "https://i.ytimg.com/vi/d8zHj4bk1bU/hqdefault.jpg"
         },
         {
             "video_id": "_5vf07Yn57s",
@@ -79,7 +106,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "40:19",
-            "view_count": "615764",
+            "view_count": "627821",
             "thumbnail_url": "https://i.ytimg.com/vi/_5vf07Yn57s/hqdefault.jpg"
         },
         {
@@ -88,17 +115,8 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "3:39",
-            "view_count": "655706",
+            "view_count": "701548",
             "thumbnail_url": "https://i.ytimg.com/vi/TBmE7m0yEwY/hqdefault.jpg"
-        },
-        {
-            "video_id": "d8zHj4bk1bU",
-            "title": "[티저 예고편] 잘하면 우승도 할 수 있겠는데? | 데블스 플랜: 데드 어게인",
-            "channel_name": "TEO 테오",
-            "category": "Entertainment",
-            "duration": "0:51",
-            "view_count": "109188",
-            "thumbnail_url": "https://i.ytimg.com/vi/d8zHj4bk1bU/hqdefault.jpg"
         },
         {
             "video_id": "q7fkMWrRRho",
@@ -106,26 +124,8 @@
             "channel_name": "팡이요",
             "category": "Gaming",
             "duration": "11:33",
-            "view_count": "289202",
+            "view_count": "309804",
             "thumbnail_url": "https://i.ytimg.com/vi/q7fkMWrRRho/hqdefault.jpg"
-        },
-        {
-            "video_id": "KGK2KZOFAPE",
-            "title": "A2O LITE - NEON Official Video",
-            "channel_name": "STONE MUSIC",
-            "category": "Music",
-            "duration": "3:43",
-            "view_count": "589076",
-            "thumbnail_url": "https://i.ytimg.com/vi/KGK2KZOFAPE/hqdefault.jpg"
-        },
-        {
-            "video_id": "PVsCHje1I6M",
-            "title": "시청자 6만명이 인정한 '역대급 재능' 3티어 대회에서 레전드 찍는 김봉준 ㄷㄷ",
-            "channel_name": "게임대장봉준",
-            "category": "Gaming",
-            "duration": "54:56",
-            "view_count": "253106",
-            "thumbnail_url": "https://i.ytimg.com/vi/PVsCHje1I6M/hqdefault.jpg"
         },
         {
             "video_id": "TNC6ZdLylXM",
@@ -133,17 +133,17 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "270926",
+            "view_count": "313616",
             "thumbnail_url": "https://i.ytimg.com/vi/TNC6ZdLylXM/hqdefault.jpg"
         },
         {
-            "video_id": "-KWk8HVTh38",
-            "title": "전 국민께 사과드립니다... [좀비원정대 5화]",
-            "channel_name": "동수칸TV",
+            "video_id": "PVsCHje1I6M",
+            "title": "시청자 6만명이 인정한 '역대급 재능' 3티어 대회에서 레전드 찍는 김봉준 ㄷㄷ",
+            "channel_name": "게임대장봉준",
             "category": "Gaming",
-            "duration": "1:00:18",
-            "view_count": "453710",
-            "thumbnail_url": "https://i.ytimg.com/vi/-KWk8HVTh38/hqdefault.jpg"
+            "duration": "54:56",
+            "view_count": "263814",
+            "thumbnail_url": "https://i.ytimg.com/vi/PVsCHje1I6M/hqdefault.jpg"
         },
         {
             "video_id": "8aKR2Ho--5k",
@@ -151,17 +151,17 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "8117813",
+            "view_count": "8329219",
             "thumbnail_url": "https://i.ytimg.com/vi/8aKR2Ho--5k/hqdefault.jpg"
         },
         {
-            "video_id": "R1di5C7w154",
-            "title": "이제 그만 좀 먹고 탑갱 오라고",
-            "channel_name": "뜨뜨뜨뜨",
+            "video_id": "-KWk8HVTh38",
+            "title": "전 국민께 사과드립니다... [좀비원정대 5화]",
+            "channel_name": "동수칸TV",
             "category": "Gaming",
-            "duration": "27:48",
-            "view_count": "225195",
-            "thumbnail_url": "https://i.ytimg.com/vi/R1di5C7w154/hqdefault.jpg"
+            "duration": "1:00:18",
+            "view_count": "462442",
+            "thumbnail_url": "https://i.ytimg.com/vi/-KWk8HVTh38/hqdefault.jpg"
         },
         {
             "video_id": "xIlFjHHUfI0",
@@ -169,44 +169,8 @@
             "channel_name": "SMTOWN",
             "category": "Music",
             "duration": "3:16",
-            "view_count": "5725487",
+            "view_count": "5863860",
             "thumbnail_url": "https://i.ytimg.com/vi/xIlFjHHUfI0/hqdefault.jpg"
-        },
-        {
-            "video_id": "M2lu8RiZhW0",
-            "title": "[LIVE] 10월 13일 아이온2 업데이트 프리뷰 방송",
-            "channel_name": "AION2",
-            "category": "Gaming",
-            "duration": "53:50",
-            "view_count": "102304",
-            "thumbnail_url": "https://i.ytimg.com/vi/M2lu8RiZhW0/hqdefault.jpg"
-        },
-        {
-            "video_id": "T7EugiNQ9RA",
-            "title": "미야 (Miya)",
-            "channel_name": "장한별 JANG HAN BYUL",
-            "category": "Music",
-            "duration": "4:09",
-            "view_count": "180631",
-            "thumbnail_url": "https://i.ytimg.com/vi/T7EugiNQ9RA/hqdefault.jpg"
-        },
-        {
-            "video_id": "7ePQLM5GB48",
-            "title": "최진혁 1년만에 왔다! 나락간 팀 폭풍현질 수리갑니다ㅋㅋ",
-            "channel_name": "두치와뿌꾸",
-            "category": "Gaming",
-            "duration": "18:52",
-            "view_count": "310989",
-            "thumbnail_url": "https://i.ytimg.com/vi/7ePQLM5GB48/hqdefault.jpg"
-        },
-        {
-            "video_id": "mHAkko__z-8",
-            "title": "Everything about you",
-            "channel_name": "Release - Topic",
-            "category": "Music",
-            "duration": "3:38",
-            "view_count": "281227",
-            "thumbnail_url": "https://i.ytimg.com/vi/mHAkko__z-8/hqdefault.jpg"
         },
         {
             "video_id": "gbVMlSRgfx8",
@@ -214,8 +178,62 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "48:32",
-            "view_count": "252114",
+            "view_count": "276608",
             "thumbnail_url": "https://i.ytimg.com/vi/gbVMlSRgfx8/hqdefault.jpg"
+        },
+        {
+            "video_id": "mHAkko__z-8",
+            "title": "Everything about you",
+            "channel_name": "Release - Topic",
+            "category": "Music",
+            "duration": "3:38",
+            "view_count": "307261",
+            "thumbnail_url": "https://i.ytimg.com/vi/mHAkko__z-8/hqdefault.jpg"
+        },
+        {
+            "video_id": "M2lu8RiZhW0",
+            "title": "[LIVE] 10월 13일 아이온2 업데이트 프리뷰 방송",
+            "channel_name": "AION2",
+            "category": "Gaming",
+            "duration": "53:50",
+            "view_count": "106146",
+            "thumbnail_url": "https://i.ytimg.com/vi/M2lu8RiZhW0/hqdefault.jpg"
+        },
+        {
+            "video_id": "E88zczV1Al4",
+            "title": "[MV] BUMJIN(범진) - Farewell(잘가라)",
+            "channel_name": "SUPER SOUND Bugs!",
+            "category": "Music",
+            "duration": "3:05",
+            "view_count": "27726",
+            "thumbnail_url": "https://i.ytimg.com/vi/E88zczV1Al4/hqdefault.jpg"
+        },
+        {
+            "video_id": "7ePQLM5GB48",
+            "title": "최진혁 1년만에 왔다! 나락간 팀 폭풍현질 수리갑니다ㅋㅋ",
+            "channel_name": "두치와뿌꾸",
+            "category": "Gaming",
+            "duration": "17:57",
+            "view_count": "323210",
+            "thumbnail_url": "https://i.ytimg.com/vi/7ePQLM5GB48/hqdefault.jpg"
+        },
+        {
+            "video_id": "T7EugiNQ9RA",
+            "title": "미야 (Miya)",
+            "channel_name": "장한별 JANG HAN BYUL",
+            "category": "Music",
+            "duration": "4:09",
+            "view_count": "198974",
+            "thumbnail_url": "https://i.ytimg.com/vi/T7EugiNQ9RA/hqdefault.jpg"
+        },
+        {
+            "video_id": "CZDRlnnB3As",
+            "title": "미술관 야간 근무 중 이상현상을 보고합ㄴ..ㅣ..ㄷ..",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "32:03",
+            "view_count": "225131",
+            "thumbnail_url": "https://i.ytimg.com/vi/CZDRlnnB3As/hqdefault.jpg"
         },
         {
             "video_id": "XmDTuNJE-t4",
@@ -223,8 +241,26 @@
             "channel_name": "Woo Yerin - Topic",
             "category": "Music",
             "duration": "2:45",
-            "view_count": "96945",
+            "view_count": "125245",
             "thumbnail_url": "https://i.ytimg.com/vi/XmDTuNJE-t4/hqdefault.jpg"
+        },
+        {
+            "video_id": "0xJlf39pQ24",
+            "title": "똘끼 리니지클래식 청명한 시리즈 마지막날! 9사이하 11개 갑니다!",
+            "channel_name": "똘끼100%",
+            "category": "Gaming",
+            "duration": "2:05:07",
+            "view_count": "313085",
+            "thumbnail_url": "https://i.ytimg.com/vi/0xJlf39pQ24/hqdefault.jpg"
+        },
+        {
+            "video_id": "77sRWlOTfkA",
+            "title": "Propose",
+            "channel_name": "썸데이(Someday) - Topic",
+            "category": "Music",
+            "duration": "4:17",
+            "view_count": "126884",
+            "thumbnail_url": "https://i.ytimg.com/vi/77sRWlOTfkA/hqdefault.jpg"
         },
         {
             "video_id": "Z29wvdNeyAo",
@@ -232,7 +268,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "21:10",
-            "view_count": "677833",
+            "view_count": "691032",
             "thumbnail_url": "https://i.ytimg.com/vi/Z29wvdNeyAo/hqdefault.jpg"
         },
         {
@@ -241,44 +277,8 @@
             "channel_name": "MEOVV - Topic",
             "category": "Music",
             "duration": "3:08",
-            "view_count": "61097",
+            "view_count": "76838",
             "thumbnail_url": "https://i.ytimg.com/vi/LPhWz3_-gzk/hqdefault.jpg"
-        },
-        {
-            "video_id": "CZDRlnnB3As",
-            "title": "미술관 야간 근무 중 이상현상을 보고합ㄴ..ㅣ..ㄷ..",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "32:03",
-            "view_count": "209352",
-            "thumbnail_url": "https://i.ytimg.com/vi/CZDRlnnB3As/hqdefault.jpg"
-        },
-        {
-            "video_id": "OMw2MhB8Mss",
-            "title": "Someday, Again",
-            "channel_name": "Lim Ga Young - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "213410",
-            "thumbnail_url": "https://i.ytimg.com/vi/OMw2MhB8Mss/hqdefault.jpg"
-        },
-        {
-            "video_id": "0xJlf39pQ24",
-            "title": "똘끼 리니지클래식 청명한 시리즈 마지막날! 9사이하 11개 갑니다!",
-            "channel_name": "똘끼100%",
-            "category": "Gaming",
-            "duration": "2:05:07",
-            "view_count": "302677",
-            "thumbnail_url": "https://i.ytimg.com/vi/0xJlf39pQ24/hqdefault.jpg"
-        },
-        {
-            "video_id": "E88zczV1Al4",
-            "title": "[MV] BUMJIN(범진) - Farewell(잘가라)",
-            "channel_name": "SUPER SOUND Bugs!",
-            "category": "Music",
-            "duration": "3:05",
-            "view_count": "12679",
-            "thumbnail_url": "https://i.ytimg.com/vi/E88zczV1Al4/hqdefault.jpg"
         },
         {
             "video_id": "svH5m_zJzYY",
@@ -286,26 +286,8 @@
             "channel_name": "불도그",
             "category": "Gaming",
             "duration": "11:55:00",
-            "view_count": "466306",
+            "view_count": "464921",
             "thumbnail_url": "https://i.ytimg.com/vi/svH5m_zJzYY/hqdefault.jpg"
-        },
-        {
-            "video_id": "77sRWlOTfkA",
-            "title": "Propose",
-            "channel_name": "썸데이(Someday) - Topic",
-            "category": "Music",
-            "duration": "4:17",
-            "view_count": "115017",
-            "thumbnail_url": "https://i.ytimg.com/vi/77sRWlOTfkA/hqdefault.jpg"
-        },
-        {
-            "video_id": "b67AZALv-UE",
-            "title": "도깨비의세계 LIVE 👾 [26.10.13]",
-            "channel_name": "도깨비의세계",
-            "category": "People & Blogs",
-            "duration": "1:44:44",
-            "view_count": "77927",
-            "thumbnail_url": "https://i.ytimg.com/vi/b67AZALv-UE/hqdefault.jpg"
         },
         {
             "video_id": "S_vYDZEjehM",
@@ -313,26 +295,26 @@
             "channel_name": "Jeon Sang Keun - Topic",
             "category": "Music",
             "duration": "3:45",
-            "view_count": "52055",
+            "view_count": "61517",
             "thumbnail_url": "https://i.ytimg.com/vi/S_vYDZEjehM/hqdefault.jpg"
         },
         {
-            "video_id": "lFCA46lMWKU",
-            "title": "\"평타 3방=원딜 삭제💀\" 악마사냥꾼으로 육식 거북이가 되어버린 \"탑 악사 람머스 전략\"",
-            "channel_name": "전략적죽음",
-            "category": "Gaming",
-            "duration": "28:40",
-            "view_count": "268004",
-            "thumbnail_url": "https://i.ytimg.com/vi/lFCA46lMWKU/hqdefault.jpg"
+            "video_id": "b67AZALv-UE",
+            "title": "도깨비의세계 LIVE 👾 [26.10.13]",
+            "channel_name": "도깨비의세계",
+            "category": "People & Blogs",
+            "duration": "1:44:44",
+            "view_count": "78284",
+            "thumbnail_url": "https://i.ytimg.com/vi/b67AZALv-UE/hqdefault.jpg"
         },
         {
-            "video_id": "HAu_F5NdaIY",
-            "title": "Obsessed with Youth",
-            "channel_name": "Xdinary Heroes - Topic",
+            "video_id": "OMw2MhB8Mss",
+            "title": "Someday, Again",
+            "channel_name": "Lim Ga Young - Topic",
             "category": "Music",
-            "duration": "3:16",
-            "view_count": "100604",
-            "thumbnail_url": "https://i.ytimg.com/vi/HAu_F5NdaIY/hqdefault.jpg"
+            "duration": "3:06",
+            "view_count": "214914",
+            "thumbnail_url": "https://i.ytimg.com/vi/OMw2MhB8Mss/hqdefault.jpg"
         },
         {
             "video_id": "2tFqL_7wLSs",
@@ -340,7 +322,7 @@
             "channel_name": "왈도쿤",
             "category": "Gaming",
             "duration": "17:32",
-            "view_count": "214691",
+            "view_count": "241898",
             "thumbnail_url": "https://i.ytimg.com/vi/2tFqL_7wLSs/hqdefault.jpg"
         },
         {
@@ -349,8 +331,26 @@
             "channel_name": "JONG HO - Topic",
             "category": "Music",
             "duration": "4:37",
-            "view_count": "55859",
+            "view_count": "66125",
             "thumbnail_url": "https://i.ytimg.com/vi/S-SH-j6l5UA/hqdefault.jpg"
+        },
+        {
+            "video_id": "vjdWUHzr_sY",
+            "title": "라꼬중에 최강",
+            "channel_name": "Official dopa",
+            "category": "Gaming",
+            "duration": "27:24",
+            "view_count": "210708",
+            "thumbnail_url": "https://i.ytimg.com/vi/vjdWUHzr_sY/hqdefault.jpg"
+        },
+        {
+            "video_id": "HAu_F5NdaIY",
+            "title": "Obsessed with Youth",
+            "channel_name": "Xdinary Heroes - Topic",
+            "category": "Music",
+            "duration": "3:16",
+            "view_count": "112787",
+            "thumbnail_url": "https://i.ytimg.com/vi/HAu_F5NdaIY/hqdefault.jpg"
         },
         {
             "video_id": "WpZ0eBPzlqk",
@@ -358,7 +358,7 @@
             "channel_name": "정준홍",
             "category": "Gaming",
             "duration": "9:46",
-            "view_count": "162939",
+            "view_count": "175661",
             "thumbnail_url": "https://i.ytimg.com/vi/WpZ0eBPzlqk/hqdefault.jpg"
         },
         {
@@ -367,17 +367,17 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "3:34",
-            "view_count": "2377091",
+            "view_count": "2658020",
             "thumbnail_url": "https://i.ytimg.com/vi/10_1vuZAeP0/hqdefault.jpg"
         },
         {
-            "video_id": "BFfrorhjzqI",
-            "title": "명멸검 주인 찾기",
-            "channel_name": "팔차선 [8LJAYWALKING]",
+            "video_id": "lFCA46lMWKU",
+            "title": "\"평타 3방=원딜 삭제💀\" 악마사냥꾼으로 육식 거북이가 되어버린 \"탑 악사 람머스 전략\"",
+            "channel_name": "전략적죽음",
             "category": "Gaming",
-            "duration": "16:52",
-            "view_count": "188715",
-            "thumbnail_url": "https://i.ytimg.com/vi/BFfrorhjzqI/hqdefault.jpg"
+            "duration": "28:40",
+            "view_count": "272050",
+            "thumbnail_url": "https://i.ytimg.com/vi/lFCA46lMWKU/hqdefault.jpg"
         }
     ]
 }
