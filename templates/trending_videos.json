@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-10-18 23:20:32",
+    "scraped_time": "2026-10-19 02:52:32",
     "videos": [
         {
             "video_id": "rlYOsUfpi3M",
@@ -7,7 +7,7 @@
             "channel_name": "A2O - Topic",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "7663671",
+            "view_count": "7844787",
             "thumbnail_url": "https://i.ytimg.com/vi/rlYOsUfpi3M/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:59",
-            "view_count": "863076",
+            "view_count": "885377",
             "thumbnail_url": "https://i.ytimg.com/vi/LV7t01LnTDA/hqdefault.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "channel_name": "김재원의 즐거운 세상",
             "category": "Gaming",
             "duration": "8:13",
-            "view_count": "966496",
+            "view_count": "994634",
             "thumbnail_url": "https://i.ytimg.com/vi/40J-3gY1Oz0/hqdefault.jpg"
         },
         {
@@ -34,7 +34,7 @@
             "channel_name": "D.O. - Topic",
             "category": "Music",
             "duration": "3:54",
-            "view_count": "499019",
+            "view_count": "514711",
             "thumbnail_url": "https://i.ytimg.com/vi/mzaDWi7mU38/hqdefault.jpg"
         },
         {
@@ -43,26 +43,8 @@
             "channel_name": "Rockstar Games",
             "category": "Gaming",
             "duration": "1:31",
-            "view_count": "41424244",
+            "view_count": "42570109",
             "thumbnail_url": "https://i.ytimg.com/vi/rz1B4B2yBZY/hqdefault.jpg"
-        },
-        {
-            "video_id": "_DcM_Jw4xB8",
-            "title": "공익(훈련소 찍먹)으로 살아남기 [좀비원정대 8화]",
-            "channel_name": "동수칸TV",
-            "category": "Gaming",
-            "duration": "44:54",
-            "view_count": "338290",
-            "thumbnail_url": "https://i.ytimg.com/vi/_DcM_Jw4xB8/hqdefault.jpg"
-        },
-        {
-            "video_id": "F_EGihOgXsg",
-            "title": "Mise en scène",
-            "channel_name": "Epik High - Topic",
-            "category": "Music",
-            "duration": "2:59",
-            "view_count": "1979934",
-            "thumbnail_url": "https://i.ytimg.com/vi/F_EGihOgXsg/hqdefault.jpg"
         },
         {
             "video_id": "HRynkjB7dgc",
@@ -70,7 +52,7 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "29:51",
-            "view_count": "265966",
+            "view_count": "381718",
             "thumbnail_url": "https://i.ytimg.com/vi/HRynkjB7dgc/hqdefault.jpg"
         },
         {
@@ -79,8 +61,26 @@
             "channel_name": "Kim Gyeol - Topic",
             "category": "Music",
             "duration": "3:35",
-            "view_count": "60054",
+            "view_count": "64831",
             "thumbnail_url": "https://i.ytimg.com/vi/wlmQnXVWV5I/hqdefault.jpg"
+        },
+        {
+            "video_id": "_DcM_Jw4xB8",
+            "title": "공익(훈련소 찍먹)으로 살아남기 [좀비원정대 8화]",
+            "channel_name": "동수칸TV",
+            "category": "Gaming",
+            "duration": "44:54",
+            "view_count": "374798",
+            "thumbnail_url": "https://i.ytimg.com/vi/_DcM_Jw4xB8/hqdefault.jpg"
+        },
+        {
+            "video_id": "F_EGihOgXsg",
+            "title": "Mise en scène",
+            "channel_name": "Epik High - Topic",
+            "category": "Music",
+            "duration": "2:59",
+            "view_count": "2004627",
+            "thumbnail_url": "https://i.ytimg.com/vi/F_EGihOgXsg/hqdefault.jpg"
         },
         {
             "video_id": "aslRbI1RIUk",
@@ -88,7 +88,7 @@
             "channel_name": "랄로",
             "category": "Gaming",
             "duration": "35:17",
-            "view_count": "848294",
+            "view_count": "875877",
             "thumbnail_url": "https://i.ytimg.com/vi/aslRbI1RIUk/hqdefault.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "channel_name": "Lee Min Jeong - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "845731",
+            "view_count": "856303",
             "thumbnail_url": "https://i.ytimg.com/vi/u9uw2U-0Emc/hqdefault.jpg"
         },
         {
@@ -106,7 +106,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "36:18",
-            "view_count": "1186951",
+            "view_count": "1237093",
             "thumbnail_url": "https://i.ytimg.com/vi/DJiaa1f1fVk/hqdefault.jpg"
         },
         {
@@ -115,8 +115,26 @@
             "channel_name": "Loco - Topic",
             "category": "Music",
             "duration": "2:44",
-            "view_count": "197291",
+            "view_count": "201717",
             "thumbnail_url": "https://i.ytimg.com/vi/Mx481RQ2VAw/hqdefault.jpg"
+        },
+        {
+            "video_id": "PNRIU205BUI",
+            "title": "\"이상호 맨유 어게인..?\"  트릭두 때문에 미치겠습니다..",
+            "channel_name": "이상호",
+            "category": "Gaming",
+            "duration": "16:06",
+            "view_count": "523300",
+            "thumbnail_url": "https://i.ytimg.com/vi/PNRIU205BUI/hqdefault.jpg"
+        },
+        {
+            "video_id": "pTziJ4RaYnk",
+            "title": "에픽하이 x 다비치 '미장센' Official M/V",
+            "channel_name": "GENIE MUSIC",
+            "category": "Music",
+            "duration": "3:03",
+            "view_count": "1933333",
+            "thumbnail_url": "https://i.ytimg.com/vi/pTziJ4RaYnk/hqdefault.jpg"
         },
         {
             "video_id": "xoSMwt_ewOE",
@@ -128,49 +146,13 @@
             "thumbnail_url": "https://i.ytimg.com/vi/xoSMwt_ewOE/hqdefault.jpg"
         },
         {
-            "video_id": "pTziJ4RaYnk",
-            "title": "에픽하이 x 다비치 '미장센' Official M/V",
-            "channel_name": "GENIE MUSIC",
-            "category": "Music",
-            "duration": "3:03",
-            "view_count": "1900047",
-            "thumbnail_url": "https://i.ytimg.com/vi/pTziJ4RaYnk/hqdefault.jpg"
-        },
-        {
-            "video_id": "PNRIU205BUI",
-            "title": "\"이상호 맨유 어게인..?\"  트릭두 때문에 미치겠습니다..",
-            "channel_name": "이상호",
-            "category": "Gaming",
-            "duration": "16:06",
-            "view_count": "442743",
-            "thumbnail_url": "https://i.ytimg.com/vi/PNRIU205BUI/hqdefault.jpg"
-        },
-        {
             "video_id": "g3ae-lDLg4U",
             "title": "정승환 '보고 싶다' Cover (원곡 : 김범수) | SeungTUDIO",
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "147622",
+            "view_count": "151097",
             "thumbnail_url": "https://i.ytimg.com/vi/g3ae-lDLg4U/hqdefault.jpg"
-        },
-        {
-            "video_id": "26EYdblQHJM",
-            "title": "급여 298 속죄의 합법 맨시티로 팀갈ㅋㅋㅋ",
-            "channel_name": "튜브김민교",
-            "category": "Gaming",
-            "duration": "23:07",
-            "view_count": "524106",
-            "thumbnail_url": "https://i.ytimg.com/vi/26EYdblQHJM/hqdefault.jpg"
-        },
-        {
-            "video_id": "YVN8O_YKBbA",
-            "title": "Next Chapter",
-            "channel_name": "Hearts2Hearts - Topic",
-            "category": "Music",
-            "duration": "2:49",
-            "view_count": "173473",
-            "thumbnail_url": "https://i.ytimg.com/vi/YVN8O_YKBbA/hqdefault.jpg"
         },
         {
             "video_id": "Z3XtBvTuOjE",
@@ -178,8 +160,26 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "46:29",
-            "view_count": "179781",
+            "view_count": "236707",
             "thumbnail_url": "https://i.ytimg.com/vi/Z3XtBvTuOjE/hqdefault.jpg"
+        },
+        {
+            "video_id": "YVN8O_YKBbA",
+            "title": "Next Chapter",
+            "channel_name": "Hearts2Hearts - Topic",
+            "category": "Music",
+            "duration": "2:49",
+            "view_count": "180606",
+            "thumbnail_url": "https://i.ytimg.com/vi/YVN8O_YKBbA/hqdefault.jpg"
+        },
+        {
+            "video_id": "26EYdblQHJM",
+            "title": "급여 298 속죄의 합법 맨시티로 팀갈ㅋㅋㅋ",
+            "channel_name": "튜브김민교",
+            "category": "Gaming",
+            "duration": "23:07",
+            "view_count": "534760",
+            "thumbnail_url": "https://i.ytimg.com/vi/26EYdblQHJM/hqdefault.jpg"
         },
         {
             "video_id": "lBfysK-tSrU",
@@ -187,44 +187,8 @@
             "channel_name": "Kadi Korgi - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "501949",
+            "view_count": "507007",
             "thumbnail_url": "https://i.ytimg.com/vi/lBfysK-tSrU/hqdefault.jpg"
-        },
-        {
-            "video_id": "BP4hbBf7nVU",
-            "title": "이상호한테 양학당한 준밧드가 찾아왔습니다",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "52:07",
-            "view_count": "336912",
-            "thumbnail_url": "https://i.ytimg.com/vi/BP4hbBf7nVU/hqdefault.jpg"
-        },
-        {
-            "video_id": "rxi3m8J_e0o",
-            "title": "bluende",
-            "channel_name": "can't be blue - Topic",
-            "category": "Music",
-            "duration": "3:06",
-            "view_count": "48246",
-            "thumbnail_url": "https://i.ytimg.com/vi/rxi3m8J_e0o/hqdefault.jpg"
-        },
-        {
-            "video_id": "6Gg1kb2jO5k",
-            "title": "그냥 당근 키워서 돈 버는 게 최고인 맵 ㅋㅋㅋㅋㅋ (마인크래프트)",
-            "channel_name": "마플 마인크래프트 채널",
-            "category": "Gaming",
-            "duration": "22:40",
-            "view_count": "274443",
-            "thumbnail_url": "https://i.ytimg.com/vi/6Gg1kb2jO5k/hqdefault.jpg"
-        },
-        {
-            "video_id": "9KcnxA36s04",
-            "title": "expectations",
-            "channel_name": "Olivia Rodrigo - Topic",
-            "category": "Music",
-            "duration": "3:44",
-            "view_count": "1274886",
-            "thumbnail_url": "https://i.ytimg.com/vi/9KcnxA36s04/hqdefault.jpg"
         },
         {
             "video_id": "-HHzWDdUhag",
@@ -232,8 +196,44 @@
             "channel_name": "잠뜰 TV",
             "category": "Gaming",
             "duration": "28:11",
-            "view_count": "148865",
+            "view_count": "179298",
             "thumbnail_url": "https://i.ytimg.com/vi/-HHzWDdUhag/hqdefault.jpg"
+        },
+        {
+            "video_id": "rxi3m8J_e0o",
+            "title": "bluende",
+            "channel_name": "can't be blue - Topic",
+            "category": "Music",
+            "duration": "3:06",
+            "view_count": "50589",
+            "thumbnail_url": "https://i.ytimg.com/vi/rxi3m8J_e0o/hqdefault.jpg"
+        },
+        {
+            "video_id": "BP4hbBf7nVU",
+            "title": "이상호한테 양학당한 준밧드가 찾아왔습니다",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "52:07",
+            "view_count": "344795",
+            "thumbnail_url": "https://i.ytimg.com/vi/BP4hbBf7nVU/hqdefault.jpg"
+        },
+        {
+            "video_id": "9KcnxA36s04",
+            "title": "expectations",
+            "channel_name": "Olivia Rodrigo - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "1316294",
+            "thumbnail_url": "https://i.ytimg.com/vi/9KcnxA36s04/hqdefault.jpg"
+        },
+        {
+            "video_id": "6Gg1kb2jO5k",
+            "title": "그냥 당근 키워서 돈 버는 게 최고인 맵 ㅋㅋㅋㅋㅋ (마인크래프트)",
+            "channel_name": "마플 마인크래프트 채널",
+            "category": "Gaming",
+            "duration": "22:40",
+            "view_count": "282057",
+            "thumbnail_url": "https://i.ytimg.com/vi/6Gg1kb2jO5k/hqdefault.jpg"
         },
         {
             "video_id": "xMmEaa9e9-A",
@@ -241,17 +241,17 @@
             "channel_name": "1theK Originals - 원더케이 오리지널",
             "category": "Entertainment",
             "duration": "3:20",
-            "view_count": "502363",
+            "view_count": "515522",
             "thumbnail_url": "https://i.ytimg.com/vi/xMmEaa9e9-A/hqdefault.jpg"
         },
         {
-            "video_id": "gqTs9W5KO3c",
-            "title": "이 의자에 앉으면 절대 못 나갑니다",
-            "channel_name": "라스 마인크래프트",
+            "video_id": "8d2Rzohv8r8",
+            "title": "시온 체험기",
+            "channel_name": "PAKA",
             "category": "Gaming",
-            "duration": "19:29",
-            "view_count": "138777",
-            "thumbnail_url": "https://i.ytimg.com/vi/gqTs9W5KO3c/hqdefault.jpg"
+            "duration": "24:18",
+            "view_count": "281865",
+            "thumbnail_url": "https://i.ytimg.com/vi/8d2Rzohv8r8/hqdefault.jpg"
         },
         {
             "video_id": "zQCC6gtvbxI",
@@ -259,7 +259,7 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:50",
-            "view_count": "364279",
+            "view_count": "364383",
             "thumbnail_url": "https://i.ytimg.com/vi/zQCC6gtvbxI/hqdefault.jpg"
         },
         {
@@ -268,7 +268,7 @@
             "channel_name": "정글선생 진 영준",
             "category": "Gaming",
             "duration": "16:23",
-            "view_count": "227190",
+            "view_count": "245323",
             "thumbnail_url": "https://i.ytimg.com/vi/bNk-WF1x8UM/hqdefault.jpg"
         },
         {
@@ -277,17 +277,17 @@
             "channel_name": "THEBLACKLABEL",
             "category": "Music",
             "duration": "3:12",
-            "view_count": "17149631",
+            "view_count": "17215235",
             "thumbnail_url": "https://i.ytimg.com/vi/8aKR2Ho--5k/hqdefault.jpg"
         },
         {
-            "video_id": "8d2Rzohv8r8",
-            "title": "시온 체험기",
-            "channel_name": "PAKA",
+            "video_id": "gqTs9W5KO3c",
+            "title": "이 의자에 앉으면 절대 못 나갑니다",
+            "channel_name": "라스 마인크래프트",
             "category": "Gaming",
-            "duration": "24:18",
-            "view_count": "192085",
-            "thumbnail_url": "https://i.ytimg.com/vi/8d2Rzohv8r8/hqdefault.jpg"
+            "duration": "19:29",
+            "view_count": "148238",
+            "thumbnail_url": "https://i.ytimg.com/vi/gqTs9W5KO3c/hqdefault.jpg"
         },
         {
             "video_id": "R9h2h6Fs0cY",
@@ -295,7 +295,7 @@
             "channel_name": "&TEAM",
             "category": "People & Blogs",
             "duration": "2:53",
-            "view_count": "58054",
+            "view_count": "120947",
             "thumbnail_url": "https://i.ytimg.com/vi/R9h2h6Fs0cY/hqdefault.jpg"
         },
         {
@@ -304,7 +304,7 @@
             "channel_name": "큐앙",
             "category": "Gaming",
             "duration": "4:58:55",
-            "view_count": "250653",
+            "view_count": "270383",
             "thumbnail_url": "https://i.ytimg.com/vi/M5M-eAFmLsY/hqdefault.jpg"
         },
         {
@@ -313,17 +313,17 @@
             "channel_name": "NCT WISH - Topic",
             "category": "Music",
             "duration": "3:05",
-            "view_count": "886923",
+            "view_count": "897308",
             "thumbnail_url": "https://i.ytimg.com/vi/TNC6ZdLylXM/hqdefault.jpg"
         },
         {
-            "video_id": "lNtAOI1A5l4",
-            "title": "짭타포스는 아직 끝나지 않았다 [팡이요,  메이플스토리]",
-            "channel_name": "팡이요",
+            "video_id": "dGIMQ_Ri97U",
+            "title": "5만 원짜리 벤틀리",
+            "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
-            "duration": "12:57",
-            "view_count": "375607",
-            "thumbnail_url": "https://i.ytimg.com/vi/lNtAOI1A5l4/hqdefault.jpg"
+            "duration": "18:47",
+            "view_count": "319228",
+            "thumbnail_url": "https://i.ytimg.com/vi/dGIMQ_Ri97U/hqdefault.jpg"
         },
         {
             "video_id": "TBmE7m0yEwY",
@@ -331,7 +331,7 @@
             "channel_name": "PLAVE 플레이브",
             "category": "Entertainment",
             "duration": "3:39",
-            "view_count": "14582253",
+            "view_count": "14834702",
             "thumbnail_url": "https://i.ytimg.com/vi/TBmE7m0yEwY/hqdefault.jpg"
         },
         {
@@ -340,7 +340,7 @@
             "channel_name": "김왼팔",
             "category": "Gaming",
             "duration": "20:46",
-            "view_count": "104861",
+            "view_count": "142251",
             "thumbnail_url": "https://i.ytimg.com/vi/K3mto83nDz0/hqdefault.jpg"
         },
         {
@@ -349,26 +349,17 @@
             "channel_name": "Release - Topic",
             "category": "Music",
             "duration": "3:49",
-            "view_count": "807004",
+            "view_count": "808541",
             "thumbnail_url": "https://i.ytimg.com/vi/HkAnt-t26tg/hqdefault.jpg"
         },
         {
-            "video_id": "dGIMQ_Ri97U",
-            "title": "5만 원짜리 벤틀리",
-            "channel_name": "괴물쥐 유튜브",
+            "video_id": "lNtAOI1A5l4",
+            "title": "짭타포스는 아직 끝나지 않았다 [팡이요,  메이플스토리]",
+            "channel_name": "팡이요",
             "category": "Gaming",
-            "duration": "18:47",
-            "view_count": "229417",
-            "thumbnail_url": "https://i.ytimg.com/vi/dGIMQ_Ri97U/hqdefault.jpg"
-        },
-        {
-            "video_id": "Lz_AYzbbI-Y",
-            "title": "In Yeonhui-dong",
-            "channel_name": "Zion.T - Topic",
-            "category": "Music",
-            "duration": "3:42",
-            "view_count": "79585",
-            "thumbnail_url": "https://i.ytimg.com/vi/Lz_AYzbbI-Y/hqdefault.jpg"
+            "duration": "12:57",
+            "view_count": "382051",
+            "thumbnail_url": "https://i.ytimg.com/vi/lNtAOI1A5l4/hqdefault.jpg"
         },
         {
             "video_id": "xeVqeBF0i-M",
@@ -376,8 +367,17 @@
             "channel_name": "저라뎃 JUSTLIKETHAT",
             "category": "Gaming",
             "duration": "54:07",
-            "view_count": "85183",
+            "view_count": "122530",
             "thumbnail_url": "https://i.ytimg.com/vi/xeVqeBF0i-M/hqdefault.jpg"
+        },
+        {
+            "video_id": "ixLArf-vO7c",
+            "title": "지금까지 만난 상대 중에 역대급으로 성격 더러운 상대를 만나버렸습니다;;",
+            "channel_name": "[ALTUBE] 김성현TV",
+            "category": "Gaming",
+            "duration": "58:24",
+            "view_count": "173926",
+            "thumbnail_url": "https://i.ytimg.com/vi/ixLArf-vO7c/hqdefault.jpg"
         }
     ]
 }
