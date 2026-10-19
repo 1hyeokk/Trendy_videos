@@ -1,5 +1,5 @@
 {
-    "scraped_time": "2026-10-19 07:51:25",
+    "scraped_time": "2026-10-19 09:54:48",
     "videos": [
         {
             "video_id": "rlYOsUfpi3M",
@@ -7,7 +7,7 @@
             "channel_name": "A2O - Topic",
             "category": "Music",
             "duration": "3:28",
-            "view_count": "7964601",
+            "view_count": "8143867",
             "thumbnail_url": "https://i.ytimg.com/vi/rlYOsUfpi3M/hqdefault.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "channel_name": "JYP Entertainment",
             "category": "Music",
             "duration": "1:47",
-            "view_count": "297150",
+            "view_count": "356821",
             "thumbnail_url": "https://i.ytimg.com/vi/UIwWaChgPno/hqdefault.jpg"
         },
         {
@@ -25,17 +25,17 @@
             "channel_name": "근가놈",
             "category": "Gaming",
             "duration": "29:51",
-            "view_count": "448378",
+            "view_count": "461257",
             "thumbnail_url": "https://i.ytimg.com/vi/HRynkjB7dgc/hqdefault.jpg"
         },
         {
-            "video_id": "mzaDWi7mU38",
-            "title": "Every Moment Of You",
-            "channel_name": "D.O. - Topic",
+            "video_id": "wlmQnXVWV5I",
+            "title": "Hide and Seek",
+            "channel_name": "Kim Gyeol - Topic",
             "category": "Music",
-            "duration": "3:54",
-            "view_count": "526629",
-            "thumbnail_url": "https://i.ytimg.com/vi/mzaDWi7mU38/hqdefault.jpg"
+            "duration": "3:35",
+            "view_count": "88089",
+            "thumbnail_url": "https://i.ytimg.com/vi/wlmQnXVWV5I/hqdefault.jpg"
         },
         {
             "video_id": "LV7t01LnTDA",
@@ -43,7 +43,7 @@
             "channel_name": "Netflix Korea 넷플릭스 코리아",
             "category": "Entertainment",
             "duration": "1:59",
-            "view_count": "897413",
+            "view_count": "898618",
             "thumbnail_url": "https://i.ytimg.com/vi/LV7t01LnTDA/hqdefault.jpg"
         },
         {
@@ -52,17 +52,17 @@
             "channel_name": "동수칸TV",
             "category": "Gaming",
             "duration": "44:54",
-            "view_count": "403779",
+            "view_count": "410264",
             "thumbnail_url": "https://i.ytimg.com/vi/_DcM_Jw4xB8/hqdefault.jpg"
         },
         {
-            "video_id": "wlmQnXVWV5I",
-            "title": "Hide and Seek",
-            "channel_name": "Kim Gyeol - Topic",
+            "video_id": "mzaDWi7mU38",
+            "title": "Every Moment Of You",
+            "channel_name": "D.O. - Topic",
             "category": "Music",
-            "duration": "3:35",
-            "view_count": "79573",
-            "thumbnail_url": "https://i.ytimg.com/vi/wlmQnXVWV5I/hqdefault.jpg"
+            "duration": "3:54",
+            "view_count": "538531",
+            "thumbnail_url": "https://i.ytimg.com/vi/mzaDWi7mU38/hqdefault.jpg"
         },
         {
             "video_id": "40J-3gY1Oz0",
@@ -70,7 +70,7 @@
             "channel_name": "김재원의 즐거운 세상",
             "category": "Gaming",
             "duration": "8:13",
-            "view_count": "1008133",
+            "view_count": "1014202",
             "thumbnail_url": "https://i.ytimg.com/vi/40J-3gY1Oz0/hqdefault.jpg"
         },
         {
@@ -79,7 +79,7 @@
             "channel_name": "Epik High - Topic",
             "category": "Music",
             "duration": "2:59",
-            "view_count": "2021838",
+            "view_count": "2058821",
             "thumbnail_url": "https://i.ytimg.com/vi/F_EGihOgXsg/hqdefault.jpg"
         },
         {
@@ -88,7 +88,7 @@
             "channel_name": "이상호",
             "category": "Gaming",
             "duration": "16:06",
-            "view_count": "572668",
+            "view_count": "584410",
             "thumbnail_url": "https://i.ytimg.com/vi/PNRIU205BUI/hqdefault.jpg"
         },
         {
@@ -97,26 +97,8 @@
             "channel_name": "Lee Min Jeong - Topic",
             "category": "Music",
             "duration": "3:19",
-            "view_count": "863104",
+            "view_count": "866246",
             "thumbnail_url": "https://i.ytimg.com/vi/u9uw2U-0Emc/hqdefault.jpg"
-        },
-        {
-            "video_id": "aslRbI1RIUk",
-            "title": "차에 타봐",
-            "channel_name": "랄로",
-            "category": "Gaming",
-            "duration": "35:17",
-            "view_count": "897804",
-            "thumbnail_url": "https://i.ytimg.com/vi/aslRbI1RIUk/hqdefault.jpg"
-        },
-        {
-            "video_id": "Mx481RQ2VAw",
-            "title": "TATA",
-            "channel_name": "Loco - Topic",
-            "category": "Music",
-            "duration": "2:44",
-            "view_count": "204942",
-            "thumbnail_url": "https://i.ytimg.com/vi/Mx481RQ2VAw/hqdefault.jpg"
         },
         {
             "video_id": "Z3XtBvTuOjE",
@@ -124,8 +106,26 @@
             "channel_name": "말왕TV",
             "category": "Gaming",
             "duration": "46:29",
-            "view_count": "265129",
+            "view_count": "271970",
             "thumbnail_url": "https://i.ytimg.com/vi/Z3XtBvTuOjE/hqdefault.jpg"
+        },
+        {
+            "video_id": "Mx481RQ2VAw",
+            "title": "TATA",
+            "channel_name": "Loco - Topic",
+            "category": "Music",
+            "duration": "2:44",
+            "view_count": "209443",
+            "thumbnail_url": "https://i.ytimg.com/vi/Mx481RQ2VAw/hqdefault.jpg"
+        },
+        {
+            "video_id": "aslRbI1RIUk",
+            "title": "차에 타봐",
+            "channel_name": "랄로",
+            "category": "Gaming",
+            "duration": "35:17",
+            "view_count": "901686",
+            "thumbnail_url": "https://i.ytimg.com/vi/aslRbI1RIUk/hqdefault.jpg"
         },
         {
             "video_id": "pTziJ4RaYnk",
@@ -133,7 +133,7 @@
             "channel_name": "GENIE MUSIC",
             "category": "Music",
             "duration": "3:03",
-            "view_count": "1955084",
+            "view_count": "1966085",
             "thumbnail_url": "https://i.ytimg.com/vi/pTziJ4RaYnk/hqdefault.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "channel_name": "혜안",
             "category": "Gaming",
             "duration": "36:18",
-            "view_count": "1266861",
+            "view_count": "1277743",
             "thumbnail_url": "https://i.ytimg.com/vi/DJiaa1f1fVk/hqdefault.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "channel_name": "정승환 Jung Seung Hwan",
             "category": "Music",
             "duration": "4:01",
-            "view_count": "153200",
+            "view_count": "154251",
             "thumbnail_url": "https://i.ytimg.com/vi/g3ae-lDLg4U/hqdefault.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "channel_name": "발로란트 챔피언스 투어",
             "category": "Gaming",
             "duration": "5:51:07",
-            "view_count": "452390",
+            "view_count": "453143",
             "thumbnail_url": "https://i.ytimg.com/vi/xoSMwt_ewOE/hqdefault.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "channel_name": "Hearts2Hearts - Topic",
             "category": "Music",
             "duration": "2:49",
-            "view_count": "186590",
+            "view_count": "190764",
             "thumbnail_url": "https://i.ytimg.com/vi/YVN8O_YKBbA/hqdefault.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "channel_name": "튜브김민교",
             "category": "Gaming",
             "duration": "23:07",
-            "view_count": "543639",
+            "view_count": "546098",
             "thumbnail_url": "https://i.ytimg.com/vi/26EYdblQHJM/hqdefault.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "channel_name": "Kadi Korgi - Topic",
             "category": "Music",
             "duration": "2:57",
-            "view_count": "510219",
+            "view_count": "511805",
             "thumbnail_url": "https://i.ytimg.com/vi/lBfysK-tSrU/hqdefault.jpg"
         },
         {
@@ -196,8 +196,26 @@
             "channel_name": "PAKA",
             "category": "Gaming",
             "duration": "24:18",
-            "view_count": "348926",
+            "view_count": "362014",
             "thumbnail_url": "https://i.ytimg.com/vi/8d2Rzohv8r8/hqdefault.jpg"
+        },
+        {
+            "video_id": "ImFK1WXEiMM",
+            "title": "Talking to the Ceiling",
+            "channel_name": "Bục Music - Topic",
+            "category": "Music",
+            "duration": "3:07",
+            "view_count": "14900",
+            "thumbnail_url": "https://i.ytimg.com/vi/ImFK1WXEiMM/hqdefault.jpg"
+        },
+        {
+            "video_id": "-HHzWDdUhag",
+            "title": "길 가다 상어 주우면 어떻게 할래?",
+            "channel_name": "잠뜰 TV",
+            "category": "Gaming",
+            "duration": "28:11",
+            "view_count": "200824",
+            "thumbnail_url": "https://i.ytimg.com/vi/-HHzWDdUhag/hqdefault.jpg"
         },
         {
             "video_id": "rxi3m8J_e0o",
@@ -205,7 +223,7 @@
             "channel_name": "can't be blue - Topic",
             "category": "Music",
             "duration": "3:06",
-            "view_count": "52229",
+            "view_count": "54612",
             "thumbnail_url": "https://i.ytimg.com/vi/rxi3m8J_e0o/hqdefault.jpg"
         },
         {
@@ -214,35 +232,17 @@
             "channel_name": "괴물쥐 유튜브",
             "category": "Gaming",
             "duration": "18:47",
-            "view_count": "379681",
+            "view_count": "390766",
             "thumbnail_url": "https://i.ytimg.com/vi/dGIMQ_Ri97U/hqdefault.jpg"
         },
         {
-            "video_id": "9KcnxA36s04",
-            "title": "expectations",
-            "channel_name": "Olivia Rodrigo - Topic",
+            "video_id": "1Xfl85dXu8A",
+            "title": "It's You",
+            "channel_name": "VALORANT - Topic",
             "category": "Music",
-            "duration": "3:44",
-            "view_count": "1404622",
-            "thumbnail_url": "https://i.ytimg.com/vi/9KcnxA36s04/hqdefault.jpg"
-        },
-        {
-            "video_id": "-HHzWDdUhag",
-            "title": "길 가다 상어 주우면 어떻게 할래?",
-            "channel_name": "잠뜰 TV",
-            "category": "Gaming",
-            "duration": "28:11",
-            "view_count": "192141",
-            "thumbnail_url": "https://i.ytimg.com/vi/-HHzWDdUhag/hqdefault.jpg"
-        },
-        {
-            "video_id": "xMmEaa9e9-A",
-            "title": "NCT WISH (엔시티위시) - I SPY | 1theKILLPO | 원더킬포 | 퍼포먼스 | Performance  | 시온 리쿠 유우시 재희 료 사쿠야",
-            "channel_name": "1theK Originals - 원더케이 오리지널",
-            "category": "Entertainment",
-            "duration": "3:20",
-            "view_count": "527378",
-            "thumbnail_url": "https://i.ytimg.com/vi/xMmEaa9e9-A/hqdefault.jpg"
+            "duration": "2:27",
+            "view_count": "135354",
+            "thumbnail_url": "https://i.ytimg.com/vi/1Xfl85dXu8A/hqdefault.jpg"
         },
         {
             "video_id": "ixLArf-vO7c",
@@ -250,17 +250,17 @@
             "channel_name": "[ALTUBE] 김성현TV",
             "category": "Gaming",
             "duration": "58:24",
-            "view_count": "218754",
+            "view_count": "226903",
             "thumbnail_url": "https://i.ytimg.com/vi/ixLArf-vO7c/hqdefault.jpg"
         },
         {
-            "video_id": "zQCC6gtvbxI",
-            "title": "너랑 걷던 길은 아직 돌아서 가",
-            "channel_name": "Release - Topic",
+            "video_id": "GsalOMTpqvw",
+            "title": "Never Another Goodbye",
+            "channel_name": "An Nyeong - Topic",
             "category": "Music",
-            "duration": "3:50",
-            "view_count": "364452",
-            "thumbnail_url": "https://i.ytimg.com/vi/zQCC6gtvbxI/hqdefault.jpg"
+            "duration": "3:56",
+            "view_count": "4804",
+            "thumbnail_url": "https://i.ytimg.com/vi/GsalOMTpqvw/hqdefault.jpg"
         },
         {
             "video_id": "bNk-WF1x8UM",
@@ -268,44 +268,17 @@
             "channel_name": "정글선생 진 영준",
             "category": "Gaming",
             "duration": "16:23",
-            "view_count": "260599",
+            "view_count": "263820",
             "thumbnail_url": "https://i.ytimg.com/vi/bNk-WF1x8UM/hqdefault.jpg"
         },
         {
-            "video_id": "DK_dr_n2rM4",
-            "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART (Korean Ver.)' MV",
-            "channel_name": "SMTOWN",
+            "video_id": "sfb5jffpsi8",
+            "title": "Shout Myself",
+            "channel_name": "Park Yeseung - Topic",
             "category": "Music",
-            "duration": "3:25",
-            "view_count": "163303",
-            "thumbnail_url": "https://i.ytimg.com/vi/DK_dr_n2rM4/hqdefault.jpg"
-        },
-        {
-            "video_id": "BP4hbBf7nVU",
-            "title": "이상호한테 양학당한 준밧드가 찾아왔습니다",
-            "channel_name": "클리드",
-            "category": "Gaming",
-            "duration": "52:07",
-            "view_count": "350762",
-            "thumbnail_url": "https://i.ytimg.com/vi/BP4hbBf7nVU/hqdefault.jpg"
-        },
-        {
-            "video_id": "8aKR2Ho--5k",
-            "title": "MEOVV(미야오) - ‘GO HARD’ M/V",
-            "channel_name": "THEBLACKLABEL",
-            "category": "Music",
-            "duration": "3:12",
-            "view_count": "17356915",
-            "thumbnail_url": "https://i.ytimg.com/vi/8aKR2Ho--5k/hqdefault.jpg"
-        },
-        {
-            "video_id": "xeVqeBF0i-M",
-            "title": "래퍼 언에듀가 내 밸런스라고?｜저라뎃 VS 언에듀 체임버 대전",
-            "channel_name": "저라뎃 JUSTLIKETHAT",
-            "category": "Gaming",
-            "duration": "54:07",
-            "view_count": "147551",
-            "thumbnail_url": "https://i.ytimg.com/vi/xeVqeBF0i-M/hqdefault.jpg"
+            "duration": "3:56",
+            "view_count": "24832",
+            "thumbnail_url": "https://i.ytimg.com/vi/sfb5jffpsi8/hqdefault.jpg"
         },
         {
             "video_id": "1hV4kBfoWOQ",
@@ -313,8 +286,53 @@
             "channel_name": "유봉훈",
             "category": "Gaming",
             "duration": "14:39",
-            "view_count": "251777",
+            "view_count": "263672",
             "thumbnail_url": "https://i.ytimg.com/vi/1hV4kBfoWOQ/hqdefault.jpg"
+        },
+        {
+            "video_id": "9KcnxA36s04",
+            "title": "expectations",
+            "channel_name": "Olivia Rodrigo - Topic",
+            "category": "Music",
+            "duration": "3:44",
+            "view_count": "1431528",
+            "thumbnail_url": "https://i.ytimg.com/vi/9KcnxA36s04/hqdefault.jpg"
+        },
+        {
+            "video_id": "xeVqeBF0i-M",
+            "title": "래퍼 언에듀가 내 밸런스라고?｜저라뎃 VS 언에듀 체임버 대전",
+            "channel_name": "저라뎃 JUSTLIKETHAT",
+            "category": "Gaming",
+            "duration": "54:07",
+            "view_count": "152258",
+            "thumbnail_url": "https://i.ytimg.com/vi/xeVqeBF0i-M/hqdefault.jpg"
+        },
+        {
+            "video_id": "DK_dr_n2rM4",
+            "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART (Korean Ver.)' MV",
+            "channel_name": "SMTOWN",
+            "category": "Music",
+            "duration": "3:25",
+            "view_count": "194060",
+            "thumbnail_url": "https://i.ytimg.com/vi/DK_dr_n2rM4/hqdefault.jpg"
+        },
+        {
+            "video_id": "zTW65OEnFlk",
+            "title": "결국 봉인 해제한 오뀨",
+            "channel_name": "클리드",
+            "category": "Gaming",
+            "duration": "43:49",
+            "view_count": "169340",
+            "thumbnail_url": "https://i.ytimg.com/vi/zTW65OEnFlk/hqdefault.jpg"
+        },
+        {
+            "video_id": "nkHZeOcY-T8",
+            "title": "Blunt words... this terrible love",
+            "channel_name": "Baek Yeseul - Topic",
+            "category": "Music",
+            "duration": "4:15",
+            "view_count": "272366",
+            "thumbnail_url": "https://i.ytimg.com/vi/nkHZeOcY-T8/hqdefault.jpg"
         },
         {
             "video_id": "iSlWWiEXANw",
@@ -322,8 +340,17 @@
             "channel_name": "전략적죽음",
             "category": "Gaming",
             "duration": "20:30",
-            "view_count": "216854",
+            "view_count": "224485",
             "thumbnail_url": "https://i.ytimg.com/vi/iSlWWiEXANw/hqdefault.jpg"
+        },
+        {
+            "video_id": "ZeNwq8Y6ZGA",
+            "title": "I never knew (Feat. LOBO, XIO)",
+            "channel_name": "Makewin - Topic",
+            "category": "Music",
+            "duration": "2:17",
+            "view_count": "163917",
+            "thumbnail_url": "https://i.ytimg.com/vi/ZeNwq8Y6ZGA/hqdefault.jpg"
         },
         {
             "video_id": "6Gg1kb2jO5k",
@@ -331,17 +358,17 @@
             "channel_name": "마플 마인크래프트 채널",
             "category": "Gaming",
             "duration": "22:40",
-            "view_count": "288020",
+            "view_count": "290082",
             "thumbnail_url": "https://i.ytimg.com/vi/6Gg1kb2jO5k/hqdefault.jpg"
         },
         {
-            "video_id": "gqTs9W5KO3c",
-            "title": "이 의자에 앉으면 절대 못 나갑니다",
-            "channel_name": "라스 마인크래프트",
-            "category": "Gaming",
-            "duration": "19:29",
-            "view_count": "151789",
-            "thumbnail_url": "https://i.ytimg.com/vi/gqTs9W5KO3c/hqdefault.jpg"
+            "video_id": "xMmEaa9e9-A",
+            "title": "NCT WISH (엔시티위시) - I SPY | 1theKILLPO | 원더킬포 | 퍼포먼스 | Performance  | 시온 리쿠 유우시 재희 료 사쿠야",
+            "channel_name": "1theK Originals - 원더케이 오리지널",
+            "category": "Entertainment",
+            "duration": "3:20",
+            "view_count": "533428",
+            "thumbnail_url": "https://i.ytimg.com/vi/xMmEaa9e9-A/hqdefault.jpg"
         },
         {
             "video_id": "K3mto83nDz0",
@@ -349,35 +376,8 @@
             "channel_name": "김왼팔",
             "category": "Gaming",
             "duration": "20:46",
-            "view_count": "154731",
+            "view_count": "166268",
             "thumbnail_url": "https://i.ytimg.com/vi/K3mto83nDz0/hqdefault.jpg"
-        },
-        {
-            "video_id": "M5M-eAFmLsY",
-            "title": "콜 오브 듀티: 모던 워페어 4 (2026) 캠페인 풀버전 | 한국어더빙 [ 4K ]",
-            "channel_name": "큐앙",
-            "category": "Gaming",
-            "duration": "4:58:55",
-            "view_count": "285811",
-            "thumbnail_url": "https://i.ytimg.com/vi/M5M-eAFmLsY/hqdefault.jpg"
-        },
-        {
-            "video_id": "cDaLldrSjx8",
-            "title": "박살난 로스트아크 경제 BM 문제 있습니다 - 포셔의 로스트아크 설명회",
-            "channel_name": "포피셜",
-            "category": "Gaming",
-            "duration": "34:07",
-            "view_count": "207056",
-            "thumbnail_url": "https://i.ytimg.com/vi/cDaLldrSjx8/hqdefault.jpg"
-        },
-        {
-            "video_id": "nQyn6LH2JfM",
-            "title": "261018 지렁이게임 (여포플레이)",
-            "channel_name": "멘파",
-            "category": "Gaming",
-            "duration": "8:42:01",
-            "view_count": "485706",
-            "thumbnail_url": "https://i.ytimg.com/vi/nQyn6LH2JfM/hqdefault.jpg"
         }
     ]
 }
